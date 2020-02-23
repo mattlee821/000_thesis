@@ -1,0 +1,50 @@
+`r if(knitr:::is_latex_output()) '\\appendix'`
+
+`r if(!knitr:::is_latex_output()) '# (APPENDIX) Appendix {-}'` 
+
+<!--
+If you feel it necessary to include an appendix, it goes here.
+-->
+
+
+# 
+
+This first appendix includes all of the R chunks of code that were hidden throughout the document (using the `include = FALSE` chunk tag) to help with readibility and/or setup.  
+
+**In the main Rmd file**  
+
+This thesis was created using R Markdown. The template used here I have adapted from the R Markdown template here (<https://github.com/ismayc/thesisdown>), which is adapted from the Markdown template (<https://github.com/matlipson/phd_thesis_markdown>), which is an extension of Tom Pollards original Markdown for thesis work (<https://github.com/tompollard/phd_thesis_markdown>).  
+
+
+
+#
+
+Appendix B contains all of the code used throughout the thesis that is hidden from the reader using the `include = FALSE` chunk tag. This code is not necessary for reading, but is included here for completeness and transparency, and consists mainly of package installs and code to produce tables and figures included in the text.
+
+To create the finished thesis file in R Markdown an index.Rmd file is used to compile multiple .Rmd files together. The index.Rmd file contains the YAML header, along with the following R code that installs and loads the neccessary packages to compile the thesis: 
+```{r ref.label=c("include_packages"), results='hide', echo = TRUE}
+```
+
+
+<!--
+To include hidden R code used in Markdown files run the below code. Use =c("references", "for", "your", "code") to include multiple sections of hidden code.
+```{r ref.label="include_packages", results='hide', echo = TRUE}
+```
+-->
+
+## Code from Chapter \@ref(chapter1)
+
+## Code from Chapter \@ref(chapter2)
+
+## Code from Chapter \@ref(chapter3)
+
+## Code from Chapter \@ref(chapter4)
+
+## Code from Chapter \@ref(chapter5)
+
+## Code from Chapter \@ref(chapter6)
+
+## Code from Chapter \@ref(chapter7)
+
+## Code from Chapter \@ref(chapter8)
+

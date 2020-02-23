@@ -1,0 +1,22 @@
+book_filename: "thesis"
+chapter_name: "Chapter "
+delete_merged_file: true
+
+rmd_files: ["index.Rmd",
+            "01-chapter1.Rmd", 
+            "02-chapter2.Rmd", 
+            "03-chapter3.Rmd", 
+            "04-chapter4.Rmd", 
+            "05-chapter5.Rmd", 
+            "06-chapter6.Rmd", 
+            "07-chapter7.Rmd", 
+            "08-chapter8.Rmd",
+            "09-chapter9.Rmd",
+            "10-conclusion.Rmd", 
+            "11-appendix.Rmd", 
+            "99-references.Rmd"]
+
+download: [["thesis.pdf", "PDF"], 
+          ["thesis.epub", "EPUB"],
+          ["thesis.docx", "Word"]]
+

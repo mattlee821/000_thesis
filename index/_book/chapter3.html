@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>3 Instrumentation | thesis.utf8</title>
+  <meta name="description" content="" />
+  <meta name="generator" content="bookdown 0.16 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="3 Instrumentation | thesis.utf8" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="3 Instrumentation | thesis.utf8" />
+  
+  
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="chapter2.html"/>
+<link rel="next" href="chapter4.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/elevate-section-attrs-2.0/elevate-section-attrs.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<script src="libs/kePrint-0.0.1/kePrint.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./"></a></li>
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Preface</a>
+<ul>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#abstract"><i class="fa fa-check"></i>Abstract</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#acknowledgements"><i class="fa fa-check"></i>Acknowledgements</a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="chapter1.html"><a href="chapter1.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
+<li><a href="chapter1.html#increased-adiposity-and-associtions-with-disease"><em>Increased adiposity and associtions with disease</em></a></li>
+<li class="chapter" data-level="1.1" data-path="chapter1.html"><a href="chapter1.html#background"><i class="fa fa-check"></i><b>1.1</b> Background</a></li>
+<li class="chapter" data-level="1.2" data-path="chapter1.html"><a href="chapter1.html#adipose-tissue"><i class="fa fa-check"></i><b>1.2</b> Adipose tissue</a>
+<ul>
+<li class="chapter" data-level="1.2.1" data-path="chapter1.html"><a href="chapter1.html#energy-fat-storage"><i class="fa fa-check"></i><b>1.2.1</b> Energy (fat) storage</a></li>
+<li class="chapter" data-level="1.2.2" data-path="chapter1.html"><a href="chapter1.html#insulation-and-cushioning"><i class="fa fa-check"></i><b>1.2.2</b> Insulation and cushioning</a></li>
+<li class="chapter" data-level="1.2.3" data-path="chapter1.html"><a href="chapter1.html#signalling"><i class="fa fa-check"></i><b>1.2.3</b> Signalling</a></li>
+<li class="chapter" data-level="1.2.4" data-path="chapter1.html"><a href="chapter1.html#genetics"><i class="fa fa-check"></i><b>1.2.4</b> Genetics</a></li>
+</ul></li>
+<li class="chapter" data-level="1.3" data-path="chapter1.html"><a href="chapter1.html#BMI-disease"><i class="fa fa-check"></i><b>1.3</b> BMI and disease</a></li>
+<li class="chapter" data-level="1.4" data-path="chapter1.html"><a href="chapter1.html#additional-measures"><i class="fa fa-check"></i><b>1.4</b> Additional measures</a>
+<ul>
+<li class="chapter" data-level="1.4.1" data-path="chapter1.html"><a href="chapter1.html#whr"><i class="fa fa-check"></i><b>1.4.1</b> WHR</a></li>
+<li class="chapter" data-level="1.4.2" data-path="chapter1.html"><a href="chapter1.html#bf"><i class="fa fa-check"></i><b>1.4.2</b> BF%</a></li>
+</ul></li>
+<li class="chapter" data-level="1.5" data-path="chapter1.html"><a href="chapter1.html#why-does-more-fat-mean-more-disease"><i class="fa fa-check"></i><b>1.5</b> Why does more fat mean more disease?!?!?!</a>
+<ul>
+<li class="chapter" data-level="1.5.1" data-path="chapter1.html"><a href="chapter1.html#causal-analysis-set-up-sr-and-future-work"><i class="fa fa-check"></i><b>1.5.1</b> Causal analysis (set up SR and future work)</a></li>
+</ul></li>
+<li class="chapter" data-level="1.6" data-path="chapter1.html"><a href="chapter1.html#metabolites-are-gr8"><i class="fa fa-check"></i><b>1.6</b> metabolites are gr8</a></li>
+<li class="chapter" data-level="1.7" data-path="chapter1.html"><a href="chapter1.html#aims"><i class="fa fa-check"></i><b>1.7</b> Aims</a></li>
+<li class="chapter" data-level="1.8" data-path="chapter1.html"><a href="chapter1.html#objectives"><i class="fa fa-check"></i><b>1.8</b> Objectives</a></li>
+<li class="chapter" data-level="1.9" data-path="chapter1.html"><a href="chapter1.html#notes-for-writing"><i class="fa fa-check"></i><b>1.9</b> Notes for writing</a></li>
+<li class="chapter" data-level="1.10" data-path="chapter1.html"><a href="chapter1.html#conclusion"><i class="fa fa-check"></i><b>1.10</b> Conclusion</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="chapter2.html"><a href="chapter2.html"><i class="fa fa-check"></i><b>2</b> Systematic review</a></li>
+<li class="chapter" data-level="3" data-path="chapter3.html"><a href="chapter3.html"><i class="fa fa-check"></i><b>3</b> Instrumentation</a>
+<ul>
+<li><a href="chapter3.html#instrumenting-measures-of-increased-adiposity"><em>Instrumenting measures of increased adiposity</em></a>
+<ul>
+<li class="chapter" data-level="3.0.1" data-path="chapter3.html"><a href="chapter3.html#correlation-of-measures-of-increased-adiposity"><i class="fa fa-check"></i><b>3.0.1</b> Correlation of measures of increased adiposity</a></li>
+</ul></li>
+<li class="chapter" data-level="3.1" data-path="chapter3.html"><a href="chapter3.html#supplementary-information"><i class="fa fa-check"></i><b>3.1</b> Supplementary Information</a>
+<ul>
+<li class="chapter" data-level="3.1.1" data-path="chapter3.html"><a href="chapter3.html#supp-alspac"><i class="fa fa-check"></i><b>3.1.1</b> ALSPAC Overview</a></li>
+<li class="chapter" data-level="3.1.2" data-path="chapter3.html"><a href="chapter3.html#supp-biobank"><i class="fa fa-check"></i><b>3.1.2</b> UK Biobank Overview</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="chapter4.html"><a href="chapter4.html"><i class="fa fa-check"></i><b>4</b> Observational analysis of metabolites</a></li>
+<li class="chapter" data-level="5" data-path="chapter5.html"><a href="chapter5.html"><i class="fa fa-check"></i><b>5</b> Mendelian randomization analysis: stage 1</a></li>
+<li class="chapter" data-level="6" data-path="chapter6.html"><a href="chapter6.html"><i class="fa fa-check"></i><b>6</b> Data visualisation</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="chapter6.html"><a href="chapter6.html#asbtract"><i class="fa fa-check"></i><b>6.1</b> Asbtract</a>
+<ul>
+<li class="chapter" data-level="6.1.1" data-path="chapter6.html"><a href="chapter6.html#objective"><i class="fa fa-check"></i><b>6.1.1</b> Objective</a></li>
+<li class="chapter" data-level="6.1.2" data-path="chapter6.html"><a href="chapter6.html#methods"><i class="fa fa-check"></i><b>6.1.2</b> Methods</a></li>
+<li class="chapter" data-level="6.1.3" data-path="chapter6.html"><a href="chapter6.html#results"><i class="fa fa-check"></i><b>6.1.3</b> Results</a></li>
+<li class="chapter" data-level="6.1.4" data-path="chapter6.html"><a href="chapter6.html#conclusion-1"><i class="fa fa-check"></i><b>6.1.4</b> Conclusion</a></li>
+<li class="chapter" data-level="6.1.5" data-path="chapter6.html"><a href="chapter6.html#keywords"><i class="fa fa-check"></i><b>6.1.5</b> Keywords</a></li>
+</ul></li>
+<li class="chapter" data-level="6.2" data-path="chapter6.html"><a href="chapter6.html#introduction"><i class="fa fa-check"></i><b>6.2</b> Introduction</a></li>
+<li class="chapter" data-level="6.3" data-path="chapter6.html"><a href="chapter6.html#methods-1"><i class="fa fa-check"></i><b>6.3</b> Methods</a></li>
+<li class="chapter" data-level="6.4" data-path="chapter6.html"><a href="chapter6.html#results-1"><i class="fa fa-check"></i><b>6.4</b> Results</a></li>
+<li class="chapter" data-level="6.5" data-path="chapter6.html"><a href="chapter6.html#discussion"><i class="fa fa-check"></i><b>6.5</b> Discussion</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="chapter7.html"><a href="chapter7.html"><i class="fa fa-check"></i><b>7</b> Clustering metabolites</a></li>
+<li class="chapter" data-level="8" data-path="chapter8.html"><a href="chapter8.html"><i class="fa fa-check"></i><b>8</b> Rules for instrumenting clusters</a></li>
+<li class="chapter" data-level="9" data-path="chapter9.html"><a href="chapter9.html"><i class="fa fa-check"></i><b>9</b> Mendelian randomization analysis: stage 2</a></li>
+<li class="chapter" data-level="" data-path="conclusion-2.html"><a href="conclusion-2.html"><i class="fa fa-check"></i>Conclusion</a></li>
+<li class="chapter" data-level="" data-path="appendix-appendix.html"><a href="appendix-appendix.html"><i class="fa fa-check"></i>(APPENDIX) Appendix</a></li>
+<li class="chapter" data-level="10" data-path="section.html"><a href="section.html"><i class="fa fa-check"></i><b>10</b> </a></li>
+<li class="chapter" data-level="11" data-path="section-1.html"><a href="section-1.html"><i class="fa fa-check"></i><b>11</b> </a>
+<ul>
+<li class="chapter" data-level="11.1" data-path="section-1.html"><a href="section-1.html#code-from-chapter-refchapter1"><i class="fa fa-check"></i><b>11.1</b> Code from Chapter @ref(chapter1)</a></li>
+<li class="chapter" data-level="11.2" data-path="section-1.html"><a href="section-1.html#code-from-chapter-refchapter2"><i class="fa fa-check"></i><b>11.2</b> Code from Chapter @ref(chapter2)</a></li>
+<li class="chapter" data-level="11.3" data-path="section-1.html"><a href="section-1.html#code-from-chapter-refchapter3"><i class="fa fa-check"></i><b>11.3</b> Code from Chapter @ref(chapter3)</a></li>
+<li class="chapter" data-level="11.4" data-path="section-1.html"><a href="section-1.html#code-from-chapter-refchapter4"><i class="fa fa-check"></i><b>11.4</b> Code from Chapter @ref(chapter4)</a></li>
+<li class="chapter" data-level="11.5" data-path="section-1.html"><a href="section-1.html#code-from-chapter-refchapter5"><i class="fa fa-check"></i><b>11.5</b> Code from Chapter @ref(chapter5)</a></li>
+<li class="chapter" data-level="11.6" data-path="section-1.html"><a href="section-1.html#code-from-chapter-refchapter6"><i class="fa fa-check"></i><b>11.6</b> Code from Chapter @ref(chapter6)</a></li>
+<li class="chapter" data-level="11.7" data-path="section-1.html"><a href="section-1.html#code-from-chapter-refchapter7"><i class="fa fa-check"></i><b>11.7</b> Code from Chapter @ref(chapter7)</a></li>
+<li class="chapter" data-level="11.8" data-path="section-1.html"><a href="section-1.html#code-from-chapter-refchapter8"><i class="fa fa-check"></i><b>11.8</b> Code from Chapter @ref(chapter8)</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./"></a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="chapter3" class="section level1">
+<h1 number="3"><span class="header-section-number">3</span> Instrumentation</h1>
+<style>
+body {
+text-align: justify}
+</style>
+<div id="instrumenting-measures-of-increased-adiposity" class="section level2">
+<h2 class="unnumbered" number=""><em>Instrumenting measures of increased adiposity</em></h2>
+<p>Although the prevailing thought is that BMI, WHR, and BF% are all highly correlated there is little recent evidence from studies investigating all three measures simultaneously in the same populations. Evidence mainly comes from a study by Pouliot et al. (1994)<span class="citation"><sup><a href="#ref-Pouliot1994" role="doc-biblioref">58</a></sup></span>; for men they found corrleatins of: BMI and BF% = 0.85, BMI and WHR = 0.78, WHR and BF% = 0.70; women: BMI and BF% = 0.96, BMI and WHR = 0.58, WHR and BF% = 0.55. See Chapter <a href="chapter3.html#chapter3"><strong>??</strong></a></p>
+<p>Given the high correlation between BMI, WHR, and BF% (at least sex specifically in the case of WHR and BF% - See Chapter <a href="chapter3.html#chapter3"><strong>??</strong></a>) it may be likely that a study reporting an association between BMI and a disease will also show a similar association with WHR and/or BF%. We looked for review articles for BMI and multiple diseases and looked for studies reporting BMI and WHR and/or BF% to identify if studies found similar associations across multiple measures of increased adipsoity. Table <a href="chapter1.html#tab:literature-associations">2</a> shows studies identifying an association between BMI and a disease and studies which show similar associations with WHR and BF%. A summary of the studies which discuss underlying aetiology of the associations is also presented. <br></p>
+<p>As a result, we first set out to investigate the correlation between BMI, WHR, and BF% in two independent population based studies: the Avon Longitudinal Study of Parents and Children<span class="citation"><sup><a href="#ref-Fraser2013" role="doc-biblioref">70</a>,<a href="#ref-Boyd2013" role="doc-biblioref">71</a></sup></span>(ALSPAC) and UK Biobank<span class="citation"><sup><a href="#ref-Sudlow2015" role="doc-biblioref">53</a>,<a href="#ref-Collins2012" role="doc-biblioref">72</a>,<a href="#ref-Allen2014" role="doc-biblioref">73</a></sup></span>. <br></p>
+<div id="correlation-of-measures-of-increased-adiposity" class="section level3">
+<h3 number="3.0.1"><span class="header-section-number">3.0.1</span> Correlation of measures of increased adiposity</h3>
+<div id="data" class="section level4">
+<h4 number="3.0.1.1"><span class="header-section-number">3.0.1.1</span> Data</h4>
+<p>The Avon Longitudinal Study of Parents and Children (ALSPAC) is a large prospective cohort study that recruited 14,541 pregnancies in the former Avon Health Authority area in South West England, with expected delivery dates between the 1st April 1991 and the 31st December 1992<span class="citation"><sup><a href="#ref-Fraser2013" role="doc-biblioref">70</a>,<a href="#ref-Boyd2013" role="doc-biblioref">71</a></sup></span> (See <a href="chapter3.html#supp-alspac">Supplementary Information, ALSPAC Overview</a>, for full details). We used data from the Focus clinics for mothers and fathers. We used the clinic with the highest response rate for each of mothers and fathers, this was clinic 1 for both. For Focus on Mothers 1 (FOM1) data was collected between December 2008 and July 2011 with a total of 4,832 women attending clinic. Because mother may have enrolled multiple pregnancies the total number of cases in the release data is 4,978 mothers; the mean age of the mothers was 47.89 (4.497 SD). For Focus on Fathers 1 (FOF1) data was collected between September 2001 and February 2013 and a total of 2,001 fathers attended the clinic. Multiple pregnanices resulted in a total number of cases in the release data as 2,034; the mean age of fathers was 53.3 (5.427 SD). Prior to data analysis we removed duplicate cases of mothers and fathers using <code>R</code><span class="citation"><sup><a href="#ref-r2019" role="doc-biblioref">74</a></sup></span>(version 3.5.3) resulting in 4,831 and 2,001 women and men for analysis. <br></p>
+<p>In FOM1 and FOF1 BMI was derived from <code>weight (kg) / height (m^2^)</code>; WHR was derived from <code>wasit circumference (cm) / hip circumference (cm)</code>; BF% was obtained from a full-body scan using a narrow fan beam dual-emission X-ray absorptiometry (DXA; Lunar Prodigy) scanner and derived from <code>total fat mass / (total fat free mass + total fat mass) * 100</code>. Data was avaliable on 4,632 women and 1,826 men (Table <a href="chapter3.html#tab:study-characteristics">3</a>). <br></p>
+<p>UK Biobank is a prospective study of ~500,000 individuals aged 37-79 recruited from 2006-2010 who were registered with the Natonal Health Service in the United Kingdom and lived close to one of 22 assessment centres. Participants provided a range of information at a single assessment (See <a href="chapter3.html#supp-biobank">Supplementary Information, UK Biobank Overview</a>)<span class="citation"><sup><a href="#ref-Sudlow2015" role="doc-biblioref">53</a>,<a href="#ref-Collins2012" role="doc-biblioref">72</a>,<a href="#ref-Allen2014" role="doc-biblioref">73</a></sup></span>. We used the final release of data () which included information on XXX women and XXX men. Before analysis we removed all individuals…… this resulted in XXX and XXX women and men for analysis. <br></p>
+<p>In UK Biobank BMI was derived from <code>weight (kg) / height (m^2^)</code>; WHR was derived from <code>wasit circumference (cm) / hip circumference (cm)</code>; BF% was obtained ……………………. Data was avaliable on 4,632 women and 1,826 men (Table <a href="chapter3.html#tab:study-characteristics">3</a>). <br></p>
+<table>
+<caption>
+<span id="tab:study-characteristics">Table 3: </span>Study characteristics for measures of increased adiposity in ALSPAC and UK Biobank.
+</caption>
+<thead>
+<tr>
+<th style="border-bottom:hidden" colspan="1">
+</th>
+<th style="border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
+<div style="border-bottom: 1px solid #ddd; padding-bottom: 5px; ">
+ALSPAC
+</div>
+</th>
+<th style="border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
+<div style="border-bottom: 1px solid #ddd; padding-bottom: 5px; ">
+UK Biobank
+</div>
+</th>
+</tr>
+<tr>
+<th style="text-align:center;">
+</th>
+<th style="text-align:center;">
+Women
+</th>
+<th style="text-align:center;">
+Men
+</th>
+<th style="text-align:center;">
+Women
+</th>
+<th style="text-align:center;">
+Men
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center;">
+BMI
+</td>
+<td style="text-align:center;">
+4810
+</td>
+<td style="text-align:center;">
+1976
+</td>
+<td style="text-align:center;">
+1
+</td>
+<td style="text-align:center;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+WHR
+</td>
+<td style="text-align:center;">
+4809
+</td>
+<td style="text-align:center;">
+1985
+</td>
+<td style="text-align:center;">
+2
+</td>
+<td style="text-align:center;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+BF%
+</td>
+<td style="text-align:center;">
+4649
+</td>
+<td style="text-align:center;">
+1839
+</td>
+<td style="text-align:center;">
+3
+</td>
+<td style="text-align:center;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+Total
+</td>
+<td style="text-align:center;">
+4632
+</td>
+<td style="text-align:center;">
+1826
+</td>
+<td style="text-align:center;">
+4
+</td>
+<td style="text-align:center;">
+4
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<em>Table <a href="chapter3.html#tab:study-characteristics">3</a> shows the number of individuals from the Avon Longitudinal Study of Parents and Children (ALSPAC) and UK Biobank with available data for each measure of increased adiposity after removing individuals with missing data for each trait. Total shows the number of individuals with a measure for all three measures of increased adiposity; we performed correlation analysis on this group. BMI = body mass idnex; WHR = waist hip ratio; BF% = body fat percent; Total = the number of individuals for each category with inforation on all three measures and after exclusions.</em> <br></p>
+</div>
+<div id="statistical-analysis" class="section level4">
+<h4 number="3.0.1.2"><span class="header-section-number">3.0.1.2</span> Statistical analysis</h4>
+<p>To investigate the correlation between BMI, WHR, and BF% we performed a Pearson’s product-moment correlation in <code>R</code><span class="citation"><sup><a href="#ref-r2019" role="doc-biblioref">74</a></sup></span>(version 3.5.3) for each of ALSPAC women, men, sex combined, and UK Biobank women, men, and sex combined. All results are reported in Table <a href="chapter3.html#tab:correlation-results">4</a> and shown in Figure <a href="chapter3.html#fig:correlation-results-figure-alspac">6</a> and <a href="#fig:correlation-results-figure-ukbiobank"><strong>??</strong></a>. <br></p>
+<table>
+<caption>
+<span id="tab:correlation-results">Table 4: </span>Correlation results for measures of increased adiposity in ALSPAC and UK Biobank.
+</caption>
+<thead>
+<tr>
+<th style="border-bottom:hidden" colspan="1">
+</th>
+<th style="border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
+<div style="border-bottom: 1px solid #ddd; padding-bottom: 5px; ">
+Women
+</div>
+</th>
+<th style="border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
+<div style="border-bottom: 1px solid #ddd; padding-bottom: 5px; ">
+Men
+</div>
+</th>
+<th style="border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
+<div style="border-bottom: 1px solid #ddd; padding-bottom: 5px; ">
+Combined
+</div>
+</th>
+</tr>
+<tr>
+<th style="text-align:center;">
+</th>
+<th style="text-align:center;">
+R
+</th>
+<th style="text-align:center;">
+CI
+</th>
+<th style="text-align:center;">
+R
+</th>
+<th style="text-align:center;">
+CI
+</th>
+<th style="text-align:center;">
+R
+</th>
+<th style="text-align:center;">
+CI
+</th>
+</tr>
+</thead>
+<tbody>
+<tr grouplength="6">
+<td colspan="7" style="border-bottom: 1px solid;">
+<strong>ALSPAC</strong>
+</td>
+</tr>
+<tr>
+<td style="text-align:center; padding-left: 2em;" indentlevel="1">
+BMI &amp; WHR
+</td>
+<td style="text-align:center;">
+0.48
+</td>
+<td style="text-align:center;">
+0.46 – 0.50
+</td>
+<td style="text-align:center;">
+0.63
+</td>
+<td style="text-align:center;">
+0.60 – 0.66
+</td>
+<td style="text-align:center;">
+0.42
+</td>
+<td style="text-align:center;">
+0.40 – 0.44
+</td>
+</tr>
+<tr>
+<td style="text-align:center; padding-left: 2em;" indentlevel="1">
+BMI &amp; BF%
+</td>
+<td style="text-align:center;">
+0.81
+</td>
+<td style="text-align:center;">
+0.80 – 0.82
+</td>
+<td style="text-align:center;">
+0.77
+</td>
+<td style="text-align:center;">
+0.75 – 0.79
+</td>
+<td style="text-align:center;">
+0.65
+</td>
+<td style="text-align:center;">
+0.63 – 0.66
+</td>
+</tr>
+<tr>
+<td style="text-align:center; padding-left: 2em;" indentlevel="1">
+WHR &amp; BF%
+</td>
+<td style="text-align:center;">
+0.36
+</td>
+<td style="text-align:center;">
+0.33 – 0.38
+</td>
+<td style="text-align:center;">
+0.65
+</td>
+<td style="text-align:center;">
+0.63 – 0.68
+</td>
+<td style="text-align:center;">
+-0.09
+</td>
+<td style="text-align:center;">
+-0.06 – -0.11
+</td>
+</tr>
+<tr grouplength="3">
+<td colspan="7" style="border-bottom: 1px solid;">
+<strong>UK Biobank</strong>
+</td>
+</tr>
+<tr>
+<td style="text-align:center; padding-left: 4em;" indentlevel="2">
+BMI &amp; WHR
+</td>
+<td style="text-align:center;">
+1.00
+</td>
+<td style="text-align:center;">
+1
+</td>
+<td style="text-align:center;">
+1.00
+</td>
+<td style="text-align:center;">
+1
+</td>
+<td style="text-align:center;">
+1.00
+</td>
+<td style="text-align:center;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:center; padding-left: 4em;" indentlevel="2">
+BMI &amp; BF%
+</td>
+<td style="text-align:center;">
+2.00
+</td>
+<td style="text-align:center;">
+2
+</td>
+<td style="text-align:center;">
+2.00
+</td>
+<td style="text-align:center;">
+2
+</td>
+<td style="text-align:center;">
+2.00
+</td>
+<td style="text-align:center;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:center; padding-left: 4em;" indentlevel="2">
+WHR &amp; BF%
+</td>
+<td style="text-align:center;">
+3.00
+</td>
+<td style="text-align:center;">
+3
+</td>
+<td style="text-align:center;">
+3.00
+</td>
+<td style="text-align:center;">
+3
+</td>
+<td style="text-align:center;">
+3.00
+</td>
+<td style="text-align:center;">
+3
+</td>
+</tr>
+</tbody>
+</table>
+<em>Table <a href="chapter3.html#tab:correlation-results">4</a> shows the Pearson’s product-moment correlation estimates (R) and associated 95% confidence interval (CI) for each combination of BMI, WHR, and BF% seperated by sex and data source. Combined = sex combined analysis; ALSPAC = Avon Longitudinal Study of Parents and Children; R = Pearson’s product-moment correaltion estimate; CI = 95% confidence interval for the correlation estimate. All correlation results reporte a p-value &lt; 2.2 x 10<sup>-16</sup> except for: ALSPAC sex combined WHR &amp; BF% (p-value = 5.197 x 10<sup>-12</sup>),……………… </em> <br>
+
+<div class="figure" style="text-align: center"><span id="fig:correlation-results-figure-alspac"></span>
+<img src="data/chapter1/correlation_alspac.png" alt="Scater plots of ALSPAC individuals data on measures of increased adiposity" width="100%" />
+<p class="caption">
+Figure 6: Scater plots of ALSPAC individuals data on measures of increased adiposity
+</p>
+</div>
+<p><em>Figure <a href="chapter3.html#fig:correlation-results-figure-alspac">6</a> shows scatter plots for ALSPAC women (top), men (middle) and combined (bottom) data on BMI and WHR (left), BMI and BF% (centre), and WHR and BF% (right). A linear model line with 95% confidence interval is shown along with the Pearson’s product-moment correalation (R) and associated 95% confidence intervals (95% CI) and p-values at the top of each scatter. BMI = body mass idnex; WHR = waist hip ratio; BF% = body fat percent. All correlation results report a p-value &lt; 2.2 x 10<sup>-16</sup> except for ALSPAC sex combined WHR &amp; BF% (p-value = 5.197 x 10<sup>-12</sup>).</em> <br>
+
+
+</p>
+<p><em>Figure <a href="#fig:correlation-results-figure-ukbiobank"><strong>??</strong></a> shows scatter plots for UK Biobank women (top), men (middle) and combined (bottom) data on BMI and WHR (left), BMI and BF% (centre), and WHR and BF% (right). A linear model line with 95% confidence interval is shown along with the Pearson’s product-moment correalation (R) and associated 95% confidence intervals (95% CI) and p-values at the top of each scatter. BMI = body mass idnex; WHR = waist hip ratio; BF% = body fat percent. All correlation results report a p-value……………….</em> <br>
+
+
+</p>
+<p>In ALSPAC our results show the highest correlations between BMI and BF% for both men (95% CI = 0.75 – 0.79) and women (95% CI = 0.80 – 0.82), with similarly high correaltion for sex combined (95% CI = 0.63 – 0.66).</p>
+<p>Our measure of DXA derived measure of BF% in ALSPAC is likely a more accurate quantification of BF% than Pouliot et al. (1994)<span class="citation"><sup><a href="#ref-Pouliot1994" role="doc-biblioref">58</a></sup></span> who derived BF% using hydrostatic weighing and an estimation equation<span class="citation"><sup><a href="#ref-SIRI1956" role="doc-biblioref">75</a></sup></span>. Differences in estimates from ALSPAC and Pouliot et al. (1994)<span class="citation"><sup><a href="#ref-Pouliot1994" role="doc-biblioref">58</a></sup></span> may also be a result of sample sizes with only 70 women and 81 men in Pouliot et al. (1994)<span class="citation"><sup><a href="#ref-Pouliot1994" role="doc-biblioref">58</a></sup></span>, with 66 and 22.5 times more women and men available for analysis in ALSPAC. <br></p>
+<p>For UK Biobank correlation estimates are……….. . <br></p>
+<p>ALSPAC
+men women combined
+BMI and WHR = 0.60-0.66 0.46-0.50 0.40-0.44
+BMI and BF% = 0.75-0.79 0.80-0.82 0.63-0.66
+WHR and BF% = 0.63-0.68 0.33-0.38 -0.06- -0.11</p>
+<p>UK Biobank
+men women combined
+BMI and WHR =<br />
+BMI and BF% =
+WHR and BF% =</p>
+<p>Pouliot et al. (1994)<span class="citation"><sup><a href="#ref-Pouliot1994" role="doc-biblioref">58</a></sup></span>
+men women
+BMI and BF% = 0.85 0.96
+BMI and WHR = 0.78 0.58
+WHR and BF% = 0.70 0.55</p>
+</div>
+</div>
+</div>
+<div id="supplementary-information" class="section level2">
+<h2 number="3.1"><span class="header-section-number">3.1</span> Supplementary Information</h2>
+<div id="supp-alspac" class="section level3">
+<h3 number="3.1.1"><span class="header-section-number">3.1.1</span> ALSPAC Overview</h3>
+<p>Pregnant women resident in Avon, UK with expected dates of delivery 1st April 1991 to 31st December 1992 were invited to take part in the study. The initial number of pregnancies enrolled is 14,541 (for these at least one questionnaire has been returned or a “Children in Focus” clinic had been attended by 19/07/99). Of these initial pregnancies, there was a total of 14,676 foetuses, resulting in 14,062 live births and 13,988 children who were alive at 1 year of age. When the oldest children were approximately 7 years of age, an attempt was made to bolster the initial sample with eligible cases who had failed to join the study originally. As a result, when considering variables collected from the age of seven onwards (and potentially abstracted from obstetric notes) there are data available for more than the 14,541 pregnancies mentioned above. The number of new pregnancies not in the initial sample (known as Phase I enrolment) that are currently represented on the built files and reflecting enrolment status at the age of 24 is 913 (456, 262 and 195 recruited during Phases II, III and IV respectively), resulting in an additional 913 children being enrolled. The phases of enrolment are described in more detail in the cohort profile paper and its update (see footnote 4 below). The total sample size for analyses using any data collected after the age of seven is therefore 15,454 pregnancies, resulting in 15,589 foetuses. Of these 14,901 were alive at 1 year of age. A 10% sample of the ALSPAC cohort, known as the Children in Focus (CiF) group, attended clinics at the University of Bristol at various time intervals between 4 to 61 months of age. The CiF group were chosen at random from the last 6 months of ALSPAC births (1432 families attended at least one clinic). Excluded were those mothers who had moved out of the area or were lost to follow-up, and those partaking in another study of infant development in Avon. <br></p>
+<p>The study website <a href="http://www.bristol.ac.uk/alspac/">http://www.bristol.ac.uk/alspac/</a> contains details of all the data that is available through a fully searchable data dictionary and variable search tool <a href="http://www.bristol.ac.uk/alspac/researchers/our-data/">http://www.bristol.ac.uk/alspac/researchers/our-data/</a>. Ethical approval for the study was obtained from the ALSPAC Ethics and Law Committee and the Local Research Ethics Committees <a href="http://www.bristol.ac.uk/alspac/researchers/research-ethics/">http://www.bristol.ac.uk/alspac/researchers/research-ethics/</a>. Informed consent for the use of data collected via questionnaire and clinics was obtained from participants following recommendations of the ALSPAC Ethics and Law Committee at the time. Full details of the ALSPAC consent procedures are available on the study website <a href="http://www.bristol.ac.uk/alspac/researchers/research-ethics/">http://www.bristol.ac.uk/alspac/researchers/research-ethics/</a>. <br></p>
+</div>
+<div id="supp-biobank" class="section level3">
+<h3 number="3.1.2"><span class="header-section-number">3.1.2</span> UK Biobank Overview</h3>
+<p>This research has been conducted using the UK Biobank Resource under <em>Application Number 16391</em>.</p>
+
+</div>
+</div>
+</div>
+<h3>References</h3>
+<div id="refs" class="references">
+<div id="ref-Sudlow2015">
+<p>53. Sudlow, C. <em>et al.</em> UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age. <em>PLOS Medicine</em> <strong>12</strong>, e1001779 (2015).</p>
+</div>
+<div id="ref-Pouliot1994">
+<p>58. Pouliot, M.-C. <em>et al.</em> Waist circumference and abdominal sagittal diameter: Best simple anthropometric indexes of abdominal visceral adipose tissue accumulation and related cardiovascular risk in men and women. <em>The American Journal of Cardiology</em> <strong>73</strong>, 460–468 (1994).</p>
+</div>
+<div id="ref-Fraser2013">
+<p>70. Fraser, A. <em>et al.</em> Cohort Profile: the Avon Longitudinal Study of Parents and Children: ALSPAC mothers cohort. <em>International journal of epidemiology</em> <strong>42</strong>, 97–110 (2013).</p>
+</div>
+<div id="ref-Boyd2013">
+<p>71. Boyd, A. <em>et al.</em> Cohort Profile: the ’children of the 90s’–the index offspring of the Avon Longitudinal Study of Parents and Children. <em>International journal of epidemiology</em> <strong>42</strong>, 111–127 (2013).</p>
+</div>
+<div id="ref-Collins2012">
+<p>72. Collins, R. What makes UK Biobank special? <em>The Lancet</em> <strong>379</strong>, 1173–1174 (2012).</p>
+</div>
+<div id="ref-Allen2014">
+<p>73. Allen, N. E., Sudlow, C., Peakman, T. &amp; Collins, R. UK Biobank Data: Come and Get It. <em>Science Translational Medicine</em> <strong>6</strong>, 224ed4 LP–224ed4 (2014).</p>
+</div>
+<div id="ref-r2019">
+<p>74. R Core Team. R: A Language and Environment for Statistical Computing. <em>R Foundation for Statistical Computing, Vienna, Austria</em> https://www.R–project.org (2019).</p>
+</div>
+<div id="ref-SIRI1956">
+<p>75. SIRI, W. E. The Gross Composition of the Body1 1The author’s investigations were supported by a contract between the AEC and the University of California, Berkeley. in (eds. LAWRENCE, J. H., TOBIAS, C. A. B. T. A. in B. &amp; Physics, M.) <strong>4</strong>, 239–280 (Elsevier, 1956).</p>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="chapter2.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="chapter4.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": [["thesis.pdf", "PDF"], ["thesis.epub", "EPUB"], ["thesis.docx", "Word"]],
+"toc": {
+"collapse": "section"
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>

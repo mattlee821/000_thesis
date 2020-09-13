@@ -1,0 +1,195 @@
+---
+output: html_document
+bibliography: bib/library.bib
+csl: csl/nature.csl
+space_betwee_paragraphs: true
+fig_caption: true
+always_allow_html: yes
+link-citations: true
+---
+
+```{r include=FALSE}
+# word count = 
+doc.type <- knitr::opts_knit$get('rmarkdown.pandoc.to') # this will tell the .Rmd file what output you are knitting to (word, pdf, html) so that you cna use if else statements when making tables - html/pdf output tables do not work well in word. For word we need to use the 'flextable' packaged to make tables.
+## packages
+library(dplyr)
+library(kableExtra)
+library(flextable)
+```
+
+# Instrumentation {#chapter3}
+
+<style>
+body {
+text-align: justify}
+</style>
+
+## *Instrumenting measures of increased adiposity* {-}
+
+
+Although the prevailing thought is that BMI, WHR, and BF% are all highly correlated there is little recent evidence from studies investigating all three measures simultaneously in the same populations. Evidence mainly comes from a study by Pouliot et al. (1994)[@Pouliot1994]; for men they found corrleatins of: BMI and BF% = 0.85, BMI and WHR = 0.78, WHR and BF% = 0.70; women: BMI and BF% = 0.96, BMI and WHR = 0.58, WHR and BF% = 0.55. See Chapter \@ref(chapter3)
+
+
+Given the high correlation between BMI, WHR, and BF% (at least sex specifically in the case of WHR and BF% - See Chapter \@ref(chapter3)) it may be likely that a study reporting an association between BMI and a disease will also show a similar association with WHR and/or BF%. We looked for review articles for BMI and multiple diseases and looked for studies reporting BMI and WHR and/or BF% to identify if studies found similar associations across multiple measures of increased adipsoity. Table \@ref(tab:literature-associations) shows studies identifying an association between BMI and a disease and studies which show similar associations with WHR and BF%. A summary of the studies which discuss underlying aetiology of the associations is also presented. <br>
+
+
+As a result, we first set out to investigate the correlation between BMI, WHR, and BF% in two independent population based studies: the Avon Longitudinal Study of Parents and Children[@Fraser2013; @Boyd2013](ALSPAC) and UK Biobank[@Collins2012; @Allen2014; @Sudlow2015]. <br>
+
+### Correlation of measures of increased adiposity
+
+#### Data
+
+The Avon Longitudinal Study of Parents and Children (ALSPAC) is a large prospective cohort study that recruited 14,541 pregnancies in the former Avon Health Authority area in South West England, with expected delivery dates between the 1st April 1991 and the 31st December 1992[@Fraser2013; @Boyd2013] (See [Supplementary Information, ALSPAC Overview](#supp-alspac), for full details). We used data from the Focus clinics for mothers and fathers. We used the clinic with the highest response rate for each of mothers and fathers, this was clinic 1 for both. For Focus on Mothers 1 (FOM1) data was collected between December 2008 and July 2011 with a total of 4,832 women attending clinic. Because mother may have enrolled multiple pregnancies the total number of cases in the release data is 4,978 mothers; the mean age of the mothers was 47.89 (4.497 SD). For Focus on Fathers 1 (FOF1) data was collected between September 2001 and February 2013 and a total of 2,001 fathers attended the clinic. Multiple pregnanices resulted in a total number of cases in the release data as 2,034; the mean age of fathers was 53.3 (5.427 SD). Prior to data analysis we removed duplicate cases of mothers and fathers using `R`[@r2019](version 3.5.3) resulting in 4,831 and 2,001 women and men for analysis. <br>
+
+In FOM1 and FOF1 BMI was derived from `weight (kg) / height (m^2^)`; WHR was derived from `wasit circumference (cm) / hip circumference (cm)`; BF% was obtained from a full-body scan using a narrow fan beam dual-emission X-ray absorptiometry (DXA; Lunar Prodigy) scanner and derived from `total fat mass / (total fat free mass + total fat mass) * 100`. Data was avaliable on 4,632 women and 1,826 men (Table \@ref(tab:study-characteristics)). <br>
+
+UK Biobank is a prospective study of ~500,000 individuals aged 37-79 recruited from 2006-2010 who were registered with the Natonal Health Service in the United Kingdom and lived close to one of 22 assessment centres. Participants provided a range of information at a single assessment (See [Supplementary Information, UK Biobank Overview](#supp-biobank))[@Collins2012; @Allen2014; @Sudlow2015]. We used the final release of data () which included information on XXX women and XXX men. Before analysis we removed all individuals...... this resulted in XXX and XXX women and men for analysis. <br>
+
+In UK Biobank BMI was derived from `weight (kg) / height (m^2^)`; WHR was derived from `wasit circumference (cm) / hip circumference (cm)`; BF% was obtained ......................... Data was avaliable on 4,632 women and 1,826 men (Table \@ref(tab:study-characteristics)). <br>
+
+```{r study-characteristics, echo=FALSE}
+if(doc.type == "docx"){
+  # if ouput = word
+  trait <- c("BMI", "WHR", "BF%", "Total")  
+  ALSPAC_women <- c(4810,4809,4649,4632)
+  ALSPAC_men <- c(1976,1985,1839,1826)
+  UKB_women <- c(1,2,3,4)
+  UKB_men <- c(1,2,3,4)
+  
+  data <- data.frame("Trait" = trait, "Women" = ALSPAC_women, "Men" = ALSPAC_men, "Women" = UKB_women, "Men" = UKB_men)
+  
+  x <- flextable(data)
+  x <- set_header_labels(x, Trait = "Trait", Women = "Women", Men = "Men", Women.1 = "Women", Men.1 = "Men")
+  x <- add_header_row(x, values = c("", "ALSPAC", "UK Biobank"), colwidths = c(1,2,2))
+  x <- set_caption(x, "Study characteristics for measures of increased adiposity in ALSPAC and UK Biobank.")
+  x
+  
+} else {
+  trait <- c("BMI", "WHR", "BF%", "Total")  
+  ALSPAC_women <- c(4810,4809,4649,4632)
+  ALSPAC_men <- c(1976,1985,1839,1826)
+  UKB_women <- c(1,2,3,4)
+  UKB_men <- c(1,2,3,4)
+  data <- data.frame("Trait" = trait, "Women" = ALSPAC_women, "Men" = ALSPAC_men, "Women" = UKB_women, "Men" = UKB_men)
+  x <- knitr::kable(
+  (data), align = rep('c'), longtable = TRUE, booktabs = TRUE,
+  col.names = c("", "Women", "Men", "Women", "Men"),
+  caption = 'Study characteristics for measures of increased adiposity in ALSPAC and UK Biobank.')
+  add_header_above(x, c(" " = 1, "ALSPAC" = 2, "UK Biobank" = 2))
+}
+
+```
+\noindent
+*Table \@ref(tab:study-characteristics) shows the number of individuals from the Avon Longitudinal Study of Parents and Children (ALSPAC) and UK Biobank with available data for each measure of increased adiposity after removing individuals with missing data for each trait. Total shows the number of individuals with a measure for all three measures of increased adiposity; we performed correlation analysis on this group. BMI = body mass idnex; WHR = waist hip ratio; BF% = body fat percent; Total = the number of individuals for each category with inforation on all three measures and after exclusions.* <br>
+
+
+#### Statistical analysis
+
+To investigate the correlation between BMI, WHR, and BF% we performed a Pearson's product-moment correlation in `R`[@r2019](version 3.5.3) for each of ALSPAC women, men, sex combined, and UK Biobank women, men, and sex combined. All results are reported in Table \@ref(tab:correlation-results) and shown in Figure \@ref(fig:correlation-results-figure-alspac) and \@ref(fig:correlation-results-figure-ukbiobank). <br>
+
+```{r correlation-results, echo=FALSE}
+if (doc.type == "docx") { 
+  trait <- c("BMI & WHR", "BMI & BF%", "WHR & BF%", "BMI & WHR", "BMI & BF%", "WHR & BF%")  
+    women_r <- c(0.48, 0.81, 0.36, 1, 2, 3)
+    women_ci <- c("0.46 -- 0.50","0.80 -- 0.82","0.33 -- 0.38", 1, 2, 3)
+    men_r <- c(0.63, 0.77, 0.65, 1, 2, 3)
+    men_ci <- c("0.60 -- 0.66", "0.75 -- 0.79", "0.63 -- 0.68", 1, 2, 3)
+    combined_r <- c(0.42, 0.65, -0.09, 1, 2, 3)
+    combined_ci <- c("0.40 -- 0.44", "0.63 -- 0.66", "-0.06 -- -0.11", 1, 2, 3)
+    group <- c("ALSPAC", "ALSPAC", "ALSPAC", "UK Biobank", "UK Biobank", "UK Biobank")
+    
+    data <- data.frame("Trait" = trait, "group" = group,
+                       "R" = women_r, "CI" = women_ci,
+                       "R" = men_r, "CI" = men_ci, 
+                       "R" = combined_r, "CI" = combined_ci)
+    data <- as_grouped_data(data, groups = c("group"))
+    
+    x <- as_flextable(data) %>% 
+      bold(j = 1, i = ~ !is.na(group), bold = TRUE, part = "body") %>% 
+      bold(part = "header", bold = TRUE ) %>% 
+      width(width = 1.5)
+    x <- set_header_labels(x, R = "R", CI = "CI", R.1 = "R", CI.1 = "CI", R.2 = "R", CI.2 = "CI")
+    x <- set_caption(x, "Correlation results for measures of increased adiposity in ALSPAC and UK Biobank.")
+    x
+    
+  } else { 
+    trait <- c("BMI & WHR", "BMI & BF%", "WHR & BF%", "BMI & WHR", "BMI & BF%", "WHR & BF%")  
+    women_r <- c(0.48, 0.81, 0.36, 1, 2, 3)
+    women_ci <- c("0.46 -- 0.50","0.80 -- 0.82","0.33 -- 0.38", 1, 2, 3)
+    men_r <- c(0.63, 0.77, 0.65, 1, 2, 3)
+    men_ci <- c("0.60 -- 0.66", "0.75 -- 0.79", "0.63 -- 0.68", 1, 2, 3)
+    combined_r <- c(0.42, 0.65, -0.09, 1, 2, 3)
+    combined_ci <- c("0.40 -- 0.44", "0.63 -- 0.66", "-0.06 -- -0.11", 1, 2, 3)
+    
+    data <- data.frame("Trait" = trait, 
+                       "R" = women_r, "95% CI" = women_ci,
+                       "R" = men_r, "95% CI" = men_ci, 
+                       "R" = combined_r, "95% CI" = combined_ci)
+    
+    x <- knitr::kable((data), align = rep('c',6), longtable = TRUE, booktabs = TRUE,
+                      col.names = c("", "R", "CI", "R", "CI", "R", "CI"),
+                      caption = 'Correlation results for measures of increased adiposity in ALSPAC and UK Biobank.')
+    x1 <- add_header_above(x, c(" " = 1, "Women" = 2, "Men" = 2, "Combined" = 2)) %>%
+      pack_rows("ALSPAC", 1, 6) %>%
+      pack_rows("UK Biobank", 4, 6)
+    x1
+    }
+```
+*Table \@ref(tab:correlation-results) shows the Pearson's product-moment correlation estimates (R) and associated 95% confidence interval (CI) for each combination of BMI, WHR, and BF% seperated by sex and data source. Combined = sex combined analysis; ALSPAC = Avon Longitudinal Study of Parents and Children; R = Pearson's product-moment correaltion estimate; CI = 95% confidence interval for the correlation estimate. All correlation results reporte a p-value < 2.2 x 10^-16^ except for:  ALSPAC sex combined WHR & BF% (p-value = 5.197 x 10^-12^),.................. * <br>
+\noindent
+```{r correlation-results-figure-alspac, echo=FALSE, out.width='100%', fig.cap="Scater plots of ALSPAC individuals data on measures of increased adiposity"}
+knitr::include_graphics("data/chapter3/figures/correlation_alspac.png")
+```
+*Figure \@ref(fig:correlation-results-figure-alspac) shows scatter plots for ALSPAC women (top), men (middle) and combined (bottom) data on BMI and WHR (left), BMI and BF% (centre), and WHR and BF% (right). A linear model line with 95% confidence interval is shown along with the Pearson's product-moment correalation (R) and associated 95% confidence intervals (95% CI) and p-values at the top of each scatter. BMI = body mass idnex; WHR = waist hip ratio; BF% = body fat percent. All correlation results report a p-value < 2.2 x 10^-16^ except for ALSPAC sex combined WHR & BF% (p-value = 5.197 x 10^-12^).* <br>
+\noindent
+\bigskip
+\bigskip
+
+```{r correlation-results-figure-ukbiobank, echo=FALSE, out.width='100%', fig.cap="Scater plots of UK Biobank individuals data on measures of increased adiposity"}
+#knitr::include_graphics("../input/chapter1/analysis/correlation_ukbiobank.png")
+```
+*Figure \@ref(fig:correlation-results-figure-ukbiobank) shows scatter plots for UK Biobank women (top), men (middle) and combined (bottom) data on BMI and WHR (left), BMI and BF% (centre), and WHR and BF% (right). A linear model line with 95% confidence interval is shown along with the Pearson's product-moment correalation (R) and associated 95% confidence intervals (95% CI) and p-values at the top of each scatter. BMI = body mass idnex; WHR = waist hip ratio; BF% = body fat percent. All correlation results report a p-value...................* <br>
+\noindent
+\bigskip
+\bigskip
+
+In ALSPAC our results show the highest correlations between BMI and BF% for both men (95% CI = 0.75 -- 0.79) and women (95% CI = 0.80 -- 0.82), with similarly high correaltion for sex combined (95% CI = 0.63 -- 0.66).
+
+Our measure of DXA derived measure of BF% in ALSPAC is likely a more accurate quantification of BF% than Pouliot et al. (1994)[@Pouliot1994] who derived BF% using hydrostatic weighing and an estimation equation[@SIRI1956]. Differences in estimates from ALSPAC and Pouliot et al. (1994)[@Pouliot1994] may also be a result of sample sizes with only 70 women and 81 men in Pouliot et al. (1994)[@Pouliot1994], with 66 and 22.5 times more women and men available for analysis in ALSPAC. <br>
+
+
+For UK Biobank correlation estimates are........... . <br>
+
+ALSPAC
+              men         women       combined
+BMI and WHR = 0.60-0.66   0.46-0.50   0.40-0.44
+BMI and BF% = 0.75-0.79   0.80-0.82   0.63-0.66
+WHR and BF% = 0.63-0.68   0.33-0.38   -0.06- -0.11
+
+UK Biobank 
+              men         women       combined
+BMI and WHR =  
+BMI and BF% = 
+WHR and BF% = 
+
+Pouliot et al. (1994)[@Pouliot1994]
+              men         women
+BMI and BF% = 0.85        0.96
+BMI and WHR = 0.78        0.58
+WHR and BF% = 0.70        0.55
+
+
+
+
+
+
+## Supplementary Information
+
+### ALSPAC Overview {#supp-alspac}
+Pregnant women resident in Avon, UK with expected dates of delivery 1st April 1991 to 31st December 1992 were invited to take part in the study. The initial number of pregnancies enrolled is 14,541 (for these at least one questionnaire has been returned or a “Children in Focus” clinic had been attended by 19/07/99). Of these initial pregnancies, there was a total of 14,676 foetuses, resulting in 14,062 live births and 13,988 children who were alive at 1 year of age. When the oldest children were approximately 7 years of age, an attempt was made to bolster the initial sample with eligible cases who had failed to join the study originally. As a result, when considering variables collected from the age of seven onwards (and potentially abstracted from obstetric notes) there are data available for more than the 14,541 pregnancies mentioned above. The number of new pregnancies not in the initial sample (known as Phase I enrolment) that are currently represented on the built files and reflecting enrolment status at the age of 24 is 913 (456, 262 and 195 recruited during Phases II, III and IV respectively), resulting in an additional 913 children being enrolled. The phases of enrolment are described in more detail in the cohort profile paper and its update (see footnote 4 below). The total sample size for analyses using any data collected after the age of seven is therefore 15,454 pregnancies, resulting in 15,589 foetuses. Of these 14,901 were alive at 1 year of age. A 10% sample of the ALSPAC cohort, known as the Children in Focus (CiF) group, attended clinics at the University of Bristol at various time intervals between 4 to 61 months of age. The CiF group were chosen at random from the last 6 months of ALSPAC births (1432 families attended at least one clinic). Excluded were those mothers who had moved out of the area or were lost to follow-up, and those partaking in another study of infant development in Avon. <br>
+
+The study website [http://www.bristol.ac.uk/alspac/](http://www.bristol.ac.uk/alspac/) contains details of all the data that is available through a fully searchable data dictionary and variable search tool [http://www.bristol.ac.uk/alspac/researchers/our-data/](http://www.bristol.ac.uk/alspac/researchers/our-data/). Ethical approval for the study was obtained from the ALSPAC Ethics and Law Committee and the Local Research Ethics Committees [http://www.bristol.ac.uk/alspac/researchers/research-ethics/](http://www.bristol.ac.uk/alspac/researchers/research-ethics/). Informed consent for the use of data collected via questionnaire and clinics was obtained from participants following recommendations of the ALSPAC Ethics and Law Committee at the time. Full details of the ALSPAC consent procedures are available on the study website [http://www.bristol.ac.uk/alspac/researchers/research-ethics/](http://www.bristol.ac.uk/alspac/researchers/research-ethics/). <br>
+
+### UK Biobank Overview {#supp-biobank}
+This research has been conducted using the UK Biobank Resource under *Application Number 16391*.
+

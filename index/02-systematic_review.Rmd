@@ -72,7 +72,7 @@ For inclusion, studies must have met the following pre-defined inclusion criteri
     c.	Studies in which a MR approach is used but not explicitly called ‘Mendelian randomization’ will be included. More specifically, any study in which genetic variants are used as instrumental variables or the direct association between a genetic variant and outcome is employed will be eligible, provided it meets the other inclusion criteria.
 
 ### Data extraction
-Data extraction was performed by eight reviewers (L.A.M., C.A.H., N.M., S.S., T.B, W.W, S.F, and K.H.W), with studies split evenly between them, using a data abstraction form available on [GitHub](). M.A.L reviewed all studies and examined all abstractions for accuracy. In instances where relevant data was not reported by the study, “Not discussed” was entered into the data abstraction form. Briefly, the following was extracted from each article: exposure(s), outcome(s), study design and sample characteristics, genetic variant and instrumental variable selection, MR methodology, sensitivity analysis, causal estimates. Once data extraction was completed, three additional columns were added to summarise the type of outcome under study: column 1 ("outcome") was used as a general categorisation of all outcomes across studies (e.g., the outcome "ER- breast cancer" would have the value "breast cancer"); column 2 ("outcome info") reported the outcome-specific information that distinguished outcomes within categories defined in column 1 (e.g., column 2 would contain the value "ER-" for the same breast cancer example); and column 3 ("outcome group") categorised outcomes more generally than values defined in column 1 (e.g., the breast cancer example would be categorised as "cancer"). Outcome groups were assigned based on prior biological knowledge and aimed to collapse the large number of outcomes. This could be achieved differently for some outcomes, for example smoking could go in a *respiratory* category or a *behavioural* category. Where there were few outcomes to make a category they were grouped into an *other* category. This will include outcomes such as mortality, disease counts, epigenetic marker etc.  \par
+Data extraction was performed by eight reviewers (L.A.M., C.A.H., N.M., S.S., T.B, W.W, S.F, and K.H.W), with studies split evenly between them, using a data abstraction form available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/SR/data/data_extraction.xlsx). M.A.L reviewed all studies and examined all abstractions for accuracy. In instances where relevant data was not reported by the study, “Not discussed” was entered into the data abstraction form. Briefly, the following was extracted from each article: exposure(s), outcome(s), study design and sample characteristics, genetic variant and instrumental variable selection, MR methodology, sensitivity analysis, causal estimates. Once data extraction was completed, three additional columns were added to summarise the type of outcome under study: column 1 ("outcome") was used as a general categorisation of all outcomes across studies (e.g., the outcome "ER- breast cancer" would have the value "breast cancer"); column 2 ("outcome info") reported the outcome-specific information that distinguished outcomes within categories defined in column 1 (e.g., column 2 would contain the value "ER-" for the same breast cancer example); and column 3 ("outcome group") categorised outcomes more generally than values defined in column 1 (e.g., the breast cancer example would be categorised as "cancer"). Outcome groups were assigned based on prior biological knowledge and aimed to collapse the large number of outcomes. This could be achieved differently for some outcomes, for example smoking could go in a *respiratory* category or a *behavioural* category. Where there were few outcomes to make a category they were grouped into an *other* category. This will include outcomes such as mortality, disease counts, epigenetic marker etc.  \par
 
 ### Quality assessment
 There is currently no risk of bias tool to assess the quality of MR studies. Because of this, some studies have not reported on the quality of MR studies[@Pingault2016; @Storm2020]. However, more recent studies have begun to investigate quality, either by using pre-existing risk of bias tools specific to other areas or by creating their own assessment tool[@Kuzma2018; @Mamluk2020; @Riaz2018; @Li2017; @Zhang2020; @Markozannes2021; @Kohler2018; @Kim2020; @Diemer2021; @Cheng2020; @Abbasi2016; @Grau-Perez2019]. Some of these tools have been influenced by the recent publication of MR reporting guidelines[@DaveySmith2019] (STROBE-MR). The STROBE-MR guidelines allow readers to evaluate the quality of the presented evidence and will be updated. \par
@@ -108,9 +108,9 @@ In order to gain a global picture of reported causal effects a narrative synthes
 
 ## Results {#SR-results}
 ### Literature search
-In total, 8,377 studies were returned from the combined search of EMBASE (n = 3,772), MEDLINE (n = 3,639), and bioRxiv (n = 966). After combining the studies from EMBASE and MEDLINE, de-duplication resulted in the removal of 1,500 studies. De-duplication of bioRxiv search results removed an additional 293 studies. Published bioRxiv studies were delt with at the dat abstraction stage. The remaining 5,911 studies from EMBASE and MEDLINE were combined with the 673 studies from bioRxiv and titles and abstracts were screened. A total of `r full_text_screen` studies were retained after title and abstract screening (data available on [GitHub]() full_text_screening_277.xml). \par
+In total, 8,377 studies were returned from the combined search of EMBASE (n = 3,772), MEDLINE (n = 3,639), and bioRxiv (n = 966). After combining the studies from EMBASE and MEDLINE, de-duplication resulted in the removal of 1,500 studies. De-duplication of bioRxiv search results removed an additional 293 studies. Published bioRxiv studies were delt with at the dat abstraction stage. The remaining 5,911 studies from EMBASE and MEDLINE were combined with the 673 studies from bioRxiv and titles and abstracts were screened. A total of `r full_text_screen` studies were retained after title and abstract screening (data available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/SR/data/full_text_screening_277.xml). \par
 
-Of the `r full_text_screen` studies included in the full text screening, a total of `r removed` papers were removed for the following reasons (with number of studies removed for that reason indicated in brackets): a conference abstract with no response within 6 months from the author or there was no data available from the authors (`r removed_unavailable`), conference abstracts with the full paper included in the search (`r removed_conference_abstract_full_available`), duplicates not excluded by the de-duplication process (`r removed_duplicates`) bioRxiv papers subsequently published and identified in the EMBASE and MEDLINE search (`r removed_duplicates_biorxiv`), not using a measure of adiposity as the exposure (`r removed_incorrect_exposure`), a commentary (`r remvoed_commentary`), erratum (`r removed_erratum`, the corrected papers were identified in the search), not MR (i.e., regression of SNP on trait; `r removed_not_MR`), a conference proceeding (`r removed_conference_proceeding`), not available in English (`r remvoed_language`), preprint paper in which the published paper did not include an MR of an adiposity measure (`r preprint_published_not_MR`). After full text screening, `r full_text_screen - removed` studies were included in the analysis (data available on [GitHub]() qualitative_synthesis.xml). \par
+Of the `r full_text_screen` studies included in the full text screening, a total of `r removed` papers were removed for the following reasons (with number of studies removed for that reason indicated in brackets): a conference abstract with no response within 6 months from the author or there was no data available from the authors (`r removed_unavailable`), conference abstracts with the full paper included in the search (`r removed_conference_abstract_full_available`), duplicates not excluded by the de-duplication process (`r removed_duplicates`) bioRxiv papers subsequently published and identified in the EMBASE and MEDLINE search (`r removed_duplicates_biorxiv`), not using a measure of adiposity as the exposure (`r removed_incorrect_exposure`), a commentary (`r remvoed_commentary`), erratum (`r removed_erratum`, the corrected papers were identified in the search), not MR (i.e., regression of SNP on trait; `r removed_not_MR`), a conference proceeding (`r removed_conference_proceeding`), not available in English (`r remvoed_language`), preprint paper in which the published paper did not include an MR of an adiposity measure (`r preprint_published_not_MR`). After full text screening, `r full_text_screen - removed` studies were included in the analysis (data available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/SR/data/qualitative_synthesis.xml). \par
 
 (ref:SR-prisma-cap) **PRISMA flowchart**. $k$ gives the number of studies at each stage
 
@@ -121,9 +121,9 @@ knitr::include_graphics("../../005_systematic_review/figures/PRISMA_flow.pdf")
 ```
 
 ### Data extraction
-Full data extraction is available on GitHub (data_extraction.csv). Studies from bioRxiv included in data extraction were replaced with their published version if available. Of the 23 included bioRxiv studies, 18 were published once data extraction began and were included instead of the bioRxiv studies. One bioRxiv study was excluded as the published version did not include the MR analysis. The majority of studies were published in the past 5 years (Figure \@ref(fig:SR-figure-published-year)) and one-sample MR was the predominant analysis performed across the `r full_text_screen - removed` studies (Figure \@ref(fig:SR-figure-mr-design)). \par
+Full data extraction is available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/SR/data/data_extraction.xlsx). Studies from bioRxiv included in data extraction were replaced with their published version if available. Of the 23 included bioRxiv studies, 18 were published once data extraction began and were included instead of the bioRxiv studies. One bioRxiv study was excluded as the published version did not include the MR analysis. The majority of studies were published in the past 5 years (Figure \@ref(fig:SR-figure-published-year)) and one-sample MR was the predominant analysis performed across the `r full_text_screen - removed` studies (Figure \@ref(fig:SR-figure-mr-design)). \par
 
-(ref:SR-figure-published-year-cap) **Distribution of publication year and average exposure and outcome sample sizes across included papers up to February 2019**. The number of studies included per year is given on the left Y axis; the right Y axis gives the average sample size for exposure (grey), outcome control (red), and outcome case (cream). Outcome control N for years 2010 and 2012 was not available from the studies reporting those MR analyses.
+(ref:SR-figure-published-year-cap) **Distribution of publication year and average exposure and outcome sample sizes across included papers up to February 2019**. The number of studies included per year is given on the left Y axis; the right Y axis gives the average sample size for exposure (grey) and outcome (red) for each year. Ouctome cases and controls were summed within analyses.
 
 (ref:SR-figure-published-year-scap) Distribution of publication year and average exposure and outcome sample sizes across included papers up to February 2019
 
@@ -140,17 +140,15 @@ exposure <- a %>%
   group_by(year) %>% 
   summarise(exposure_average = mean(exposure_n_current))
 
-a <- year[,c("year", "outcome_n_case_current")]
+a <- year[,c("year", "outcome_n_case_current", "outcome_n_control_current")]
+a[is.na(a)] <- 0
+a$outcome <- a$outcome_n_case_current + a$outcome_n_control_current
+a <- subset(a, outcome > 0)
+a <- a[,c("year", "outcome")]
 a <- a[complete.cases(a), ]
-outcome_case <- a %>% 
+outcome <- a %>% 
   group_by(year) %>% 
-  summarise(outcome_case_average = mean(outcome_n_case_current))
-
-a <- year[,c("year", "outcome_n_control_current")]
-a <- a[complete.cases(a), ]
-outcome_control <- a %>% 
-  group_by(year) %>% 
-  summarise(outcome_control_average = mean(outcome_n_control_current))
+  summarise(outcome_average = mean(outcome))
 
 a <- year[,c("year")]
 a <- a[complete.cases(a), ]
@@ -159,20 +157,17 @@ year <- a %>%
   summarise(year_count = length(year))
 
 plot_data <- left_join(year, exposure, by = "year")
-plot_data <- left_join(plot_data, outcome_case, by = "year")
-plot_data <- left_join(plot_data, outcome_control, by = "year")
+plot_data <- left_join(plot_data, outcome, by = "year")
 
 #
 source("data/index/colour_palette.R")
 plot_data$`N studies` <- plot_data$year_count
 ggplot(plot_data) +
   geom_col(aes(x = year, y = `N studies`)) +
-    geom_point(aes(x = year, y = exposure_average/5000, group = 1), size = 2, colour = discrete_wes_pal[1]) +
-  geom_point(aes(x = year, y = outcome_control_average/5000, group = 1), size = 2, colour = discrete_wes_pal[2]) +
-  geom_point(aes(x = year, y = outcome_case_average/5000, group = 1), size = 2, colour = discrete_wes_pal[3]) +
+  geom_point(aes(x = year, y = exposure_average/5000, group = 1), size = 2, colour = discrete_wes_pal[1]) +
+  geom_point(aes(x = year, y = outcome_average/5000, group = 1), size = 2, colour = discrete_wes_pal[2]) +
   geom_line(aes(x = year, y = exposure_average/5000, group = 1), size = 3, colour = discrete_wes_pal[1]) +
-  geom_line(aes(x = year, y = outcome_control_average/5000, group = 1), size = 3, colour = discrete_wes_pal[2]) +
-  geom_line(aes(x = year, y = outcome_case_average/5000, group = 1), size = 3, colour = discrete_wes_pal[3]) +
+  geom_line(aes(x = year, y = outcome_average/5000, group = 1), size = 3, colour = discrete_wes_pal[2]) +
   scale_y_continuous(sec.axis = sec_axis(~.*5000, breaks = c(250000,200000,150000,100000,50000,0), name = "N exposure/outcome")) +
   theme_cowplot() +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
@@ -246,7 +241,7 @@ knitr::kable(
 
 ### Quality assessment
 ```{r echo=FALSE}
-rob_data <- read.table("../../005_systematic_review/analysis/rob_results.txt", header = T, sep = "\t")
+rob_data <- read.table("../../005_systematic_review/analysis/QA_results.txt", header = T, sep = "\t")
 ```
 
 MR analyses that contributed to the meta-analyses were assessed for quality using a modified version of the assessment criteria devised by Mamluk et al. (2020)[@Mamluk2020]. Studies were assessed on a 3 point scale across 12 questions, with values ranging from 12-36. The average assessment was `r round(mean(rob_data$Total),0)` (Figure \@ref(fig:SR-figure-rob-distribution)). Individual MR analyses were assessed as opposed to the study, as most studies conducted multiple MR analyses. Analyses with lower scores (12-19) were considered to be of higher quality, with high scoring (28-36) studies considered lower quality. Scores inbetween were of medium quality. Only the analysis of BMI on hemorrhagic stroke by Dale et al (2017)[@Dale2017] was ranked as high quality. Medium quality scores were assigned to `r table(rob_data$QA)[2]` analyses, with the remaining `r table(rob_data$QA)[3]` analyses scoring lowly. Quality scores are presented alongside the meta-analysis results (Figures \@ref(fig:SR-figure-forestplot-meta-analysis-binary) and \@ref(fig:SR-figure-forestplot-meta-analysis-continuous)). \par
@@ -256,7 +251,7 @@ MR analyses that contributed to the meta-analyses were assessed for quality usin
 (ref:SR-figure-rob-distribution-scap) Quality assessment: distribution of quality assessment scores for studies included in the meta-analyses
 
 ```{r SR-figure-rob-distribution, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE,  fig.align='center', fig.cap='(ref:SR-figure-rob-distribution-cap)', fig.scap='(ref:SR-figure-rob-distribution-scap)'}
-rob_data <- read.table("../../005_systematic_review/analysis/rob_results.txt", header = T, sep = "\t")
+rob_data <- read.table("../../005_systematic_review/analysis/QA_results.txt", header = T, sep = "\t")
 rob_data$QA[rob_data$Total <= 19] <- "High"
 rob_data$QA[rob_data$Total >= 20 ] <- "Medium"
 rob_data$QA[rob_data$Total >= 28] <- "Low"

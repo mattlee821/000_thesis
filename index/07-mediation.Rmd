@@ -1,0 +1,506 @@
+---
+output: 
+    thesisdown::thesis_pdf: default
+bibliography: bib/thesis.bib
+csl: csl/nature.csl
+space_betwee_paragraphs: true
+fig_caption: true
+always_allow_html: yes
+link-citations: true
+toc-depth: 2
+lot: true
+lof: true
+indent: true
+header-includes: # include other LaTeX packages here
+    \usepackage{booktabs}
+    \usepackage{longtable}
+    \usepackage{siunitx}
+    \usepackage[left]{lineno}
+    \usepackage{float}
+    \floatplacement{figure}{H}
+    \linenumbers
+    \pagestyle{plain}
+    \raggedbottom 
+    \usepackage{indentfirst}
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r include=FALSE}
+# word count = 
+doc.type <- knitr::opts_knit$get('rmarkdown.pandoc.to') # this will tell the .Rmd file what output you are knitting to (word, pdf, html) so that you cna use if else statements when making tables - html/pdf output tables do not work well in word. For word we need to use the 'flextable' packaged to make tables.
+## packages
+library(dplyr)
+library(kableExtra)
+library(flextable)
+library(wesanderson)
+library(cowplot)
+library(ggplot2)
+options(tinytex.verbose = TRUE)
+
+##### Palettes
+d1 <- wes_palette("Royal1", type = "discrete")
+d2 <- wes_palette("GrandBudapest2", type = "discrete")
+d3 <- wes_palette("Cavalcanti1", type = "discrete")
+d4 <- wes_palette("Darjeeling1", type = "discrete")
+discrete_wes_pal <- c(d1, d2, d3, d4)
+continuous_wes_pal <- wes_palette("Zissou1", 100, type = "continuous")
+```
+
+# Associations between metabolites and endometrial cancer: Mendelian randomization analysis {#mediation} 
+
+<style>
+body {
+text-align: justify}
+</style>
+
+### Chapter summary {-}
+This chapter pulls together information from all previous chapters to investigate the potential mediating effects of adiposity associated metabolites on endometrial cancer. In Chapter \@ref(systematic-review) a systematic review and meta-analysis identified increased adiposity to be causally associated with an increased risk of 13 diseases as well as an increase in systolic blood pressure and fasting glucose. Of these, endometrial cancer, which BMI was strongly associated with (OR = 1.57; 95% CI = 1.11 -- 2.22; p-value = 0.01), was selected for further investigation in this chapter. Here, re-estimation of the adiposity-endometrial cancer association and estimation of the metabolite-endometrial cancer association are performed. Metabolites with evidence of association with endometrial cancer are then used in a multivariable MR analysis alongside adiposity measures. \par
+
+#### Contribution statement
+All of the work in this chapter was performed by myself. Vanessa Tan previously performed a two-sample MR of metabolites on endometrial cancer and Caroline Bull previously performed a multivariable MR of adiposity-metabolites-colorectal cancer, both shared their scripts with me which I updated and used components of in my analyses. \par
+
+## Introduction
+Adiposity is a major health concern globally, with the prevalence of overweight (body mass index (BMI) of 25--29.9 kg/m^2^) and obesity (BMI > 30 kg/m^2^) estimated to be 39% and 13% respectively[@WorldHealthOrganisation2018; @Ritchie2019]. It is estimated obesity is responsible for 8% of global deaths[@Stanaway2018]. Both the prevalence of adiposity and the number of associated deaths is expected to rise in the coming years[@Ng2014; @NCD-RisC2016; @Abarca-Gomez2017]. As a result, the number of adiposity associated diseases is unsurprisingly high (Chapter \@ref(introduction) Section \@ref(introduction-morbidities) and Chapter \@ref(systematic-review)). Observational studies, discussed in Chapter \@ref(introduction) Section \@ref(introduction-morbidities), have highlighted numerous associations with common diseases, such as cardiovascular disease[@Hubert1983; @Kenchaiah2002; @Yusuf2004; @Cuilin2008; @Gelber2008; @Litwin2008; @Dobbelsteyn2001; @Yusuf2005; @Paul2006; @Koliaki2019; @Eckel1998; @Cepeda-Lopez2010; @Blokhin2013; @Thomsen2014; @Klop2013; @McGill2002; @Ades2017; @Mathew2008; @Plourde2014; @Pathak2015; @Lavie2017; @Kurth2002; @Kernan2013; @Rost2001; @Romero-Corral2010; @Lee2018], cancers[@Bhaskaran2014; @Choi2020; @Kyrgiou2017; @Hu2014; @Hajiebrahimi2013; @Munsell2014; @Harvie2003; @Gaudet2014; @Barrington2015; @Heo2021; @Lauby-Secretan2016; @Barberio2019; @Suzuki2009; @Freisling2017; @Lee2018; @Parra-Soto2021], and common risk factors such as hypertension[@Mathew2008; @Wurtz2014]. \par
+
+Many observational findings have been replicated using Mendelian randomization (MR; Chapter \@ref(systematic-review)), while others, such as c-reactive protein[@Timpson2005; @CCGC2011], have not. Investigations of many cancers have shown consistent estimates across observational and MR analyses, for example BMI is observationally (OR 1.10; 95% CI = 1.07--1.13)[@Bhaskaran2014] and causally (men: OR = 1.23; 95% CI = 1.08--1.38; women: OR = 1.09; 95% CI = 0.97--1.22)[@Bull2020] associated with colorectal cancer. Maintaining a *healthy* weight can thus be an effective form of cancer prevention. However, although there is evidence to show that weight loss interventions reduce the risk of cancer[@Ma2017; @Force2018; @Arnold2019; @Luo2017; @Clifton2018; @Brown2016; @Cercato2019], there are many barriers to behavioural weight loss interventions[@McVay2018] not least understanding who will benefit best from what. Understanding the underlying mechanisms of the adiposity-disease relationship may help to direct future investigations as well as stratify individuals for treatments. \par
+
+In Chapter \@ref(observational) observational associations between adiposity and metabolites were investigated. In Chapter \@ref(MR) causal associations between adiposity and metabolites were investigated. Combining these results identified a set of metabolites associated with adiposity that had been identified in previous observational[@Wurtz2014; @Moore2014; @SantosFerreira2017; @Cirulli2019; @Lau2020; @Brachem2020; @Stevens2020; @OKeeffe2020; @Wulaningsih2019; @Frigerio2021; @Neeland2019; @Bachlechner2016; @Rangel-Huerta2019] and MR[@Wurtz2014; @Bull2020; @Bell2021a] analyses. Metabolite shave been associated with a number of adiposity associated diseases, including type 2 diabetes[@Liu2017c; @Porcu2021], fasting glucose[@Liu2017c; @Porcu2021], colorectal cancer[@Bull2020], and coronary heart disease[@Burgess2016a]. There is also evidence that metabolites can be used to distinguish between cancers[@Kovesdy2017]. Recent work, using multivariable MR (MVMR), has identified multiple associations between metabolites and colorectal cancer but little evidence for a mediating effect of metabolites between adiposity and colorectal cancer[@Bull2020]. \par
+
+The World Cancer Report (2020) has identified endometrial cancer as one cancer that would benefit greatly from reductions in adiposity, as approximately 30-40% of cases are a result of obesity[@WILD2020]. Broadly, endometrial cancer is separated into two types: endometrioid (type 1) and non-endometrioid (type 2). Endometrioid cancer is the more common type and is considered hormone dependent. Non-endometrioid cancer is much less common and is typically hormone independent. In Chapter \@ref(systematic-review), meta-analysis of three MR studies[@Gharahkhani2019; @Painter2016; @Jarvis2016] found a 1.57 increased risk of endometrial cancer for each SD increase in BMI (95% CI = 1.11 -- 2.22). Previous work has shown different metabolite profiles between cases and controls independent of obesity and other risk factors such as diabetes[@Gaudet2012; @Kliemann2021]. Whether there is a causal effect of metabolites on endometrial cancer development, independent of adiposity, however is unclear. \par
+
+Here, the combined work of the preceding chapters to identify adiposity associated metabolites is utilised in two-sample and multivariable MR analyses. Here, adiposity and adiposity associated metabolites are investigated for causal associations with endometrial, endometrioid, and non-endometrioid cancer using the largest metabolomics and endometrial cancer data sets publicly available to date. \par
+
+## Methods
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# associated metabolites
+associated_metabolites <- read.table("../../006_interval_metabolites/analysis/associated_metabolites.txt", header = T, sep = "\t")
+associated_metabolites <- unique(associated_metabolites$metabolite)
+```
+
+This chapter details hypothesis driven MR analyses investigating associations between adiposity associated metabolites (here in referred to as metabolites) and endometrial cancer (Figure \@ref(fig:mediation-figure-analysis-flow)). Firstly, a two-sample MR analysis of adiposity on endometrial cancer was performed to re-estimate findings from the meta-analysis performed in Chapter \@ref(systematic-review). Secondly, a two-sample MR analysis of adiposity measures on metabolites was performed to ensure effects observed in Chapter \@ref(MR) are consistent in UK Biobank. Metabolites with consistent directions across Chapter \@ref(MR) and in this MR analysis were taken forward and used in a two-sample MR analysis on endometrial cancer. From this, metabolites with evidence of association with endometrial cancer were taken forward and used in a multivariable MR analysis with adiposity measures to estimate independent effects on endometrial cancer. \par
+
+All data manipulation and analyses were performed using `R`[@r2019] (version 3.5.3) except where raw genetic data was used, in which case `bash` was used to manipulate data. All code used is available on [GitHub](https://github.com/mattlee821/007_metabolites_outcomes/tree/master/scripts). Two-sample MR analyses were performed using the `TwoSampleMR`[@Hemani2018] (version 0.4.22) `R` package. MVMR analyses were performed using the `MVMR` (version 0.3) `R` package. Summary statistics for adiposity measures and metabolites were obtained from the original GWAS sources. Metabolite data was unpublished and provided by Carolina Borges at the University of Bristol. Summary statistics for Endometrial cancer were available from MR Base[@Hemani2018] (accessed 17/07/2021). A list of metabolites used in this chapter is available in the Appendix (Table \@ref(tab:appendix-mediation-table-metabolites)) and on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/mediation/tables/metabolites.txt). Results were visualised using the `ggforestplot` (version 0.1.0) `R` package. \par
+
+(ref:mediation-figure-overview-cap) **Analysis overview**. In Chapter \@ref(MR), `r length(associated_metabolites)` metabolites were identified as being associated with adiposity. These metabolites were taken forward and used in the analyses detailed in this chapter. Summary statistics for these metabolites were extracted from a recent GWAS in UK Biobank. In Chapter \@ref(systematic-review) endometrial cancer was identified as being associated with BMI and was used in this chapter to investigate the role of metabolites in this association. Two-sample MR was performed for: adiposity on endometrial cancer, adiposity on metabolites, metabolites on endometrial cancer. Metabolites with evidence of association with endometrial cancer were employed in a multivariable MR alongside adiposity measures to investigate mediating effects on endometrial cancer directly.
+
+(ref:mediation-figure-overview-scap) Analysis overview
+
+```{r mediation-figure-analysis-flow, echo=FALSE, warning=FALSE, error=FALSE, out.width='75%',fig.cap='(ref:mediation-figure-overview-cap)', fig.scap='(ref:mediation-figure-overview-scap)'}
+knitr::include_graphics("../index/data/mediation/figures/overview.pdf")
+```
+
+### Data
+In Chapter \@ref(MR), data on exposures was obtained for BMI and WHR from studies which included individuals from UK Biobank. Here, data on metabolites were available from UK Biobank, while data on endometrial cancer included individuals from UK Biobank. The sample overlap between previously used adiposity measures in Chapter \@ref(MR) and endometrial cancer, and between metabolites and endometrial cancer, was at most 5%. The sample overlap between previously used adiposity measures and metabolites was potentially much higher. Sample overlap is known to bias MR estimates in a manner proportional to the level of overlap[@Burgess2016]. Though recent work has shown that bias from sample overlap can be minimised if instrument strength is sufficiently strong[@Sadreev2021], given power in multivariable MR is much weaker than in two sample MR and instrumentation of metabolites is challenging, summary statistics used in the main analysis for Chapter \@ref(MR) were not used here. Instead, non-UK Biobank summary statistics used in Chapter \@ref(MR), which were consistent in effect estimates with the main analysis from Chapter \@ref(MR), were used instead. \par
+
+#### Exposure: Adiposity
+In Chapter \@ref(MR), BMI[@Locke2015; @Yengo2018] and WHR[@Shungin2015; @Pulit2019] were instrumented using multiple SNP lists which varied in population size and the number of included SNPs. For BMI and WHR, as the number of exposure SNPs and the number of individuals increased, the size of MR effect estimates tended to get closer to the null and the precision of effect estimates became tighter. The direction of effect did not change however. Although the SNP lists with the greater number of instruments and individuals resulted in more associations reaching a multiple testing threshold this was not substantially different to the other instruments. Clumping these SNP lists using a conservative linkage disequilibrium R^2^ threshold of $0.001$ for SNPs within a $10,000$ base window of each other did not reveal substantially different results. Given there was little global difference in the resulting effects use of non-UK Biobank summary statistics is unlikely to affect interpretation of results. \par
+
+In Chapter \@ref(MR), BF was also instrumented with multiple SNP lists. The main analysis used 7 SNPs identified by Lu et al (2016)[Lu2016]. Additional analysis used 76 SNPs identified by Hubel et al. (2019)[@Hubel2019] which included UK Biobank individuals. For the 7 SNPs identified by Lu et al. (2016), two had previously been identified as being associated with *favourable adiposity* and were removed from an additional analysis. This restricted 5 SNP instrument showed tighter confidence intervals and a number of effect estimates flipping directions. The study by Hubel et al. (2019) included a much larger population, however effect estimates were much smaller than estimates from the Lu et al. (2016) SNP lists and those of BMI and WHR. Clumping did not have a substantial effect on effect estimates. Given the BF instruments identified by Lu et al. (2016) have been used in other MR analyses to investigate adiposity effects, and that removal of two *favourable adiposity* associated SNPs indicated tighter confidence intervals the 5 SNP instrument was use here. Clumping was not performed. \par
+
+For BMI, summary statistics were obtained from Locke et al. (2016)[@Locke2015], in which 322,154 individuals of European ancestries were included in an inverse variance weighted fixed effects meta-analysis. A total of 82 GWAS and 43 Metabochip studies were included in the meta-analysis. Individual GWAS were adjusted for age, age^2^, and study specific covariates with residuals inverse normally transformed. Imputations was performed using HapMap phase II CEU reference panel. Each study used a linear regression model assuming an additive genetic model with quality control following procedures outlined previously[@Winkler2014]. A fixed effect inverse variance weighted meta-analysis was performed using METAL for the 82 GWAS and 43 Metabochip studies separately. Study GWAS and meta-analysis results were corrected for genomic control using all SNPs; study Metabochip and meta-analysis of Metabochip results were corrected for genomic control using 4,425 SNPs included on Metabochip for replication of associations with QT-interval, a phenotype not correlated with BMI, after pruning SNPs within 500kb of a BMI replication SNP. The final meta-analysis combined the genomic control corrected GWAS and Metabochip meta-analysis results. A total of 77 loci reaching genome-wide significance (5x10^-8^) and separated by at least 500 kilobases were identified. \par
+
+For WHR, summary statistics were obtained from Shungin et al. (2016)[@Shungin2015], in which 210,088 individuals of European ancestries were included in an inverse variance weighted fixed effects meta-analysis. A total of 57 GWAS and 44 Metabochip studies were included in the meta-analysis. WHR was adjusted for age, age^2^, study-specific covariates if necessary with residuals inverse normally transformed. Imputation was performed using HapMap phase II CEU reference panel. Each study used a linear regression model assuming an additive genetic model. Study GWAS and meta-analysis results were corrected for genomic control using all SNPs; study Metabochip and meta-analysis of Metabochip results were corrected for genomic control using 4,425 SNPs included on Metabochip for replication of associations with QT-interval, a phenotype not correlated with WHR, after pruning SNPs within 500kb of a BMI replication SNP. The final meta-analysis combined the genomic control corrected GWAS and Metabochip meta-analysis results. A total of 26 loci reaching genome-wide significance (5x10^-8^) and separated by at least 500 kilobases were identified. \par
+
+For BF detailed information is presented in Chapter \@ref(MR) Section \@ref(MR-exposures-adiposity). Briefly, 5 SNPs were extracted from Lu et al. (2016)[@Lu2016], who analysed data from 89,300 individuals of European ancestries. BF was inverse normally transformed. They performed a fixed effects inverse variance weighted meta-analysis. They identified 7 independent SNPs which explained 0.4% of the variance in BF. Two SNPs (rs6738627 and rs2943650) were removed due to prior association with *favourable adiposity*[@Yaghootkar2014; @Yaghootkar2016]. \par
+
+#### Intermediate: Metabolites
+A total of 56 metabolites were identified as being associated with adiposity in Chapter \@ref(MR). Summary statistics for these metabolites were obtained from a GWAS of 249 NMR derived metabolites in UK Biobank (Borges 2021, unpublished). UK Biobank is a prospective cohort study of ~500,000 individuals from the United Kingdom aged 37--70 with a host of genetic and phenotypic data[@Sudlow2015; @Bycroft2018]. Un-fasted individuals were selected at random to undergo high-throughput NMR metabolomics[@Julkunen2021] using the Nightingale Health Ltd biomarker quantification[@Soininen2009; @Wurtz2017] (version 2020). All metabolites were inverse normally transformed prior to genome wide analysis. Genome-wide association analysis was performed using the MRC IEU, UK Biobank GWAS pipeline[@Mitchell2019]. A linear mixed model using BOLT-LMM, adjusting for genotype array, sex, and fasting time was fit for 118,466 individuals. Population structure was controlled for using 143,006 directly genotyped SNPs (MAF > 0.01; genotyping rate > 0.015; Hardy-Weinberg equilibrium p-value < 0.0001 and LD pruning to an r2 threshold of 0.1 using PLINKv2.00). No formal identification of associated SNPs had been performed, as such a genome wide significance threshold (5x10^-8^) was used in conjunction with a linkage disequilibrium R^2^ threshold of $0.001$ for SNPs within a $10,000$ base window of each other and using the 1000 genomes reference panel. When used as an outcome a multiple testing threshold ($0.05/XX$) based on the number of principal components that explained 95% of metabolite variation was used. \par
+
+#### Outcome: Endometrial cancer
+In Chapter \@ref(systematic-review) a systematic review and meta-analysis identified increased adiposity to be causally associated with an increased risk of 13 diseases as well as an increase in systolic blood pressure and fasting glucose. BMI showed a strong effect on endometrial cancer (OR = 1.57; 95% CI = 1.11 -- 2.22; p-value = 0.01) which is used here as an exemplar to investigate intermediate effects of metabolites. \par
+
+Genome-wide summary level data on endometrial cancer was available from O'Mara et al. (2018)[@OMara2018]. This data included both overall endometrial cancer as well as endometrioid and non-endometrioid cancer. Briefly, 17 studies on endometrial cancer including 12,906 cases and 108,979 country-matched controls of European ancestries were included in an inverse variance weighted fixed effects meta-analysis. Genotypes were imputed using the 1000 Genomes Project v3 reference panel or a combined 1000 Genomes (V3) UK10K reference panel. In each study, univariate GWAS were conducted adjusting for principal components. The above analysis was repeated for endometrioid only (cases = 8758; controls = 108,979) and non-endometrioid only (case = 1230; controls = 108,979) cancers. \par
+
+Of the 12,906 cases and 108,979 controls, 636 cases (`r round(636/12906*100)`%) and 62,853 controls (`r round(62853/108979*100)`%) were from UK Biobank. No endometrioid and non-endometrioid cases were from UK Biobank. In a two-sample MR analysis overlap in the exposure and outcome will increase the false positive rate. This bias will be exacerbated by weak instrument bias, however given a strong enough instrument bias as a result of overlap will be close to un-biased estimates[@Burgess2016]. For continuous outcomes, false bias away from the null is a linear function of the sample overlap (e.g. sample overlap of 50% leads to a bias of 5%). For binary outcomes, when the SNP-outcome association is estimated in all participants bias is similar to that for a continuous outcome. Where the SNP-outcome association is estimated in controls only, unbiased estimates can be obtained[@Burgess2016]. The potential overlap for bias is therefore based on overlap between exposure and outcome cases, which in this case is a maximum of `r round(636/12906*100)`%. This `r round(636/12906*100)`% maximum overlap would equate to ~0.5% increased false positive rate. \par
+
+### Two-sample MR
+All data manipulation and analyses were perfromed using `R`[@r2019] (version 3.5.3) and the `TwoSampleMR`[@Hemani2018] (version 0.4.22) `R` package. Data for BMI[@Locke2015], WHR[@Shungin2015], and BF[@Lu2016] were obtained from published summary statistics as described above, all genetic instruments are available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/mediation/tables/adiposity_SNPs.txt). Data from UK Biobank for metabolites was unpublished, all genetic instruments are available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/mediation/tables/metabolite_SNPs.txt) while a list of metabolites used are available in the Appendix (Table \@ref(tab:appendix-mediation-table-metabolites)). Results were visualised using the `ggforestplot` (version 0.1.0) `R` package. \par
+
+For all exposures, the following data were obtained from the original GWAS publications: rsID, effect allele, other/non-effect allele, effect allele frequency, effect estimate, standard error of the effect estimate, *p-value*, N, and units. The same data for these genetic instrumental variables were obtained for the outcome for each exposure separately. Where genetic instrumental variables were not present in the outcome GWAS, proxy SNPs were included if linkage disequilibrium was >= 0.8. For proxy SNPs, the inclusion of SNPs where the reference strand was ambiguous (strand flips) was allowed and the direction was inferred using a minor allele frequency threshold of 0.3. \par
+
+SNPs for all adiposity measures were not clumped as the studies from which they were obtained stated they were independent or near-independent and analysis in Chapter \@ref(MR) indicated clumping did not considerably alter associations with metabolites. For BMI and WHR, near-independent SNPs were identified as those with the smallest p-value (< 5x10^-8^) within a 500 kilobase window. For BF, each locus was defined by the SNP with the smallest p-value that reached the GWS threshold (p-value < 5 x 10^-8^) and a 1Mb window centered around that SNP [@Lu2016]. SNPs for all metabolites were identified using a genome-wide significance threshold of 5x10^-8^. Associated SNPs were clumped using the `TwoSampleMR`[@Hemani2018] `R` package setting a linkage disequilibrium R^2^ threshold of $0.001$ for SNPs within a $10,000$ base window of each other and using the 1000 genomes reference panel. \par
+
+Exposure and outcome SNPs were harmonized in reference to the exposure effect allele being on the increasing scale. For included alleles where the reference strand was ambiguous, the positive strand was inferred using effect allele frequency. An inverse variance weighted (IVW), multiplicative random effects (IVW-MRE) model was used to investigate the association of each exposure on the outcome. The model assumes that the strength of the association of the genetic instruments with the exposure is not correlated with the magnitude of the pleiotropic effects and that the pleiotropic effects have an average value of zero[@Bowden2017]. Where the number of instruments was not sufficient for an IVW-MRE model the Wald ratio was used. For the association of adiposity measures on endometrial cancer no multiple testing threshold was set. For all analyses a nominal p-value threshold ($0.05$) was used. Results for metabolites as outcomes are given as effect estimates which represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the adiposity measure. Results for endometrial cancer as the outcome are given as odds ratios (OR), and represent the odds of developing endometrial cancer for a change in the inverse rank position of the exposure. \par
+
+##### Sensitivity analysis
+Where instrument number was sufficient, assumptions of no pleiotropy among genetic instruments and outcomes were explored using MR-Egger[@Bowden2015], weighted median[@Burgess2017a] and weighted mode[@Hartwig2017] based estimators. These methods are sensitive to the effects of potential pleiotropy. No threshold requirements were set for these methods, instead consistency between the IVW-MRE model and these methods was investigated. Briefly, MR-Egger provides an estimate of horizontal pleiotropy via the intercept of a linear regression of the SNP-exposure and SNP-outcome association. Absent pleiotropic effects the intercept tends towards the origin. MR-Egger gives consistent estimates when 100% of genetic instruments are invalid[@Bowden2015]. The weighted median is complimentary to MR-Egger but does not rely on the instrument strength independent of direct effect assumption. It calculates the median of an empirical distribution of effect estimates weighted for precision. It provides consistent estimates when at least 50% of the weight comes from genetic instruments and as long as no one genetic instrument contributes > 50% of the weight[@Burgess2017a]. The weighted mode assumes the true causal effect is the most common effect, it is robust when the majority of effect estimates are derived from valid instruments [@Hartwig2017]. \par
+
+### Multivariable MR
+All adiposity measures were included in the MVMR analysis. Of the 55 metabolites included in the two sample MR analysis with adiposity and endometrial cancer, only those which showed consistent effects across both adiposity and endometrial cancer, and which reached a nominal p-value threshold ($0.05$) were included in the MVMR analyses. That is, if adiposity increased a metabolite and that metabolite decreased endometrial cancer, and adiposity increased endometrial cancer, then the metabolite could not be a potential mediator because it would not follow the causal path and was excluded. \par
+
+In MVMR, SNPs for the exposure (adiposity) and mediator (metabolites) are combined to create an adjusted instrument. This combined SNP list is used to extract instruments for the exposure from the exposure GWAS and for the mediator from the mediator GWAS. The resulting instrument contains SNPs for both the exposure and mediator; extracting data from the exposure GWAS gives an instrument for the exposure adjusted for the mediator, and extracting data from the mediator GWAS gives an instrument for the mediator adjusted for the exposure (Figure \@ref(fig:mediation-figure-dag)). As such instruments for BMI and instruments for metabolite 1 will use the same SNPs but different estimates. For example, a BMI instrument adjusted for metabolite 1 will include the SNPs associated with BMI and the SNPs associated with metabolite 1, with all data extracted from the BMI GWAS. An instrument for metabolite 1 adjusted for BMI will include the SNPs associated with BMI and the SNPs associated with metabolite 1, with all data extracted from the metabolite 1 GWAS. The following process was followed for obtaining instruments: \par
+
+1. SNPs associated with each adiposity measure and each metabolite were identified in the same way as for the two sample MR
+2. Identified SNPs for each adiposity and metabolite pair were combined to create a SNP list for each adiposity and metabolite pair
+3. These SNP lists were used to extract instruments (rsID, effect allele, other/non-effect allele, effect allele frequency, effect estimate, standard error of the effect estimate, *p-value*, N, and units) for each adiposity measure and each metabolite individually from their respective GWAS
+4. Each instrument was clumped using the `TwoSampleMR`[@Hemani2018] `R` package setting a linkage disequilibrium R^2^ threshold of $0.001$ for SNPs within a $10000$ base window of each other and using the $1000$ genomes reference panel
+5. Each adiposity and metabolite instrument pair was was harmonised in reference to the adiposity instrument effect allele being on the increasing scale
+6. Instruments for each adiposity and metabolite pair were extracted from the outcome GWAS using MR Base. Where SNPs were not present in the outcome GWAS, proxy SNPs were included if linkage disequilibrium was >= 0.8. For proxy SNPs, the inclusion of SNPs where the reference strand was ambiguous (strand flips) was allowed and the direction was inferred using a minor allele frequency threshold of 0.3
+7. The outcome instruments were harmonised in reference to the adiposity instrument effect allele being on the increasing scale
+
+(ref:mediation-figure-mvmr-dag-cap) **Directed acyclic graph of multivariable MR principle**. The DAG illustrates the principle of multivariable MR using an exposure (X1) and a mediator (X2) on a single outcome. Genetic instruments (G) associated with X1 and X2 are combined into an instrument (Gn) and extracted from genome-wide association studies for each of X1 and X2. The exposure and mediator are causally dependent, that is X1 has a causal effect on X2. G = single nucleotide polymorphism; X1 = exposure, X2 = mediator; Y = outcome; U = unmeasured confounding
+
+(ref:mediation-figure-mvmr-dag-scap) Directed acyclic graph of multivariable MR principle
+
+```{r mediation-figure-mvmr-dag, echo=FALSE, warning=FALSE, error=FALSE, fig.align='center', out.width='75%',fig.cap='(ref:mediation-figure-mvmr-dag-cap)', fig.scap='(ref:mediation-figure-mvmr-dag-scap)', warning=FALSE, error=FALSE, message=FALSE}
+library(ggdag)
+# dags ====
+theme_set(theme_dag())
+## mr dag 3
+# set coordinates
+coords <- tibble::tribble(~name, ~x, ~y,
+                          "G1", 0,0,
+                          "G2", 0,-0.5,
+                          "Gn", 0,-1,
+                          "X1", 1,0,
+                          "X2", 1,-1,
+                          "Y", 2,0,
+                          "U", 1.5,1)
+# make dag ====
+dag <- dagify(X1 ~ G1,
+              X2 ~ G1,
+              X1 ~ G2,
+              X2 ~ G2,
+              X1 ~ Gn,
+              X2 ~ Gn,
+              X2 ~ X1,
+              Y ~ X1,
+              Y ~ X2,
+              X1 ~U, 
+              X2 ~ U,
+              Y ~ U,
+              coords = coords)
+ggdag(dag, text = TRUE, edge_type = "link_arc",stylized = FALSE)
+```
+
+For MVMR analysis the SNP, effect estimate, and standard error for each exposure (adiposity and metabolite) and outcome is required. Instrument strength for each exposure was estimated using a generalized version of Cochran's Q[@Sanderson2019b; @Sanderson2021a] using the `strength_mvmr()` function in the `MVMR` `R` package assuming a pairwise covariance of 0, i.e. the gene-exposure associations are estimated in independent samples. Horizontal pleiotropy was evaluated using a modified form of Cochran's Q using the `pleiotropy_mvmr()` function in the `MVMR` `R` package and assuming a pairwise covariance of 0. An inverse variance weighted (IVW) MVMR model was used to obtain the direct causal effect of each adiposity measure adjusted for each metabolite and each metabolite adjusted for each adiposity measure on endometrial cancer risk. Results are given as OR and represent the odds of developing endometrial cancer for a change in the inverse rank position of the adjusted exposure.\par
+
+## Results
+### Two Sample MR: adiposity-endometrial cancer
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# data 
+data <- read.table("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/001_MR_results.txt", header = T, sep = "\t")
+data$group[data$exposure == "Locke BMI EU sex combined 77 SNPs clumped"] <- "BMI"
+data$group[data$exposure == "Shungin WHR EU sex combined 26 SNPs"] <- "WHR"
+data$group[data$exposure == "Lu BF EU sex combined 5 SNPs"] <- "BF"
+data$outcome_label[data$outcome == "Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465"] <- "Endometrioid"
+data$outcome_label[data$outcome == "Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466"] <- "Non-endometrioid"
+data$outcome_label[data$outcome == "Endometrial cancer || id:ebi-a-GCST006464"] <- "Endometrial cancer"
+data$method[data$method == "Inverse variance weighted (multiplicative random effects)"] <- "IVW-MRE"
+
+data <- subset(data, method == "IVW-MRE")
+bmi <- subset(data, group == "BMI")
+whr <- subset(data, group == "WHR")
+bf <- subset(data, group == "BF")
+```
+
+In Chapter \@ref(systematic-review) BMI was found to be associated with endometrial cancer in a meta-analysis of three MR analyses[@Gharahkhani2019; @Painter2016; @Jarvis2016] (OR = 1.57; 95% CI = 1.11 -- 2.22; p-value = 0.01). Using the largest endometrial cancer GWAS to date, MR results for BMI on endometrial cancer (OR = `r round(bmi$OR[1],2)`; 95% CI = `r round(bmi$lower_ci[1],2)`--`r round(bmi$upper_ci[1],2)`; *p-value* = 1.74 x 10^-15^) are highly similar to those previously reported (Figure \@ref(fig:mediation-figure-forestplot-adiposity-endometrial)). A similar effect (OR = `r round(bmi$OR[2],2)`; 95% CI = `r round(bmi$lower_ci[2],2)`--`r round(bmi$upper_ci[2],2)`; *p-value* = 1.59 x 10^-13^) is found for endometrioid cancer, while a smaller effect is observerd for non-endometrioid cancer (OR = `r round(bmi$OR[3],2)`; 95% CI = `r round(bmi$lower_ci[3],2)`--`r round(bmi$upper_ci[3],2)`; *p-value* = `r round(bmi$pval[3],2)`). \par
+
+The effect of WHR on the three outcomes is less clear; though effect estimates are all in line with those for BMI and BF, only the effect of WHR on non-endometrioid cancer (OR = `r round(whr$OR[3],2)`; 95% CI = `r round(whr$lower_ci[3],2)`--`r round(whr$upper_ci[3],2)`; *p-value* = `r round(whr$pval[3],2)`) does not cross the null. The effect of BF on endometrial cancer (OR = `r round(bf$OR[1],2)`; 95% CI = `r round(bf$lower_ci[1],2)`--`r round(bf$upper_ci[1],2)`; *p-value* = 1.02 x 10^-16^), endometrioid (OR = `r round(bf$OR[2],2)`; 95% CI = `r round(bf$lower_ci[2],2)`--`r round(bf$upper_ci[2],2)`; *p-value* = 9.93 x 10^-7^), and non-endometrioid (OR = `r round(bf$OR[3],2)`; 95% CI = `r round(bf$lower_ci[3],2)`--`r round(bf$upper_ci[3],2)`; *p-value* = `r round(bf$pval[3],2)`) is similar to that of BMI though with larger effects and much wider confidence intervals. Sensitivity analysis, which included weighted median, weighted mode, and MR Egger models, was consistent with the IVW-MRE model for each exposure. All sensitivity plots are avalable on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/mediation/figures/001_adiposity_endometrial) and representative figures in the appendix (Appendix \@ref(appendix-mediation)). All results are available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/mediation/results/001_adiposity_endometrial). \par
+
+(ref:mediation-figure-forestplot-adiposity-endometrial-cap) **Two-sample MR: Effect of adiposity on endometrial cancer**. Forestplot shows OR and 95% confidence interval for BMI, WHR, and BF on endometrial cancer, endometrioid cancer, and non-endometrioid cancer. The main analysis (IVW multiplicative random effects (MRE)) is presented alongside sensitivity analyses (Weighted median, Weighted mode, MR Egger). Solid points indicate a nominal *p-value* threshold of $0.05$ has been reached. 
+
+(ref:mediation-figure-forestplot-adiposity-endometrial-scap) Two-sample MR: Effect of adiposity on endometrial cancer
+
+```{r mediation-figure-forestplot-adiposity-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:mediation-figure-forestplot-adiposity-endometrial-cap)', fig.scap='(ref:mediation-figure-forestplot-adiposity-endometrial-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/figures/forestplot.pdf")
+```
+
+### Two-sample MR: adiposity-metabolites
+In Chapter \@ref(MR) 46, 49, and 9 metabolites were associated with BMI, WHR, and BF respectively. Of these metabolites, Serum total triglycerides was not measured in UK Biobank and so was not available for BMI and WHR, and Estimated description of fatty acid chain length not actual carbon number was not measured in UK Biobank and so was not available for BF. As such, 45 (out of 46) metabolites were available for BMI, 48 (out of 49) for WHR, and 8 (out of 9) for BF. \par
+
+For BMI, of the 45 metabolites 4 had directions of effect that were not consistent with the previous MR, meta, and observational analyses: Apolipoprotein B, Free cholesterol in medium VLDL, Total lipids in medium VLDL, Total lipids in very small VLDL. None of these inconsistent metabolites reached a nominal p-value threshold in the analysis here. Of the 48 associated metabolites for whr, 2 had directions of effect that were not consistent with the previous MR, meta, and observational analyses: Phenylalanine, Tyrosine. None of these inconsistent metabolites reached a nominal p-value threshold in the analysis here. For BF, all 8 of the associated metabolites had consistent directions of effect with the previous MR, meta, and observational analyses. \par
+
+Results are presented in Figure \@ref(mediation-figure-forestplot-adiposity-metabolites) and on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/mediation/results/002_adiposity_metabolite). As a screening step to select metabolites to use in the next analysis, no *p-value* threshold was set. As such, a total of 41, 46, and 8 metabolites were taken forward for analysis with endometrial cancer. All sensitivity plots are avalable on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/mediation/figures/002_adiposity_metabolite) and representative figures in the appendix (Appendix \@ref(appendix-mediation)). \par
+
+\newpage
+\thispagestyle{empty}
+
+(ref:mediation-figure-forestplot-adiposity-metabolites-cap) **Two-sample MR: Effect of adiposity on metabolites**. Forestplot shows OR and 95% confidence interval for BMI, WHR, and BF on endometrial cancer, endometrioid cancer, and non-endometrioid cancer. The main analysis (IVW multiplicative random effects (MRE)) is presented alongside sensitivity analyses (Weighted median, Weighted mode, MR Egger). Solid points indicate a nominal *p-value* threshold of $0.05$ has been reached. 
+
+(ref:mediation-figure-forestplot-adiposity-metabolites-scap) Two-sample MR: Effect of adiposity on metabolites
+
+```{r mediation-figure-forestplot-adiposity-metabolites, echo=FALSE, out.width='100%', fig.cap='(ref:mediation-figure-forestplot-adiposity-metabolites-cap)', fig.scap='(ref:mediation-figure-forestplot-adiposity-metabolites-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_metabolite/figures/forestplot.pdf")
+```
+
+### Two-sample MR: metabolites-endometrial cancer
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+data <- read.table("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/mr_results_formatted_associated_metabolites.txt", header = T, sep = "\t")
+unique_metabolites <- unique(data$metabolite)
+
+SNPS <- read.table("../../007_metabolites_outcomes/data/metabolite_instruments.txt", header = T, sep = "\t")
+```
+In total, 41 metabolites associated with BMI, 46 metabolites associated with WHR, and 8 metabolites associated with BF were investigated for association with endometrial cancer. Using a genome wide significance threshold of 5x10^-8^ and an LD R^2^ clumping threshold for SNPs within a 10,000 base window identified an average of `r round(mean(table(SNPS$exposure)))` (min = `r min(table(SNPS$exposure))`, max = `r max(table(SNPS$exposure))`) SNPs associated with each metabolite (Figure \@ref(fig:mediation-figure-metabolites-snp-distribution)). \par
+
+(ref:mediation-figure-metabolites-snp-distribution-cap) **Distribution of the number of SNPs associated with metabolites used in two-sample MR on endometrial cancer**. The number of SNPs associated with each metabolite varied between `r min(table(data$exposure))` and `r max(table(data$exposure))` with a mean of `r round(mean(table(data$exposure)))`. Bin size = 10.
+
+(ref:mediation-figure-metabolites-snp-distribution-scap) Distribution of the number of SNPs associated with metabolites used in two-sample MR on endometrial cancer
+
+```{r mediation-figure-metabolites-snp-distribution, echo=FALSE, out.width='100%', fig.cap='(ref:mediation-figure-metabolites-snp-distribution-cap)', fig.scap='(ref:mediation-figure-metabolites-snp-distribution-scap)'}
+metabolites <- read.table("../../007_metabolites_outcomes/analysis/002_adiposity_metabolite/001_mr_results.txt", header = T, sep = "\t")
+metabolites <- unique(metabolites$metabolite)
+data <- read.table("../../007_metabolites_outcomes/data/metabolite_instruments.txt", header = T, sep = "\t")
+data$metabolite <- sub("_int_imputed.txt_snps.txt", "", data$exposure)
+data$metabolite = gsub("_", "", data$metabolite)
+data$metabolite = gsub("%", "pct", data$metabolite)
+data$metabolite = gsub("-", "", data$metabolite)
+data$metabolite = tolower(data$metabolite)
+data <- data[data$metabolite %in% metabolites,]
+data <- data %>% 
+  group_by(exposure) %>% 
+  mutate(count=n())
+data <- data[!duplicated(data$exposure), ]
+ggplot(data, 
+       aes(x = count)) + 
+  geom_histogram(binwidth = 10, alpha = 1,
+                 color = discrete_wes_pal[1],
+                 fill = discrete_wes_pal[1]) + 
+  xlab("N SNP") + ylab("Frequency") +
+  theme_cowplot()
+```
+
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+data <- read.table("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/mr_results_formatted_associated_metabolites.txt", header = T, sep = "\t")
+data$OR <- exp(data$b)
+data$lower_ci <- data$OR - (1.96 * data$se)
+data$upper_ci <- data$OR + (1.96 * data$se)
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+valine <- subset(data, metabolite == "val")
+```
+
+A nominal p-value threshold ($0.05$) was used to identify metabolites associated with endometrial cancer. A total of `r length(unique_metabolites)` metabolites reached the nominal p-value threshold for at least one outcome (Figure \@ref(fig:mediation-figure-forestplot-adiposity-metabolites-cancer)). All of the metabolites, except for Valine (OR endometrial = `r round(valine$OR[1],2)`, endometrioid = `r round(valine$OR[2],2)`, non-endometrioid = `r round(valine$OR[3],2)`), were found to increase the risk of endometrial cancer. Sensitivity analysis was broadly consistent for all metabolite-outcome pairs with the majority of tests showing consistent directions of effect and all showing overlapping confidence intervals. Of these 5 metabolites, 3 were associated in the previous analyses with BMI and WHR, 1 was associated with BF only, and 1 metabolite was associated with all three adiposity measures (Table \@ref(tab:mediation-table-adiposity-metabolites-cancer)). All sensitivity plots are avalable on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/mediation/figures/003_metabolite_endometrial) and representative figures in the appendix (Appendix \@ref(appendix-mediation)). All results are available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/mediation/results/003_metabolite_endometrial).  \par
+
+```{r mediation-table-adiposity-metabolites-cancer, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+table <- data.frame(Metabolite = c("Phospholipids in very large HDL", "Triglycerides in small VLDL", "Triglycerides in very large HDL", "Triglycerides in very small VLDL", "Valine"),
+                    BMI = c("Yes", "Yes", "No", "Yes", "Yes"),
+                    WHR = c("Yes", "Yes", "No", "Yes", "Yes"),
+                    BF = c("No", "No", "Yes", "No", "No"))
+
+knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F,
+    caption = 'Metabolites associated with endometrial cancer and whether they were associated with an adiposity measure', row.names = F,
+    col.names = c("", "BMI", "WHR", "BF")) %>%
+  kable_styling(latex_options = c("striped", "HOLD_position", "repeat_header"), position = "center")
+```
+
+(ref:mediation-figure-forestplot-metabolites-cancer-cap) **Two-sample MR: Effect of metabolites on endometrial cancer**. Forestplot shows OR and 95% confidence interval for metabolites associated with BMI, WHR, and/or BF on endometrial cancer, endometrioid cancer, and non-endometrioid cancer. The main analysis (IVW multiplicative random effects (MRE)) is presented alongside sensitivity analyses (Weighted median, Weighted mode, MR Egger). Solid points indicate a nominal *p-value* threshold of $0.05$ has been reached. 
+
+(ref:mediation-figure-forestplot-metabolites-cancer-scap) Two-sample MR: Effect of metabolites on endometrial cancer
+
+```{r mediation-figure-forestplot-metabolites-cancer, echo=FALSE, out.width='100%', fig.cap='(ref:mediation-figure-forestplot-metabolites-cancer-cap)', fig.scap='(ref:mediation-figure-forestplot-metabolites-cancer-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/figures/forestplot.pdf")
+```
+
+### Multivariable MR: adiposity-metabolites-endometrial cancer
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# data 
+data <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/mvmr_results_formatted.txt", header = T, sep = "\t")
+endometrial <- subset(data, outcome == "Endometrial cancer")
+endometrial_svldltg <- subset(endometrial, exposure == "SVLDLTG")
+endonmetroid <- subset(data, outcome == "endometrioid")
+non_endometrioid <- subset(data, outcome == "Non-endometrioid")
+```
+
+Of the 5 metabolites associated with a measure of adiposity and with endometrial cancer, two were associated in directions consistent with the increasing effect of adiposity on endometrial cancer: Triglycerides in small VLDL and Triglycerides in very small VLDL. An increase in BMI and WHR were found to increase both metabolites, and an increase in both metabolites was found to increase endometrial cancer risk. For Phospholipids in very large HDL and Triglycerides in very large HDL, BMI, WHR, and BF were found to decrease these metabolites, but an increase in these metabolites was associated with an increase in endometrial cancer. All three adiposity measures were associated with an increase in Valine. An increase in Valine was associated with a decrease in endometrial cancer risk, which goes against the positive association found for BMI, WHR, and BF on endometrial cancer risk. As such, Triglycerides in small VLDL and Triglycerides in very small VLDL were taken forward for MVMR analysis. \par
+
+Overall, confidence intervals in all MVMR analyses overlapped confidence intervals from the two-sample MR analyses (Figure \@ref(fig:mediation-figure-forestplot-adiposity-metabolites-cancer)). Directions of effect were consistent across two-sample MR and MVMR analyses except for BF adjusted for both metabolites on non-endometrioid cancer and WHR adjusted for Triglycerides in small VLDL on non-endometrioid cancer. Figure \@ref(fig:mediation-figure-forestplot-adiposity-metabolites-cancer) shows the results for the MVMR analyses alongside the two-sample MR results described above; it should be noted that comparison between the two-sample MR and MVMR results is not 1:1 given the reduced power (e.g. because of fewer SNPs) in the MVMR analysis. \par
+
+(ref:mediation-figure-forestplot-adiposity-metabolites-cancer-cap) **Multivariable MR: Effect of adiposity and metabolites on endometrial cancer**. Forestplot shows OR and 95% confidence interval for: the two sample MR analyses described previously and the multivarable MR results for adiposity measures adjusted for metabolites and metabolites adjusted for adiposity measures. The left panel shows results for endometrial cancer, the middle panel shows results for endometrioid cancer, and the right panel shows results for non-endometrioid cancer. Points and confidence intervals are coloured for the variable they represent in the two sample MR and for the adjusted variable in the multivariable MR, e.g. BMI is coloured orange and any metabolite effect adjusted for BMI is coloured orange also. An inverse variance weighted model was used. Solid points indicate a nominal *p-value* threshold of $0.05$ has been reached. 
+
+(ref:mediation-figure-forestplot-adiposity-metabolites-cancer-scap) Multivariable MR: Effect of adiposity and metabolites on endometrial cancer
+
+```{r mediation-figure-forestplot-adiposity-metabolites-cancer, echo=FALSE, out.width='100%', fig.cap='(ref:mediation-figure-forestplot-adiposity-metabolites-cancer-cap)', fig.scap='(ref:mediation-figure-forestplot-adiposity-metabolites-cancer-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/004_mvmr/figures/forestplot.pdf")
+```
+
+All adjusted adiposity and metabolite measures increased the risk of endometrial cancer. Confidence intervals for all analyses overlapped. Both BMI and BF reached a nominal p-value threshold ($0.05$), as they did in the two-sample MR analyses. Confidence intervals for all but BMI were considerably wider in the MVMR analysis compared with two-sample MR, though all overlapped with their respective two-sample MR analysis. None of the confidence intervals for Triglycerides in small VLDL crossed the null (min = `r round(endometrial_svldltg$lower_ci[3],2)`) while all confidence intervals for Triglycerides in very small VLDL crossed the null. Only Triglycerides in small VLDL, adjusted for BF, reached a nominal p-value threshold, however adjusting for BMI resulted in a highly similar p-value (`r round(endometrial_svldltg$pval[2],2)`). Metabolite effects on endometrial cancer were very similar to effects from two-sample MR analysis. \par
+
+Results were very similar for endometrioid cancer, with confidence intervals for all analyses overlapping each other and overlapping their respective two-sample MR results. Both BMI and BF reached a nominal p-value threshold ($0.05$), as they did in the two-sample MR analysis. Confidence intervals for all but BMI were considerably wider in the MVMR analysis compared with two-sample MR. All confidence intervals were much wider than with two-sample MR. \par
+
+For non-endometrioid cancer effect estimates for BF, and for WHR adjusted for Triglycerides in small VLDL, were inverse to their directions of effect in two-sample MR. Though confidence intervals overlapped and effects for BF were close to null (OR adjusted for Triglycerides in small VLDL = `r round(non_endometrioid$OR[14],2)`; OR adjusted for Triglycerides in very small VLDL = `r round(non_endometrioid$OR[16],2)`); the effect of WHR adjusted for Triglycerides in small VLDL was further from the null (OR adjusted for Triglycerides in small VLDL = `r round(non_endometrioid$OR[10],2)`). Confidence intervals for BMI and WHR, which did not cross the null in two-sample MR, crossed the null in MVMR analysis; they no longer reached the nominal p-value threshold ($0.05$). Confidence intervals for BF were tighter in MVMR analysis than in two-sample MR. For both metabolites, adjustment for adiposity measures led to a greater increased risk of non-endometrioid cancer than was found in two-sample MR analysis. Only Triglycerides in very small VLDL adjusted for WHR did not reach the nominal p-value threshold and crossed the null. All other metabolite results reached the nominal p-value threshold and had confidence intervals which did not cross the null, as with the two-sample MR analysis. \par
+
+Multivariable MR results highlight that adjustment of adiposity measures for metabolites and metabolites for adiposity measures resulted in increased uncertainty in estimates. Of particular note is the effect of WHR and metabolites on non-endometrioid cancer: both were associated with non-endometrioid cancer in two-sample MR but the effect of WHR adjusted for both metabolites in MVMR attenuated to the null while the effect of the metabolites adjusted for WHR remained consistent with the two-sample MR analysis. This would suggest the effect of WHR on non-endometrioid is either mediated by Triglycerides in small and very small VLDL or there is considerable pleiotropy. All results are available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/mediation/results/004_mvmr). \par
+
+#### Sensitivity analysis
+Instrument strength was estimated using a generalized version of Cochran's Q[@Sanderson2019b]. F-statistics were all above 10 except for Triglycerides in small VLDL adjusted for BMI (F = 9) and WHR (F = 7) \@ref(tab:mediation-table-fstatistics). F-statistics were much lower than those associated with the instruments used in the two-sample MR analysis, for example BMI in two-sample MR had an F-statistic of 66 while after adjustment for both metabolites this dropped to 54. \par
+
+```{r mediation-table-fstatistics, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+data <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/mvmr_results.txt", header = T, sep = "\t")
+data <- data[!duplicated(data$f_stat.exposure1),]
+
+metab <- read.table("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/exposure_data.txt", header = T, sep = "\t")
+svldltg <- subset(metab, exposure == "S_VLDL_TG_int_imputed.txt_snps.txt")
+svldltg$f_stats <- (svldltg$b / svldltg$se)^2 
+svldltg$mean_fstat <- mean(svldltg$f_stats)
+xsvldltg <- subset(metab, exposure == "XS_VLDL_TG_int_imputed.txt_snps.txt")
+xsvldltg$f_stats <- (xsvldltg$b / xsvldltg$se)^2 
+xsvldltg$mean_fstat <- mean(xsvldltg$f_stats)
+
+adiposity <- read.table("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/exposure_data.txt", header = T, sep = "\t")
+bmi <- subset(adiposity, exposure == "Locke BMI EU sex combined 77 SNPs clumped")
+whr <- subset(adiposity, exposure == "Shungin WHR EU sex combined 26 SNPs")
+bf <- subset(adiposity, exposure == "Lu BF EU sex combined 5 SNPs")
+
+table <- data.frame(exposure = c("SVLDLTG", "XSVLDLTG", "BMI", "WHR", "BF", "Two-sample MR F"),
+                    BMI = c(round(data$f_stat.exposure1[1],0), round(data$f_stat.exposure1[2],0),"","","", 
+                            round(bmi$mean_fsta[1],0)),
+                    
+                    WHR = c(round(data$f_stat.exposure1[3],0), round(data$f_stat.exposure1[4],0),"","","", 
+                            round(whr$mean_fsta[1],0)),
+                    
+                    BF = c(round(data$f_stat.exposure1[5],0), round(data$f_stat.exposure1[6],0),"","","", 
+                           round(bf$mean_fsta[1],0)),
+                    
+                    SVLDLTG = c("","",round(data$f_stat.exposure2[1],0),round(data$f_stat.exposure2[2],0),round(data$f_stat.exposure2[3],0),
+                                round(svldltg$mean_fsta[1],0)),
+                    
+                    XSVLDLTG = c("","",round(data$f_stat.exposure2[4],0),round(data$f_stat.exposure2[5],0),round(data$f_stat.exposure2[6],0),
+                                 round(xsvldltg$mean_fsta[1],0)))
+
+knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F,
+    caption = 'F-statistics for adjusted exposures used in multivariable MR analyses', row.names = F,
+    col.names = c("", "BMI", "WHR", "BF", "SVLDLTG", "XSVLDLTG")) %>%
+  kable_styling(latex_options = c("striped", "HOLD_position"), position = "center") %>%
+  kableExtra::footnote(general = "F-statistcis are presented for each exposure (column) and the adjusted (row) variable, e.g. BMI adjusted for SVLDLTG (column 1 row 1) = 54. The mean F-statistic for instruments used in the two-sample MR are also presented for each exposure (column). BMI = body mass idnex; WHR = waist hip ratio; BF = body fat percentage; SVLDLTG = Triglycerides in small VLDL; XSVLDLTG = Triglycerides in very small VLDL.", threeparttable = T, general_title = "", footnote_as_chunk = T)
+```
+
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+data <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/mvmr_sensitivity_results_formatted.txt", header = T, sep = "\t")
+data <- data[!duplicated(data$Qstat),]
+sig <- subset(data, Qpval <= 0.05)
+```
+
+Horizontal pleiotropy was estimated using a modified form of Cochran's Q[@Sanderson2019b]. As each exposure-adjustment pair shares the same SNPs in MVMR analyses, rather than 36 tests there are 18 exposure-mediator analyses with Q-statistics, this is because BMI adjusted for Triglycerides in small VLDL uses the same SNPs as Triglycerides in small VLDL adjusted for BMI. Of the `r nrow(data)` tests, `r nrow(sig)` showed evidence of pleiotropy (*p-value* < $0.05$). All 6 analyses investigating associations with non-endometrioid cancer, and one analysis on endometrial cancer (BF-Triglycerides in small VLDL), showed little evidence of pleiotropy (*p-value* > $0.05$). On the whole, evidence of pleiotropy was strongest when instrumenting Triglycerides in very small VLDL (Table \@ref(tab:mediation-table-qstatistics)). \par
+
+```{r mediation-table-qstatistics, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+data <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/mvmr_sensitivity_results_formatted.txt", header = T, sep = "\t")
+data <- data[!duplicated(data$Qstat),]
+data <- data[,c("group", "outcome", "Qstat", "Qpval")]
+data <- data[order(data$Qpval),]
+data$Qstat <- round(data$Qstat, 0)
+data$Qpval <- round(data$Qpval, 4)
+data$group[data$group == "bf_svldltg"] <- "BF & SVLDLTG"
+data$group[data$group == "bf_xsvldltg"] <- "BF & XSVLDLTG"
+data$group[data$group == "bmi_svldltg"] <- "BMI & SVLDLTG"
+data$group[data$group == "bmi_xsvldltg"] <- "BMI & XSVLDLTG"
+data$group[data$group == "whr_svldltg"] <- "WHR & SVLDLTG"
+data$group[data$group == "whr_xsvldltg"] <- "WHR & XSVLDLTG"
+data <- droplevels(data)
+knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
+             caption = 'Multivariable MR Q statistics', row.names = F,
+             col.names = c("Instrument", "Outcome", "Q", "P-value")) %>%
+  kable_styling(latex_options = c("striped", "HOLD_position"), position = "center") %>%
+  kableExtra::footnote(general = "Table is ordered by smallest to largest p-value. BMI = body mass idnex; WHR = waist hip ratio; BF = body fat percentage; SVLDLTG = Triglycerides in small VLDL; XSVLDLTG = Triglycerides in very small VLDL; Q = Cochran's.", threeparttable = T, general_title = "", footnote_as_chunk = T)
+```
+
+## Discussion
+In this chapter, the effect of Triglycerides in small and very small VLDL on endometrial cancer is demonstrated. Data were available for 12,906 cases and 108,979 country-matched controls of European ancestries; from this, data were also available for endometrioid (cases = 8758; controls = 108,979) and non-endometrioid (case = 1230; controls = 108,979) cancer. Metabolite data were available for 118,466 individuals of European ancestries. Both metabolites were associated with an increased risk of endometrial, endometrioid, and non-endometrioid cancer. Effects persisted after adjusting for all three adiposity measures, though confidence intervals widened considerably. For non-endometrioid cancer, where effects were strongest, the effect of both metabolites was stronger after adjusting for adiposity measures in comparison to two-sample MR results. There was some evidence to suggest that the effect of WHR on non-endometrioid cancer was mediated by Triglycerides in small and very small VLDL; both tests were robust to pleiotropy but utilised underpowered instruments. \par
+
+In two-sample MR and multivariable MR, the effect of Triglycerides in small and very small VLDL on endometrial, endometrioid, and non-endometrioid cancer was broadly consistent, with similar effects and overlapping confidence intervals. Generally, effects were stronger but less precise in multivariable MR regardless of adiposity adjustment. In all cases, confidence intervals overlapped with the two-sample MR estimates. Only Triglycerides in small VLDL adjusted for BF was nominally ($p-value$ < 0.05) associated with overall endometrial cancer; in two-sample MR the effect was highly similar but did not reach the nominal $p-value$ threshold. Effects for endometrioid cancer all crossed the null in multivariable MR. In two-sample MR effects for both metabolites reached the nominal $p-value$ threshold for non-endometrioid cancer. Highly similar results were found in multivariable MR, though with larger effects and wider confidence intervals. The effect of Triglycerides in very small VLDL adjusted for WHR crossed the null in multivariable MR analysis as opposed to two-sample MR. These results would suggest that the effect of Triglycerides in small and very small VLDL on endometrial, endometrioid, and non-endometrioid cancer are independent of adiposity effects. Overall there was insufficient evidence to suggest these metabolites mediated the effects of adiposity on endometrial cancer. \par
+
+Previous observational work has found increased triglycerides to be associated with an increased risk of endometrial cancer[@Lindemann2009]. The effect increased in a dose response manner and persisted after adjusting for BMI and other potential confounders. Similar results have been found elsewhere[@Ulmer2009; @Trabert2015] including associations between increasing triglycerides and advancing tumour stage[@Luo2019]. However, results have also shown weak evidence for an association between triglycerides and endometrial cancer after adjusting for BMI[@Cust2007]. There are few studies focussing solely on the effects of specific triglycerides on endometrial cancer, those discussed focus on triglycerides as a class rather than specific lipoprotien compositions. It is therefore hard to compare results here with those from previous analyses. Results here suggest there is an increasing effect of triglycerides on endometrial cancer risk, but that this is likely to be specific to non-endometrioid cancer which has not been reported in the literature, rather associations have focussed on overall endometrial cancer risk. \par
+
+Alongside Triglycerides in small and very small VLDL 3 other metabolites were identified in two-sample MR as nominally associated ($p-value$ < 0.05) with endometrial cancer. Increased Phospholipids in very large HDL and Triglycerides in very large HDL were associated with an increased risk of endomterial, endometrioid, and non-endometroid cancer, while increased Valine was associated with a decreased risk of endomterial, endometrioid, and non-endometrioid cancer. Previous studies have reported increased valine to be associated with endometrial cancer risk[@Raffone2020] and as BMI and WHR are associated with increased valine, valine has been proposed as a potential mechanism in the adiposity-endometrial cancer pathway[@Kliemann2021]. There is some evidence for an increasing effect of phospholipids and triglycerides on endometrial cancer[@Raffone2020] but whether this is specific to very large HDL composition is unclear. \par
+
+For adiposity measures, adjustment for either of the metabolites did not alter effect estimates, except when looking at non-endometrioid cancer. Here, the effect of all three adiposity measures, which did not cross the null in two-sample analysis (except for bF), crossed the null after adjustment for the metabolites. For BF adjusted for both metabolites and WHR adjusted for Triglycerides in small VLDL the direction of effect was inverse to that of the two-sample MR results, suggesting a protective effect after adjustment. Confidence intervals were wide however and overlapped those of the two-sample MR. Overall, the effect of adiposity on endometrial and endometrioid cancer appears independent of Triglycerides in small and very small VLDL. There is some evidence to suggest that the effect of adiposity on non-endometrioid cancer is conditional on levels of Triglycerides in small and very small VLDL. \par 
+
+In two-sample MR and multivariable MR, the effect of BMI and BF on endometrial, endometrioid, and non-endometrioid cancer was broadly consistent with similar effects and overlapping confidence intervals. Though confidence intervals for BF were wider in all situations. The effect of WHR however was broadly weaker with confidence intervals that crossed the null, the exception being association with non-endometrioid cancer in two-sample MR analysis which was similar to the effect of BMI. These results would suggest that deposition of adipose tissue is less important in development of endometrial and endometrioid cancer compared with non-endometrioid. Overall adiposity as opposed to whether an individual deposits adipose tissue viscerally or subcutaneously appears more important in the development of endometrial and endometrioid cancer. It should be noted that confidence intervals were broadly overlapping across all analyses so conclusions are not definitive. \par
+
+Previous observational and MR work has found similar effects to those found here. In one study, observational and MR results indicated an association between BMI and endometrial cancer but not WHR and endometrial cancer[@Painter2016]. Additional studies using MR have found consistent effects[@Gharahkhani2019; @Yarmolinsky2019]. There is further observational evidence for associations between BMI and endometrial cancer, as well as WHR, waist circumference, and waist to height ratio[@Barberio2019]. Observational investigations have highlighted links between BMI and both endometrioid and non-endometrioid[@Gates2006; @Bjørge2007; @Crosbie2010; @Yang2013; @Setiawan2013; @Aune2015a; @Gao2018], but there is a lack of genetic data on both subtypes in large well powered studies to enable MR investigations. Additionally, studies have predominantly focussed on BMI with some focus on measures of deposition such as WC and WHR, but as yet very little work using an absolute measure of adiposity such as BF. Here, investigation of both subtypes and multiple measures of adiposity was possible. MR results were consistent with those found in the aforementioned observational studies. This consistency was similar in the strength of effects, with a stronger effect observed for endometrioid cancer compared to non-endometrioid (confidence intervals overlapped). Of note is the association found for WHR and non-endometrioid cancer which has not previously been reported. \par
+
+### Limitations 
+In MR the three main assumptions (SNPs associate with the risk factor of interest, SNPs share no common cause with the outcome; SNPs do not affect the outcome except through the risk factor) need to be satisfied in order to obtain robust causal estimates. Adiposity instruments used here have been used widely and are robustly associated with their respective phenotypic measures[@Locke2015; @Shungin2015; @Lu2016]. For metabolites, previous work has used a standard approach of identifying SNPs reaching a genome wide significance threshold (5 x 10^-8^) which was employed here alongside a stringent LD clumping threshold (R^2^ $0.001$ and $10,000$ base window). However, the strength of these instruments in multivariable MR was considerably weaker than in two-sample MR, and for Triglycerides in small VLDL this was below the nominal threshold of 10. It is likely then that weak instrument bias[@Burgess2011] is a present feature of the multivariable MR results and may, for example, explain the decreased precision in confidence intervals. This reduced precision may for example explain why Triglycerides in very small VLDL adjusted for WHR is no longer associated with non-endometroid cancer in multivariable versus two-sample MR. In addition to this, instruments reflect a life time exposure and do not take into account change due to lifestyle for instance. \par
+
+It is also possible that metabolite SNPs do not conform to the second assumption, that they share no common cause with the outcome. That is, the SNPs and the outcome are not associated with an unmeasured confounder. Similarly, the third assumption that the SNPs do not affect the outcome except through the exposure may be unmet, especially as metabolites are highly inter-correlated with one another. In this sense the effect of metabolite A on the outcome could be through a highly correlated metabolite B. In two-sample MR, sensitivity methods (MR Egger, Weighted Median, Weighted Mode) showed consistent directions of effect for both metabolites with the IVW-MRE method, though the majority of confidence intervals crossed the null. The exception to the consistent direction was Triglycerides in small VLDL on Endometrioid cancer in MR Egger analysis which, though the effect crossed the null, was inverse to the other methods directions of effect. In multivariable MR sensitivity methods such as these have not been developed. Instead, horizontal pleiotropy was evaluated using a modified form of Cochran's Q[@Sanderson2019] which found a evidence (*p-value* < $0.05$) of pleiotropy for a majority of tests and may therefore bias estimates towards the confounded estimate. \par
+
+An additional implication here is the bias introduced through sample overlap. The metabolite GWAS was performed using UK Biobank participants. The outcome GWAS included individuals from UK Biobank. Overlap between the exposure and outcome in a two-sample MR can bias estimates towards the confounded in a manner proportional to the size of the overlap[@Burgess2016]. For binary outcomes this is specific to the overlap in exposure and cases. In this regard the number of UK Biobank participants included in the case arm is at most 5% of the total cases. As such, the relative bias in analyses conducted here is at most 0.5%. The use of summary statistics that did not include UK Biobank for adiposity measures, as was the case for Chapter \@ref(MR) meant overlap was not present for adiposity and endometrial cancer. \par
+
+In this work NMR derived metabolites were used as with work in Chapter \@ref(observational) and \@ref(MR). Although a relatively large number of metabolites were investigated, they are predominanlty lipid based. This leaves a broad array of metabolites that have not been investigated. Mass spectrometry (MS) has identified many hundreds of metabolites[@Alseekh2021] which have been associated with numerous SNPs in many genome wide association studies[@Shin2014; @Cheng2021; @Lotta2021]. Future work could focus on MS derived metabolites and explore non-lipid associations more throughly. \par
+
+The findings here were not replicated using an external metabolite and ednometrial cancer source. However, there is strength in the approach used, with multiple analyses, both observational and MR, used to identify metabolites with strong potential for mediating roles. This included the use of multiple metabolite data sources in Chapter \@ref(MR) which were replicated here. Replication work could focus on specific metabolites within the VLDL triglyceride classes focussed on here. For example there is some evidence to suggest myristic acid is associated with endometrial cancer development[@Lindemann2009]; myristic acid is a component of the triglyceride trimyristin[@NationalCenterforBiotechnologyInformation2021]. \par
+
+A major driver of endometrial cancer, specifically endometrioid cancer, is oestrogen[@WILD2020], which, as a sex hormone, is important in endometrial cell growth. Oestrogen is also involved in the distribution and accumulation of adipose tissue[@Wells2007]. Importantly, adipose tissue is an important source of oestrogen synthesis, particularly post-menopause[@Simpson2003]. There is sexual dimorphism in the accumulation and distribution of adipose tissue which is highlighted in genetic studies, which have found sex specific SNPs associated with adiposity[@Locke2015; @Shungin2015; @Pulit2019; @Yengo2018; @Hubel2019]. There is also evidence of sex differences in adiposity metabolite associations[@OKeeffe2020]. The use of non-sex specific instruments may therefore have biased estimates towards the confounded estimate. In addition, non-specificity of SNPs is expected given the highly inter-correlated nature of metabolites. Of the 56 and 50 SNPs associated with Triglycerides in small and very small VLDL respectively (90 unique SNPs), 16 were shared between them (18%). \par
+
+### Summary
+Overall there was weak evidence to suggest that Triglycerides in small and very small VLDL mediate the effects of adiposity on endometrial cancer. However, there is some evidence to suggest the effect of adiposity, specifically WHR, on non-endometrioid cancer is mediated by Triglycerides in small and very small VLDL. As endometrial cancer is a sex specific condition this work is limited by the use of sex combined instruments for adiposity and metabolites, though this does have utility in identifying general effects. Instrumentation is well established for adiposity measures but is more complicated for metabolites, and it results showed considerable pleiotropy in a majority of MVMR tests. Here, a simple instrumentation approach was used for metabolite (p-value and LD R^2^ thresholds). This approach could have been strengthened by collapsing metabolites into broader categories[@Bull2020] or by using composite instruments[@Sulc2021]. Previous work has highlighted numerous metabolic changes associated with endometrial cancer some of which are supported here. However, some of these changes appear not to be causal (e.g. valine) and may instead be co-occurring changes or biomarkers of change. Future work will be strengthened by using sex specific instruments and expanding the metabolomics analysis to incorporate a broader array of metabolites as identified using mass spectrometry as opposed to the predominantly lipid based metabolites identified in NMR analysis. \par
+
+\newpage
+
+
+
+<!--
+```{r mediation-table-N-SNP, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# adiposity SNPs
+adiposity <- read.table("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/exposure_data.txt", header = T, sep = "\t")
+bmi <- subset(adiposity, exposure == "Locke BMI EU sex combined 77 SNPs clumped")
+whr <- subset(adiposity, exposure == "Shungin WHR EU sex combined 26 SNPs")
+bf <- subset(adiposity, exposure == "Lu BF EU sex combined 5 SNPs")
+
+# metabolite SNPs
+metab <- read.table("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/exposure_data.txt", header = T, sep = "\t")
+svldltg <- subset(metab, exposure == "S_VLDL_TG_int_imputed.txt_snps.txt")
+svldltg$f_stats <- (svldltg$b / svldltg$se)^2 
+svldltg$mean_fstat <- mean(svldltg$f_stats)
+xsvldltg <- subset(metab, exposure == "XS_VLDL_TG_int_imputed.txt_snps.txt")
+xsvldltg$f_stats <- (xsvldltg$b / xsvldltg$se)^2 
+xsvldltg$mean_fstat <- mean(xsvldltg$f_stats)
+
+# mvmr adiposity SNPs
+mvmr_bmi_svldltg <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/adiposity/bmi_svldltg_mvmr_instruments.txt", header = T, sep = "\t")
+mvmr_bmi_xsvldltg <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/adiposity/bmi_xsvldltg_mvmr_instruments.txt", header = T, sep = "\t")
+mvmr_whr_svldltg <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/adiposity/whr_svldltg_mvmr_instruments.txt", header = T, sep = "\t")
+mvmr_whr_xsvldltg <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/adiposity/whr_xsvldltg_mvmr_instruments.txt", header = T, sep = "\t")
+mvmr_bf_svldltg <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/adiposity/bf_svldltg_mvmr_instruments.txt", header = T, sep = "\t")
+mvmr_bf_xsvldltg <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/adiposity/bf_xsvldltg_mvmr_instruments.txt", header = T, sep = "\t")
+
+# mvmr metabolite SNPs
+mvmr_svldltg_bmi <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/metabolites/bmi_svldltg_mvmr_instruments.txt", header = T, sep = "\t")
+mvmr_svldltg_whr <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/metabolites/whr_svldltg_mvmr_instruments.txt", header = T, sep = "\t")
+mvmr_svldltg_bf <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/metabolites/bf_svldltg_mvmr_instruments.txt", header = T, sep = "\t")
+mvmr_xsvldltg_bmi <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/metabolites/bmi_xsvldltg_mvmr_instruments.txt", header = T, sep = "\t")
+mvmr_xsvldltg_whr <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/metabolites/whr_xsvldltg_mvmr_instruments.txt", header = T, sep = "\t")
+mvmr_xsvldltg_bf <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/metabolites/bf_xsvldltg_mvmr_instruments.txt", header = T, sep = "\t")
+
+# table 
+table <- data.frame(a = "N",
+                    BMI = nrow(bmi),
+                    WHR = nrow(whr),
+                    BF = nrow(bf),
+                    SVLDLTG = nrow(svldltg),
+                    XSVLDLTG = nrow(xsvldltg))
+
+table1 <- data.frame(a = "N",
+                    `BMI SVLDLTG` = nrow(mvmr_bmi_svldltg),
+                    `BMI XSVLDLTG` = nrow(mvmr_bmi_xsvldltg),
+                    `WHR SVLDLTG` = nrow(mvmr_whr_svldltg),
+                    `WHR XSVLDLTG` = nrow(mvmr_whr_xsvldltg),
+                    `BF SVLDLTG` = nrow(mvmr_bf_svldltg),
+                    `BF XSVLDLTG` = nrow(mvmr_bf_xsvldltg),
+                    
+                    `SVLDLTG BMI` = nrow(mvmr_svldltg_bmi),
+                    `SVLDLTG WHR` = nrow(mvmr_svldltg_whr),
+                    `SVLDLTG BF` = nrow(mvmr_svldltg_bf),
+                    `XSVLDLTG BMI` = nrow(mvmr_xsvldltg_bmi),
+                    `XSVLDLTG WHR` = nrow(mvmr_xsvldltg_whr),
+                    `XSVLDLTG BF` = nrow(mvmr_xsvldltg_bf))
+
+knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F,
+    caption = 'Number of SNPs used in the two-sample MR analyses and multivaraibel MR analyses', row.names = F,
+    col.names = c("", "BMI", "WHR", "BF", "SVLDLTG", "XSVLDLTG")) %>%
+  kable_styling(latex_options = c("striped", "HOLD_position"), position = "center") %>%
+  kableExtra::footnote(general = " BMI = body mass idnex; WHR = waist hip ratio; BF = body fat percentage; SVLDLTG = Triglycerides in small VLDL; XSVLDLTG = Triglycerides in very small VLDL.", threeparttable = T, general_title = "", footnote_as_chunk = T)
+
+knitr::kable(table1, longtable = T, booktabs = T, format = "latex", escape = F,
+    caption = 'F-statistics for adjusted exposures used in multivariable MR analyses', row.names = F,
+    col.names = c("", "SVLDLTG", "XSVLDLTG", "SVLDLTG", "XSVLDLTG", "SVLDLTG", "XSVLDLTG", "BMI","WHR","BF","BMI","WHR","BF")) %>%
+  add_header_above(c("", "BMI" = 2, "WHR" = 2, "BF" = 2, "SVLDLTG" = 3, "XSVLDLTG" = 3)) %>%
+  kable_styling(latex_options = c("striped", "HOLD_position"), position = "center") %>%
+  kableExtra::footnote(general = "BMI = body mass idnex; WHR = waist hip ratio; BF = body fat percentage; SVLDLTG = Triglycerides in small VLDL; XSVLDLTG = Triglycerides in very small VLDL.", threeparttable = T, general_title = "", footnote_as_chunk = T)
+
+
+                    
+
+```
+-->
+

@@ -223,7 +223,10 @@
 \oddsidemargin 15truemm
 \evensidemargin 0truemm
 \topmargin 0truemm
-\headsep 10truemm
+\headsep 0truemm % changed this from 10truemm to make less white space at top of page
+\textwidth 420pt % added this to make right-hand-margin smaller
+\textheight 600pt % added this to make less white space at bottom of page
+\footskip 30pt % change to alter distance between main text and page number
 %%
 
 %% Defined terms
@@ -335,6 +338,16 @@
   \fontsize{12}{14}\selectfont
 }{\clearpage \if@restonecol\twocolumn\fi}%
 
+%% Publications
+\newenvironment{publications}{%
+  \if@twocolumn
+    \@restonecoltrue\onecolumn
+  \else
+    \@restonecolfalse
+  \fi
+  \chapter{List of Publications}
+  \fontsize{12}{14}\selectfont
+}{\clearpage \if@restonecol\twocolumn\fi}%
 
 %%% Other things
 \renewcommand{\title}[1]{\def\@title{#1}}
@@ -342,3 +355,4 @@
 \newcommand{\Acknowledgements}[1]{\def\@Acknowledgements{#1}}
 \newcommand{\Declaration}[1]{\def\@Declaration{#1}}
 \newcommand{\Abbreviations}[1]{\def\@Abbreviations{#1}}
+\newcommand{\Publications}[1]{\def\@Publications{#1}}

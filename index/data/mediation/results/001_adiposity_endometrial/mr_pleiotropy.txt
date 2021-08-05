@@ -1,0 +1,10 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+Locke BMI EU sex combined 77 SNPs clumped	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Locke BMI EU sex combined 77 SNPs clumped	0.00335726139356436	0.00592538410948549	0.572707509250947
+Locke BMI EU sex combined 77 SNPs clumped	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Locke BMI EU sex combined 77 SNPs clumped	0.00265612992464949	0.00678261294068513	0.696472827669914
+Locke BMI EU sex combined 77 SNPs clumped	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Locke BMI EU sex combined 77 SNPs clumped	0.0131641133355427	0.0143241700200663	0.361074185080306
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Lu BF EU sex combined 5 SNPs	-0.0292702440188132	0.0358716538717191	0.474279882628147
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Lu BF EU sex combined 5 SNPs	-0.0691301558893181	0.0423429117898203	0.201051805989866
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Lu BF EU sex combined 5 SNPs	-0.095560239695571	0.140290922752718	0.544638949426441
+Shungin WHR EU sex combined 26 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Shungin WHR EU sex combined 26 SNPs	-0.000563509458469292	0.0125221912580791	0.964478959238888
+Shungin WHR EU sex combined 26 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Shungin WHR EU sex combined 26 SNPs	-0.0169918756136091	0.0142875099180915	0.245962433254982
+Shungin WHR EU sex combined 26 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Shungin WHR EU sex combined 26 SNPs	-0.0134331335252556	0.0304470457623344	0.663019833691007

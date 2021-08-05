@@ -1,0 +1,997 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+Shungin WHR EU sex combined 26 SNPs	0EjK54	Gln_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	45.5091732989364	25	0.00731235488139387
+Shungin WHR EU sex combined 26 SNPs	0EjK54	Gln_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	45.1655655872969	24	0.00556802122762115
+Shungin WHR EU sex combined 26 SNPs	0EjK54	Gln_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	46.0373341579074	25	0.00635416431659617
+Shungin WHR EU sex combined 26 SNPs	0EjK54	Gln_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00198953200665809	25	1
+Shungin WHR EU sex combined 26 SNPs	0o9Kea	M_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	31.7814022587899	25	0.164434818729428
+Shungin WHR EU sex combined 26 SNPs	0o9Kea	M_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	28.7837807940144	24	0.228374536722708
+Shungin WHR EU sex combined 26 SNPs	0o9Kea	M_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	31.7905412103032	25	0.164162379403326
+Shungin WHR EU sex combined 26 SNPs	0o9Kea	M_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00129695469829004	25	1
+Shungin WHR EU sex combined 26 SNPs	0QFh7U	M_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	274.157053885831	25	8.79467225202815e-44
+Shungin WHR EU sex combined 26 SNPs	0QFh7U	M_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	299.039990956832	24	2.61679095555233e-49
+Shungin WHR EU sex combined 26 SNPs	0QFh7U	M_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	299.499020107782	25	7.57769566331235e-49
+Shungin WHR EU sex combined 26 SNPs	0QFh7U	M_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0111712589400249	25	1
+Shungin WHR EU sex combined 26 SNPs	19Ec1X	L_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	19.0659745022612	25	0.793946265494033
+Shungin WHR EU sex combined 26 SNPs	19Ec1X	L_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	19.0757024678087	24	0.747940381853221
+Shungin WHR EU sex combined 26 SNPs	19Ec1X	L_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	19.0757030672282	25	0.793476346855077
+Shungin WHR EU sex combined 26 SNPs	19Ec1X	L_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000707605381790544	25	1
+Shungin WHR EU sex combined 26 SNPs	19J12O	L_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	222.85905975613	25	1.14252866073259e-33
+Shungin WHR EU sex combined 26 SNPs	19J12O	L_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	247.685260438707	24	4.74541527341154e-39
+Shungin WHR EU sex combined 26 SNPs	19J12O	L_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	248.391229504629	25	1.12290166338675e-38
+Shungin WHR EU sex combined 26 SNPs	19J12O	L_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00932228340770194	25	1
+Shungin WHR EU sex combined 26 SNPs	1byHPt	MUFA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	180.79993248095	25	1.43819233170347e-25
+Shungin WHR EU sex combined 26 SNPs	1byHPt	MUFA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	186.118292007822	24	4.94381625236782e-27
+Shungin WHR EU sex combined 26 SNPs	1byHPt	MUFA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	186.783423277983	25	1.04510806752279e-26
+Shungin WHR EU sex combined 26 SNPs	1byHPt	MUFA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00686177420296094	25	1
+Shungin WHR EU sex combined 26 SNPs	1HvKw9	XXL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	288.530553034848	25	1.19212597825136e-46
+Shungin WHR EU sex combined 26 SNPs	1HvKw9	XXL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	312.095223589096	24	6.10349766013505e-52
+Shungin WHR EU sex combined 26 SNPs	1HvKw9	XXL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	312.269064647296	25	2.05892401246244e-51
+Shungin WHR EU sex combined 26 SNPs	1HvKw9	XXL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0114338154891201	25	1
+Shungin WHR EU sex combined 26 SNPs	1pfRct	XXL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	284.459282783576	25	7.76144888369454e-46
+Shungin WHR EU sex combined 26 SNPs	1pfRct	XXL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	308.029118331085	24	4.03926275832704e-51
+Shungin WHR EU sex combined 26 SNPs	1pfRct	XXL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	308.168696188886	25	1.37550407985144e-50
+Shungin WHR EU sex combined 26 SNPs	1pfRct	XXL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0113512863249291	25	1
+Shungin WHR EU sex combined 26 SNPs	1qJRmf	L_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	290.15400010365	25	5.64430783592904e-47
+Shungin WHR EU sex combined 26 SNPs	1qJRmf	L_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	320.021416687863	24	1.52558226432802e-53
+Shungin WHR EU sex combined 26 SNPs	1qJRmf	L_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	320.212054410786	25	5.16950331410906e-53
+Shungin WHR EU sex combined 26 SNPs	1qJRmf	L_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0119968634969432	25	1
+Shungin WHR EU sex combined 26 SNPs	1zjnPZ	IDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	100.454007121202	25	5.26077387298796e-11
+Shungin WHR EU sex combined 26 SNPs	1zjnPZ	IDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	101.080839251974	24	1.96415692158136e-11
+Shungin WHR EU sex combined 26 SNPs	1zjnPZ	IDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	101.643788707125	25	3.3119299189981e-11
+Shungin WHR EU sex combined 26 SNPs	1zjnPZ	IDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00438451409396604	25	1
+Shungin WHR EU sex combined 26 SNPs	2BguKF	XXL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	79.4264684774185	25	1.40305548323024e-07
+Shungin WHR EU sex combined 26 SNPs	2BguKF	XXL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	80.9373181851305	24	4.31088034150716e-08
+Shungin WHR EU sex combined 26 SNPs	2BguKF	XXL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	81.3348363001634	25	7.03836164626695e-08
+Shungin WHR EU sex combined 26 SNPs	2BguKF	XXL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00334161461499183	25	1
+Shungin WHR EU sex combined 26 SNPs	2d4AYq	XL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	186.087866360344	25	1.41836575147591e-26
+Shungin WHR EU sex combined 26 SNPs	2d4AYq	XL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	191.89484879248	24	3.83718106308778e-28
+Shungin WHR EU sex combined 26 SNPs	2d4AYq	XL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	193.381304002977	25	5.72537237632093e-28
+Shungin WHR EU sex combined 26 SNPs	2d4AYq	XL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00751488840132056	25	1
+Shungin WHR EU sex combined 26 SNPs	2fw1Fv	M_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	99.6316795125777	25	7.23709128643475e-11
+Shungin WHR EU sex combined 26 SNPs	2fw1Fv	M_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	100.608163437831	24	2.36569822346206e-11
+Shungin WHR EU sex combined 26 SNPs	2fw1Fv	M_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	102.282541464985	25	2.58178276364003e-11
+Shungin WHR EU sex combined 26 SNPs	2fw1Fv	M_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00414915534850646	25	1
+Shungin WHR EU sex combined 26 SNPs	2LaQQR	L_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	49.4337863358953	25	0.00250113596222971
+Shungin WHR EU sex combined 26 SNPs	2LaQQR	L_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	49.0793442144166	24	0.00185126262199728
+Shungin WHR EU sex combined 26 SNPs	2LaQQR	L_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	49.782466497554	25	0.00226667735046875
+Shungin WHR EU sex combined 26 SNPs	2LaQQR	L_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00187812318363832	25	1
+Shungin WHR EU sex combined 26 SNPs	33UoDH	Total_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	12.5120559098106	25	0.98193947319299
+Shungin WHR EU sex combined 26 SNPs	33UoDH	Total_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	11.8386256299824	24	0.98166549129623
+Shungin WHR EU sex combined 26 SNPs	33UoDH	Total_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	12.51615994104	25	0.981898091639306
+Shungin WHR EU sex combined 26 SNPs	33UoDH	Total_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000525506133648852	25	1
+Shungin WHR EU sex combined 26 SNPs	3hg65P	Remnant_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	53.2933000316541	25	0.000819834585555487
+Shungin WHR EU sex combined 26 SNPs	3hg65P	Remnant_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	53.3783306799987	24	0.000515558447651248
+Shungin WHR EU sex combined 26 SNPs	3hg65P	Remnant_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	54.1815384487607	25	0.000629379781786056
+Shungin WHR EU sex combined 26 SNPs	3hg65P	Remnant_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00198564323696607	25	1
+Shungin WHR EU sex combined 26 SNPs	3kQaYU	PUFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	46.9189309017441	25	0.00501215806275201
+Shungin WHR EU sex combined 26 SNPs	3kQaYU	PUFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	46.9088203095251	24	0.0034367115902382
+Shungin WHR EU sex combined 26 SNPs	3kQaYU	PUFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	47.277903540805	25	0.00454615967967181
+Shungin WHR EU sex combined 26 SNPs	3kQaYU	PUFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00175998425627376	25	1
+Shungin WHR EU sex combined 26 SNPs	4BX5HP	S_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	186.779792545555	25	1.04677580251328e-26
+Shungin WHR EU sex combined 26 SNPs	4BX5HP	S_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	193.038726243452	24	2.31041611265359e-28
+Shungin WHR EU sex combined 26 SNPs	4BX5HP	S_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	193.042001702882	25	6.64985210029418e-28
+Shungin WHR EU sex combined 26 SNPs	4BX5HP	S_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00693262640672276	25	1
+Shungin WHR EU sex combined 26 SNPs	4eoRlZ	XL_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	66.681857903432	25	1.18237756060268e-05
+Shungin WHR EU sex combined 26 SNPs	4eoRlZ	XL_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	67.1048816007365	24	5.94841144197524e-06
+Shungin WHR EU sex combined 26 SNPs	4eoRlZ	XL_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	67.205377627078	25	9.92099199317211e-06
+Shungin WHR EU sex combined 26 SNPs	4eoRlZ	XL_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0025439405954787	25	1
+Shungin WHR EU sex combined 26 SNPs	4KPW1D	S_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	86.5285696820187	25	1.04583055050617e-08
+Shungin WHR EU sex combined 26 SNPs	4KPW1D	S_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	89.5854050686151	24	1.68814310619831e-09
+Shungin WHR EU sex combined 26 SNPs	4KPW1D	S_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	89.6131789765379	25	3.30828881693245e-09
+Shungin WHR EU sex combined 26 SNPs	4KPW1D	S_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00336517863041917	25	1
+Shungin WHR EU sex combined 26 SNPs	4MtmbO	Total_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	48.0289112394904	25	0.00370000212999559
+Shungin WHR EU sex combined 26 SNPs	4MtmbO	Total_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	48.1621746512695	24	0.00240996241990795
+Shungin WHR EU sex combined 26 SNPs	4MtmbO	Total_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	48.5717426842857	25	0.00318352776289212
+Shungin WHR EU sex combined 26 SNPs	4MtmbO	Total_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00181237668646427	25	1
+Shungin WHR EU sex combined 26 SNPs	4oicqp	bOHbutyrate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	31.5026616000354	25	0.172910448113007
+Shungin WHR EU sex combined 26 SNPs	4oicqp	bOHbutyrate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	30.955346728138	24	0.15507437170398
+Shungin WHR EU sex combined 26 SNPs	4oicqp	bOHbutyrate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	31.5815778047748	25	0.170478081329905
+Shungin WHR EU sex combined 26 SNPs	4oicqp	bOHbutyrate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00127820531245163	25	1
+Shungin WHR EU sex combined 26 SNPs	4QM35t	Gly_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	96.8261512391915	25	2.13638191550009e-10
+Shungin WHR EU sex combined 26 SNPs	4QM35t	Gly_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	97.7684091449142	24	7.19705516276549e-11
+Shungin WHR EU sex combined 26 SNPs	4QM35t	Gly_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	98.407865675943	25	1.16173778040638e-10
+Shungin WHR EU sex combined 26 SNPs	4QM35t	Gly_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00367520271089317	25	1
+Shungin WHR EU sex combined 26 SNPs	52HjjV	L_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	140.603846528513	25	4.44990090633736e-18
+Shungin WHR EU sex combined 26 SNPs	52HjjV	L_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	145.142955614075	24	2.63057657455997e-19
+Shungin WHR EU sex combined 26 SNPs	52HjjV	L_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	145.354387687713	25	6.0266440298735e-19
+Shungin WHR EU sex combined 26 SNPs	52HjjV	L_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00545989338115005	25	1
+Shungin WHR EU sex combined 26 SNPs	5DB3es	Val_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	149.561441897994	25	1.01582607287563e-19
+Shungin WHR EU sex combined 26 SNPs	5DB3es	Val_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	144.978684434835	24	2.82095944840346e-19
+Shungin WHR EU sex combined 26 SNPs	5DB3es	Val_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	150.537272643095	25	6.71286053620705e-20
+Shungin WHR EU sex combined 26 SNPs	5DB3es	Val_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00529583345426099	25	1
+Shungin WHR EU sex combined 26 SNPs	5Prgtp	VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	252.598227600136	25	1.65944000678171e-39
+Shungin WHR EU sex combined 26 SNPs	5Prgtp	VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	274.783495213435	24	1.92256730685602e-44
+Shungin WHR EU sex combined 26 SNPs	5Prgtp	VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	274.787212779275	25	6.58808701130014e-44
+Shungin WHR EU sex combined 26 SNPs	5Prgtp	VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0101560532082834	25	1
+Shungin WHR EU sex combined 26 SNPs	5wzHoP	S_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	219.620206245575	25	4.88404743115639e-33
+Shungin WHR EU sex combined 26 SNPs	5wzHoP	S_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	236.545497075008	24	7.53984488528746e-37
+Shungin WHR EU sex combined 26 SNPs	5wzHoP	S_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	236.607393977311	25	2.33666958036882e-36
+Shungin WHR EU sex combined 26 SNPs	5wzHoP	S_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00891499091014637	25	1
+Shungin WHR EU sex combined 26 SNPs	6ddLYw	XXL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	32.2792621169168	25	0.150089652517006
+Shungin WHR EU sex combined 26 SNPs	6ddLYw	XXL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	32.2971745421357	24	0.119792835187071
+Shungin WHR EU sex combined 26 SNPs	6ddLYw	XXL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	32.3230653119441	25	0.148875403398637
+Shungin WHR EU sex combined 26 SNPs	6ddLYw	XXL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00129462927430781	25	1
+Shungin WHR EU sex combined 26 SNPs	6dEKes	S_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	71.0745997817558	25	2.6613227535237e-06
+Shungin WHR EU sex combined 26 SNPs	6dEKes	S_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	72.3212209820663	24	9.67895426955085e-07
+Shungin WHR EU sex combined 26 SNPs	6dEKes	S_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	72.5934201812128	25	1.57398307029045e-06
+Shungin WHR EU sex combined 26 SNPs	6dEKes	S_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00272242610996481	25	1
+Shungin WHR EU sex combined 26 SNPs	6nGuZi	XS_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	24.5455101852584	25	0.488061606608281
+Shungin WHR EU sex combined 26 SNPs	6nGuZi	XS_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	22.4384092370176	24	0.553117392501294
+Shungin WHR EU sex combined 26 SNPs	6nGuZi	XS_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	24.5856361384704	25	0.485777380572394
+Shungin WHR EU sex combined 26 SNPs	6nGuZi	XS_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000878943763386622	25	1
+Shungin WHR EU sex combined 26 SNPs	6oCWgu	Phe_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	13.5300009377736	25	0.969319968781168
+Shungin WHR EU sex combined 26 SNPs	6oCWgu	Phe_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	12.6916110219562	24	0.97093581978623
+Shungin WHR EU sex combined 26 SNPs	6oCWgu	Phe_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	13.5325099027298	25	0.969282599978165
+Shungin WHR EU sex combined 26 SNPs	6oCWgu	Phe_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000615919931256183	25	1
+Shungin WHR EU sex combined 26 SNPs	6tWGiz	IDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	140.6666799289	25	4.33412222880373e-18
+Shungin WHR EU sex combined 26 SNPs	6tWGiz	IDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	145.015838930561	24	2.77673090143526e-19
+Shungin WHR EU sex combined 26 SNPs	6tWGiz	IDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	145.07058764073	25	6.7935208022973e-19
+Shungin WHR EU sex combined 26 SNPs	6tWGiz	IDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00536182237489754	25	1
+Shungin WHR EU sex combined 26 SNPs	6YUMFn	XS_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	89.9626459244617	25	2.9014540993672e-09
+Shungin WHR EU sex combined 26 SNPs	6YUMFn	XS_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	90.9182131243793	24	1.01535542873791e-09
+Shungin WHR EU sex combined 26 SNPs	6YUMFn	XS_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	91.5732473721975	25	1.58149779257638e-09
+Shungin WHR EU sex combined 26 SNPs	6YUMFn	XS_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00325368729809308	25	1
+Shungin WHR EU sex combined 26 SNPs	74evKV	Acetoacetate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	15.4214801217466	25	0.930971672751006
+Shungin WHR EU sex combined 26 SNPs	74evKV	Acetoacetate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	15.398406203414	24	0.908558084523609
+Shungin WHR EU sex combined 26 SNPs	74evKV	Acetoacetate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	15.4411308861107	25	0.930458756898651
+Shungin WHR EU sex combined 26 SNPs	74evKV	Acetoacetate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000691635377103546	25	1
+Shungin WHR EU sex combined 26 SNPs	74SLdG	L_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	48.9831233390724	25	0.00283840231456708
+Shungin WHR EU sex combined 26 SNPs	74SLdG	L_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	49.5786306015738	24	0.00160144076525721
+Shungin WHR EU sex combined 26 SNPs	74SLdG	L_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	49.7636560924351	25	0.00227877363556912
+Shungin WHR EU sex combined 26 SNPs	74SLdG	L_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00185004936986775	25	1
+Shungin WHR EU sex combined 26 SNPs	7XyOss	PUFA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	149.156876094987	25	1.20600214602559e-19
+Shungin WHR EU sex combined 26 SNPs	7XyOss	PUFA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	154.536312162896	24	4.73545615864327e-21
+Shungin WHR EU sex combined 26 SNPs	7XyOss	PUFA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	154.62370062097	25	1.17848823575845e-20
+Shungin WHR EU sex combined 26 SNPs	7XyOss	PUFA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00560815957977224	25	1
+Shungin WHR EU sex combined 26 SNPs	8f6P63	VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	177.733260446887	25	5.48730816962045e-25
+Shungin WHR EU sex combined 26 SNPs	8f6P63	VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	188.591055733645	24	1.65736528964138e-27
+Shungin WHR EU sex combined 26 SNPs	8f6P63	VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	188.630542020466	25	4.64120580379938e-27
+Shungin WHR EU sex combined 26 SNPs	8f6P63	VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00702317184870776	25	1
+Shungin WHR EU sex combined 26 SNPs	8FhRQX	XL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	60.8047242996618	25	8.09202781004255e-05
+Shungin WHR EU sex combined 26 SNPs	8FhRQX	XL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	60.8615641179316	24	4.82256907550415e-05
+Shungin WHR EU sex combined 26 SNPs	8FhRQX	XL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	61.4574485838945	25	6.56472721870616e-05
+Shungin WHR EU sex combined 26 SNPs	8FhRQX	XL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00226618594332646	25	1
+Shungin WHR EU sex combined 26 SNPs	8l1E0s	Creatinine_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	86.4790819444005	25	1.06520564509329e-08
+Shungin WHR EU sex combined 26 SNPs	8l1E0s	Creatinine_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	85.3886031118489	24	8.2418177203897e-09
+Shungin WHR EU sex combined 26 SNPs	8l1E0s	Creatinine_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	86.5312894413781	25	1.04477589804964e-08
+Shungin WHR EU sex combined 26 SNPs	8l1E0s	Creatinine_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00353531049527631	25	1
+Shungin WHR EU sex combined 26 SNPs	8R3S1d	M_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	191.980990463618	25	1.06169031624147e-27
+Shungin WHR EU sex combined 26 SNPs	8R3S1d	M_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	201.631297532058	24	5.05324236712118e-30
+Shungin WHR EU sex combined 26 SNPs	8R3S1d	M_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	201.943750715942	25	1.29556249011712e-29
+Shungin WHR EU sex combined 26 SNPs	8R3S1d	M_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00761115850040809	25	1
+Shungin WHR EU sex combined 26 SNPs	8RXWVI	S_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	37.1931686427742	25	0.0553447823055111
+Shungin WHR EU sex combined 26 SNPs	8RXWVI	S_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	34.8487460876518	24	0.0706753300887187
+Shungin WHR EU sex combined 26 SNPs	8RXWVI	S_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	37.2029686366699	25	0.0552257530575178
+Shungin WHR EU sex combined 26 SNPs	8RXWVI	S_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0014328382897497	25	1
+Shungin WHR EU sex combined 26 SNPs	9cJsKh	GlycA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	107.867643431327	25	2.87444029383303e-12
+Shungin WHR EU sex combined 26 SNPs	9cJsKh	GlycA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	104.569051765426	24	4.94328146078474e-12
+Shungin WHR EU sex combined 26 SNPs	9cJsKh	GlycA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	108.782223984213	25	2.00072472963793e-12
+Shungin WHR EU sex combined 26 SNPs	9cJsKh	GlycA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00396168860993124	25	1
+Shungin WHR EU sex combined 26 SNPs	9drldV	S_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	65.0465349094408	25	2.03690640822844e-05
+Shungin WHR EU sex combined 26 SNPs	9drldV	S_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	63.4693224789316	24	2.03552050651574e-05
+Shungin WHR EU sex combined 26 SNPs	9drldV	S_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	66.2120099389324	25	1.38327233317598e-05
+Shungin WHR EU sex combined 26 SNPs	9drldV	S_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0026939202799381	25	1
+Shungin WHR EU sex combined 26 SNPs	9j2bdy	XS_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	110.022941374381	25	1.22227543788235e-12
+Shungin WHR EU sex combined 26 SNPs	9j2bdy	XS_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	110.671514593541	24	4.30375368975878e-13
+Shungin WHR EU sex combined 26 SNPs	9j2bdy	XS_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	111.120411534379	25	7.89506506898691e-13
+Shungin WHR EU sex combined 26 SNPs	9j2bdy	XS_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00407943453392313	25	1
+Shungin WHR EU sex combined 26 SNPs	9kgCMz	Omega_6_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	41.6866310250614	25	0.0194168342902341
+Shungin WHR EU sex combined 26 SNPs	9kgCMz	Omega_6_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	40.9258181010253	24	0.0169718115750183
+Shungin WHR EU sex combined 26 SNPs	9kgCMz	Omega_6_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	41.8426530847538	25	0.0186851383749904
+Shungin WHR EU sex combined 26 SNPs	9kgCMz	Omega_6_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00156950879009562	25	1
+Shungin WHR EU sex combined 26 SNPs	9WbQy3	M_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	114.954473067097	25	1.70077281412429e-13
+Shungin WHR EU sex combined 26 SNPs	9WbQy3	M_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	117.259925312712	24	2.9766610041635e-14
+Shungin WHR EU sex combined 26 SNPs	9WbQy3	M_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	118.910954508863	25	3.44419243908759e-14
+Shungin WHR EU sex combined 26 SNPs	9WbQy3	M_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00475119897227945	25	1
+Shungin WHR EU sex combined 26 SNPs	9yxcuH	Unsaturation_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	75.9749332541228	25	4.80920945093197e-07
+Shungin WHR EU sex combined 26 SNPs	9yxcuH	Unsaturation_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	77.0487366059624	24	1.78366196990902e-07
+Shungin WHR EU sex combined 26 SNPs	9yxcuH	Unsaturation_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	77.0562638740074	25	3.27679525270964e-07
+Shungin WHR EU sex combined 26 SNPs	9yxcuH	Unsaturation_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00292425310723056	25	1
+Shungin WHR EU sex combined 26 SNPs	A5ts8M	M_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	240.411181335219	25	4.18353945423223e-37
+Shungin WHR EU sex combined 26 SNPs	A5ts8M	M_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	259.445574234534	24	2.19928792749768e-41
+Shungin WHR EU sex combined 26 SNPs	A5ts8M	M_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	259.618386001077	25	6.78124478267611e-41
+Shungin WHR EU sex combined 26 SNPs	A5ts8M	M_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00957961571092755	25	1
+Shungin WHR EU sex combined 26 SNPs	AbmjlU	ApoA1_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	109.026222653813	25	1.81613056314615e-12
+Shungin WHR EU sex combined 26 SNPs	AbmjlU	ApoA1_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	111.387280916146	24	3.22523687170913e-13
+Shungin WHR EU sex combined 26 SNPs	AbmjlU	ApoA1_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	112.819226652346	25	4.0051985553776e-13
+Shungin WHR EU sex combined 26 SNPs	AbmjlU	ApoA1_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00449647148894341	25	1
+Shungin WHR EU sex combined 26 SNPs	aEGEYZ	XL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	264.278675169629	25	8.08103047481611e-42
+Shungin WHR EU sex combined 26 SNPs	aEGEYZ	XL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	289.310444072777	24	2.36395885514248e-47
+Shungin WHR EU sex combined 26 SNPs	aEGEYZ	XL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	289.311667854849	25	8.31970462440363e-47
+Shungin WHR EU sex combined 26 SNPs	aEGEYZ	XL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0107677753955788	25	1
+Shungin WHR EU sex combined 26 SNPs	aOKcvQ	LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	167.945116719897	25	3.85105962162274e-23
+Shungin WHR EU sex combined 26 SNPs	aOKcvQ	LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	175.014277072058	24	6.53137440717965e-25
+Shungin WHR EU sex combined 26 SNPs	aOKcvQ	LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	175.22610493008	25	1.63578263979604e-24
+Shungin WHR EU sex combined 26 SNPs	aOKcvQ	LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0065734377683775	25	1
+Shungin WHR EU sex combined 26 SNPs	APmgBj	M_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	253.464931026797	25	1.11871767519626e-39
+Shungin WHR EU sex combined 26 SNPs	APmgBj	M_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	277.234995474336	24	6.21796084101061e-45
+Shungin WHR EU sex combined 26 SNPs	APmgBj	M_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	277.742670933798	25	1.69826281744512e-44
+Shungin WHR EU sex combined 26 SNPs	APmgBj	M_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0103865281190291	25	1
+Shungin WHR EU sex combined 26 SNPs	b2eXVN	S_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	64.8591468845549	25	2.16700009483022e-05
+Shungin WHR EU sex combined 26 SNPs	b2eXVN	S_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	66.002544176513	24	8.66575676352375e-06
+Shungin WHR EU sex combined 26 SNPs	b2eXVN	S_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	66.4676407241989	25	1.27015420158344e-05
+Shungin WHR EU sex combined 26 SNPs	b2eXVN	S_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00244376993304926	25	1
+Shungin WHR EU sex combined 26 SNPs	b44m11	S_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	95.4503512893036	25	3.62063743359297e-10
+Shungin WHR EU sex combined 26 SNPs	b44m11	S_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	98.8817322444778	24	4.65758837894647e-11
+Shungin WHR EU sex combined 26 SNPs	b44m11	S_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	99.0328707416554	25	9.12486221057681e-11
+Shungin WHR EU sex combined 26 SNPs	b44m11	S_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00372177704508516	25	1
+Shungin WHR EU sex combined 26 SNPs	b5izp2	M_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	71.2162457918633	25	2.53461469939086e-06
+Shungin WHR EU sex combined 26 SNPs	b5izp2	M_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	73.4382327180445	24	6.51459961930529e-07
+Shungin WHR EU sex combined 26 SNPs	b5izp2	M_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	73.4560012809892	25	1.16562671773653e-06
+Shungin WHR EU sex combined 26 SNPs	b5izp2	M_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00278687441721119	25	1
+Shungin WHR EU sex combined 26 SNPs	B9KJbc	Glucose_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	61.8986012109091	25	5.69554061123948e-05
+Shungin WHR EU sex combined 26 SNPs	B9KJbc	Glucose_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	60.2648547950031	24	5.86020394299825e-05
+Shungin WHR EU sex combined 26 SNPs	B9KJbc	Glucose_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	61.9139010425807	25	5.6675015450974e-05
+Shungin WHR EU sex combined 26 SNPs	B9KJbc	Glucose_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00239767216791658	25	1
+Shungin WHR EU sex combined 26 SNPs	bctHc4	XS_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	42.8636548363315	25	0.0144865190682496
+Shungin WHR EU sex combined 26 SNPs	bctHc4	XS_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	42.1643838917918	24	0.0123684539154273
+Shungin WHR EU sex combined 26 SNPs	bctHc4	XS_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	43.0709577326669	25	0.0137479344245035
+Shungin WHR EU sex combined 26 SNPs	bctHc4	XS_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00164647750555365	25	1
+Shungin WHR EU sex combined 26 SNPs	bGcCGW	XL_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	203.909627108242	25	5.41293684902548e-30
+Shungin WHR EU sex combined 26 SNPs	bGcCGW	XL_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	226.247338095977	24	7.99698351470638e-35
+Shungin WHR EU sex combined 26 SNPs	bGcCGW	XL_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	226.368716486344	25	2.36068198885256e-34
+Shungin WHR EU sex combined 26 SNPs	bGcCGW	XL_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00834747932893536	25	1
+Shungin WHR EU sex combined 26 SNPs	ccZUh9	S_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	41.1528729734374	25	0.0221218347650317
+Shungin WHR EU sex combined 26 SNPs	ccZUh9	S_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	41.2483935035027	24	0.0156413133968704
+Shungin WHR EU sex combined 26 SNPs	ccZUh9	S_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	41.3968681298645	25	0.0208454266586764
+Shungin WHR EU sex combined 26 SNPs	ccZUh9	S_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0015833682664023	25	1
+Shungin WHR EU sex combined 26 SNPs	cSRaVz	TG_by_PG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	330.233489695524	25	4.90034685674251e-55
+Shungin WHR EU sex combined 26 SNPs	cSRaVz	TG_by_PG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	364.462315350145	24	1.41444470054543e-62
+Shungin WHR EU sex combined 26 SNPs	cSRaVz	TG_by_PG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	365.286159701162	25	3.79670671815695e-62
+Shungin WHR EU sex combined 26 SNPs	cSRaVz	TG_by_PG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0137465662223316	25	1
+Shungin WHR EU sex combined 26 SNPs	CuNqJ3	M_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	19.8620680842203	25	0.754022813984083
+Shungin WHR EU sex combined 26 SNPs	CuNqJ3	M_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	18.8472092584667	24	0.760088120564324
+Shungin WHR EU sex combined 26 SNPs	CuNqJ3	M_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	19.9083019204186	25	0.751618793838067
+Shungin WHR EU sex combined 26 SNPs	CuNqJ3	M_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00076773043324827	25	1
+Shungin WHR EU sex combined 26 SNPs	D1QsY8	Total_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	13.2655946301563	25	0.973076993021997
+Shungin WHR EU sex combined 26 SNPs	D1QsY8	Total_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	12.5678157124041	24	0.972722424959696
+Shungin WHR EU sex combined 26 SNPs	D1QsY8	Total_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	13.2656446789162	25	0.973076315273371
+Shungin WHR EU sex combined 26 SNPs	D1QsY8	Total_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000564329902687716	25	1
+Shungin WHR EU sex combined 26 SNPs	DCQs5e	Ile_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	110.502874542707	25	1.00976370581701e-12
+Shungin WHR EU sex combined 26 SNPs	DCQs5e	Ile_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	106.254106853594	24	2.527831257749e-12
+Shungin WHR EU sex combined 26 SNPs	DCQs5e	Ile_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	110.828875492773	25	8.86796753466347e-13
+Shungin WHR EU sex combined 26 SNPs	DCQs5e	Ile_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00396347388107802	25	1
+Shungin WHR EU sex combined 26 SNPs	DCRtqZ	Omega_6_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	170.138540131455	25	1.49014949831982e-23
+Shungin WHR EU sex combined 26 SNPs	DCRtqZ	Omega_6_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	178.324588437334	24	1.5295720675004e-25
+Shungin WHR EU sex combined 26 SNPs	DCRtqZ	Omega_6_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	178.324653594278	25	4.23957978438787e-25
+Shungin WHR EU sex combined 26 SNPs	DCRtqZ	Omega_6_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00651691370212059	25	1
+Shungin WHR EU sex combined 26 SNPs	dG6xXZ	Omega_6_by_Omega_3_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	45.0297954181724	25	0.00829733547252424
+Shungin WHR EU sex combined 26 SNPs	dG6xXZ	Omega_6_by_Omega_3_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	44.8200588531465	24	0.00611703043367884
+Shungin WHR EU sex combined 26 SNPs	dG6xXZ	Omega_6_by_Omega_3_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	45.5522766052105	25	0.00722936121267246
+Shungin WHR EU sex combined 26 SNPs	dG6xXZ	Omega_6_by_Omega_3_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00176558545894365	25	1
+Shungin WHR EU sex combined 26 SNPs	dgUBbC	L_LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	24.4021777804008	25	0.496244112949542
+Shungin WHR EU sex combined 26 SNPs	dgUBbC	L_LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	24.3692186527946	24	0.440654508438931
+Shungin WHR EU sex combined 26 SNPs	dgUBbC	L_LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	24.5477183782869	25	0.487935826444806
+Shungin WHR EU sex combined 26 SNPs	dgUBbC	L_LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000931577380873539	25	1
+Shungin WHR EU sex combined 26 SNPs	dIVCR7	VLDL_size_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	306.31957890925	25	3.23699971010994e-50
+Shungin WHR EU sex combined 26 SNPs	dIVCR7	VLDL_size_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	338.248053077558	24	3.07957056368691e-57
+Shungin WHR EU sex combined 26 SNPs	dIVCR7	VLDL_size_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	338.445518405067	25	1.06882832861456e-56
+Shungin WHR EU sex combined 26 SNPs	dIVCR7	VLDL_size_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0125532193712679	25	1
+Shungin WHR EU sex combined 26 SNPs	DnQ798	Total_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	19.6063342868439	25	0.767158721848181
+Shungin WHR EU sex combined 26 SNPs	DnQ798	Total_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	18.6532215060968	24	0.770221487868252
+Shungin WHR EU sex combined 26 SNPs	DnQ798	Total_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	19.6100317852293	25	0.766970800551772
+Shungin WHR EU sex combined 26 SNPs	DnQ798	Total_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000807826461021402	25	1
+Shungin WHR EU sex combined 26 SNPs	dtf6kL	M_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	92.8724612626716	25	9.66973378115165e-10
+Shungin WHR EU sex combined 26 SNPs	dtf6kL	M_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	96.728693410047	24	1.07925617083155e-10
+Shungin WHR EU sex combined 26 SNPs	dtf6kL	M_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	96.7429923532052	25	2.20573979322654e-10
+Shungin WHR EU sex combined 26 SNPs	dtf6kL	M_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00366795210361596	25	1
+Shungin WHR EU sex combined 26 SNPs	dUA33T	L_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	253.039974400448	25	1.3573427885676e-39
+Shungin WHR EU sex combined 26 SNPs	dUA33T	L_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	280.012797130266	24	1.7286977352136e-45
+Shungin WHR EU sex combined 26 SNPs	dUA33T	L_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	280.616805093651	25	4.53854986382992e-45
+Shungin WHR EU sex combined 26 SNPs	dUA33T	L_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0105263682486864	25	1
+Shungin WHR EU sex combined 26 SNPs	dYKlGw	M_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	150.998737561708	25	5.51769236544366e-20
+Shungin WHR EU sex combined 26 SNPs	dYKlGw	M_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	156.840438692987	24	1.75673714100265e-21
+Shungin WHR EU sex combined 26 SNPs	dYKlGw	M_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	158.469619468927	25	2.27573796696264e-21
+Shungin WHR EU sex combined 26 SNPs	dYKlGw	M_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00627029569045835	25	1
+Shungin WHR EU sex combined 26 SNPs	e0zuxZ	M_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	148.412893481182	25	1.65314491674381e-19
+Shungin WHR EU sex combined 26 SNPs	e0zuxZ	M_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	156.724115003562	24	1.84702418247735e-21
+Shungin WHR EU sex combined 26 SNPs	e0zuxZ	M_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	156.749995793313	25	4.7514294463985e-21
+Shungin WHR EU sex combined 26 SNPs	e0zuxZ	M_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00587493896934972	25	1
+Shungin WHR EU sex combined 26 SNPs	E3mKIY	IDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	21.4096901675455	25	0.669557342138897
+Shungin WHR EU sex combined 26 SNPs	E3mKIY	IDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	20.2867765944216	24	0.680356362586301
+Shungin WHR EU sex combined 26 SNPs	E3mKIY	IDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	21.4956728720867	25	0.664671303812022
+Shungin WHR EU sex combined 26 SNPs	E3mKIY	IDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000814864713078142	25	1
+Shungin WHR EU sex combined 26 SNPs	EGZHMa	XXL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	276.220231475737	25	3.41475127344839e-44
+Shungin WHR EU sex combined 26 SNPs	EGZHMa	XXL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	295.338833793775	24	1.45343299365542e-48
+Shungin WHR EU sex combined 26 SNPs	EGZHMa	XXL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	295.43320489791	25	4.95042348507645e-48
+Shungin WHR EU sex combined 26 SNPs	EGZHMa	XXL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0109534624573168	25	1
+Shungin WHR EU sex combined 26 SNPs	EIwk8u	L_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	296.24638735526	25	3.40166202318838e-48
+Shungin WHR EU sex combined 26 SNPs	EIwk8u	L_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	327.262371804521	24	5.2151960052751e-55
+Shungin WHR EU sex combined 26 SNPs	EIwk8u	L_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	327.527721899628	25	1.72564611822548e-54
+Shungin WHR EU sex combined 26 SNPs	EIwk8u	L_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0122234532479644	25	1
+Shungin WHR EU sex combined 26 SNPs	EpY093	Acetate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	33.1260435120555	25	0.127946881387426
+Shungin WHR EU sex combined 26 SNPs	EpY093	Acetate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.9848343059866	24	0.185254954448073
+Shungin WHR EU sex combined 26 SNPs	EpY093	Acetate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	33.2342386744412	25	0.125315186979346
+Shungin WHR EU sex combined 26 SNPs	EpY093	Acetate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00141222765463193	25	1
+Shungin WHR EU sex combined 26 SNPs	ERHspr	Lactate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	34.1730933585367	25	0.104259510717265
+Shungin WHR EU sex combined 26 SNPs	ERHspr	Lactate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	34.1428831620202	24	0.082161533796601
+Shungin WHR EU sex combined 26 SNPs	ERHspr	Lactate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	34.2258079239356	25	0.103168732550253
+Shungin WHR EU sex combined 26 SNPs	ERHspr	Lactate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00146542615002732	25	1
+Shungin WHR EU sex combined 26 SNPs	es95vJ	XS_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	163.99359913616	25	2.12001126906281e-22
+Shungin WHR EU sex combined 26 SNPs	es95vJ	XS_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	166.85315597134	24	2.30152003962542e-23
+Shungin WHR EU sex combined 26 SNPs	es95vJ	XS_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	170.318392379822	25	1.37842336571566e-23
+Shungin WHR EU sex combined 26 SNPs	es95vJ	XS_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00666243783858062	25	1
+Shungin WHR EU sex combined 26 SNPs	et1JyJ	M_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	191.170234635137	25	1.5176060555921e-27
+Shungin WHR EU sex combined 26 SNPs	et1JyJ	M_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	197.45892007825	24	3.24186770530283e-29
+Shungin WHR EU sex combined 26 SNPs	et1JyJ	M_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	200.473577165039	25	2.48661971193632e-29
+Shungin WHR EU sex combined 26 SNPs	et1JyJ	M_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00775198511247255	25	1
+Shungin WHR EU sex combined 26 SNPs	EWYwlN	L_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	93.0264820217576	25	9.12062410149899e-10
+Shungin WHR EU sex combined 26 SNPs	EWYwlN	L_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	98.2808046891083	24	5.89175107802085e-11
+Shungin WHR EU sex combined 26 SNPs	EWYwlN	L_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	98.301817080989	25	1.21027830277711e-10
+Shungin WHR EU sex combined 26 SNPs	EWYwlN	L_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00376522401249085	25	1
+Shungin WHR EU sex combined 26 SNPs	eX7DkF	HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	149.431300012698	25	1.07348958534513e-19
+Shungin WHR EU sex combined 26 SNPs	eX7DkF	HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	156.483796233772	24	2.04847900919894e-21
+Shungin WHR EU sex combined 26 SNPs	eX7DkF	HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	156.509830190519	25	5.26536327838888e-21
+Shungin WHR EU sex combined 26 SNPs	eX7DkF	HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00576529648618452	25	1
+Shungin WHR EU sex combined 26 SNPs	F4klXI	XS_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	74.0289521226945	25	9.54040466895517e-07
+Shungin WHR EU sex combined 26 SNPs	F4klXI	XS_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	74.3893179216283	24	4.64178699339151e-07
+Shungin WHR EU sex combined 26 SNPs	F4klXI	XS_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	75.1294648669854	25	6.48194070362069e-07
+Shungin WHR EU sex combined 26 SNPs	F4klXI	XS_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0026795596675285	25	1
+Shungin WHR EU sex combined 26 SNPs	F8OOwl	XXL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	55.6629000900729	25	0.000402574598959445
+Shungin WHR EU sex combined 26 SNPs	F8OOwl	XXL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	56.462763612704	24	0.000198159866137167
+Shungin WHR EU sex combined 26 SNPs	F8OOwl	XXL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	56.4739537605828	25	0.000314246480911895
+Shungin WHR EU sex combined 26 SNPs	F8OOwl	XXL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00211957258047337	25	1
+Shungin WHR EU sex combined 26 SNPs	fDdeCy	S_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	130.52733791029	25	2.96058543795972e-16
+Shungin WHR EU sex combined 26 SNPs	fDdeCy	S_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	137.020531304342	24	8.18748080785942e-18
+Shungin WHR EU sex combined 26 SNPs	fDdeCy	S_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	137.124869718842	25	1.90873588198429e-17
+Shungin WHR EU sex combined 26 SNPs	fDdeCy	S_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00515671900856742	25	1
+Shungin WHR EU sex combined 26 SNPs	FJ9W6X	IDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	53.375428663399	25	0.00080012955438782
+Shungin WHR EU sex combined 26 SNPs	FJ9W6X	IDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	53.3204531440607	24	0.000524736495453572
+Shungin WHR EU sex combined 26 SNPs	FJ9W6X	IDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	53.4032548294509	25	0.000793556987493417
+Shungin WHR EU sex combined 26 SNPs	FJ9W6X	IDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00225321983987561	25	1
+Shungin WHR EU sex combined 26 SNPs	FkVZfC	ApoB_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	63.5409714185944	25	3.34138488573302e-05
+Shungin WHR EU sex combined 26 SNPs	FkVZfC	ApoB_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	64.5183456181173	24	1.43186068981052e-05
+Shungin WHR EU sex combined 26 SNPs	FkVZfC	ApoB_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	64.7404094729265	25	2.25359994695622e-05
+Shungin WHR EU sex combined 26 SNPs	FkVZfC	ApoB_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0024124848688364	25	1
+Shungin WHR EU sex combined 26 SNPs	Fnhfp6	L_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	101.467134144527	25	3.54781991102109e-11
+Shungin WHR EU sex combined 26 SNPs	Fnhfp6	L_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	103.100252950355	24	8.84997049501836e-12
+Shungin WHR EU sex combined 26 SNPs	Fnhfp6	L_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	103.352901705417	25	1.69926242881756e-11
+Shungin WHR EU sex combined 26 SNPs	Fnhfp6	L_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0038806378841952	25	1
+Shungin WHR EU sex combined 26 SNPs	FNRrwj	Cholines_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	22.6329006093787	25	0.598990046385041
+Shungin WHR EU sex combined 26 SNPs	FNRrwj	Cholines_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	21.6057919238711	24	0.602782692136716
+Shungin WHR EU sex combined 26 SNPs	FNRrwj	Cholines_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	22.6499212296659	25	0.597997509261751
+Shungin WHR EU sex combined 26 SNPs	FNRrwj	Cholines_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000953016021558605	25	1
+Shungin WHR EU sex combined 26 SNPs	FNukHF	VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	196.206229942417	25	1.64432445755265e-28
+Shungin WHR EU sex combined 26 SNPs	FNukHF	VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	209.599227119318	24	1.43395443895387e-31
+Shungin WHR EU sex combined 26 SNPs	FNukHF	VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	209.694913209652	25	4.12492589567388e-31
+Shungin WHR EU sex combined 26 SNPs	FNukHF	VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00777730583945629	25	1
+Shungin WHR EU sex combined 26 SNPs	FoJE2M	XS_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	31.8705206519225	25	0.161792789067448
+Shungin WHR EU sex combined 26 SNPs	FoJE2M	XS_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	30.233192512643	24	0.177142689406839
+Shungin WHR EU sex combined 26 SNPs	FoJE2M	XS_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	31.9774731200514	25	0.15866502151243
+Shungin WHR EU sex combined 26 SNPs	FoJE2M	XS_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00112328284402968	25	1
+Shungin WHR EU sex combined 26 SNPs	g0VW8H	L_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.6655763295379	25	0.323476559352968
+Shungin WHR EU sex combined 26 SNPs	g0VW8H	L_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	27.0768985345945	24	0.300881445689989
+Shungin WHR EU sex combined 26 SNPs	g0VW8H	L_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.8264133384552	25	0.315906122108397
+Shungin WHR EU sex combined 26 SNPs	g0VW8H	L_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000979373856859453	25	1
+Shungin WHR EU sex combined 26 SNPs	g7pSkG	L_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	214.745121202431	25	4.32919278535485e-32
+Shungin WHR EU sex combined 26 SNPs	g7pSkG	L_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	237.004823877663	24	6.12073792140028e-37
+Shungin WHR EU sex combined 26 SNPs	g7pSkG	L_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	237.892123223041	25	1.30743350885034e-36
+Shungin WHR EU sex combined 26 SNPs	g7pSkG	L_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00901527555430266	25	1
+Shungin WHR EU sex combined 26 SNPs	G7rf6x	S_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	152.139290180222	25	3.39709764866072e-20
+Shungin WHR EU sex combined 26 SNPs	G7rf6x	S_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	154.433323950346	24	4.94979402753476e-21
+Shungin WHR EU sex combined 26 SNPs	G7rf6x	S_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	157.046052060544	25	4.18624329098268e-21
+Shungin WHR EU sex combined 26 SNPs	G7rf6x	S_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00615005796337423	25	1
+Shungin WHR EU sex combined 26 SNPs	G89rrc	L_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	56.1592796419534	25	0.00034603242078458
+Shungin WHR EU sex combined 26 SNPs	G89rrc	L_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	54.1955511014077	24	0.000401378022477099
+Shungin WHR EU sex combined 26 SNPs	G89rrc	L_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	56.4982957523175	25	0.000311908813842466
+Shungin WHR EU sex combined 26 SNPs	G89rrc	L_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00220087122563249	25	1
+Shungin WHR EU sex combined 26 SNPs	GJ3HuT	IDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	120.896142081191	25	1.53841924065074e-14
+Shungin WHR EU sex combined 26 SNPs	GJ3HuT	IDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	121.7636941567	24	4.70193118970155e-15
+Shungin WHR EU sex combined 26 SNPs	GJ3HuT	IDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	123.05857333269	25	6.37302054604008e-15
+Shungin WHR EU sex combined 26 SNPs	GJ3HuT	IDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00502976054872197	25	1
+Shungin WHR EU sex combined 26 SNPs	GJUVpj	PUFA_by_MUFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	179.564493794387	25	2.46756147447658e-25
+Shungin WHR EU sex combined 26 SNPs	GJUVpj	PUFA_by_MUFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	185.712758867697	24	5.913246919292e-27
+Shungin WHR EU sex combined 26 SNPs	GJUVpj	PUFA_by_MUFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	186.135583808709	25	1.38896646731607e-26
+Shungin WHR EU sex combined 26 SNPs	GJUVpj	PUFA_by_MUFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00680039967258654	25	1
+Shungin WHR EU sex combined 26 SNPs	Gjzm4t	M_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	136.47484358117	25	2.50360694332165e-17
+Shungin WHR EU sex combined 26 SNPs	Gjzm4t	M_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	143.430152889082	24	5.44709125580616e-19
+Shungin WHR EU sex combined 26 SNPs	Gjzm4t	M_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	143.485468505897	25	1.32525364908508e-18
+Shungin WHR EU sex combined 26 SNPs	Gjzm4t	M_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00534943931220857	25	1
+Shungin WHR EU sex combined 26 SNPs	Gpauef	L_LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	48.6566036760738	25	0.00310923309652051
+Shungin WHR EU sex combined 26 SNPs	Gpauef	L_LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	48.9739644349721	24	0.00190854329015588
+Shungin WHR EU sex combined 26 SNPs	Gpauef	L_LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	49.1340611028397	25	0.0027209093612773
+Shungin WHR EU sex combined 26 SNPs	Gpauef	L_LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00183264987027599	25	1
+Shungin WHR EU sex combined 26 SNPs	GSlUXc	L_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	24.0697586927375	25	0.515345727896672
+Shungin WHR EU sex combined 26 SNPs	GSlUXc	L_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	23.7936171390173	24	0.473448394014016
+Shungin WHR EU sex combined 26 SNPs	GSlUXc	L_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	24.2238615433256	25	0.506470533543986
+Shungin WHR EU sex combined 26 SNPs	GSlUXc	L_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000917778612711477	25	1
+Shungin WHR EU sex combined 26 SNPs	gub8l9	Albumin_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	74.4938547608238	25	8.10544947151286e-07
+Shungin WHR EU sex combined 26 SNPs	gub8l9	Albumin_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	73.2817799289525	24	6.88703506312468e-07
+Shungin WHR EU sex combined 26 SNPs	gub8l9	Albumin_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	74.7826066271026	25	7.32351021231373e-07
+Shungin WHR EU sex combined 26 SNPs	gub8l9	Albumin_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0031458983444839	25	1
+Shungin WHR EU sex combined 26 SNPs	GVbJIU	S_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	175.282170813138	25	1.59635112960668e-24
+Shungin WHR EU sex combined 26 SNPs	GVbJIU	S_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	180.143478320396	24	6.87834396342793e-26
+Shungin WHR EU sex combined 26 SNPs	GVbJIU	S_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	180.456447316349	25	1.67118134847136e-25
+Shungin WHR EU sex combined 26 SNPs	GVbJIU	S_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00674645575970624	25	1
+Shungin WHR EU sex combined 26 SNPs	GVMUvX	M_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	46.3209434403419	25	0.00588947784481053
+Shungin WHR EU sex combined 26 SNPs	GVMUvX	M_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	46.3119276036629	24	0.00406014709874232
+Shungin WHR EU sex combined 26 SNPs	GVMUvX	M_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	46.8859098696712	25	0.00505720936816913
+Shungin WHR EU sex combined 26 SNPs	GVMUvX	M_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00175023739896972	25	1
+Shungin WHR EU sex combined 26 SNPs	GVSlWj	L_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	13.6447173546917	25	0.967577615572497
+Shungin WHR EU sex combined 26 SNPs	GVSlWj	L_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	13.2179217422553	24	0.96239219147477
+Shungin WHR EU sex combined 26 SNPs	GVSlWj	L_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	13.6481590273636	25	0.967524268993453
+Shungin WHR EU sex combined 26 SNPs	GVSlWj	L_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000552517611852892	25	1
+Shungin WHR EU sex combined 26 SNPs	Gzwask	S_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	39.2126022139082	25	0.0350717957248717
+Shungin WHR EU sex combined 26 SNPs	Gzwask	S_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	39.5479423103712	24	0.0239022819180124
+Shungin WHR EU sex combined 26 SNPs	Gzwask	S_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	39.5738548550689	25	0.032240310501119
+Shungin WHR EU sex combined 26 SNPs	Gzwask	S_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00148174722519793	25	1
+Shungin WHR EU sex combined 26 SNPs	HGVxeR	S_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	245.432766996294	25	4.29977085491895e-38
+Shungin WHR EU sex combined 26 SNPs	HGVxeR	S_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	260.97958335647	24	1.08919826002763e-41
+Shungin WHR EU sex combined 26 SNPs	HGVxeR	S_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	261.052386683745	25	3.52535635012548e-41
+Shungin WHR EU sex combined 26 SNPs	HGVxeR	S_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00967703285989412	25	1
+Shungin WHR EU sex combined 26 SNPs	hIlen7	M_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	128.078578038557	25	8.13271688972609e-16
+Shungin WHR EU sex combined 26 SNPs	hIlen7	M_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	133.386258224103	24	3.76774997537595e-17
+Shungin WHR EU sex combined 26 SNPs	hIlen7	M_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	134.089810711152	25	6.75960842598589e-17
+Shungin WHR EU sex combined 26 SNPs	hIlen7	M_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00507135871288738	25	1
+Shungin WHR EU sex combined 26 SNPs	HImKIu	S_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	65.088087738395	25	2.00910986053164e-05
+Shungin WHR EU sex combined 26 SNPs	HImKIu	S_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	65.5230892936814	24	1.01977335427284e-05
+Shungin WHR EU sex combined 26 SNPs	HImKIu	S_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	66.0950623415987	25	1.43825435042321e-05
+Shungin WHR EU sex combined 26 SNPs	HImKIu	S_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00249921356433962	25	1
+Shungin WHR EU sex combined 26 SNPs	HmALvw	IDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	13.5887478208478	25	0.968436349750539
+Shungin WHR EU sex combined 26 SNPs	HmALvw	IDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	12.1555131840512	24	0.978098822777477
+Shungin WHR EU sex combined 26 SNPs	HmALvw	IDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	13.5893291918309	25	0.96842751482634
+Shungin WHR EU sex combined 26 SNPs	HmALvw	IDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000641786162879947	25	1
+Shungin WHR EU sex combined 26 SNPs	hOHxNE	IDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	13.5029232047966	25	0.969721183453036
+Shungin WHR EU sex combined 26 SNPs	hOHxNE	IDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	12.1821036049361	24	0.977777814599578
+Shungin WHR EU sex combined 26 SNPs	hOHxNE	IDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	13.5032189458363	25	0.969716821985526
+Shungin WHR EU sex combined 26 SNPs	hOHxNE	IDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000656967569478779	25	1
+Shungin WHR EU sex combined 26 SNPs	HX9gDp	DHA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	51.3515541940228	25	0.00144700787022552
+Shungin WHR EU sex combined 26 SNPs	HX9gDp	DHA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	50.5614959099292	24	0.00120052096996693
+Shungin WHR EU sex combined 26 SNPs	HX9gDp	DHA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	51.6244255994926	25	0.00133708199465611
+Shungin WHR EU sex combined 26 SNPs	HX9gDp	DHA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00197176374399229	25	1
+Shungin WHR EU sex combined 26 SNPs	I05LTh	HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	78.4193055674256	25	2.01430070489504e-07
+Shungin WHR EU sex combined 26 SNPs	I05LTh	HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	78.4539313908493	24	1.07074806399119e-07
+Shungin WHR EU sex combined 26 SNPs	I05LTh	HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	79.634842682976	25	1.30163443104876e-07
+Shungin WHR EU sex combined 26 SNPs	I05LTh	HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00319762526080044	25	1
+Shungin WHR EU sex combined 26 SNPs	IH2d9U	VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	301.819091105834	25	2.5942195276637e-49
+Shungin WHR EU sex combined 26 SNPs	IH2d9U	VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	328.872099694548	24	2.46043629538117e-55
+Shungin WHR EU sex combined 26 SNPs	IH2d9U	VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	328.998464671912	25	8.70595054109956e-55
+Shungin WHR EU sex combined 26 SNPs	IH2d9U	VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0121519988063405	25	1
+Shungin WHR EU sex combined 26 SNPs	Il4f8I	M_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	248.909651567882	25	8.87340443652408e-39
+Shungin WHR EU sex combined 26 SNPs	Il4f8I	M_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	266.653811971018	24	8.0701710319354e-43
+Shungin WHR EU sex combined 26 SNPs	Il4f8I	M_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	266.710974830835	25	2.65879366808517e-42
+Shungin WHR EU sex combined 26 SNPs	Il4f8I	M_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00982681379016971	25	1
+Shungin WHR EU sex combined 26 SNPs	IRmnf2	L_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	297.643656853047	25	1.78488425973835e-48
+Shungin WHR EU sex combined 26 SNPs	IRmnf2	L_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	327.095262527083	24	5.63811214972923e-55
+Shungin WHR EU sex combined 26 SNPs	IRmnf2	L_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	327.334057082205	25	1.88829846178127e-54
+Shungin WHR EU sex combined 26 SNPs	IRmnf2	L_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0122227424717966	25	1
+Shungin WHR EU sex combined 26 SNPs	IxeUwL	XL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	294.678821450808	25	7.01096278431443e-48
+Shungin WHR EU sex combined 26 SNPs	IxeUwL	XL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	322.737461862128	24	4.30290416485606e-54
+Shungin WHR EU sex combined 26 SNPs	IxeUwL	XL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	322.756091893072	25	1.5859148952975e-53
+Shungin WHR EU sex combined 26 SNPs	IxeUwL	XL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0119763131703407	25	1
+Shungin WHR EU sex combined 26 SNPs	iXkPKK	XXL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	50.6647706532764	25	0.00176316364893388
+Shungin WHR EU sex combined 26 SNPs	iXkPKK	XXL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	50.9650345747132	24	0.00106545826408037
+Shungin WHR EU sex combined 26 SNPs	iXkPKK	XXL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	51.0240351622035	25	0.00159035926039887
+Shungin WHR EU sex combined 26 SNPs	iXkPKK	XXL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00200148983044405	25	1
+Shungin WHR EU sex combined 26 SNPs	iZXdMX	S_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	125.078973148335	25	2.78879715919748e-15
+Shungin WHR EU sex combined 26 SNPs	iZXdMX	S_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	131.323137589552	24	8.93119703283049e-17
+Shungin WHR EU sex combined 26 SNPs	iZXdMX	S_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	132.182713790039	25	1.49192006472935e-16
+Shungin WHR EU sex combined 26 SNPs	iZXdMX	S_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00493719419544336	25	1
+Shungin WHR EU sex combined 26 SNPs	JB0qML	S_LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	89.1016944876192	25	4.00758580446303e-09
+Shungin WHR EU sex combined 26 SNPs	JB0qML	S_LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	92.157172914893	24	6.31695024133621e-10
+Shungin WHR EU sex combined 26 SNPs	JB0qML	S_LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	92.1788961629304	25	1.25772705067881e-09
+Shungin WHR EU sex combined 26 SNPs	JB0qML	S_LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0035242970063004	25	1
+Shungin WHR EU sex combined 26 SNPs	jgSOhX	VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	150.151608459468	25	7.90744322646712e-20
+Shungin WHR EU sex combined 26 SNPs	jgSOhX	VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	157.755706945963	24	1.1840188666834e-21
+Shungin WHR EU sex combined 26 SNPs	jgSOhX	VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	158.060469028641	25	2.71169715767586e-21
+Shungin WHR EU sex combined 26 SNPs	jgSOhX	VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00585094248913114	25	1
+Shungin WHR EU sex combined 26 SNPs	jiJ6Qd	L_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	223.326940386799	25	9.26062137647341e-34
+Shungin WHR EU sex combined 26 SNPs	jiJ6Qd	L_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	240.81215754341	24	1.08516814383749e-37
+Shungin WHR EU sex combined 26 SNPs	jiJ6Qd	L_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	240.832093685118	25	3.45781488315413e-37
+Shungin WHR EU sex combined 26 SNPs	jiJ6Qd	L_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00904581602381585	25	1
+Shungin WHR EU sex combined 26 SNPs	jIPCH1	Omega_3_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	50.8578615894201	25	0.00166817779358461
+Shungin WHR EU sex combined 26 SNPs	jIPCH1	Omega_3_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	51.4297666978397	24	0.000927946113557096
+Shungin WHR EU sex combined 26 SNPs	jIPCH1	Omega_3_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	51.6295587490625	25	0.00133509265096058
+Shungin WHR EU sex combined 26 SNPs	jIPCH1	Omega_3_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00195876007482742	25	1
+Shungin WHR EU sex combined 26 SNPs	jJL9Ju	M_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	81.3003652824607	25	7.12699310341279e-08
+Shungin WHR EU sex combined 26 SNPs	jJL9Ju	M_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	78.8182014700068	24	9.37564807691685e-08
+Shungin WHR EU sex combined 26 SNPs	jJL9Ju	M_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	82.5739936268624	25	4.48286381927641e-08
+Shungin WHR EU sex combined 26 SNPs	jJL9Ju	M_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00331907765449281	25	1
+Shungin WHR EU sex combined 26 SNPs	jJVkdo	S_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	96.9383839999949	25	2.04619446730881e-10
+Shungin WHR EU sex combined 26 SNPs	jJVkdo	S_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	95.668473426761	24	1.62939905444629e-10
+Shungin WHR EU sex combined 26 SNPs	jJVkdo	S_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	98.5457150355528	25	1.10151892351972e-10
+Shungin WHR EU sex combined 26 SNPs	jJVkdo	S_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00390383730605073	25	1
+Shungin WHR EU sex combined 26 SNPs	JuqqUI	His_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	24.0158134210537	25	0.518459982531211
+Shungin WHR EU sex combined 26 SNPs	JuqqUI	His_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	23.9186436251743	24	0.466257408320626
+Shungin WHR EU sex combined 26 SNPs	JuqqUI	His_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	24.0186950733419	25	0.518293533613941
+Shungin WHR EU sex combined 26 SNPs	JuqqUI	His_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00105876965203259	25	1
+Shungin WHR EU sex combined 26 SNPs	JW2lhG	XL_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	195.472353302447	25	2.27427107937078e-28
+Shungin WHR EU sex combined 26 SNPs	JW2lhG	XL_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	215.553099635008	24	9.91074126367958e-33
+Shungin WHR EU sex combined 26 SNPs	JW2lhG	XL_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	215.962560768213	25	2.51183250208656e-32
+Shungin WHR EU sex combined 26 SNPs	JW2lhG	XL_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0080208348157629	25	1
+Shungin WHR EU sex combined 26 SNPs	jzrUve	L_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	242.968545571489	25	1.31399113629621e-37
+Shungin WHR EU sex combined 26 SNPs	jzrUve	L_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	272.974160573717	24	4.42038216103005e-44
+Shungin WHR EU sex combined 26 SNPs	jzrUve	L_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	273.614395823782	25	1.127816324512e-43
+Shungin WHR EU sex combined 26 SNPs	jzrUve	L_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0102049194276652	25	1
+Shungin WHR EU sex combined 26 SNPs	k11pbo	S_LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	67.3083889698003	25	9.58360176604398e-06
+Shungin WHR EU sex combined 26 SNPs	k11pbo	S_LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	68.9435338485255	24	3.15686834284498e-06
+Shungin WHR EU sex combined 26 SNPs	k11pbo	S_LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	68.9440361648792	25	5.51484429938396e-06
+Shungin WHR EU sex combined 26 SNPs	k11pbo	S_LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00259399256464908	25	1
+Shungin WHR EU sex combined 26 SNPs	k8P6DW	Total_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	285.405526614927	25	5.02261687085137e-46
+Shungin WHR EU sex combined 26 SNPs	k8P6DW	Total_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	309.814429874974	24	1.76216090023567e-51
+Shungin WHR EU sex combined 26 SNPs	k8P6DW	Total_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	309.921868803229	25	6.10805128604663e-51
+Shungin WHR EU sex combined 26 SNPs	k8P6DW	Total_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0114069956438574	25	1
+Shungin WHR EU sex combined 26 SNPs	kE5NLy	LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	45.2975577877205	25	0.00773287868350399
+Shungin WHR EU sex combined 26 SNPs	kE5NLy	LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	45.9349020507146	24	0.00450742910299136
+Shungin WHR EU sex combined 26 SNPs	kE5NLy	LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	46.0091506524327	25	0.00640217246651156
+Shungin WHR EU sex combined 26 SNPs	kE5NLy	LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00173583823310844	25	1
+Shungin WHR EU sex combined 26 SNPs	kn1XiA	M_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	120.441028487016	25	1.85110998326074e-14
+Shungin WHR EU sex combined 26 SNPs	kn1XiA	M_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	123.937635358141	24	1.9193257386909e-15
+Shungin WHR EU sex combined 26 SNPs	kn1XiA	M_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	125.393418543993	25	2.45155460942249e-15
+Shungin WHR EU sex combined 26 SNPs	kn1XiA	M_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0050010140427365	25	1
+Shungin WHR EU sex combined 26 SNPs	knetlD	Acetone_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	41.1817150604252	25	0.0219673392057299
+Shungin WHR EU sex combined 26 SNPs	knetlD	Acetone_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	39.4076950246987	24	0.0247355388810215
+Shungin WHR EU sex combined 26 SNPs	knetlD	Acetone_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	41.6389664056202	25	0.0196455228829543
+Shungin WHR EU sex combined 26 SNPs	knetlD	Acetone_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00186647038817966	25	1
+Shungin WHR EU sex combined 26 SNPs	knKHDp	XL_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	194.066414023605	25	4.23150792416831e-28
+Shungin WHR EU sex combined 26 SNPs	knKHDp	XL_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	214.889515368298	24	1.33543021039133e-32
+Shungin WHR EU sex combined 26 SNPs	knKHDp	XL_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	215.000716960971	25	3.86176113071635e-32
+Shungin WHR EU sex combined 26 SNPs	knKHDp	XL_HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00790557627773203	25	1
+Shungin WHR EU sex combined 26 SNPs	Ko0rhc	L_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	259.894349177882	25	5.9792506905242e-41
+Shungin WHR EU sex combined 26 SNPs	Ko0rhc	L_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	283.812663367173	24	2.99566969072587e-46
+Shungin WHR EU sex combined 26 SNPs	Ko0rhc	L_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	283.892552042653	25	1.00721356616494e-45
+Shungin WHR EU sex combined 26 SNPs	Ko0rhc	L_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0106435595637371	25	1
+Shungin WHR EU sex combined 26 SNPs	KUfUpr	VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	116.031880951053	25	1.10236243263755e-13
+Shungin WHR EU sex combined 26 SNPs	KUfUpr	VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	120.196432022423	24	8.95174473052277e-15
+Shungin WHR EU sex combined 26 SNPs	KUfUpr	VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	120.723580491881	25	1.65025551448994e-14
+Shungin WHR EU sex combined 26 SNPs	KUfUpr	VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00445566186952724	25	1
+Shungin WHR EU sex combined 26 SNPs	l0ugt7	LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	14.9099645590347	25	0.943461894123599
+Shungin WHR EU sex combined 26 SNPs	l0ugt7	LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	14.7036091414451	24	0.929132151898013
+Shungin WHR EU sex combined 26 SNPs	l0ugt7	LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	14.9368872467561	25	0.942845402215464
+Shungin WHR EU sex combined 26 SNPs	l0ugt7	LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000581954749134297	25	1
+Shungin WHR EU sex combined 26 SNPs	l3IXYi	Omega_3_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	25.7673680091493	25	0.42009513499122
+Shungin WHR EU sex combined 26 SNPs	l3IXYi	Omega_3_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	25.1491396060818	24	0.397692676661885
+Shungin WHR EU sex combined 26 SNPs	l3IXYi	Omega_3_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	25.8136863592274	25	0.417594187715667
+Shungin WHR EU sex combined 26 SNPs	l3IXYi	Omega_3_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00100896763466456	25	1
+Shungin WHR EU sex combined 26 SNPs	L3KeHs	XL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	236.512796673205	25	2.4387090289544e-36
+Shungin WHR EU sex combined 26 SNPs	L3KeHs	XL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	256.550552386339	24	8.27499585129504e-41
+Shungin WHR EU sex combined 26 SNPs	L3KeHs	XL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	256.562851604685	25	2.73007751981352e-40
+Shungin WHR EU sex combined 26 SNPs	L3KeHs	XL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00956789512737293	25	1
+Shungin WHR EU sex combined 26 SNPs	L3vF8A	L_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	19.5993734877003	25	0.767512333638157
+Shungin WHR EU sex combined 26 SNPs	L3vF8A	L_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	17.0490694190011	24	0.84656169600689
+Shungin WHR EU sex combined 26 SNPs	L3vF8A	L_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	19.6266097144822	25	0.766127507914114
+Shungin WHR EU sex combined 26 SNPs	L3vF8A	L_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000876282890613097	25	1
+Shungin WHR EU sex combined 26 SNPs	L8j4hY	Tyr_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.5273149699982	25	0.330067061328695
+Shungin WHR EU sex combined 26 SNPs	L8j4hY	Tyr_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	22.8016027413272	24	0.531534009373958
+Shungin WHR EU sex combined 26 SNPs	L8j4hY	Tyr_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.5307626853529	25	0.32990179859314
+Shungin WHR EU sex combined 26 SNPs	L8j4hY	Tyr_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00124858731913584	25	1
+Shungin WHR EU sex combined 26 SNPs	lph5Is	Clinical_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	23.601204177977	25	0.54250063906359
+Shungin WHR EU sex combined 26 SNPs	lph5Is	Clinical_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	23.4028704999308	24	0.496131951450272
+Shungin WHR EU sex combined 26 SNPs	lph5Is	Clinical_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	23.7300509710252	25	0.53501204352016
+Shungin WHR EU sex combined 26 SNPs	lph5Is	Clinical_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000901506157299121	25	1
+Shungin WHR EU sex combined 26 SNPs	LQ4kJH	XL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	185.648353635936	25	1.72011852284278e-26
+Shungin WHR EU sex combined 26 SNPs	LQ4kJH	XL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	190.89792566192	24	5.9689025219209e-28
+Shungin WHR EU sex combined 26 SNPs	LQ4kJH	XL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	193.023363186152	25	6.70474980585117e-28
+Shungin WHR EU sex combined 26 SNPs	LQ4kJH	XL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00756655507206736	25	1
+Shungin WHR EU sex combined 26 SNPs	lVeVMy	IDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	82.3963590264783	25	4.78305409219932e-08
+Shungin WHR EU sex combined 26 SNPs	lVeVMy	IDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	82.0203193572524	24	2.8902109671488e-08
+Shungin WHR EU sex combined 26 SNPs	lVeVMy	IDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	83.9604784254281	25	2.69840492135493e-08
+Shungin WHR EU sex combined 26 SNPs	lVeVMy	IDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00312112699452094	25	1
+Shungin WHR EU sex combined 26 SNPs	LyXVdX	Total_FA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	106.539237137624	25	4.85862913864777e-12
+Shungin WHR EU sex combined 26 SNPs	LyXVdX	Total_FA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	108.913420627271	24	8.72500451941307e-13
+Shungin WHR EU sex combined 26 SNPs	LyXVdX	Total_FA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	109.485216901067	25	1.51355855986245e-12
+Shungin WHR EU sex combined 26 SNPs	LyXVdX	Total_FA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00401016025230359	25	1
+Shungin WHR EU sex combined 26 SNPs	M5YGAk	XL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	285.938665004097	25	3.93017169374244e-46
+Shungin WHR EU sex combined 26 SNPs	M5YGAk	XL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	312.519706892646	24	5.01017006191878e-52
+Shungin WHR EU sex combined 26 SNPs	M5YGAk	XL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	312.519753172746	25	1.83309330094813e-51
+Shungin WHR EU sex combined 26 SNPs	M5YGAk	XL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0115733206747653	25	1
+Shungin WHR EU sex combined 26 SNPs	mfMRzQ	S_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	76.5928699573913	25	3.86337820813113e-07
+Shungin WHR EU sex combined 26 SNPs	mfMRzQ	S_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	74.320723568282	24	4.75692236546977e-07
+Shungin WHR EU sex combined 26 SNPs	mfMRzQ	S_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	77.2579713978927	25	3.04976622346019e-07
+Shungin WHR EU sex combined 26 SNPs	mfMRzQ	S_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0030721606971156	25	1
+Shungin WHR EU sex combined 26 SNPs	mIJdbq	IDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	12.3459497097798	25	0.983555445415841
+Shungin WHR EU sex combined 26 SNPs	mIJdbq	IDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	11.1019191503062	24	0.988266296818156
+Shungin WHR EU sex combined 26 SNPs	mIJdbq	IDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	12.3519002118641	25	0.983499514072554
+Shungin WHR EU sex combined 26 SNPs	mIJdbq	IDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000538607352072722	25	1
+Shungin WHR EU sex combined 26 SNPs	MjNQ7q	S_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	267.350444841819	25	1.9846752508003e-42
+Shungin WHR EU sex combined 26 SNPs	MjNQ7q	S_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	288.871757587117	24	2.89536679585442e-47
+Shungin WHR EU sex combined 26 SNPs	MjNQ7q	S_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	289.626189710519	25	7.19775256446367e-47
+Shungin WHR EU sex combined 26 SNPs	MjNQ7q	S_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0108825807771445	25	1
+Shungin WHR EU sex combined 26 SNPs	mM5cVv	MUFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	157.809273335627	25	3.01965916440617e-21
+Shungin WHR EU sex combined 26 SNPs	mM5cVv	MUFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	162.755408280372	24	1.36349367629306e-22
+Shungin WHR EU sex combined 26 SNPs	mM5cVv	MUFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	163.617337557892	25	2.49303310809471e-22
+Shungin WHR EU sex combined 26 SNPs	mM5cVv	MUFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00595843217067993	25	1
+Shungin WHR EU sex combined 26 SNPs	n47aSh	S_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	59.7337765187485	25	0.00011375898410699
+Shungin WHR EU sex combined 26 SNPs	n47aSh	S_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	60.6415335913547	24	5.18244554777773e-05
+Shungin WHR EU sex combined 26 SNPs	n47aSh	S_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	60.7603934794473	25	8.20745382515192e-05
+Shungin WHR EU sex combined 26 SNPs	n47aSh	S_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00225933351601035	25	1
+Shungin WHR EU sex combined 26 SNPs	nCA2Cc	S_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	17.1013316408342	25	0.878085537302365
+Shungin WHR EU sex combined 26 SNPs	nCA2Cc	S_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	15.109798288811	24	0.917504766058435
+Shungin WHR EU sex combined 26 SNPs	nCA2Cc	S_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	17.1904970175909	25	0.8747684599458
+Shungin WHR EU sex combined 26 SNPs	nCA2Cc	S_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00070435912377693	25	1
+Shungin WHR EU sex combined 26 SNPs	Nib7xU	M_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	75.3245893402934	25	6.05116308755128e-07
+Shungin WHR EU sex combined 26 SNPs	Nib7xU	M_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	77.8800535016494	24	1.31938906247275e-07
+Shungin WHR EU sex combined 26 SNPs	Nib7xU	M_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	77.8850373952229	25	2.43851708585035e-07
+Shungin WHR EU sex combined 26 SNPs	Nib7xU	M_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00293070612444399	25	1
+Shungin WHR EU sex combined 26 SNPs	nkbBHG	LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	63.4364056043275	25	3.45750972748377e-05
+Shungin WHR EU sex combined 26 SNPs	nkbBHG	LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	64.6095911359052	24	1.38853787907537e-05
+Shungin WHR EU sex combined 26 SNPs	nkbBHG	LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	64.7242412402786	25	2.26565064986968e-05
+Shungin WHR EU sex combined 26 SNPs	nkbBHG	LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0024284004510156	25	1
+Shungin WHR EU sex combined 26 SNPs	NPpqd4	L_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	119.714871060297	25	2.48602345098211e-14
+Shungin WHR EU sex combined 26 SNPs	NPpqd4	L_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	119.922140564375	24	1.00176857283514e-14
+Shungin WHR EU sex combined 26 SNPs	NPpqd4	L_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	122.654155493353	25	7.51687445803741e-15
+Shungin WHR EU sex combined 26 SNPs	NPpqd4	L_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00478720093844354	25	1
+Shungin WHR EU sex combined 26 SNPs	nX0Drm	S_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	49.430199925821	25	0.00250366312809745
+Shungin WHR EU sex combined 26 SNPs	nX0Drm	S_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	49.6875625732391	24	0.00155138541767337
+Shungin WHR EU sex combined 26 SNPs	nX0Drm	S_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	49.8649212111732	25	0.00221437025650347
+Shungin WHR EU sex combined 26 SNPs	nX0Drm	S_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00186287560757107	25	1
+Shungin WHR EU sex combined 26 SNPs	O2mPAB	XL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	300.919145101133	25	3.93204822379109e-49
+Shungin WHR EU sex combined 26 SNPs	O2mPAB	XL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	330.7121920302	24	1.04213800215351e-55
+Shungin WHR EU sex combined 26 SNPs	O2mPAB	XL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	330.735962895582	25	3.87847474173298e-55
+Shungin WHR EU sex combined 26 SNPs	O2mPAB	XL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0122645699746692	25	1
+Shungin WHR EU sex combined 26 SNPs	o8AF4h	L_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	103.673940588086	25	1.49856269482665e-11
+Shungin WHR EU sex combined 26 SNPs	o8AF4h	L_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	103.336193934668	24	8.06072822725978e-12
+Shungin WHR EU sex combined 26 SNPs	o8AF4h	L_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	104.912137644636	25	9.21985027484931e-12
+Shungin WHR EU sex combined 26 SNPs	o8AF4h	L_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00407402127883292	25	1
+Shungin WHR EU sex combined 26 SNPs	o9kjPt	M_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	69.8508819756204	25	4.0491443576567e-06
+Shungin WHR EU sex combined 26 SNPs	o9kjPt	M_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	69.0139706290957	24	3.08072762321006e-06
+Shungin WHR EU sex combined 26 SNPs	o9kjPt	M_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	70.4908953836914	25	3.25243400336332e-06
+Shungin WHR EU sex combined 26 SNPs	o9kjPt	M_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00262752677546602	25	1
+Shungin WHR EU sex combined 26 SNPs	oHW9xx	Pyruvate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	19.3342562565342	25	0.78081802171369
+Shungin WHR EU sex combined 26 SNPs	oHW9xx	Pyruvate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	18.7937918120264	24	0.762895423766056
+Shungin WHR EU sex combined 26 SNPs	oHW9xx	Pyruvate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	19.3600794593243	25	0.779536201470988
+Shungin WHR EU sex combined 26 SNPs	oHW9xx	Pyruvate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000730148829184476	25	1
+Shungin WHR EU sex combined 26 SNPs	OZRfCb	XXL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	21.0262008796027	25	0.691147769057117
+Shungin WHR EU sex combined 26 SNPs	OZRfCb	XXL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	21.0566489084962	24	0.635381094028731
+Shungin WHR EU sex combined 26 SNPs	OZRfCb	XXL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	21.0602554204743	25	0.689244986822663
+Shungin WHR EU sex combined 26 SNPs	OZRfCb	XXL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000879552535494212	25	1
+Shungin WHR EU sex combined 26 SNPs	p24e64	M_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	157.707356861449	25	3.1543406872776e-21
+Shungin WHR EU sex combined 26 SNPs	p24e64	M_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	164.137220196888	24	7.48912761304215e-23
+Shungin WHR EU sex combined 26 SNPs	p24e64	M_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	165.782737330651	25	9.80131452717869e-23
+Shungin WHR EU sex combined 26 SNPs	p24e64	M_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00654986581750949	25	1
+Shungin WHR EU sex combined 26 SNPs	p6hJiQ	M_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	184.814853037378	25	2.47940039522049e-26
+Shungin WHR EU sex combined 26 SNPs	p6hJiQ	M_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	197.226835945065	24	3.59447915763166e-29
+Shungin WHR EU sex combined 26 SNPs	p6hJiQ	M_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	197.229606561128	25	1.04581433746877e-28
+Shungin WHR EU sex combined 26 SNPs	p6hJiQ	M_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00736418041245665	25	1
+Shungin WHR EU sex combined 26 SNPs	PB9OQw	LA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	46.3847566212973	25	0.00578940838090914
+Shungin WHR EU sex combined 26 SNPs	PB9OQw	LA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	45.7586771126736	24	0.00473206601983498
+Shungin WHR EU sex combined 26 SNPs	PB9OQw	LA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	46.553736245705	25	0.00553207155731281
+Shungin WHR EU sex combined 26 SNPs	PB9OQw	LA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00173695369871023	25	1
+Shungin WHR EU sex combined 26 SNPs	pHMv8t	IDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	144.600648315938	25	8.28308638245379e-19
+Shungin WHR EU sex combined 26 SNPs	pHMv8t	IDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	146.331519615001	24	1.58603043562658e-19
+Shungin WHR EU sex combined 26 SNPs	pHMv8t	IDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	148.393092497754	25	1.66707261800052e-19
+Shungin WHR EU sex combined 26 SNPs	pHMv8t	IDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00583720936137531	25	1
+Shungin WHR EU sex combined 26 SNPs	PIwMYs	S_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	106.564786347922	25	4.80990274794961e-12
+Shungin WHR EU sex combined 26 SNPs	PIwMYs	S_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	108.199382509848	24	1.16166777428372e-12
+Shungin WHR EU sex combined 26 SNPs	PIwMYs	S_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	108.302962606655	25	2.41931819207492e-12
+Shungin WHR EU sex combined 26 SNPs	PIwMYs	S_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00380224937845605	25	1
+Shungin WHR EU sex combined 26 SNPs	pMs97S	XS_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	72.3502765272984	25	1.71258586709138e-06
+Shungin WHR EU sex combined 26 SNPs	pMs97S	XS_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	72.7857170534915	24	8.21210202459394e-07
+Shungin WHR EU sex combined 26 SNPs	pMs97S	XS_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	73.5071856361876	25	1.1449837440186e-06
+Shungin WHR EU sex combined 26 SNPs	pMs97S	XS_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00265486364511414	25	1
+Shungin WHR EU sex combined 26 SNPs	PYbFxI	Leu_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	132.394632804452	25	1.36643283316486e-16
+Shungin WHR EU sex combined 26 SNPs	PYbFxI	Leu_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	129.877346853923	24	1.63270083999396e-16
+Shungin WHR EU sex combined 26 SNPs	PYbFxI	Leu_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	133.131929730822	25	1.00632425837846e-16
+Shungin WHR EU sex combined 26 SNPs	PYbFxI	Leu_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00468608718147253	25	1
+Shungin WHR EU sex combined 26 SNPs	q7sz1R	S_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	146.371856879119	25	3.92127176913856e-19
+Shungin WHR EU sex combined 26 SNPs	q7sz1R	S_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	154.56012699407	24	4.68722604144263e-21
+Shungin WHR EU sex combined 26 SNPs	q7sz1R	S_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	154.566642747765	25	1.2075328546878e-20
+Shungin WHR EU sex combined 26 SNPs	q7sz1R	S_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00582731655675933	25	1
+Shungin WHR EU sex combined 26 SNPs	qDuiin	HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	204.531567249987	25	4.10607246359761e-30
+Shungin WHR EU sex combined 26 SNPs	qDuiin	HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	220.685499876728	24	9.83813942597376e-34
+Shungin WHR EU sex combined 26 SNPs	qDuiin	HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	221.985406823983	25	1.69103824359234e-33
+Shungin WHR EU sex combined 26 SNPs	qDuiin	HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00852309887805172	25	1
+Shungin WHR EU sex combined 26 SNPs	QEUdtG	XXL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	296.065053444518	25	3.698548670613e-48
+Shungin WHR EU sex combined 26 SNPs	QEUdtG	XXL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	320.410545666391	24	1.27263628413009e-53
+Shungin WHR EU sex combined 26 SNPs	QEUdtG	XXL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	320.458424633543	25	4.61068998194903e-53
+Shungin WHR EU sex combined 26 SNPs	QEUdtG	XXL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0118182334638753	25	1
+Shungin WHR EU sex combined 26 SNPs	QggHmT	M_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	145.70069868657	25	5.20682830553585e-19
+Shungin WHR EU sex combined 26 SNPs	QggHmT	M_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	152.912014282517	24	9.51340716798161e-21
+Shungin WHR EU sex combined 26 SNPs	QggHmT	M_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	152.912899634205	25	2.44385059725119e-20
+Shungin WHR EU sex combined 26 SNPs	QggHmT	M_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00560750454304823	25	1
+Shungin WHR EU sex combined 26 SNPs	qletAn	S_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	285.008620920046	25	6.02863226353879e-46
+Shungin WHR EU sex combined 26 SNPs	qletAn	S_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	312.455391150382	24	5.16228384779473e-52
+Shungin WHR EU sex combined 26 SNPs	qletAn	S_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	313.510574926082	25	1.15806309895063e-51
+Shungin WHR EU sex combined 26 SNPs	qletAn	S_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0118512756424806	25	1
+Shungin WHR EU sex combined 26 SNPs	qNLV8X	XXL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	285.813621833288	25	4.16290110790949e-46
+Shungin WHR EU sex combined 26 SNPs	qNLV8X	XXL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	307.751531459036	24	4.59517405400443e-51
+Shungin WHR EU sex combined 26 SNPs	qNLV8X	XXL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	307.960366610829	25	1.5147674068784e-50
+Shungin WHR EU sex combined 26 SNPs	qNLV8X	XXL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0113324921263913	25	1
+Shungin WHR EU sex combined 26 SNPs	qUoqFH	SFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	106.148794672242	25	5.66729584780269e-12
+Shungin WHR EU sex combined 26 SNPs	qUoqFH	SFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	109.155490905683	24	7.91727893157839e-13
+Shungin WHR EU sex combined 26 SNPs	qUoqFH	SFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	109.509621659924	25	1.49895496850824e-12
+Shungin WHR EU sex combined 26 SNPs	qUoqFH	SFA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00400605998575613	25	1
+Shungin WHR EU sex combined 26 SNPs	qvjgBA	VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	223.297246395774	25	9.38491788438443e-34
+Shungin WHR EU sex combined 26 SNPs	qvjgBA	VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	239.961001870336	24	1.59793776560782e-37
+Shungin WHR EU sex combined 26 SNPs	qvjgBA	VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	239.995095474222	25	5.05036135151197e-37
+Shungin WHR EU sex combined 26 SNPs	qvjgBA	VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00886631858912448	25	1
+Shungin WHR EU sex combined 26 SNPs	Qw1fXj	L_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	291.259446212997	25	3.39170629455712e-47
+Shungin WHR EU sex combined 26 SNPs	Qw1fXj	L_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	318.158473061842	24	3.63297792955683e-53
+Shungin WHR EU sex combined 26 SNPs	Qw1fXj	L_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	318.59096375021	25	1.09719602461958e-52
+Shungin WHR EU sex combined 26 SNPs	Qw1fXj	L_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0118658738353887	25	1
+Shungin WHR EU sex combined 26 SNPs	r0YQVX	S_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	73.6817568176423	25	1.0772474947476e-06
+Shungin WHR EU sex combined 26 SNPs	r0YQVX	S_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	74.0454129954553	24	5.24803177026654e-07
+Shungin WHR EU sex combined 26 SNPs	r0YQVX	S_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	74.1106677641933	25	9.27122646528575e-07
+Shungin WHR EU sex combined 26 SNPs	r0YQVX	S_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00256957638151912	25	1
+Shungin WHR EU sex combined 26 SNPs	ReRvEm	XL_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	52.007861074783	25	0.00119602202009407
+Shungin WHR EU sex combined 26 SNPs	ReRvEm	XL_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	53.4259537043193	24	0.000508122739689505
+Shungin WHR EU sex combined 26 SNPs	ReRvEm	XL_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	53.4310670831121	25	0.000787039523033079
+Shungin WHR EU sex combined 26 SNPs	ReRvEm	XL_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00194138446593063	25	1
+Shungin WHR EU sex combined 26 SNPs	rm7VvB	M_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	132.118963178966	25	1.53186965252608e-16
+Shungin WHR EU sex combined 26 SNPs	rm7VvB	M_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	132.906687616526	24	4.60585062495988e-17
+Shungin WHR EU sex combined 26 SNPs	rm7VvB	M_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	135.978488185069	25	3.07935278198164e-17
+Shungin WHR EU sex combined 26 SNPs	rm7VvB	M_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0052021478584323	25	1
+Shungin WHR EU sex combined 26 SNPs	RQ8lF7	M_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.563946471542	25	0.328313566836184
+Shungin WHR EU sex combined 26 SNPs	RQ8lF7	M_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	27.7392464066697	24	0.27119162399248
+Shungin WHR EU sex combined 26 SNPs	RQ8lF7	M_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.7770413271149	25	0.318218926388844
+Shungin WHR EU sex combined 26 SNPs	RQ8lF7	M_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00105016828935567	25	1
+Shungin WHR EU sex combined 26 SNPs	rTGxQ9	XL_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	65.9244387594219	25	1.522326611722e-05
+Shungin WHR EU sex combined 26 SNPs	rTGxQ9	XL_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	66.3175333652292	24	7.78458858736379e-06
+Shungin WHR EU sex combined 26 SNPs	rTGxQ9	XL_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	66.4441548856819	25	1.28015717595934e-05
+Shungin WHR EU sex combined 26 SNPs	rTGxQ9	XL_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00246850886097059	25	1
+Shungin WHR EU sex combined 26 SNPs	RTI0qM	M_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	72.7151373699595	25	1.508803496678e-06
+Shungin WHR EU sex combined 26 SNPs	RTI0qM	M_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	71.6415739307353	24	1.23008668194572e-06
+Shungin WHR EU sex combined 26 SNPs	RTI0qM	M_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	72.9859671522255	25	1.37314982720306e-06
+Shungin WHR EU sex combined 26 SNPs	RTI0qM	M_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00284483775541561	25	1
+Shungin WHR EU sex combined 26 SNPs	RuZBzj	LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	37.6346173536071	25	0.0501991573193526
+Shungin WHR EU sex combined 26 SNPs	RuZBzj	LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	37.9778759741918	24	0.0348539148471928
+Shungin WHR EU sex combined 26 SNPs	RuZBzj	LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	38.100208242833	25	0.0452300766428812
+Shungin WHR EU sex combined 26 SNPs	RuZBzj	LDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00142700927292477	25	1
+Shungin WHR EU sex combined 26 SNPs	rzmGvG	HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	147.308648329899	25	2.63858965967433e-19
+Shungin WHR EU sex combined 26 SNPs	rzmGvG	HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	156.166599571458	24	2.34831349470009e-21
+Shungin WHR EU sex combined 26 SNPs	rzmGvG	HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	157.122500351641	25	4.0515340607669e-21
+Shungin WHR EU sex combined 26 SNPs	rzmGvG	HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00608873005622045	25	1
+Shungin WHR EU sex combined 26 SNPs	SC0IrL	Total_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	18.976685323208	25	0.798237062013215
+Shungin WHR EU sex combined 26 SNPs	SC0IrL	Total_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	18.3716088636138	24	0.784618659230494
+Shungin WHR EU sex combined 26 SNPs	SC0IrL	Total_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	19.0248919197586	25	0.795925466806154
+Shungin WHR EU sex combined 26 SNPs	SC0IrL	Total_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000741242291503607	25	1
+Shungin WHR EU sex combined 26 SNPs	sF0dUY	XS_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	194.059863461042	25	4.24376113761572e-28
+Shungin WHR EU sex combined 26 SNPs	sF0dUY	XS_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	203.978067077354	24	1.772798937743e-30
+Shungin WHR EU sex combined 26 SNPs	sF0dUY	XS_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	204.148337213875	25	4.86830802453007e-30
+Shungin WHR EU sex combined 26 SNPs	sF0dUY	XS_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0075858657293484	25	1
+Shungin WHR EU sex combined 26 SNPs	ShytrF	M_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	260.172425525815	25	5.26695890101502e-41
+Shungin WHR EU sex combined 26 SNPs	ShytrF	M_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	284.276648985166	24	2.41816387911891e-46
+Shungin WHR EU sex combined 26 SNPs	ShytrF	M_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	284.663620514869	25	7.06530338831517e-46
+Shungin WHR EU sex combined 26 SNPs	ShytrF	M_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.010613066733858	25	1
+Shungin WHR EU sex combined 26 SNPs	SnkpQZ	Citrate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	39.9063234183309	25	0.0298170117087431
+Shungin WHR EU sex combined 26 SNPs	SnkpQZ	Citrate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	38.8720461514689	24	0.0281653834686488
+Shungin WHR EU sex combined 26 SNPs	SnkpQZ	Citrate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	39.9149803618366	25	0.0297561562631397
+Shungin WHR EU sex combined 26 SNPs	SnkpQZ	Citrate_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00184680448967876	25	1
+Shungin WHR EU sex combined 26 SNPs	sTZ1GM	XS_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	63.1334602382654	25	3.81662529046858e-05
+Shungin WHR EU sex combined 26 SNPs	sTZ1GM	XS_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	62.9088719782298	24	2.45367334634608e-05
+Shungin WHR EU sex combined 26 SNPs	sTZ1GM	XS_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	63.8206648391614	25	3.04916531865586e-05
+Shungin WHR EU sex combined 26 SNPs	sTZ1GM	XS_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00227501074250864	25	1
+Shungin WHR EU sex combined 26 SNPs	t5DZFN	HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	193.320006207354	25	5.88232659614263e-28
+Shungin WHR EU sex combined 26 SNPs	t5DZFN	HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	207.962009384869	24	2.98526003600579e-31
+Shungin WHR EU sex combined 26 SNPs	t5DZFN	HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	209.222045336804	25	5.09261728523477e-31
+Shungin WHR EU sex combined 26 SNPs	t5DZFN	HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00804911092429333	25	1
+Shungin WHR EU sex combined 26 SNPs	t6pRID	IDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	15.888315084623	25	0.918114174076293
+Shungin WHR EU sex combined 26 SNPs	t6pRID	IDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	14.123503037465	24	0.943811597243317
+Shungin WHR EU sex combined 26 SNPs	t6pRID	IDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	15.8902487572885	25	0.918057982702564
+Shungin WHR EU sex combined 26 SNPs	t6pRID	IDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000681505869385064	25	1
+Shungin WHR EU sex combined 26 SNPs	TbzHP0	XL_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	199.972603880472	25	3.10481385770195e-29
+Shungin WHR EU sex combined 26 SNPs	TbzHP0	XL_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	222.238597870767	24	4.88467763089004e-34
+Shungin WHR EU sex combined 26 SNPs	TbzHP0	XL_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	222.406966167033	25	1.3995726619736e-33
+Shungin WHR EU sex combined 26 SNPs	TbzHP0	XL_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00818674567878624	25	1
+Shungin WHR EU sex combined 26 SNPs	TkdXYl	L_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	129.191782863941	25	5.13978077611949e-16
+Shungin WHR EU sex combined 26 SNPs	TkdXYl	L_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	135.892553108839	24	1.31601514057661e-17
+Shungin WHR EU sex combined 26 SNPs	TkdXYl	L_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	136.080005078207	25	2.95174784690721e-17
+Shungin WHR EU sex combined 26 SNPs	TkdXYl	L_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00503724428376382	25	1
+Shungin WHR EU sex combined 26 SNPs	TRWXv4	DHA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	16.3616004113277	25	0.903634028661454
+Shungin WHR EU sex combined 26 SNPs	TRWXv4	DHA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	16.0238277981719	24	0.887214011523383
+Shungin WHR EU sex combined 26 SNPs	TRWXv4	DHA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	16.3749469418388	25	0.903204514673507
+Shungin WHR EU sex combined 26 SNPs	TRWXv4	DHA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000679322991852812	25	1
+Shungin WHR EU sex combined 26 SNPs	tsrQLo	XL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	302.272217290041	25	2.10402681822047e-49
+Shungin WHR EU sex combined 26 SNPs	tsrQLo	XL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	332.824064012889	24	3.88645841461743e-56
+Shungin WHR EU sex combined 26 SNPs	tsrQLo	XL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	332.926232263641	25	1.3989599383416e-55
+Shungin WHR EU sex combined 26 SNPs	tsrQLo	XL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0124135560594592	25	1
+Shungin WHR EU sex combined 26 SNPs	tTyaRH	L_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	19.7110330991318	25	0.761814485332669
+Shungin WHR EU sex combined 26 SNPs	tTyaRH	L_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	19.6166087907003	24	0.718356657500225
+Shungin WHR EU sex combined 26 SNPs	tTyaRH	L_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	19.7846523926967	25	0.758028514603593
+Shungin WHR EU sex combined 26 SNPs	tTyaRH	L_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000757583686176243	25	1
+Shungin WHR EU sex combined 26 SNPs	tw6MgH	XS_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	186.491860718578	25	1.18785617861477e-26
+Shungin WHR EU sex combined 26 SNPs	tw6MgH	XS_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	190.293316219015	24	7.80197376182259e-28
+Shungin WHR EU sex combined 26 SNPs	tw6MgH	XS_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	193.39222615093	25	5.69784816280161e-28
+Shungin WHR EU sex combined 26 SNPs	tw6MgH	XS_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00747958856321539	25	1
+Shungin WHR EU sex combined 26 SNPs	TZNT9P	Total_BCAA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	146.646893889222	25	3.49086356530109e-19
+Shungin WHR EU sex combined 26 SNPs	TZNT9P	Total_BCAA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	142.442237428469	24	8.28314609277993e-19
+Shungin WHR EU sex combined 26 SNPs	TZNT9P	Total_BCAA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	147.554878833556	25	2.37747308013136e-19
+Shungin WHR EU sex combined 26 SNPs	TZNT9P	Total_BCAA_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00519321157816147	25	1
+Shungin WHR EU sex combined 26 SNPs	u2E8db	XL_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	214.31700748276	25	5.24210443244806e-32
+Shungin WHR EU sex combined 26 SNPs	u2E8db	XL_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	238.896587470183	24	2.59207824592417e-37
+Shungin WHR EU sex combined 26 SNPs	u2E8db	XL_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	239.025304161425	25	7.83196010154181e-37
+Shungin WHR EU sex combined 26 SNPs	u2E8db	XL_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00879305898360619	25	1
+Shungin WHR EU sex combined 26 SNPs	UByjIl	L_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	218.39217415252	25	8.4667757372626e-33
+Shungin WHR EU sex combined 26 SNPs	UByjIl	L_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	242.770468079796	24	4.45247995720393e-38
+Shungin WHR EU sex combined 26 SNPs	UByjIl	L_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	243.324343299544	25	1.11834334011241e-37
+Shungin WHR EU sex combined 26 SNPs	UByjIl	L_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.009094237617725	25	1
+Shungin WHR EU sex combined 26 SNPs	UDlPma	L_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	231.518809411012	25	2.32270532866278e-35
+Shungin WHR EU sex combined 26 SNPs	UDlPma	L_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	245.379513089666	24	1.35728438423457e-38
+Shungin WHR EU sex combined 26 SNPs	UDlPma	L_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	246.267335478597	25	2.94459732759818e-38
+Shungin WHR EU sex combined 26 SNPs	UDlPma	L_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00932688186155408	25	1
+Shungin WHR EU sex combined 26 SNPs	uFaEb1	L_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	26.2528656119924	25	0.394204568675962
+Shungin WHR EU sex combined 26 SNPs	uFaEb1	L_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26.3058784241537	24	0.337829233815143
+Shungin WHR EU sex combined 26 SNPs	uFaEb1	L_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	26.4157875253352	25	0.385684287892415
+Shungin WHR EU sex combined 26 SNPs	uFaEb1	L_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00100247523321844	25	1
+Shungin WHR EU sex combined 26 SNPs	UmHw1m	non_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	41.407500944802	25	0.0207913578300096
+Shungin WHR EU sex combined 26 SNPs	UmHw1m	non_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	41.5381792052354	24	0.0145284906953991
+Shungin WHR EU sex combined 26 SNPs	UmHw1m	non_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	41.9247584007061	25	0.0183102814931561
+Shungin WHR EU sex combined 26 SNPs	UmHw1m	non_HDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00156513445886071	25	1
+Shungin WHR EU sex combined 26 SNPs	uXHUTW	Sphingomyelins_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	37.7671597205286	25	0.0487381080855715
+Shungin WHR EU sex combined 26 SNPs	uXHUTW	Sphingomyelins_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	36.8252047017324	24	0.0455484548044747
+Shungin WHR EU sex combined 26 SNPs	uXHUTW	Sphingomyelins_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	38.0366247084987	25	0.04588214329418
+Shungin WHR EU sex combined 26 SNPs	uXHUTW	Sphingomyelins_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00152524371383142	25	1
+Shungin WHR EU sex combined 26 SNPs	uXKDNc	L_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	292.293692457637	25	2.10575693412396e-47
+Shungin WHR EU sex combined 26 SNPs	uXKDNc	L_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	321.200578202147	24	8.80720211483591e-54
+Shungin WHR EU sex combined 26 SNPs	uXKDNc	L_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	321.447297396283	25	2.91286985075212e-53
+Shungin WHR EU sex combined 26 SNPs	uXKDNc	L_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0119938406366999	25	1
+Shungin WHR EU sex combined 26 SNPs	uYcCGQ	XXL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	276.056209190701	25	3.68156532426709e-44
+Shungin WHR EU sex combined 26 SNPs	uYcCGQ	XXL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	299.600143175407	24	2.01841389792194e-49
+Shungin WHR EU sex combined 26 SNPs	uYcCGQ	XXL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	299.686242534076	25	6.94994249784803e-49
+Shungin WHR EU sex combined 26 SNPs	uYcCGQ	XXL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0111458010250594	25	1
+Shungin WHR EU sex combined 26 SNPs	vDmEug	L_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	208.198575691655	25	8.0343516287161e-31
+Shungin WHR EU sex combined 26 SNPs	vDmEug	L_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	223.17140893132	24	3.20695717222612e-34
+Shungin WHR EU sex combined 26 SNPs	vDmEug	L_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	223.201894935921	25	9.79542970474041e-34
+Shungin WHR EU sex combined 26 SNPs	vDmEug	L_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00826086181480506	25	1
+Shungin WHR EU sex combined 26 SNPs	vGz5G6	XL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	126.482149960161	25	1.56819969439163e-15
+Shungin WHR EU sex combined 26 SNPs	vGz5G6	XL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	125.155202489226	24	1.16035063050268e-15
+Shungin WHR EU sex combined 26 SNPs	vGz5G6	XL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	129.297591659324	25	4.92020927730791e-16
+Shungin WHR EU sex combined 26 SNPs	vGz5G6	XL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00532606770900341	25	1
+Shungin WHR EU sex combined 26 SNPs	VMBv4m	S_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	209.25851615271	25	5.0105211392022e-31
+Shungin WHR EU sex combined 26 SNPs	VMBv4m	S_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	225.007348454245	24	1.40018181702426e-34
+Shungin WHR EU sex combined 26 SNPs	VMBv4m	S_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	225.058603536598	25	4.25417909191716e-34
+Shungin WHR EU sex combined 26 SNPs	VMBv4m	S_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00848221374540369	25	1
+Shungin WHR EU sex combined 26 SNPs	VRWD7N	M_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	82.0010962697577	25	5.52414347344499e-08
+Shungin WHR EU sex combined 26 SNPs	VRWD7N	M_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	81.7967936207575	24	3.13928946544341e-08
+Shungin WHR EU sex combined 26 SNPs	VRWD7N	M_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	83.5288877030127	25	3.16131067050543e-08
+Shungin WHR EU sex combined 26 SNPs	VRWD7N	M_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00343688488448964	25	1
+Shungin WHR EU sex combined 26 SNPs	vsaPW0	S_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	265.958602769027	25	3.75029455189771e-42
+Shungin WHR EU sex combined 26 SNPs	vsaPW0	S_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	293.356577370379	24	3.63828859408947e-48
+Shungin WHR EU sex combined 26 SNPs	vsaPW0	S_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	293.775726596432	25	1.06331959819646e-47
+Shungin WHR EU sex combined 26 SNPs	vsaPW0	S_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0110083851713379	25	1
+Shungin WHR EU sex combined 26 SNPs	vT8x67	Ala_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	76.6491134281684	25	3.78700470489349e-07
+Shungin WHR EU sex combined 26 SNPs	vT8x67	Ala_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	70.8770181318933	24	1.60907928660209e-06
+Shungin WHR EU sex combined 26 SNPs	vT8x67	Ala_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	76.6914266020098	25	3.73053004354778e-07
+Shungin WHR EU sex combined 26 SNPs	vT8x67	Ala_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00271533889487895	25	1
+Shungin WHR EU sex combined 26 SNPs	VuS4ZC	XL_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	159.95087356319	25	1.20580985323325e-21
+Shungin WHR EU sex combined 26 SNPs	VuS4ZC	XL_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	174.687171703985	24	7.53721825580253e-25
+Shungin WHR EU sex combined 26 SNPs	VuS4ZC	XL_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	174.699604948707	25	2.05691586329807e-24
+Shungin WHR EU sex combined 26 SNPs	VuS4ZC	XL_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00639474054096252	25	1
+Shungin WHR EU sex combined 26 SNPs	VVWQsz	L_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	218.16141318101	25	9.38858214112988e-33
+Shungin WHR EU sex combined 26 SNPs	VVWQsz	L_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	242.569059926829	24	4.8798613503223e-38
+Shungin WHR EU sex combined 26 SNPs	VVWQsz	L_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	243.118826536062	25	1.22749573156273e-37
+Shungin WHR EU sex combined 26 SNPs	VVWQsz	L_HDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00906354807194195	25	1
+Shungin WHR EU sex combined 26 SNPs	W05XyS	M_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	156.575137565686	25	5.12035940207014e-21
+Shungin WHR EU sex combined 26 SNPs	W05XyS	M_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	167.223426367294	24	1.95911336839984e-23
+Shungin WHR EU sex combined 26 SNPs	W05XyS	M_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	167.948323786376	25	3.84572240368396e-23
+Shungin WHR EU sex combined 26 SNPs	W05XyS	M_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00644080119309627	25	1
+Shungin WHR EU sex combined 26 SNPs	WBQk0j	SFA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	61.3475570503071	25	6.80058055158694e-05
+Shungin WHR EU sex combined 26 SNPs	WBQk0j	SFA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	62.5692606724296	24	2.74675189240746e-05
+Shungin WHR EU sex combined 26 SNPs	WBQk0j	SFA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	62.6601937931504	25	4.45160650830853e-05
+Shungin WHR EU sex combined 26 SNPs	WBQk0j	SFA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00238375538269917	25	1
+Shungin WHR EU sex combined 26 SNPs	whEXeb	ApoB_by_ApoA1_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	133.175761400596	25	9.88178598381687e-17
+Shungin WHR EU sex combined 26 SNPs	whEXeb	ApoB_by_ApoA1_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	139.916050111821	24	2.41349949580059e-18
+Shungin WHR EU sex combined 26 SNPs	whEXeb	ApoB_by_ApoA1_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	139.968498478798	25	5.80852740289333e-18
+Shungin WHR EU sex combined 26 SNPs	whEXeb	ApoB_by_ApoA1_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00533159868959539	25	1
+Shungin WHR EU sex combined 26 SNPs	wPAXea	XL_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	156.738042891062	25	4.77578175106137e-21
+Shungin WHR EU sex combined 26 SNPs	wPAXea	XL_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	169.528533168835	24	7.17873012806395e-24
+Shungin WHR EU sex combined 26 SNPs	wPAXea	XL_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	169.655333377761	25	1.83712972384091e-23
+Shungin WHR EU sex combined 26 SNPs	wPAXea	XL_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0063380285431338	25	1
+Shungin WHR EU sex combined 26 SNPs	wqIBG3	M_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	167.169993418539	25	5.38396091571913e-23
+Shungin WHR EU sex combined 26 SNPs	wqIBG3	M_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	171.199796035614	24	3.46249536804363e-24
+Shungin WHR EU sex combined 26 SNPs	wqIBG3	M_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	174.46064724805	25	2.28221742084492e-24
+Shungin WHR EU sex combined 26 SNPs	wqIBG3	M_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00679594957253877	25	1
+Shungin WHR EU sex combined 26 SNPs	wRHIXn	IDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	13.8206475801552	25	0.964769311577194
+Shungin WHR EU sex combined 26 SNPs	wRHIXn	IDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	12.5204972395895	24	0.973383795884292
+Shungin WHR EU sex combined 26 SNPs	wRHIXn	IDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	13.8291661206419	25	0.9646290813477
+Shungin WHR EU sex combined 26 SNPs	wRHIXn	IDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000548312647060199	25	1
+Shungin WHR EU sex combined 26 SNPs	WVwK8B	S_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	132.049816071374	25	1.5764066995994e-16
+Shungin WHR EU sex combined 26 SNPs	WVwK8B	S_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	139.314488193961	24	3.11191482159997e-18
+Shungin WHR EU sex combined 26 SNPs	WVwK8B	S_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	139.965183712457	25	5.81660403399561e-18
+Shungin WHR EU sex combined 26 SNPs	WVwK8B	S_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00535270247096416	25	1
+Shungin WHR EU sex combined 26 SNPs	WWgsxj	S_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	48.9590598047746	25	0.00285757272936788
+Shungin WHR EU sex combined 26 SNPs	WWgsxj	S_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	49.182960182006	24	0.00179654121668102
+Shungin WHR EU sex combined 26 SNPs	WWgsxj	S_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	49.3653494069563	25	0.00254978047171407
+Shungin WHR EU sex combined 26 SNPs	WWgsxj	S_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00183648507324631	25	1
+Shungin WHR EU sex combined 26 SNPs	xbVvoP	L_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	231.343768795074	25	2.51340080925016e-35
+Shungin WHR EU sex combined 26 SNPs	xbVvoP	L_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	252.287875068111	24	5.80804915531434e-40
+Shungin WHR EU sex combined 26 SNPs	xbVvoP	L_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	252.290696184788	25	1.90857384684133e-39
+Shungin WHR EU sex combined 26 SNPs	xbVvoP	L_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0091307900814868	25	1
+Shungin WHR EU sex combined 26 SNPs	xhxxe5	S_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	61.8581250684516	25	5.77037200317149e-05
+Shungin WHR EU sex combined 26 SNPs	xhxxe5	S_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	63.4188177859859	24	2.07014771523918e-05
+Shungin WHR EU sex combined 26 SNPs	xhxxe5	S_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	63.4389804401702	25	3.45460352589895e-05
+Shungin WHR EU sex combined 26 SNPs	xhxxe5	S_LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00239485999649111	25	1
+Shungin WHR EU sex combined 26 SNPs	Xqco1h	LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	40.1869814029184	25	0.0279000012474279
+Shungin WHR EU sex combined 26 SNPs	Xqco1h	LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	40.6403388727567	24	0.0182350181599558
+Shungin WHR EU sex combined 26 SNPs	Xqco1h	LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	40.7237394157855	25	0.0245399896769837
+Shungin WHR EU sex combined 26 SNPs	Xqco1h	LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00153389083520451	25	1
+Shungin WHR EU sex combined 26 SNPs	XUaYBJ	Phosphatidylc_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	22.0050934119909	25	0.635449885845864
+Shungin WHR EU sex combined 26 SNPs	XUaYBJ	Phosphatidylc_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	21.1643465891225	24	0.629011929578
+Shungin WHR EU sex combined 26 SNPs	XUaYBJ	Phosphatidylc_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	22.0176875752437	25	0.634722434675602
+Shungin WHR EU sex combined 26 SNPs	XUaYBJ	Phosphatidylc_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000921532576016851	25	1
+Shungin WHR EU sex combined 26 SNPs	xvmeCx	HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	139.838700091277	25	6.13329692470885e-18
+Shungin WHR EU sex combined 26 SNPs	xvmeCx	HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	146.026917013099	24	1.80573950608503e-19
+Shungin WHR EU sex combined 26 SNPs	xvmeCx	HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	147.484486888399	25	2.44937206091805e-19
+Shungin WHR EU sex combined 26 SNPs	xvmeCx	HDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0057919204943124	25	1
+Shungin WHR EU sex combined 26 SNPs	xwg4vK	XS_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	172.213537966831	25	6.05898126268994e-24
+Shungin WHR EU sex combined 26 SNPs	xwg4vK	XS_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	175.033033572679	24	6.47794285919e-25
+Shungin WHR EU sex combined 26 SNPs	xwg4vK	XS_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	177.958010985546	25	4.9749392671691e-25
+Shungin WHR EU sex combined 26 SNPs	xwg4vK	XS_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00684507866467974	25	1
+Shungin WHR EU sex combined 26 SNPs	XZMWCU	XL_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	283.711129217242	25	1.09483434428274e-45
+Shungin WHR EU sex combined 26 SNPs	XZMWCU	XL_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	315.872933973909	24	1.05280893370727e-52
+Shungin WHR EU sex combined 26 SNPs	XZMWCU	XL_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	316.025968862583	25	3.60714310998251e-52
+Shungin WHR EU sex combined 26 SNPs	XZMWCU	XL_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0116950889794186	25	1
+Shungin WHR EU sex combined 26 SNPs	y3CcDG	S_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	144.08036595357	25	1.03146222955963e-18
+Shungin WHR EU sex combined 26 SNPs	y3CcDG	S_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	146.786642531677	24	1.30643650784634e-19
+Shungin WHR EU sex combined 26 SNPs	y3CcDG	S_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	148.965347981576	25	1.30803336362705e-19
+Shungin WHR EU sex combined 26 SNPs	y3CcDG	S_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00580721707536802	25	1
+Shungin WHR EU sex combined 26 SNPs	yCmvVQ	Phosphoglyc_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	23.4273253753145	25	0.552625523238894
+Shungin WHR EU sex combined 26 SNPs	yCmvVQ	Phosphoglyc_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	22.3627196000395	24	0.557627078525222
+Shungin WHR EU sex combined 26 SNPs	yCmvVQ	Phosphoglyc_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	23.4273289346837	25	0.552625315792243
+Shungin WHR EU sex combined 26 SNPs	yCmvVQ	Phosphoglyc_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000970884076549353	25	1
+Shungin WHR EU sex combined 26 SNPs	YD1YHt	S_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	18.5483983309932	25	0.818244438707637
+Shungin WHR EU sex combined 26 SNPs	YD1YHt	S_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	18.5786837400643	24	0.774069119719186
+Shungin WHR EU sex combined 26 SNPs	YD1YHt	S_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	18.5915209535029	25	0.816274211251538
+Shungin WHR EU sex combined 26 SNPs	YD1YHt	S_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.000713269431815795	25	1
+Shungin WHR EU sex combined 26 SNPs	YGFdsp	XXL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	296.06639775359	25	3.69625511894849e-48
+Shungin WHR EU sex combined 26 SNPs	YGFdsp	XXL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	319.798638659617	24	1.69241366796762e-53
+Shungin WHR EU sex combined 26 SNPs	YGFdsp	XXL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	319.969706897136	25	5.78519033407376e-53
+Shungin WHR EU sex combined 26 SNPs	YGFdsp	XXL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0116952653377032	25	1
+Shungin WHR EU sex combined 26 SNPs	yRxM9f	M_LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	83.3600564145274	25	3.36303405164155e-08
+Shungin WHR EU sex combined 26 SNPs	yRxM9f	M_LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	86.3878820993894	24	5.66242984238083e-09
+Shungin WHR EU sex combined 26 SNPs	yRxM9f	M_LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	86.4530909022685	25	1.07552330613618e-08
+Shungin WHR EU sex combined 26 SNPs	yRxM9f	M_LDL_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00333982496932894	25	1
+Shungin WHR EU sex combined 26 SNPs	yUUbSk	XL_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	193.417083037661	25	5.63569937294614e-28
+Shungin WHR EU sex combined 26 SNPs	yUUbSk	XL_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	214.669359527721	24	1.47428102152217e-32
+Shungin WHR EU sex combined 26 SNPs	yUUbSk	XL_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	214.670370063079	25	4.47628624555272e-32
+Shungin WHR EU sex combined 26 SNPs	yUUbSk	XL_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00778594043578758	25	1
+Shungin WHR EU sex combined 26 SNPs	YxJKmo	M_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	103.685771332513	25	1.49163474830661e-11
+Shungin WHR EU sex combined 26 SNPs	YxJKmo	M_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	107.539659609826	24	1.5127451204105e-12
+Shungin WHR EU sex combined 26 SNPs	YxJKmo	M_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	107.683023144279	25	3.09227750137342e-12
+Shungin WHR EU sex combined 26 SNPs	YxJKmo	M_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00403534347938761	25	1
+Shungin WHR EU sex combined 26 SNPs	Z1929o	XL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	143.021266078718	25	1.61129276448174e-18
+Shungin WHR EU sex combined 26 SNPs	Z1929o	XL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	143.571620464575	24	5.12956125255712e-19
+Shungin WHR EU sex combined 26 SNPs	Z1929o	XL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	147.315095228565	25	2.6314014643689e-19
+Shungin WHR EU sex combined 26 SNPs	Z1929o	XL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00585853181881083	25	1
+Shungin WHR EU sex combined 26 SNPs	z9dhln	LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	32.8880713351806	25	0.133890173422583
+Shungin WHR EU sex combined 26 SNPs	z9dhln	LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	33.0867571936143	24	0.102256106792926
+Shungin WHR EU sex combined 26 SNPs	z9dhln	LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	33.1930962786975	25	0.126310772608018
+Shungin WHR EU sex combined 26 SNPs	z9dhln	LDL_C_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00125506631568317	25	1
+Shungin WHR EU sex combined 26 SNPs	ZAovTw	L_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	231.661152015104	25	2.17834014645467e-35
+Shungin WHR EU sex combined 26 SNPs	ZAovTw	L_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	254.88131638084	24	1.77547803725374e-40
+Shungin WHR EU sex combined 26 SNPs	ZAovTw	L_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	254.88966427729	25	5.84925908395108e-40
+Shungin WHR EU sex combined 26 SNPs	ZAovTw	L_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00931411205083415	25	1
+Shungin WHR EU sex combined 26 SNPs	ZctACd	HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	123.434591986176	25	5.46564376441986e-15
+Shungin WHR EU sex combined 26 SNPs	ZctACd	HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	127.461709257173	24	4.4604245058353e-16
+Shungin WHR EU sex combined 26 SNPs	ZctACd	HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	129.133922102296	25	5.2639520998223e-16
+Shungin WHR EU sex combined 26 SNPs	ZctACd	HDL_PL_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00514247799507619	25	1
+Shungin WHR EU sex combined 26 SNPs	ZF9R9D	HDL_size_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	225.645699830455	25	3.2674965713283e-34
+Shungin WHR EU sex combined 26 SNPs	ZF9R9D	HDL_size_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	252.830637584375	24	4.53262737172904e-40
+Shungin WHR EU sex combined 26 SNPs	ZF9R9D	HDL_size_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	253.444853907404	25	1.12898438810227e-39
+Shungin WHR EU sex combined 26 SNPs	ZF9R9D	HDL_size_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00945992998897549	25	1
+Shungin WHR EU sex combined 26 SNPs	zhSERH	S_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	149.045381831892	25	1.26439045211065e-19
+Shungin WHR EU sex combined 26 SNPs	zhSERH	S_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	157.579142872065	24	1.27769010339028e-21
+Shungin WHR EU sex combined 26 SNPs	zhSERH	S_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	157.646720186976	25	3.23729751499121e-21
+Shungin WHR EU sex combined 26 SNPs	zhSERH	S_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00593526080803775	25	1
+Shungin WHR EU sex combined 26 SNPs	ZIepeC	XL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	304.888223623324	25	6.27665650587243e-50
+Shungin WHR EU sex combined 26 SNPs	ZIepeC	XL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	333.486406710976	24	2.85210491692483e-56
+Shungin WHR EU sex combined 26 SNPs	ZIepeC	XL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	333.622731710399	25	1.01142477093791e-55
+Shungin WHR EU sex combined 26 SNPs	ZIepeC	XL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0124033180803507	25	1
+Shungin WHR EU sex combined 26 SNPs	Zj4nmu	L_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	248.903843395774	25	8.89684397970413e-39
+Shungin WHR EU sex combined 26 SNPs	Zj4nmu	L_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	280.270181811997	24	1.53526874858445e-45
+Shungin WHR EU sex combined 26 SNPs	Zj4nmu	L_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	280.950069235388	25	3.89432656466816e-45
+Shungin WHR EU sex combined 26 SNPs	Zj4nmu	L_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0104789026038684	25	1
+Shungin WHR EU sex combined 26 SNPs	Zn2iIF	M_LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	80.0655992050152	25	1.11436247272795e-07
+Shungin WHR EU sex combined 26 SNPs	Zn2iIF	M_LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	82.9597495636936	24	2.04024677550041e-08
+Shungin WHR EU sex combined 26 SNPs	Zn2iIF	M_LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	82.9611068865653	25	3.89166407743248e-08
+Shungin WHR EU sex combined 26 SNPs	Zn2iIF	M_LDL_L_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00314112456046381	25	1
+Shungin WHR EU sex combined 26 SNPs	ZpsjeU	M_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	224.687885566132	25	5.02530489980608e-34
+Shungin WHR EU sex combined 26 SNPs	ZpsjeU	M_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	241.963060864391	24	6.42917458946114e-38
+Shungin WHR EU sex combined 26 SNPs	ZpsjeU	M_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	242.134119767067	25	1.91759743579645e-37
+Shungin WHR EU sex combined 26 SNPs	ZpsjeU	M_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00897981400066677	25	1
+Shungin WHR EU sex combined 26 SNPs	ZspooC	LDL_size_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	85.0323979001842	25	1.81887045390951e-08
+Shungin WHR EU sex combined 26 SNPs	ZspooC	LDL_size_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	87.9814798200907	24	3.10308951335141e-09
+Shungin WHR EU sex combined 26 SNPs	ZspooC	LDL_size_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	88.4265130329484	25	5.15915685658425e-09
+Shungin WHR EU sex combined 26 SNPs	ZspooC	LDL_size_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00416116952195522	25	1
+Shungin WHR EU sex combined 26 SNPs	ZXC7pD	Total_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	58.1868263918434	25	0.000184982353840336
+Shungin WHR EU sex combined 26 SNPs	ZXC7pD	Total_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	57.592185723855	24	0.000138593124045123
+Shungin WHR EU sex combined 26 SNPs	ZXC7pD	Total_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	58.6798923838356	25	0.000158548959927106
+Shungin WHR EU sex combined 26 SNPs	ZXC7pD	Total_P_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0023729772519208	25	1
+Shungin WHR EU sex combined 26 SNPs	zXu5qB	M_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	208.688250446966	25	6.45994075694743e-31
+Shungin WHR EU sex combined 26 SNPs	zXu5qB	M_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	217.154147734561	24	4.82435912073714e-33
+Shungin WHR EU sex combined 26 SNPs	zXu5qB	M_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	220.072523673514	25	3.98780447420486e-33
+Shungin WHR EU sex combined 26 SNPs	zXu5qB	M_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00853769496180121	25	1
+Shungin WHR EU sex combined 26 SNPs	Zz3rJU	LA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	74.2557286883494	25	8.81167589804528e-07
+Shungin WHR EU sex combined 26 SNPs	Zz3rJU	LA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	76.0342196193447	24	2.5728212972792e-07
+Shungin WHR EU sex combined 26 SNPs	Zz3rJU	LA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	76.2184570106644	25	4.41193523609448e-07
+Shungin WHR EU sex combined 26 SNPs	Zz3rJU	LA_pct_int_imputed.txt_adiposity_instruments.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00295907915307552	25	1

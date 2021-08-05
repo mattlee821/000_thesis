@@ -1,0 +1,968 @@
+---
+output: 
+    thesisdown::thesis_pdf: default
+bibliography: bib/thesis.bib
+csl: csl/nature.csl
+space_betwee_paragraphs: true
+fig_caption: true
+always_allow_html: yes
+link-citations: true
+toc-depth: 2
+lot: true
+lof: true
+editor_options: 
+  chunk_output_type: console
+---
+
+`r if(knitr:::is_latex_output()) '\\appendix'`
+
+`r if(!knitr:::is_latex_output()) '# (APPENDIX) Appendix {-}'` 
+
+<!--
+If you feel it necessary to include an appendix, it goes here.
+-->
+
+```{r include=FALSE}
+# word count = 
+doc.type <- knitr::opts_knit$get('rmarkdown.pandoc.to') # this will tell the .Rmd file what output you are knitting to (word, pdf, html) so that you cna use if else statements when making tables - html/pdf output tables do not work well in word. For word we need to use the 'flextable' packaged to make tables.
+setwd(Sys.getenv("main"))
+## packages
+library(dplyr)
+library(kableExtra)
+library(flextable)
+library(data.table)
+library(ggplot2)
+library(cowplot)
+library(tidyverse)
+options(tinytex.verbose = TRUE)
+```
+
+
+# 
+
+The Appendix is split into sections (A.1, A.2...) corresponding to each chapter. All tables and figures presented here are also available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data) within each chapters respective folder. Where tables are too big to be presented in the Appendix (i.e. SNP lists) they are referenced and a GitHub link is provided. \par
+
+\newpage
+## Chapter 1: Introduction {#appendix-introduction}
+```{r include=FALSE}
+setwd(Sys.getenv("main"))
+load("index/data/introduction/data.RData")
+load("index/data/introduction/melodi_data.RData")
+```
+
+#### Literature search {-}
+Manual literature searching is prone to bias. Literature mining tools, though susceptible to publication and other biases, provide an alternative approach enabling a large number of articles to be assessed in a semi-systematic way. MELODI[@Elsworth2018], a literature mining tool, was used to identify intermediate diseases between BMI and mortality. \par
+
+Briefly, MELODI creates individual article sets based on search terms ('body mass index' and 'mortality') and looks for enriched overlapping terms. MELODI uses PubMed and SemMedDB to identify enriched terms. PubMed is a data base of health and biomedical research literature, and SemMedDB is a semantic predications repository built from PubMed citations. Identifying enriched overlapping terms is a two-step process. First, overlapping terms are identified. Second, the degree of overlap given the observed and expected frequency of terms across all articles not just those included in the article sets is quantified. \par
+
+All articles published from 01/01/2000--09/12/2019 (maximum number of articles per article set is 1,000,000) using the terms 'body mass index' as the source and 'mortality' as the outcome were included. Raw results are available on [GitHub](https://github.com/mattlee821/000_thesis/index/data/chapter1). A total of 187,951 and 787,451 articles were retrieved and included in the source and outcome article sets. Using the SemMedDB Triple results a total of `r nrow(MELODI)` enriched overlapping terms were identified. This included similar terms to 'body mass index' as the source, which were removed (n = `r nrow(MELODI_bmi_clna)`). A Bonferroni corrected p-value (`r signif(0.05/nrow(MELODI_bmi_clna), 2)`) removed `r nrow(MELODI_bmi_clna) - nrow(MELODI_bmi_clna_p)` terms. Terms were filtered for uniqueness (n = `r nrow(MELODI_bmi_clna_p_unique)`) and presence in the following categories: Age Group (n = `r nrow(MELODI_intermediates_unique_aggp)`), Bacterium (included because of confounding with pneumonia; n = `r nrow(MELODI_intermediates_unique_bact)`), finding (not an official MELODI category; n = `r nrow(MELODI_intermediates_unique_finding)`), general (not an official MELODI category; n = `r nrow(MELODI_intermediates_unique_general)`), Fungus (included because of confounding with pneumonia; n = `r nrow(MELODI_intermediates_unique_fngs)`), Health Care Activity (n = `r nrow(MELODI_intermediates_unique_hlca)`), Human (n = `r nrow(MELODI_intermediates_unique_humn)`), Injury or Poisoning (n = `r nrow(MELODI_intermediates_unique_inpo)`), Mammal (animal studies; n = `r nrow(MELODI_intermediates_unique_mamm)`), Patient or Disabled Group (n = `r nrow(MELODI_intermediates_unique_podg)`), Population Group (n = `r nrow(MELODI_intermediates_unique_popg)`), Sign or Symptom (n = `r nrow(MELODI_intermediates_unique_sosy)`), Virus (included because of confounding; n = `r nrow(MELODI_intermediates_unique_virs)`). \par
+
+The following terms were removed and merged into immunocompromised host: infections, hospital and opportunistic infections. The following terms were removed because of duplication under different names: cardiac death, sudden death, and sudden cardiac death (merged into cessation of life); coronary arteriosclerosis (atherosclerosis);  cardiovascular morbidity, cardiac event, heart diseases, vascular diseases (cardiovascular diseases); depressed mood (depressive disorder); diabetes mellitus and insulin-dependent (diabetic); metabolic diseases (metabolic syndrome). The following terms were removed because they were top-level categories that could either include a wide variety of terms already included or were duplicated by other terms: chronic disease, critical illness, disability, pregnancy complications and perinatal morbidity (included in pregnancy category), pathogenesis. As a result of filtering a total of `r nrow(MELODI_intermediates_unique_final)` terms remained. These terms were combined into `r nlevels(MELODI_final_table$Category)` categories: `r levels(MELODI_final_table$Category)`. The 'other' category included traits that did not fit into one of any of the other categories and which did not have aligned traits to form a separate category (Table \@ref(tab:appendix-observational-table-MELODI)). The majority of intermediates were cardiovascular related. \par
+
+It should be noted that the search did not include articles prior to the year 2000 and focussed only on those archived by PubMed. Enrichment aims to reduce the noise introduced when searching hundreds of thousands of articles, however manual curation, which will hold its own biases, is needed in order to obtain an informative list of enriched terms. \par
+
+```{r appendix-observational-table-MELODI, echo=FALSE}
+data <- MELODI_final_table
+data <- data[order(data$Category),]
+knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
+    caption = 'MELDOI analysis: intermediates between "body mass index" and "mortality"', 
+    row.names = F,
+    col.names = c("Intermediate", "Category")) %>%
+  kable_styling(full_width = F, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center") %>%
+  column_spec(1, width = "15em") %>%
+  column_spec(2, width = "10em")
+```
+
+
+\newpage
+
+## Chapter 2: Systematic Review {#appendix-SR}
+
+```{r appendix-SR-table-rob, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+data <- data.frame(title = c("Weak instrument bias",
+                             "Genetic confounding bias",
+                             "Other Confounding bias",
+                             "Additional direct effects between IV and outcome",
+                             "Bias due to selection of participants (exposure)",
+                             "Bias due to selection of participants (outcome)",
+                             "IV association",
+                             "Sample overlap",
+                             "Senisitivity analyses",
+                             "Descriptive data",
+                             "Data availability",
+                             "Statistical paramaters"),
+                   Question = c("Strength of association between instrument and exposure",
+                                "Reported test on association between confounders and IV",
+                                "Included confounders in the IV analysis",
+                                "Presence of pleiotropy for IV tested",
+                                "Homogenous population or similar ancestry?",
+                                "Homogenous population or similar ancestry?",
+                                "Provide information on the similarity of IV in exposure/outcome. Two-Sample MR: same allele frequency, same ancestry etc.",
+                                "Provide information on sample overlap",
+                                "Have they performed sensitivity analyses.",
+                                "Is information on the methodology missing/incorrect.",
+                                "Is the  methodology reproducible?",
+                                "Are the statistical paramaters for the analysis given"),
+                   High = c("F less than 10",
+                            "Yes AND there is an obvious association",
+                            "Yes (lifestyle factors)",
+                            "No test/investigation performed or not discussed",
+                            "non-homogenous population (e.g. black and white together, etc.)",
+                            "non-homogenous population (e.g. black and white together, etc.)",
+                            "Different ancestry",
+                            "Not reported/assumed overlap",
+                            "Not reported / not performed",
+                            "Majority missing or incorrect - key info such as MR estimator and/or N SNPs missing",
+                            "No code provided and no software/packages referenced",
+                            "No"),
+                   Moderate = c("F missing",
+                                "Not presented or presented and there is some degree of association",
+                                "Not discussed (one-sample/meta-analysis)",
+                                "Post-hoc sensitivitiy analysis",
+                                "population described as homogenous BUT no ancestry covariate included",
+                                "population described as homogenous BUT no ancestry covariate included",
+                                "Not reported/Assumed same underlying ancestry",
+                                "Not reported/assumed no overlap",
+                                "Reported",
+                                "Some information missing such as N for exposure/outcome",
+                                "Software/packages referenced",
+                                "Some"),
+                   Low = c("F greater than 10",
+                           "Presented and no obvious association",
+                           "No",
+                           "Excluded/re-ran after exlcusion of pleiotropic SNPs / sensitivity analysis consistent with main analysis",
+                           "population described as homogenous AND ancestry covariate included",
+                           "population described as homogenous AND ancestry covariate included",
+                           "Tested and same ancestry",
+                           "Reported/no overlap",
+                           "Reported in the context of main analysis / can't do it (e.g. one SNP used)",
+                           "Majority of information presented and correct",
+                           "Code is provided and all software/packages are referenced",
+                           "Yes/NA because 1 SNP/directly genotyped"))
+
+data <- tibble::rownames_to_column(data) %>%  
+   pivot_longer(-rowname) %>% 
+   pivot_wider(names_from=rowname, values_from=value) 
+names(data) <- data[1,]
+data <- data[-1,]
+
+knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
+    caption = 'Quality assessment tool', 
+    row.names = F,
+    col.names = c(" ", "Weak instrument bias",
+                  "Genetic confounding bias",
+                  "Other Confounding bias",
+                  "Additional direct effects between IV and outcome (exclusion restriction assumption)",
+                  "Bias due to selection of participants (exposure)",
+                  "Bias due to selection of participants (outcome)",
+                  "IV association",
+                  "Sample overlap",
+                  "Senisitivity analyses",
+                  "Descriptive data",
+                  "Data availability",
+                  "Statistical paramaters")) %>%
+  kable_styling(full_width = F, latex_options = c("striped", "HOLD_poistion"), position = "center", font_size = 5) %>%
+  column_spec(1, width = "3em") %>%
+  column_spec(2, width = "7em") %>%
+  column_spec(3, width = "7em") %>%
+  column_spec(4, width = "7em") %>%
+  column_spec(5, width = "7em") %>%
+  column_spec(6, width = "7em") %>%
+  column_spec(7, width = "7em") %>%
+  column_spec(8, width = "7em") %>%
+  column_spec(9, width = "7em") %>%
+  column_spec(10, width = "7em") %>%
+  column_spec(11, width = "7em") %>%
+  column_spec(12, width = "7em") %>%
+  column_spec(13, width = "7em") %>%
+  landscape()
+```
+
+```{r appendix-SR-table-quality-assessment-results, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+data <- read.csv("../../005_systematic_review/analysis/meta_analysis/results/quality_assessment_results.csv", header = T)
+data <- data[,c(3:18)]
+data <- data[order(data$year, data$author),]
+knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
+    caption = 'Quality assessment results for studies included in meta-analyses', 
+    row.names = F,
+    col.names = c("Author", "Year", "doi", "1","2","3","4","5","6","7","8","9","10","11","12","Total")) %>%
+    kable_styling(full_width = F, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center", font_size = 8)
+```
+
+\blandscape
+```{r appendix-SR-table-meta-analyses-results, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+data <- read.csv("../../005_systematic_review/analysis/meta_analysis/results/meta_analysis_results_formatted_appendix.csv")
+data$effect_estimate <- round(data$effect_estimate, 2)
+data$CI_lower <- round(data$CI_lower, 2)
+data$CI_upper <- round(data$CI_upper, 2)
+data$p <- round(data$p, 2)
+data$q <- round(data$q, 2)
+data$q_p <- round(data$q_p, 2)
+data$tau2 <- round(data$tau2, 2)
+data$tau2_se <- round(data$tau2_se, 2)
+data$tau <- round(data$tau, 2)
+data$h <- round(data$h, 2)
+data$i1 <- round(data$i1, 2)
+knitr::kable(data, longtable = T, booktabs = T, format = "markdown", escape = T,
+    caption = 'Meta-analyses results from MR analyses using adiposity as an exposure', 
+    row.names = F,
+    col.names = c("Exposure on outcome", "Studies", "B/OR", "Lower CI", "Upper CI", "p-value", "q", "q_df", "q_p", "tau2", "tau2_se", "tau", "h","i1")) %>%
+    kable_styling(full_width = F, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center", font_size = 8) %>%
+  column_spec(1, width = "10em") %>%
+  column_spec(2, width = "1em") %>%
+  column_spec(3, width = "2em") %>%
+  column_spec(4, width = "2em") %>%
+  column_spec(5, width = "1em") %>%
+  column_spec(6, width = "1em") %>%
+  column_spec(7, width = "1em") %>%
+  column_spec(8, width = "1em") %>%
+  column_spec(9, width = "1em") %>%
+  column_spec(10, width = "1em") %>%
+  column_spec(11, width = "1em") %>%
+  column_spec(12, width = "1em") %>%
+  column_spec(13, width = "1em") %>%
+  column_spec(14, width = "1em") %>%
+  kableExtra::footnote(general = "Column 1 gives the exposure and outcome with units. Column 2 gives the studies used in the meta-analysis. B/OR = beta is the change in outcome per unit increase in exposure, OR is the odds ratio of the outcome per unit change in the exposure; CI = 95% confidence interval", threeparttable = T, general_title = "", footnote_as_chunk = T)
+
+
+```
+\elandscape
+
+## Chapter 3: EpiViz {#appendix-EpiViz}
+
+\newpage
+## Chapter 4: Observational {#appendix-observational}
+
+#### Metabolites {#appendix-observational-metabolites} {-}
+```{r appendix-observational-table-metabolites, echo=FALSE}
+data <- read.table("data/observational/data/analysis/results/combined/combined.txt", header = T, sep = "\t")
+data <- data[,c("metabolite","raw.label","class","subclass","derived_features")]
+data <- unique(data[ , 1:5 ] )
+data <- data[order(data$class, data$subclass, data$metabolite),]
+knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
+    caption = 'Metabolites available after quality control across all age groups', 
+    row.names = F,
+    col.names = c("Metabolite","Label", "Class","Subclass", "Derived")) %>%
+  kable_styling(full_width = T, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center") %>%
+    kableExtra::footnote(general = "Derived indictaes whether a metabolite is directly measured (no) or is a derived measure (yes).", threeparttable = T, general_title = "", footnote_as_chunk = T) %>%
+  column_spec(column = 1, width = "5em") %>%
+  column_spec(column = 2, width = "10em") %>%
+  column_spec(column = 3, width = "10em") %>%
+  column_spec(column = 4, width = "10em") %>%
+  column_spec(column = 5, width = "3em")
+```
+
+\newpage
+
+#### Correlations {#appendix-observational-correlations} {-}
+Due to the large number of tests performed, concordance between models, exposures, and age groups were investigated using Spearman's correlations.
+
+```{r echo=FALSE, warning=FALSE, error=FALSE}
+library(tidyr)
+data <- read.table("data/observational/data/analysis/results/combined/combined.txt", header = T, sep = "\t")
+
+# models within groups within exposures
+## children ====
+a <- subset(data, group == "children")
+bmi <- subset(a, exposure == "bmi")
+bmi <- bmi[,c(1,3,16)]
+bmi <- spread(bmi, key = model, value = b)
+bmi <- bmi[,c(2:3)]
+children_bmi_cor <- cor(bmi, use = "complete.obs", method = "spearman")
+
+whr <- subset(a, exposure == "whr")
+whr <- whr[,c(1,3,16)]
+whr <- spread(whr, key = model, value = b)
+whr <- whr[,c(2:3)]
+children_whr_cor <- cor(whr, use = "complete.obs", method = "spearman")
+
+bf <- subset(a, exposure == "bf")
+bf <- bf[,c(1,3,16)]
+bf <- spread(bf, key = model, value = b)
+bf <- bf[,c(2:3)]
+children_bf_cor <- cor(bf, use = "complete.obs", method = "spearman")
+
+## adolescents ====
+a <- subset(data, group == "adolescents")
+bmi <- subset(a, exposure == "bmi")
+bmi <- bmi[,c(1,3,16)]
+bmi <- spread(bmi, key = model, value = b)
+bmi <- bmi[,c(2:4)]
+adolescents_bmi_cor <- cor(bmi, use = "complete.obs", method = "spearman")
+whr <- ""
+
+bf <- subset(a, exposure == "bf")
+bf <- bf[,c(1,3,16)]
+bf <- spread(bf, key = model, value = b)
+bf <- bf[,c(2:4)]
+adolescents_bf_cor <- cor(bf, use = "complete.obs", method = "spearman")
+
+## young_adults ====
+a <- subset(data, group == "young_adults")
+bmi <- subset(a, exposure == "bmi")
+bmi <- bmi[,c(1,3,16)]
+bmi <- spread(bmi, key = model, value = b)
+bmi <- bmi[,c(2:4)]
+young_adults_bmi_cor <- cor(bmi, use = "complete.obs", method = "spearman")
+
+whr <- subset(a, exposure == "whr")
+whr <- whr[,c(1,3,16)]
+whr <- spread(whr, key = model, value = b)
+whr <- whr[,c(2:4)]
+young_adults_whr_cor <- cor(whr, use = "complete.obs", method = "spearman")
+
+bf <- subset(a, exposure == "bf")
+bf <- bf[,c(1,3,16)]
+bf <- spread(bf, key = model, value = b)
+bf <- bf[,c(2:4)]
+young_adults_bf_cor <- cor(bf, use = "complete.obs", method = "spearman")
+
+## adults ====
+a <- subset(data, group == "adults")
+bmi <- subset(a, exposure == "bmi")
+bmi <- bmi[,c(1,3,16)]
+bmi <- spread(bmi, key = model, value = b)
+bmi <- bmi[,c(2:4)]
+adults_bmi_cor <- cor(bmi, use = "complete.obs", method = "spearman")
+
+whr <- subset(a, exposure == "whr")
+whr <- whr[,c(1,3,16)]
+whr <- spread(whr, key = model, value = b)
+whr <- whr[,c(2:4)]
+adults_whr_cor <- cor(whr, use = "complete.obs", method = "spearman")
+
+bf <- subset(a, exposure == "bf")
+bf <- bf[,c(1,3,16)]
+bf <- spread(bf, key = model, value = b)
+bf <- bf[,c(2:4)]
+adults_bf_cor <- cor(bf, use = "complete.obs", method = "spearman")
+
+# model 1 within group across exposures
+## children ====
+a <- subset(data, group == "children")
+a <- subset(a, model == "model2")
+a <- a[,c(1,3,14)]
+a <- spread(a, key = exposure, value = b)
+a <- a[,c(2:4)]
+children_m1_cor <- cor(a, use = "complete.obs", method = "spearman")
+## adolescents ====
+a <- subset(data, group == "adolescents")
+a <- subset(a, model == "model2")
+a <- a[,c(1,3,14)]
+a <- spread(a, key = exposure, value = b)
+a <- a[,c(2:3)]
+adolescents_m1_cor <- cor(a, use = "complete.obs", method = "spearman")
+## young_adults ====
+a <- subset(data, group == "young_adults")
+a <- subset(a, model == "model2")
+a <- a[,c(1,3,14)]
+a <- spread(a, key = exposure, value = b)
+a <- a[,c(2:4)]
+young_adults_m1_cor <- cor(a, use = "complete.obs", method = "spearman")
+## adults ====
+a <- subset(data, group == "adults")
+a <- subset(a, model == "model2")
+a <- a[,c(1,3,14)]
+a <- spread(a, key = exposure, value = b)
+a <- a[,c(2:4)]
+adults_m1_cor <- cor(a, use = "complete.obs", method = "spearman")
+
+# model 1 within exposure across groups
+## bmi ====
+a <- subset(data, exposure == "bmi")
+a <- subset(a, model == "model2")
+a <- a[,c(1,3,15)]
+a <- spread(a, key = group, value = b)
+a <- a[,c(2:5)]
+bmi_m1_cor <- cor(a, use = "complete.obs", method = "spearman")
+## whr ====
+a <- subset(data, exposure == "whr")
+a <- subset(a, model == "model2")
+a <- a[,c(1,3,15)]
+a <- spread(a, key = group, value = b)
+a <- a[,c(2:4)]
+whr_m1_cor <- cor(a, use = "complete.obs", method = "spearman")
+## bf ====
+a <- subset(data, exposure == "bf")
+a <- subset(a, model == "model2")
+a <- a[,c(1,3,15)]
+a <- spread(a, key = group, value = b)
+a <- a[,c(2:5)]
+bf_m1_cor <- cor(a, use = "complete.obs", method = "spearman")
+rm(a,bf,bmi,data,whr)
+
+# show correlations for each model within exposures ====
+print("Correlations across models within exposures and age groups")
+print("Children BMI")
+children_bmi_cor
+print("Children WHR")
+children_whr_cor
+print("Children BF")
+children_bf_cor
+
+print("Adolescents BMI")
+adolescents_bmi_cor
+print("Adolescents BF")
+adolescents_bf_cor
+
+print("Young adults BMI")
+young_adults_bmi_cor
+print("Young adults WHR")
+young_adults_whr_cor
+print("Young adults BF")
+young_adults_bf_cor
+
+print("Adults BMI")
+adults_bmi_cor
+print("Adults WHR")
+adults_whr_cor
+print("Adults BF")
+adults_bf_cor
+
+# show correlations for model 1 across exposures ====
+print("Correlations across exposures within age groups for model 2")
+print("Children")
+children_m1_cor
+
+print("Adolescents")
+adolescents_m1_cor
+
+print("Young adults")
+young_adults_m1_cor
+
+print("Adults")
+adults_m1_cor
+
+# show correlaion for model 1 within exposures across age groups ====
+print("Correlations within exposures across age groups for model 2")
+print("BMI")
+bmi_m1_cor
+
+print("WHR")
+whr_m1_cor
+
+print("BF")
+bf_m1_cor
+```
+
+\newpage
+
+#### Figures {-}
+
+##### Forestplots {#appendix-observational-figures-forestplots}
+
+(ref:appendix-observational-figure-forestplot-main-cap) **Effect estimates from linear regression of adiposity measures on metabolites**. Forestplot shows effect estimates and 95% confidence intervals from model 2 for all exposures and age groups. Effect estimates are absolute change in metabolite per-standard deviation increase in exposure.
+
+(ref:appendix-observational-figure-forestplot-main-scap) Effect estimates from linear regression of adiposity measures on metabolites
+
+\blandscape
+```{r appendix-observational-figure-forestplot-main, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-observational-figure-forestplot-main-cap)', fig.scap='(ref:appendix-observational-figure-forestplot-main-scap)'}
+knitr::include_graphics("data/observational/Supplement/forestplot_main.pdf")
+```
+\elandscape
+
+(ref:appendix-observational-figure-forestplot-derived-cap) **Effect estimates from linear regression of adiposity measures on metabolites**. Forestplot shows effect estimates and 95% confidence intervals from model 2 for all exposures and age groups. Effect estimates are absolute change in metabolite per-standard deviation increase in exposure.
+
+(ref:appendix-observational-figure-forestplot-derived-scap) Effect estimates from linear regression of adiposity measures on derived metabolites
+
+\blandscape
+```{r appendix-observational-figure-forestplot-derived, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-observational-figure-forestplot-derived-cap)', fig.scap='(ref:appendix-observational-figure-forestplot-derived-scap)'}
+knitr::include_graphics("data/observational/Supplement/forestplot_supplement.pdf")
+```
+\elandscape
+
+##### Circos plots {#appendix-observational-figures-circosplots}
+
+(ref:appendix-observational-figure-circos-children-cap) **Effect estimates from linear regression of adiposity measures on derived supplementary metabolites in children**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in children. Effect estimates are absolute change in metabolite per-standard deviation increase in exposure. The outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/54) set as the number of independent metabolite features as calculated by `metaboprep`.
+
+(ref:appendix-observational-figure-circos-children-scap) Effect estimates from linear regression of adiposity measures on derived supplementary metabolites in children
+
+```{r appendix-observational-figure-circos-children, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-observational-figure-circos-children-cap)', fig.scap='(ref:appendix-observational-figure-circos-children-scap)'}
+knitr::include_graphics("data/observational/figures/circosplot_supplement_children.pdf")
+```
+
+(ref:appendix-observational-figure-circos-adolescents-cap) **Effect estimates from linear regression of adiposity measures on derived supplementary metabolites in adolescents**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in adolescents Effect estimates are absolute change in metabolite per-standard deviation increase in exposure. The outer track is body mass index (BMI), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/48) set as the number of independent metabolite features as calculated by `metaboprep`.
+
+(ref:appendix-observational-figure-circos-adolescents-scap) Effect estimates from linear regression of adiposity measures on derived supplementary metabolites in adolescents
+
+```{r appendix-observational-figure-circos-adolescents, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-observational-figure-circos-adolescents-cap)', fig.scap='(ref:appendix-observational-figure-circos-adolescents-scap)'}
+knitr::include_graphics("data/observational/figures/circosplot_supplement_adolescents.pdf")
+```
+
+(ref:appendix-observational-figure-circos-young-adults-cap) **Effect estimates from linear regression of adiposity measures on derived supplementary metabolites in young adults**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in young adults Effect estimates are absolute change in metabolite per-standard deviation increase in exposure. The outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/46) set as the number of independent metabolite features as calculated by `metaboprep`.
+
+(ref:appendix-observational-figure-circos-young-adults-scap) Effect estimates from linear regression of adiposity measures on derived supplementary metabolites in young adults
+
+```{r appendix-observational-figure-circos-young-adults, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-observational-figure-circos-young-adults-cap)', fig.scap='(ref:appendix-observational-figure-circos-young-adults-scap)'}
+knitr::include_graphics("data/observational/figures/circosplot_supplement_young_adults.pdf")
+```
+
+
+(ref:appendix-observational-figure-circos-adults-cap) **Effect estimates from linear regression of adiposity measures on derived supplementary metabolites in adults**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in adults Effect estimates are absolute change in metabolite per-standard deviation increase in exposure. The outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/53) set as the number of independent metabolite features as calculated by `metaboprep`.
+
+(ref:appendix-observational-figure-circos-adults-scap) Effect estimates from linear regression of adiposity measures on derived supplementary metabolites in adults
+
+```{r appendix-observational-figure-circos-adults, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-observational-figure-circos-adults-cap)', fig.scap='(ref:appendix-observational-figure-circos-adults-scap)'}
+knitr::include_graphics("data/observational/figures/circosplot_supplement_adults.pdf")
+```
+
+## Chapter 5: MR {#appendix-MR}
+
+### Methods
+#### Exposure instruments
+In the main analysis BMI, WHR, and BF were instrumented using SNPs from Yengo et al. (2018)[@Yengo2018], Pulit et al. (2019)[@Pulit2019], and Lu et al. (206)[@Lu2016] respectively. Additional instrument lists were obtained for each of the adiposity measures. A list of all instruments used is available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/tables/exposure_SNPs.txt). \par
+
+```{r appendix-MR-table-exposures, echo=FALSE}
+data <- read.table("../../002_adiposity_metabolites/data/exposure_SNPs.txt", header = T, sep = "\t")
+# data <- data[order(data$Exposure, data$Ref, data$Note, data$Chr, data$BP),]
+# data$P <- as.character(data$P)
+# 
+# knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T, digits = 3,
+#     caption = 'Genetic instrumental variables used in Mendelian randomization analyses', 
+#     row.names = F,
+#     col.names = c("SNP", "Chr", "BP", "EA", "NEA", "EAF", "Beta", "SE", "P", "Exposure", "Ref", "Note", "Clumped")) %>%
+#   kable_styling(full_width = T, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center", font_size = 8) %>%
+#   kableExtra::footnote(general = "Single nucleotide polymorphisms (SNP) were used as genetic instrumental variables in Mendelian randomization analyses. Each SNP, and associated data, were extracted from published genome wide association studies (Ref). Data is ordered for Exposure, Ref, Chr, BP. Chr = chromosome; BP = bas position; EA = effect allele; NEA = non effect allele; EAF = effect allele frequency; Beta = effect of SNP on GWAS phenotype; SE = standard error of the Beta; P = p-value; Exposure = GWAS phenotype and the exposure used in the MR analysis for that SNP and correspondonding data; Ref = surname of first author of GWAS; Note = is applicable to the BMI Yengo SNPs and indicates whether the SNP was from the conditional joint (COJO) analysis or non-conditional joint (non-COJO) analysis; Clumped = whether that SNP was excluded after clumping.", threeparttable = T, general_title = "", footnote_as_chunk = T)
+```
+
+##### Body mass index
+Two additional instrument lists were obtained for BMI. The first came from the same study as used in the main analysis (Yengo et al. (2019)) but did not use the COJO GWAS summary statistics. As such, the details for this GWAS are presented in the main text; a total of 656 primary associations reaching a genome wide significance threshold of 5 x 10^-8^ were identified and used for the additional analysis. The second instrument list came from Locke et al. (2016), in which 322,154 individuals of European ancestries were included in an inverse variance weighted fixed effects meta-analysis. A total of 82 GWAS and 43 Metabochip studies were included in the meta-analysis. Individual GWAS were adjusted for age, age^2^, and study specific covariates with residuals inverse normally transformed. Imputations was performed using HapMap phase II CEU reference panel. Each study used a linear regression model assuming an additive genetic model with quality control following procedures outlined previously[@Winkler2014]. A fixed effect inverse variance weighted meta-analysis was performed using METAL for the 82 GWAS and 43 Metabochip studies separately. Study GWAS and meta-analysis results were corrected for genomic control using all SNPs; study Metabochip and meta-analysis of Metabochip results were corrected for genomic control using 4,425 SNPs included on Metabochip for replication of associations with QT-interval, a phenotype not correlated with BMI, after pruning SNPs within 500kb of a BMI replication SNP. The final meta-analysis combined the genomic control corrected GWAS and Metabochip meta-analysis results. A total of 77 loci reaching genome-wide significance (5x10^-8^) and separated by at least 500 kilobases were identified. \par
+
+##### Waist hip ratio
+The main analysis used summary statistics for waist hip ratio (WHR) from Pulit et al. (2019). This included the meta-analysis of published summary statistics from Shungin et al. (2016) which was used as an additional analysis of WHR here. A total of 210,088 individuals of European ancestries were included in an inverse variance weighted fixed effects meta-analysis. A total of 57 GWAS and 44 Metabochip studies were included in teh meta-analysis. WHR was adjusted for age, age^2^, study-specific covariates if necessary with residuals inverse normally transformed. Imputations was performed using HapMap phase II CEU reference panel. Each study used a linear regression model assuming an additive genetic model. Study GWAS and meta-analysis results were corrected for genomic control using all SNPs; study Metabochip and meta-analysis of Metabochip results were corrected for genomic control using 4,425 SNPs included on Metabochip for replication of associations with QT-interval, a phenotype not correlated with WHR, after pruning SNPs within 500kb of a BMI replication SNP. The final meta-analysis combined the genomic control corrected GWAS and Metabochip meta-analysis results. A total of 26 loci reaching genome-wide significance (5x10^-8^) and separated by at least 500 kilobases were identified. \par
+
+##### Body fat percentage
+The main analysis for body fat percentage (BF) used summary statistics from Lu et al. (2016) which utilised 7 SNPs. Additional analyses included the same summary statistics but after removal of two SNPs which had been associated with 'favourable adiposity'[@Yaghootkar2014; @Yaghootkar2016] as well as a 76 SNPs identified by Hubel et al. (2019)[@Hubel2019] who performed a GWAS of BF in UK Biobank. In UK Biobank, body composition was assessed using bioelectrical impedance (Tanita BC-418 MA; Tanita Corporation, Arlington Heights, IL). Fat mass and fat free mass was calculated from raw impedance data adjusting for age, sex, height and athleticism. Assuming an additive genetic model, sex-specific GWASs (female = 70,700; male = 85,261) of BF were conducted using BGENIE (V1.2)3 in healthy and drug free individuals of European ancestry descent from UK Biobank. European ancestry was defined by k-means clustering of the first two principal components from the genetic data. This equated to 32% of the genotyped UK Biobank population. In total 7,794,483 SNPs with a MAF > 1%, imputation quality score > 0.8 were included. BF residuals were adjusted for age, socioeconomic status (measured by Townsend deprivation index), assessment centre, genotyping batch, smoking status, alcohol consumption, menopause and the first 6 principal components. Genotypes were imputed to the HRC. A fixed effect inverse variance weighted meta-analysis of the sex-specific GWASs was performed using METAL6. Associations for the sex-combined analysis were considered if reaching genome wide significance (5 x 10-8). Linkage disequilibrium score regression (LDSC intercept = 1.05; SE = 0.01) suggested no effect of population stratification. They identified 76 associations reaching a genome wide significance threshold of 5 x 10-8. \par
+
+\newpage
+
+#### Outcomes
+```{r appendix-MR-table-metabolites, echo=FALSE}
+data <- read.table("data/MR/tables/metabolites.txt", header = T, sep = "\t")
+data <- data[order(data$Class, data$Subclass, data$Metabolite),]
+knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
+    caption = 'Metabolites used in MR and meta-analyses', 
+    row.names = F,
+    col.names = c("Metabolite","Label", "Class","Subclass", "Study")) %>%
+  kable_styling(full_width = T, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center", font_size = 8) %>%
+  column_spec(column = 1, width = "5em") %>%
+  column_spec(column = 2, width = "20em") %>%
+  column_spec(column = 3, width = "12em") %>%
+  column_spec(column = 4, width = "12em") %>%
+  column_spec(column = 5, width = "3em") 
+```
+
+\newpage
+
+#### F-statistics
+(ref:appendix-MR-figure-fstatistics-cap) **F-statistics for individual genetic instrumental variables and mean F-statistic for each exposure used in Mendelian randomization analyses**. Mean f-statistic for each exposure indicated by the pink diamond. The blue line indicates a nominal threshold of 10. Exposures used in the main analysis are highlighted with coloured points. The name after each exposure trait represents the first authors last name of the original GWAS publication for which each exposure was obtained. The number following the first authors last name represents the number of SNPs obtained from the original GWAS; clumped refers to this original number of SNPs having been pruned based on an LD R^2^ of $0.001$. BMI = body mass index, WHR = waist hip ratio, WHRadjBMI = waist hip ratio adjusted for BMI, BF = body fat percentage.
+
+(ref:appendix-MR-figure-fstatistics-scap) F-statistics for individual genetic instrumental variables and mean F-statistic for each exposure used in Mendelian randomization analyses
+
+```{r appendix-MR-figure-fstatistics, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-fstatistics-cap)', fig.scap='(ref:appendix-MR-figure-fstatistics-scap)'}
+knitr::include_graphics("../../002_adiposity_metabolites/analysis/all_exposures_fstatistics.pdf")
+```
+
+\newpage
+
+### Results
+#### Sensitivity analyses
+Assumptions of no pleiotropy were explored using MR-Egger[@Bowden2015], weighted median[@Burgess2017a] and weighted mode[@Hartwig2017] based estimators. Globally, sensitivity analysis was visually reflective of the main analysis for each exposure, though with wider confidence intervals. Confidence intervals for sensitivity analyses tended to cross the null and were widest for MR Egger, which is unsurprising given the lower power afforded with this model. Sensitivity results for WHR appeared to show most consistency with the main analysis for both the Kettunen and INTERVAL analyses; confidence intervals for weighted median and mode models did not cross the null in a majority of results for subclasses. \par
+
+\newpage
+
+##### BMI
+(ref:appendix-MR-figure-kettunen-circosplot-bmi-sensitivity-cap) **Global metabolic profile of BMI on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: sensitivity analysis**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is Weighted median, the inner track is Weighted mode. Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:appendix-MR-figure-kettunen-circosplot-bmi-sensitivity-scap) Global metabolic profile of BMI on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: sensitivity analysis
+
+```{r appendix-MR-figure-kettunen-circosplot-bmi-sensitivity, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-bmi-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-bmi-sensitivity-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_kettunen_sensitivity_analysis_BMI.pdf")
+```
+
+\newpage
+
+(ref:appendix-MR-figure-interval-circosplot-bmi-sensitivity-cap) **Global metabolic profile of BMI on 230 NMR derived metabolites from INTERVAL: sensitivity analysis**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is Weighted median, the inner track is Weighted mode. Solid points indicate a multiple testing threshold (`r round(0.05/230,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:appendix-MR-figure-interval-circosplot-bmi-sensitivity-scap) Global metabolic profile of BMI on 230 NMR derived metabolites from INTERVAL: sensitivity analysis
+
+```{r appendix-MR-figure-interval-circosplot-bmi-sensitivity, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-circosplot-bmi-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-interval-circosplot-bmi-sensitivity-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_interval_sensitivity_analysis_BMI.pdf")
+```
+
+\newpage
+
+##### WHR
+(ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-cap) **Global metabolic profile of WHR on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: sensitivity analysis**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is Weighted median, the inner track is Weighted mode. Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-scap) Global metabolic profile of WHR on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: sensitivity analysis
+
+```{r appendix-MR-figure-kettunen-circosplot-whr-sensitivity, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_kettunen_sensitivity_analysis_BMI.pdf")
+```
+
+\newpage
+
+(ref:appendix-MR-figure-interval-circosplot-whr-sensitivity-cap) **Global metabolic profile of WHR on 230 NMR derived metabolites from INTERVAL: sensitivity analysis**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is Weighted median, the inner track is Weighted mode. Solid points indicate a multiple testing threshold (`r round(0.05/230,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:appendix-MR-figure-interval-circosplot-whr-sensitivity-scap) Global metabolic profile of WHR on 230 NMR derived metabolites from INTERVAL: sensitivity analysis
+
+```{r appendix-MR-figure-interval-circosplot-whr-sensitivity, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-circosplot-whr-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-interval-circosplot-whr-sensitivity-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_interval_sensitivity_analysis_BMI.pdf")
+```
+
+\newpage
+
+##### BF
+(ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-cap) **Global metabolic profile of BF on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: sensitivity analysis**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is Weighted median, the inner track is Weighted mode. Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-scap) Global metabolic profile of BF on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: sensitivity analysis
+
+```{r appendix-MR-figure-kettunen-circosplot-bf-sensitivity, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_kettunen_sensitivity_analysis_BMI.pdf")
+```
+
+\newpage
+
+(ref:appendix-MR-figure-interval-circosplot-bf-sensitivity-cap) **Global metabolic profile of BF on 230 NMR derived metabolites from INTERVAL: sensitivity analysis**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is Weighted median, the inner track is Weighted mode. Solid points indicate a multiple testing threshold (`r round(0.05/230,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:appendix-MR-figure-interval-circosplot-bf-sensitivity-scap) Global metabolic profile of BF on 230 NMR derived metabolites from INTERVAL: sensitivity analysis
+
+```{r appendix-MR-figure-interval-circosplot-bf-sensitivity, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-circosplot-bf-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-interval-circosplot-bf-sensitivity-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_interval_sensitivity_analysis_BMI.pdf")
+```
+
+\newpage
+
+##### Additional sensitivity analyses
+
+###### Kettunen
+In single SNP MR for the Kettunen analysis, visual inspection of forest plots showed $S$ shaped distributions of effect estimates for all tests (Representative Figure \@ref(fig:appendix-MR-figure-kettunen-singlesnp-representative-figure)). Effect estimates for some SNPs in the single SNP MR analysis appeared to be outliers. For example, for BMI on Glycoproteins, rs4673553 showed a disproportionately larger effect estimate of 22 (standard error = 0.85; *p-value* = 5.66 x 10^-148^) when compared to other SNPs. Additionally, rs7777102 showed a disproportionately larger effect estimate of -9 for Mean diameter for VLDL particles (standard error = 1.14; *p-value* = 6.15 x 10^-17^). When looking at the median effect size across all metabolites for each SNP, a number of SNPs (including rs7777102 for BMI) showed larger median effect sizes across the board. Funnel plots did not highlight outlying SNPs, but did reflect some SNPs having larger effect estimates across the board (Representative Figure \@ref(fig:appendix-MR-figure-kettunen-funnelplot-BMI-representative-figure). The low number of SNPs used for BF did not result in meaningfully interpretable funnel plots (Representative Figure \@ref(fig:appendix-MR-figure-kettunen-funnelplot-Bf-representative-figure)). \par
+
+Although a number of SNPs showed disproportionately larger effect sizes, in leave-one-out analysis, visual inspection of forest plots showed that no single SNP altered the direction of effect for any metabolite across exposures. For BF, confidence intervals for one or more SNPs crossed the null for every metabolite tested (Representative Figure \@ref(fig:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure)). This was not the case for BMI and WHR, where for many metabolites confidence intervals did not cross the null for any SNPs (Representative Figure \@ref(fig:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure)). \par
+
+\newpage
+
+(ref:appendix-MR-figure-kettunen-singlesnp-representative-figure-cap) **Representative figure: Single SNP MR analysis of BMI on glycerol from Kettunen et al. (2016)[@Kettunen2016]**. Forest plot shows the effect estimate and 95% confidence interval for each individual SNPs effect on glycerol. Effect estimates represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the exposure.
+
+(ref:appendix-MR-figure-kettunen-singlesnp-representative-figure-scap) Representative figure: Single SNP MR analysis of BMI on glycerol from Kettunen et al. (2016)[@Kettunen2016]
+
+```{r appendix-MR-figure-kettunen-singlesnp-representative-figure, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-singlesnp-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-singlesnp-representative-figure-scap)'}
+knitr::include_graphics("data/MR/figures/singlesnp_representative_figure_kettunen.pdf")
+```
+
+\newpage
+
+(ref:appendix-MR-figure-kettunen-funnelplot-BMI-representative-figure-cap) **Representative figure: Funnel plot of of BMI on one metabolite from Kettunen et al. (2016)[@Kettunen2016]**. Funnel plot shows the results of a single SNP MR with effect estimate and standard error. Asymmetry in the funnel indicates unreliable effect estimates.
+
+(ref:appendix-MR-figure-kettunen-funnelplot-BMI-representative-figure-scap) Representative figure: Funnel plot of of BMI on one metabolite from Kettunen et al. (2016)[@Kettunen2016]
+
+```{r appendix-MR-figure-kettunen-funnelplot-BMI-representative-figure, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-funnelplot-BMI-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-funnelplot-BMI-representative-figure-scap)'}
+knitr::include_graphics("data/MR/figures/funnelplot_BMI_representative_figure_kettunen.pdf")
+```
+
+\newpage
+
+(ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of BF on Acetoacetate from Kettunen et al. (2016)[@Kettunen2016]**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on acetoacetate Effect estimates represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the exposure.
+
+(ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-scap) Representative figure: Leave-one-out MR analysis of BF on Acetoacetate from Kettunen et al. (2016)[@Kettunen2016]
+
+```{r appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-scap)'}
+knitr::include_graphics("data/MR/figures/leaveoneout_BF_representative_figure_kettunen.pdf")
+```
+
+\newpage
+
+(ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of BMI on Acetate from Kettunen et al. (2016)[@Kettunen2016]**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on acetate Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure.
+
+(ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-scap) Representative figure: Leave-one-out MR analysis of BMI on Acetate from Kettunen et al. (2016)[@Kettunen2016]
+
+```{r appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-scap)'}
+knitr::include_graphics("data/MR/figures/leaveoneout_BMI_representative_figure_kettunen.pdf")
+```
+
+\newpage
+
+###### INTERVAL
+Broadly speaking, INTERVAL additional sensitivity analyses were similar to that of the Kettunen additional sensitivity analyses. In single SNP MR visual inspection of forest plots showed $S$ shaped distributions of effect estimates for all tests (Representative Figure \@ref(fig:appendix-MR-figure-interval-singlesnp-representative-figure), figure also shows outlier SNP with effect estimate close to -6). As with the Kettunen analysis, effect estimates for some SNPs in the single SNP MR analysis were much greater than others (See Representative Figure \@ref(fig:appendix-MR-figure-interval-singlesnp-representative-figure)). As an example of this in practice, for BF, more often than not, rs6857 showed an effect estimate greater than the 6 other SNPs and did not overlap confidence intervals with them or the null. rs6857 was found in both the Kettunen and INTERVAL analyses to have a disproportinately larger effect estimate than other SNPs. For BMI and WHR these SNPs generally did have confidence intervals which overlapped other SNPs, however overlap was minimal. \par
+
+Funnel plots did not highlight outlying SNPs, but did reflect some SNPs having larger effect estimates across the board (Representative Figure \@ref(fig:appendix-MR-figure-interval-funnelplot-BMI-representative-figure). The low number of SNPs used for BF did not result in meaningfully interpretable funnel plots (Representative Figure \@ref(fig:appendix-MR-figure-interval-funnelplot-Bf-representative-figure)). In leave-one-out analysis, visual inspection of forest plots showed that no single SNP altered the direction of effect for any metabolite across exposures. For BF, confidence intervals for one or more SNPs crossed the null for a majority of metabolite tested (Representative Figure \@ref(fig:appendix-MR-figure-interval-leaveoneout-BF-representative-figure)). This was not the case for BMI and WHR, where for many metabolites confidence intervals did not cross the null for any SNPs (Representative Figure \@ref(fig:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure)). \par
+
+\newpage
+
+(ref:appendix-MR-figure-interval-singlesnp-representative-figure-cap) **Representative figure: Single SNP MR analysis of BMI on glycine from INTERVAL**. Forest plot shows the effect estimate and 95% confidence interval for each individual SNPs effect on glycine. Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure.
+
+(ref:appendix-MR-figure-interval-singlesnp-representative-figure-scap) Single SNP MR analysis of BMI on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: additional sensitivity analysis - representative figure
+
+```{r appendix-MR-figure-interval-singlesnp-representative-figure, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-singlesnp-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-interval-singlesnp-representative-figure-scap)'}
+knitr::include_graphics("data/MR/figures/singlesnp_representative_figure_interval.pdf")
+```
+
+\newpage
+
+(ref:appendix-MR-figure-interval-funnelplot-BMI-representative-figure-cap) **Representative figure: Funnel plot of of BMI on one metabolite from INTERVAL**. Funnel plot shows the results of a single SNP MR with effect estimate and standard error. Asymmetry in the funnel indicates unreliable effect estimates.
+
+(ref:appendix-MR-figure-interval-funnelplot-BMI-representative-figure-scap) Representative figure: Funnel plot of of BMI on one metabolite from INTERVAL
+
+```{r appendix-MR-figure-interval-funnelplot-BMI-representative-figure, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-funnelplot-BMI-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-interval-funnelplot-BMI-representative-figure-scap)'}
+knitr::include_graphics("data/MR/figures/funnelplot_BMI_representative_figure_interval.pdf")
+```
+
+\newpage
+
+(ref:appendix-MR-figure-interval-leaveoneout-BF-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of BF on Acetoacetate from Kettunen et al. (2016)[@Kettunen2016]**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on acetoacetate Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure.
+
+(ref:appendix-MR-figure-interval-leaveoneout-BF-representative-figure-scap) Representative figure: Leave-one-out MR analysis of BF on Acetoacetate from Kettunen et al. (2016)[@Kettunen2016]
+
+```{r appendix-MR-figure-interval-leaveoneout-BF-representative-figure, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-leaveoneout-BF-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-interval-leaveoneout-BF-representative-figure-scap)'}
+knitr::include_graphics("data/MR/figures/leaveoneout_BF_representative_figure_interval.pdf")
+```
+
+\newpage
+
+(ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of BMI on Glycine from INTERVAL**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on glycine Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure.
+
+(ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-scap) Representative figure: Leave-one-out MR analysis of BMI on Glycine from INTERVAL
+
+```{r appendix-MR-figure-interval-leaveoneout-BMI-representative-figure, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-scap)'}
+knitr::include_graphics("data/MR/figures/leaveoneout_BMI_representative_figure_interval.pdf")
+```
+
+\newpage
+
+#### Post-hoc additional analyses
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# packages ====
+library(tidyr)
+library(dplyr)
+# data ==== 
+data <- read.table("../../002_adiposity_metabolites/analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep ="\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+
+## bmi
+a <- c("BMI_Yengo_941", "BMI_Yengo_656", "BMI_Locke_77")
+data1 <- data[data$exposure %in% a, ]
+data1 <- data1[,c(3,4,7)]
+data1 <- spread(data1, exposure, b)
+data1 <- data1[,c(2:4)]
+bmi_cor <- cor(data1, use = "complete.obs", method = "spearman")
+
+## whr
+a <- c("WHR_Pulit_316", "WHR_Shungin_26")
+data1 <- data[data$exposure %in% a, ]
+data1 <- data1[,c(3,4,7)]
+data1 <- spread(data1, exposure, b)
+data1 <- data1[,c(2:3)]
+whr_cor <- cor(data1, use = "complete.obs", method = "spearman")
+
+## bf
+a <- c("BF_Lu_7", "BF_Lu_5", "BF_Hubel_76")
+data1 <- data[data$exposure %in% a, ]
+data1 <- data1[,c(3,4,7)]
+data1 <- spread(data1, exposure, b)
+data1 <- data1[,c(2:4)]
+bf_cor <- cor(data1, use = "complete.obs", method = "spearman")
+```
+
+A number of additional SNP lists were used to instrument BMI, WHR, and BF due to potential limitations of instrument lists used in the main analysis. All analysis, including sensitivity and additional sensitvity analyses, were repeated for these additional SNP lists. 
+
+Results from additional exposures for BMI showed broadly larger effect estimates but consistent directions of effect across metabolites. For the BMI SNPs obtained from a non-UK Biobank GWAS, effect estimates had much wider confidence intervals. Spearman's Rho correlataion of MR results was highest between the two SNP lists from Yengo et al. (2018) (`r round(bmi_cor[[2,3]],2)`) -- correlation between the Locke et al (2014) SNP list and the COJO SNP list from Yengo et al (2018) (`r round(bmi_cor[[1,3]],2)`) and the non-COJO SNP list from Yengo et al. (2018) (`r round(bmi_cor[[1,2]],2)`) were also high. For WHR the global pattern of association was similar between both the main and additional exposure (Figure \@ref(fig:appendix-MR-kettunen-figure-circosplot-additional-BMI)) with high correlation between MR results (`r round(whr_cor[[1,2]],2)`). Effect estimates were larger for the additional exposure from Shungin et al (2014), for which fewer reuslts reached the multiple testing threshold with wider confidence intervals which crossed the null more often than with the main analysis. \par
+
+For BF there was considerable similarity between the main analysis and the additional analysis from Lu et al (2016) which did not include two SNPs previousy identified as being associated with favourable adiposity (Figure \@ref(fig:appendix-MR-kettunen-figure-circosplot-additional-BF)). More metabolites reached the multiple testing threshold when using the 5 SNPs from Lu et al (2016) as opposed to the full 7 SNPs, this included associations with *Apolipoprotein A1*, *Phenylalanine*, *Tyrosine*, *Glucose*, and *Cholesterol esters in very large HDL*. For the additional analysis which used 76 SNPs from Hubel et al (2016), MR reuslts were considerbaly smaller and appeared to show conflicting directions of effect with that of the Lu et al. (2016) SNPs (both using 7 and 5 SNPs). Confidence intervals were much tighter and two metabolites (*Phenylalanine* and *Glycoprotein acetyls*) reached the multiple testing threshold. Correlation between the two Lu et al (2016) SNP lists was high (`r round(bf_cor[[3,2]],2)`), however both the 5 (`r round(bf_cor[[1,3]],2)`) and 7 (`r round(bf_cor[[1,2]],2)`) SNP lists from Lu et al. (2016) showed weaker inverse correaltions with the SNP list from Hubel et al (2016). \par
+
+\newpage
+
+##### BMI
+(ref:appendix-MR-figure-kettunen-circosplot-bmi-additional-cap) **Global metabolic profile of BMI on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: additional analysis**. Circos plot shows each track as different BMI instrumentation: the outer track is Yengo et al. (2018)[@Yengo2018] using 941 COJO SNPs; the middle track is Yengo et al. (2018)[@Yengo2018] using 656 non-COJO SNPs; the inner track is Locke et al. (2016)[@Locke2015] 77 SNPs. Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:appendix-MR-figure-kettunen-circosplot-bmi-additional-scap) Global metabolic profile of BMI on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: additional analysis
+
+```{r appendix-MR-figure-kettunen-circosplot-bmi-additional, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-bmi-additional-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-bmi-additional-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_kettunen_additional_BMI.pdf")
+```
+
+\newpage
+
+(ref:appendix-MR-figure-interval-circosplot-bmi-additional-cap) **Global metabolic profile of BMI on 230 NMR derived metabolites from INTERVAL: additional analysis**. Circos plot shows each track as different BMI instrumentation: the outer track is Yengo et al. (2018)[@Yengo2018] using 941 COJO SNPs; the middle track is Yengo et al. (2018)[@Yengo2018] using 656 non-COJO SNPs; the inner track is Locke et al. (2016)[@Locke2015] 77 SNPs. Solid points indicate a multiple testing threshold (`r round(0.05/230,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:appendix-MR-figure-interval-circosplot-bmi-additional-scap) Global metabolic profile of BMI on 230 NMR derived metabolites from INTERVAL: additional analysis
+
+```{r appendix-MR-figure-interval-circosplot-bmi-additional, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-circosplot-bmi-additional-cap)', fig.scap='(ref:appendix-MR-figure-interval-circosplot-bmi-additional-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_interval_additional_BMI.pdf")
+```
+
+\newpage
+
+##### WHR
+(ref:appendix-MR-figure-kettunen-circosplot-whr-additional-cap) **Global metabolic profile of WHR on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: additional analysis**. Circos plot shows each track as different WHR instrumentation: the outer track is Pulit et al. (2020)[@Pulit2019] using 316 SNPs; the inner track is Shungin et al. (2015)[@Shungin2015] using 26 SNPs. Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:appendix-MR-figure-kettunen-circosplot-whr-additional-scap) Global metabolic profile of WHR on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: additional analysis
+
+```{r appendix-MR-figure-kettunen-circosplot-whr-additional, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-whr-additional-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-whr-additional-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_kettunen_additional_BMI.pdf")
+```
+
+\newpage
+
+(ref:appendix-MR-figure-interval-circosplot-whr-additional-cap) **Global metabolic profile of WHR on 230 NMR derived metabolites from INTERVAL: additional analysis**. Circos plot shows each track as different WHR instrumentation: the outer track is Pulit et al. (2020)[@Pulit2019] using 316 SNPs; the inner track is Shungin et al. (2015)[@Shungin2015] using 26 SNPs. Solid points indicate a multiple testing threshold (`r round(0.05/230,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:appendix-MR-figure-interval-circosplot-whr-additional-scap) Global metabolic profile of WHR on 230 NMR derived metabolites from INTERVAL: additional analysis
+
+```{r appendix-MR-figure-interval-circosplot-whr-additional, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-circosplot-whr-additional-cap)', fig.scap='(ref:appendix-MR-figure-interval-circosplot-whr-additional-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_interval_additional_BMI.pdf")
+```
+
+\newpage
+
+##### BF
+(ref:appendix-MR-figure-kettunen-circosplot-bf-additional-cap) **Global metabolic profile of BF on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: additional analysis**. Circos plot shows each track as different BF instrumentation: the outer track is Lu et al. (2016)[@Lu2016] using 7 SNPs; the middle track is Lu et al. (2016)[@Lu2016] using 5 SNPs having removed two for being associated with favourable adiposity; the inner track is Hubel et al. (2019)[@Hubel2019] using 76 SNPs. Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:appendix-MR-figure-kettunen-circosplot-bf-additional-scap) Global metabolic profile of BF on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: additional analysis
+
+```{r appendix-MR-figure-kettunen-circosplot-bf-additional, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-bf-additional-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-bf-additional-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_kettunen_additional_BMI.pdf")
+```
+
+\newpage
+
+(ref:appendix-MR-figure-interval-circosplot-bf-additional-cap) **Global metabolic profile of BF on 230 NMR derived metabolites from INTERVAL: additional analysis**. Circos plot shows each track as different BF instrumentation: the outer track is Lu et al. (2016)[@Lu2016] using 7 SNPs; the middle track is Lu et al. (2016)[@Lu2016] using 5 SNPs having removed two for being associated with favourable adiposity; the inner track is Hubel et al. (2019)[@Hubel2019] using 76 SNPs. Solid points indicate a multiple testing threshold (`r round(0.05/230,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:appendix-MR-figure-interval-circosplot-bf-additional-scap) Global metabolic profile of BF on 230 NMR derived metabolites from INTERVAL: additional analysis
+
+```{r appendix-MR-figure-interval-circosplot-bf-additional, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-circosplot-bf-additional-cap)', fig.scap='(ref:appendix-MR-figure-interval-circosplot-bf-additional-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_interval_additional_BMI.pdf")
+```
+
+\newpage
+
+
+## Chapter 6: Instrumentation {#appendix-instrumentation}
+## Chapter 7: Mediation {#appendix-mediation}
+
+### Methods
+```{r appendix-mediation-table-metabolites, echo=FALSE}
+data <- read.table("data/mediation/tables/metabolites.txt", header = T, sep = "\t")
+data <- data[order(data$Class, data$Subclass, data$Metabolite),]
+knitr::kable(data, longtable = T, booktabs = T, format = "html", escape = T,
+    caption = 'Metabolites used in MR analyses', 
+    row.names = F,
+    col.names = c("Metabolite","Label", "Class","Subclass")) %>%
+  kable_styling(full_width = T, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center", font_size = 8) %>%
+  column_spec(column = 1, width = "5em") %>%
+  column_spec(column = 2, width = "20em") %>%
+  column_spec(column = 3, width = "12em") %>%
+  column_spec(column = 4, width = "12em") 
+```
+
+### Results
+
+#### Two Sample MR: adiposity-endometrial cancer
+
+(ref:appendix-mediation-figure-representative-scatter-adiposity-endometrial-cap) **Representativ figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**. 
+
+(ref:appendix-mediation-figure-representative-scatter-adiposity-endometrial-scap) Representativ figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer
+
+```{r appendix-mediation-figure-representative-scatter-adiposity-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-scatter-adiposity-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-scatter-adiposity-endometrial-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/figures/representative_plot_mr_scatter.png")
+```
+
+(ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-cap) **Representativ figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**. 
+
+(ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-scap) Representativ figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer
+
+```{r appendix-mediation-figure-representative-funnel-adiposity-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/figures/representative_plot_mr_funnel.png")
+```
+
+(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-endometrial-cap) **Representativ figure: Leave one out plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**.
+
+(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-endometrial-scap) Representativ figure: Leave one out plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer
+
+```{r appendix-mediation-figure-representative-leaveoneout-adiposity-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-endometrial-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/figures/representative_plot_leaveoneout_forest.png")
+```
+
+(ref:appendix-mediation-figure-representative-singlesnp-adiposity-endometrial-cap) **Representativ figure: Single SNP plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**. 
+
+(ref:appendix-mediation-figure-representative-singlesnp-adiposity-endometrial-scap) Representativ figure: Single SNP plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer
+
+```{r appendix-mediation-figure-representative-singlesnp-adiposity-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-singlesnp-adiposity-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-singlesnp-adiposity-endometrial-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/figures/representative_plot_singlesnp_forest.png")
+```
+
+#### Two Sample MR: adiposity-metabolites
+
+(ref:appendix-mediation-figure-representative-scatter-adiposity-metabolites-cap) **Representativ figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on metabolites**. 
+
+(ref:appendix-mediation-figure-representative-scatter-adiposity-metabolites-scap) Representativ figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on metabolites
+
+```{r appendix-mediation-figure-representative-scatter-adiposity-metabolites, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-scatter-adiposity-metabolites-cap)', fig.scap='(ref:appendix-mediation-figure-representative-scatter-adiposity-metabolites-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_metabolite/figures/representative_plot_mr_scatter.png")
+```
+
+(ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-cap) **Representativ figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on metabolites**. 
+
+(ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-scap) Representativ figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on metabolites
+
+```{r appendix-mediation-figure-representative-funnel-adiposity-metabolites, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-cap)', fig.scap='(ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_metabolite/figures/representative_plot_mr_funnel.png")
+```
+
+(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-metabolites-cap) **Representativ figure: Leave one out plot of MR effect estimates from two-sample MR of adiposity on metabolites**.
+
+(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-metabolites-scap) Representativ figure: Leave one out plot of MR effect estimates from two-sample MR of adiposity on metabolites
+
+```{r appendix-mediation-figure-representative-leaveoneout-adiposity-metabolites, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-metabolites-cap)', fig.scap='(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-metabolites-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_metabolite/figures/representative_plot_leaveoneout_forest.png")
+```
+
+(ref:appendix-mediation-figure-representative-singlesnp-adiposity-metabolites-cap) **Representativ figure: Single SNP plot of MR effect estimates from two-sample MR of adiposity on metabolites**. 
+
+(ref:appendix-mediation-figure-representative-singlesnp-adiposity-metabolites-scap) Representativ figure: Single SNP plot of MR effect estimates from two-sample MR of adiposity on metabolites
+
+```{r appendix-mediation-figure-representative-singlesnp-adiposity-metabolites, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-singlesnp-adiposity-metabolites-cap)', fig.scap='(ref:appendix-mediation-figure-representative-singlesnp-adiposity-metabolites-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_metabolite/figures/representative_plot_singlesnp_forest.png")
+```
+
+
+
+
+
+#### Two Sample MR: metabolites-endometrial cancer
+(ref:appendix-mediation-figure-representative-scatter-metabolites-endometrial-cap) **Representativ figure: Scatter plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer**. 
+
+(ref:appendix-mediation-figure-representative-scatter-metabolites-endometrial-scap) Representativ figure: Scatter plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
+
+```{r appendix-mediation-figure-representative-scatter-metabolites-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-scatter-metabolites-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-scatter-metabolites-endometrial-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/figures/representative_plot_mr_scatter.png")
+```
+
+(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-cap) **Representativ figure: Funnel plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer**. 
+
+(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-scap) Representativ figure: Funnel plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
+
+```{r appendix-mediation-figure-representative-funnel-metabolites-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/figures/representative_plot_mr_funnel.png")
+```
+
+(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-cap) **Representativ figure: Leave one out plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer**.
+
+(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-scap) Representativ figure: Leave one out plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
+
+```{r appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/figures/representative_plot_leaveoneout_forest.png")
+```
+
+(ref:appendix-mediation-figure-representative-singlesnp-metabolites-endometrial-cap) **Representativ figure: Single SNP plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer**. 
+
+(ref:appendix-mediation-figure-representative-singlesnp-metabolites-endometrial-scap) Representativ figure: Single SNP plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
+
+```{r appendix-mediation-figure-representative-singlesnp-metabolites-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-singlesnp-metabolites-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-singlesnp-metabolites-endometrial-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/figures/representative_plot_singlesnp_forest.png")
+```
+
+
+
+
+
+

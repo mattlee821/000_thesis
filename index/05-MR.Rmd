@@ -1,0 +1,1418 @@
+---
+output: 
+    thesisdown::thesis_pdf: default
+bibliography: bib/thesis.bib
+csl: csl/nature.csl
+space_betwee_paragraphs: true
+fig_caption: true
+always_allow_html: yes
+link-citations: true
+toc-depth: 2
+lot: true
+lof: true
+indent: true
+header-includes: # include other LaTeX packages here
+    \usepackage{booktabs}
+    \usepackage{longtable}
+    \usepackage{siunitx}
+    \usepackage[left]{lineno}
+    \usepackage{float}
+    \floatplacement{figure}{H}
+    \linenumbers
+    \pagestyle{plain}
+    \raggedbottom 
+    \usepackage{indentfirst}
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r include=FALSE}
+# word count = 
+doc.type <- knitr::opts_knit$get('rmarkdown.pandoc.to') # this will tell the .Rmd file what output you are knitting to (word, pdf, html) so that you cna use if else statements when making tables - html/pdf output tables do not work well in word. For word we need to use the 'flextable' packaged to make tables.
+## packages
+library(dplyr)
+library(kableExtra)
+library(flextable)
+options(tinytex.verbose = TRUE)
+```
+
+# Associations between multiple measures of adiposity and metabolites: Mendelian randomization analysis {#MR} 
+
+<style>
+body {
+text-align: justify}
+</style>
+
+## Chapter summary {-}
+Chapter \@ref(observational) explored the association between multiple measures of adiposity (body mass index (BMI), waist hip ratio (WHR), body fat percent (BF)) and up to 230 metabolites in the Avon Longitudinal Study of Parents and Children (ALSPAC). Across four time points (children (~7 years), adolescents (~15 years), young adults (~24 years), adults (~50 years)) three linear models, adjusting for age and sex (models 1, 2, 3), education, smoking, alcohol, and diet (models 2, 3) and physical activity (model 3), found a large number of associations across metabolite subclasses. Poor measurement, residual confounding, reverse causality, and missing data are all limitations of observational analyses. Perhaps most pertinent to analysis in Chapter \@ref(observational) is residual confounding and reverse causation. Though variation in effect estimates across models was not large, residual confounding is likely more of a concern than reverse causation, given that metabolites are the products of cellular processes and adipose tissue, especially in individuals with adiposity, is a large component of the cellular machinery. As discussed in \@ref(summary) and \@ref(mendelian-randomization), methods which are somewhat robust to these issues, such as Mendelian randomization (MR), provide an opportunity to further interrogate relationships. MR analyses hold a different set of assumptions and limitations; triangulation of evidence across multiple study designs with different sources of bias can strengthen confidence in results[@Lawlor2016]. In this chapter, MR is employed to investigate the association between multiple measures of adiposity (BMI, WHR, BF) and metabolites. Consistent results between observational and Mendelian randomization analyses strengthens evidence of association between adiposity and metabolites and may help to better characterize the changing metabolic profile as a result of adiposity which may later inform disease analysis.
+
+#### Contribution statement {-}
+All of the work in this chapter was performed by myself
+
+\newpage
+
+## Introduction {#MR-intro}
+Evidence from observational analyses, including Chapter \@ref(observational), highlights the systemic effects of adiposity on the metabolome[@Wurtz2014; @Moore2014; @SantosFerreira2017; @Cirulli2019; @Lau2020; @Brachem2020; @Stevens2020; @OKeeffe2020; @Wulaningsih2019; @Frigerio2021; @Neeland2019; @Bachlechner2016; @Rangel-Huerta2019]. These effects are consistent across overall body composition and site specific adiposity, and persist over time and after adjustment for many covariates. However, observational analyses are subject to a number of limitations including measurement error and unmeasured confounding (Section \@ref(mendelian-randomization)). \par
+
+Work in Chapter \@ref(observational) is likely not to have fully accounted for confounding, either due to measurement error or unmeasured confounding. For instance, in adults physical activity was measured by questionnaire with possible answers of 'no', 'occasionally (less than monthly)' and 'frequently (once a month or more)'. Broad categories such as these are unlikely to capture the full impact of physical activity given that 'frequently' will encompass individuals who exercise once a month as well as every day. It also does not take into account the intensity of the exercise or its duration. Similar criticism can be placed on the included covariates smoking status and frequency of alcohol consumption. The presence of reverse causation can also not be ruled out. It is possible that metabolic changes promote adiposity, though this may be a result of other factors such as diseased states. \par
+
+Mendelian randomization (MR), as discussed in Section \@ref(mendelian-randomization), holds its own set of assumptions but is able to reduce the issues traditionally observed in observational analyses[@DaveySmith2003]. However, if not conducted appropriately MR analyses can still be biased, including by confounding and reverse causation. In Chapter \@ref(instrumentation), current practices for instrumenting measures of adiposity were discussed. The most common approach has been to use the largest currently available GWAS/meta-analysis to obtain instruments for adiposity measures. However, there is concern that large scale studies may bias analyses due to sample overlap and population structure[@Haworth2019; @Lawson2020; @Sarmanova2020; @Sanderson2021]. \par
+
+The causal association between adiposity and the metabolic profile has previously been investigated[@Wurtz2014; @Bull2020; @Bell2021a]. These studies used body mass index (BMI)[@Wurtz2014] alongside waist hip ratio[@Bull2020; @Bell2021a] with 82[@Wurtz2014], 123[@Bull2020], and 249[@Bell2021a] metabolic measures in up to 12,664[@Wurtz2014], 24,925[@Bull2020], and 109,532[@Bell2021a] individuals. They show similar evidence of association to observational analyses with systemic changes across the metabolome. \par
+
+Here, a parallel MR analysis using multiple measures of adiposity (BMI, WHR, BF) with 123 metabolites from Kettunen et al. (2016)[@Kettunen2016] (N = 24,925) and 230 metabolites from INTERVAL (unpublished; N = 40,849) is performed. Follow-up meta-analyses of p-values for 110 metabolites in up to 65,774 individuals of European ancestries, and comparison with observational analyses in adults is used to identify persistent effects across studies and methods. \par
+
+## Methods {#MR-methods}
+This chapter details a hypothesis-free two-sample summary-level MR analysis and subsequent meta-analyses (Figure \@ref(fig:MR-figure-analysis-flow)). Genetic variants, single nucleotide polymorphisms (SNPs), associated with variation in three measures of adiposity (BMI[@Yengo2018], WHR[@Pulit2019], BF[@Lu2016]) measured in individuals of European ancestries were used as exposures. Each of the exposures (BMI, WHR, BF) capture different variations in adiposity, and the associated genetic variants explain different amounts of variation in the respective trait. A parallel MR analysis was performed on the following outcomes: (1) 123 nuclear magnetic resonance (NMR) derived metabolites measured in 24,952 individuals of European ancestries from Kettunen et al. (2016)[@Kettunen2016]; (2) 230 NMR derived metabolites from 40,905 individuals of European ancestries from INTERVAL (unpublished). Meta-analyses of 110 metabolites measured in up to 65,774 individuals of European ancestries was also performed. The main MR analysis consisted of an inverse variance weighted multiplicative random effects (IVW-MRE) model and sensitivity analyses using additional models (MR Egger, Weighted median, weighted mode). Visual comparison with observational estimates from Chapter \@ref(observational) was also performed. \par
+
+All data manipulation and analyses were perfromed using `R`[@r2019] (version 3.5.3). MR analysis was performed using the `TwoSampleMR`[@Hemani2018] (version 0.4.22) `R` package. Data for exposures were obtained from published summary statistics as described above (Table \@ref(tab:appendix-MR-table-exposures)). Summary statistics for the Kettunen et al. (2016)[@Kettunen2016) metabolites were obtained from MR Base[@Hemani2018] (accessed 26/07/2019) while those for INTERVAL were unpublished and obtained from collaborators. A list of all metabolites is available in the Appendix (Table \@ref(tab:appendix-MR-table-metabolites)) and on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/tables/metabolites.txt). A list of all instrumental variables used are available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/tables/exposure_SNPs.txt). Meta analyses were conducted using the `meta` (version 4.18-0) `R` package. Results were visualised using the `EpiViz` (version 0.0.0.9) and `ggforestlot` (version 0.1.0) `R` packages. \par
+
+(ref:MR-figure-overview-cap) **Main analysis: Effect of adiposity on metabolites**. The main analysis consisted of two parallel two-sample Mendelian randomization (MR) analyses using three exposures (BMI (body mass index), WHR (waist hip ratio), BF (body fat percentage)). Two outcome metabolomics data sets were used: (1) 123 nuclear magnetic resonance (NMR) derived metabolites measured in 24,952 individuals of European ancestries from Kettunen et al. (2016)[@Kettunen2016]; (2) 160 NMR derived metabolites from 86,507 individuals of European ancestries from INTERVAL[@Lotta2021]. Four models were used: inverse variance weighted, multiplicative random effects (IVW MRE) model was the main analysis; MR Egger, weighted median, and weighted mode were used as sensitivity analyses. The number of SNPs used for each exposure along with the N for the exposure and outcome data sets are given. A meta-analysis of the IVW (MRE) results of 110 shared metabolites was also conducted.
+
+(ref:MR-figure-overview-scap) Main analysis: Effect of adiposity on metabolites
+
+```{r MR-figure-analysis-flow, echo=FALSE, warning=FALSE, error=FALSE, out.width='100%',fig.cap='(ref:MR-figure-overview-cap)', fig.scap='(ref:MR-figure-overview-scap)'}
+knitr::include_graphics("../index/data/MR/figures/analysis_flow.pdf")
+```
+
+### Exposures: measures of adiposity {#MR-exposures-adiposity}
+#### Body mass index
+Genetic instrumental variables for BMI were extracted from Yengo et al. (2018)[@Yengo2018], who analysed data from 515,509 -– 795,624 individuals of European ancestries from two studies, the Genetic Investigation of Anthropometric Traits (GIANT) consortium[@Locke2015] and UK Biobank. In both studies BMI was calculated as $\displaystyle \frac{weight\ (kg)}{height\ (m^2)}$. Yengo et al. (2018)[@Yengo2018] performed a fixed effect inverse variance weighted meta-analysis of BMI using GWAS results generated from UK Biobank (N = 456,426) and results from the GIANT consortium, Locke et al. (2015)[@Locke2015]. \par
+
+In UK Biobank, BMI was adjusted for age, sex, recruitment centre, genotyping batch, and the first 10 principal components calculated from 132,102 (out of 147,604) genotyped SNPs pre-selected by the UK Biobank quality control team[@Bycroft2018]. In GIANT, BMI was adjusted for age, age squared, and study specific covariates. Both the UK Biobank and GIANT GWAS inverse normally transformed BMI. In total, 681,275 individuals of European ancestry and ~2.4 million HapMap 2 SNPs were included in the meta-analysis. Linkage disequilibrium score regression (ILDSC 1.03; SE = 0.02) suggested population stratification, however LDSC can rise above 1 as sample sizes and heterogeneity increase[@Loh2018]. \par
+
+In the combined meta-analysis, a total of 656 primary associations reaching a genome wide significance threshold of 5 x 10^-8^ were identified. Approximate conditional and joint multiple-SNP (COJO) analysis identified a further 285 independent SNPs reaching a genome-wide significance threshold (*p-value* < 1 x 10^-8^). Together these 941 associations explain 6% (SE = 0.8%) and 22.4% (SE = 3.7%) of the variance and heritability of BMI respectively. COJO specific summary statistics for all 941 SNPs were used in the main analysis. \par
+
+#### Waist hip ratio
+Genetic instrumental variables for WHR were extracted from Pulit et al. (2019)[@Pulit2019], who analysed data from 485,486 –- 697,702 individuals of European ancestries from two studies: UK Biobank and the GIANT consortium[@Shungin2015]. In both studies WHR was calculated as $\displaystyle \frac{waist\ circumference\ (cm)} {hip\ circumference\ (cm)}$. Pulit et al. (2019)[@Pulit2019] performed a fixed effects inverse variance weighted meta-analysis of WHR using GWAS results generated from UK Biobank (N = 485,486 (men = 263,148; women = 222,338)) and results from the GIANT consortium (N = 212,248 (women = 118,004; men = 94,434))[@Shungin2015] using METAL[@Willer2010]. SNPs with a frequency difference > 15% between the two studies were removed prior to meta-analysis. In both studies, WHR was adjusted for sex (UK Biobank only), age at assessment, age at assessment squared and assessment centre (UK Biobank only); study specific covariates were included in the GIANT GWASs where appropriate. All residuals were inverse rank normally transformed; in GIANT residuals were calculated for men and women separately. In total, 316 associations reaching a genome wide significance threshold of 5 x 10^-9^ were identified; *p-value* adjusted to account for denser imputation data[@Pulit2017]. These associations explain 3% of the phenotypic variance as calculated in an independent dataset (N = 7,721). SNP based heritability across all SNPs was estimated to be 22.7%. \par
+
+For the UK Biobank GWAS the second release (June 2017) of UK Biobank data which did not have corrected imputation at non-HRC sites was used. As such, only HRC SNPs were used in the GWAS. A linear mixed model using BOLT-LMM[@Loh2015] was performed on SNPs with imputation quality score > 0.3, MAF > 0.01% and SNPs present in the HRC imputation reference panel. Adjustment was made for the SNP array used to genotype the sample. No other covariates were used. They did not assume a non-infinitesimal model. In GIANT, individual studies (genome-wide array = 57; Metabochip = 44) recruited participants and undertook sample and SNP quality control. In genome-wide array studies, imputation was performed with CEU haplotypes from HapMap. Assuming an additive genetic model, each study ran a linear regression GWAS. Sex-specific summary statistics were corrected for population structure using the genomic control inflation factor. Prior to meta-analysis of genome-wide array studies and Metabochip studies, SNPs were removed if they had a minor allele count <= 3, were not in Hardy-Weinberg equilibrium (*p-value* < 10^-6^), had a call rate < 95% or an imputation quality score < 0.3 for MACH, 0.4 for IMPUTE, and 0.8 for PLINK. A fixed effects inverse variance weighted meta-analysis of each genome-wide array GWAS and each Metabochip GWAS was performed and corrected for genomic control to account for structure between cohorts. A fixed effects inverse variance weighted meta-analysis of the meta-analysed genome-wide array studies and Metabochip studies was performed using METAL; correction for genomic control was not performed. \par
+
+#### Body fat percentage
+Genetic instrumental variables for BF were extracted from Lu et al. (2016)[@Lu2016]. In this GWAS individuals with DXA or bioelectrical impedance measured BF were included. The number of individuals with DXA and impedance measured BF was not reported, instead a total N was reported. Lu et al. (2016)[@Lu2016] performed a fixed effects inverse variance weighted meta-analysis of BF using two meta-analyses generated from 43 GWASs (N = 65,831) and 13 Metabochip GWAS studies (N = 23,468) using METAL[@Willer2010]. In total, up to 89,300 (men = 44,429; women = 45,525) individuals of European ancestries were included in the inverse variance weighted fixed effects meta-analysis. In total 7 SNPs reached a genome wide significance threshold (*p-value* < 5 x 10-8) and were considered independent (± 500kb of the most significant SNP). Estimation of variance explained was not available in the European ancestries meta-analysis. In the all ancestries meta-analysis, which included up to 11,419 additional individuals of non-European ancestries, these 7 SNPs explained 0.416% of the variance in BF. The additional SNPs identified in the all ancestries meta-analysis explained 0.58% of the variance in BF. \par
+
+In each cohort, BF was measured via a bioletrical impedance device or DXA as described previously[@Kilpelainen2011]. For each study, BF was adjusted for age, age squared, and study-specific covariates (e.g. genotype-based principle components and study centre) if necessary. For studies of unrelated individuals, the residuals were calculated separately in men and women, and in cases and controls. For studies of family-based design, the residuals were calculated in men and women together, and sex was additionally adjusted in the model. The residuals were then inverse rank normally transformed for association testing. For studies of family-based design, the family relatedness was additionally adjusted in the association testing. \par
+
+Meta-analysis was performed in two stages. First, two parallel meta-analyses were conducted; one meta-analysis combined summary statistics from 43 GWASs, totalling up to 65,831 individuals of European ancestries and the other meta-analysis combined summary statistics from 13 Metabochip studies, totalling up to 23,469 individuals of European ancestries. Each study performed study specific quality control. Imputation was performed in each study using the European ancestries HapMap Phase II (Release 22) reference panel. Individual SNPs were associated with inverse normally transformed BF residuals using linear regression with an additive model. All SNPs with low imputation scores (MACH r2-hat < 0.3, IMPUTE proper_info < 0.4, or PLINK info < 0.8) and a MAC <= 3 were removed.  In the second stage, meta-analysis of these two meta-analyses was performed using an inverse variance-weighted fixed-effect model using METAL. \par
+
+Each unique locus was defined as ±500*kb* on either side of the most significant SNP that reached the genome wide significance threshold (*p-value* < 5 x 10-8) in the meta-analysis. Genotype data for genome-wide significant SNPs was of high quality with a median imputation score of >= 0.95. The fifth percentile for all SNPs was >= 0.80, except for the previously established *TOMM40* SNP (P5 = 0.52). \par
+
+<!--
+Inflation before genomic control correction was generally low (lambda men + women = 1.13; lambda men = 1.07; lambda women = 1.10). To reduce inflation of test statistics from potential population structure, individual GWAS results and GWAS meta-analysis results were corrected for genomic control using all SNPs. Individual Metabochip results and Metabochip meta-analysis results were genomic control corrected using 4,425 SNPs, which were derived from pruning of QT-interval replication SNPs within 500 kb of an anthropometry replication SNP on the Metabochip. The genomic control corrected GWAS and Metabochip meta-analysis results were then meta-analysed. 
+
+LDSC suggested observed inflation was not due to population substructure; the regression intercept was 1.0045 (lambda genomic control = 1.136 and mean X2 = 1.16) for sex-combined, 0.999 (lambda genomic control = 1.062 and mean X2 = 1.079) for men-only and 1.014 (lambda genomic control = 1.105 and mean X2 = 1.112) for women-only analyses. The authors used these regression intercepts, rather than the lambda genomic control, to correct the meta-analysis results in more significant associations (for example, for the rs1558902-*FTO* SNP, *p-value* = 3.24 x 10-27 in the modified European sex-combined meta-analysis compared with *p-value* = 1.1 x 10-25). Overall, the less stringent correction did not result in the identification of novel loci. \par
+-->
+
+### Outcomes: metabolites
+#### Kettunen et al. (2016)[@Kettunen2016]
+Genome-wide summary level data for 123 NMR derived metabolites (Appendix Table \@ref(tab:appendix-MR-table-metabolites)) were available from Kettunen et al. (2016)[@Kettunen2016]. Kettunen et al (2016)[@Kettunen2016] performed a fixed effects meta-analysis of 123 serum and EDTA serum NMR quantified metabolites from 14 GWAS. In total, up to 24,925 individuals of European ancestries were included in the meta-analysis. \par
+
+For the independent GWAS, in each of the 14 cohorts 123 metabolites were quantified from human blood. Four cohorts used EDTA-plasma, the other 10 used serum. The majority of blood samples were fasted. Where a study did not have over night fasted samples, correction for fasting time effect was performed using the `gam` `R` package and fitting a smoothed spline to adjust for fasting. The NMR analysis was performed with the comprehensive quantitative serum/plasma platform described by Soininen et al. (2009)[@Soininen2009]. All metabolites were first adjusted for age, sex, time from last meal if applicable, and the first ten genomic principal components. The residuals were inverse rank normally transformed. Each of the 14 cohorts performed a univariate GWAS assuming an additive genetic model. SNPs were imputed up to 39 million markers using the 1000 Genomes Project March 2012 version. \par
+
+For the meta-analysis, SNPs with accurate imputation (info > 0.4) and minor allele count > 3 were combined using double genomic correction, that is, both individual cohort results and meta-analysis results were corrected for the genomic inflation factor as implemented in `GWAMA`. Up to 12,133,295 SNPs were included in the meta-analysis. Variants, after filtering and meta-analysis, present in more than seven studies were considered for the final results. All traits gave genomic inflation factors in the meta-analysis less than 1.034 showing little evidence of systematic bias in the test statistic. A genome wide significance threshold (*p-value* < 2.27 x 10^-9^) after correcting for 22 independent tests (22 being the number of principal components explaining over 95% of variation in the metabolite data) was used. \par
+
+<!--
+A total of 62 SNPs reached a genome wide significance threshold (*p-value* < 2.27 x 10^-9^) after correcting for 22 independent tests (22 being the number of principal components explaining over 95% of variation in the metabolite data). After performing conditional analysis, a further 12 SNPs were identified as independent after reaching the genome-wide significance threshold. The 12 additional SNPs were identified in 9 of the 62 main loci (*PCSK9*, *LPL*, *PPM1K*, *HAL*, *CETP*, *CILP*, *PLTP*, *APOB* and *LIPC*), with a third independent SNP identified in two of these loci (*APOB* and *LIPC*) and a fourth independent SNP identified in one of these (*LIPC*). Overall, 74 independent SNPs were associated with one or more of the 123 metabolites, with the variance explained ranging from 0.2% for acetoacetate to 12.5% for glycine, with a median of 5%. \par
+-->
+
+#### INTERVAL
+Genome-wide summary level data for 230 NMR derived metabolites (Appendix Table \@ref(tab:appendix-MR-table-metabolites)) were available from the INTERVAL study. INTERVAL is a randomised trial of ~50,000 individuals recruited from June 2012--June 2014 in the United Kingdom to investigate the safety of different blood donation intervals[@Moore2014b]. In INTERVAL, a linear mixed model (LMM) GWAS of 230 serum NMR quantified metabolites was performed. In total, up to 40,849 individuals of European ancestries were included. The INTERVAL GWAS is unpublished, summary statistics were provided by Adam Butterworth. \par
+
+The NMR analysis was performed with the comprehensive quantitative serum/plasma platform described by Soininen et al. (2009)[@Soininen2009]. Some samples or analytes were flagged as being potentially unreliable which was denoted by a set of ‘flag’ variables. A number of individuals had flagged values for acetate, pyruvate, glucose, and lactate. Flagged values were set to missing for individuals where they had been flagged. Metabolites with 0 values or values > 10 SD from the mean after log transformation were set to missing. Individuals were excluded if they had > 30% analyte missingness, and one NMR PCA outlier. All metabolites were log transformed and then adjusted for age, sex, recruitment centre, time between blood draw and sample processing, and the first 10 PCs of genetic ancestry. Residuals were then inverse normal rank transformed prior to GWAS. \par
+
+SNPs were imputed using a combined 1000 Genomes + UK10K panel, which captured 87,696,910 variants. A linear mixed model was fit using BOLT-LMM. Variants that were poorly imputed (info score < 0.3 or R^2^ < 0.3), variants with unrealistic results (eg, standard error < 0, standard error > 10, beta = infinity), and variants with
+minor allele count less than 5 were excluded. A genome wide significance threshold was not set. A total of 28 principal components explained over 95% of variation in the metabolite data. \par
+
+### Two-sample Mendelian randomization
+For all exposures, the following data were obtained from the original GWAS publications: rsID, effect allele, other/non-effect allele, effect allele frequency, effect estimate, standard error of the effect estimate, *p-value*, N, and units. The same data for these genetic instrumental variables were obtained from each metabolite for each exposure separately. Where genetic instrumental variables were not present in the metabolite GWAS, proxy SNPs were included if linkage disequilibrium was >= 0.8. For proxy SNPs, the inclusion of SNPs where the reference strand was ambiguous (strand flips) was allowed and the direction was inferred using a minor allele frequency threshold of 0.3. \par
+
+SNPs for all exposures were not clumped as the studies from which they were obtained stated they were independent or near-independent. For BMI, near-independent SNPs were identified as those with the smallest p-value within a 1 mega-base (Mb) window, as well as those additional SNPs within that same window that after COJO analysis reached the p-value threshold (1 x 10^-8^)[@Yengo2018]. For WHR, lead SNPs (p-value < 5 x 10^-9^), and all SNPs in LD (r^2^ > 0.05) with the lead SNPs, within a 10Mb window were identified using the PLINK *clumping* algorithm. The genomic span of each LD-based clump was identified and a 1kb buffer was added up- and down-stream. Where windows overlapped they were merged into a single locus[@Pulit2019]. For BF, each locus was defined by the SNP with the smallest p-value that reached the GWS threshold (p-value < 5 x 10^-8^) and a 1Mb window centered around that SNP [@Lu2016]. Exposure and outcome SNPs were harmonized in reference to the exposure effect allele being on the increasing scale. For included alleles where the reference strand was ambiguous, the positive strand was inferred using effect allele frequency. \par
+
+An inverse variance weighted (IVW), multiplicative random effects (IVW-MRE) model was used to investigate the association of each exposure on each metabolite. The model assumes that the strength of the association of the genetic instruments with the exposure is not correlated with the magnitude of the pleiotropic effects and that the pleiotropic effects have an average value of zero[@Bowden2017]. A multiple testing threshold of *p-value* < `r round(0.05/22,4)` was applied to the Kettunen et al. (2016) metabolomics data. This is based on the number of principal components (22) in the Kettunen et al. (2016) meta-analysis that explained 95% of the variation in metabolite data. A multiple testing threshold of *p-value* < `r round(0.05/28,4)` was applied to the INTERVAL metabolomics data. This is based on the number of principal components (28) in the INTERVAL GWAS that explained 95% of the variation in metabolite data. \par
+
+The global metabolic profile of adiposity was visualised using Circos plots. Directions of effect were compared across exposures within the Kettunen analysis and within the INTERVAL analysis. Tests which reached a multiple testing threshold within each analysis are presented and the effect of adiposity on subclasses were explored in regard to the multiple testing threshold. \par
+
+#### Sensitivity analysis {#MR-sensitivity}
+Assumptions of no pleiotropy among genetic instruments and outcomes were explored using MR-Egger[@Bowden2015], weighted median[@Burgess2017a] and weighted mode[@Hartwig2017] based estimators. These methods are sensitive to the effects of potential pleiotropy. No threshold requirements were set for these methods, instead, consistency between the IVW-MRE model and these methods was investigated. \par
+
+MR-Egger provides an estimate of horizontal pleiotropy via the intercept of a linear regression of the SNP-exposure and SNP-outcome association. Absent pleiotropic effects the intercept tends towards the origin. MR-Egger gives consistent estimates when 100% of genetic instruments are invalid[@Bowden2015]. The weighted median is complimentary to MR-Egger but does not rely on the instrument strength independent of direct effect assumption. It calculates the median of an empirical distribution of effect estimates weighted for precision. It provides consistent estimates when at least 50% of the weight comes from genetic instruments and as long as no one genetic instrument contributes > 50% of the weight[@Burgess2017a]. The weighted mode assumes the true causal effect is the most common effect, it is robust when the majority of effect estimates are derived from valid instruments[@Hartwig2017]. \par
+
+In these analyses it is assumed that the instruments influence the exposure first. Their effect on the outcome through the exposure is secondary. Given the large number of genetic instruments used, as well as the feed-back and feed-forward loops present in the metabolome, the directionality of association can be difficult to evaluate. The Steiger test[@Hemani2017], applied here using the `TwoSampleMR` package, calculates the variance explained in the exposure and the variance explained in the outcome by the exposure instruments. If the variance explained in the outcome is less than that explained in the exposure then the direction of effect can be considered to be from the exposure to the outcome. For the INTERVAL analysis the overall N (40,849) was used as SNP N was not available. \par
+
+#### Additional sensitivity analysis
+The effects of heterogeneity in the exposure instruments was investigated using Cochran's Q statistic for maximum likelihood, IVW, and MR Egger models. A single SNP MR, whereby the association of each SNP individually is estimated using the maximum likelihood and Wald ratio models, was also used to investigate heterogeneity. A leave-one-out MR analysis was performed whereby each SNP is sequentially left out of the MR analysis and the causal effect estimated absent of that SNP. If the estimated effect is substantially reduced after the removal of a single SNP this may imply violation of the exclusion restriction assumption and that this SNP is having a direct association with the outcome that is not mediated through the exposure. Finally, each of these additional sensitivity analyses were visualised using a funnel plot and using forest plots of the single SNP and leave-one-out MR analysis to identify potential pleiotropic effects. These additional sensitivity analysis are presented as a summary for each analysis and exposure. \par
+
+#### Post-hoc additional analyses
+In the main analysis both BMI and WHR genetic instrumental variables were obtained from studies using UK Biobank, which has shown evidence of latent population structure[@Haworth2019; @Berg2019]. BMI instruments were also obtained from a COJO analysis, which, as these SNPs are conditional on the presence of an independent SNP, may lead to potential pleiotropic pathways. BF instruments were obtained from a study which used different measures of BF; two of the included SNPs have also been associated previously with ‘favourable adiposity’ and may therefore not be reflections of total body fat[@Yaghootkar2014; @Yaghootkar2016]. Additionally, the studies used different definitions of independance for associatied SNPs. In order to test whether genetic instrumental variables in the main analysis produced biased results the following post-hoc additional analysis was performed. \par
+
+Genetic instrumental variables for BMI, WHR and BF were obtained from additional sources (Appendix Table \@ref(tab:appendix-MR-table-exposures)). Outcome data extraction and harmonization was performed as for the main analysis. F-statistics (Figure \@ref(fig:appendix-MR-figure-fstatistics)) and detailed information on each additional exposure is available in the Appendix, section \@ref(appendix-MR-post-hoc). Briefly, SNPs for BMI were obtained from the initial non-COJO analysis by Yengo et al 2018[@Yengo2018], and a separate set of SNPs were obtained from Locke et al. (2015)[@Locke2015] which did not use UK Biobank; for WHR, SNPs were obtained from Shungin et al. (2015)[@Shungin2015] which did not use UK Biobank; for BF, the SNPs associated with ‘favourable adiposity’ were removed and an additional SNP set identified in a GWAS using a single measure of BF was obtained from Hubel et al. (2019)[@Hubel2019]. \par
+
+The main analysis (IVW-MRE, MR-Egger, Weighted median, Weighted mode and additional sensitivity analysis) was performed using these additional exposures. In addition, genetic instrumental variables for all exposures (those used in the main analysis and in additional analyses described here) were clumped and the main analysis was performed. Clumping was performed using the `R` package `TwoSampleMR`[@Hemani2018] setting a linkage disequilibrium R^2^ threshold of $0.001$ for SNPs within a 10,000 base window of each other. Spearman's Correlation between MR results from the non-clumped and clumped SNP lists was performed. \par
+
+### Meta-analysis
+Metabolomics data from Kettunen et al. (2016)[@Kettunen2016] were inverse rank normally transformed prior to GWAS. For INTERVAL, metabolomics data were log transformed and then inverse rank transformed prior to GWAS. As these transformations use differnet scales meta-analysis using MR effect estimates is not appropriate. Instead, a meta-analysis of each exposure-outcome pair was performed with p-values using the `metap` (version 1.4) `R` package using Fisher's method for combining p-values. \par
+
+Briefly, in Fisher's method, the chi-squared statistic will follow a chi-squared distribution with $2k$  degrees of freedom if there is no effect in every study. A large chi-squared statistic compared to the degrees of freedom (with a corresponding low P value) provides evidence of an effect in at least one study. The null hypothesis is that each tests null hypothesis is true; the alternative is that at least one of the tests null hypotheses is true. Acceptance of the null hypothesis is not interpreted as evidence of no effect in all studies. Given only two studies are included in any one exposure-outcome pair heterogeneity is difficult to interpret and is not focused on here. \par
+
+Briefly, Fishers method \@ref(eq:fishers-method) combines p-values from each test into one test statistic ($X^2$), where $p_i$ is the p-value for the $i$^th^ test, $k$ is the number of tests, and $2k$ is the degrees of freedom. When all the null hypotheses are true, and the $p_i$ are independent, $X^2$ has a chi-squared distribution with $2k$ degrees of freedom. \par
+
+\begin{equation}
+  X^2_{2k} \sim -2 \sum_{i=1}^{k}ln(p_i), 
+  (\#eq:fishers-method)
+\end{equation}
+
+Given a null hypothesis for $i$ the p-value $p_i$ follows a uniform distribution on the interval [0,1]. The negative natural logarithm of a uniformly distributed value follows an exponential distribution. Scaling a value that follows an exponential distribution by a factor of two yields a quantity that follows a chi-squared distribution with two degrees of freedom. Finally, the sum of $k$ independent chi-squared values, each with two degrees of freedom, follows a chi-squared distribution with $2k$ degrees of freedom. \par
+
+### Comparison with observational estimates
+Metabolites included in the meta-analysis, which showed consistent directions of effect across the Kettunen and INTERVAL analyses and which reach a Bonferroni corrected meta-analysis p-value threshold, were compared with observational results from Chapter \@ref(observational). Direction of effect in the meta-analysis was compared with direction of effect in the observational analysis. \par
+
+## Results {#MR-results}
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# data 
+data <- read.table("../../000_thesis/index/data/MR/tables/exposure_SNPs.txt", header = T, sep = "\t")
+bmi <- subset(data, Exposure == "BMI")
+bmi <- subset(bmi, Ref == "Yengo")
+bmi <- subset(bmi, Note == "COJO")
+bmi_f <- bmi$mean_fstat[1]
+whr <- subset(data, Exposure == "WHR")
+whr <- subset(whr, Ref == "Pulit")
+whr_f <- whr$mean_fstat[1]
+bf <- subset(data, Exposure == "BF")
+bf <- subset(bf, Ref == "Lu")
+bf_f <- bf$mean_fstat[1]
+```
+In total, 123 metabolites from Kettunen et al. (2016)[@Kettunen2016] and 230 metabolites from INTERVAL were investigated for association with BMI, WHR, and BF using an IVW-MRE model. F-statistics for all SNPs used as genetic instruments for each exposure were above 10 (mean F-statistics: BMI = `r round(bmi_f)`, WHR = `r round(whr_f)`, BF = `r round(bf_f)`; Figure \@ref(fig:appendix-MR-figure-fstatistics); [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/tables/exposure_SNPs.txt)). For MR analyses using the Kettunen et al. (2016) metabolites, effect estimates represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the exposure. For MR analyses using the INTERVAL metabolites, effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure. Metabolites were grouped into subclasses by the metabolomics analytic platform. The Kettunen analysis included two subclasses (*Metabolites ratio* and *Protein*) which were not present in the INTERVAL analysis. In the INTERVAL analysis, 16 subclasses, which were all derived metabolic measures (i.e. ratios of one measured metabolite to another), were not measured available for the Kettunen analysis. \par
+
+### Two-Sample MR
+#### Global metabolic profile
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# packages ====
+library(tidyr)
+library(dplyr)
+# data ==== 
+data <- read.table("../../002_adiposity_metabolites/analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep ="\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+main_exposures <- c("BMI_Yengo_941", "WHR_Pulit_316", "BF_Lu_7")
+data <- data[data$exposure %in% main_exposures, ]
+data <- data[,c("exposure","b","se","pval","raw.label","subclass")]
+kettunen <- data[order(data$b),]
+
+data <- read.table("../../006_interval_metabolites/analysis/combined/001_combined_mr_results.txt", header = T, sep ="\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+main_exposures <- c("BMI_Yengo_941", "WHR_Pulit_316", "BF_Lu_7")
+data <- data[data$exposure %in% main_exposures, ]
+data <- data[,c("exposure","b","se","pval","raw.label","subclass")]
+interval <- data[order(data$b),]
+```
+Effect estimates from the IVW-MRE model reveal the global effect of adiposity on the metabolic profile (Figure \@ref(fig:MR-figure-circosplot-kettunen-main-analysis) and \@ref(fig:MR-figure-circosplot-interval-main-analysis)). The pattern of association was visually similar for the Kettunen metabolite analysis for BMI and WHR, and for the INTERVAL metabolite analysis for BMI and WHR. The effect of BF on metabolites was visually distinct to that of BMI and WHR effects, with many effect estimates appearing to mirror those for BMI and WHR in the Kettunen analysis. The effect of BF in the INTERVAL analysis looked more similar to that of BMI and WHR compared to effects in the Kettunen analysis, however these effects appear to cross the null much more often. Effects for WHR were generally larger with wider confidence intervals, whereas those for BMI where smaller with tighter confidence intervals. Effects for BF were much larger across both metabolite analyses, with wide confidence intervals which spanned the null. The wide confidence intervals observed for BF and the tighter confidence intervals for BMI are perhaps expected given the variance explained by instruments for each measure of adiposity varies from 0.4% for BF, 3% for WHR, and 6% for BMI. \par
+
+(ref:MR-figure-circosplot-kettunen-main-analysis-cap) **Global metabolic profile of adiposity on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]**. Circos plot shows each track as one measures of adiposity; the outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:MR-figure-circosplot-kettunen-main-analysis-scap) Global metabolic profile of adiposity on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]
+
+```{r MR-figure-circosplot-kettunen-main-analysis, echo=FALSE, out.width='100%', fig.cap='(ref:MR-figure-circosplot-kettunen-main-analysis-cap)', fig.scap='(ref:MR-figure-circosplot-kettunen-main-analysis-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_kettunen_main_analysis.pdf")
+```
+
+(ref:MR-figure-circosplot-interval-main-analysis-cap) **Global metabolic profile of adiposity on 230 NMR derived metabolites from INTERVAL**. Circos plot shows each track as one measures of adiposity; the outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold (`r round(0.05/28,4)`) has been reached. Effect estimates represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the exposure. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+
+(ref:MR-figure-circosplot-interval-main-analysis-scap) Global metabolic profile of adiposity on 230 NMR derived metabolites from INTERVAL
+
+```{r MR-figure-circosplot-interval-main-analysis, echo=FALSE, out.width='100%', fig.cap='(ref:MR-figure-circosplot-interval-main-analysis-cap)', fig.scap='(ref:MR-figure-circosplot-interval-main-analysis-scap)'}
+knitr::include_graphics("data/MR/figures/circosplot_interval_main_analysis.pdf")
+```
+
+#### Directional consistency
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%'}
+# packages
+library(tidyr)
+library(dplyr)
+library(ggplot2)
+library(cowplot)
+source("data/index/colour_palette.R")
+
+# kettunen ====
+# data ==== 
+data <- read.table("../../002_adiposity_metabolites/analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep ="\t")
+data <- data[,c("id.outcome","exposure","method","b")]
+ivw <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+mr_egger <- subset(data, method == "MR Egger")
+weighted_median <- subset(data, method == "Weighted median")
+weighted_mode <- subset(data, method == "Weighted mode")
+
+## seperate data into exposures ====
+main_exposures <- c("BMI_Yengo_941", "WHR_Pulit_316", "BF_Lu_7")
+main <- ivw[ivw$exposure %in% main_exposures, ]
+
+## convert to wide based on model ====
+main <- main[,c(1,2,4)]
+main <- spread(main, exposure, b)
+
+## assign values for directions consistent across non-clumped and clumped data ====
+###  ====
+data <- main[,c(2:ncol(main))]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data1 <- data[,c(4,5)]
+data1$exposure <- "All"
+
+###  ====
+data <- main[,c(3,4)]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data2 <- data[,c(3,4)]
+data2$exposure <- "BMI & WHR"
+
+###  ====
+data <- main[,c(3,2)]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data3 <- data[,c(3,4)]
+data3$exposure <- "BMI & BF"
+
+###  ====
+data <- main[,c(2,4)]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data4 <- data[,c(3,4)]
+data4$exposure <- "BF & WHR"
+
+
+# plot ====
+plot_data <- rbind(data1,data2,data3,data4)
+kettunen <- plot_data
+
+# interval ====
+# data ==== 
+data <- read.table("../../006_interval_metabolites/analysis/combined/001_combined_mr_results.txt", header = T, sep ="\t")
+data <- data[,c("metabolite","exposure","method","b")]
+ivw <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+mr_egger <- subset(data, method == "MR Egger")
+weighted_median <- subset(data, method == "Weighted median")
+weighted_mode <- subset(data, method == "Weighted mode")
+
+## seperate data into exposures ====
+main_exposures <- c("BMI_Yengo_941", "WHR_Pulit_316", "BF_Lu_7")
+main <- ivw[ivw$exposure %in% main_exposures, ]
+
+## convert to wide based on model ====
+main <- main[,c(1,2,4)]
+main <- spread(main, exposure, b)
+
+## assign values for directions consistent across non-clumped and clumped data ====
+###  ====
+data <- main[,c(2:ncol(main))]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data1 <- data[,c(4,5)]
+data1$exposure <- "All"
+
+###  ====
+data <- main[,c(3,4)]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data2 <- data[,c(3,4)]
+data2$exposure <- "BMI & WHR"
+
+###  ====
+data <- main[,c(3,2)]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data3 <- data[,c(3,4)]
+data3$exposure <- "BMI & BF"
+
+###  ====
+data <- main[,c(2,4)]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data4 <- data[,c(3,4)]
+data4$exposure <- "BF & WHR"
+
+
+# plot ====
+plot_data <- rbind(data1,data2,data3,data4)
+interval <- plot_data
+```
+Across all exposures, directional consistency of effect estimates (whether effect estimates were positive or negative for each metabolite across exposures) from the IVW-MRE model was low for both the Kettunen et al. (2016; N opposite effect = `r table(kettunen$direction_group, kettunen$exposure)[3,1]`) and INTERVAL (N = `r table(interval$direction_group, interval$exposure)[3,1]`) metabolites (Figure \@ref(fig:MR-figure-directional-consistency)). This was the same for BF and WHR and for BMI and BF. Directional consistency was much higher for BMI and WHR for both the Kettunen (N = `r table(kettunen$direction_group, kettunen$exposure)[3,4]`) and INTERVAL (`r table(interval$direction_group, interval$exposure)[3,4]`) analyses. \par
+
+(ref:MR-figure-directional-consistency-cap) **Directional consistency of two-sample MR effect estimates**. A positive effect reflects the effect estimate from two or more exposures being in the positive direction; a negative effect reflects betas being in a negative direction; opposite effect reflects different directions for the effect estimates. **A:** Two-sample MR IVW-MRE for 123 metabolites from Kettunen et al. (2016)[@Kettunen2016]; **B:** Two-sample MR IVW-MRE for 230 metabolites from INTERVAL. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage.
+
+(ref:MR-figure-directional-consistency-scap) Directional consistency of two-sample MR effect estimates
+
+```{r MR-figure-directional-consistency, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%', fig.cap='(ref:MR-figure-directional-consistency-cap)', fig.scap='(ref:MR-figure-directional-consistency-scap)'}
+# packages
+library(tidyr)
+library(dplyr)
+library(ggplot2)
+library(cowplot)
+source("data/index/colour_palette.R")
+
+# kettunen ====
+# data ==== 
+data <- read.table("../../002_adiposity_metabolites/analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep ="\t")
+data <- data[,c("id.outcome","exposure","method","b")]
+ivw <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+mr_egger <- subset(data, method == "MR Egger")
+weighted_median <- subset(data, method == "Weighted median")
+weighted_mode <- subset(data, method == "Weighted mode")
+
+## seperate data into exposures ====
+main_exposures <- c("BMI_Yengo_941", "WHR_Pulit_316", "BF_Lu_7")
+main <- ivw[ivw$exposure %in% main_exposures, ]
+
+## convert to wide based on model ====
+main <- main[,c(1,2,4)]
+main <- spread(main, exposure, b)
+
+## assign values for directions consistent across non-clumped and clumped data ====
+###  ====
+data <- main[,c(2:ncol(main))]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data1 <- data[,c(4,5)]
+data1$exposure <- "All"
+
+###  ====
+data <- main[,c(3,4)]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data2 <- data[,c(3,4)]
+data2$exposure <- "BMI & WHR"
+
+###  ====
+data <- main[,c(3,2)]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data3 <- data[,c(3,4)]
+data3$exposure <- "BMI & BF"
+
+###  ====
+data <- main[,c(2,4)]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data4 <- data[,c(3,4)]
+data4$exposure <- "BF & WHR"
+
+
+# plot ====
+plot_data <- rbind(data1,data2,data3,data4)
+kettunen <- plot_data
+p_kettunen <- ggplot(data = plot_data,
+       aes(x = exposure)) +
+  geom_bar(aes(fill = direction_group))  +
+  scale_fill_manual(values = discrete_wes_pal) +
+  guides(fill = guide_legend(override.aes = list(size = 5),
+                             title = "",
+                             label.hjust = 0,
+                             label.vjust = 0.5)) +
+  xlab("") +
+  theme_cowplot() +
+  theme(axis.text.x = element_text(angle = 90),
+        axis.ticks.x = element_blank(),
+        legend.position = "none")
+
+# interval ====
+# data ==== 
+data <- read.table("../../006_interval_metabolites/analysis/combined/001_combined_mr_results.txt", header = T, sep ="\t")
+data <- data[,c("metabolite","exposure","method","b")]
+ivw <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+mr_egger <- subset(data, method == "MR Egger")
+weighted_median <- subset(data, method == "Weighted median")
+weighted_mode <- subset(data, method == "Weighted mode")
+
+## seperate data into exposures ====
+main_exposures <- c("BMI_Yengo_941", "WHR_Pulit_316", "BF_Lu_7")
+main <- ivw[ivw$exposure %in% main_exposures, ]
+
+## convert to wide based on model ====
+main <- main[,c(1,2,4)]
+main <- spread(main, exposure, b)
+
+## assign values for directions consistent across non-clumped and clumped data ====
+###  ====
+data <- main[,c(2:ncol(main))]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data1 <- data[,c(4,5)]
+data1$exposure <- "All"
+
+###  ====
+data <- main[,c(3,4)]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data2 <- data[,c(3,4)]
+data2$exposure <- "BMI & WHR"
+
+###  ====
+data <- main[,c(3,2)]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data3 <- data[,c(3,4)]
+data3$exposure <- "BMI & BF"
+
+###  ====
+data <- main[,c(2,4)]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect"))
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data4 <- data[,c(3,4)]
+data4$exposure <- "BF & WHR"
+
+
+# plot ====
+plot_data <- rbind(data1,data2,data3,data4)
+interval <- plot_data
+p_interval <- ggplot(data = plot_data,
+       aes(x = exposure)) +
+  geom_bar(aes(fill = direction_group))  +
+  scale_fill_manual(values = discrete_wes_pal) +
+  guides(fill = guide_legend(override.aes = list(size = 5),
+                             title = "",
+                             label.hjust = 0,
+                             label.vjust = 0.5)) +
+  xlab("") +
+  theme_cowplot() +
+  theme(axis.text.x = element_text(angle = 90),
+        axis.ticks.x = element_blank(),
+        legend.position = "none")
+
+# legend ====
+legend <- ggplot(data = plot_data,
+       aes(x = exposure)) +
+  geom_bar(aes(fill = direction_group))  +
+  scale_fill_manual(values = discrete_wes_pal) +
+  guides(fill = guide_legend(override.aes = list(size = 5),
+                             title = "",
+                             label.hjust = 0,
+                             label.vjust = 0.5)) +
+  xlab("") +
+  theme_cowplot() +
+  theme(axis.text.x = element_text(angle = 90),
+        axis.ticks.x = element_blank())
+
+legend <- get_legend(legend)
+
+# plot ====
+plot_grid(p_kettunen, p_interval, legend, nrow = 1, labels = c("A", "B"))
+
+```
+
+#### Multiple testing threshold
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# packages
+library(tidyr)
+library(dplyr)
+# data ==== 
+data <- read.table("../../002_adiposity_metabolites/analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep ="\t")
+data <- data[,c("raw.label", "exposure", "method", "pval")]
+main <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+## seperate data into exposures ====
+bmi <- subset(main, exposure == "BMI_Yengo_941")
+whr <- subset(main, exposure == "WHR_Pulit_316")
+bf <- subset(main, exposure == "BF_Lu_7")
+## identify associations ====
+kettunen_bmi <- subset(bmi, pval <= 0.05/22)
+kettunen_whr <- subset(whr, pval <= 0.05/22)
+kettunen_bf <- subset(bf, pval <= 0.05/22)
+## overlapping associations ====
+kettunen_bmi_whr <- inner_join(kettunen_bmi,kettunen_whr, by = "raw.label")
+kettunen_bmi_only <- anti_join(kettunen_bmi,kettunen_whr, by = "raw.label")
+kettunen_whr_only <- anti_join(kettunen_whr,kettunen_bmi, by = "raw.label")
+
+data <- read.table("../../006_interval_metabolites/analysis/combined/001_combined_mr_results.txt", header = T, sep ="\t")
+data <- data[,c("raw.label", "exposure", "method", "pval")]
+main <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+## seperate data into exposures ====
+bmi <- subset(main, exposure == "BMI_Yengo_941")
+whr <- subset(main, exposure == "WHR_Pulit_316")
+bf <- subset(main, exposure == "BF_Lu_7")
+## identify associations ====
+interval_bmi <- subset(bmi, pval <= 0.05/28)
+interval_whr <- subset(whr, pval <= 0.05/28)
+interval_bf <- subset(bf, pval <= 0.05/28)
+## overlapping associations ====
+interval_bmi_whr <- inner_join(interval_bmi,interval_whr, by = "raw.label")
+interval_bmi_only <- anti_join(interval_bmi,interval_whr, by = "raw.label")
+interval_whr_only <- anti_join(interval_whr,interval_bmi, by = "raw.label")
+
+
+```
+Multiple testing thresholds of `r round(0.05/22,4)` and XXX were used for the Kettunen and INTERVAL analyses respectively. For the 123 metabolites in the Kettunen analysis, a total of `r nrow(kettunen_bmi)`, `r nrow(kettunen_whr)`, and `r nrow(kettunen_bf)` tests reached a multiple testing threshold for BMI, WHR, and BF respectively. Of these tests, `r nrow(kettunen_bmi_whr)` reached a multiple testing threshold across both BMI and WHR. A total of `r nrow(kettunen_bmi_only)` and `r nrow(kettunen_whr_only)` tests reached a multiple testing threshold for BMI only and WHR only respectively. For the 230 INTERVAL metabolites, a larger proportion of metabolites reached the multiple testing threshold. A total of `r nrow(interval_bmi)`, `r nrow(interval_whr)`, and `r nrow(interval_bf)` tests reached a multiple testing threshold for BMI, WHR, and BF respectively. Of these tests, `r nrow(interval_bmi_whr)` reached a multiple testing threshold across both BMI and WHR. A total of `r nrow(interval_bmi_only)` and `r nrow(interval_whr_only)` tests reached a multiple testing threshold for BMI only and WHR only respectively. \par
+
+#### Subclass results
+In the Kettunen analysis, tests reaching the multiple testing threshold were observed for at least one exposure in 23 of 28 subclasses across the three exposures. No tests reached a multiple testing threshold for subclasses: *Small LDL*, *Medium LDL*, *Large LDL*, *Protein*, *Fluid balance*. For subclasses *IDL*, *Metabolites ratio*, *Ketone bodies*, *Glycolysis related metabolites*, *Glycerides and phospholipids*, *Cholesterol*, and *Amino acids* only a small number of metabolites within each subclass reached the multiple testing threshold. Whereas, for subclasses *Small VLDL*, *Medium VLDL*, *Large VLDL*, *Very large VLDL*, *Extremely large VLDL*, *Large HDL*, *Very large HDL*, *Lipoprotein particle size*, *Branched-chain amino acids*, and *Aromatic amino acids* a majority of metabolites reached the multiple testing threshold.
+
+In the INTERVAL, metabolites were grouped into 42 subclasses. The additional subclasses to that of the Kettunen analysis were comprised of ratios (e.g. *Small HDL ratios*). A *Protein* subclass was not available. Of the 42 subclasses, tests reached a multiple testing threshold ($0.05/28$) for 39. No tests reached the multiple testing threshold for subclasses *Fluid balance*, *Glycolysis related metabolites*, and *Ketone bodies*. A majority of tests did not reach the multiple testing threshold in a majority of subclasses. Only 12 subclasses (*Amino acids*, *Apolipoproteins*, *Aromatic amino acids*, *Branched chain amino acids*, *Glycerides and phospholipids ratios*, *Inflammation*, *Large HDL*, *Large HDL ratios*, *Medium HDL*, *Medium HDL ratios*, *Very large HDL*, *Very large HDL ratios*) had a majority of tests reaching the multiple testing threshold. \par
+
+#### Sensitivity analysis
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# packages
+library(tibble)
+library(tidyr)
+library(dplyr)
+library(ggplot2)
+library(cowplot)
+source("data/index/colour_palette.R")
+# kettunen ====
+# data ==== 
+data <- read.table("../../002_adiposity_metabolites/analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep ="\t")
+data <- data[,c("name", "exposure", "method", "b")]
+bmi <- subset(data, exposure == "BMI_Yengo_941")
+whr <- subset(data, exposure == "WHR_Pulit_316")
+bf <- subset(data, exposure == "BF_Lu_7")
+
+bmi <- spread(bmi, method, b)
+rownames(bmi) <- bmi[,1]
+whr <- spread(whr, method, b)
+rownames(whr) <- whr[,1]
+bf <- spread(bf, method, b)
+rownames(bf) <- bf[,1]
+
+## assign values for directions ====
+###  ====
+data <- bmi[,c(3:ncol(bmi))]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  rownames_to_column() %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect")) %>%
+  column_to_rownames()
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data1 <- data[,c(5,6)]
+data1$exposure <- "BMI"
+
+###  ====
+data <- whr[,c(3:ncol(whr))]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  rownames_to_column() %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect")) %>%
+  column_to_rownames()
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data2 <- data[,c(5,6)]
+data2$exposure <- "WHR"
+
+###  ====
+data <- bf[,c(3:ncol(bf))]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  rownames_to_column() %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect")) %>%
+  column_to_rownames()
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data3 <- data[,c(5,6)]
+data3$exposure <- "BF"
+
+# ====
+data1 <- cbind(rownames(data1), data.frame(data1, row.names=NULL))
+colnames(data1)[1] <- "name"
+data2 <- cbind(rownames(data2), data.frame(data2, row.names=NULL))
+colnames(data2)[1] <- "name"
+data3 <- cbind(rownames(data3), data.frame(data3, row.names=NULL))
+colnames(data3)[1] <- "name"
+plot_data <- rbind(data1,data2,data3)
+plot_data$exposure <- as.factor(plot_data$exposure)
+plot_data$exposure <- factor(plot_data$exposure,levels(plot_data$exposure)[c(2,3,1)])
+plot_data_kettunen <- plot_data
+data <- subset(plot_data, direction != 0)
+kettunen_bmi_list <- subset(data, exposure == "BMI")
+kettunen_whr_list <- subset(data, exposure == "WHR")
+kettunen_bf_list <- subset(data, exposure == "BF")
+
+# shared metabs ====
+data1 <- kettunen_bmi_list
+data2 <- kettunen_whr_list
+data3 <- kettunen_bf_list
+data4 <- inner_join(data2,data1, by = "name")
+data5 <- inner_join(data4,data3, by = "name")
+kettunen_shared_list <- as.character(data5$name)
+
+# interval ====
+# data ==== 
+data <- read.table("../../006_interval_metabolites/analysis/combined/001_combined_mr_results.txt", header = T, sep ="\t")
+data <- data[,c("label.no.units", "exposure", "method", "b")]
+bmi <- subset(data, exposure == "BMI_Yengo_941")
+whr <- subset(data, exposure == "WHR_Pulit_316")
+bf <- subset(data, exposure == "BF_Lu_7")
+
+bmi <- spread(bmi, method, b)
+rownames(bmi) <- bmi[,1]
+whr <- spread(whr, method, b)
+rownames(whr) <- whr[,1]
+bf <- spread(bf, method, b)
+rownames(bf) <- bf[,1]
+
+## assign values for directions ====
+###  ====
+data <- bmi[,c(3:ncol(bmi))]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  rownames_to_column() %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect")) %>%
+  column_to_rownames()
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data1 <- data[,c(5,6)]
+data1$exposure <- "BMI"
+
+###  ====
+data <- whr[,c(3:ncol(whr))]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  rownames_to_column() %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect")) %>%
+  column_to_rownames()
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data2 <- data[,c(5,6)]
+data2$exposure <- "WHR"
+
+###  ====
+data <- bf[,c(3:ncol(bf))]
+data$direction <- sapply(1:nrow(data), function(x) ifelse(all(sign(data[x,]) == 1), 1, ifelse(all(sign(data[x,]) == -1), 2, 0)))
+data <- data %>%
+  rownames_to_column() %>%
+  mutate(direction_group = case_when(direction == 1 ~ "Positive effect",
+                               direction == 2 ~ "Negative effect",
+                               direction == 0 ~ "Opposite effect")) %>%
+  column_to_rownames()
+data$direction_group <- factor(data$direction_group,
+                            levels = c("Positive effect", "Negative effect", "Opposite effect"),ordered = TRUE)
+data3 <- data[,c(5,6)]
+data3$exposure <- "BF"
+
+# ====
+data1 <- cbind(rownames(data1), data.frame(data1, row.names=NULL))
+colnames(data1)[1] <- "name"
+data2 <- cbind(rownames(data2), data.frame(data2, row.names=NULL))
+colnames(data2)[1] <- "name"
+data3 <- cbind(rownames(data3), data.frame(data3, row.names=NULL))
+colnames(data3)[1] <- "name"
+plot_data <- rbind(data1,data2,data3)
+plot_data$exposure <- as.factor(plot_data$exposure)
+plot_data$exposure <- factor(plot_data$exposure,levels(plot_data$exposure)[c(2,3,1)])
+plot_data_interval <- plot_data
+data <- subset(plot_data, direction != 0)
+interval_bmi_list <- subset(data, exposure == "BMI")
+interval_whr_list <- subset(data, exposure == "WHR")
+interval_bf_list <- subset(data, exposure == "BF")
+
+# shared metabs ====
+data1 <- interval_bmi_list
+data2 <- interval_whr_list
+data3 <- interval_bf_list
+data4 <- inner_join(data2,data1, by = "name")
+data5 <- inner_join(data4,data3, by = "name")
+interval_shared_list <- as.character(data5$name)
+```
+Assumptions of no pleiotropy were explored using MR-Egger[@Bowden2015], weighted median[@Burgess2017a] and weighted mode[@Hartwig2017] based estimators. Globally, sensitivity analysis was visually reflective of the main analysis for each exposure, though with wider confidence intervals (Appendix \@ref(appendix-MR-sensitivity-analysis)). Confidence intervals for sensitivity analyses tended to cross the null and were widest for MR Egger, which is unsurprising given the lower power afforded with this model. Sensitivity results for WHR appeared to show most consistency with the main analysis for both the Kettunen and INTERVAL analyses; confidence intervals for weighted median and mode models did not cross the null in a majority of results for subclasses. \par
+
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+steiger_kettunen <- read.table("../../002_adiposity_metabolites/analysis/step1/combined/001_combined_steiger_kettunen.txt", header = T, sep = "\t")
+steiger_interval <- read.table("../../006_interval_metabolites/analysis/combined/001_combined_steiger.txt", header = T, sep = "\t")
+```
+
+In the Kettunen analysis, the majority of effect estimates for each metabolite were directionally consistent across the main and sensitivity models for BMI and WHR. WHR showed the highest concordance while BF showed the lowest (Figure \@ref(fig:MR-figure-kettunen-sensitivity-directional-consistency) A). For the INTERVAL analysis, the majority of effect estimates for each metabolite were directionally consistent across the main and sensitivity models only for WHR (Figure \@ref(fig:MR-figure-kettunen-sensitivity-directional-consistency) B). The causal direction between the exposure and outcomes was assesed using the Steigher test. For the Kettunen analysis a total of 123 tests were performed for each exposure, the causal direction of exposure to outcome was true for `r table(steiger_kettunen$exposure, steiger_kettunen$correct_causal_direction)[15,2]` tests for BMI, and `r table(steiger_kettunen$exposure, steiger_kettunen$correct_causal_direction)[9,2]` tests for WHR. In contrast, the causal direction was true for `r table(steiger_interval$exposure, steiger_interval$correct_causal_direction)[6,2]` tests for BF. In contrast, in INTERVAL a majority of test directions were found to be true. A total of 230 tests were performed for each exposure, the causal direction of exposure to outcome was true for `r table(steiger_interval$exposure, steiger_interval$correct_causal_direction)[15,2]` tests for BMI, and `r table(steiger_interval$exposure, steiger_interval$correct_causal_direction)[9,2]` tests for WHR. In contrast, the causal direction was true for `r table(steiger_interval$exposure, steiger_interval$correct_causal_direction)[6,2]` for BF. \par
+
+(ref:MR-figure-kettunen-sensitivity-directional-consistency-cap) **Directional consistency of two-sample MR and sensitivity analyses**. Plot shows the directional consistency across all 4 models (IVW-MRE, MR-Egger, Weighted Mode, and Weighted median) within each exposure. A positive effect reflects the effect estimate from all four models being in the positive direction; a negative effect reflects betas being in a negative direction; opposite effect reflects different directions for the effect estimates. **A:** Two-sample MR IVW-MRE for 123 metabolites from Kettunen et al. (2016)[@Kettunen2016]; **B:** Two-sample MR IVW-MRE for 230 metabolites from INTERVAL. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage.
+
+(ref:MR-figure-kettunen-sensitivity-directional-consistency-scap) Directional consistency of two-sample MR and sensitivity analyses
+
+```{r MR-figure-kettunen-sensitivity-directional-consistency, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%', fig.cap='(ref:MR-figure-kettunen-sensitivity-directional-consistency-cap)', fig.scap='(ref:MR-figure-kettunen-sensitivity-directional-consistency-scap)'}
+p_kettunen <- ggplot(data = plot_data_kettunen,
+       aes(x = exposure)) +
+  geom_bar(aes(fill = direction_group))  +
+  scale_fill_manual(values = discrete_wes_pal) +
+  guides(fill = guide_legend(override.aes = list(size = 5),
+                             title = "",
+                             label.hjust = 0,
+                             label.vjust = 0.5)) +
+  xlab("") +
+  theme_cowplot() +
+  theme(axis.text.x = element_text(angle = 90),
+        axis.ticks.x = element_blank(),
+        legend.position = "none")
+
+p_interval <- ggplot(data = plot_data_interval,
+       aes(x = exposure)) +
+  geom_bar(aes(fill = direction_group))  +
+  scale_fill_manual(values = discrete_wes_pal) +
+  guides(fill = guide_legend(override.aes = list(size = 5),
+                             title = "",
+                             label.hjust = 0,
+                             label.vjust = 0.5)) +
+  xlab("") +
+  theme_cowplot() +
+  theme(axis.text.x = element_text(angle = 90),
+        axis.ticks.x = element_blank(),
+        legend.position = "none")
+
+legend <- ggplot(data = plot_data_kettunen,
+       aes(x = exposure)) +
+  geom_bar(aes(fill = direction_group))  +
+  scale_fill_manual(values = discrete_wes_pal) +
+  guides(fill = guide_legend(override.aes = list(size = 5),
+                             title = "",
+                             label.hjust = 0,
+                             label.vjust = 0.5)) +
+  xlab("") +
+  theme_cowplot() +
+  theme(axis.text.x = element_text(angle = 90),
+        axis.ticks.x = element_blank())
+
+legend <- get_legend(legend)
+
+# plot ====
+plot_grid(p_kettunen, p_interval, legend, nrow = 1, labels = c("A", "B"))
+
+```
+
+Of these directionally consistent tests, a total of `r length(kettunen_shared_list)` tests were directionally consistent across methods for all three exposures in the Kettunen analysis (Figure \@ref(fig:MR-figure-forestplot-kettunen-sensitivity-directional-consistency)). The direction of effect for BF was on the whole opposite to BMI and WHR for all methods. Of these `r length(kettunen_shared_list)` tests, only  *Valine* was also found to reach a multiple testing threshold for both BMI and WHR in the main analysis. In the INTERVAL analysis, of the directionally consistent results, a total of `r length(interval_shared_list)` tests were directionally consistent across methods for all three exposures (Figure \@ref(fig:MR-figure-forestplot-interval-sensitivity-directional-consistency)). Of these `r length(interval_shared_list)` tests, *Valine* and *Tyrosine*  were also found to reach a multiple testing threshold for both BMI and WHR in the main analysis. \par
+
+(ref:MR-figure-forestplot-kettunen-sensitivity-directional-consistency-cap) **Directionaly consistent effects across all MR models in the Kettunen analysis**. Effect estimates and 95% confidence intervals for metabolites which showed directionaly consistent results across the main (IVW-MRE = inverse variance weighted multiplicative random effects) and sensitivity analysis (MR-Egger, weighted median, weighted mode) within each exposure. Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage.
+
+(ref:MR-figure-forestplot-kettunen-sensitivity-directional-consistency-scap) Directionaly consistent effects across all MR models in the Kettunen analysis
+
+```{r MR-figure-forestplot-kettunen-sensitivity-directional-consistency, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%', fig.cap='(ref:MR-figure-forestplot-kettunen-sensitivity-directional-consistency-cap)', fig.scap='(ref:MR-figure-forestplot-kettunen-sensitivity-directional-consistency-scap)'}
+knitr::include_graphics("data/MR/figures/forestplot_kettunen_sensitivity_directional_consistency.pdf")
+```
+
+(ref:MR-figure-forestplot-interval-sensitivity-directional-consistency-cap) **Directionaly consistent effects across all MR models in the INTERVAL analysis**. Effect estimates and 95% confidence intervals for metabolites which showed directionaly consistent results across the main (IVW-MRE = inverse variance weighted multiplicative random effects) and sensitivity analysis (MR-Egger, weighted median, weighted mode) within each exposure. Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage.
+
+(ref:MR-figure-forestplot-interval-sensitivity-directional-consistency-scap) Directionaly consistent effects across all MR models in the INTERVAL analysis
+
+```{r MR-figure-forestplot-interval-sensitivity-directional-consistency, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%', fig.cap='(ref:MR-figure-forestplot-interval-sensitivity-directional-consistency-cap)', fig.scap='(ref:MR-figure-forestplot-interval-sensitivity-directional-consistency-scap)'}
+knitr::include_graphics("data/MR/figures/forestplot_interval_sensitivity_directional_consistency.pdf")
+```
+
+#### Additional sensitivity analysis
+Heterogeneity of the genetic instruments for each exposure, measured using Cochran's Q statistic, was greater than the degrees of freedom for a majority of metabolites for all three exposures across both the Kettunen and INTERVAL analyses (Table \@ref(tab:MR-table-heterogeneity-N)). \par
+
+```{r MR-table-heterogeneity-N, echo=FALSE}
+# kettunen ====
+## heterogenity ====
+bmi_heterogenity <- read.table("../../002_adiposity_metabolites/analysis/step1/BMI_Yengo_941/mr_hetrogeneity_kettunen.txt", header = T, sep = "\t")
+colnames(bmi_heterogenity)[6] <- "Q_bmi"
+colnames(bmi_heterogenity)[7] <- "Qdf_bmi"
+colnames(bmi_heterogenity)[8] <- "Qp_bmi"
+whr_heterogenity <- read.table("../../002_adiposity_metabolites/analysis/step1/WHR_Pulit_316/mr_hetrogeneity_kettunen.txt", header = T, sep = "\t")
+colnames(whr_heterogenity)[6] <- "Q_whr"
+colnames(whr_heterogenity)[7] <- "Qdf_whr"
+colnames(whr_heterogenity)[8] <- "Qp_whr"
+bf_heterogenity <- read.table("../../002_adiposity_metabolites/analysis/step1/BF_Lu_7/mr_hetrogeneity_kettunen.txt", header = T, sep = "\t")
+colnames(bf_heterogenity)[6] <- "Q_bf"
+colnames(bf_heterogenity)[7] <- "Qdf_bf"
+colnames(bf_heterogenity)[8] <- "Qp_bf"
+
+data <- left_join(bmi_heterogenity, whr_heterogenity, by = c("id.outcome", "method"))
+data <- left_join(data, bf_heterogenity, by = c("id.outcome", "method"))
+data <- data[,c(3,4,5,6,7,8,12,13,14,18,19,20)]
+
+data$bmi_result <- ifelse(data$Q_bmi > data$Qdf_bmi, 1, 0)
+data$whr_result <- ifelse(data$Q_whr > data$Qdf_whr, 1, 0)
+data$bf_result <- ifelse(data$Q_bf > data$Qdf_bf, 1, 0)
+
+### methods ====
+ivw <- subset(data, method == "Inverse variance weighted")
+mregger <- subset(data, method == "MR Egger")
+ml <- subset(data, method == "Maximum likelihood")
+
+### table ====
+table <- data.frame(exposure = c("BMI Kettunen", "WHR Kettunen", "BF Kettunen"),
+                    analysis = c("Kettunen", "Kettunen", "Kettunen"),
+                    ML = c(sum(ivw$bmi_result), sum(ivw$whr_result), sum(ivw$bf_result)),
+                    IVW = c(sum(mregger$bmi_result), sum(mregger$whr_result), sum(mregger$bf_result)),
+                    MR_Egger = c(sum(ml$bmi_result), sum(ml$whr_result), sum(ml$bf_result)))
+# interval ====
+## heterogenity ====
+bmi_heterogenity <- read.table("../../006_interval_metabolites/analysis/BMI_Yengo_941/mr_hetrogeneity.txt", header = T, sep = "\t")
+colnames(bmi_heterogenity)[6] <- "Q_bmi"
+colnames(bmi_heterogenity)[7] <- "Qdf_bmi"
+colnames(bmi_heterogenity)[8] <- "Qp_bmi"
+whr_heterogenity <- read.table("../../006_interval_metabolites/analysis/WHR_Pulit_316/mr_hetrogeneity.txt", header = T, sep = "\t")
+colnames(whr_heterogenity)[6] <- "Q_whr"
+colnames(whr_heterogenity)[7] <- "Qdf_whr"
+colnames(whr_heterogenity)[8] <- "Qp_whr"
+bf_heterogenity <- read.table("../../006_interval_metabolites/analysis/BF_Lu_7/mr_hetrogeneity.txt", header = T, sep = "\t")
+colnames(bf_heterogenity)[6] <- "Q_bf"
+colnames(bf_heterogenity)[7] <- "Qdf_bf"
+colnames(bf_heterogenity)[8] <- "Qp_bf"
+
+data <- left_join(bmi_heterogenity, whr_heterogenity, by = c("outcome", "method"))
+data <- left_join(data, bf_heterogenity, by = c("outcome", "method"))
+data <- data[,c(3,4,5,6,7,8,12,13,14,18,19,20)]
+
+data$bmi_result <- ifelse(data$Q_bmi > data$Qdf_bmi, 1, 0)
+data$whr_result <- ifelse(data$Q_whr > data$Qdf_whr, 1, 0)
+data$bf_result <- ifelse(data$Q_bf > data$Qdf_bf, 1, 0)
+
+### methods ====
+ivw <- subset(data, method == "Inverse variance weighted")
+mregger <- subset(data, method == "MR Egger")
+ml <- subset(data, method == "Maximum likelihood")
+
+### table ====
+table1 <- data.frame(exposure = c("BMI", "WHR", "BF"),
+                     analysis = c("INTERVAL", "INTERVAL", "INTERVAL"),
+                    ML = c(sum(ivw$bmi_result), sum(ivw$whr_result), sum(ivw$bf_result)),
+                    IVW = c(sum(mregger$bmi_result), sum(mregger$whr_result), sum(mregger$bf_result)),
+                    MR_Egger = c(sum(ml$bmi_result), sum(ml$whr_result), sum(ml$bf_result)))
+data <- rbind(table,table1)
+
+knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = F,
+    caption = 'Number of tests in which Cochran`s Q exceeds genetic instrumental variable degrees of freedom', row.names = F,
+    col.names = c("", "", "ML", "IVW", "MR Egger")) %>%
+    collapse_rows(columns = 2) %>%
+  kable_styling(latex_options = c("striped", "HOLD_position"), position = "center") %>%
+  kableExtra::footnote(general = "The number of tests (exposure on metabolite) for which Cochran's Q statistic exceeded the degrees of freedom (number of SNPs - 1) for each exposure. Kettunen = 123 tests; INTERVAL = 230 tests; ML = maximum likelihood method; IVW = Inverse variance weighted method; BMI = body mass idnex; WHR = waist hip ratio; BF = body fat percentage", threeparttable = T, general_title = "", footnote_as_chunk = T)
+```
+
+##### Kettunen analysis
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+library(data.table)
+## single snp ====
+### bmi
+data <- read.table("../../002_adiposity_metabolites/analysis/step1/BMI_Yengo_941/singlesnp_summary_kettunen.txt", header = T, sep = "\t")
+bmi_high_kettunen <- subset(data, median_b >= quantile(abs(data$median_b), probs = 0.95)[[1]])
+bmi_low_kettunen <- subset(data, median_b <= quantile(abs(data$median_b), probs = 0.05)[[1]])
+
+### whr
+data <- read.table("../../002_adiposity_metabolites/analysis/step1/WHR_Pulit_316/singlesnp_summary_kettunen.txt", header = T, sep = "\t")
+whr_high_kettunen <- subset(data, median_b >= quantile(abs(data$median_b), probs = 0.95)[[1]])
+whr_low_kettunen <- subset(data, median_b <= quantile(abs(data$median_b), probs = 0.05)[[1]])
+
+### bf
+data <- read.table("../../002_adiposity_metabolites/analysis/step1/BF_Lu_7/singlesnp_summary_kettunen.txt", header = T, sep = "\t")
+bf_high_kettunen <- subset(data, median_b >= quantile(abs(data$median_b), probs = 0.95)[[1]])
+bf_low_kettunen <- subset(data, median_b <= quantile(abs(data$median_b), probs = 0.05)[[1]])
+```
+In single SNP MR for the Kettunen analysis, visual inspection of forest plots showed $S$ shaped distributions of effect estimates for all tests (Representative Figure \@ref(fig:appendix-MR-figure-kettunen-singlesnp-representative-figure)). Effect estimates for some SNPs in the single SNP MR analysis appeared to be outliers. For example, for BMI on Glycoproteins, rs4673553 showed a disproportionately larger effect estimate of 22 (standard error = 0.85; *p-value* = 5.66 x 10^-148^) when compared to other SNPs. Additionally, rs7777102 showed a disproportionately larger effect estimate of -9 for Mean diameter for VLDL particles (standard error = 1.14; *p-value* = 6.15 x 10^-17^). When looking at the median effect size across all metabolites for each SNP, a number of SNPs (including rs7777102 for BMI) showed larger median effect sizes across the board. The total number of SNPs which could be considered outliers based on a 5% and 95% threshold were: BMI = `r nrow(bmi_low_kettunen)` (5%) and `r nrow(bmi_high_kettunen)` (95%); WHR = `r nrow(whr_low_kettunen)` (5%) and `r nrow(whr_high_kettunen)` (95%); BF = `r nrow(bf_low_kettunen)` (5%) and `r nrow(bf_high_kettunen)` (95%). Funnel plots did not highlight outlying SNPs, but did reflect some SNPs having larger effect estimates across the board (Representative Figure \@ref(fig:appendix-MR-figure-kettunen-funnelplot-BMI-representative-figure). The low number of SNPs used for BF did not result in meaningfully interpretable funnel plots (Representative Figure \@ref(fig:appendix-MR-figure-kettunen-funnelplot-Bf-representative-figure)). \par
+
+Although a number of SNPs showed disproportionately larger effect sizes, in leave-one-out analysis, visual inspection of forest plots showed that no single SNP altered the direction of effect for any metabolite across exposures. For BF, confidence intervals for one or more SNPs crossed the null for every metabolite tested (Representative Figure \@ref(fig:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure)). This was not the case for BMI and WHR, where for many metabolites confidence intervals did not cross the null for any SNPs (Representative Figure \@ref(fig:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure)). \par
+
+##### INTERVAL analysis
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+library(data.table)
+## single snp ====
+### bmi
+data <- read.table("../../006_interval_metabolites/analysis/BMI_Yengo_941/singlesnp_summary.txt", header = T, sep = "\t")
+bmi_high_interval <- subset(data, median_b >= quantile(abs(data$median_b), probs = 0.95)[[1]])
+bmi_low_interval <- subset(data, median_b <= quantile(abs(data$median_b), probs = 0.05)[[1]])
+
+### whr
+data <- read.table("../../006_interval_metabolites/analysis/WHR_Pulit_316/singlesnp_summary.txt", header = T, sep = "\t")
+whr_high_interval <- subset(data, median_b >= quantile(abs(data$median_b), probs = 0.95)[[1]])
+whr_low_interval <- subset(data, median_b <= quantile(abs(data$median_b), probs = 0.05)[[1]])
+
+### bf
+data <- read.table("../../006_interval_metabolites/analysis/BF_Lu_7/singlesnp_summary.txt", header = T, sep = "\t")
+bf_high_interval <- subset(data, median_b >= quantile(abs(data$median_b), probs = 0.95)[[1]])
+bf_low_interval <- subset(data, median_b <= quantile(abs(data$median_b), probs = 0.05)[[1]])
+
+# comaprison ====
+bmi_high <- inner_join(bmi_high_kettunen, bmi_high_interval, by = "SNP")
+bmi_low <- inner_join(bmi_low_kettunen, bmi_low_interval, by = "SNP")
+
+whr_high <- inner_join(whr_high_kettunen, whr_high_interval, by = "SNP")
+whr_low <- inner_join(whr_low_kettunen, whr_low_interval, by = "SNP")
+
+bf_high <- inner_join(bf_high_kettunen, bf_high_interval, by = "SNP")
+bf_low <- inner_join(bf_low_kettunen, bf_low_interval, by = "SNP")
+
+
+```
+Broadly speaking, INTERVAL additional sensitivity analyses were similar to that of the Kettunen additional sensitivity analyses. In single SNP MR visual inspection of forest plots showed $S$ shaped distributions of effect estimates for all tests (Representative Figure \@ref(fig:appendix-MR-figure-interval-singlesnp-representative-figure), figure also shows outlier SNP with effect estimate close to -6). As with the Kettunen analysis, effect estimates for some SNPs in the single SNP MR analysis were much greater than others (See Representative Figure \@ref(fig:appendix-MR-figure-interval-singlesnp-representative-figure)). When looking at the median effect size across all metabolites for each SNP, the total number of SNPs which could be considered outliers based on a 5% and 95% threshold were: BMI = `r nrow(bmi_low_interval)` (5%) and `r nrow(bmi_high_interval)` (95%); WHR = `r nrow(whr_low_interval)` (5%) and `r nrow(whr_high_interval)` (95%); BF = `r nrow(bf_low_interval)` (5%) and `r nrow(bf_high_interval)` (95%). Many of the SNPs identified as having larger effects are shared across both the Kettunen and INTERVAL analyses: BMI = `r nrow(bmi_low)` (5%) and `r nrow(bmi_high)` (95%); WHR = `r nrow(whr_low)` (5%) and `r nrow(whr_high)` (95%); BF = `r nrow(bf_low)` (5%) and `r nrow(bf_high)` (95%). As an example of this in practice, for BF, more often than not, rs6857 showed an effect estimate greater than the 6 other SNPs and did not overlap confidence intervals with them or the null. rs6857 was found in both the Kettunen and INTERVAL analyses to have a disproportinately larger effect estimate than other SNPs. For BMI and WHR these SNPs generally did have confidence intervals which overlapped other SNPs, however overlap was minimal. \par
+
+Funnel plots did not highlight outlying SNPs, but did reflect some SNPs having larger effect estimates across the board (Representative Figure \@ref(fig:appendix-MR-figure-interval-funnelplot-BMI-representative-figure). The low number of SNPs used for BF did not result in meaningfully interpretable funnel plots (Representative Figure \@ref(fig:appendix-MR-figure-interval-funnelplot-Bf-representative-figure)). In leave-one-out analysis, visual inspection of forest plots showed that no single SNP altered the direction of effect for any metabolite across exposures. For BF, confidence intervals for one or more SNPs crossed the null for a majority of metabolite tested (Representative Figure \@ref(fig:appendix-MR-figure-interval-leaveoneout-BF-representative-figure)). This was not the case for BMI and WHR, where for many metabolites confidence intervals did not cross the null for any SNPs (Representative Figure \@ref(fig:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure)). \par
+
+
+#### Post-hoc additional analyses
+##### Additional exposures
+A number of additional SNP lists were used to instrument BMI, WHR, and BF due to potential limitations of instrument lists used in the main analysis. All analysis, including sensitivity and additional sensitvity analyses, were repeated for these additional SNP lists. Focus here is on the Kettunen analysis as results were similar for the INTERVAL analysis. \par
+
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# packages ====
+library(tidyr)
+library(dplyr)
+# data ==== 
+data <- read.table("../../002_adiposity_metabolites/analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep ="\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+
+## bmi
+a <- c("BMI_Yengo_941", "BMI_Yengo_656", "BMI_Locke_77")
+data1 <- data[data$exposure %in% a, ]
+data1 <- data1[,c(3,4,7)]
+data1 <- spread(data1, exposure, b)
+data1 <- data1[,c(2:4)]
+bmi_cor <- cor(data1, use = "complete.obs", method = "spearman")
+
+## whr
+a <- c("WHR_Pulit_316", "WHR_Shungin_26")
+data1 <- data[data$exposure %in% a, ]
+data1 <- data1[,c(3,4,7)]
+data1 <- spread(data1, exposure, b)
+data1 <- data1[,c(2:3)]
+whr_cor <- cor(data1, use = "complete.obs", method = "spearman")
+
+## bf
+a <- c("BF_Lu_7", "BF_Lu_5", "BF_Hubel_76")
+data1 <- data[data$exposure %in% a, ]
+data1 <- data1[,c(3,4,7)]
+data1 <- spread(data1, exposure, b)
+data1 <- data1[,c(2:4)]
+bf_cor <- cor(data1, use = "complete.obs", method = "spearman")
+```
+
+Results from additional exposures for BMI showed broadly larger effect estimates but consistent directions of effect across metabolites (Appendix Figure \@ref(fig:appendiz-MR-figure-kettunen-circosplot-additional-BMI)). For the BMI SNPs obtained from a non-UK Biobank GWAS, effect estimates had much wider confidence intervals. Spearman's Rho correlation of MR results was highest between the two SNP lists from Yengo et al. (2018) (`r round(bmi_cor[[2,3]],2)`) -- correlation between the Locke et al (2014) SNP list and the COJO SNP list from Yengo et al (2018) (`r round(bmi_cor[[1,3]],2)`) and the non-COJO SNP list from Yengo et al. (2018) (`r round(bmi_cor[[1,2]],2)`) were also high. For WHR the global pattern of association was similar between both the main and additional exposure (Figure \@ref(fig:appendix-MR-kettunen-figure-circosplot-additional-BMI)) with high correlation between MR results (`r round(whr_cor[[1,2]],2)`). Effect estimates were larger for the additional exposure from Shungin et al (2014), for which fewer reuslts reached the multiple testing threshold with wider confidence intervals which crossed the null more often than with the main analysis. \par
+
+For BF there was considerable similarity between the main analysis and the additional analysis from Lu et al (2016) which did not include two SNPs previousy identified as being associated with favourable adiposity (Figure \@ref(fig:appendix-MR-kettunen-figure-circosplot-additional-BF)). More metabolites reached the multiple testing threshold when using the 5 SNPs from Lu et al (2016) as opposed to the full 7 SNPs, this included associations with Apolipoprotein A1, Phenylalanine, Tyrosine, Glucose, and Cholesterol esters in very large HDL. For the additional analysis which used 76 SNPs from Hubel et al (2016), MR reuslts were considerbaly smaller and appeared to show conflicting directions of effect with that of the Lu et al. (2016) SNPs (both using 7 and 5 SNPs). Confidence intervals were much tighter and two  metabolites (Phenylalanine and Glycoprotein acetyls) reached the multiple testing threshold. Correlation between the two Lu et al (2016) SNP lists was high (`r round(bf_cor[[3,2]],2)`), however both the 5 (`r round(bf_cor[[1,3]],2)`) and 7 (`r round(bf_cor[[1,2]],2)`) SNP lists from Lu et al. (2016) showed weaker inverse correaltions with the SNP list from Hubel et al (2016). \par
+
+Steiger directionality tests were variable across analyses (Kettunen vs. INTERVAL) and instrument lists. In the Kettunen main analysis using BMI with 941 SNPs 0 tests were shown to be the true causal direction of exposure to outcome. This did not change after clumping. However, when using the non-COJO SNPs (N = 656) from the same study, 4 tests were found to be true. This increased to 5 after clumping. Additionally, when using 77 SNPs from Locke et al. (2014)[@Locke2015] to instrument BMI a total of 76 tests were shown to be true. This increased to 79 tests after clumping. There was no difference in the non-clumped and clumped SNP list for WHR used in the main analysis (N test true = 4). However, when using the 26 SNP instrument from Shungin et al. (2015)[@Shungin2015] 102 and 112 tests were found to be true for the non-clumped and clumped SNP lists. For BF, the 7 SNP instrument resulted in 80 true tests while the 5 SNP instrument resulted in 76 true tests. The BF GWAS from Hubel et al. (2019)[@Hubel2019] did not have an N available for the summary statistics, instead the total N for the GWAS (155,961) was used. All 123 tests were found to be true when using both the non-clumped and clumped 76 instruments from Hubel et al. (2016) for BF. In the INTERVAL analysis a much different picture is found, with a majority of tests shown to be true across all instrument lists except when instrumenting WHR with SNPs from Pulit et al. (2019)[@Pulit2019] as was done for the main analysis. After clumping, the number of tests with a true causal direction for WHR reduced from 91 to 75. There was also little difference in the number of true causal tests when instrumenting BMI with a smaller SNP list from Locke et al. (2015)[@Locke2015]. As with the Kettunen analysis all tests had a true causal direction when instrumenting BF using the Hubel et al. (2016) SNP list. \par
+
+##### Clumped exposures
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# packages ====
+library(tidyr)
+library(dplyr)
+
+# data ==== 
+data <- read.table("../../002_adiposity_metabolites/data/exposure_SNPs.txt", header = T, sep ="\t")
+data1 <- subset(data, Ref == "Yengo")
+```
+All SNP lists used as exposures, including those described above, underwent clumping and all analyses were repeated. Clumping resulted in the removal of the following SNPs due to LD (R^2^ >= 0.001) with other variants or absence from the LD reference panel: BMI Locke et al. (2014) = `r table(data$Clumped, data$Ref)[[2,2]]`, BMI Yengo et al. (2018) using COJO SNPs = `r table(data1$Clumped, data1$Note)[[2,1]]`, BMI Yengo et al. (2018) using non-COJO SNPs = `r table(data1$Clumped, data1$Note)[[2,2]]`, WHR Pulit et al. (2018) = `r table(data$Clumped, data$Ref)[[2,4]]`, WHR Shungin et al. (2014) = `r table(data$Clumped, data$Ref)[[2,5]]`, BF Hubel et al. (2018) = `r table(data$Clumped, data$Ref)[[2,1]]`. No SNPs were removed due to clumping for BF from Lu et al. (2016). All SNPs, including whether they were removed due to clumping, are presented in the Appendix (Table \@ref(tab:appendix-MR-table-exposures)). \par
+
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# packages ====
+library(tidyr)
+library(dplyr)
+
+# data ==== 
+data <- read.table("../../002_adiposity_metabolites/analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep ="\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+
+# bmi
+a <- c("BMI_Yengo_941", "BMI_Yengo_941_clump", "BMI_Yengo_656", "BMI_Yengo_656_clump", "BMI_Locke_77", "BMI_Locke_77_clump")
+data1 <- data[data$exposure %in% a, ]
+data1 <- data1[,c("outcome", "exposure", "b")]
+data1 <- spread(data1, exposure, b)
+data1 <- data1[,c(2:7)]
+bmi_cor <- cor(data1, use = "complete.obs", method = "spearman")
+
+# whr
+a <- c("WHR_Pulit_316", "WHR_Pulit_316_clump", "WHR_Shungin_26", "WHR_Shungin_26_clump")
+data1 <- data[data$exposure %in% a, ]
+data1 <- data1[,c("outcome", "exposure", "b")]
+data1 <- spread(data1, exposure, b)
+data1 <- data1[,c(2:5)]
+whr_cor <- cor(data1, use = "complete.obs", method = "spearman")
+
+# bf
+a <- c("BF_Hubel_76", "BF_Hubel_76_clump")
+data1 <- data[data$exposure %in% a, ]
+data1 <- data1[,c("outcome", "exposure", "b")]
+data1 <- spread(data1, exposure, b)
+data1 <- data1[,c(2:3)]
+bf_cor <- cor(data1, use = "complete.obs", method = "spearman")
+```
+For the Kettunen analysis, correlation for BMI results between the Yengo COJO (`r round(bmi_cor[[5,6]],2)`), non-COJO (`r round(bmi_cor[[3,4]],2)`), and Locke (`r round(bmi_cor[[1,2]],2)`) non-clumped and clumped MR results was high. Similarly, for WHR MR results from non-clumped and clumped analyses correlation was high for the main exposure (Pulit et al. (2018) = `r round(whr_cor[[1,2]],2)`) and for the additional exposure (`r round(whr_cor[[3,4]],2)`). For BF, clumping was not possible for the main exposure, however correlation between the non-clumped and clumped SNP list from Hubel et al. (2018) was high (`r round(bf_cor[[1,2]],2)`)
+
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# packages ====
+library(tidyr)
+library(dplyr)
+
+# data ==== 
+data <- read.table("../../006_interval_metabolites/analysis/combined/001_combined_mr_results.txt", header = T, sep ="\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+
+# bmi
+a <- c("BMI_Yengo_941", "BMI_Yengo_941_clump", "BMI_Yengo_656", "BMI_Yengo_656_clump", "BMI_Locke_77", "BMI_Locke_77_clump")
+data1 <- data[data$exposure %in% a, ]
+data1 <- data1[,c("outcome", "exposure", "b")]
+data1 <- spread(data1, exposure, b)
+data1 <- data1[,c(2:7)]
+bmi_cor <- cor(data1, use = "complete.obs", method = "spearman")
+
+# whr
+a <- c("WHR_Pulit_316", "WHR_Pulit_316_clump", "WHR_Shungin_26", "WHR_Shungin_26_clump")
+data1 <- data[data$exposure %in% a, ]
+data1 <- data1[,c("outcome", "exposure", "b")]
+data1 <- spread(data1, exposure, b)
+data1 <- data1[,c(2:5)]
+whr_cor <- cor(data1, use = "complete.obs", method = "spearman")
+
+# bf
+a <- c("BF_Hubel_76", "BF_Hubel_76_clump")
+data1 <- data[data$exposure %in% a, ]
+data1 <- data1[,c("outcome", "exposure", "b")]
+data1 <- spread(data1, exposure, b)
+data1 <- data1[,c(2:3)]
+bf_cor <- cor(data1, use = "complete.obs", method = "spearman")
+```
+For the INTERVAL analysis, correlation for BMI results between the Yengo COJO (`r round(bmi_cor[[5,6]],2)`), non-COJO (`r round(bmi_cor[[3,4]],2)`), and Locke (`r round(bmi_cor[[1,2]],2)`) non-clumped and clumped MR results was high. Similarly, for WHR MR results from non-clumped and clumped analyses correlation was high for the main exposure (Pulit et al. (2018) = `r round(whr_cor[[1,2]],2)`) and for the additional exposure (`r round(whr_cor[[3,4]],2)`). For BF, clumping was not possible for the main exposure, however correlation between the non-clumped and clumped SNP list from Hubel et al. (2018) was high (`r round(bf_cor[[1,2]],3)`). \par
+
+### Meta-analysis
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+data <- read.table("../../006_interval_metabolites/data/meta_analysis_p_results.txt", header = T, sep = "\t")
+# directons ====
+pos <- subset(data, meta_direction == "+ +")
+neg <- subset(data, meta_direction == "- -")
+pos_bmi <- subset(pos, exposure == "BMI_Yengo_941")
+neg_bmi <- subset(neg, exposure == "BMI_Yengo_941")
+pos_whr <- subset(pos, exposure == "WHR_Pulit_316")
+neg_whr <- subset(neg, exposure == "WHR_Pulit_316")
+pos_bf <- subset(pos, exposure == "BF_Lu_7")
+neg_bf <- subset(neg, exposure == "BF_Lu_7")
+# sig and directions ====
+data_sig <- subset(data, p <= 0.05/110)
+sig_pos <- subset(data_sig, meta_direction == "+ +")
+sig_neg <- subset(data_sig, meta_direction == "- -")
+sig_bmi <- subset(data_sig, exposure == "BMI_Yengo_941")
+sig_whr <- subset(data_sig, exposure == "WHR_Pulit_316")
+sig_bf <- subset(data_sig, exposure == "BF_Lu_7")
+sig_pos_bmi <- subset(sig_pos, exposure == "BMI_Yengo_941")
+sig_neg_bmi <- subset(sig_neg, exposure == "BMI_Yengo_941")
+sig_pos_whr <- subset(sig_pos, exposure == "WHR_Pulit_316")
+sig_neg_whr <- subset(sig_neg, exposure == "WHR_Pulit_316")
+sig_pos_bf <- subset(sig_pos, exposure == "BF_Lu_7")
+sig_neg_bf <- subset(sig_neg, exposure == "BF_Lu_7")
+sig_pos_bmi_whr <- rbind(sig_pos_bmi, sig_pos_whr)
+sig_pos_bmi_whr <- unique(sig_pos_bmi_whr$outcome)
+sig_neg_bmi_whr <- rbind(sig_neg_bmi, sig_neg_whr)
+sig_neg_bmi_whr <- unique(sig_neg_bmi_whr$outcome)
+# table ====
+table <- data[data$outcome %in% sig_pos_bmi_whr, ]
+table$direction <- "+"
+table1 <- data[data$outcome %in% sig_neg_bmi_whr, ]
+table1$direction <- "-"
+table <- rbind(table,table1)
+table <- table[!duplicated(table$outcome),]
+table <- table[,c("raw.label", "class", "subclass", "direction")]
+table <- table[order(table$class, table$subclass, table$raw.label),]
+```
+
+In total, 110 metabolites were shared across the Kettunen and INTERVAL analyses. Meta-analysis of *p-values* was performed using Fishers method (Equation \@ref(eq:fishers-method)). Across all 3 exposures (330 tests), a total of `r nrow(pos)` tests had a positive direction of effect in the Kettunen and INTERVAL analyses; `r nrow(neg)` tests had a negative direction of effect. For BMI, `r nrow(pos_bmi)` metabolites had positive directions of effect and `r nrow(neg_bmi)` metabolites had negative directions of effect. Similar results were found for WHR (positive = `r nrow(pos_whr)`; negative = `r nrow(neg_whr)`. For BF, a much larger number of metabolites had consistent negative directions of effect (N = `r nrow(neg_bf)`) than positive (N = `r nrow(pos_bf)`). \par
+
+Across the 330 tests, a total of `r nrow(data_sig)` tests reached a Bonferroni ($0.05/110$) multiple testing threshold. Of these, `r nrow(sig_pos)` tests had positive directions of effect across Kettunen and INTERVAL analyses and `r nrow(sig_neg)` tests had negative directions of effect. For BMI, `r nrow(sig_pos_bmi)` metabolites had consistent positive directions of effect and met the multiple testing threshold while `r nrow(sig_neg_bmi)` metabolites had consistent negative directions of effect and met the multiple testing threshold. Similar results were found for WHR (positive = `r nrow(sig_pos_whr)`; negative = `r nrow(sig_neg_whr)`. For BF, no metabolites reached the multiple testing threshold. \par
+
+Across both BMI and WHR, a total of `r length(sig_pos_bmi_whr)` metabolites had a consistent positive direction of effect and met the multiple testing threshold, while `r length(sig_neg_bmi_whr)` metabolites had a consistent negative direction of effect and reached the multiple testing threshold. As such, a total of `r nrow(table)` metabolites were associated with BMI or WHR in the meta-analysis. A list of all of the associated metabolites for BMI and WHR, along with their directions of effect, are given in Table \@ref(tab:MR-table-meta-analysis-sig-direction). \par
+
+<!--
+```{r MR-table-meta-analysis-associations-N, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+table1 <- data.frame(group = c("Consistent total", "Consistent +", " Consistent -", "Associated total", "Associated +", "Associated -"),
+                     Total = c(nrow(pos) + nrow(neg), nrow(pos), nrow(neg), 
+                     nrow(data_sig), nrow(sig_pos), nrow(sig_neg)),
+                     BMI = c(nrow(pos_bmi) + nrow(neg_bmi), nrow(pos_bmi), nrow(neg_bmi),
+                     nrow(sig_bmi), nrow(sig_pos_bmi), nrow(sig_neg_bmi)),
+                     WHR = c(nrow(pos_whr) + nrow(neg_whr), nrow(pos_whr), nrow(neg_whr),
+                     nrow(sig_whr), nrow(sig_pos_whr), nrow(sig_neg_whr)),
+                     BF = c(nrow(pos_bf) + nrow(neg_bf), nrow(pos_bf), nrow(neg_bf),
+                     nrow(sig_bf), nrow(sig_pos_bf), nrow(sig_neg_bf)))
+knitr::kable(table1, longtable = T, booktabs = T, format = "latex", escape = F,
+    caption = 'Meta analysis: Tests with consistent directions of effect and reaching a multiple testing threshold', row.names = F,
+    col.names = c("", "Total", "BMI", "WHR", "BF")) %>%
+  kable_styling(latex_options = c("striped", "HOLD_position", "repeat_header"), position = "center", font_size = 8) %>%
+  kableExtra::footnote(general = "+ = positive direction of effect; - = negative direction of effect; Associated = consistent direction of effect in the meta-analysis and meet the multiple testing threshold for each exposure = 0.05/110", threeparttable = T, general_title = "", footnote_as_chunk = T)
+```
+-->
+
+```{r MR-table-meta-analysis-sig-direction, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F,
+    caption = 'Meta-analysis: Metabolites with a consistent direction of effect and which reached a multiple testing threshold', row.names = F,
+    col.names = c("Metabolite", "Class", "Subclass", "")) %>%
+  kable_styling(latex_options = c("striped", "HOLD_position", "repeat_header"), position = "center", font_size = 8) %>%
+  kableExtra::footnote(general = "Metabolites are given with their originally measured units, class, and subclass information.", threeparttable = T, general_title = "", footnote_as_chunk = T)
+```
+
+### Comparison with observational estimates
+```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+# meta-analysis associated metabolites 
+data <- read.table("../../006_interval_metabolites/data/meta_analysis_p_results.txt", header = T, sep = "\t")
+# directons
+pos <- subset(data, meta_direction == "+ +")
+neg <- subset(data, meta_direction == "- -")
+pos_bmi <- subset(pos, exposure == "BMI_Yengo_941")
+neg_bmi <- subset(neg, exposure == "BMI_Yengo_941")
+pos_whr <- subset(pos, exposure == "WHR_Pulit_316")
+neg_whr <- subset(neg, exposure == "WHR_Pulit_316")
+pos_bf <- subset(pos, exposure == "BF_Lu_7")
+neg_bf <- subset(neg, exposure == "BF_Lu_7")
+# sig and directions 
+data_sig <- subset(data, p <= 0.05/110)
+sig_pos <- subset(data_sig, meta_direction == "+ +")
+sig_neg <- subset(data_sig, meta_direction == "- -")
+sig_pos_bmi <- subset(sig_pos, exposure == "BMI_Yengo_941")
+sig_neg_bmi <- subset(sig_neg, exposure == "BMI_Yengo_941")
+sig_pos_whr <- subset(sig_pos, exposure == "WHR_Pulit_316")
+sig_neg_whr <- subset(sig_neg, exposure == "WHR_Pulit_316")
+sig_pos_bf <- subset(sig_pos, exposure == "BF_Lu_7")
+sig_neg_bf <- subset(sig_neg, exposure == "BF_Lu_7")
+sig_pos_bmi_whr <- rbind(sig_pos_bmi, sig_pos_whr)
+sig_pos_bmi_whr <- unique(sig_pos_bmi_whr$outcome)
+sig_neg_bmi_whr <- rbind(sig_neg_bmi, sig_neg_whr)
+sig_neg_bmi_whr <- unique(sig_neg_bmi_whr$outcome)
+table <- data[data$outcome %in% sig_pos_bmi_whr, ]
+table$direction <- "+"
+table1 <- data[data$outcome %in% sig_neg_bmi_whr, ]
+table1$direction <- "-"
+table <- rbind(table,table1)
+table <- table[!duplicated(table$outcome),]
+metabolites <- table$outcome
+table <- table[,c("raw.label", "class", "subclass", "direction")]
+table <- table[order(table$class, table$subclass, table$raw.label),]
+
+# get list of metabolites for BMI, WHR, BF from meta-analysis
+data <- read.table("../../006_interval_metabolites/data/meta_analysis_p_results.txt", header = T, sep = "\t")
+# directons ====
+pos <- subset(data, meta_direction == "+ +")
+neg <- subset(data, meta_direction == "- -")
+pos_bmi <- subset(pos, exposure == "BMI_Yengo_941")
+neg_bmi <- subset(neg, exposure == "BMI_Yengo_941")
+pos_whr <- subset(pos, exposure == "WHR_Pulit_316")
+neg_whr <- subset(neg, exposure == "WHR_Pulit_316")
+pos_bf <- subset(pos, exposure == "BF_Lu_7")
+neg_bf <- subset(neg, exposure == "BF_Lu_7")
+# sig and directions ====
+data_sig <- subset(data, p <= 0.05/110)
+sig_pos <- subset(data_sig, meta_direction == "+ +")
+sig_neg <- subset(data_sig, meta_direction == "- -")
+sig_pos_bmi <- subset(sig_pos, exposure == "BMI_Yengo_941")
+sig_neg_bmi <- subset(sig_neg, exposure == "BMI_Yengo_941")
+sig_pos_whr <- subset(sig_pos, exposure == "WHR_Pulit_316")
+sig_neg_whr <- subset(sig_neg, exposure == "WHR_Pulit_316")
+sig_pos_bf <- subset(sig_pos, exposure == "BF_Lu_7")
+sig_neg_bf <- subset(sig_neg, exposure == "BF_Lu_7")
+sig_pos_bmi_whr <- rbind(sig_pos_bmi, sig_pos_whr)
+sig_pos_bmi_whr <- unique(sig_pos_bmi_whr$outcome)
+sig_neg_bmi_whr <- rbind(sig_neg_bmi, sig_neg_whr)
+sig_neg_bmi_whr <- unique(sig_neg_bmi_whr$outcome)
+# MR metabolite lists
+mr_bmi_metabolites <- sig_pos_bmi$outcome
+mr_bmi_metabolites <- c(mr_bmi_metabolites, sig_neg_bmi$outcome)
+mr_whr_metabolites <- sig_pos_whr$outcome
+mr_whr_metabolites <- c(mr_whr_metabolites, neg_whr$outcome)
+mr_bf_metabolites <- pos_bf$outcome
+mr_bf_metabolites <- c(mr_bf_metabolites, neg_bf$outcome)
+
+# get metabolites from observational data ====
+obs <- read.table("data/observational/data/analysis/results/combined/combined.txt", header = T, sep = "\t")
+obs <- subset(obs, model == "model2" & group == "adults")
+obs <- obs[,c("exposure", "metabolite", "raw.label", "b","se","p")]
+colnames(obs) <- c("exposure", "outcome", "raw.label", "observational_b","observational_se","observational_p")
+obs$direction[obs$observational_b > 0] <- "+"
+obs$direction[obs$observational_b < 0] <- "-"
+obs_bmi <- subset(obs, exposure == "bmi")
+obs_whr <- subset(obs, exposure == "whr")
+obs_bf <- subset(obs, exposure == "bf")
+obs_bmi <- obs_bmi[obs_bmi$outcome %in% mr_bmi_metabolites, ]
+obs_whr <- obs_whr[obs_whr$outcome %in% mr_whr_metabolites, ]
+obs_bf <- obs_bf[obs_bf$outcome %in% mr_bf_metabolites, ]
+
+# get metabolites from MR data ====
+mr <- read.table("../../006_interval_metabolites/data/meta_analysis_p_results.txt", header = T, sep = "\t")
+mr <- mr[,c("exposure", "outcome", "raw.label", "kettunen_b","kettunen_se","kettunen_p","interval_b","interval_se","interval_p","p","meta_direction","class","subclass")]
+colnames(mr) <- c("exposure", "outcome", "raw.label", "kettunen_b","kettunen_se","kettunen_p","interval_b","interval_se","interval_p","meta_p","meta_direction","class","subclass")
+mr$exposure[mr$exposure == "BMI_Yengo_941"] <- "bmi"
+mr$exposure[mr$exposure == "WHR_Pulit_316"] <- "whr"
+mr$exposure[mr$exposure == "BF_Lu_7"] <- "bf"
+mr_bmi <- subset(mr, exposure == "bmi")
+mr_whr <- subset(mr, exposure == "whr")
+mr_bf <- subset(mr, exposure == "bf")
+mr_bmi <- mr_bmi[mr_bmi$outcome %in% mr_bmi_metabolites, ]
+mr_whr <- mr_whr[mr_whr$outcome %in% mr_whr_metabolites, ]
+mr_bf <- mr_bf[mr_bf$outcome %in% mr_bf_metabolites, ]
+
+# identfiy associated metabolites ====
+bmi <- left_join(mr_bmi, obs_bmi, by = c("exposure", "outcome"))
+whr <- left_join(mr_whr, obs_whr, by = c("exposure", "outcome"))
+bf <- left_join(mr_bf, obs_bf, by = c("exposure", "outcome"))
+bf <- bf[complete.cases(bf[,]),]
+
+bmi$meta_direction = paste(bmi$meta_direction, bmi$direction)
+whr$meta_direction = paste(whr$meta_direction, whr$direction)
+bf$meta_direction = paste(bf$meta_direction, bf$direction)
+
+bmi_obs_sig <- subset(bmi, observational_p < 0.05/53)
+whr_obs_sig <- subset(whr, observational_p < 0.05/53)
+bf_obs_sig <- subset(bf, observational_p < 0.05/53)
+bf_obs_sig_pos <- subset(bf_obs_sig, meta_direction ==  "+ + +")
+bf_obs_sig_neg <- subset(bf_obs_sig, meta_direction ==  "- - -")
+bf_obs_sig <- rbind(bf_obs_sig_pos, bf_obs_sig_neg)
+
+# associated metabolites
+table <- read.table("../../006_interval_metabolites/analysis/associated_metabolites.txt", header = T, sep = "\t")
+associated_metabolites <- unique(table$metabolite)
+```
+
+All `r nrow(table)` metabolites identified in the meta-analysis as associated with adiposity were analysed in the observational analysis in Chapter \@ref(observational). In the observational analysis, a multiple testing threshold of $0.05/53$ (`r round(0.05/53,4)`) was used. For the `r nrow(sig_neg_bmi) + nrow(sig_pos_bmi)` metabolites associated with BMI in the meta-analysis, all showed consistent directions of effect in the observational analysis. Only one metabolite (*Total lipids in medium HDL*) did not reach the multiple testing threshold in the observational analysis for BMI. All `r nrow(sig_neg_whr) + nrow(sig_pos_whr)` metabolites associated with WHR in the meta-analysis had consistent directions of effect in the observational analysis and met the multiple testing threshold in the observational analyses (Figure \@ref(fig:MR-figure-associated-metabolites-comparison)). \par
+
+As no associations were found for BF in the meta-analysis, all metabolites with consistent directions of effect in the meta-analysis for BF were taken forward. These metabolites were compared for consistent directions of effect with the observational analysis. A total of `r nrow(bf)` metabolites directionally consistent in the MR analyses were available in the observational analysis. Of these, `r table(bf$meta_direction)[1]` had consistent negative directions across MR and observational analyses and `r table(bf$meta_direction)[4]` had consistent positive directions. Of these, `r table(bf_obs_sig$meta_direction)[1]` negative and `r table(bf_obs_sig$meta_direction)[2]` positive consistent metabolites reached the multiple testing threshold in the observational analysis. As a result, a total of `r length(associated_metabolites)` metabolites were associated with adiposity. \par
+
+Figure \@ref(fig:MR-figure-associated-metabolites-comparison) shows all metabolites with consistent directions of effect (BMI, WHR, and BF) and which reached a multiple testing threshold (BMI and WHR) in the meta-analysis and their directions and multiple testing thresholds in the observational analysis. \textcolor{yellow}{Yellow} tiles indicate a negative direction of effect; \textcolor{blue}{Blue} tiles indicate a positive direction of effect. * = multiple testing threshold reached: observational = `r round(0.05/53,4)`; Kettunen = `r round(0.05/22,4)`; INTERVAL = `r round(0.05/28,4)`; meta-analysis = `r round(0.05/110,4)`. \par
+
+(ref:MR-figure-associated-metabolites-comparison-cap) **Metabolites associated with measures of adiposity in observational, MR, and MR meta-analysis**. 
+
+(ref:MR-figure-associated-metabolites-comparison-scap) Metabolites associated with measures of adiposity in observational, MR, and MR meta-analysis
+
+```{r MR-figure-associated-metabolites-comparison, echo=FALSE, out.width='50%', fig.cap='(ref:MR-figure-associated-metabolites-comparison-cap)', fig.scap='(ref:MR-figure-associated-metabolites-comparison-scap)'}
+knitr::include_graphics("data/MR/figures/associated_metabolites_comparison.pdf")
+```
+
+## Discussion {#MR-discussion}
+In this chapter, the influence of adiposity on the metabolic profile is demonstrated in an MR framework. The use of MR allowed for the interrogation of causality between BMI, WHR, and BF with the metabolic profile, while accounting for limitations in observational analyses (discussed in Chapter \@ref(introduction) and \@ref(observational)). Two parallel MR analyses of 123 NMR derived metabolites measured in up-to 24,952 individuals of European ancestries from Kettunen et al. (2016)[@Kettunen2016] and 230 NMR derived metabolites from 40,905 individuals of European ancestries from INTERVAL (unpublished) were conducted. Results for BMI and WHR provide evidence for a global association; both show positive and negative effects on whole subclasses of metabolites. On the whole, WHR showed a larger effect across the metabolic profile, however confidence intervals for WHR and BMI mostly overlapped with one another. Evidence for an association between BF and the metabolic profile was weak; on the whole, directions of effect conflicted with those of BMI and WHR, while effect estimates were larger and confidence intervals were much wider and spanned the null for the majority of metabolites. \par 
+
+Sensitivity analysis was broadly consistent with the main analysis for each exposure within the Kettunen and INTERVAL analyses. There was considerable heterogeneity in the genetic instruments used in the main analysis and in single SNP MR analysis a number of SNPs showed disproportionately larger effect estimates across many metabolites. Leave-one-out analysis did not highlight any individual SNP as driving the effect for any one metabolite however. Additional analyses, which used additional instruments and included clumping, aimed to assess whether instruments were appropriate given present concerns over population structure in UK Biobank[@Haworth2019], and whether BF instruments obtained from a GWAS using a mixture of measurement techniques were appropriate. Additional BMI and WHR exposures showed consistent results with the main analysis, though the widening of confidence intervals observed for the non-UK Biobank SNP lists would suggest a considerable increase in power is present when using the larger SNP lists. \par
+
+Steiger directionality tests varied across the Kettunen and INTERVAL analyses. Far fewer tests were found to have a true causal direction in the Kettunen analysis, where very few of the hypothesised directions (adiposity to metabolite) were true for BMI and WHR, in contrast to the majority of tests being true for BF. For INTERVAL a majority of tests had a true causal direction for the main analysis, the exception being WHR. Using additional analyses for BMI and WHR in the Kettunen analysis resulted in many more tests showing true causal directions from exposure to outcome for the Kettunen analysis. For the additional BF instrumentation using SNPs from Hubel et al. (2019) a majority of tests were true. Given that the main and additional analysis for BMI and WHR showed similar results, the Steiger test results for the main BMI and WHR analysis may be biased. Bias in the Steiger test can be a result of a number of issues, including measurement error, which is amplified when instrument biology is unknown. The test only accounts for non-differential measurement error. Additionally, the test assumes there are no pleiotropic effects, which in larger SNP lists is unlikely; it also doesn't account for exposure misspecification. That being said, measurement error can bias towards the exposure causing the outcome when measurement error in the outcome is greater than in the exposure. This latter point may explain the high number of true tests observed for BF, even though directions of effect were inconsistent with the BMI and WHR analyses which in additional analyses showed a large proportion of true tests. Given that instrumentation of BMI and WHR was similar across the SNP lists, save for the number of SNPs and sample sizes, and that the instrumentation of BF resulted in conflicting directions of effect with BMI and WHR and yet showed similarly true causal directions there is a clear challenge in regards to instrumenting adiposity. There may also be an issue of power as the Steiger test uses the outcome sample size to estimate variance explained; the INTERVAL analysis is roughly twice as large as the Kettunen analysis. \par
+
+The issue of instrumentation is perhaps well demonstrated through the BF analysis. For BF there was considerable difference in effect estimates compared to the BMI and WHR results, with estimates on the whole inverse to those of BMI and WHR. This is counterintuitive given the strong correlation between BMI, WHR, and BF, and the consistent results obtained in observational analyses in Chapter \@ref(observational) between BMI, WHR, and BF. Removal of two SNPs previously associated with 'favourable adiposity'[@Yaghootkar2014; @Yaghootkar2016] resulted in a global tightening of confidence intervals and a number of effect estimates changing direction. A number of these effects subsequently reached the multiple testing threshold. However, the majority of MR results remained inverse to that of BMI and WHR. Subsequent single SNP MR analysis using the *FTO* locus (rs1558902; BF beta = 0.051; BMI beta = 0.082) and Kettunen metabolites showed highly consistent results for BF and BMI (BMI instrumented using the Locke et al. (2015) locus estimates). These results differed only in their effect estimate and standard error which was in line with the difference in the SNP beta for the traits - BMI effect estimates were 62% larger than BF effect estimates. Leave-one-out analysis did not indicate a single SNP that could be driving a pleiotropic association. However, median effect estimates for rs6857 were much larger than those for the other SNPs, both with and without exclusion of the two 'favourable adiposity' SNPs. In many cases, rs6857 did not span the null. The unexpected results for BF may be due to a variety of reasons, not least measurement error, sample size differences between BF (up-to 89,300), BMI (up-to 795,624), and WHR (up-to 697,702), and the variance explained by the respective instruments: BF = 0.416%, WHR = 3%, BMI = 6%. \par
+
+Meta-analysis of 110 metabolites identified 49 metabolic associations. These tests had consistent directions of effect across Kettunen and INTERVAL analyses and reacched a Bonferroni multiple testing threshold in the meta-analysis. All 49 metabolites were also measured in observational analyses in Chapter \@ref(observational). In observational analysis a p-value threshold `r round(0.05/53,4)` was used. A total of 45 metabolites were associated with BMI and 48 with WHR across meta-analysis and observational analysis. For BF, 9 metabolites were directionally consistent across the meta-analysis and observational analysis which also reached a multiple testing threshold in the observational analyses. Consistent directions of effect across all adiposity measures that met a multiple testing threshold were found for the amino acids *Tyrosine*, *Phenylalanine*, and *Valine*, which all showed an increase as a result of adiposity. No other metabolites were identified for all adiposity measures. The only other amino acids associated with adiposity were decreased as a result of BMI and WHR (*Glutamine*) and by BF (*Histidine*). Results for *Tyrosine*, *Phenylalanine*, and *Valine* are consistent with previous findings by Wurtz et al. (2014)[@Wurtz2014]. Although confidence intervals were much wider than results here, Wurtz et al. (2014) found *Glutamine* was increased in MR and decreased in observational analyses. Weak evidence for an increase in *Histidine* was found by Wurtz et al. (2016). \par
+
+Of the associated amino acids, all but *Glutamine* and *Tyrosine* are essential. Though tyrosine is synthesised from *Pheynlalanine*. Increased *Tyrosine*, *Phenylalanine*, *Valine*, *Leucine*, and *Isoleucine* have been associated with numerous diseases such as colorectal cancer[@Ritchie2010; @Ni2014; @Lin2016; @Brown2016a], pancreatic cancer[@Ritchie2010], preeclampsia[@Bahado-Singh2012; @Bahado-Singh2014], irritable bowel syndrome[@LeGall2011; @Hong2011], and crohns and ulcerative colitis[@Bjerrum2015]. Reductions in *Glutamine* and *Histidine* meanwhile have been associated with colorectal cancer[@Lin2016; @Ikeda2012; @Ni2014] and pancreatic cancer[@Ikeda2012; @Zhang2012]. There is some conflicting evidence however, with higher *Histidine* levels also found to be associated with colorectal cancer[@Goedert2014]. \par
+
+For BMI and WHR directions of effect were the same across all metabolites. BMI and WHR were both associated with reductions of metabolites in *Medium HDL*, *Large HDL*, and *Very large HDL* subclasses, as well as reductions in *Apolipoprotein A1* and the *Mean diameter for HDL particles* and *Total cholesterol in HDL*. BF was found to decrease *Triglycerides in very large HDL* and *Cholesterol esters in very large HDL* but increase *Total lipids in medium HDL*. Only the BF observational estimate reached a multiple testing threshold for these associations. Additionally, an increase in the *Small HDL* metabolites *Triglycerides in small HDL* and *Total lipids in small HDL* was found for BMI and WHR and WHR only respectively. For *IDL*, *Very small VLDL*, *Small VLDL*, *Medium VLDL*, *Large VLDL*, *Very large VLDL*, and *Extremely large VLDL* subclasses, metabolites were increased as a result of BMI and WHR. An increase in *Apolipoprotien B* was also found. These results are consistent with many previous MR[@Wurtz2014; @Bull2020; @Bell2021a] and observational[@Wurtz2014; @Moore2014; @SantosFerreira2017; @Cirulli2019; @Lau2020; @Brachem2020; @Stevens2020; @OKeeffe2020; @Wulaningsih2019; @Frigerio2021; @Neeland2019; @Bachlechner2016; @Rangel-Huerta2019] analyses. \par
+
+*Apolipoprotein A1* is the major component of *HDL* particles and enables uptake of lipids by *HDL* from cells. *Apolipoprotein B* on the other hand is the major component of *VLDL*, *IDL*, and *LDL* particles, enabling lipid uptake. *Lipoproteins* are particles which transport lipids around the body. *HDL* particles primarily transport lipids away from the cells, in what is known as reverse cholesterol transport. These lipids end up at the liver where they are recycled and excreted[@Feingold2000; @Marz2017]. *LDL* is formed from the breakdown of *IDL* and *VLDL* and is responsible for transporting lipids around the body to cells that need them[@Feingold2000; @Venugopal2021]. It is also involved in reverse cholesterol transport, but not to the same extent as *HDL*. Neither *HDL* nor *LDL* are surrogate measures of reverse cholesterol transport. Broadly, changes in both *ApoA1* and *ApoB* are reflective of overall change in *HDL*, *VLDL*, *IDL*, and *LDL*, and ratios of both *ApoA1* to *ApoB* and *HDL* to *LDL* are predictive of diseases such as myocardial infarction[@McQueen2008]. \par
+
+Observational studies have highlighted increased *HDL* to be associated with a protective effect on cardiovascular disease (CVD)[@Kosmas2018] while increased *LDL* is shown to increase CVD risk[@Ference2017]. MR studies support observational results for *LDL*[@Ference2017], but are conflicting for *HDLs* protective effect[@White2016]. Randomised controlled trials have also not found strong evidence for an effect of *HDL* lowering drugs on CVD risk[@Holmes2017]. Some focus has been given to a measure of *HDLs* contribution to reverse cholesterol transport, *HDL* cholesterol efflux capacity (*HDL-CEC*), which is shown to be protective for CVD[@Rohatgi2014; @Kuusisto2019]. Estimation of *HDL-CEC* however was not available in the current analyses. There are also associations between reduced *HDL* and many cancers, however there is some evidence to suggest this may be bi-directional[@Pirro2018]. \par
+
+### Limitations
+MR relies upon the use of an instrument to model the effect of an exposure on an outcome, that instrument needs to be robust and applicable to the exposure. Instrument strength is generally measured via an $F$ statistic, for which an arbitrary threshold of > 10 denotes a *strong instrument*. All of the instruments used here exceeded this threshold. In addition, the variance explained in an exposure by a GWAS can indicate the power afforded in the MR analysis; the variance explained for exposures used in the main analysis varied from 6% for BMI, to 3% for WHR, and ~0.4% for BF. The considerably lower variance explained for BF may have impacted on results; when using additional instrument lists for BMI and WHR which explained a lesser percentage of variance confidence intervals became wider. Winners curse is unlikely given summary statistics used here are well powered. \par
+
+The consistent directions of effect observed across BMI and WHR measures adds weight to their associations with metabolites. For BF, conflicting directions of effect were observed when comparing to BMI and WHR. However, confidence intervals were wider and, although they spanned the null, included the estimates and confidence intervals for BMI and WHR in a majority of cases. There was considerable difference in the sample sizes used in the GWAS for BMI, WHR, and BF. In addition, whereas BMI and WHR were measured in only one way for their respective GWAS, the BF GWAS included measures of BF from DXA and impedance devices. Though, as shown in Chapter \@ref(chapter4), DXA and impedance measures of BF are highly correlated, the additional analysis for BF which used only impedance measures in the GWAS showed much greater directional consistency with BMI and WHR and also included a number of metabolites which reached the multiple testing threshold. Given the highly correlated nature of the exposures, and the consistency in observational estimates with metabolites, results for BF here appear counterintuitive. Additional analyses failed to appropriately account for the differences in results and further investigation of instrumentation is warranted. \par
+
+As discussed in the limitations section of Chapter \@ref(observational), there is no standardised approach, nor a gold standard, for performing metabolomics quality control. In Chapter \@ref(observational), quality control, including outlier detection and removal, was performed using the `metaboprep` `R` package. Metabolite data here however was from summary statistics, the data that went into these GWAS will have undergone different quality control procedures for the metabolomics data. Additionally, the metabolomics data were inverse normally rank transformed in the Kettunen analysis and log transformed in the INTERVAL analysis, they were also adjusted for different covariates. \par
+
+MR analyses are subject to a number of assumption the main three being: (i) the instrumental variable ($Z$) is robustly associated with the exposure ($X$), (ii) there is no independent association of the instrumental variable with the outcome ($Y$) other than through the exposure, (iii) the instrumental variable is independent of measured or un-measured confounders ($U$). In this work instruments were obtained from large well-powered GWAS and the $F$ statistic for each instrument was above a nominal threshold. In regards the other two assumptions, formal testing is not possible, however, sensitivity analysis can provide an indication of pleiotropy while results from observational analyses indicates the effects of likely confounders is minimal. Sensitivity analysis, although not comprehensive, was concordant with the main analysis. However, as discussed, issue can be taken with the BF analysis, where instrumentation is likely inadequate. \par
+
+The effects of population structure are becoming more apparent in large GWAS[@Hartwig2018; @Brumpton2019] and this poses an issue for MR studies which use their data. Analyses involving genetic instruments obtained from UK Biobank were repeated using instruments obtained from smaller studies that did not include UK Biobank and results were similar. This goes some-way in addressing issues with the studies in which instruments were obtained, however it is still possible that these smaller studies may also have structural issues e.g. BMI from Locke et al. (2014)[@Sohail2019]. \par
+
+### Summary
+Adiposity exerts its effect across the systemic metabolome. Using multiple adiposity exposures consistent directions of effect across the metabolome are found. MR and observational analyses highlight a number of adiposity associated metabolites which have consistent directions of effect[@Wurtz2014; @Bull2020] and effect estimates[@Bull2020] with previous MR analyses. Some of these metabolites have previously been shown to be associated with adiposity related diseases such as colorectal cancer and CVD. These metabolites may be involved in the development of adiposity associated diseases, however their roles may also be as markers of adiposity or other co-occurring incidents that may be the ultimate intermediates on the pathway to disease development. The questions regarding the instrumentation of BF will need further investigation and will be particularly valuable when applying MR to investigate associations between metabolites identified here and diseases identified in Chapter \@ref(SR). \par
+
+\newpage
+
+<!---
+Steiger test
+con
+  still liable to measurement error
+  doesnt account for winners curse (inflated estimates of variance explained in under-powered studies)
+  simulations used a single SNP exposure
+    extension to multiple instruments requires instruments to be independent
+  simulations used one sample setting
+  implies no horizontal pleiotropy
+  assume no measurement error in IV - but this is unlikely
+  doesnt account for exposure misspecification - an instrument could be associated with several related outcomes, with only one actually having a causal effect on the outcome - this is illustrated for lipid fractions[47, 48].
+  inferring the causal direction using an instrument of unknown biology is highly sensitive to measurement error
+  can distinguish between x → y or y → x but not x ← g → y
+  assume all genetic effects are additive
+  
+  
+pro
+  uses a formal statistical framework to test for the reliability of the assumed direction of causality. 
+  less likely to infer the wrong direction of causality compared to CIT, while substantially improving power over CIT in the cases where d > 0.
+  An advantage of using the Steiger test in the two sample context is that it can compare correlations in independent samples where sample sizes are different
+
+
+
+assumes that there is a causal relationship between the two variables, 
+assumes that the SNP is a valid instrument for one of two variables
+
+liable to give incorrect causal directions under some other circumstances. 
+  some levels of horizontal pleiotropy, where the SNP influences the outcome through some pathway other than the exposure, could induce problems because this is a means by which the instrument is invalid. 
+  some differential values of measurement error between the exposure and the outcome could lead to incorrect inference of the causal direction (S2 Text)
+  some levels of unmeasured confounding between the exposure and the outcome could lead to inference of the wrong causal direction (S3 Text).
+-->
+

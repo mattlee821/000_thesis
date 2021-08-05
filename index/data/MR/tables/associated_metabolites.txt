@@ -6,7 +6,7 @@ bmi	Phenylalanine (mmol/l)	Amino acids	Aromatic amino acids	+	<	<	<	<
 whr	Phenylalanine (mmol/l)	Amino acids	Aromatic amino acids	+	<	<	<	<
 bf	Phenylalanine (mmol/l)	Amino acids	Aromatic amino acids	+	<	>	>	>
 bmi	Tyrosine (mmol/l)	Amino acids	Aromatic amino acids	+	<	<	<	<
-whr	Tyrosine (mmol/l)	Amino acids	Aromatic amino acids	+	<	<	>	<
+whr	Tyrosine (mmol/l)	Amino acids	Aromatic amino acids	+	<	<	<	<
 bf	Tyrosine (mmol/l)	Amino acids	Aromatic amino acids	+	<	>	>	>
 bmi	Isoleucine (mmol/l)	Amino acids	Branched-chain amino acids	+	<	<	<	<
 whr	Isoleucine (mmol/l)	Amino acids	Branched-chain amino acids	+	<	<	<	<
@@ -39,7 +39,7 @@ bmi	Concentration of chylomicrons and extremely large VLDL particles (mol/l)	Lip
 whr	Concentration of chylomicrons and extremely large VLDL particles (mol/l)	Lipoprotein subclasses	Extremely large VLDL	+	<	<	<	<
 bmi	Phospholipids in chylomicrons and extremely large VLDL (mmol/l)	Lipoprotein subclasses	Extremely large VLDL	+	<	<	>	<
 whr	Phospholipids in chylomicrons and extremely large VLDL (mmol/l)	Lipoprotein subclasses	Extremely large VLDL	+	<	<	<	<
-bmi	Total lipids in chylomicrons and extremely large VLDL (mmol/l)	Lipoprotein subclasses	Extremely large VLDL	+	<	<	>	<
+bmi	Total lipids in chylomicrons and extremely large VLDL (mmol/l)	Lipoprotein subclasses	Extremely large VLDL	+	<	<	<	<
 whr	Total lipids in chylomicrons and extremely large VLDL (mmol/l)	Lipoprotein subclasses	Extremely large VLDL	+	<	<	<	<
 bmi	Triglycerides in IDL (mmol/l)	Lipoprotein subclasses	IDL	+	<	<	<	<
 whr	Triglycerides in IDL (mmol/l)	Lipoprotein subclasses	IDL	+	<	<	<	<
@@ -70,7 +70,7 @@ whr	Total cholesterol in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL	-
 bf	Total lipids in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL	+	>	>	>	>
 bmi	Free cholesterol in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	+	<	<	>	<
 whr	Free cholesterol in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	+	<	<	<	<
-bmi	Total lipids in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	+	<	<	>	<
+bmi	Total lipids in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	+	<	<	<	<
 whr	Total lipids in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	+	<	<	<	<
 bmi	Triglycerides in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	+	<	<	>	<
 whr	Triglycerides in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	+	<	<	<	<
@@ -95,7 +95,7 @@ bmi	Concentration of very large VLDL particles (mol/l)	Lipoprotein subclasses	Ve
 whr	Concentration of very large VLDL particles (mol/l)	Lipoprotein subclasses	Very large VLDL	+	<	<	>	<
 bmi	Phospholipids in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL	+	<	<	>	<
 whr	Phospholipids in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL	+	<	<	>	<
-bmi	Total lipids in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL	+	<	<	>	<
+bmi	Total lipids in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL	+	<	<	<	<
 whr	Total lipids in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL	+	<	<	<	<
 bmi	Triglycerides in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL	+	<	<	>	<
 whr	Triglycerides in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL	+	<	<	<	<

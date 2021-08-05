@@ -9,6 +9,9 @@
 
 \documentclass[11pt,twoside]{bristolthesis}
 
+\DeclareUnicodeCharacter{2212}{-}
+
+
 %% Packages - these are those which i used for my thesis so might not be specific to yours
 \usepackage{graphicx,latexsym}
 \usepackage{amsmath}
@@ -18,26 +21,45 @@
 \usepackage{booktabs}
 \usepackage{setspace}
 \usepackage{siunitx}
-% \usepackage{chemarr} %% Useful for one reaction arrow, useless if you're not a chem major
+\usepackage{xcolor}
 \usepackage[hyphens]{url}
 \usepackage{hyperref}
+\hypersetup{%
+  colorlinks=true,% hyperlinks will be coloured
+  linkcolor=red,
+  anchorcolor=black,
+  citecolor=green,
+  filecolor=cyan,
+  menucolor=red,
+  runcolor=cyan,
+  urlcolor=magenta
+}
+
 \usepackage{lmodern}
+\usepackage{rotating}
+\usepackage{times} % other fonts are available like times, bookman, charter, palatino
+
+\usepackage{afterpage}
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
+    
 \usepackage{float}
 \floatplacement{figure}{H}
-\usepackage{rotating}
-% \usepackage{times} % other fonts are available like times, bookman, charter, palatino
+
 \usepackage{lscape}
 \newcommand{\blandscape}{\begin{landscape}}
 \newcommand{\elandscape}{\end{landscape}}
 \newcommand{\bsmall}{\begin{small}}
 \newcommand{\esmall}{\end{small}}
+% \usepackage{chemarr} %% Useful for one reaction arrow, useless if you're not a chem major
+% \usepackage{times} % other fonts are available like times, bookman, charter, palatino
 
 %% Paramaters for global document
-\hypersetup{colorlinks = false}
 \renewcommand{\UrlBreaks}{\do\/\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X\do\Y\do\Z\do\0\do\1\do\2\do\3\do\4\do\5\do\6\do\7\do\8\do\9\do\%\do\.\do\-}
 \renewcommand{\chapterautorefname}{Chapter}
-\usepackage{times} % other fonts are available like times, bookman, charter, palatino
-\usepackage{caption}
 
 % Use ref for internal links
 \renewcommand{\hyperref}[2][???]{\autoref{#1}}
@@ -45,7 +67,8 @@
 \def\sectionautorefname{Section}
 \def\subsectionautorefname{Subsection}
 \usepackage{caption}
-\captionsetup{width=5in}
+% \captionsetup{width=5in}
+\captionsetup{width=\textwidth}
 
 % Syntax highlighting #22
 $if(highlighting-macros)$
@@ -66,7 +89,6 @@ $endif$
 \logo{$logo$}
 %%%
 
-
 %%% The document formatting
 \makeatletter
 \def\maxwidth{ %
@@ -76,6 +98,7 @@ $endif$
     \Gin@nat@width
   \fi
 }
+
 \makeatother
 
 \renewcommand{\contentsname}{Table of Contents}
@@ -102,6 +125,10 @@ $declaration$
 $abstract$
 }
 
+\Publications{
+$publications$
+}
+
 \Abbreviations{
 $abbreviations$
 }
@@ -110,65 +137,91 @@ $for(header-includes)$
 	$header-includes$
 $endfor$
 
-
-%%% Main document
-\spacing{1}
-\DeclareUnicodeCharacter{2212}{-}
-\begin{document}
-
+%%% references
 $if(csl-refs)$
 \newlength{\cslhangindent}
 \setlength{\cslhangindent}{1.5em}
-\newenvironment{cslreferences}%
-  {$if(csl-hanging-indent)$\setlength{\parindent}{0pt}%
-  \everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces$endif$}%
-  {\par}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1 \everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces\fi
+  % set entry spacing
+  \ifnum #2 > 0
+  \setlength{\parskip}{#2\baselineskip}
+  \fi
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
 $endif$
 
-
+%%% Main document
+\spacing{1}
+\begin{document}
 $if(title)$
   \maketitle
 $endif$
 
+%%% frontmatter 
 \frontmatter % this stuff will be roman-numbered
 \pagestyle{empty} % this removes page numbers from the frontmatter
-
+\begingroup
+\makeatletter
+\setboolean{@twoside}{false} 
+\makeatother
 $if(abstract)$
   \begin{abstract}
     $abstract$
   \end{abstract}
 $endif$
-
 $if(acknowledgements)$
   \begin{acknowledgements}
     $acknowledgements$
   \end{acknowledgements}
 $endif$
-
+$if(publications)$
+  \begin{publications}
+    $publications$
+  \end{publications}
+$endif$
 $if(declaration)$
   \begin{declaration}
     $declaration$
   \end{declaration}
 $endif$
-
 $if(toc)$
   \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
+  {
   \setcounter{tocdepth}{$toc-depth$}
+  \setcounter{secnumdepth}{$toc-depth$}
   \tableofcontents
+  }
 $endif$
-
 $if(lot)$
   \listoftables
+  \addcontentsline{toc}{chapter}{List of Tables}
 $endif$
-
 $if(lof)$
   \listoffigures
+  \addcontentsline{toc}{chapter}{List of Figures}
+$endif$
+$if(abbreviations)$
+  \begin{abbreviations}
+    $abbreviations$
+  \end{abbreviations}
 $endif$
 
 \spacing{1.5}
+\endgroup
+\setboolean{@twoside}{true} % Move back to two-sided mode
 \mainmatter % here the regular arabic numbering starts
 \pagestyle{plain}
-
 $body$
 
 $if(abbreviations)$

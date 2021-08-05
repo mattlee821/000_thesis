@@ -1,7 +1,7 @@
 ---
 author: 'Matthew A Lee'
-date: 'April 2021'
-title: 'A pipeline for Mendelian randomization studies using large metabolomics data as intermediates'
+date: 'August 2021'
+title: 'What lies behind the causal impact of body mass index (BMI) level and change on human health? Added value from complementary study design and deep metabolomic phenotyping.'
 university: 'University of Bristol'
 faculty: 'Health Sciences'
 school: 'Bristol Medical School'
@@ -9,55 +9,44 @@ group: 'MRC Integrative Epidemiology Unit, Population Health Sciences'
 degree: 'PhD Population Health Sciences'
 logo: data/index/figures/UoBcrest.pdf
 wordcount: '9999999'
-bibliography: bib/library.bib
+bibliography: bib/thesis.bib
 csl: csl/nature.csl
 knit: "bookdown::render_book"
 site: "bookdown::bookdown_site"
-toc-depth: 1
+toc-depth: 2
 lot: true
 lof: true
 space_betwee_paragraphs: true
 fig_caption: true
 always_allow_html: yes
 link-citations: true
+indent: true
 header-includes: # include other LaTeX packages here
     \usepackage{booktabs}
     \usepackage{longtable}
     \usepackage{siunitx}
     \usepackage[left]{lineno}
+    \usepackage{float}
+    \floatplacement{figure}{H}
     \linenumbers
     \pagestyle{plain}
     \raggedbottom 
+    \usepackage{indentfirst}
 output: 
     thesisdown::thesis_pdf: default
-#    thesisdown::thesis_gitbook: default
-#    thesisdown::thesis_word: default
-#    thesisdown::thesis_epub: default
 abstract: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-abstract.Rmd"), collapse = '\n  ')`
 acknowledgements: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-acknowledgements.Rmd"), collapse = '\n  ')`
 declaration: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-declaration.Rmd"), collapse = '\n  ')`
-abbreviations: |
-  `r if(knitr:::is_latex_output()) paste(readLines("00-abbreviations.Rmd"), collapse = '\n  ')`
 editor_options: 
   chunk_output_type: console
 ---
 
 ```{r include_packages, include = FALSE}
 doc.type <- knitr::opts_knit$get('rmarkdown.pandoc.to')
-source("data/index/packages.R")
+setwd(Sys.getenv("main"))
+source("index/data/index/packages.R")
 ```
 
-`r if(!knitr:::is_latex_output()) '# Preface {-}'`
-
-`r if(!knitr:::is_latex_output()) '## Abstract {-}'`
-
-```{r abstract, child = "00-abstract.Rmd", eval = !knitr:::is_latex_output()}
-```
-
-`r if(!knitr:::is_latex_output()) '## Acknowledgements {-}'`
-
-```{r acknowledgements, child = "00-acknowledgements.Rmd", eval = !knitr:::is_latex_output()}
-```

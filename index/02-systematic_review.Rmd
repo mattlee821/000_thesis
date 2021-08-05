@@ -10,6 +10,18 @@ link-citations: true
 toc-depth: 2
 lot: true
 lof: true
+indent: true
+header-includes: # include other LaTeX packages here
+    \usepackage{booktabs}
+    \usepackage{longtable}
+    \usepackage{siunitx}
+    \usepackage[left]{lineno}
+    \usepackage{float}
+    \floatplacement{figure}{H}
+    \linenumbers
+    \pagestyle{plain}
+    \raggedbottom 
+    \usepackage{indentfirst}
 editor_options: 
   chunk_output_type: console
 ---
@@ -54,7 +66,7 @@ Mendelian randomization (MR) analyses provide a methodology of obtaining causal 
 
 ## Methods {#SR-methods}
 ### Data sources and search strategy
-EMBASE and MEDLINE were searched from inception until February 18th 2019 using detailed search strategies including free text and controlled vocabulary terms (Supplementary Information, Search strategy). The pre-print service bioRxiv was searched from inception until February 18th 2019; due to the limited search functionality and inability to include Boolean operators (‘AND’, ‘OR’, ‘NOT’) in bioRxiv searches, a restricted search strategy using four free text terms in four independent searches was used: ‘Mendelian randomization’, ‘Mendelian randomisation’, ‘causal inference’, ‘causal analysis’. \par
+EMBASE and MEDLINE were searched from inception until February 18th 2019 using detailed search strategies including free text and controlled vocabulary terms ([GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/SR/data)). The pre-print service bioRxiv was searched from inception until February 18th 2019; due to the limited search functionality and inability to include Boolean operators (‘AND’, ‘OR’, ‘NOT’) in bioRxiv searches, a restricted search strategy using four free text terms in four independent searches was used: ‘Mendelian randomization’, ‘Mendelian randomisation’, ‘causal inference’, ‘causal analysis’. \par
 
 The search strategy included synonyms for both adiposity and MR terms. For adiposity measures, this was to ensure searches returned all possible instances in which a measure of adiposity was used. For MR, synonyms were used as the term ‘Mendelian randomization’ has only been formalised recently and many early studies would have either been unaware they were performing an instrumental variable analysis or would have called the method something else. \par
 
@@ -406,7 +418,7 @@ A total of `r nrow(skin)` MR analyses were reported across `r nlevels(as.factor(
 
 #### Social
 A total of `r nrow(social)` MR analyses were reported across `r nlevels(as.factor(social$doi))` studies for social related traits such as income, education, and employment. Overall there was evidence across `r nlevels(as.factor(social$doi))` studies for a decreasing effect of increased BMI on income. There was weak evidence for an effect of BMI on cohabitation and for an increasing effect on socioeconomic status. Evidence was conflicting for an effect of BMI on education traits such as years in education and degree status. There was weak evidence for a decreasing effect of BMI on employment traits such as years employed, employment status, and job class. Data on physical activity was not well reported. There was weak evidence for a decreasing effect of BMI on risk taking behavior, satisfaction with family, friends, finances and work. However there was evidence for a decreasing effect on health satisfaction. \par
-tha
+
 #### Other
 Where outcomes could not easily be grouped into one of the previous categories it was grouped into the other category. A total of `r nrow(other)` MR analyses were reported across `r nlevels(as.factor(other$doi))` studies for outcomes that could not easily be grouped into one of the previous categories. A majority of these MR analyses were of methylation data (N = 118) used in a hypothesis free analyses. Few of these analyses reported an effect estimate (N = 34) and overall there was weak evidence for an effect of BMI. Of the remaining 117 MR analyses, 68 looked at the effect of BMI on mortality and cause specific mortality. There was weak evidence for an effect of BMI on cause specific mortality across the board, including for all cancer, all cardiovascular, cancer specific, respiratory, and stroke. There was also weak evidence for an effect on all cause mortality. \par
 
@@ -448,14 +460,6 @@ The systematic search used a broad array of adiposity related terms in order to 
 Although MR studies are robust to confounding and other biases (See \@ref(mendelian-randomization)) they are subject to a number of limitations pertinent to this systematic review. Results of MR studies may represent different underlying processes to that of observational studies, as exposures in MR studies reflect a lifetime exposure. In observational studies the exposures are determined by genetic and non-genetic factors at that point in time. Additionally, genetic instruments used in MR analyses must be robust and appropriate. Given the incomplete, and often poor reporting of MR analyses, results must be interpreted cautiously. This is especially true in regards to instruments with many hundreds of SNPs, which although are likely to be robust and appropriate, will undoubtedly contain many pleitotropic SNPs. This is because, few studies actively investigated pleiotropy outside of sensitivity models such as MR-Egger. \par
 
 ### Summary 
-In this systematic review and meta-analysis, adiposity is shown to exert its effect on numerous outcomes including many cancers, cardiovascular outcomes, and many metabolic traits. Meta-analyses of 31 exposure-outcome pairs highlighted predominantly increasing effects of BMI. Results are broadly consistent with the observational literature and provide additional evidence for association with a number of traits including endometrial cancer. In the narrative synthesis there were conflicting results for a number of outcomes, with both positive and negative effect estimates identified across studies. The lack of high quality studies, and an abundance of missing and incorrect data reported by studies, limits the inferences that can be made from results. In particular, the limited number of studies included in the meta-analyses prohibits meaningful interpretation of heterogeneity statistics. Inclusion of non-independent samples in the narrative synthesis means results must be interpreted cautiously. Taken together, inferring overview from numerous MR analyses should be approached with caution, rather focus should be on individual analyses in the context of the wider literature. Given many MR analyses are replications which use the same data-sets future meta-analyses will become increasingly difficult without the ability to separate out cohort specific estimates.
+In this systematic review and meta-analysis, adiposity is shown to exert its effect on numerous outcomes including many cancers, cardiovascular outcomes, and many metabolic traits. Meta-analyses of 31 exposure-outcome pairs highlighted predominantly increasing effects of BMI. Results are broadly consistent with the observational literature and provide additional evidence for association with a number of traits including endometrial cancer. In the narrative synthesis there were conflicting results for a number of outcomes, with both positive and negative effect estimates identified across studies. The lack of high quality studies, and an abundance of missing and incorrect data reported by studies, limits the inferences that can be made from results. In particular, the limited number of studies included in the meta-analyses prohibits meaningful interpretation of heterogeneity statistics. Inclusion of non-independent samples in the narrative synthesis means results must be interpreted cautiously. Taken together, inferring overview from numerous MR analyses should be approached with caution, rather focus should be on individual analyses in the context of the wider literature. Given many MR analyses are replications which use the same data-sets future meta-analyses will become increasingly difficult without the ability to separate out cohort specific estimates. \par
 
-
-
-
-
-
-why did we pick endo 
-	caroline did CRC - ref it
-	contribute novelty to field
-	data availability
+\newpage

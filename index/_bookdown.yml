@@ -1,0 +1,22 @@
+book_filename: "thesis"
+chapter_name: "Chapter "
+delete_merged_file: true
+
+rmd_files: ["index.Rmd",
+            "00-outline.Rmd",
+            "01-introduction.Rmd", 
+            "02-systematic_review.Rmd", 
+            "03-visualisation.Rmd",
+            "04-observational.Rmd", 
+            "05-MR.Rmd", 
+            "06-instrumentation.Rmd", 
+            "07-mediation.Rmd", 
+            "08-discussion.Rmd", 
+            "97-conclusion.Rmd", 
+            "98-appendix.Rmd", 
+            "99-references.Rmd"]
+
+download: [["thesis.pdf", "PDF"], 
+          ["thesis.epub", "EPUB"],
+          ["thesis.docx", "Word"]]
+

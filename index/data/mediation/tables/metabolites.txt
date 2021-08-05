@@ -1,0 +1,54 @@
+Metabolite	Label	Class	Subclass
+idltg	idltg	Lipoprotein subclasses	IDL
+ile	ile	Amino acids	Branched-chain amino acids
+leu	leu	Amino acids	Branched-chain amino acids
+lvldlfc	lvldlfc	Lipoprotein subclasses	Large VLDL
+lvldll	lvldll	Lipoprotein subclasses	Large VLDL
+lvldlp	lvldlp	Lipoprotein subclasses	Large VLDL
+lvldlpl	lvldlpl	Lipoprotein subclasses	Large VLDL
+lvldltg	lvldltg	Lipoprotein subclasses	Large VLDL
+mufa	mufa	Fatty acids	Fatty acids
+mvldltg	mvldltg	Lipoprotein subclasses	Medium VLDL
+phe	phe	Amino acids	Aromatic amino acids
+shdltg	shdltg	Lipoprotein subclasses	Small HDL
+svldll	svldll	Lipoprotein subclasses	Small VLDL
+svldltg	svldltg	Lipoprotein subclasses	Small VLDL
+tyr	tyr	Amino acids	Aromatic amino acids
+val	val	Amino acids	Branched-chain amino acids
+vldlsize	vldld	Lipoprotein particle size	Lipoprotein particle size
+xlvldll	xlvldll	Lipoprotein subclasses	Very large VLDL
+xlvldlp	xlvldlp	Lipoprotein subclasses	Very large VLDL
+xlvldlpl	xlvldlpl	Lipoprotein subclasses	Very large VLDL
+xlvldltg	xlvldltg	Lipoprotein subclasses	Very large VLDL
+xsvldltg	xsvldltg	Lipoprotein subclasses	Very Small VLDL
+xxlvldll	xxlvldll	Lipoprotein subclasses	Extremely large VLDL
+xxlvldlp	xxlvldlp	Lipoprotein subclasses	Extremely large VLDL
+xxlvldlpl	xxlvldlpl	Lipoprotein subclasses	Extremely large VLDL
+apoa1	apoa1	Apolipoproteins	Apolipoproteins
+gln	gln	Amino acids	Amino acids
+hdlc	hdlc	Cholesterol	Cholesterol
+hdlsize	hdld	Lipoprotein particle size	Lipoprotein particle size
+lhdlc	lhdlc	Lipoprotein subclasses	Large HDL
+lhdlce	lhdlce	Lipoprotein subclasses	Large HDL
+lhdlfc	lhdlfc	Lipoprotein subclasses	Large HDL
+lhdll	lhdll	Lipoprotein subclasses	Large HDL
+mhdlc	mhdlc	Lipoprotein subclasses	Medium HDL
+mhdlce	mhdlce	Lipoprotein subclasses	Medium HDL
+mhdlfc	mhdlfc	Lipoprotein subclasses	Medium HDL
+mhdll	mhdll	Lipoprotein subclasses	Medium HDL
+xlhdlfc	xlhdlfc	Lipoprotein subclasses	Very large HDL
+xlhdll	xlhdll	Lipoprotein subclasses	Very large HDL
+xlhdlp	xlhdlp	Lipoprotein subclasses	Very large HDL
+xlhdlpl	xlhdlpl	Lipoprotein subclasses	Very large HDL
+apob	apob	Apolipoproteins	Apolipoproteins
+lactate	lac	Glycolysis related metabolites	Glycolysis related metabolites
+mvldlfc	mvldlfc	Lipoprotein subclasses	Medium VLDL
+mvldll	mvldll	Lipoprotein subclasses	Medium VLDL
+shdll	shdll	Lipoprotein subclasses	Small HDL
+totalfa	totfa	Fatty acids	Fatty acids
+xsvldll	xsvldll	Lipoprotein subclasses	Very Small VLDL
+pyruvate	pyr	Glycolysis related metabolites	Glycolysis related metabolites
+albumin	alb	Fluid balance	Fluid balance
+his	his	Amino acids	Amino acids
+xlhdlce	xlhdlce	Lipoprotein subclasses	Very large HDL
+xlhdltg	xlhdltg	Lipoprotein subclasses	Very large HDL

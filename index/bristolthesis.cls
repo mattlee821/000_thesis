@@ -345,14 +345,27 @@
   \else
     \@restonecolfalse
   \fi
-  \chapter{List of Publications}
+  \chapter*{Research Output}
   \fontsize{12}{14}\selectfont
 }{\clearpage \if@restonecol\twocolumn\fi}%
+
+%% Contributions
+\newenvironment{contributions}{%
+  \if@twocolumn
+    \@restonecoltrue\onecolumn
+  \else
+    \@restonecolfalse
+  \fi
+  \chapter*{Contributions}
+  \fontsize{12}{14}\selectfont
+}{\clearpage \if@restonecol\twocolumn\fi}%
+
 
 %%% Other things
 \renewcommand{\title}[1]{\def\@title{#1}}
 \newcommand{\Abstract}[1]{\def\@Abstract{#1}}
 \newcommand{\Acknowledgements}[1]{\def\@Acknowledgements{#1}}
+\newcommand{\Publications}[1]{\def\@Publications{#1}}
+\newcommand{\Contributions}[1]{\def\@Contributions{#1}}
 \newcommand{\Declaration}[1]{\def\@Declaration{#1}}
 \newcommand{\Abbreviations}[1]{\def\@Abbreviations{#1}}
-\newcommand{\Publications}[1]{\def\@Publications{#1}}

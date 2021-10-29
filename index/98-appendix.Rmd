@@ -228,33 +228,45 @@ knitr::kable(data, longtable = T, booktabs = T, format = "markdown", escape = T,
 ```
 \elandscape
 
-## Chapter 3: EpiViz {#appendix-EpiViz}
-
-\newpage
 ## Chapter 4: Observational {#appendix-observational}
+### Validation of impedance in children
+The calculated BF resulted in negative BF estimates for some children (Figure \@ref(fig:appendix-observational-figure-BF-validation-distribution)). However, the calculated BF was positively correlated with weight, height and BMI in children. In adolescents, the calculated BF did not produce negative estimates and was positively correlated with impedance and DXA derived BF estimates (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)), as well as with weight, height, and BMI (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation)). Child calculated BF positively correlated with adolescent measures of BF (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)). \par
 
-#### Metabolites {#appendix-observational-metabolites} {-}
-```{r appendix-observational-table-metabolites, echo=FALSE}
-data <- read.table("data/observational/data/analysis/results/combined/combined.txt", header = T, sep = "\t")
-data <- data[,c("metabolite","raw.label","class","subclass","derived_features")]
-data <- unique(data[ , 1:5 ] )
-data <- data[order(data$class, data$subclass, data$metabolite),]
-knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
-    caption = 'Metabolites available after quality control across all age groups', 
-    row.names = F,
-    col.names = c("Metabolite","Label", "Class","Subclass", "Derived")) %>%
-  kable_styling(full_width = T, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center") %>%
-    kableExtra::footnote(general = "Derived indictaes whether a metabolite is directly measured (no) or is a derived measure (yes).", threeparttable = T, general_title = "", footnote_as_chunk = T) %>%
-  column_spec(column = 1, width = "5em") %>%
-  column_spec(column = 2, width = "10em") %>%
-  column_spec(column = 3, width = "10em") %>%
-  column_spec(column = 4, width = "10em") %>%
-  column_spec(column = 5, width = "3em")
+Given that equation \@ref(eq:BF) was derived using adult data and the volumetric difference between adults and children (i.e., BMI cubed rather than BMI squared may be more appropriate in children[@Stergiakouli2014]), differences in the range of estimates is unsurprising. There is however strong correlation between calculated BF and impedance derived and DXA derived estimates of BF in adolescents. Given that in a linear model the estimate is based on the per-unit increase, the absolute value of the exposure therefore does not need to be positive. As such, BF calculated using equation \@ref(eq:BF) was used in subsequent analyses as a measure of BF in children. \par 
+
+(ref:appendix-observational-figure-BF-validation-distribution-cap) **Distribution of raw impedance and calculated body fat percentage in children and adolescents**. Raincloud plots give the distribution of the raw impedance value measured in ohms and body fat percentage (BF) derived using equation \@ref(eq:BF) for children and adolescents. Data is presented for complete cases across: raw metabolomics, body mass index, waist hip ratio (children only), impedance, height, weight, age, sex, and BF derived by impedance and dual energy x-ray absorptiometry in adolescents. Red is female data, grey is male data.
+
+(ref:appendix-observational-figure-BF-validation-distribution-scap) Distribution of raw impedance and calculated body fat percentage in children and adolescents
+
+```{r appendix-observational-figure-BF-validation-distribution, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-observational-figure-BF-validation-distribution-cap)', fig.scap='(ref:appendix-observational-figure-BF-validation-distribution-scap)'}
+knitr::include_graphics("data/observational/figures/bf_validation_histogram.pdf")
 ```
 
-\newpage
+(ref:appendix-observational-figure-BF-validation-correlation-cap) **Correlation between different body fat percentage measures in children and adolescents**. Scatter plots are presented alongside Pearsons correlation coefficients for each sex; data for males are in grey and females in red. Plots are arranged in 4 columns and 4 rows. Column 1 gives raw impedance with body fat percentage (BF) calculated in children and adolescents using equation \@ref(eq:BF), and BF derived from dual energy x-ray absorptiometry (DXA) in adolescents. Column 2 gives child calculated BF using equation \@ref(eq:BF) with adolescent calculated BF using equation \@ref(eq:BF) and DXA derived BF. Column 3 gives adolescent raw impedance with adolescent BF calculated using equation \@ref(eq:BF) and DXA derived BF. Column 4 gives Adolescent calculated BF using equation \@ref(eq:BF) with adolescent raw impedance, DXA derived BF, and adolescent raw impedance with DXA derived BF. Data is presented for complete cases across: QC'd metabolomics, body mass index, waist hip ratio (children only), impedance, height, weight, age, sex, and BF derived by impedance and DXA in adolescents. 
 
-#### Correlations {#appendix-observational-correlations} {-}
+(ref:appendix-observational-figure-BF-validation-correlation-scap) Correlation between different body fat percentage measures in children and adolescents
+
+```{r appendix-observational-figure-BF-validation-correlation, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-observational-figure-BF-validation-correlation-cap)', fig.scap='(ref:appendix-observational-figure-BF-validation-correlation-scap)'}
+knitr::include_graphics("data/observational/figures/bf_validation_correlation_bf.pdf")
+```
+
+(ref:appendix-observational-figure-BF-validation-correlation-2-children-cap) **Correlation between body fat percentage and anthropometric measures in children.** Scatter plots are presented alongside Pearsons correlation coefficients for each sex; data for males are in grey and females in red. Column 1 = impedance; column 2 = body fat percentage (BF). Impedance is given as ohms. Data is presented for complete cases across: QC'd metabolomics, body mass index, waist hip ratio (children only), impedance, height, weight, age, sex, and BF derived by impedance and DXA in adolescents. 
+
+(ref:appendix-observational-figure-BF-validation-correlation-2-children-scap) Correlation between body fat percentage and anthropometric measures in children and adolescents
+
+```{r appendix-observational-figure-BF-validation-correlation-2-children, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-observational-figure-BF-validation-correlation-2-children-cap)', fig.scap='(ref:appendix-observational-figure-BF-validation-correlation-2-children-scap)'}
+knitr::include_graphics("data/observational/figures/bf_validation_correlation_children.pdf")
+```
+
+(ref:appendix-observational-figure-BF-validation-correlation-2-adolescents-cap) **Correlation between body fat percentage and anthropometric measures in adolescents.** Scatter plots are presented alongside Pearsons correlation coefficients for each sex; data for males are in grey and females in red. Column 1 = impedance; column 2 = BF calculated using equation \@ref(eq:BF); column 3 = BF derived from impedance device; column 4 = BF derived from dual energy x-ray absorptiometry (DXA). Impedance is given as ohms. Data is presented for complete cases across: QC'd metabolomics, body mass index, waist hip ratio (children only), impedance, height, weight, age, sex, and BF derived by impedance and DXA in adolescents. 
+
+(ref:appendix-observational-figure-BF-validation-correlation-2-adolescents-scap) Correlation between body fat percentage and anthropometric measures in adolescents
+
+```{r appendix-observational-figure-BF-validation-correlation-2-adolescents, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-observational-figure-BF-validation-correlation-2-adolescents-cap)', fig.scap='(ref:appendix-observational-figure-BF-validation-correlation-2-adolescents-scap)'}
+knitr::include_graphics("data/observational/figures/bf_validation_correlation_adolescents.pdf")
+```
+
+### Correlations {#appendix-observational-correlations} 
 Due to the large number of tests performed, concordance between models, exposures, and age groups were investigated using Spearman's correlations.
 
 ```{r echo=FALSE, warning=FALSE, error=FALSE}
@@ -447,9 +459,18 @@ bf_m1_cor
 
 \newpage
 
-#### Figures {-}
+### Figures 
 
-##### Forestplots {#appendix-observational-figures-forestplots}
+(ref:observational-figure-adiposity-distribution-cap) **Distribution of adiposity measures across all age groups**. Raincloud plots give the distribution of all adiposity measures across age groups by sex. Body fat percentage (BF) in children is derived from equation \@ref(eq:BF). BMI = body mass index; WHR = waist hip ratio. Data is presented for all individuals given in Table \@ref(tab:observational-table-ALSPAC-adiposity). The interquartile range and median are also shown. Raincloud plots produced using the `RainCloudPlots` `R` package[@Allen2019].
+
+(ref:observational-figure-adiposity-distribution-scap) Distribution of adiposity measures across all age groups
+
+```{r appendix-observational-figure-adiposity-distribution, echo=FALSE, out.width='100%', fig.cap='(ref:observational-figure-adiposity-distribution-cap)', fig.scap='(ref:observational-figure-adiposity-distribution-scap)'}
+knitr::include_graphics("data/observational/figures/plot_histogram_adiposity_measures.pdf")
+```
+
+
+#### Forestplots {#appendix-observational-figures-forestplots}
 
 (ref:appendix-observational-figure-forestplot-main-cap) **Effect estimates from linear regression of adiposity measures on metabolites**. Forestplot shows effect estimates and 95% confidence intervals from model 2 for all exposures and age groups. Effect estimates are absolute change in metabolite per-standard deviation increase in exposure.
 
@@ -471,7 +492,7 @@ knitr::include_graphics("data/observational/Supplement/forestplot_supplement.pdf
 ```
 \elandscape
 
-##### Circos plots {#appendix-observational-figures-circosplots}
+#### Circos plots {#appendix-observational-figures-circosplots}
 
 (ref:appendix-observational-figure-circos-children-cap) **Effect estimates from linear regression of adiposity measures on derived supplementary metabolites in children**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in children. Effect estimates are absolute change in metabolite per-standard deviation increase in exposure. The outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/54) set as the number of independent metabolite features as calculated by `metaboprep`.
 
@@ -836,14 +857,13 @@ knitr::include_graphics("data/MR/figures/circosplot_interval_additional_BMI.pdf"
 \newpage
 
 
-## Chapter 6: Instrumentation {#appendix-instrumentation}
-## Chapter 7: Mediation {#appendix-mediation}
+## Chapter 6: Mediation {#appendix-mediation}
 
 ### Methods
 ```{r appendix-mediation-table-metabolites, echo=FALSE}
 data <- read.table("data/mediation/tables/metabolites.txt", header = T, sep = "\t")
 data <- data[order(data$Class, data$Subclass, data$Metabolite),]
-knitr::kable(data, longtable = T, booktabs = T, format = "html", escape = T,
+knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
     caption = 'Metabolites used in MR analyses', 
     row.names = F,
     col.names = c("Metabolite","Label", "Class","Subclass")) %>%
@@ -857,6 +877,14 @@ knitr::kable(data, longtable = T, booktabs = T, format = "html", escape = T,
 ### Results
 
 #### Two Sample MR: adiposity-endometrial cancer
+
+(ref:appendix-mediation-figure-forestplot-adiposity-endometrial-cap) **Two-sample MR: Effect of adiposity on endometrial cancer**. Forest plot shows odds ratios and associated 95% confidence intervals per normalized standard deviation unit increase for the effects of BMI, WHR, and BF on endometrial cancer, endometrioid cancer, and non-endometrioid cancer. The main analysis (IVW-MRE; multiplicative random effects) is presented alongside sensitivity analyses (weighted median, weighted mode, and MR Egger). Solid points indicate a nominal p-value threshold of $0.05$ has been reached. 
+
+(ref:appendix-mediation-figure-forestplot-adiposity-endometrial-scap) Two-sample MR: Effect of adiposity on endometrial cancer
+
+```{r appendix-mediation-figure-forestplot-adiposity-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-forestplot-adiposity-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-forestplot-adiposity-endometrial-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/figures/forestplot.pdf")
+```
 
 (ref:appendix-mediation-figure-representative-scatter-adiposity-endometrial-cap) **Representativ figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**. 
 
@@ -891,6 +919,14 @@ knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_e
 ```
 
 #### Two Sample MR: adiposity-metabolites
+
+(ref:appendix-mediation-figure-forestplot-adiposity-metabolites-cap) **Two-sample MR: Effect of adiposity on metabolites**. Forest plot shows odds ratios and associated 95% confidence intervals per normalized standard deviation unit increase for the effects of BMI, WHR, and BF on 45, 46, and 8 metabolites respectively. The inverse variance weighted multiplicative random effects model is presented. Solid points indicate a nominal p-value threshold of $0.05$ has been reached. 
+
+(ref:appendix-mediation-figure-forestplot-adiposity-metabolites-scap) Two-sample MR: Effect of adiposity on metabolites
+
+```{r appendix-mediation-figure-forestplot-adiposity-metabolites, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-forestplot-adiposity-metabolites-cap)', fig.scap='(ref:appendix-mediation-figure-forestplot-adiposity-metabolites-scap)'}
+knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_metabolite/figures/forestplot.pdf")
+```
 
 (ref:appendix-mediation-figure-representative-scatter-adiposity-metabolites-cap) **Representativ figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on metabolites**. 
 

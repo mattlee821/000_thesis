@@ -1,0 +1,169 @@
+---
+title: "Circos plots"
+author: "Matthew Lee"
+date: 
+output:
+  html_document:
+  theme: flatly
+toc: true
+number_sections: true
+toc_float: 
+  smooth_scroll: false
+df_print: paged
+code_download: true
+highlighter: null
+bibliography: /Users/ml16847/OneDrive - University of Bristol/000_writing/thesis/bib/library.bib 
+csl: /Users/ml16847/OneDrive - University of Bristol/000_writing/thesis/csl/nature.csl
+editor_options: 
+  chunk_output_type: console
+---
+  
+<style>
+  body {
+  text-align: justify}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+## colours
+#install.packages("wesanderson")
+library(wesanderson)
+colours <- names(wes_palettes)
+discrete_palette <- wes_palette(colours[8], type = "discrete")
+```
+
+# Main analysis
+## IVW-MPE model
+
+### Circos plots
+
+* BMI_Yengo_941
+* WHR_Pulit_316
+* BF_Lu_5
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# environment
+source("my_circos_plot_function.R")
+
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "BMI_Yengo_941")
+data2 <- subset(data , exposure == "WHR_Pulit_316")
+data3 <- subset(data, exposure == "BF_Lu_5")
+
+# plot
+pdf("../../../analysis/step2/1_circos_plots/IVW-MPE_BF_Lu_5.pdf",
+    width = 35, height = 35, pointsize = 30)
+my_circos_plot(track_number = 3, # how many tracks do you want - this should correspond to the number of data frame syou have
+               track2_data1 = data1, # the first track you will plot data on
+               track3_data1 = data2, # the second track you will plot data on
+               track4_data1 = data3, # the third track you will plot data on
+               label_column = "raw.label.no.units", # what column in your data frame is the labels column
+               section_column = "subclass", # what column in your data frame do you want to group your data by
+               estimate_column = "b", # what column in your data frame is the estimate column
+               pvalue_column = "pval", # what column in your data fram is the Pvalue column
+               pvalue_adjustment = 0.05/22, # what Pvalue significance threshold do you want to set, anything below this threshold will be highlighted as 'significant'
+               confidence_interval_lower_column = "lower_ci", # what column in your data frame is the lower confidence interval column
+               confidence_interval_upper_column = "upper_ci", # what column in your data frame is the upper confidence interval column
+               legend = TRUE, # the legend is always plotted centrally below the circos plot
+               track2_label = "BMI_Yengo_941",
+               track3_label = "WHR_Pulit_316",
+               track4_label = "BF_Lu_7",
+               pvalue_label = "P > 0.05/22")
+dev.off()
+
+
+png("../../../analysis/step2/1_circos_plots/IVW-MPE_BF_Lu_5.png",
+    units = "in", width = 35, height = 35, pointsize = 30, res = 75)
+my_circos_plot(track_number = 3, # how many tracks do you want - this should correspond to the number of data frame syou have
+               track2_data1 = data1, # the first track you will plot data on
+               track3_data1 = data2, # the second track you will plot data on
+               track4_data1 = data3, # the third track you will plot data on
+               label_column = "raw.label.no.units", # what column in your data frame is the labels column
+               section_column = "subclass", # what column in your data frame do you want to group your data by
+               estimate_column = "b", # what column in your data frame is the estimate column
+               pvalue_column = "pval", # what column in your data fram is the Pvalue column
+               pvalue_adjustment = 0.05/22, # what Pvalue significance threshold do you want to set, anything below this threshold will be highlighted as 'significant'
+               confidence_interval_lower_column = "lower_ci", # what column in your data frame is the lower confidence interval column
+               confidence_interval_upper_column = "upper_ci", # what column in your data frame is the upper confidence interval column
+               legend = TRUE, # the legend is always plotted centrally below the circos plot
+               track2_label = "BMI_Yengo_941",
+               track3_label = "WHR_Pulit_316",
+               track4_label = "BF_Lu_7",
+               pvalue_label = "P > 0.05/22")
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_circos_plots/IVW-MPE_BF_Lu_5.png")
+```
+
+___
+
+\  
+
+* BMI_Yengo_941
+* WHR_Pulit_316
+* BF_Lu_7
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# environment
+source("my_circos_plot_function.R")
+
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "BMI_Yengo_941")
+data2 <- subset(data , exposure == "WHR_Pulit_316")
+data3 <- subset(data, exposure == "BF_Lu_7")
+
+# plot
+pdf("../../../analysis/step2/1_circos_plots/IVW-MPEBF_Lu_7.pdf",
+    width = 35, height = 35, pointsize = 30)
+my_circos_plot(track_number = 3, # how many tracks do you want - this should correspond to the number of data frame syou have
+               track2_data1 = data1, # the first track you will plot data on
+               track3_data1 = data2, # the second track you will plot data on
+               track4_data1 = data3, # the third track you will plot data on
+               label_column = "raw.label.no.units", # what column in your data frame is the labels column
+               section_column = "subclass", # what column in your data frame do you want to group your data by
+               estimate_column = "b", # what column in your data frame is the estimate column
+               pvalue_column = "pval", # what column in your data fram is the Pvalue column
+               pvalue_adjustment = 0.05/22, # what Pvalue significance threshold do you want to set, anything below this threshold will be highlighted as 'significant'
+               confidence_interval_lower_column = "lower_ci", # what column in your data frame is the lower confidence interval column
+               confidence_interval_upper_column = "upper_ci", # what column in your data frame is the upper confidence interval column
+               legend = TRUE, # the legend is always plotted centrally below the circos plot
+               track2_label = "BMI_Yengo_941",
+               track3_label = "WHR_Pulit_316",
+               track4_label = "BF_Lu_7",
+               pvalue_label = "P > 0.05/22")
+dev.off()
+
+
+png("../../../analysis/step2/1_circos_plots/IVW-MPE_BF_Lu_7.png",
+    units = "in", width = 35, height = 35, pointsize = 30, res = 75)
+my_circos_plot(track_number = 3, # how many tracks do you want - this should correspond to the number of data frame syou have
+               track2_data1 = data1, # the first track you will plot data on
+               track3_data1 = data2, # the second track you will plot data on
+               track4_data1 = data3, # the third track you will plot data on
+               label_column = "raw.label.no.units", # what column in your data frame is the labels column
+               section_column = "subclass", # what column in your data frame do you want to group your data by
+               estimate_column = "b", # what column in your data frame is the estimate column
+               pvalue_column = "pval", # what column in your data fram is the Pvalue column
+               pvalue_adjustment = 0.05/22, # what Pvalue significance threshold do you want to set, anything below this threshold will be highlighted as 'significant'
+               confidence_interval_lower_column = "lower_ci", # what column in your data frame is the lower confidence interval column
+               confidence_interval_upper_column = "upper_ci", # what column in your data frame is the upper confidence interval column
+               legend = TRUE, # the legend is always plotted centrally below the circos plot
+               track2_label = "BMI_Yengo_941",
+               track3_label = "WHR_Pulit_316",
+               track4_label = "BF_Lu_7",
+               pvalue_label = "P > 0.05/22")
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_circos_plots/IVW-MPE_BF_Lu_7.png")
+```
+
+___
+
+\  
+
+

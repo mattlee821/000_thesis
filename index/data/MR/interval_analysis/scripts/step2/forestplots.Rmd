@@ -1,0 +1,3218 @@
+---
+title: "Forestplots"
+author: "Matthew Lee"
+date: 
+output:
+  html_document:
+  theme: flatly
+toc: true
+number_sections: true
+toc_float: 
+  smooth_scroll: false
+df_print: paged
+code_download: true
+highlighter: null
+bibliography: /Users/ml16847/OneDrive - University of Bristol/000_writing/thesis/bib/library.bib 
+csl: /Users/ml16847/OneDrive - University of Bristol/000_writing/thesis/csl/nature.csl
+editor_options: 
+  chunk_output_type: console
+---
+  
+<style>
+  body {
+  text-align: justify}
+</style>
+
+```{r environment, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# environment
+library(ggplot2)
+library(dplyr)
+library(knitr)
+library(patchwork)
+library(tidyr)
+library(purrr)
+library(ggforestplot)
+
+source("../../ggplot_my_theme.R")
+
+## colours
+library(wesanderson)
+d1 <- wes_palette("Royal1", type = "discrete")
+d2 <- wes_palette("GrandBudapest2", type = "discrete")
+d3 <- wes_palette("Cavalcanti1", type = "discrete")
+d4 <- wes_palette("Rushmore1", type = "discrete")
+discrete_wes_pal <- c(d1, d2, d3, d4)
+rm(d1,d2,d3,d4)
+colours <- names(wes_palettes)
+discrete_palette <- wes_palette(colours[8], type = "discrete")
+
+# variables
+multiple_testing <- round(0.05/22, 4)
+section_column <- "subclass"
+label_column <- "raw.label.no.units"
+```
+
+
+# Main analysis {.tabset}
+
+## all associations
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+BMI_Yengo_941 <- subset(data , exposure == "BMI_Yengo_941")
+WHR_Pulit_316 <- subset(data , exposure == "WHR_Pulit_316")
+BF_Lu_5 <- subset(data, exposure == "BF_Lu_5")
+
+data_all <- rbind(BMI_Yengo_941, WHR_Pulit_316, BF_Lu_5)
+data_all <- data_all[,c(25,22,4,7,8,9,12,13)]
+xmin <- min(data_all$lower_ci)
+xmax <- max(data_all$upper_ci)
+data_all <- data_all[order(data_all[[section_column]], data_all[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+data_all$exposure <- factor(data_all$exposure, levels = c("BMI_Yengo_941", "WHR_Pulit_316", "BF_Lu_5"))
+
+data_sig_nested <- 
+  data_all %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_main_analysis_all.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  data_sig_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = exposure, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "IVW-MPE effect estimate with 95% CI") +
+                       scale_color_manual(values = c(discrete_palette[3], discrete_palette[1], discrete_palette[5])) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_main_analysis_all.png")
+```
+
+\  
+
+## 'significant' associations
+
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+BMI_Yengo_941 <- subset(data , exposure == "BMI_Yengo_941")
+WHR_Pulit_316 <- subset(data , exposure == "WHR_Pulit_316")
+BF_Lu_5 <- subset(data, exposure == "BF_Lu_5")
+
+# identify significant associations
+BMI_Yengo_941_sig <- subset(BMI_Yengo_941, pval < 0.05/22)
+WHR_Pulit_316_sig <- subset(WHR_Pulit_316, pval < 0.05/22)
+BF_Lu_5_sig <- subset(BF_Lu_5, pval < 0.05/22)
+
+BMI_Yengo_941_sig <- BMI_Yengo_941_sig[,c(2,25,22,4,7,8,9,12,13)]
+WHR_Pulit_316_sig <- WHR_Pulit_316_sig[,c(2,25,22,4,7,8,9,12,13)]
+BF_Lu_5_sig <- BF_Lu_5_sig[,c(2,25,22,4,7,8,9,12,13)]
+
+# merge
+data_sig <- full_join(BMI_Yengo_941_sig, WHR_Pulit_316_sig, by = "id.outcome")
+data_sig <- full_join(data_sig, BF_Lu_5_sig, by = "id.outcome")
+data_sig_label <- as.data.frame(data_sig[,1])
+colnames(data_sig_label) <- "id.outcome"
+data_sig1 <- left_join(data_sig_label, BMI_Yengo_941, by = "id.outcome")
+data_sig2 <- left_join(data_sig_label, WHR_Pulit_316, by = "id.outcome")
+data_sig3 <- left_join(data_sig_label, BF_Lu_5, by = "id.outcome")
+data_sig <- rbind(data_sig1, data_sig2, data_sig3)
+xmin <- min(data_sig$lower_ci)
+xmax <- max(data_sig$upper_ci)
+data_sig <- data_sig[,c(25,22,4,7,8,9)]
+data_sig <- data_sig[order(data_sig[[section_column]], data_sig[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+data_sig$exposure <- factor(data_sig$exposure, levels = c("BMI_Yengo_941", "WHR_Pulit_316", "BF_Lu_5"))
+
+data_sig_nested <- 
+  data_sig %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_main_analysis_significant.png",
+    units = "in", width = 15, height = 20, pointsize = 1, res = 200)
+forestplot_multi <-
+  data_sig_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = exposure, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "IVW-MPE effect estimate with 95% CI") +
+                       scale_color_manual(values = c(discrete_palette[3], discrete_palette[1], discrete_palette[5])) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_main_analysis_significant.png")
+```
+
+\  
+
+## consistent 'significant' associations
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+BMI_Yengo_941 <- subset(data , exposure == "BMI_Yengo_941")
+WHR_Pulit_316 <- subset(data , exposure == "WHR_Pulit_316")
+BF_Lu_5 <- subset(data, exposure == "BF_Lu_5")
+
+# identify significant associations
+BMI_Yengo_941_sig <- subset(BMI_Yengo_941, pval < 0.05/22)
+WHR_Pulit_316_sig <- subset(WHR_Pulit_316, pval < 0.05/22)
+BF_Lu_5_sig <- subset(BF_Lu_5, pval < 0.05/22)
+
+BMI_Yengo_941_sig <- BMI_Yengo_941_sig[,c(25,22,4,7,8,9)]
+WHR_Pulit_316_sig <- WHR_Pulit_316_sig[,c(25,22,4,7,8,9)]
+BF_Lu_5_sig <- BF_Lu_5_sig[,c(25,22,4,7,8,9)]
+
+# merge
+data_sig <- rbind(BMI_Yengo_941_sig, WHR_Pulit_316_sig, BF_Lu_5_sig)
+data_sig1 <- subset(data_sig, raw.label.no.units == "Apolipoprotein A-I")
+data_sig2 <- subset(data_sig, raw.label.no.units == "Phenylalanine")
+data_sig3 <- subset(data_sig, raw.label.no.units == "Tyrosine")
+data_sig_combined <- rbind(data_sig1, data_sig2, data_sig3)
+data_sig_combined$exposure <- factor(data_sig_combined$exposure, levels = c("BMI_Yengo_941", "WHR_Pulit_316", "BF_Lu_5"))
+
+# plot
+##### Packages
+library(ggplot2)
+library(ggforestplot)
+
+##### Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+##### Plot
+png("../../../analysis/step2/1_forestplots/forestplot_main_analysis_consistent_significant.png",
+    units = "in", width = 7, height = 7, pointsize = 1, res = 400)
+forestplot(df = data_sig_combined, 
+           name = raw.label.no.units, 
+           estimate = b, 
+           se = se, 
+           pvalue = pval, 
+           colour = exposure, 
+           shape = NULL, 
+           logodds = FALSE, 
+           psignif = psignif, 
+           ci = ci, 
+           title = "",
+           xlab = "IVW-MPE effect estimate with 95% CI") +
+  scale_color_manual(values = c(discrete_palette[3], discrete_palette[1], discrete_palette[5])) +
+  theme(
+    legend.position = "bottom",
+    legend.title.align = 0,
+    legend.text.align = 0,
+    legend.title = element_blank(),
+    axis.title.x = element_text(hjust = 0.5)
+  ) 
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_main_analysis_consistent_significant.png")
+```
+
+\  
+
+## BMI and WHR 'significant' associations
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+BMI_Yengo_941 <- subset(data , exposure == "BMI_Yengo_941")
+WHR_Pulit_316 <- subset(data , exposure == "WHR_Pulit_316")
+BF_Lu_5 <- subset(data, exposure == "BF_Lu_5")
+
+# identify significant associations
+BMI_Yengo_941_sig <- subset(BMI_Yengo_941, pval < 0.05/22)
+WHR_Pulit_316_sig <- subset(WHR_Pulit_316, pval < 0.05/22)
+BF_Lu_5_sig <- subset(BF_Lu_5, pval < 0.05/22)
+
+BMI_Yengo_941_sig <- BMI_Yengo_941_sig[,c(2,25,22,4,7,8,9,12,13)]
+WHR_Pulit_316_sig <- WHR_Pulit_316_sig[,c(2,25,22,4,7,8,9,12,13)]
+BF_Lu_5_sig <- BF_Lu_5_sig[,c(2,25,22,4,7,8,9,12,13)]
+
+# merge
+data_sig <- full_join(BMI_Yengo_941_sig, WHR_Pulit_316_sig, by = "id.outcome")
+data_sig_label <- as.data.frame(data_sig[,1])
+colnames(data_sig_label) <- "id.outcome"
+data_sig1 <- left_join(data_sig_label, BMI_Yengo_941, by = "id.outcome")
+data_sig2 <- left_join(data_sig_label, WHR_Pulit_316, by = "id.outcome")
+data_sig3 <- left_join(data_sig_label, BF_Lu_5, by = "id.outcome")
+data_sig <- rbind(data_sig1, data_sig2)
+xmin <- min(data_sig$lower_ci)
+xmax <- max(data_sig$upper_ci)
+data_sig <- data_sig[,c(25,22,4,7,8,9)]
+data_sig <- data_sig[order(data_sig[[section_column]], data_sig[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+data_sig$exposure <- factor(data_sig$exposure, levels = c("BMI_Yengo_941", "WHR_Pulit_316"))
+
+data_sig_nested <- 
+  data_sig %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_BMI_WHR_sig.png",
+    units = "in", width = 15, height = 35, pointsize = 10, res = 200)
+forestplot_multi <-
+  data_sig_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = exposure, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "IVW-MPE effect estimate with 95% CI") +
+                       scale_color_manual(values = c(discrete_palette[3], discrete_palette[1], discrete_palette[5])) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_BMI_WHR_sig.png")
+```
+
+\  
+
+## BMI and WHR all associations
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "BMI_Yengo_941")
+data2 <- subset(data , exposure == "WHR_Pulit_316")
+
+# merge
+data <- rbind(data1, data2)
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+data <- data[,c(25,22,4,7,8,9)]
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+data$exposure <- factor(data$exposure, levels = c("BMI_Yengo_941", "WHR_Pulit_316"))
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_BMI_WHR_all.png",
+    units = "in", width = 15, height = 35, pointsize = 10, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = exposure, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "IVW-MPE effect estimate with 95% CI") +
+                       scale_color_manual(values = c(discrete_palette[3], discrete_palette[1], discrete_palette[5])) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_BMI_WHR_all.png")
+```
+
+\  
+
+# Sensitivity analysis {.tabset}
+
+## Non-clumped and clumped analysis {.tabset}
+### BMI_Yengo_941 
+
+* BMI_Yengo_941
+* BMI_Yengo_941_clump
+
+##### Forestplot
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "BMI_Yengo_941")
+data2 <- subset(data , exposure == "BMI_Yengo_941_clump")
+
+# make data frame
+data <- rbind(data1, data2)
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## plot
+
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_BMI_Yengo_941.png",
+    units = "in", width = 15, height = 35, pointsize = 30, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                       name = raw.label.no.units, 
+                                                       estimate = b, 
+                                                       se = se, 
+                                                       pvalue = pval, 
+                                                       colour = exposure, 
+                                                       shape = NULL, 
+                                                       logodds = FALSE, 
+                                                       psignif = psignif,
+                                                       ci = ci,
+                                                       title = .y,
+                                                       xlab = "IVW-MPE effect estimate with 95% CI") +
+                            scale_color_manual(values = discrete_wes_pal) +
+                            theme(
+                              legend.position = "bottom",
+                              legend.title.align = 0,
+                              legend.text.align = 0,
+                              legend.title = element_blank(),
+                              axis.title.x = element_text(hjust = 0.5)) +
+                            ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+  ),
+  # Optional: remove x-axis and legend for all plots except the bottom one
+  gg_groups = ifelse(
+    test = row_number() != n(),
+    yes =
+      purrr::map(gg_groups, ~ . +
+                   theme(
+                     axis.text.x = element_blank(),
+                     axis.title.x = element_blank(),
+                     axis.ticks.x = element_blank(),
+                     plot.margin = unit(c(1, 2, 1, 2), "mm")
+                   ) +
+                   ggplot2::theme(legend.position = "none")),
+    no = gg_groups
+  ),
+  rel_heights = purrr::map(
+    data,  ~ nrow(.) 
+  ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_BMI_Yengo_941.png")
+```
+
+\  
+
+### BMI_Yengo_656 
+
+* BMI_Yengo_656
+* BMI_Yengo_656_clump
+
+##### Forestplot
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "BMI_Yengo_656")
+data2 <- subset(data , exposure == "BMI_Yengo_656_clump")
+
+# make data frame
+data <- rbind(data1, data2)
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## plot
+
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_BMI_Yengo_656.png",
+    units = "in", width = 15, height = 35, pointsize = 30, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                       name = raw.label.no.units, 
+                                                       estimate = b, 
+                                                       se = se, 
+                                                       pvalue = pval, 
+                                                       colour = exposure, 
+                                                       shape = NULL, 
+                                                       logodds = FALSE, 
+                                                       psignif = psignif,
+                                                       ci = ci,
+                                                       title = .y,
+                                                       xlab = "IVW-MPE effect estimate with 95% CI") +
+                            scale_color_manual(values = discrete_wes_pal) +
+                            theme(
+                              legend.position = "bottom",
+                              legend.title.align = 0,
+                              legend.text.align = 0,
+                              legend.title = element_blank(),
+                              axis.title.x = element_text(hjust = 0.5)) +
+                            ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+  ),
+  # Optional: remove x-axis and legend for all plots except the bottom one
+  gg_groups = ifelse(
+    test = row_number() != n(),
+    yes =
+      purrr::map(gg_groups, ~ . +
+                   theme(
+                     axis.text.x = element_blank(),
+                     axis.title.x = element_blank(),
+                     axis.ticks.x = element_blank(),
+                     plot.margin = unit(c(1, 2, 1, 2), "mm")
+                   ) +
+                   ggplot2::theme(legend.position = "none")),
+    no = gg_groups
+  ),
+  rel_heights = purrr::map(
+    data,  ~ nrow(.) 
+  ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_BMI_Yengo_656.png")
+```
+
+\  
+
+
+### BMI_Locke_77 
+
+* BMI_Locke_77
+* BMI_Locke_77_clump
+
+##### Forestplot
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "BMI_Yengo_656")
+data2 <- subset(data , exposure == "BMI_Yengo_656_clump")
+
+# make data frame
+data <- rbind(data1, data2)
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## plot
+
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_BMI_Locke_77.png",
+    units = "in", width = 15, height = 35, pointsize = 30, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                       name = raw.label.no.units, 
+                                                       estimate = b, 
+                                                       se = se, 
+                                                       pvalue = pval, 
+                                                       colour = exposure, 
+                                                       shape = NULL, 
+                                                       logodds = FALSE, 
+                                                       psignif = psignif,
+                                                       ci = ci,
+                                                       title = .y,
+                                                       xlab = "IVW-MPE effect estimate with 95% CI") +
+                            scale_color_manual(values = discrete_wes_pal) +
+                            theme(
+                              legend.position = "bottom",
+                              legend.title.align = 0,
+                              legend.text.align = 0,
+                              legend.title = element_blank(),
+                              axis.title.x = element_text(hjust = 0.5)) +
+                            ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+  ),
+  # Optional: remove x-axis and legend for all plots except the bottom one
+  gg_groups = ifelse(
+    test = row_number() != n(),
+    yes =
+      purrr::map(gg_groups, ~ . +
+                   theme(
+                     axis.text.x = element_blank(),
+                     axis.title.x = element_blank(),
+                     axis.ticks.x = element_blank(),
+                     plot.margin = unit(c(1, 2, 1, 2), "mm")
+                   ) +
+                   ggplot2::theme(legend.position = "none")),
+    no = gg_groups
+  ),
+  rel_heights = purrr::map(
+    data,  ~ nrow(.) 
+  ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_BMI_Locke_77.png")
+```
+
+\  
+
+
+### WHR_Pulit_316 
+
+* WHR_Pulit_316
+* WHR_Pulit_316_clump
+
+##### Forestplot
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "WHR_Pulit_316")
+data2 <- subset(data , exposure == "WHR_Pulit_316_clump")
+
+# make data frame
+data <- rbind(data1, data2)
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## plot
+
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_WHR_Pulit_316.png",
+    units = "in", width = 15, height = 35, pointsize = 30, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                       name = raw.label.no.units, 
+                                                       estimate = b, 
+                                                       se = se, 
+                                                       pvalue = pval, 
+                                                       colour = exposure, 
+                                                       shape = NULL, 
+                                                       logodds = FALSE, 
+                                                       psignif = psignif,
+                                                       ci = ci,
+                                                       title = .y,
+                                                       xlab = "IVW-MPE effect estimate with 95% CI") +
+                            scale_color_manual(values = discrete_wes_pal) +
+                            theme(
+                              legend.position = "bottom",
+                              legend.title.align = 0,
+                              legend.text.align = 0,
+                              legend.title = element_blank(),
+                              axis.title.x = element_text(hjust = 0.5)) +
+                            ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+  ),
+  # Optional: remove x-axis and legend for all plots except the bottom one
+  gg_groups = ifelse(
+    test = row_number() != n(),
+    yes =
+      purrr::map(gg_groups, ~ . +
+                   theme(
+                     axis.text.x = element_blank(),
+                     axis.title.x = element_blank(),
+                     axis.ticks.x = element_blank(),
+                     plot.margin = unit(c(1, 2, 1, 2), "mm")
+                   ) +
+                   ggplot2::theme(legend.position = "none")),
+    no = gg_groups
+  ),
+  rel_heights = purrr::map(
+    data,  ~ nrow(.) 
+  ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_WHR_Pulit_316.png")
+```
+
+\  
+
+### WHR_Shungin_26 
+
+* WHR_Shungin_26
+* WHR_Shungin_26_clump
+
+##### Forestplot
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "WHR_Shungin_26")
+data2 <- subset(data , exposure == "WHR_Shungin_26_clump")
+
+# make data frame
+data <- rbind(data1, data2)
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## plot
+
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_WHR_Shungin_26.png",
+    units = "in", width = 15, height = 35, pointsize = 30, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                       name = raw.label.no.units, 
+                                                       estimate = b, 
+                                                       se = se, 
+                                                       pvalue = pval, 
+                                                       colour = exposure, 
+                                                       shape = NULL, 
+                                                       logodds = FALSE, 
+                                                       psignif = psignif,
+                                                       ci = ci,
+                                                       title = .y,
+                                                       xlab = "IVW-MPE effect estimate with 95% CI") +
+                            scale_color_manual(values = discrete_wes_pal) +
+                            theme(
+                              legend.position = "bottom",
+                              legend.title.align = 0,
+                              legend.text.align = 0,
+                              legend.title = element_blank(),
+                              axis.title.x = element_text(hjust = 0.5)) +
+                            ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+  ),
+  # Optional: remove x-axis and legend for all plots except the bottom one
+  gg_groups = ifelse(
+    test = row_number() != n(),
+    yes =
+      purrr::map(gg_groups, ~ . +
+                   theme(
+                     axis.text.x = element_blank(),
+                     axis.title.x = element_blank(),
+                     axis.ticks.x = element_blank(),
+                     plot.margin = unit(c(1, 2, 1, 2), "mm")
+                   ) +
+                   ggplot2::theme(legend.position = "none")),
+    no = gg_groups
+  ),
+  rel_heights = purrr::map(
+    data,  ~ nrow(.) 
+  ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_WHR_Shungin_26.png")
+```
+
+\  
+
+### BF_Hubel_76 
+
+* BF_Hubel_76
+* BF_Hubel_76
+
+##### Forestplot
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "BF_Hubel_76")
+data2 <- subset(data , exposure == "BF_Hubel_76_clump")
+
+# make data frame
+data <- rbind(data1, data2)
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## plot
+
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_BF_Hubel_76.png",
+    units = "in", width = 15, height = 35, pointsize = 30, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                       name = raw.label.no.units, 
+                                                       estimate = b, 
+                                                       se = se, 
+                                                       pvalue = pval, 
+                                                       colour = exposure, 
+                                                       shape = NULL, 
+                                                       logodds = FALSE, 
+                                                       psignif = psignif,
+                                                       ci = ci,
+                                                       title = .y,
+                                                       xlab = "IVW-MPE effect estimate with 95% CI") +
+                            scale_color_manual(values = discrete_wes_pal) +
+                            theme(
+                              legend.position = "bottom",
+                              legend.title.align = 0,
+                              legend.text.align = 0,
+                              legend.title = element_blank(),
+                              axis.title.x = element_text(hjust = 0.5)) +
+                            ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+  ),
+  # Optional: remove x-axis and legend for all plots except the bottom one
+  gg_groups = ifelse(
+    test = row_number() != n(),
+    yes =
+      purrr::map(gg_groups, ~ . +
+                   theme(
+                     axis.text.x = element_blank(),
+                     axis.title.x = element_blank(),
+                     axis.ticks.x = element_blank(),
+                     plot.margin = unit(c(1, 2, 1, 2), "mm")
+                   ) +
+                   ggplot2::theme(legend.position = "none")),
+    no = gg_groups
+  ),
+  rel_heights = purrr::map(
+    data,  ~ nrow(.) 
+  ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_BF_Hubel_76.png")
+```
+
+\  
+
+
+
+
+### WHRadjBMI_Pulit_346
+
+* WHRadjBMI_Pulit_346
+* WHRadjBMI_Pulit_346_clump
+
+##### Forestplot
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "WHRadjBMI_Pulit_346")
+data2 <- subset(data , exposure == "WHRadjBMI_Pulit_346_clump")
+
+# make data frame
+data <- rbind(data1, data2)
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## plot
+
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_WHRadjBMI_Pulit_346.png",
+    units = "in", width = 15, height = 35, pointsize = 30, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                       name = raw.label.no.units, 
+                                                       estimate = b, 
+                                                       se = se, 
+                                                       pvalue = pval, 
+                                                       colour = exposure, 
+                                                       shape = NULL, 
+                                                       logodds = FALSE, 
+                                                       psignif = psignif,
+                                                       ci = ci,
+                                                       title = .y,
+                                                       xlab = "IVW-MPE effect estimate with 95% CI") +
+                            scale_color_manual(values = discrete_wes_pal) +
+                            theme(
+                              legend.position = "bottom",
+                              legend.title.align = 0,
+                              legend.text.align = 0,
+                              legend.title = element_blank(),
+                              axis.title.x = element_text(hjust = 0.5)) +
+                            ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+  ),
+  # Optional: remove x-axis and legend for all plots except the bottom one
+  gg_groups = ifelse(
+    test = row_number() != n(),
+    yes =
+      purrr::map(gg_groups, ~ . +
+                   theme(
+                     axis.text.x = element_blank(),
+                     axis.title.x = element_blank(),
+                     axis.ticks.x = element_blank(),
+                     plot.margin = unit(c(1, 2, 1, 2), "mm")
+                   ) +
+                   ggplot2::theme(legend.position = "none")),
+    no = gg_groups
+  ),
+  rel_heights = purrr::map(
+    data,  ~ nrow(.) 
+  ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_WHRadjBMI_Pulit_346.png")
+```
+
+\  
+
+### WHRadjBMI_Shungin_53
+
+* WHRadjBMI_Shungin_53
+* WHRadjBMI_Shungin_53_clump
+
+##### Forestplot
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "WHRadjBMI_Shungin_53")
+data2 <- subset(data , exposure == "WHRadjBMI_Shungin_53_clump")
+
+# make data frame
+data <- rbind(data1, data2)
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## plot
+
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_WHRadjBMI_Shungin_53.png",
+    units = "in", width = 15, height = 35, pointsize = 30, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                       name = raw.label.no.units, 
+                                                       estimate = b, 
+                                                       se = se, 
+                                                       pvalue = pval, 
+                                                       colour = exposure, 
+                                                       shape = NULL, 
+                                                       logodds = FALSE, 
+                                                       psignif = psignif,
+                                                       ci = ci,
+                                                       title = .y,
+                                                       xlab = "IVW-MPE effect estimate with 95% CI") +
+                            scale_color_manual(values = discrete_wes_pal) +
+                            theme(
+                              legend.position = "bottom",
+                              legend.title.align = 0,
+                              legend.text.align = 0,
+                              legend.title = element_blank(),
+                              axis.title.x = element_text(hjust = 0.5)) +
+                            ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+  ),
+  # Optional: remove x-axis and legend for all plots except the bottom one
+  gg_groups = ifelse(
+    test = row_number() != n(),
+    yes =
+      purrr::map(gg_groups, ~ . +
+                   theme(
+                     axis.text.x = element_blank(),
+                     axis.title.x = element_blank(),
+                     axis.ticks.x = element_blank(),
+                     plot.margin = unit(c(1, 2, 1, 2), "mm")
+                   ) +
+                   ggplot2::theme(legend.position = "none")),
+    no = gg_groups
+  ),
+  rel_heights = purrr::map(
+    data,  ~ nrow(.) 
+  ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_WHRadjBMI_Shungin_53.png")
+```
+
+\  
+
+## All exposures {.tabset}
+### BMI {.tabset}
+For BMI we had three different exposure SNP sets which we used both non-clumped and clumped:
+
+* BMI_Locke_77
+* BMI_Locke_77_clump
+* BMI_Yengo_656
+* BMI_Yengo_656_clump
+* BMI_Yengo_941
+* BMI_Yengo_941_clump
+
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "BMI_Locke_77")
+data2 <- subset(data , exposure == "BMI_Locke_77_clump")
+data3 <- subset(data , exposure == "BMI_Yengo_656")
+data4 <- subset(data , exposure == "BMI_Yengo_656_clump")
+data5 <- subset(data , exposure == "BMI_Yengo_941")
+data6 <- subset(data , exposure == "BMI_Yengo_941_clump")
+
+# make data frame
+data <- rbind(data1, data2, data3, data4, data5, data6)
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## plot
+
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_BMI_all.png",
+    units = "in", width = 15, height = 35, pointsize = 30, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                       name = raw.label.no.units, 
+                                                       estimate = b, 
+                                                       se = se, 
+                                                       pvalue = pval, 
+                                                       colour = exposure, 
+                                                       shape = NULL, 
+                                                       logodds = FALSE, 
+                                                       psignif = psignif,
+                                                       ci = ci,
+                                                       title = .y,
+                                                       xlab = "IVW-MPE effect estimate with 95% CI") +
+                            scale_color_manual(values = discrete_wes_pal) +
+                            theme(
+                              legend.position = "bottom",
+                              legend.title.align = 0,
+                              legend.text.align = 0,
+                              legend.title = element_blank(),
+                              axis.title.x = element_text(hjust = 0.5)) +
+                            ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+  ),
+  # Optional: remove x-axis and legend for all plots except the bottom one
+  gg_groups = ifelse(
+    test = row_number() != n(),
+    yes =
+      purrr::map(gg_groups, ~ . +
+                   theme(
+                     axis.text.x = element_blank(),
+                     axis.title.x = element_blank(),
+                     axis.ticks.x = element_blank(),
+                     plot.margin = unit(c(1, 2, 1, 2), "mm")
+                   ) +
+                   ggplot2::theme(legend.position = "none")),
+    no = gg_groups
+  ),
+  rel_heights = purrr::map(
+    data,  ~ nrow(.) 
+  ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_BMI_all.png")
+```
+
+\  
+
+### WHR {.tabset}
+For WHR we had two different exposure SNP sets which we used both non-clumped and clumped:
+
+* WHR_Pulit_316
+* WHR_Pulit_316_clump
+* WHR_Shungin_26
+* WHR_Shungin_26_clump
+
+
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "WHR_Pulit_316")
+data2 <- subset(data , exposure == "WHR_Pulit_316_clump")
+data3 <- subset(data , exposure == "WHR_Shungin_26")
+data4 <- subset(data , exposure == "WHR_Shungin_26_clump")
+
+# make data frame
+data <- rbind(data1, data2, data3, data4)
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## plot
+
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_WHR_all.png",
+    units = "in", width = 15, height = 35, pointsize = 30, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                       name = raw.label.no.units, 
+                                                       estimate = b, 
+                                                       se = se, 
+                                                       pvalue = pval, 
+                                                       colour = exposure, 
+                                                       shape = NULL, 
+                                                       logodds = FALSE, 
+                                                       psignif = psignif,
+                                                       ci = ci,
+                                                       title = .y,
+                                                       xlab = "IVW-MPE effect estimate with 95% CI") +
+                            scale_color_manual(values = discrete_wes_pal) +
+                            theme(
+                              legend.position = "bottom",
+                              legend.title.align = 0,
+                              legend.text.align = 0,
+                              legend.title = element_blank(),
+                              axis.title.x = element_text(hjust = 0.5)) +
+                            ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+  ),
+  # Optional: remove x-axis and legend for all plots except the bottom one
+  gg_groups = ifelse(
+    test = row_number() != n(),
+    yes =
+      purrr::map(gg_groups, ~ . +
+                   theme(
+                     axis.text.x = element_blank(),
+                     axis.title.x = element_blank(),
+                     axis.ticks.x = element_blank(),
+                     plot.margin = unit(c(1, 2, 1, 2), "mm")
+                   ) +
+                   ggplot2::theme(legend.position = "none")),
+    no = gg_groups
+  ),
+  rel_heights = purrr::map(
+    data,  ~ nrow(.) 
+  ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_WHR_all.png")
+```
+
+\  
+
+### BF% {.tabset}
+For BF% we had three different exposure SNP sets, only one of which was clumped:
+
+* BF_Lu_5
+* BF_Lu_7
+* BF_Hubel_76
+* BF_Hubel_76_clump
+
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "BF_Hubel_76")
+data2 <- subset(data , exposure == "BF_Hubel_76_clump")
+data3 <- subset(data , exposure == "BF_Lu_5")
+data4 <- subset(data , exposure == "BF_Lu_7")
+
+# make data frame
+data <- rbind(data1, data2, data3, data4)
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## plot
+
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_BF_all.png",
+    units = "in", width = 15, height = 35, pointsize = 30, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                       name = raw.label.no.units, 
+                                                       estimate = b, 
+                                                       se = se, 
+                                                       pvalue = pval, 
+                                                       colour = exposure, 
+                                                       shape = NULL, 
+                                                       logodds = FALSE, 
+                                                       psignif = psignif,
+                                                       ci = ci,
+                                                       title = .y,
+                                                       xlab = "IVW-MPE effect estimate with 95% CI") +
+                            scale_color_manual(values = discrete_wes_pal) +
+                            theme(
+                              legend.position = "bottom",
+                              legend.title.align = 0,
+                              legend.text.align = 0,
+                              legend.title = element_blank(),
+                              axis.title.x = element_text(hjust = 0.5)) +
+                            ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+  ),
+  # Optional: remove x-axis and legend for all plots except the bottom one
+  gg_groups = ifelse(
+    test = row_number() != n(),
+    yes =
+      purrr::map(gg_groups, ~ . +
+                   theme(
+                     axis.text.x = element_blank(),
+                     axis.title.x = element_blank(),
+                     axis.ticks.x = element_blank(),
+                     plot.margin = unit(c(1, 2, 1, 2), "mm")
+                   ) +
+                   ggplot2::theme(legend.position = "none")),
+    no = gg_groups
+  ),
+  rel_heights = purrr::map(
+    data,  ~ nrow(.) 
+  ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_BF_all.png")
+```
+
+\  
+
+### WHRadjBMI {.tabset}
+For WHRadjBMI we had two different exposure SNP sets which we used both non-clumped and clumped:
+
+* WHRadjBMI_Pulit_346
+* WHRadjBMI_Pulit_346_clump
+* WHRadjBMI_Shungin_53
+* WHRadjBMI_Shungin_53_clump
+
+```{r, eval=TRUE, include=FALSE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+data <- subset(data, method == "Inverse variance weighted (multiplicative random effects)")
+data1 <- subset(data , exposure == "WHRadjBMI_Pulit_346")
+data2 <- subset(data , exposure == "WHRadjBMI_Pulit_346_clump")
+data3 <- subset(data , exposure == "WHRadjBMI_Shungin_53")
+data4 <- subset(data , exposure == "WHRadjBMI_Shungin_53_clump")
+
+# make data frame
+data <- rbind(data1, data2, data3, data4)
+data <- data[order(data[[section_column]], data[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## plot
+
+
+data_nested <- 
+  data %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_WHRadjBMI_all.png",
+    units = "in", width = 15, height = 35, pointsize = 30, res = 200)
+forestplot_multi <-
+  data_nested %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                       name = raw.label.no.units, 
+                                                       estimate = b, 
+                                                       se = se, 
+                                                       pvalue = pval, 
+                                                       colour = exposure, 
+                                                       shape = NULL, 
+                                                       logodds = FALSE, 
+                                                       psignif = psignif,
+                                                       ci = ci,
+                                                       title = .y,
+                                                       xlab = "IVW-MPE effect estimate with 95% CI") +
+                            scale_color_manual(values = discrete_wes_pal) +
+                            theme(
+                              legend.position = "bottom",
+                              legend.title.align = 0,
+                              legend.text.align = 0,
+                              legend.title = element_blank(),
+                              axis.title.x = element_text(hjust = 0.5)) +
+                            ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+  ),
+  # Optional: remove x-axis and legend for all plots except the bottom one
+  gg_groups = ifelse(
+    test = row_number() != n(),
+    yes =
+      purrr::map(gg_groups, ~ . +
+                   theme(
+                     axis.text.x = element_blank(),
+                     axis.title.x = element_blank(),
+                     axis.ticks.x = element_blank(),
+                     plot.margin = unit(c(1, 2, 1, 2), "mm")
+                   ) +
+                   ggplot2::theme(legend.position = "none")),
+    no = gg_groups
+  ),
+  rel_heights = purrr::map(
+    data,  ~ nrow(.) 
+  ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_WHRadjBMI_all.png")
+```
+
+\  
+
+## MR methods {.tabset}
+#### BMI {.tabset}
+##### BMI_Locke_77
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "BMI_Locke_77")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_BMI_Locke_77.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for BMI_Locke_77") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_BMI_Locke_77.png")
+```
+
+\  
+
+##### BMI_Locke_77_clump
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "BMI_Locke_77_clump")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_BMI_Locke_77_clump.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for BMI_Locke_77_clump") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_BMI_Locke_77_clump.png")
+```
+
+\  
+
+##### BMI_Yengo_656
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "BMI_Yengo_656")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_BMI_Yengo_656.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for BMI_Yengo_656") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_BMI_Yengo_656.png")
+```
+
+\  
+
+##### BMI_Yengo_656_clump
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "BMI_Yengo_656_clump")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_BMI_Yengo_656_clump.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for BMI_Yengo_656_clump") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_BMI_Yengo_656_clump.png")
+```
+
+\  
+
+##### BMI_Yengo_941
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "BMI_Yengo_941")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_BMI_Yengo_941.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for BMI_Yengo_941") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_BMI_Yengo_941.png")
+```
+
+\  
+
+##### BMI_Yengo_941_clump
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "BMI_Yengo_941_clump")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_BMI_Yengo_941_clump.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for BMI_Yengo_941_clump") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_BMI_Yengo_941_clump.png")
+```
+
+\  
+
+#### WHR {.tabset}
+##### WHR_Pulit_316
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "WHR_Pulit_316")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_WHR_Pulit_316.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for WHR_Pulit_316") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_WHR_Pulit_316.png")
+```
+
+\  
+
+##### WHR_Pulit_316_clump
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "WHR_Pulit_316_clump")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_WHR_Pulit_316_clump.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for WHR_Pulit_316_clump") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_WHR_Pulit_316_clump.png")
+```
+
+\  
+
+##### WHR_Shungin_26
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "WHR_Shungin_26")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_WHR_Shungin_26.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for WHR_Shungin_26") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_WHR_Shungin_26.png")
+```
+
+\  
+
+##### WHR_Shungin_26_clump
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "WHR_Shungin_26_clump")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_WHR_Shungin_26_clump.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for WHR_Shungin_26_clump") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_WHR_Shungin_26_clump.png")
+```
+
+\  
+
+#### BF% {.tabset}
+##### BF_Hubel_76
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "BF_Hubel_76")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_BF_Hubel_76.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for BF_Hubel_76") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_BF_Hubel_76.png")
+```
+
+\  
+
+##### BF_Hubel_76_clump
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "BF_Hubel_76_clump")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_BF_Hubel_76_clump.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for BF_Hubel_76_clump") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_BF_Hubel_76_clump.png")
+```
+
+\  
+
+##### BF_Lu_5
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "BF_Lu_5")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_BF_Lu_5.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for BF_Lu_5") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_BF_Lu_5.png")
+```
+
+\  
+
+##### BF_Lu_7
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "BF_Lu_7")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_BF_Lu_7.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for BF_Lu_7") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_BF_Lu_7.png")
+```
+
+\  
+
+
+
+
+
+
+
+
+
+
+#### WHRadjBMI {.tabset}
+##### WHRadjBMI_Pulit_346
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "WHRadjBMI_Pulit_346")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_WHRadjBMI_Pulit_346.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for WHRadjBMI_Pulit_346") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_WHRadjBMI_Pulit_346.png")
+```
+
+\  
+
+##### WHRadjBMI_Pulit_346_clump
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "WHRadjBMI_Pulit_346_clump")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_WHRadjBMI_Pulit_346_clump.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for WHRadjBMI_Pulit_346_clump") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_WHRadjBMI_Pulit_346_clump.png")
+```
+
+\  
+
+##### WHRadjBMI_Shungin_53
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "WHRadjBMI_Shungin_53")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_WHRadjBMI_Shungin_53.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for WHRadjBMI_Shungin_53") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_WHRadjBMI_Shungin_53.png")
+```
+
+\  
+
+##### WHRadjBMI_Shungin_53_clump
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+# data ==== 
+data <- read.table("../../../analysis/step1/combined/001_combined_mr_results_kettunen.txt", header = T, sep = "\t")
+
+a <- subset(data , exposure == "WHRadjBMI_Shungin_53_clump")
+b <- subset(a , method == "Inverse variance weighted (multiplicative random effects)")
+c <- subset(a , method == "MR Egger")
+d <- subset(a , method == "Weighted median")
+e <- subset(a , method == "Weighted mode")
+
+f <- rbind(b,c,d,e)
+f <- f[,c(25,22,5,7,8,9,12,13)]
+xmin <- min(f$lower_ci)
+xmax <- max(f$upper_ci)
+f <- f[order(f[[section_column]], f[[label_column]]),]
+
+# plot ====
+
+## Plotting variables
+ci <- 0.95
+psignif <- 0.05/22
+
+## plot
+f$method <- factor(f$method, levels = c("Inverse variance weighted (multiplicative random effects)", "MR Egger", "Weighted median", "Weighted mode"))
+
+g <- 
+  f %>%
+  group_by(subclass) %>%
+  nest()
+
+png("../../../analysis/step2/1_forestplots/forestplot_methods_WHRadjBMI_Shungin_53_clump.png",
+    units = "in", width = 15, height = 35, pointsize = 1, res = 200)
+forestplot_multi <-
+  g %>%
+  mutate(gg_groups = map2(data, subclass, ~ forestplot(df = .x, 
+                                                  name = raw.label.no.units, 
+                                                  estimate = b, 
+                                                  se = se, 
+                                                  pvalue = pval, 
+                                                  colour = method, 
+                                                  shape = NULL, 
+                                                  logodds = FALSE, 
+                                                  psignif = psignif,
+                                                  ci = ci,
+                                                  title = .y,
+                                                  xlab = "Effect estimate and 95% CI for WHRadjBMI_Shungin_53_clump") +
+                       scale_color_manual(values = discrete_wes_pal) +
+                       theme(
+                         legend.position = "bottom",
+                         legend.title.align = 0,
+                         legend.text.align = 0,
+                         legend.title = element_blank(),
+                         axis.title.x = element_text(hjust = 0.5)) +
+                       ggplot2::coord_cartesian(xlim = c(xmin, xmax))
+                     ),
+         # Optional: remove x-axis and legend for all plots except the bottom one
+         gg_groups = ifelse(
+           test = row_number() != n(),
+           yes =
+             purrr::map(gg_groups, ~ . +
+                          theme(
+                            axis.text.x = element_blank(),
+                            axis.title.x = element_blank(),
+                            axis.ticks.x = element_blank(),
+                            plot.margin = unit(c(1, 2, 1, 2), "mm")
+                          ) +
+                          ggplot2::theme(legend.position = "none")),
+           no = gg_groups
+         ),
+         rel_heights = purrr::map(
+           data,  ~ nrow(.) 
+         ) %>% unlist()
+  )
+
+patchwork::wrap_plots(
+  forestplot_multi$gg_groups,
+  ncol = 1, 
+  heights = forestplot_multi$rel_heights
+)
+dev.off()
+```
+```{r, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, cache=TRUE, fig.align='center', comment=""}
+knitr::include_graphics("../../../analysis/step2/1_forestplots/forestplot_methods_WHRadjBMI_Shungin_53_clump.png")
+```
+
+\  
+
+
+
+
+
+
+
+
+
+

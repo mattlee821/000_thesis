@@ -1,0 +1,616 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+Yengo BMI EU sex combined 941 SNPs	838	Acetoacetate || id:838	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1032.43625910977	908	0.00246274879630766
+Yengo BMI EU sex combined 941 SNPs	838	Acetoacetate || id:838	Yengo BMI EU sex combined 941 SNPs	MR Egger	1029.74323777528	907	0.00274510535043815
+Yengo BMI EU sex combined 941 SNPs	838	Acetoacetate || id:838	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1032.43625910977	908	0.00246274879630762
+Yengo BMI EU sex combined 941 SNPs	838	Acetoacetate || id:838	Yengo BMI EU sex combined 941 SNPs	IVW radial	1032.43600298071	908	0.00246279105407602
+Yengo BMI EU sex combined 941 SNPs	838	Acetoacetate || id:838	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.233061359444373	908	1
+Yengo BMI EU sex combined 941 SNPs	839	Acetate || id:839	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	991.601346551412	909	0.028911481668324
+Yengo BMI EU sex combined 941 SNPs	839	Acetate || id:839	Yengo BMI EU sex combined 941 SNPs	MR Egger	987.343370547187	908	0.0339407053347479
+Yengo BMI EU sex combined 941 SNPs	839	Acetate || id:839	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	991.678828548885	909	0.0287984970214945
+Yengo BMI EU sex combined 941 SNPs	839	Acetate || id:839	Yengo BMI EU sex combined 941 SNPs	IVW radial	991.547273756313	909	0.0289905524574063
+Yengo BMI EU sex combined 941 SNPs	839	Acetate || id:839	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.163016911075832	909	1
+Yengo BMI EU sex combined 941 SNPs	840	Alanine || id:840	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1119.34276974778	909	1.9903558955782e-06
+Yengo BMI EU sex combined 941 SNPs	840	Alanine || id:840	Yengo BMI EU sex combined 941 SNPs	MR Egger	1119.13579035938	908	1.82120772117369e-06
+Yengo BMI EU sex combined 941 SNPs	840	Alanine || id:840	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1119.35724844126	909	1.98752348220179e-06
+Yengo BMI EU sex combined 941 SNPs	840	Alanine || id:840	Yengo BMI EU sex combined 941 SNPs	IVW radial	1119.3289675696	909	1.99305958862208e-06
+Yengo BMI EU sex combined 941 SNPs	840	Alanine || id:840	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.181830566399897	909	1
+Yengo BMI EU sex combined 941 SNPs	841	Albumin || id:841	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	910.565623998306	908	0.469793087546037
+Yengo BMI EU sex combined 941 SNPs	841	Albumin || id:841	Yengo BMI EU sex combined 941 SNPs	MR Egger	907.37447664251	907	0.490249152181217
+Yengo BMI EU sex combined 941 SNPs	841	Albumin || id:841	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	910.588820552792	908	0.469576978848019
+Yengo BMI EU sex combined 941 SNPs	841	Albumin || id:841	Yengo BMI EU sex combined 941 SNPs	IVW radial	910.543772965097	908	0.469996672307968
+Yengo BMI EU sex combined 941 SNPs	841	Albumin || id:841	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.187430089412574	908	1
+Yengo BMI EU sex combined 941 SNPs	842	Apolipoprotein A-I || id:842	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1091.19311620693	908	2.50655061617723e-05
+Yengo BMI EU sex combined 941 SNPs	842	Apolipoprotein A-I || id:842	Yengo BMI EU sex combined 941 SNPs	MR Egger	1086.68302036451	907	3.38895072530998e-05
+Yengo BMI EU sex combined 941 SNPs	842	Apolipoprotein A-I || id:842	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1091.28873553752	908	2.4853318194117e-05
+Yengo BMI EU sex combined 941 SNPs	842	Apolipoprotein A-I || id:842	Yengo BMI EU sex combined 941 SNPs	IVW radial	1091.12525155975	908	2.52171520547358e-05
+Yengo BMI EU sex combined 941 SNPs	842	Apolipoprotein A-I || id:842	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.222094244868592	908	1
+Yengo BMI EU sex combined 941 SNPs	843	Apolipoprotein B || id:843	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1191.57687455933	907	5.19150179615271e-10
+Yengo BMI EU sex combined 941 SNPs	843	Apolipoprotein B || id:843	Yengo BMI EU sex combined 941 SNPs	MR Egger	1182.24847582644	906	1.40406917733915e-09
+Yengo BMI EU sex combined 941 SNPs	843	Apolipoprotein B || id:843	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1191.74450237503	907	5.08573687649751e-10
+Yengo BMI EU sex combined 941 SNPs	843	Apolipoprotein B || id:843	Yengo BMI EU sex combined 941 SNPs	IVW radial	1191.46556690404	907	5.26291860777262e-10
+Yengo BMI EU sex combined 941 SNPs	843	Apolipoprotein B || id:843	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.227779790136629	907	1
+Yengo BMI EU sex combined 941 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1067.01615813548	907	0.000177265705110878
+Yengo BMI EU sex combined 941 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Yengo BMI EU sex combined 941 SNPs	MR Egger	1060.1032095893	906	0.000281722157719854
+Yengo BMI EU sex combined 941 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1067.07319186281	907	0.000176453408811899
+Yengo BMI EU sex combined 941 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Yengo BMI EU sex combined 941 SNPs	IVW radial	1066.98103165225	907	0.000177767743097207
+Yengo BMI EU sex combined 941 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.289445407727043	907	1
+Yengo BMI EU sex combined 941 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1064.92175131736	907	0.000209657718530243
+Yengo BMI EU sex combined 941 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Yengo BMI EU sex combined 941 SNPs	MR Egger	1053.88659690783	906	0.00045532329259739
+Yengo BMI EU sex combined 941 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1064.9971450118	907	0.000208400803209386
+Yengo BMI EU sex combined 941 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Yengo BMI EU sex combined 941 SNPs	IVW radial	1064.88049927229	907	0.000210348464033834
+Yengo BMI EU sex combined 941 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.299016700868839	907	1
+Yengo BMI EU sex combined 941 SNPs	846	3-hydroxybutyrate || id:846	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	895.863065637849	909	0.615600214835797
+Yengo BMI EU sex combined 941 SNPs	846	3-hydroxybutyrate || id:846	Yengo BMI EU sex combined 941 SNPs	MR Egger	895.242477383397	908	0.612224064458044
+Yengo BMI EU sex combined 941 SNPs	846	3-hydroxybutyrate || id:846	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	895.879141439558	909	0.615454757392555
+Yengo BMI EU sex combined 941 SNPs	846	3-hydroxybutyrate || id:846	Yengo BMI EU sex combined 941 SNPs	IVW radial	895.847274840813	909	0.615743079343589
+Yengo BMI EU sex combined 941 SNPs	846	3-hydroxybutyrate || id:846	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.178426563352656	909	1
+Yengo BMI EU sex combined 941 SNPs	847	Average number of methylene groups per double bond || id:847	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1047.33677125384	907	0.000804246679468078
+Yengo BMI EU sex combined 941 SNPs	847	Average number of methylene groups per double bond || id:847	Yengo BMI EU sex combined 941 SNPs	MR Egger	1036.00924831927	906	0.00166932598539648
+Yengo BMI EU sex combined 941 SNPs	847	Average number of methylene groups per double bond || id:847	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1047.43277325543	907	0.000798617956776964
+Yengo BMI EU sex combined 941 SNPs	847	Average number of methylene groups per double bond || id:847	Yengo BMI EU sex combined 941 SNPs	IVW radial	1047.28329553929	907	0.000807397991762105
+Yengo BMI EU sex combined 941 SNPs	847	Average number of methylene groups per double bond || id:847	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.291624542550848	907	1
+Yengo BMI EU sex combined 941 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	932.508125586401	908	0.279062985227664
+Yengo BMI EU sex combined 941 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Yengo BMI EU sex combined 941 SNPs	MR Egger	924.604196153336	907	0.334939263924939
+Yengo BMI EU sex combined 941 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	932.543466072329	908	0.278789260752616
+Yengo BMI EU sex combined 941 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Yengo BMI EU sex combined 941 SNPs	IVW radial	932.481531972573	908	0.279269052794898
+Yengo BMI EU sex combined 941 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.194132681508797	908	1
+Yengo BMI EU sex combined 941 SNPs	849	Citrate || id:849	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	990.832776584616	909	0.0300526213556055
+Yengo BMI EU sex combined 941 SNPs	849	Citrate || id:849	Yengo BMI EU sex combined 941 SNPs	MR Egger	988.131471981529	908	0.0326440601715613
+Yengo BMI EU sex combined 941 SNPs	849	Citrate || id:849	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	990.847252795983	909	0.0300307820887648
+Yengo BMI EU sex combined 941 SNPs	849	Citrate || id:849	Yengo BMI EU sex combined 941 SNPs	IVW radial	990.817326840389	909	0.0300759440832138
+Yengo BMI EU sex combined 941 SNPs	849	Citrate || id:849	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.170356957593176	909	1
+Yengo BMI EU sex combined 941 SNPs	850	Creatinine || id:850	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1099.43415489786	909	1.31638197808997e-05
+Yengo BMI EU sex combined 941 SNPs	850	Creatinine || id:850	Yengo BMI EU sex combined 941 SNPs	MR Egger	1099.2233633968	908	1.21357637891503e-05
+Yengo BMI EU sex combined 941 SNPs	850	Creatinine || id:850	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1099.44478078033	909	1.31510416428461e-05
+Yengo BMI EU sex combined 941 SNPs	850	Creatinine || id:850	Yengo BMI EU sex combined 941 SNPs	IVW radial	1099.42306379335	909	1.31771700515116e-05
+Yengo BMI EU sex combined 941 SNPs	850	Creatinine || id:850	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.181787711365001	909	1
+Yengo BMI EU sex combined 941 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1050.46128665333	908	0.000691741032232544
+Yengo BMI EU sex combined 941 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Yengo BMI EU sex combined 941 SNPs	MR Egger	1042.75605426527	907	0.00111985251281227
+Yengo BMI EU sex combined 941 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1050.52742103215	908	0.000688368848874517
+Yengo BMI EU sex combined 941 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Yengo BMI EU sex combined 941 SNPs	IVW radial	1050.42170595448	908	0.000693766594787497
+Yengo BMI EU sex combined 941 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.259513482806815	908	1
+Yengo BMI EU sex combined 941 SNPs	852	22:6, docosahexaenoic acid || id:852	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1022.49965860067	908	0.00470130003906846
+Yengo BMI EU sex combined 941 SNPs	852	22:6, docosahexaenoic acid || id:852	Yengo BMI EU sex combined 941 SNPs	MR Egger	1022.49820368647	907	0.00439597843277713
+Yengo BMI EU sex combined 941 SNPs	852	22:6, docosahexaenoic acid || id:852	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1022.49965860067	908	0.0047013000390684
+Yengo BMI EU sex combined 941 SNPs	852	22:6, docosahexaenoic acid || id:852	Yengo BMI EU sex combined 941 SNPs	IVW radial	1022.49888297615	908	0.0047015302765295
+Yengo BMI EU sex combined 941 SNPs	852	22:6, docosahexaenoic acid || id:852	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.303194622342999	908	1
+Yengo BMI EU sex combined 941 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1059.55774925284	907	0.00031985267743006
+Yengo BMI EU sex combined 941 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Yengo BMI EU sex combined 941 SNPs	MR Egger	1056.89778268574	906	0.000361504377269457
+Yengo BMI EU sex combined 941 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1059.55774925284	907	0.000319852677430055
+Yengo BMI EU sex combined 941 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Yengo BMI EU sex combined 941 SNPs	IVW radial	1059.55564024984	907	0.000319905125138782
+Yengo BMI EU sex combined 941 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.324378061672632	907	1
+Yengo BMI EU sex combined 941 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	955.328779100149	907	0.129079913649318
+Yengo BMI EU sex combined 941 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Yengo BMI EU sex combined 941 SNPs	MR Egger	953.566417080252	906	0.132628947207957
+Yengo BMI EU sex combined 941 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	955.348858593949	907	0.128984070587745
+Yengo BMI EU sex combined 941 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Yengo BMI EU sex combined 941 SNPs	IVW radial	955.308561477345	907	0.129176467256384
+Yengo BMI EU sex combined 941 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.294079152337741	907	1
+Yengo BMI EU sex combined 941 SNPs	855	Omega-3 fatty acids || id:855	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1020.20207445757	907	0.005081769173992
+Yengo BMI EU sex combined 941 SNPs	855	Omega-3 fatty acids || id:855	Yengo BMI EU sex combined 941 SNPs	MR Egger	1020.09855830041	906	0.00478490711469317
+Yengo BMI EU sex combined 941 SNPs	855	Omega-3 fatty acids || id:855	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1020.20207445757	907	0.00508176917399203
+Yengo BMI EU sex combined 941 SNPs	855	Omega-3 fatty acids || id:855	Yengo BMI EU sex combined 941 SNPs	IVW radial	1020.19037519226	907	0.00508549742074514
+Yengo BMI EU sex combined 941 SNPs	855	Omega-3 fatty acids || id:855	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.310780484449453	907	1
+Yengo BMI EU sex combined 941 SNPs	856	Omega-6 fatty acids || id:856	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	984.809251162109	907	0.0365135078549064
+Yengo BMI EU sex combined 941 SNPs	856	Omega-6 fatty acids || id:856	Yengo BMI EU sex combined 941 SNPs	MR Egger	984.095456669181	906	0.0359332597343209
+Yengo BMI EU sex combined 941 SNPs	856	Omega-6 fatty acids || id:856	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	984.809251162109	907	0.0365135078549068
+Yengo BMI EU sex combined 941 SNPs	856	Omega-6 fatty acids || id:856	Yengo BMI EU sex combined 941 SNPs	IVW radial	984.801591003731	907	0.0365271313739689
+Yengo BMI EU sex combined 941 SNPs	856	Omega-6 fatty acids || id:856	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.304984020072642	907	1
+Yengo BMI EU sex combined 941 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1030.14447629753	907	0.00267285514293237
+Yengo BMI EU sex combined 941 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Yengo BMI EU sex combined 941 SNPs	MR Egger	1020.50482748552	906	0.00466366284031274
+Yengo BMI EU sex combined 941 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1030.21869260618	907	0.00265968291834708
+Yengo BMI EU sex combined 941 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Yengo BMI EU sex combined 941 SNPs	IVW radial	1030.10717682361	907	0.00267949766804796
+Yengo BMI EU sex combined 941 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.318550145230837	907	1
+Yengo BMI EU sex combined 941 SNPs	858	Free cholesterol || id:858	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1005.59330742864	907	0.0121779752918638
+Yengo BMI EU sex combined 941 SNPs	858	Free cholesterol || id:858	Yengo BMI EU sex combined 941 SNPs	MR Egger	1005.40323318571	906	0.0115920443784655
+Yengo BMI EU sex combined 941 SNPs	858	Free cholesterol || id:858	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1005.59330742864	907	0.0121779752918637
+Yengo BMI EU sex combined 941 SNPs	858	Free cholesterol || id:858	Yengo BMI EU sex combined 941 SNPs	IVW radial	1005.59212160486	907	0.0121787977370268
+Yengo BMI EU sex combined 941 SNPs	858	Free cholesterol || id:858	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.292687054799823	907	1
+Yengo BMI EU sex combined 941 SNPs	859	Glucose || id:859	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1001.89849982208	909	0.0168271431854183
+Yengo BMI EU sex combined 941 SNPs	859	Glucose || id:859	Yengo BMI EU sex combined 941 SNPs	MR Egger	1001.1495531939	908	0.0165525043114227
+Yengo BMI EU sex combined 941 SNPs	859	Glucose || id:859	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1001.92064932362	909	0.0168068029677919
+Yengo BMI EU sex combined 941 SNPs	859	Glucose || id:859	Yengo BMI EU sex combined 941 SNPs	IVW radial	1001.87530023791	909	0.0168484705997815
+Yengo BMI EU sex combined 941 SNPs	859	Glucose || id:859	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.160056769870891	909	1
+Yengo BMI EU sex combined 941 SNPs	860	Glutamine || id:860	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1023.12369053972	910	0.00516484708071752
+Yengo BMI EU sex combined 941 SNPs	860	Glutamine || id:860	Yengo BMI EU sex combined 941 SNPs	MR Egger	1014.97904901638	909	0.00796473817432773
+Yengo BMI EU sex combined 941 SNPs	860	Glutamine || id:860	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1023.1740001723	910	0.00514863204198507
+Yengo BMI EU sex combined 941 SNPs	860	Glutamine || id:860	Yengo BMI EU sex combined 941 SNPs	IVW radial	1023.09274322427	910	0.00517484437539487
+Yengo BMI EU sex combined 941 SNPs	860	Glutamine || id:860	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.163917205347099	910	1
+Yengo BMI EU sex combined 941 SNPs	861	Glycerol || id:861	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	931.762474147688	909	0.292854114150439
+Yengo BMI EU sex combined 941 SNPs	861	Glycerol || id:861	Yengo BMI EU sex combined 941 SNPs	MR Egger	926.074349342663	908	0.331065547066429
+Yengo BMI EU sex combined 941 SNPs	861	Glycerol || id:861	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	931.78089652514	909	0.292707993428275
+Yengo BMI EU sex combined 941 SNPs	861	Glycerol || id:861	Yengo BMI EU sex combined 941 SNPs	IVW radial	931.74446634888	909	0.292996981136026
+Yengo BMI EU sex combined 941 SNPs	861	Glycerol || id:861	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.185153536532651	909	1
+Yengo BMI EU sex combined 941 SNPs	862	Glycoproteins || id:862	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1722.4795254898	908	4.9919019084311e-53
+Yengo BMI EU sex combined 941 SNPs	862	Glycoproteins || id:862	Yengo BMI EU sex combined 941 SNPs	MR Egger	1721.31969015161	907	4.76596388454686e-53
+Yengo BMI EU sex combined 941 SNPs	862	Glycoproteins || id:862	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1722.49519003577	908	4.97335352378848e-53
+Yengo BMI EU sex combined 941 SNPs	862	Glycoproteins || id:862	Yengo BMI EU sex combined 941 SNPs	IVW radial	1722.45196485402	908	5.02470408278928e-53
+Yengo BMI EU sex combined 941 SNPs	862	Glycoproteins || id:862	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.309604853408418	908	1
+Yengo BMI EU sex combined 941 SNPs	863	Glycoprotein acetyls || id:863	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1050.99898476653	908	0.000664763801439354
+Yengo BMI EU sex combined 941 SNPs	863	Glycoprotein acetyls || id:863	Yengo BMI EU sex combined 941 SNPs	MR Egger	1030.97920450023	907	0.00252807834460064
+Yengo BMI EU sex combined 941 SNPs	863	Glycoprotein acetyls || id:863	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1051.32178603848	908	0.000649042292952435
+Yengo BMI EU sex combined 941 SNPs	863	Glycoprotein acetyls || id:863	Yengo BMI EU sex combined 941 SNPs	IVW radial	1050.75776999142	908	0.000676742475259495
+Yengo BMI EU sex combined 941 SNPs	863	Glycoprotein acetyls || id:863	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.196728257554271	908	1
+Yengo BMI EU sex combined 941 SNPs	864	Total cholesterol in HDL || id:864	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1207.7210504686	907	6.87430894925718e-11
+Yengo BMI EU sex combined 941 SNPs	864	Total cholesterol in HDL || id:864	Yengo BMI EU sex combined 941 SNPs	MR Egger	1196.84315308191	906	2.34783909219516e-10
+Yengo BMI EU sex combined 941 SNPs	864	Total cholesterol in HDL || id:864	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1208.05476968012	907	6.58742976719495e-11
+Yengo BMI EU sex combined 941 SNPs	864	Total cholesterol in HDL || id:864	Yengo BMI EU sex combined 941 SNPs	IVW radial	1207.45495384814	907	7.11181255783566e-11
+Yengo BMI EU sex combined 941 SNPs	864	Total cholesterol in HDL || id:864	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.218261803367337	907	1
+Yengo BMI EU sex combined 941 SNPs	865	Mean diameter for HDL particles || id:865	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1136.52922374639	908	3.10648010536532e-07
+Yengo BMI EU sex combined 941 SNPs	865	Mean diameter for HDL particles || id:865	Yengo BMI EU sex combined 941 SNPs	MR Egger	1106.98579554011	907	5.30588101271644e-06
+Yengo BMI EU sex combined 941 SNPs	865	Mean diameter for HDL particles || id:865	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1136.75035789084	908	3.03540762944559e-07
+Yengo BMI EU sex combined 941 SNPs	865	Mean diameter for HDL particles || id:865	Yengo BMI EU sex combined 941 SNPs	IVW radial	1136.36924839072	908	3.15889901841217e-07
+Yengo BMI EU sex combined 941 SNPs	865	Mean diameter for HDL particles || id:865	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.242777647241498	908	1
+Yengo BMI EU sex combined 941 SNPs	866	Histidine || id:866	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	947.311848988183	908	0.177456752440468
+Yengo BMI EU sex combined 941 SNPs	866	Histidine || id:866	Yengo BMI EU sex combined 941 SNPs	MR Egger	946.599359096561	907	0.17562743433953
+Yengo BMI EU sex combined 941 SNPs	866	Histidine || id:866	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	947.311848988183	908	0.17745675244047
+Yengo BMI EU sex combined 941 SNPs	866	Histidine || id:866	Yengo BMI EU sex combined 941 SNPs	IVW radial	947.299059551281	908	0.177532636518403
+Yengo BMI EU sex combined 941 SNPs	866	Histidine || id:866	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.183123518120063	908	1
+Yengo BMI EU sex combined 941 SNPs	867	Total cholesterol in IDL || id:867	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1123.57988948841	908	1.17048677394489e-06
+Yengo BMI EU sex combined 941 SNPs	867	Total cholesterol in IDL || id:867	Yengo BMI EU sex combined 941 SNPs	MR Egger	1121.41407142502	907	1.30087725714216e-06
+Yengo BMI EU sex combined 941 SNPs	867	Total cholesterol in IDL || id:867	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1123.62327673003	908	1.16540696240579e-06
+Yengo BMI EU sex combined 941 SNPs	867	Total cholesterol in IDL || id:867	Yengo BMI EU sex combined 941 SNPs	IVW radial	1123.54278377417	908	1.17484810103852e-06
+Yengo BMI EU sex combined 941 SNPs	867	Total cholesterol in IDL || id:867	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.230340278621079	908	1
+Yengo BMI EU sex combined 941 SNPs	868	Free cholesterol in IDL || id:868	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1108.55305666938	906	4.11213311896385e-06
+Yengo BMI EU sex combined 941 SNPs	868	Free cholesterol in IDL || id:868	Yengo BMI EU sex combined 941 SNPs	MR Egger	1108.33160736194	905	3.77748116664697e-06
+Yengo BMI EU sex combined 941 SNPs	868	Free cholesterol in IDL || id:868	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1108.5838231132	906	4.10001709734224e-06
+Yengo BMI EU sex combined 941 SNPs	868	Free cholesterol in IDL || id:868	Yengo BMI EU sex combined 941 SNPs	IVW radial	1108.52434578937	906	4.12347071067037e-06
+Yengo BMI EU sex combined 941 SNPs	868	Free cholesterol in IDL || id:868	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.20957095121356	906	1
+Yengo BMI EU sex combined 941 SNPs	869	Total lipids in IDL || id:869	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1099.06439055592	908	1.23140232863768e-05
+Yengo BMI EU sex combined 941 SNPs	869	Total lipids in IDL || id:869	Yengo BMI EU sex combined 941 SNPs	MR Egger	1095.43859489827	907	1.55090331504495e-05
+Yengo BMI EU sex combined 941 SNPs	869	Total lipids in IDL || id:869	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1099.14641261905	908	1.22217393793661e-05
+Yengo BMI EU sex combined 941 SNPs	869	Total lipids in IDL || id:869	Yengo BMI EU sex combined 941 SNPs	IVW radial	1099.00694042553	908	1.23790581110944e-05
+Yengo BMI EU sex combined 941 SNPs	869	Total lipids in IDL || id:869	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.227769838832296	908	1
+Yengo BMI EU sex combined 941 SNPs	870	Concentration of IDL particles || id:870	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1082.76568235015	908	5.23439953437719e-05
+Yengo BMI EU sex combined 941 SNPs	870	Concentration of IDL particles || id:870	Yengo BMI EU sex combined 941 SNPs	MR Egger	1078.28812716716	907	6.98699405854645e-05
+Yengo BMI EU sex combined 941 SNPs	870	Concentration of IDL particles || id:870	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1082.8671504173	908	5.18898971836634e-05
+Yengo BMI EU sex combined 941 SNPs	870	Concentration of IDL particles || id:870	Yengo BMI EU sex combined 941 SNPs	IVW radial	1082.69542917073	908	5.2660608976734e-05
+Yengo BMI EU sex combined 941 SNPs	870	Concentration of IDL particles || id:870	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.225362204571453	908	1
+Yengo BMI EU sex combined 941 SNPs	871	Phospholipids in IDL || id:871	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1104.86894484977	907	6.48159898127767e-06
+Yengo BMI EU sex combined 941 SNPs	871	Phospholipids in IDL || id:871	Yengo BMI EU sex combined 941 SNPs	MR Egger	1102.72722125483	906	7.14714544493243e-06
+Yengo BMI EU sex combined 941 SNPs	871	Phospholipids in IDL || id:871	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1104.93446025894	907	6.44172423244209e-06
+Yengo BMI EU sex combined 941 SNPs	871	Phospholipids in IDL || id:871	Yengo BMI EU sex combined 941 SNPs	IVW radial	1104.82206230379	907	6.51027857674344e-06
+Yengo BMI EU sex combined 941 SNPs	871	Phospholipids in IDL || id:871	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.204764950354436	907	1
+Yengo BMI EU sex combined 941 SNPs	872	Triglycerides in IDL || id:872	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1045.87049507536	908	0.000967182490897436
+Yengo BMI EU sex combined 941 SNPs	872	Triglycerides in IDL || id:872	Yengo BMI EU sex combined 941 SNPs	MR Egger	1037.7818894106	907	0.00158980320322994
+Yengo BMI EU sex combined 941 SNPs	872	Triglycerides in IDL || id:872	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1046.06210090985	908	0.000953899137731233
+Yengo BMI EU sex combined 941 SNPs	872	Triglycerides in IDL || id:872	Yengo BMI EU sex combined 941 SNPs	IVW radial	1045.75632401938	908	0.000975178876680086
+Yengo BMI EU sex combined 941 SNPs	872	Triglycerides in IDL || id:872	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.227353781858959	908	1
+Yengo BMI EU sex combined 941 SNPs	873	Isoleucine || id:873	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1066.15263789229	909	0.000225827133291223
+Yengo BMI EU sex combined 941 SNPs	873	Isoleucine || id:873	Yengo BMI EU sex combined 941 SNPs	MR Egger	1058.16471557358	908	0.000387181699140947
+Yengo BMI EU sex combined 941 SNPs	873	Isoleucine || id:873	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1066.45172615019	909	0.000220529273099678
+Yengo BMI EU sex combined 941 SNPs	873	Isoleucine || id:873	Yengo BMI EU sex combined 941 SNPs	IVW radial	1065.94776967373	909	0.000229524905996298
+Yengo BMI EU sex combined 941 SNPs	873	Isoleucine || id:873	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.179127799300558	909	1
+Yengo BMI EU sex combined 941 SNPs	874	Total cholesterol in large HDL || id:874	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1234.88764809238	907	1.91936390807271e-12
+Yengo BMI EU sex combined 941 SNPs	874	Total cholesterol in large HDL || id:874	Yengo BMI EU sex combined 941 SNPs	MR Egger	1211.57479753169	906	3.61384675489114e-11
+Yengo BMI EU sex combined 941 SNPs	874	Total cholesterol in large HDL || id:874	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1235.28312440454	907	1.81903344215753e-12
+Yengo BMI EU sex combined 941 SNPs	874	Total cholesterol in large HDL || id:874	Yengo BMI EU sex combined 941 SNPs	IVW radial	1234.53491758146	907	2.01343299057325e-12
+Yengo BMI EU sex combined 941 SNPs	874	Total cholesterol in large HDL || id:874	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.226987859823211	907	1
+Yengo BMI EU sex combined 941 SNPs	875	Cholesterol esters in large HDL || id:875	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1195.65798126556	908	3.61527080190486e-10
+Yengo BMI EU sex combined 941 SNPs	875	Cholesterol esters in large HDL || id:875	Yengo BMI EU sex combined 941 SNPs	MR Egger	1172.81504442825	907	4.91798262593705e-09
+Yengo BMI EU sex combined 941 SNPs	875	Cholesterol esters in large HDL || id:875	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1196.02884846679	908	3.45320209012157e-10
+Yengo BMI EU sex combined 941 SNPs	875	Cholesterol esters in large HDL || id:875	Yengo BMI EU sex combined 941 SNPs	IVW radial	1195.37360047035	908	3.74457186959996e-10
+Yengo BMI EU sex combined 941 SNPs	875	Cholesterol esters in large HDL || id:875	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.232624106094821	908	1
+Yengo BMI EU sex combined 941 SNPs	876	Free cholesterol in large HDL || id:876	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1243.50019983068	907	5.90138834427243e-13
+Yengo BMI EU sex combined 941 SNPs	876	Free cholesterol in large HDL || id:876	Yengo BMI EU sex combined 941 SNPs	MR Egger	1212.16188938427	906	3.349604103692e-11
+Yengo BMI EU sex combined 941 SNPs	876	Free cholesterol in large HDL || id:876	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1243.90287256724	907	5.58188334758542e-13
+Yengo BMI EU sex combined 941 SNPs	876	Free cholesterol in large HDL || id:876	Yengo BMI EU sex combined 941 SNPs	IVW radial	1243.15608760782	907	6.18865371301791e-13
+Yengo BMI EU sex combined 941 SNPs	876	Free cholesterol in large HDL || id:876	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.228190203806803	907	1
+Yengo BMI EU sex combined 941 SNPs	877	Total lipids in large HDL || id:877	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1216.26470086201	908	2.65385503670892e-11
+Yengo BMI EU sex combined 941 SNPs	877	Total lipids in large HDL || id:877	Yengo BMI EU sex combined 941 SNPs	MR Egger	1190.59082290639	907	5.85868469257264e-10
+Yengo BMI EU sex combined 941 SNPs	877	Total lipids in large HDL || id:877	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1216.63016118204	908	2.5308171662152e-11
+Yengo BMI EU sex combined 941 SNPs	877	Total lipids in large HDL || id:877	Yengo BMI EU sex combined 941 SNPs	IVW radial	1215.98553618937	908	2.75178099929598e-11
+Yengo BMI EU sex combined 941 SNPs	877	Total lipids in large HDL || id:877	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.247873575997237	908	1
+Yengo BMI EU sex combined 941 SNPs	878	Concentration of large HDL particles || id:878	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1215.83653679988	908	2.80549129078965e-11
+Yengo BMI EU sex combined 941 SNPs	878	Concentration of large HDL particles || id:878	Yengo BMI EU sex combined 941 SNPs	MR Egger	1190.08486707343	907	6.23292012359557e-10
+Yengo BMI EU sex combined 941 SNPs	878	Concentration of large HDL particles || id:878	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1216.18740141975	908	2.68062225062316e-11
+Yengo BMI EU sex combined 941 SNPs	878	Concentration of large HDL particles || id:878	Yengo BMI EU sex combined 941 SNPs	IVW radial	1215.56759764667	908	2.90505573682348e-11
+Yengo BMI EU sex combined 941 SNPs	878	Concentration of large HDL particles || id:878	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.250442655176538	908	1
+Yengo BMI EU sex combined 941 SNPs	879	Phospholipids in large HDL || id:879	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1221.78429890684	908	1.29024444920929e-11
+Yengo BMI EU sex combined 941 SNPs	879	Phospholipids in large HDL || id:879	Yengo BMI EU sex combined 941 SNPs	MR Egger	1196.54470172709	907	2.81047066733791e-10
+Yengo BMI EU sex combined 941 SNPs	879	Phospholipids in large HDL || id:879	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1222.14015951423	908	1.23124553459104e-11
+Yengo BMI EU sex combined 941 SNPs	879	Phospholipids in large HDL || id:879	Yengo BMI EU sex combined 941 SNPs	IVW radial	1221.52346722744	908	1.33524456825766e-11
+Yengo BMI EU sex combined 941 SNPs	879	Phospholipids in large HDL || id:879	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.254293097750226	908	1
+Yengo BMI EU sex combined 941 SNPs	880	Total cholesterol in large LDL || id:880	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1173.57212703346	907	4.50104890529927e-09
+Yengo BMI EU sex combined 941 SNPs	880	Total cholesterol in large LDL || id:880	Yengo BMI EU sex combined 941 SNPs	MR Egger	1169.66521332835	906	6.22107329676087e-09
+Yengo BMI EU sex combined 941 SNPs	880	Total cholesterol in large LDL || id:880	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1173.61321668174	907	4.47943653396128e-09
+Yengo BMI EU sex combined 941 SNPs	880	Total cholesterol in large LDL || id:880	Yengo BMI EU sex combined 941 SNPs	IVW radial	1173.53593650961	907	4.52016877696577e-09
+Yengo BMI EU sex combined 941 SNPs	880	Total cholesterol in large LDL || id:880	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.21893336103341	907	1
+Yengo BMI EU sex combined 941 SNPs	881	Cholesterol esters in large VLDL || id:881	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1165.01247816612	908	1.37955988528945e-08
+Yengo BMI EU sex combined 941 SNPs	881	Cholesterol esters in large VLDL || id:881	Yengo BMI EU sex combined 941 SNPs	MR Egger	1160.19968616489	907	2.09494002975351e-08
+Yengo BMI EU sex combined 941 SNPs	881	Cholesterol esters in large VLDL || id:881	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1165.05581874794	908	1.37276107639165e-08
+Yengo BMI EU sex combined 941 SNPs	881	Cholesterol esters in large VLDL || id:881	Yengo BMI EU sex combined 941 SNPs	IVW radial	1164.9733579332	908	1.38572484096929e-08
+Yengo BMI EU sex combined 941 SNPs	881	Cholesterol esters in large VLDL || id:881	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.234837369589733	908	1
+Yengo BMI EU sex combined 941 SNPs	882	Free cholesterol in large LDL || id:882	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1170.92781543792	907	6.12840628677728e-09
+Yengo BMI EU sex combined 941 SNPs	882	Free cholesterol in large LDL || id:882	Yengo BMI EU sex combined 941 SNPs	MR Egger	1168.4780761605	906	7.14053468731911e-09
+Yengo BMI EU sex combined 941 SNPs	882	Free cholesterol in large LDL || id:882	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1170.96086786996	907	6.10489445284763e-09
+Yengo BMI EU sex combined 941 SNPs	882	Free cholesterol in large LDL || id:882	Yengo BMI EU sex combined 941 SNPs	IVW radial	1170.89685531126	907	6.15050994757529e-09
+Yengo BMI EU sex combined 941 SNPs	882	Free cholesterol in large LDL || id:882	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.216177862074756	907	1
+Yengo BMI EU sex combined 941 SNPs	883	Total lipids in large LDL || id:883	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1160.46751207152	908	2.30824784038803e-08
+Yengo BMI EU sex combined 941 SNPs	883	Total lipids in large LDL || id:883	Yengo BMI EU sex combined 941 SNPs	MR Egger	1155.31271727349	907	3.62240576509449e-08
+Yengo BMI EU sex combined 941 SNPs	883	Total lipids in large LDL || id:883	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1160.52912885625	908	2.29229877958338e-08
+Yengo BMI EU sex combined 941 SNPs	883	Total lipids in large LDL || id:883	Yengo BMI EU sex combined 941 SNPs	IVW radial	1160.41789941568	908	2.32116825512794e-08
+Yengo BMI EU sex combined 941 SNPs	883	Total lipids in large LDL || id:883	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.233729110849368	908	1
+Yengo BMI EU sex combined 941 SNPs	884	Concentration of large LDL particles || id:884	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1148.98890694048	908	8.22007818809752e-08
+Yengo BMI EU sex combined 941 SNPs	884	Concentration of large LDL particles || id:884	Yengo BMI EU sex combined 941 SNPs	MR Egger	1143.44772073802	907	1.32522556546022e-07
+Yengo BMI EU sex combined 941 SNPs	884	Concentration of large LDL particles || id:884	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1149.06226720244	908	8.15474139847458e-08
+Yengo BMI EU sex combined 941 SNPs	884	Concentration of large LDL particles || id:884	Yengo BMI EU sex combined 941 SNPs	IVW radial	1148.93380074693	908	8.26949180692272e-08
+Yengo BMI EU sex combined 941 SNPs	884	Concentration of large LDL particles || id:884	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.231660791523381	908	1
+Yengo BMI EU sex combined 941 SNPs	885	Phospholipids in large LDL || id:885	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1151.53581643703	907	5.50155812665999e-08
+Yengo BMI EU sex combined 941 SNPs	885	Phospholipids in large LDL || id:885	Yengo BMI EU sex combined 941 SNPs	MR Egger	1146.51784404299	906	8.42429826980675e-08
+Yengo BMI EU sex combined 941 SNPs	885	Phospholipids in large LDL || id:885	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1151.59586203961	907	5.46532808632512e-08
+Yengo BMI EU sex combined 941 SNPs	885	Phospholipids in large LDL || id:885	Yengo BMI EU sex combined 941 SNPs	IVW radial	1151.49044591841	907	5.52908845897371e-08
+Yengo BMI EU sex combined 941 SNPs	885	Phospholipids in large LDL || id:885	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.212242025834074	907	1
+Yengo BMI EU sex combined 941 SNPs	886	Total cholesterol in large VLDL || id:886	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1133.80902036641	908	4.12411143808161e-07
+Yengo BMI EU sex combined 941 SNPs	886	Total cholesterol in large VLDL || id:886	Yengo BMI EU sex combined 941 SNPs	MR Egger	1126.26661909674	907	7.97817746724537e-07
+Yengo BMI EU sex combined 941 SNPs	886	Total cholesterol in large VLDL || id:886	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1134.05697177657	908	4.01936898720257e-07
+Yengo BMI EU sex combined 941 SNPs	886	Total cholesterol in large VLDL || id:886	Yengo BMI EU sex combined 941 SNPs	IVW radial	1133.63309381043	908	4.2000267952826e-07
+Yengo BMI EU sex combined 941 SNPs	886	Total cholesterol in large VLDL || id:886	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.221234476035833	908	1
+Yengo BMI EU sex combined 941 SNPs	887	Cholesterol esters in large VLDL || id:887	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1140.32533025671	908	2.08320094612144e-07
+Yengo BMI EU sex combined 941 SNPs	887	Cholesterol esters in large VLDL || id:887	Yengo BMI EU sex combined 941 SNPs	MR Egger	1128.6101647726	907	6.28215682542891e-07
+Yengo BMI EU sex combined 941 SNPs	887	Cholesterol esters in large VLDL || id:887	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1140.63512294477	908	2.01593620982462e-07
+Yengo BMI EU sex combined 941 SNPs	887	Cholesterol esters in large VLDL || id:887	Yengo BMI EU sex combined 941 SNPs	IVW radial	1140.13337813147	908	2.12596646019705e-07
+Yengo BMI EU sex combined 941 SNPs	887	Cholesterol esters in large VLDL || id:887	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.270062605135345	908	1
+Yengo BMI EU sex combined 941 SNPs	888	Free cholesterol in large VLDL || id:888	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1103.3909298509	908	8.25395911549672e-06
+Yengo BMI EU sex combined 941 SNPs	888	Free cholesterol in large VLDL || id:888	Yengo BMI EU sex combined 941 SNPs	MR Egger	1094.49105322115	907	1.69004637915933e-05
+Yengo BMI EU sex combined 941 SNPs	888	Free cholesterol in large VLDL || id:888	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1103.62020711406	908	8.07932939289183e-06
+Yengo BMI EU sex combined 941 SNPs	888	Free cholesterol in large VLDL || id:888	Yengo BMI EU sex combined 941 SNPs	IVW radial	1103.21847190744	908	8.38769276133163e-06
+Yengo BMI EU sex combined 941 SNPs	888	Free cholesterol in large VLDL || id:888	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.205752462678195	908	1
+Yengo BMI EU sex combined 941 SNPs	889	Total lipids in large VLDL || id:889	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1058.35617035918	908	0.000381529170451821
+Yengo BMI EU sex combined 941 SNPs	889	Total lipids in large VLDL || id:889	Yengo BMI EU sex combined 941 SNPs	MR Egger	1042.31414950708	907	0.00115570497695346
+Yengo BMI EU sex combined 941 SNPs	889	Total lipids in large VLDL || id:889	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1058.66137083158	908	0.000372677957173025
+Yengo BMI EU sex combined 941 SNPs	889	Total lipids in large VLDL || id:889	Yengo BMI EU sex combined 941 SNPs	IVW radial	1058.16861083749	908	0.000387065917570692
+Yengo BMI EU sex combined 941 SNPs	889	Total lipids in large VLDL || id:889	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.241560206245357	908	1
+Yengo BMI EU sex combined 941 SNPs	890	Concentration of large VLDL particles || id:890	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1072.03515274797	908	0.000128778016480604
+Yengo BMI EU sex combined 941 SNPs	890	Concentration of large VLDL particles || id:890	Yengo BMI EU sex combined 941 SNPs	MR Egger	1060.82167342537	907	0.000289831506735367
+Yengo BMI EU sex combined 941 SNPs	890	Concentration of large VLDL particles || id:890	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1072.30647798167	908	0.000125945159012601
+Yengo BMI EU sex combined 941 SNPs	890	Concentration of large VLDL particles || id:890	Yengo BMI EU sex combined 941 SNPs	IVW radial	1071.86040362941	908	0.000130634312063313
+Yengo BMI EU sex combined 941 SNPs	890	Concentration of large VLDL particles || id:890	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.249056844492983	908	1
+Yengo BMI EU sex combined 941 SNPs	891	Phospholipids in large VLDL || id:891	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1078.83121808034	908	7.31715500463603e-05
+Yengo BMI EU sex combined 941 SNPs	891	Phospholipids in large VLDL || id:891	Yengo BMI EU sex combined 941 SNPs	MR Egger	1066.98848165452	907	0.000177661153600904
+Yengo BMI EU sex combined 941 SNPs	891	Phospholipids in large VLDL || id:891	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1079.09981479624	908	7.15300974584114e-05
+Yengo BMI EU sex combined 941 SNPs	891	Phospholipids in large VLDL || id:891	Yengo BMI EU sex combined 941 SNPs	IVW radial	1078.65577802592	908	7.42629305898586e-05
+Yengo BMI EU sex combined 941 SNPs	891	Phospholipids in large VLDL || id:891	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.201845939370329	908	1
+Yengo BMI EU sex combined 941 SNPs	892	Triglycerides in large VLDL || id:892	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1071.66006129598	908	0.000132793584511448
+Yengo BMI EU sex combined 941 SNPs	892	Triglycerides in large VLDL || id:892	Yengo BMI EU sex combined 941 SNPs	MR Egger	1058.67334792247	907	0.000342568278387922
+Yengo BMI EU sex combined 941 SNPs	892	Triglycerides in large VLDL || id:892	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1071.92822263988	908	0.000129910912869341
+Yengo BMI EU sex combined 941 SNPs	892	Triglycerides in large VLDL || id:892	Yengo BMI EU sex combined 941 SNPs	IVW radial	1071.48078489537	908	0.000134754363137889
+Yengo BMI EU sex combined 941 SNPs	892	Triglycerides in large VLDL || id:892	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.198912867150879	908	1
+Yengo BMI EU sex combined 941 SNPs	893	18:2, linoleic acid (LA) || id:893	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1035.14867985862	907	0.00190650535799899
+Yengo BMI EU sex combined 941 SNPs	893	18:2, linoleic acid (LA) || id:893	Yengo BMI EU sex combined 941 SNPs	MR Egger	1035.03145682884	906	0.00178596185535699
+Yengo BMI EU sex combined 941 SNPs	893	18:2, linoleic acid (LA) || id:893	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1035.14867985862	907	0.00190650535799899
+Yengo BMI EU sex combined 941 SNPs	893	18:2, linoleic acid (LA) || id:893	Yengo BMI EU sex combined 941 SNPs	IVW radial	1035.14741876846	907	0.00190667001561247
+Yengo BMI EU sex combined 941 SNPs	893	18:2, linoleic acid (LA) || id:893	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.300287558915919	907	1
+Yengo BMI EU sex combined 941 SNPs	894	Lactate || id:894	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	995.927788840537	909	0.0231489693628401
+Yengo BMI EU sex combined 941 SNPs	894	Lactate || id:894	Yengo BMI EU sex combined 941 SNPs	MR Egger	991.848996034669	908	0.0270745066010413
+Yengo BMI EU sex combined 941 SNPs	894	Lactate || id:894	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	995.940492918571	909	0.0231336114178564
+Yengo BMI EU sex combined 941 SNPs	894	Lactate || id:894	Yengo BMI EU sex combined 941 SNPs	IVW radial	995.911362263778	909	0.0231688403496546
+Yengo BMI EU sex combined 941 SNPs	894	Lactate || id:894	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.175591090967853	909	1
+Yengo BMI EU sex combined 941 SNPs	895	Total cholesterol in LDL || id:895	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1206.30616282209	907	8.23299751358703e-11
+Yengo BMI EU sex combined 941 SNPs	895	Total cholesterol in LDL || id:895	Yengo BMI EU sex combined 941 SNPs	MR Egger	1200.50826831481	906	1.4830097417146e-10
+Yengo BMI EU sex combined 941 SNPs	895	Total cholesterol in LDL || id:895	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1206.36327886675	907	8.17336863677406e-11
+Yengo BMI EU sex combined 941 SNPs	895	Total cholesterol in LDL || id:895	Yengo BMI EU sex combined 941 SNPs	IVW radial	1206.25916636647	907	8.28238157117163e-11
+Yengo BMI EU sex combined 941 SNPs	895	Total cholesterol in LDL || id:895	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.22120185496142	907	1
+Yengo BMI EU sex combined 941 SNPs	896	Mean diameter for LDL particles || id:896	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	996.763124979712	908	0.020965554896719
+Yengo BMI EU sex combined 941 SNPs	896	Mean diameter for LDL particles || id:896	Yengo BMI EU sex combined 941 SNPs	MR Egger	993.743780532825	907	0.0232587042427073
+Yengo BMI EU sex combined 941 SNPs	896	Mean diameter for LDL particles || id:896	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	996.763124979712	908	0.0209655548967191
+Yengo BMI EU sex combined 941 SNPs	896	Mean diameter for LDL particles || id:896	Yengo BMI EU sex combined 941 SNPs	IVW radial	996.761837528771	908	0.0209669858254741
+Yengo BMI EU sex combined 941 SNPs	896	Mean diameter for LDL particles || id:896	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.200883437390119	908	1
+Yengo BMI EU sex combined 941 SNPs	897	Leucine || id:897	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1076.65370242249	909	9.62059638791221e-05
+Yengo BMI EU sex combined 941 SNPs	897	Leucine || id:897	Yengo BMI EU sex combined 941 SNPs	MR Egger	1065.52418416378	908	0.000217830751798459
+Yengo BMI EU sex combined 941 SNPs	897	Leucine || id:897	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1076.81970585263	909	9.48860786286481e-05
+Yengo BMI EU sex combined 941 SNPs	897	Leucine || id:897	Yengo BMI EU sex combined 941 SNPs	IVW radial	1076.55639625014	909	9.6987704734192e-05
+Yengo BMI EU sex combined 941 SNPs	897	Leucine || id:897	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.172745842419767	909	1
+Yengo BMI EU sex combined 941 SNPs	898	Total cholesterol in medium HDL || id:898	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1075.69213178059	907	8.69372397330957e-05
+Yengo BMI EU sex combined 941 SNPs	898	Total cholesterol in medium HDL || id:898	Yengo BMI EU sex combined 941 SNPs	MR Egger	1073.84334217992	906	9.26462517576912e-05
+Yengo BMI EU sex combined 941 SNPs	898	Total cholesterol in medium HDL || id:898	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1075.83175144417	907	8.59267255604408e-05
+Yengo BMI EU sex combined 941 SNPs	898	Total cholesterol in medium HDL || id:898	Yengo BMI EU sex combined 941 SNPs	IVW radial	1075.59488672418	907	8.76477057982171e-05
+Yengo BMI EU sex combined 941 SNPs	898	Total cholesterol in medium HDL || id:898	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.214859930280236	907	1
+Yengo BMI EU sex combined 941 SNPs	899	Cholesterol esters in medium HDL || id:899	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1029.68900636713	908	0.0029560828093169
+Yengo BMI EU sex combined 941 SNPs	899	Cholesterol esters in medium HDL || id:899	Yengo BMI EU sex combined 941 SNPs	MR Egger	1027.52319106275	907	0.0031780568482716
+Yengo BMI EU sex combined 941 SNPs	899	Cholesterol esters in medium HDL || id:899	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1029.8298407399	908	0.00292875051862251
+Yengo BMI EU sex combined 941 SNPs	899	Cholesterol esters in medium HDL || id:899	Yengo BMI EU sex combined 941 SNPs	IVW radial	1029.59980724491	908	0.00297351402475511
+Yengo BMI EU sex combined 941 SNPs	899	Cholesterol esters in medium HDL || id:899	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.218838396292596	908	1
+Yengo BMI EU sex combined 941 SNPs	900	Free cholesterol in medium HDL || id:900	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1055.51587534052	907	0.000436606485328016
+Yengo BMI EU sex combined 941 SNPs	900	Free cholesterol in medium HDL || id:900	Yengo BMI EU sex combined 941 SNPs	MR Egger	1052.78043688345	906	0.000495175065096259
+Yengo BMI EU sex combined 941 SNPs	900	Free cholesterol in medium HDL || id:900	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1055.6276591752	907	0.000432900881299841
+Yengo BMI EU sex combined 941 SNPs	900	Free cholesterol in medium HDL || id:900	Yengo BMI EU sex combined 941 SNPs	IVW radial	1055.44347022301	907	0.000439022505324014
+Yengo BMI EU sex combined 941 SNPs	900	Free cholesterol in medium HDL || id:900	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.211653019317052	907	1
+Yengo BMI EU sex combined 941 SNPs	901	Total lipids in medium HDL || id:901	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	970.831035323019	908	0.0725220721088631
+Yengo BMI EU sex combined 941 SNPs	901	Total lipids in medium HDL || id:901	Yengo BMI EU sex combined 941 SNPs	MR Egger	970.152739610843	907	0.0714259246286656
+Yengo BMI EU sex combined 941 SNPs	901	Total lipids in medium HDL || id:901	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	970.887612381421	908	0.0723470466454179
+Yengo BMI EU sex combined 941 SNPs	901	Total lipids in medium HDL || id:901	Yengo BMI EU sex combined 941 SNPs	IVW radial	970.794174243884	908	0.0726362827084257
+Yengo BMI EU sex combined 941 SNPs	901	Total lipids in medium HDL || id:901	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.209437622495146	908	1
+Yengo BMI EU sex combined 941 SNPs	902	Concentration of medium HDL particles || id:902	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	948.51279547085	908	0.17042544425562
+Yengo BMI EU sex combined 941 SNPs	902	Concentration of medium HDL particles || id:902	Yengo BMI EU sex combined 941 SNPs	MR Egger	948.231551145457	907	0.166177229848378
+Yengo BMI EU sex combined 941 SNPs	902	Concentration of medium HDL particles || id:902	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	948.543849602735	908	0.170246104581149
+Yengo BMI EU sex combined 941 SNPs	902	Concentration of medium HDL particles || id:902	Yengo BMI EU sex combined 941 SNPs	IVW radial	948.489162976463	908	0.170562007140049
+Yengo BMI EU sex combined 941 SNPs	902	Concentration of medium HDL particles || id:902	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.206464442731257	908	1
+Yengo BMI EU sex combined 941 SNPs	903	Phospholipids in medium HDL || id:903	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1007.66344915123	907	0.0108144944617692
+Yengo BMI EU sex combined 941 SNPs	903	Phospholipids in medium HDL || id:903	Yengo BMI EU sex combined 941 SNPs	MR Egger	1007.47041748313	906	0.0102880437601769
+Yengo BMI EU sex combined 941 SNPs	903	Phospholipids in medium HDL || id:903	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1007.70203492409	907	0.0107904125632167
+Yengo BMI EU sex combined 941 SNPs	903	Phospholipids in medium HDL || id:903	Yengo BMI EU sex combined 941 SNPs	IVW radial	1007.63399231898	907	0.010832910755087
+Yengo BMI EU sex combined 941 SNPs	903	Phospholipids in medium HDL || id:903	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.203051172609715	907	1
+Yengo BMI EU sex combined 941 SNPs	904	Total cholesterol in medium LDL || id:904	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1192.11684861929	907	4.85829899314402e-10
+Yengo BMI EU sex combined 941 SNPs	904	Total cholesterol in medium LDL || id:904	Yengo BMI EU sex combined 941 SNPs	MR Egger	1185.592521041	906	9.37457869571474e-10
+Yengo BMI EU sex combined 941 SNPs	904	Total cholesterol in medium LDL || id:904	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1192.17127470971	907	4.82590006652158e-10
+Yengo BMI EU sex combined 941 SNPs	904	Total cholesterol in medium LDL || id:904	Yengo BMI EU sex combined 941 SNPs	IVW radial	1192.07151524404	907	4.88544775238879e-10
+Yengo BMI EU sex combined 941 SNPs	904	Total cholesterol in medium LDL || id:904	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.221677472981966	907	1
+Yengo BMI EU sex combined 941 SNPs	905	Cholesterol esters in medium LDL || id:905	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1166.74842065052	908	1.13134936981423e-08
+Yengo BMI EU sex combined 941 SNPs	905	Cholesterol esters in medium LDL || id:905	Yengo BMI EU sex combined 941 SNPs	MR Egger	1160.93724872536	907	1.92746196991093e-08
+Yengo BMI EU sex combined 941 SNPs	905	Cholesterol esters in medium LDL || id:905	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1166.79600898814	908	1.12519894497798e-08
+Yengo BMI EU sex combined 941 SNPs	905	Cholesterol esters in medium LDL || id:905	Yengo BMI EU sex combined 941 SNPs	IVW radial	1166.70736625546	908	1.13668167478725e-08
+Yengo BMI EU sex combined 941 SNPs	905	Cholesterol esters in medium LDL || id:905	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.232571885374146	908	1
+Yengo BMI EU sex combined 941 SNPs	906	Total lipids in medium LDL || id:906	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1175.52625089791	908	4.08888341543104e-09
+Yengo BMI EU sex combined 941 SNPs	906	Total lipids in medium LDL || id:906	Yengo BMI EU sex combined 941 SNPs	MR Egger	1168.78339076666	907	7.85838869160584e-09
+Yengo BMI EU sex combined 941 SNPs	906	Total lipids in medium LDL || id:906	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1175.59224996456	908	4.05733788191104e-09
+Yengo BMI EU sex combined 941 SNPs	906	Total lipids in medium LDL || id:906	Yengo BMI EU sex combined 941 SNPs	IVW radial	1175.47463508073	908	4.11372106080061e-09
+Yengo BMI EU sex combined 941 SNPs	906	Total lipids in medium LDL || id:906	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.233598506990315	908	1
+Yengo BMI EU sex combined 941 SNPs	907	Concentration of medium LDL particles || id:907	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1165.44186516362	908	1.31362659214775e-08
+Yengo BMI EU sex combined 941 SNPs	907	Concentration of medium LDL particles || id:907	Yengo BMI EU sex combined 941 SNPs	MR Egger	1158.26044430534	907	2.60584351264416e-08
+Yengo BMI EU sex combined 941 SNPs	907	Concentration of medium LDL particles || id:907	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1165.51495450373	908	1.30271396322273e-08
+Yengo BMI EU sex combined 941 SNPs	907	Concentration of medium LDL particles || id:907	Yengo BMI EU sex combined 941 SNPs	IVW radial	1165.38744897847	908	1.32180906834128e-08
+Yengo BMI EU sex combined 941 SNPs	907	Concentration of medium LDL particles || id:907	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.231984471943408	908	1
+Yengo BMI EU sex combined 941 SNPs	908	Phospholipids in medium LDL || id:908	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1173.90406272415	907	4.32932908647273e-09
+Yengo BMI EU sex combined 941 SNPs	908	Phospholipids in medium LDL || id:908	Yengo BMI EU sex combined 941 SNPs	MR Egger	1165.48199732684	906	1.00913300106828e-08
+Yengo BMI EU sex combined 941 SNPs	908	Phospholipids in medium LDL || id:908	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1173.9750442223	907	4.29344777234362e-09
+Yengo BMI EU sex combined 941 SNPs	908	Phospholipids in medium LDL || id:908	Yengo BMI EU sex combined 941 SNPs	IVW radial	1173.85014341228	907	4.35678105186048e-09
+Yengo BMI EU sex combined 941 SNPs	908	Phospholipids in medium LDL || id:908	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.218997340751867	907	1
+Yengo BMI EU sex combined 941 SNPs	909	Total cholesterol in medium VLDL || id:909	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1149.21617115885	907	7.09485948221072e-08
+Yengo BMI EU sex combined 941 SNPs	909	Total cholesterol in medium VLDL || id:909	Yengo BMI EU sex combined 941 SNPs	MR Egger	1139.86958695937	906	1.72378831772966e-07
+Yengo BMI EU sex combined 941 SNPs	909	Total cholesterol in medium VLDL || id:909	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1149.44262799763	907	6.92140209468211e-08
+Yengo BMI EU sex combined 941 SNPs	909	Total cholesterol in medium VLDL || id:909	Yengo BMI EU sex combined 941 SNPs	IVW radial	1149.06766974512	907	7.21089313476834e-08
+Yengo BMI EU sex combined 941 SNPs	909	Total cholesterol in medium VLDL || id:909	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.211092443402699	907	1
+Yengo BMI EU sex combined 941 SNPs	910	Cholesterol esters in medium VLDL || id:910	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1128.6241489786	908	7.02895430642542e-07
+Yengo BMI EU sex combined 941 SNPs	910	Cholesterol esters in medium VLDL || id:910	Yengo BMI EU sex combined 941 SNPs	MR Egger	1117.74978753705	907	1.87176487588158e-06
+Yengo BMI EU sex combined 941 SNPs	910	Cholesterol esters in medium VLDL || id:910	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1128.85812936581	908	6.86319235892483e-07
+Yengo BMI EU sex combined 941 SNPs	910	Cholesterol esters in medium VLDL || id:910	Yengo BMI EU sex combined 941 SNPs	IVW radial	1128.47101871951	908	7.1395281026368e-07
+Yengo BMI EU sex combined 941 SNPs	910	Cholesterol esters in medium VLDL || id:910	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.254995991963	908	1
+Yengo BMI EU sex combined 941 SNPs	911	Free cholesterol in medium VLDL || id:911	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1121.72984977965	908	1.40815079406882e-06
+Yengo BMI EU sex combined 941 SNPs	911	Free cholesterol in medium VLDL || id:911	Yengo BMI EU sex combined 941 SNPs	MR Egger	1110.82378800606	907	3.67637901586821e-06
+Yengo BMI EU sex combined 941 SNPs	911	Free cholesterol in medium VLDL || id:911	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1121.95791400084	908	1.37651143947307e-06
+Yengo BMI EU sex combined 941 SNPs	911	Free cholesterol in medium VLDL || id:911	Yengo BMI EU sex combined 941 SNPs	IVW radial	1121.5710982085	908	1.43058763451128e-06
+Yengo BMI EU sex combined 941 SNPs	911	Free cholesterol in medium VLDL || id:911	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.210479419939627	908	1
+Yengo BMI EU sex combined 941 SNPs	912	Total lipids in medium VLDL || id:912	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1120.46605932877	908	1.59660833863493e-06
+Yengo BMI EU sex combined 941 SNPs	912	Total lipids in medium VLDL || id:912	Yengo BMI EU sex combined 941 SNPs	MR Egger	1103.77967335599	907	7.18033647100524e-06
+Yengo BMI EU sex combined 941 SNPs	912	Total lipids in medium VLDL || id:912	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1120.76246541642	908	1.55033640529028e-06
+Yengo BMI EU sex combined 941 SNPs	912	Total lipids in medium VLDL || id:912	Yengo BMI EU sex combined 941 SNPs	IVW radial	1120.2874670907	908	1.62512880457001e-06
+Yengo BMI EU sex combined 941 SNPs	912	Total lipids in medium VLDL || id:912	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.250848791782224	908	1
+Yengo BMI EU sex combined 941 SNPs	913	Concentration of medium VLDL particles || id:913	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1152.19229535341	908	5.79191793248122e-08
+Yengo BMI EU sex combined 941 SNPs	913	Concentration of medium VLDL particles || id:913	Yengo BMI EU sex combined 941 SNPs	MR Egger	1135.02831337473	907	3.23381898231191e-07
+Yengo BMI EU sex combined 941 SNPs	913	Concentration of medium VLDL particles || id:913	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1152.51399226161	908	5.59077146405012e-08
+Yengo BMI EU sex combined 941 SNPs	913	Concentration of medium VLDL particles || id:913	Yengo BMI EU sex combined 941 SNPs	IVW radial	1151.99474930131	908	5.91890753785048e-08
+Yengo BMI EU sex combined 941 SNPs	913	Concentration of medium VLDL particles || id:913	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.253568268963681	908	1
+Yengo BMI EU sex combined 941 SNPs	914	Phospholipids in medium VLDL || id:914	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1131.0893437514	908	5.46117090887493e-07
+Yengo BMI EU sex combined 941 SNPs	914	Phospholipids in medium VLDL || id:914	Yengo BMI EU sex combined 941 SNPs	MR Egger	1118.98237881948	907	1.65699856921184e-06
+Yengo BMI EU sex combined 941 SNPs	914	Phospholipids in medium VLDL || id:914	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1131.3229581066	908	5.33154001504564e-07
+Yengo BMI EU sex combined 941 SNPs	914	Phospholipids in medium VLDL || id:914	Yengo BMI EU sex combined 941 SNPs	IVW radial	1130.92997859798	908	5.55134644551323e-07
+Yengo BMI EU sex combined 941 SNPs	914	Phospholipids in medium VLDL || id:914	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.208209044076873	908	1
+Yengo BMI EU sex combined 941 SNPs	915	Triglycerides in medium VLDL || id:915	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1104.32182220793	908	7.56669226757832e-06
+Yengo BMI EU sex combined 941 SNPs	915	Triglycerides in medium VLDL || id:915	Yengo BMI EU sex combined 941 SNPs	MR Egger	1090.56091979987	907	2.40535641722273e-05
+Yengo BMI EU sex combined 941 SNPs	915	Triglycerides in medium VLDL || id:915	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1104.58579330605	908	7.38202494661664e-06
+Yengo BMI EU sex combined 941 SNPs	915	Triglycerides in medium VLDL || id:915	Yengo BMI EU sex combined 941 SNPs	IVW radial	1104.15038773561	908	7.68898952864258e-06
+Yengo BMI EU sex combined 941 SNPs	915	Triglycerides in medium VLDL || id:915	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.203579372627304	908	1
+Yengo BMI EU sex combined 941 SNPs	916	Mono-unsaturated fatty acids || id:916	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1038.18905316451	908	0.00166448068397496
+Yengo BMI EU sex combined 941 SNPs	916	Mono-unsaturated fatty acids || id:916	Yengo BMI EU sex combined 941 SNPs	MR Egger	1022.11251369977	907	0.0045049863755878
+Yengo BMI EU sex combined 941 SNPs	916	Mono-unsaturated fatty acids || id:916	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1038.27394723216	908	0.00165472802316251
+Yengo BMI EU sex combined 941 SNPs	916	Mono-unsaturated fatty acids || id:916	Yengo BMI EU sex combined 941 SNPs	IVW radial	1038.14244269916	908	0.00166985776967766
+Yengo BMI EU sex combined 941 SNPs	916	Mono-unsaturated fatty acids || id:916	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.32948366082008	908	1
+Yengo BMI EU sex combined 941 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1073.81582068421	907	0.000101657928964379
+Yengo BMI EU sex combined 941 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Yengo BMI EU sex combined 941 SNPs	MR Egger	1070.98123303604	906	0.000117472048739722
+Yengo BMI EU sex combined 941 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1073.82871916832	907	0.000101549118359509
+Yengo BMI EU sex combined 941 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Yengo BMI EU sex combined 941 SNPs	IVW radial	1073.80249931835	907	0.000101770422833523
+Yengo BMI EU sex combined 941 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.349835967444084	907	1
+Yengo BMI EU sex combined 941 SNPs	918	Phosphatidylcholine and other cholines || id:918	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	971.220122306735	908	0.0713250709018936
+Yengo BMI EU sex combined 941 SNPs	918	Phosphatidylcholine and other cholines || id:918	Yengo BMI EU sex combined 941 SNPs	MR Egger	970.818215933007	907	0.0694112874783027
+Yengo BMI EU sex combined 941 SNPs	918	Phosphatidylcholine and other cholines || id:918	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	971.220122306735	908	0.0713250709018936
+Yengo BMI EU sex combined 941 SNPs	918	Phosphatidylcholine and other cholines || id:918	Yengo BMI EU sex combined 941 SNPs	IVW radial	971.213076660881	908	0.0713466079122277
+Yengo BMI EU sex combined 941 SNPs	918	Phosphatidylcholine and other cholines || id:918	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.299569805956938	908	1
+Yengo BMI EU sex combined 941 SNPs	919	Phenylalanine || id:919	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1051.74128323219	909	0.000681343835661287
+Yengo BMI EU sex combined 941 SNPs	919	Phenylalanine || id:919	Yengo BMI EU sex combined 941 SNPs	MR Egger	1027.3991080988	908	0.00343433743074964
+Yengo BMI EU sex combined 941 SNPs	919	Phenylalanine || id:919	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1051.89946341008	909	0.00067342023862104
+Yengo BMI EU sex combined 941 SNPs	919	Phenylalanine || id:919	Yengo BMI EU sex combined 941 SNPs	IVW radial	1051.62859275531	909	0.000687041596108432
+Yengo BMI EU sex combined 941 SNPs	919	Phenylalanine || id:919	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.177336486589584	909	1
+Yengo BMI EU sex combined 941 SNPs	920	Pyruvate || id:920	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	936.758169669091	909	0.254593187859958
+Yengo BMI EU sex combined 941 SNPs	920	Pyruvate || id:920	Yengo BMI EU sex combined 941 SNPs	MR Egger	933.894799947815	908	0.268426948233509
+Yengo BMI EU sex combined 941 SNPs	920	Pyruvate || id:920	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	936.777312636759	909	0.254452027696997
+Yengo BMI EU sex combined 941 SNPs	920	Pyruvate || id:920	Yengo BMI EU sex combined 941 SNPs	IVW radial	936.740230465262	909	0.254725510437017
+Yengo BMI EU sex combined 941 SNPs	920	Pyruvate || id:920	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.153539669386632	909	1
+Yengo BMI EU sex combined 941 SNPs	921	Total lipids in small HDL || id:921	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	903.842793342681	908	0.532697340230073
+Yengo BMI EU sex combined 941 SNPs	921	Total lipids in small HDL || id:921	Yengo BMI EU sex combined 941 SNPs	MR Egger	897.226706894047	907	0.584972038162402
+Yengo BMI EU sex combined 941 SNPs	921	Total lipids in small HDL || id:921	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	903.842793342681	908	0.532697340230073
+Yengo BMI EU sex combined 941 SNPs	921	Total lipids in small HDL || id:921	Yengo BMI EU sex combined 941 SNPs	IVW radial	903.842582739875	908	0.532699311093884
+Yengo BMI EU sex combined 941 SNPs	921	Total lipids in small HDL || id:921	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.195313045093471	908	1
+Yengo BMI EU sex combined 941 SNPs	922	Concentration of small HDL particles || id:922	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	886.968361826882	908	0.684997325265305
+Yengo BMI EU sex combined 941 SNPs	922	Concentration of small HDL particles || id:922	Yengo BMI EU sex combined 941 SNPs	MR Egger	880.733637570594	907	0.72809930559503
+Yengo BMI EU sex combined 941 SNPs	922	Concentration of small HDL particles || id:922	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	886.968361826882	908	0.684997325265305
+Yengo BMI EU sex combined 941 SNPs	922	Concentration of small HDL particles || id:922	Yengo BMI EU sex combined 941 SNPs	IVW radial	886.968265651661	908	0.684998139576806
+Yengo BMI EU sex combined 941 SNPs	922	Concentration of small HDL particles || id:922	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.194531980347518	908	1
+Yengo BMI EU sex combined 941 SNPs	923	Triglycerides in small HDL || id:923	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1046.09907928914	907	0.000880192219200294
+Yengo BMI EU sex combined 941 SNPs	923	Triglycerides in small HDL || id:923	Yengo BMI EU sex combined 941 SNPs	MR Egger	1032.81819581973	906	0.00207813426369786
+Yengo BMI EU sex combined 941 SNPs	923	Triglycerides in small HDL || id:923	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1046.31940709134	907	0.000866203460601839
+Yengo BMI EU sex combined 941 SNPs	923	Triglycerides in small HDL || id:923	Yengo BMI EU sex combined 941 SNPs	IVW radial	1045.97336219666	907	0.000888267732712418
+Yengo BMI EU sex combined 941 SNPs	923	Triglycerides in small HDL || id:923	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.179099504978014	907	1
+Yengo BMI EU sex combined 941 SNPs	924	Total cholesterol in small LDL || id:924	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1198.06975857411	907	2.32435889199718e-10
+Yengo BMI EU sex combined 941 SNPs	924	Total cholesterol in small LDL || id:924	Yengo BMI EU sex combined 941 SNPs	MR Egger	1191.82361415202	906	4.37551211475301e-10
+Yengo BMI EU sex combined 941 SNPs	924	Total cholesterol in small LDL || id:924	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1198.13883406715	907	2.30441257318712e-10
+Yengo BMI EU sex combined 941 SNPs	924	Total cholesterol in small LDL || id:924	Yengo BMI EU sex combined 941 SNPs	IVW radial	1198.01350791855	907	2.3407268499563e-10
+Yengo BMI EU sex combined 941 SNPs	924	Total cholesterol in small LDL || id:924	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.218166868921356	907	1
+Yengo BMI EU sex combined 941 SNPs	925	Total lipids in small LDL || id:925	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1187.66343050953	908	9.61709622486331e-10
+Yengo BMI EU sex combined 941 SNPs	925	Total lipids in small LDL || id:925	Yengo BMI EU sex combined 941 SNPs	MR Egger	1179.91509603971	907	2.12757916551381e-09
+Yengo BMI EU sex combined 941 SNPs	925	Total lipids in small LDL || id:925	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1187.75515090638	908	9.51081661663143e-10
+Yengo BMI EU sex combined 941 SNPs	925	Total lipids in small LDL || id:925	Yengo BMI EU sex combined 941 SNPs	IVW radial	1187.5950238735	908	9.69711732368533e-10
+Yengo BMI EU sex combined 941 SNPs	925	Total lipids in small LDL || id:925	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.238896256606912	908	1
+Yengo BMI EU sex combined 941 SNPs	926	Concentration of small LDL particles || id:926	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1181.35331777785	908	2.05275083447127e-09
+Yengo BMI EU sex combined 941 SNPs	926	Concentration of small LDL particles || id:926	Yengo BMI EU sex combined 941 SNPs	MR Egger	1173.29925284837	907	4.64718215164979e-09
+Yengo BMI EU sex combined 941 SNPs	926	Concentration of small LDL particles || id:926	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1181.44391041238	908	2.0307054225165e-09
+Yengo BMI EU sex combined 941 SNPs	926	Concentration of small LDL particles || id:926	Yengo BMI EU sex combined 941 SNPs	IVW radial	1181.28711631148	908	2.0690085688067e-09
+Yengo BMI EU sex combined 941 SNPs	926	Concentration of small LDL particles || id:926	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.238636253895457	908	1
+Yengo BMI EU sex combined 941 SNPs	927	Total cholesterol in small VLDL || id:927	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1107.0659267529	907	5.26567024654654e-06
+Yengo BMI EU sex combined 941 SNPs	927	Total cholesterol in small VLDL || id:927	Yengo BMI EU sex combined 941 SNPs	MR Egger	1101.79187480303	906	7.80176656506671e-06
+Yengo BMI EU sex combined 941 SNPs	927	Total cholesterol in small VLDL || id:927	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1107.18895205746	907	5.20450423608921e-06
+Yengo BMI EU sex combined 941 SNPs	927	Total cholesterol in small VLDL || id:927	Yengo BMI EU sex combined 941 SNPs	IVW radial	1106.98568724941	907	5.30593555339945e-06
+Yengo BMI EU sex combined 941 SNPs	927	Total cholesterol in small VLDL || id:927	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.19863816299401	907	1
+Yengo BMI EU sex combined 941 SNPs	928	Free cholesterol in small VLDL || id:928	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1146.82354431453	907	9.20601364100267e-08
+Yengo BMI EU sex combined 941 SNPs	928	Free cholesterol in small VLDL || id:928	Yengo BMI EU sex combined 941 SNPs	MR Egger	1138.73096729156	906	1.94580348837881e-07
+Yengo BMI EU sex combined 941 SNPs	928	Free cholesterol in small VLDL || id:928	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1146.99350934734	907	9.03779333500865e-08
+Yengo BMI EU sex combined 941 SNPs	928	Free cholesterol in small VLDL || id:928	Yengo BMI EU sex combined 941 SNPs	IVW radial	1146.70246167982	907	9.32770549367684e-08
+Yengo BMI EU sex combined 941 SNPs	928	Free cholesterol in small VLDL || id:928	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.208924008202297	907	1
+Yengo BMI EU sex combined 941 SNPs	929	Total lipids in small VLDL || id:929	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1150.76074774066	908	6.77569575610798e-08
+Yengo BMI EU sex combined 941 SNPs	929	Total lipids in small VLDL || id:929	Yengo BMI EU sex combined 941 SNPs	MR Egger	1137.89623544542	907	2.39277240497869e-07
+Yengo BMI EU sex combined 941 SNPs	929	Total lipids in small VLDL || id:929	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1150.98891849393	908	6.60867145293875e-08
+Yengo BMI EU sex combined 941 SNPs	929	Total lipids in small VLDL || id:929	Yengo BMI EU sex combined 941 SNPs	IVW radial	1150.59592010049	908	6.89889861071633e-08
+Yengo BMI EU sex combined 941 SNPs	929	Total lipids in small VLDL || id:929	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.249554628670238	908	1
+Yengo BMI EU sex combined 941 SNPs	930	Concentration of small VLDL particles || id:930	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1163.0129529314	908	1.73158073023992e-08
+Yengo BMI EU sex combined 941 SNPs	930	Concentration of small VLDL particles || id:930	Yengo BMI EU sex combined 941 SNPs	MR Egger	1148.56649661953	907	7.61627532104303e-08
+Yengo BMI EU sex combined 941 SNPs	930	Concentration of small VLDL particles || id:930	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1163.27704073101	908	1.6805006612626e-08
+Yengo BMI EU sex combined 941 SNPs	930	Concentration of small VLDL particles || id:930	Yengo BMI EU sex combined 941 SNPs	IVW radial	1162.83248493654	908	1.76735431653832e-08
+Yengo BMI EU sex combined 941 SNPs	930	Concentration of small VLDL particles || id:930	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.254281045969545	908	1
+Yengo BMI EU sex combined 941 SNPs	931	Phospholipids in small VLDL || id:931	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1158.25911913056	907	2.60623105880008e-08
+Yengo BMI EU sex combined 941 SNPs	931	Phospholipids in small VLDL || id:931	Yengo BMI EU sex combined 941 SNPs	MR Egger	1150.17418554773	906	5.64697516507138e-08
+Yengo BMI EU sex combined 941 SNPs	931	Phospholipids in small VLDL || id:931	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1158.45535088723	907	2.54945047666158e-08
+Yengo BMI EU sex combined 941 SNPs	931	Phospholipids in small VLDL || id:931	Yengo BMI EU sex combined 941 SNPs	IVW radial	1158.13627402818	907	2.64240191864855e-08
+Yengo BMI EU sex combined 941 SNPs	931	Phospholipids in small VLDL || id:931	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.205565804887465	907	1
+Yengo BMI EU sex combined 941 SNPs	932	Triglycerides in small VLDL || id:932	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1145.18135846749	906	9.73989548754445e-08
+Yengo BMI EU sex combined 941 SNPs	932	Triglycerides in small VLDL || id:932	Yengo BMI EU sex combined 941 SNPs	MR Egger	1129.21241342611	905	4.69440777000659e-07
+Yengo BMI EU sex combined 941 SNPs	932	Triglycerides in small VLDL || id:932	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1145.45434423574	906	9.45589793684238e-08
+Yengo BMI EU sex combined 941 SNPs	932	Triglycerides in small VLDL || id:932	Yengo BMI EU sex combined 941 SNPs	IVW radial	1144.99538584322	906	9.93809893415672e-08
+Yengo BMI EU sex combined 941 SNPs	932	Triglycerides in small VLDL || id:932	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.202524264512745	906	1
+Yengo BMI EU sex combined 941 SNPs	933	Serum total cholesterol || id:933	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1146.42652514822	908	1.08504243124665e-07
+Yengo BMI EU sex combined 941 SNPs	933	Serum total cholesterol || id:933	Yengo BMI EU sex combined 941 SNPs	MR Egger	1145.88676132397	907	1.01892207246369e-07
+Yengo BMI EU sex combined 941 SNPs	933	Serum total cholesterol || id:933	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1146.42652514822	908	1.08504243124665e-07
+Yengo BMI EU sex combined 941 SNPs	933	Serum total cholesterol || id:933	Yengo BMI EU sex combined 941 SNPs	IVW radial	1146.41554008971	908	1.08632953569158e-07
+Yengo BMI EU sex combined 941 SNPs	933	Serum total cholesterol || id:933	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.224742362671217	908	1
+Yengo BMI EU sex combined 941 SNPs	934	Serum total triglycerides || id:934	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1168.64388623409	907	7.9861305218813e-09
+Yengo BMI EU sex combined 941 SNPs	934	Serum total triglycerides || id:934	Yengo BMI EU sex combined 941 SNPs	MR Egger	1151.98941437641	906	4.62235403471726e-08
+Yengo BMI EU sex combined 941 SNPs	934	Serum total triglycerides || id:934	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1168.95794847562	907	7.70135590653959e-09
+Yengo BMI EU sex combined 941 SNPs	934	Serum total triglycerides || id:934	Yengo BMI EU sex combined 941 SNPs	IVW radial	1168.44181659483	907	8.17476314439959e-09
+Yengo BMI EU sex combined 941 SNPs	934	Serum total triglycerides || id:934	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.213899279365321	907	1
+Yengo BMI EU sex combined 941 SNPs	935	Sphingomyelins || id:935	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	957.092192519222	908	0.125597719523346
+Yengo BMI EU sex combined 941 SNPs	935	Sphingomyelins || id:935	Yengo BMI EU sex combined 941 SNPs	MR Egger	956.358511265597	907	0.124230015245206
+Yengo BMI EU sex combined 941 SNPs	935	Sphingomyelins || id:935	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	957.092192519222	908	0.125597719523346
+Yengo BMI EU sex combined 941 SNPs	935	Sphingomyelins || id:935	Yengo BMI EU sex combined 941 SNPs	IVW radial	957.084147944947	908	0.125635368915523
+Yengo BMI EU sex combined 941 SNPs	935	Sphingomyelins || id:935	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.249592997367578	908	1
+Yengo BMI EU sex combined 941 SNPs	936	Total fatty acids || id:936	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1023.59938823834	907	0.00409774264274367
+Yengo BMI EU sex combined 941 SNPs	936	Total fatty acids || id:936	Yengo BMI EU sex combined 941 SNPs	MR Egger	1017.45715082873	906	0.0056449476169765
+Yengo BMI EU sex combined 941 SNPs	936	Total fatty acids || id:936	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1023.64185136467	907	0.0040866179096557
+Yengo BMI EU sex combined 941 SNPs	936	Total fatty acids || id:936	Yengo BMI EU sex combined 941 SNPs	IVW radial	1023.5731497258	907	0.00410463045135823
+Yengo BMI EU sex combined 941 SNPs	936	Total fatty acids || id:936	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.310573921906371	907	1
+Yengo BMI EU sex combined 941 SNPs	937	Total phosphoglycerides || id:937	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	974.012584645614	907	0.0603558111197329
+Yengo BMI EU sex combined 941 SNPs	937	Total phosphoglycerides || id:937	Yengo BMI EU sex combined 941 SNPs	MR Egger	972.864611208351	906	0.0606553935356027
+Yengo BMI EU sex combined 941 SNPs	937	Total phosphoglycerides || id:937	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	974.012584645613	907	0.0603558111197339
+Yengo BMI EU sex combined 941 SNPs	937	Total phosphoglycerides || id:937	Yengo BMI EU sex combined 941 SNPs	IVW radial	974.011263137829	907	0.0603593524249054
+Yengo BMI EU sex combined 941 SNPs	937	Total phosphoglycerides || id:937	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.298778244139479	907	1
+Yengo BMI EU sex combined 941 SNPs	938	Tyrosine || id:938	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1039.20864586824	909	0.00167016225393304
+Yengo BMI EU sex combined 941 SNPs	938	Tyrosine || id:938	Yengo BMI EU sex combined 941 SNPs	MR Egger	1037.91953659561	908	0.00169579432193088
+Yengo BMI EU sex combined 941 SNPs	938	Tyrosine || id:938	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1039.32550344195	909	0.00165671587710033
+Yengo BMI EU sex combined 941 SNPs	938	Tyrosine || id:938	Yengo BMI EU sex combined 941 SNPs	IVW radial	1039.13202774303	909	0.00167903283438429
+Yengo BMI EU sex combined 941 SNPs	938	Tyrosine || id:938	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.163955297875972	909	1
+Yengo BMI EU sex combined 941 SNPs	939	Urea || id:939	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	997.653915263049	908	0.019995386471534
+Yengo BMI EU sex combined 941 SNPs	939	Urea || id:939	Yengo BMI EU sex combined 941 SNPs	MR Egger	997.142828215305	907	0.0194289799445374
+Yengo BMI EU sex combined 941 SNPs	939	Urea || id:939	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	997.653915263049	908	0.019995386471534
+Yengo BMI EU sex combined 941 SNPs	939	Urea || id:939	Yengo BMI EU sex combined 941 SNPs	IVW radial	997.653803140104	908	0.0199955061120086
+Yengo BMI EU sex combined 941 SNPs	939	Urea || id:939	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.231905223118316	908	1
+Yengo BMI EU sex combined 941 SNPs	940	Valine || id:940	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1107.11511492616	909	6.45624791186422e-06
+Yengo BMI EU sex combined 941 SNPs	940	Valine || id:940	Yengo BMI EU sex combined 941 SNPs	MR Egger	1103.44500625943	908	8.21244821741147e-06
+Yengo BMI EU sex combined 941 SNPs	940	Valine || id:940	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1107.22471375827	909	6.38998903084908e-06
+Yengo BMI EU sex combined 941 SNPs	940	Valine || id:940	Yengo BMI EU sex combined 941 SNPs	IVW radial	1107.05410441066	909	6.49341769979722e-06
+Yengo BMI EU sex combined 941 SNPs	940	Valine || id:940	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.176475662805883	909	1
+Yengo BMI EU sex combined 941 SNPs	941	Mean diameter for VLDL particles || id:941	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1109.92659518058	908	4.45438983286068e-06
+Yengo BMI EU sex combined 941 SNPs	941	Mean diameter for VLDL particles || id:941	Yengo BMI EU sex combined 941 SNPs	MR Egger	1090.90551175428	907	2.33257641944547e-05
+Yengo BMI EU sex combined 941 SNPs	941	Mean diameter for VLDL particles || id:941	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1110.11762770752	908	4.37381861007414e-06
+Yengo BMI EU sex combined 941 SNPs	941	Mean diameter for VLDL particles || id:941	Yengo BMI EU sex combined 941 SNPs	IVW radial	1109.80107878187	908	4.50810353271742e-06
+Yengo BMI EU sex combined 941 SNPs	941	Mean diameter for VLDL particles || id:941	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.235968281777604	908	1
+Yengo BMI EU sex combined 941 SNPs	942	Total cholesterol in very large HDL || id:942	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1011.54777430413	907	0.00861519196422896
+Yengo BMI EU sex combined 941 SNPs	942	Total cholesterol in very large HDL || id:942	Yengo BMI EU sex combined 941 SNPs	MR Egger	1006.52549094348	906	0.010867117166564
+Yengo BMI EU sex combined 941 SNPs	942	Total cholesterol in very large HDL || id:942	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1011.57458524978	907	0.0086015050830702
+Yengo BMI EU sex combined 941 SNPs	942	Total cholesterol in very large HDL || id:942	Yengo BMI EU sex combined 941 SNPs	IVW radial	1011.51951236884	907	0.00862964050834941
+Yengo BMI EU sex combined 941 SNPs	942	Total cholesterol in very large HDL || id:942	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.188422321168143	907	1
+Yengo BMI EU sex combined 941 SNPs	943	Cholesterol esters in very large HDL || id:943	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1011.5806064896	908	0.00915185089936985
+Yengo BMI EU sex combined 941 SNPs	943	Cholesterol esters in very large HDL || id:943	Yengo BMI EU sex combined 941 SNPs	MR Egger	1006.28613853899	907	0.0117057135566314
+Yengo BMI EU sex combined 941 SNPs	943	Cholesterol esters in very large HDL || id:943	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1011.60399025626	908	0.00913926124770972
+Yengo BMI EU sex combined 941 SNPs	943	Cholesterol esters in very large HDL || id:943	Yengo BMI EU sex combined 941 SNPs	IVW radial	1011.55598899319	908	0.00916512139310847
+Yengo BMI EU sex combined 941 SNPs	943	Cholesterol esters in very large HDL || id:943	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.204756997215029	908	1
+Yengo BMI EU sex combined 941 SNPs	944	Free cholesterol in very large HDL || id:944	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1075.51707567267	907	8.82201475788272e-05
+Yengo BMI EU sex combined 941 SNPs	944	Free cholesterol in very large HDL || id:944	Yengo BMI EU sex combined 941 SNPs	MR Egger	1062.22848347781	906	0.000238287568879976
+Yengo BMI EU sex combined 941 SNPs	944	Free cholesterol in very large HDL || id:944	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1075.64561506849	907	8.72764040972404e-05
+Yengo BMI EU sex combined 941 SNPs	944	Free cholesterol in very large HDL || id:944	Yengo BMI EU sex combined 941 SNPs	IVW radial	1075.42239567406	907	8.89214700331537e-05
+Yengo BMI EU sex combined 941 SNPs	944	Free cholesterol in very large HDL || id:944	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.201741633606985	907	1
+Yengo BMI EU sex combined 941 SNPs	945	Total lipids in very large HDL || id:945	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1050.59680662561	908	0.000684847338642059
+Yengo BMI EU sex combined 941 SNPs	945	Total lipids in very large HDL || id:945	Yengo BMI EU sex combined 941 SNPs	MR Egger	1035.89780169212	907	0.00181096916834417
+Yengo BMI EU sex combined 941 SNPs	945	Total lipids in very large HDL || id:945	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1050.69307769964	908	0.000679989084218546
+Yengo BMI EU sex combined 941 SNPs	945	Total lipids in very large HDL || id:945	Yengo BMI EU sex combined 941 SNPs	IVW radial	1050.52921725571	908	0.000688277473460541
+Yengo BMI EU sex combined 941 SNPs	945	Total lipids in very large HDL || id:945	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.218964155948481	908	1
+Yengo BMI EU sex combined 941 SNPs	946	Concentration of very large HDL particles || id:946	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1087.58064732473	908	3.4476110576685e-05
+Yengo BMI EU sex combined 941 SNPs	946	Concentration of very large HDL particles || id:946	Yengo BMI EU sex combined 941 SNPs	MR Egger	1069.05297669685	907	0.000150337070108299
+Yengo BMI EU sex combined 941 SNPs	946	Concentration of very large HDL particles || id:946	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1087.67855499534	908	3.41816479392877e-05
+Yengo BMI EU sex combined 941 SNPs	946	Concentration of very large HDL particles || id:946	Yengo BMI EU sex combined 941 SNPs	IVW radial	1087.5132276767	908	3.46802826771989e-05
+Yengo BMI EU sex combined 941 SNPs	946	Concentration of very large HDL particles || id:946	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.215060394034571	908	1
+Yengo BMI EU sex combined 941 SNPs	947	Phospholipids in very large HDL || id:947	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1120.29990312556	908	1.62312699736945e-06
+Yengo BMI EU sex combined 941 SNPs	947	Phospholipids in very large HDL || id:947	Yengo BMI EU sex combined 941 SNPs	MR Egger	1094.60106746593	907	1.67329852321727e-05
+Yengo BMI EU sex combined 941 SNPs	947	Phospholipids in very large HDL || id:947	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1120.51772908727	908	1.58844738103916e-06
+Yengo BMI EU sex combined 941 SNPs	947	Phospholipids in very large HDL || id:947	Yengo BMI EU sex combined 941 SNPs	IVW radial	1120.13906268821	908	1.64920181798422e-06
+Yengo BMI EU sex combined 941 SNPs	947	Phospholipids in very large HDL || id:947	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.240811785474099	908	1
+Yengo BMI EU sex combined 941 SNPs	948	Triglycerides in very large HDL || id:948	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1000.31511658975	907	0.0163580292698746
+Yengo BMI EU sex combined 941 SNPs	948	Triglycerides in very large HDL || id:948	Yengo BMI EU sex combined 941 SNPs	MR Egger	998.253634889938	906	0.0172882783753231
+Yengo BMI EU sex combined 941 SNPs	948	Triglycerides in very large HDL || id:948	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1000.31511658975	907	0.0163580292698744
+Yengo BMI EU sex combined 941 SNPs	948	Triglycerides in very large HDL || id:948	Yengo BMI EU sex combined 941 SNPs	IVW radial	1000.30352492554	907	0.016368435088217
+Yengo BMI EU sex combined 941 SNPs	948	Triglycerides in very large HDL || id:948	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.197840813902277	907	1
+Yengo BMI EU sex combined 941 SNPs	949	Total lipids in very large VLDL || id:949	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1059.7347734875	908	0.000343052476582308
+Yengo BMI EU sex combined 941 SNPs	949	Total lipids in very large VLDL || id:949	Yengo BMI EU sex combined 941 SNPs	MR Egger	1047.7233252739	907	0.000781804756584043
+Yengo BMI EU sex combined 941 SNPs	949	Total lipids in very large VLDL || id:949	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1060.02815245326	908	0.000335348156923972
+Yengo BMI EU sex combined 941 SNPs	949	Total lipids in very large VLDL || id:949	Yengo BMI EU sex combined 941 SNPs	IVW radial	1059.54036828855	908	0.000348248761097709
+Yengo BMI EU sex combined 941 SNPs	949	Total lipids in very large VLDL || id:949	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.248112006326965	908	1
+Yengo BMI EU sex combined 941 SNPs	950	Concentration of very large VLDL particles || id:950	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1065.85930075861	907	0.000194523072512676
+Yengo BMI EU sex combined 941 SNPs	950	Concentration of very large VLDL particles || id:950	Yengo BMI EU sex combined 941 SNPs	MR Egger	1048.57332928596	906	0.000678448385676996
+Yengo BMI EU sex combined 941 SNPs	950	Concentration of very large VLDL particles || id:950	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1066.13305914971	907	0.000190301852859982
+Yengo BMI EU sex combined 941 SNPs	950	Concentration of very large VLDL particles || id:950	Yengo BMI EU sex combined 941 SNPs	IVW radial	1065.67846141586	907	0.000197359745549405
+Yengo BMI EU sex combined 941 SNPs	950	Concentration of very large VLDL particles || id:950	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.253332535296436	907	1
+Yengo BMI EU sex combined 941 SNPs	951	Phospholipids in very large VLDL || id:951	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1095.72690424562	908	1.66898554185516e-05
+Yengo BMI EU sex combined 941 SNPs	951	Phospholipids in very large VLDL || id:951	Yengo BMI EU sex combined 941 SNPs	MR Egger	1084.63042461917	907	4.05433050063556e-05
+Yengo BMI EU sex combined 941 SNPs	951	Phospholipids in very large VLDL || id:951	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1096.0025103493	908	1.6278447275381e-05
+Yengo BMI EU sex combined 941 SNPs	951	Phospholipids in very large VLDL || id:951	Yengo BMI EU sex combined 941 SNPs	IVW radial	1095.53186976512	908	1.69869804406757e-05
+Yengo BMI EU sex combined 941 SNPs	951	Phospholipids in very large VLDL || id:951	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.201604119227451	908	1
+Yengo BMI EU sex combined 941 SNPs	952	Triglycerides in very large VLDL || id:952	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1049.93705761539	907	0.000664104058279738
+Yengo BMI EU sex combined 941 SNPs	952	Triglycerides in very large VLDL || id:952	Yengo BMI EU sex combined 941 SNPs	MR Egger	1040.41130184582	906	0.00122607777074512
+Yengo BMI EU sex combined 941 SNPs	952	Triglycerides in very large VLDL || id:952	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1050.20494415049	907	0.00065103802998356
+Yengo BMI EU sex combined 941 SNPs	952	Triglycerides in very large VLDL || id:952	Yengo BMI EU sex combined 941 SNPs	IVW radial	1049.74893429231	907	0.000673425174179392
+Yengo BMI EU sex combined 941 SNPs	952	Triglycerides in very large VLDL || id:952	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.198545892264645	907	1
+Yengo BMI EU sex combined 941 SNPs	953	Total lipids in very small VLDL || id:953	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1032.6222236818	908	0.00243224154040208
+Yengo BMI EU sex combined 941 SNPs	953	Total lipids in very small VLDL || id:953	Yengo BMI EU sex combined 941 SNPs	MR Egger	1026.64090455566	907	0.00336672878012778
+Yengo BMI EU sex combined 941 SNPs	953	Total lipids in very small VLDL || id:953	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1032.79841780489	908	0.00240365624946883
+Yengo BMI EU sex combined 941 SNPs	953	Total lipids in very small VLDL || id:953	Yengo BMI EU sex combined 941 SNPs	IVW radial	1032.5132423973	908	0.00245007760720846
+Yengo BMI EU sex combined 941 SNPs	953	Total lipids in very small VLDL || id:953	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.230486975002265	908	1
+Yengo BMI EU sex combined 941 SNPs	954	Concentration of very small VLDL particles || id:954	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1042.91435073937	908	0.00119509084104651
+Yengo BMI EU sex combined 941 SNPs	954	Concentration of very small VLDL particles || id:954	Yengo BMI EU sex combined 941 SNPs	MR Egger	1036.0783258049	907	0.00178861417611552
+Yengo BMI EU sex combined 941 SNPs	954	Concentration of very small VLDL particles || id:954	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1043.10830296595	908	0.00117873504919618
+Yengo BMI EU sex combined 941 SNPs	954	Concentration of very small VLDL particles || id:954	Yengo BMI EU sex combined 941 SNPs	IVW radial	1042.7992587872	908	0.00120489534406932
+Yengo BMI EU sex combined 941 SNPs	954	Concentration of very small VLDL particles || id:954	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.235742753683488	908	1
+Yengo BMI EU sex combined 941 SNPs	955	Phospholipids in very small VLDL || id:955	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	997.804097674861	908	0.0198356869198424
+Yengo BMI EU sex combined 941 SNPs	955	Phospholipids in very small VLDL || id:955	Yengo BMI EU sex combined 941 SNPs	MR Egger	995.932806999402	907	0.0207249602571449
+Yengo BMI EU sex combined 941 SNPs	955	Phospholipids in very small VLDL || id:955	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	997.890533820529	908	0.019744272175442
+Yengo BMI EU sex combined 941 SNPs	955	Phospholipids in very small VLDL || id:955	Yengo BMI EU sex combined 941 SNPs	IVW radial	997.749699327801	908	0.0198934052014979
+Yengo BMI EU sex combined 941 SNPs	955	Phospholipids in very small VLDL || id:955	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.215105354544629	908	1
+Yengo BMI EU sex combined 941 SNPs	956	Triglycerides in very small VLDL || id:956	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1128.30996187314	908	7.25764058995411e-07
+Yengo BMI EU sex combined 941 SNPs	956	Triglycerides in very small VLDL || id:956	Yengo BMI EU sex combined 941 SNPs	MR Egger	1115.66844887188	907	2.29673107730207e-06
+Yengo BMI EU sex combined 941 SNPs	956	Triglycerides in very small VLDL || id:956	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1128.59261759594	908	7.05158649905407e-07
+Yengo BMI EU sex combined 941 SNPs	956	Triglycerides in very small VLDL || id:956	Yengo BMI EU sex combined 941 SNPs	IVW radial	1128.12905554635	908	7.39256381847773e-07
+Yengo BMI EU sex combined 941 SNPs	956	Triglycerides in very small VLDL || id:956	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.250895779172716	908	1
+Yengo BMI EU sex combined 941 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1056.5492132034	908	0.000438098268393655
+Yengo BMI EU sex combined 941 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Yengo BMI EU sex combined 941 SNPs	MR Egger	1047.35225036405	907	0.000803336633701808
+Yengo BMI EU sex combined 941 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1056.86318172982	908	0.000427736966814862
+Yengo BMI EU sex combined 941 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Yengo BMI EU sex combined 941 SNPs	IVW radial	1056.33932436907	908	0.000445155243826795
+Yengo BMI EU sex combined 941 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.258506680674819	908	1
+Yengo BMI EU sex combined 941 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1099.9331200398	908	1.13696145046814e-05
+Yengo BMI EU sex combined 941 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Yengo BMI EU sex combined 941 SNPs	MR Egger	1091.04204835454	907	2.30432478630374e-05
+Yengo BMI EU sex combined 941 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1100.20356987521	908	1.10900526537262e-05
+Yengo BMI EU sex combined 941 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Yengo BMI EU sex combined 941 SNPs	IVW radial	1099.73462301862	908	1.15790828404302e-05
+Yengo BMI EU sex combined 941 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.276824597487357	908	1
+Yengo BMI EU sex combined 941 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1043.01628319322	907	0.00109922396098012
+Yengo BMI EU sex combined 941 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Yengo BMI EU sex combined 941 SNPs	MR Egger	1033.58605298175	906	0.00197213952873693
+Yengo BMI EU sex combined 941 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1043.28584834156	907	0.00107822655404086
+Yengo BMI EU sex combined 941 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Yengo BMI EU sex combined 941 SNPs	IVW radial	1042.81466934628	907	0.00111517504056999
+Yengo BMI EU sex combined 941 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.196001585739191	907	1
+Yengo BMI EU sex combined 941 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1107.01814925312	907	5.289610148985e-06
+Yengo BMI EU sex combined 941 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Yengo BMI EU sex combined 941 SNPs	MR Egger	1096.16883472479	906	1.31271464706766e-05
+Yengo BMI EU sex combined 941 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1107.31942487247	907	5.14038182656614e-06
+Yengo BMI EU sex combined 941 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Yengo BMI EU sex combined 941 SNPs	IVW radial	1106.82586032048	907	5.38702251309305e-06
+Yengo BMI EU sex combined 941 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.202907504594097	907	1

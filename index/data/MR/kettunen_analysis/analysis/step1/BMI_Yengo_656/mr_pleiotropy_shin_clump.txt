@@ -1,0 +1,453 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+Yengo BMI EU sex combined 656 SNPs clumped	303	Glutamine || id:303	Yengo BMI EU sex combined 656 SNPs clumped	-0.000184253828476317	0.00020992712583373	0.380799910094233
+Yengo BMI EU sex combined 656 SNPs clumped	304	Tryptophan || id:304	Yengo BMI EU sex combined 656 SNPs clumped	0.000236565539994552	0.000231735407909162	0.308145745563776
+Yengo BMI EU sex combined 656 SNPs clumped	305	Histidine || id:305	Yengo BMI EU sex combined 656 SNPs clumped	0.000120423155476146	0.000217657785540514	0.580487684829276
+Yengo BMI EU sex combined 656 SNPs clumped	306	Leucine || id:306	Yengo BMI EU sex combined 656 SNPs clumped	-8.87218111839328e-05	0.000237171791564326	0.708605457386839
+Yengo BMI EU sex combined 656 SNPs clumped	307	Cholesterol || id:307	Yengo BMI EU sex combined 656 SNPs clumped	0.00052585642461587	0.000300927381495024	0.0815718530439819
+Yengo BMI EU sex combined 656 SNPs clumped	308	Phenylalanine || id:308	Yengo BMI EU sex combined 656 SNPs clumped	1.23682078990365e-05	0.000215300233548182	0.954227523885918
+Yengo BMI EU sex combined 656 SNPs clumped	309	Creatinine || id:309	Yengo BMI EU sex combined 656 SNPs clumped	4.16453069866562e-06	0.000293567190282716	0.988690961808433
+Yengo BMI EU sex combined 656 SNPs clumped	310	Lactate || id:310	Yengo BMI EU sex combined 656 SNPs clumped	0.0002587883143348	0.00042756427520142	0.545458119367406
+Yengo BMI EU sex combined 656 SNPs clumped	311	3-hydroxybutyrate (BHBA) || id:311	Yengo BMI EU sex combined 656 SNPs clumped	0.00154389279226826	0.00128088092454029	0.229013824381298
+Yengo BMI EU sex combined 656 SNPs clumped	312	Arabinose || id:312	Yengo BMI EU sex combined 656 SNPs clumped	0.000969729699516606	0.000664823530818778	0.145706965787317
+Yengo BMI EU sex combined 656 SNPs clumped	313	Fructose || id:313	Yengo BMI EU sex combined 656 SNPs clumped	0.000500222930728682	0.000717187855945006	0.486040148375151
+Yengo BMI EU sex combined 656 SNPs clumped	314	Mannose || id:314	Yengo BMI EU sex combined 656 SNPs clumped	0.000301114016609208	0.000427552654201107	0.481803366709211
+Yengo BMI EU sex combined 656 SNPs clumped	315	Pyruvate || id:315	Yengo BMI EU sex combined 656 SNPs clumped	0.000902235103767809	0.000690807673349069	0.192526634227317
+Yengo BMI EU sex combined 656 SNPs clumped	316	Uridine || id:316	Yengo BMI EU sex combined 656 SNPs clumped	2.20465414119896e-05	0.000295163104461822	0.940508470979977
+Yengo BMI EU sex combined 656 SNPs clumped	317	Linoleate (18:2n6) || id:317	Yengo BMI EU sex combined 656 SNPs clumped	0.000498396347945023	0.000456011590901685	0.275285401464546
+Yengo BMI EU sex combined 656 SNPs clumped	318	Allantoin || id:318	Yengo BMI EU sex combined 656 SNPs clumped	-9.6699441663698e-05	0.000835733947348363	0.90796243989234
+Yengo BMI EU sex combined 656 SNPs clumped	319	Arachidonate (20:4n6) || id:319	Yengo BMI EU sex combined 656 SNPs clumped	0.000626833912870295	0.000419378594530261	0.136043909420707
+Yengo BMI EU sex combined 656 SNPs clumped	320	Deoxycholate || id:320	Yengo BMI EU sex combined 656 SNPs clumped	6.16306128359418e-05	0.00124996248079654	0.960708054327267
+Yengo BMI EU sex combined 656 SNPs clumped	321	Margarate (17:0) || id:321	Yengo BMI EU sex combined 656 SNPs clumped	0.000722639986405015	0.000558029682533229	0.196311319810998
+Yengo BMI EU sex combined 656 SNPs clumped	322	Inosine || id:322	Yengo BMI EU sex combined 656 SNPs clumped	0.000424491782325399	0.00202564305229564	0.834152690479172
+Yengo BMI EU sex combined 656 SNPs clumped	323	Isoleucine || id:323	Yengo BMI EU sex combined 656 SNPs clumped	-5.17715441464585e-05	0.000276275794405309	0.851479649090009
+Yengo BMI EU sex combined 656 SNPs clumped	324	Threonine || id:324	Yengo BMI EU sex combined 656 SNPs clumped	-6.65176121276892e-05	0.000462164601917076	0.885654392670953
+Yengo BMI EU sex combined 656 SNPs clumped	325	Tyrosine || id:325	Yengo BMI EU sex combined 656 SNPs clumped	-0.000114043383887886	0.000300593585493324	0.704661101821994
+Yengo BMI EU sex combined 656 SNPs clumped	326	Lysine || id:326	Yengo BMI EU sex combined 656 SNPs clumped	-0.00045569537059302	0.000299549272323482	0.129234913817972
+Yengo BMI EU sex combined 656 SNPs clumped	327	Methionine || id:327	Yengo BMI EU sex combined 656 SNPs clumped	9.51503342984347e-05	0.00025284727565819	0.706945764313793
+Yengo BMI EU sex combined 656 SNPs clumped	328	Malate || id:328	Yengo BMI EU sex combined 656 SNPs clumped	0.000564461982912207	0.00047809632475251	0.238672851521152
+Yengo BMI EU sex combined 656 SNPs clumped	329	Palmitate (16:0) || id:329	Yengo BMI EU sex combined 656 SNPs clumped	0.0003042107085735	0.000394453750488986	0.44117740234648
+Yengo BMI EU sex combined 656 SNPs clumped	330	Nonadecanoate (19:0) || id:330	Yengo BMI EU sex combined 656 SNPs clumped	0.000678278146863883	0.000459105120618711	0.140609267958612
+Yengo BMI EU sex combined 656 SNPs clumped	331	Stearate (18:0) || id:331	Yengo BMI EU sex combined 656 SNPs clumped	0.000633991459901673	0.000389875293324241	0.104959612243893
+Yengo BMI EU sex combined 656 SNPs clumped	332	Oleate (18:1n9) || id:332	Yengo BMI EU sex combined 656 SNPs clumped	0.00056869844605949	0.000443160364768955	0.200374924360327
+Yengo BMI EU sex combined 656 SNPs clumped	333	Pentadecanoate (15:0) || id:333	Yengo BMI EU sex combined 656 SNPs clumped	0.000723583944944771	0.000447278720949818	0.106757564319174
+Yengo BMI EU sex combined 656 SNPs clumped	334	Myristate (14:0) || id:334	Yengo BMI EU sex combined 656 SNPs clumped	0.000350257023689095	0.000474003725027099	0.460519660270828
+Yengo BMI EU sex combined 656 SNPs clumped	335	Pipecolate || id:335	Yengo BMI EU sex combined 656 SNPs clumped	0.000308673882823121	0.000718903394803757	0.667960816116155
+Yengo BMI EU sex combined 656 SNPs clumped	336	Ornithine || id:336	Yengo BMI EU sex combined 656 SNPs clumped	0.000663070393414435	0.000429793464462472	0.12393147512494
+Yengo BMI EU sex combined 656 SNPs clumped	337	5-oxoproline || id:337	Yengo BMI EU sex combined 656 SNPs clumped	4.10073407264791e-05	0.000316914449247247	0.897130467603066
+Yengo BMI EU sex combined 656 SNPs clumped	338	Pantothenate || id:338	Yengo BMI EU sex combined 656 SNPs clumped	-9.75487897018145e-05	0.000480559881809555	0.839279190389899
+Yengo BMI EU sex combined 656 SNPs clumped	339	4-acetamidobutanoate || id:339	Yengo BMI EU sex combined 656 SNPs clumped	5.43423825072813e-06	0.000365989854471922	0.988163171599728
+Yengo BMI EU sex combined 656 SNPs clumped	340	Alpha-tocopherol || id:340	Yengo BMI EU sex combined 656 SNPs clumped	0.000156423154798776	0.000574137653916973	0.785462471905224
+Yengo BMI EU sex combined 656 SNPs clumped	341	Citrate || id:341	Yengo BMI EU sex combined 656 SNPs clumped	0.00015985184642609	0.000362662073640767	0.659692302232984
+Yengo BMI EU sex combined 656 SNPs clumped	342	Glycerate || id:342	Yengo BMI EU sex combined 656 SNPs clumped	0.000956470636171352	0.000435225677392206	0.0287310259692162
+Yengo BMI EU sex combined 656 SNPs clumped	343	Guanosine || id:343	Yengo BMI EU sex combined 656 SNPs clumped	0.000215351189489822	0.0013452913957002	0.872926507676793
+Yengo BMI EU sex combined 656 SNPs clumped	344	N-acetylalanine || id:344	Yengo BMI EU sex combined 656 SNPs clumped	-0.000354766769267225	0.000283282681315007	0.211411066165909
+Yengo BMI EU sex combined 656 SNPs clumped	345	Urate || id:345	Yengo BMI EU sex combined 656 SNPs clumped	-0.000379684662927911	0.000291849154873136	0.194259919131494
+Yengo BMI EU sex combined 656 SNPs clumped	346	Ursodeoxycholate || id:346	Yengo BMI EU sex combined 656 SNPs clumped	-0.000733491351474732	0.0012077953854477	0.544108199137118
+Yengo BMI EU sex combined 656 SNPs clumped	347	Arginine || id:347	Yengo BMI EU sex combined 656 SNPs clumped	0.000462064431171459	0.000500251091783149	0.356395715203402
+Yengo BMI EU sex combined 656 SNPs clumped	348	Ascorbate (Vitamin C) || id:348	Yengo BMI EU sex combined 656 SNPs clumped	0.00134332062421232	0.00199508689267409	0.501260564866269
+Yengo BMI EU sex combined 656 SNPs clumped	349	Heptanoate (7:0) || id:349	Yengo BMI EU sex combined 656 SNPs clumped	0.00049541236094588	0.000421260469586237	0.240511556962867
+Yengo BMI EU sex combined 656 SNPs clumped	350	Laurate (12:0) || id:350	Yengo BMI EU sex combined 656 SNPs clumped	3.27927482124334e-05	0.000380293329546476	0.931340610985674
+Yengo BMI EU sex combined 656 SNPs clumped	351	Valine || id:351	Yengo BMI EU sex combined 656 SNPs clumped	-0.000113315450969716	0.000244597872014247	0.643501682909866
+Yengo BMI EU sex combined 656 SNPs clumped	352	Urea || id:352	Yengo BMI EU sex combined 656 SNPs clumped	1.40525969429512e-05	0.000450705569842041	0.975147229749608
+Yengo BMI EU sex combined 656 SNPs clumped	353	Cortisol || id:353	Yengo BMI EU sex combined 656 SNPs clumped	-0.000156674488568211	0.000597154761297845	0.793215786587261
+Yengo BMI EU sex combined 656 SNPs clumped	354	Cortisone || id:354	Yengo BMI EU sex combined 656 SNPs clumped	0.000281143308518329	0.000369676807414795	0.447540533570958
+Yengo BMI EU sex combined 656 SNPs clumped	355	Proline || id:355	Yengo BMI EU sex combined 656 SNPs clumped	-0.000182049240630801	0.000384725885903233	0.636417988976729
+Yengo BMI EU sex combined 656 SNPs clumped	356	Citrulline || id:356	Yengo BMI EU sex combined 656 SNPs clumped	-0.000318847912159906	0.000401044683442017	0.427210603241335
+Yengo BMI EU sex combined 656 SNPs clumped	357	Biliverdin || id:357	Yengo BMI EU sex combined 656 SNPs clumped	0.000401488313537184	0.000721831409681653	0.578479266832252
+Yengo BMI EU sex combined 656 SNPs clumped	358	Serotonin (5HT) || id:358	Yengo BMI EU sex combined 656 SNPs clumped	-0.00174045829991632	0.000708512098352911	0.0145905935631926
+Yengo BMI EU sex combined 656 SNPs clumped	359	Gamma-glutamylglutamine || id:359	Yengo BMI EU sex combined 656 SNPs clumped	-0.000179798175979462	0.000398785712140287	0.652409946427812
+Yengo BMI EU sex combined 656 SNPs clumped	360	Gamma-glutamyltyrosine || id:360	Yengo BMI EU sex combined 656 SNPs clumped	-0.000409372772037809	0.000371721150832635	0.271644547980004
+Yengo BMI EU sex combined 656 SNPs clumped	361	Hypoxanthine || id:361	Yengo BMI EU sex combined 656 SNPs clumped	0.000514603470785104	0.000492282900986082	0.296698636091628
+Yengo BMI EU sex combined 656 SNPs clumped	362	Betaine || id:362	Yengo BMI EU sex combined 656 SNPs clumped	0.00101893841097805	0.000438414110311557	0.0207787281531192
+Yengo BMI EU sex combined 656 SNPs clumped	363	Xanthine || id:363	Yengo BMI EU sex combined 656 SNPs clumped	0.000490716961474999	0.000529835488894535	0.355095484403432
+Yengo BMI EU sex combined 656 SNPs clumped	364	Phosphate || id:364	Yengo BMI EU sex combined 656 SNPs clumped	-2.41905378182385e-05	0.000231955029150104	0.917008389601612
+Yengo BMI EU sex combined 656 SNPs clumped	365	3-methoxytyrosine || id:365	Yengo BMI EU sex combined 656 SNPs clumped	-0.000179118161642164	0.00048289092202069	0.710949746249939
+Yengo BMI EU sex combined 656 SNPs clumped	366	Pelargonate (9:0) || id:366	Yengo BMI EU sex combined 656 SNPs clumped	0.000401603711302962	0.000401186754998326	0.317609200443574
+Yengo BMI EU sex combined 656 SNPs clumped	367	Undecanoate (11:0) || id:367	Yengo BMI EU sex combined 656 SNPs clumped	0.000626644146470968	0.000295731198771066	0.0349067356273715
+Yengo BMI EU sex combined 656 SNPs clumped	368	Beta-hydroxyisovalerate || id:368	Yengo BMI EU sex combined 656 SNPs clumped	-0.000454005427344982	0.00052799395975487	0.390541291512591
+Yengo BMI EU sex combined 656 SNPs clumped	369	Taurodeoxycholate || id:369	Yengo BMI EU sex combined 656 SNPs clumped	-0.00249117739836607	0.00190218320190234	0.191312671189348
+Yengo BMI EU sex combined 656 SNPs clumped	370	X-02973 || id:370	Yengo BMI EU sex combined 656 SNPs clumped	6.11687856453524e-06	0.00028527484737342	0.982907140494569
+Yengo BMI EU sex combined 656 SNPs clumped	371	X-03003 || id:371	Yengo BMI EU sex combined 656 SNPs clumped	0.000655368705624188	0.000447815569833674	0.144372932308485
+Yengo BMI EU sex combined 656 SNPs clumped	372	X-03088 || id:372	Yengo BMI EU sex combined 656 SNPs clumped	0.000185330658311273	0.000582074513133514	0.750404044561381
+Yengo BMI EU sex combined 656 SNPs clumped	373	X-03094 || id:373	Yengo BMI EU sex combined 656 SNPs clumped	0.000508166956546679	0.000407293675794242	0.213119533450757
+Yengo BMI EU sex combined 656 SNPs clumped	374	Glycerol || id:374	Yengo BMI EU sex combined 656 SNPs clumped	-1.64076598206382e-05	0.000448757697566082	0.970857997343281
+Yengo BMI EU sex combined 656 SNPs clumped	375	Kynurenine || id:375	Yengo BMI EU sex combined 656 SNPs clumped	-0.000493630595522359	0.000386465906079245	0.202476318764999
+Yengo BMI EU sex combined 656 SNPs clumped	376	Mannitol || id:376	Yengo BMI EU sex combined 656 SNPs clumped	-0.00217772348841451	0.00182498844119529	0.233692953062427
+Yengo BMI EU sex combined 656 SNPs clumped	377	Glycerol 3-phosphate (G3P) || id:377	Yengo BMI EU sex combined 656 SNPs clumped	0.000469999273057094	0.000459953802531048	0.307671697760477
+Yengo BMI EU sex combined 656 SNPs clumped	378	Acetylphosphate || id:378	Yengo BMI EU sex combined 656 SNPs clumped	0.000265374563426874	0.000284205318481979	0.351180263870673
+Yengo BMI EU sex combined 656 SNPs clumped	379	Carnitine || id:379	Yengo BMI EU sex combined 656 SNPs clumped	0.00016037571881842	0.000238781878358144	0.502325656539423
+Yengo BMI EU sex combined 656 SNPs clumped	380	Choline || id:380	Yengo BMI EU sex combined 656 SNPs clumped	-3.36093030346847e-05	0.000261298607928098	0.897740413193543
+Yengo BMI EU sex combined 656 SNPs clumped	381	N-acetylornithine || id:381	Yengo BMI EU sex combined 656 SNPs clumped	0.000106328123467343	0.000801210143748542	0.894511290167876
+Yengo BMI EU sex combined 656 SNPs clumped	382	N1-methyladenosine || id:382	Yengo BMI EU sex combined 656 SNPs clumped	-0.000313348292274729	0.000225733436938766	0.166115973790876
+Yengo BMI EU sex combined 656 SNPs clumped	383	3-methyl-2-oxovalerate || id:383	Yengo BMI EU sex combined 656 SNPs clumped	-0.000246638058740689	0.000400540879181282	0.538513527890182
+Yengo BMI EU sex combined 656 SNPs clumped	384	3-methylhistidine || id:384	Yengo BMI EU sex combined 656 SNPs clumped	0.00347874797917298	0.0015525714036132	0.0257764461088562
+Yengo BMI EU sex combined 656 SNPs clumped	385	3-phenylpropionate (hydrocinnamate) || id:385	Yengo BMI EU sex combined 656 SNPs clumped	-0.000412667258344921	0.0008162910092655	0.613548804066922
+Yengo BMI EU sex combined 656 SNPs clumped	386	Phenylacetate || id:386	Yengo BMI EU sex combined 656 SNPs clumped	-0.000139938850222455	0.000719040284190645	0.845822573539195
+Yengo BMI EU sex combined 656 SNPs clumped	387	Glycerophosphorylcholine (GPC) || id:387	Yengo BMI EU sex combined 656 SNPs clumped	0.000830843650673764	0.000561991036743296	0.140344800504799
+Yengo BMI EU sex combined 656 SNPs clumped	388	Aspartate || id:388	Yengo BMI EU sex combined 656 SNPs clumped	-0.000273044322398818	0.000708670166286697	0.700292967909979
+Yengo BMI EU sex combined 656 SNPs clumped	389	X-04357 || id:389	Yengo BMI EU sex combined 656 SNPs clumped	-0.000189213258838218	0.000840203730975294	0.821976071116838
+Yengo BMI EU sex combined 656 SNPs clumped	390	X-04494 || id:390	Yengo BMI EU sex combined 656 SNPs clumped	0.000648904947716629	0.000557835580961125	0.245644403269604
+Yengo BMI EU sex combined 656 SNPs clumped	391	X-04495 || id:391	Yengo BMI EU sex combined 656 SNPs clumped	-1.53327517396919e-05	0.00064060511331918	0.980920374980993
+Yengo BMI EU sex combined 656 SNPs clumped	392	X-04498 || id:392	Yengo BMI EU sex combined 656 SNPs clumped	0.000895979523164061	0.000511372356756991	0.0807701856310085
+Yengo BMI EU sex combined 656 SNPs clumped	393	X-04499--3,4-dihydroxybutyrate || id:393	Yengo BMI EU sex combined 656 SNPs clumped	0.000205649726842346	0.000499831719282244	0.681042315118576
+Yengo BMI EU sex combined 656 SNPs clumped	394	X-04500 || id:394	Yengo BMI EU sex combined 656 SNPs clumped	0.000142968476423316	0.00197219318416646	0.942258258054184
+Yengo BMI EU sex combined 656 SNPs clumped	395	Dihomo-linoleate (20:2n6) || id:395	Yengo BMI EU sex combined 656 SNPs clumped	0.000853561921186163	0.000668757793267703	0.202812981114228
+Yengo BMI EU sex combined 656 SNPs clumped	396	X-18601 || id:396	Yengo BMI EU sex combined 656 SNPs clumped	-0.000236447181449137	0.00105848718745857	0.823388593863321
+Yengo BMI EU sex combined 656 SNPs clumped	397	2-hydroxystearate || id:397	Yengo BMI EU sex combined 656 SNPs clumped	0.000344431515841718	0.000388400348053682	0.375894876771533
+Yengo BMI EU sex combined 656 SNPs clumped	398	X-05426 || id:398	Yengo BMI EU sex combined 656 SNPs clumped	0.000401740751752499	0.00103617184679917	0.698498189200366
+Yengo BMI EU sex combined 656 SNPs clumped	399	Indolelactate || id:399	Yengo BMI EU sex combined 656 SNPs clumped	-0.000139628091383559	0.000530641887842229	0.792628796053071
+Yengo BMI EU sex combined 656 SNPs clumped	400	Glycylvaline || id:400	Yengo BMI EU sex combined 656 SNPs clumped	-0.00122345095094724	0.00143420907584239	0.394308051923798
+Yengo BMI EU sex combined 656 SNPs clumped	401	Gamma-glutamylleucine || id:401	Yengo BMI EU sex combined 656 SNPs clumped	-0.000629984053380485	0.000385011404919003	0.102820547152873
+Yengo BMI EU sex combined 656 SNPs clumped	402	Eicosapentaenoate (EPA; 20:5n3) || id:402	Yengo BMI EU sex combined 656 SNPs clumped	0.000727025058032678	0.00065680698708111	0.26921159737232
+Yengo BMI EU sex combined 656 SNPs clumped	403	Estrone 3-sulfate || id:403	Yengo BMI EU sex combined 656 SNPs clumped	-0.000702493830440861	0.00220988919203144	0.75079076329596
+Yengo BMI EU sex combined 656 SNPs clumped	404	Glycocholate || id:404	Yengo BMI EU sex combined 656 SNPs clumped	0.00149371930034046	0.00108672860594225	0.17030248253769
+Yengo BMI EU sex combined 656 SNPs clumped	405	Glycodeoxycholate || id:405	Yengo BMI EU sex combined 656 SNPs clumped	0.000489804033048475	0.00259606321208551	0.850476743737382
+Yengo BMI EU sex combined 656 SNPs clumped	406	Taurochenodeoxycholate || id:406	Yengo BMI EU sex combined 656 SNPs clumped	4.49331988724223e-05	0.00117792907338725	0.969596535068633
+Yengo BMI EU sex combined 656 SNPs clumped	407	Taurocholate || id:407	Yengo BMI EU sex combined 656 SNPs clumped	0.000234958638446317	0.00154928035541677	0.879559023917626
+Yengo BMI EU sex combined 656 SNPs clumped	408	X-05907 || id:408	Yengo BMI EU sex combined 656 SNPs clumped	0.000912036620266457	0.000444796381610093	0.0411797711238448
+Yengo BMI EU sex combined 656 SNPs clumped	409	Docosahexaenoate (DHA; 22:6n3) || id:409	Yengo BMI EU sex combined 656 SNPs clumped	0.00061531101331957	0.000626906321786898	0.327127342045733
+Yengo BMI EU sex combined 656 SNPs clumped	410	1-stearoylglycerophosphoinositol || id:410	Yengo BMI EU sex combined 656 SNPs clumped	-0.000101484818659248	0.00063937334506193	0.873990929388834
+Yengo BMI EU sex combined 656 SNPs clumped	411	X-06226 || id:411	Yengo BMI EU sex combined 656 SNPs clumped	0.000603099142693542	0.000381290960416506	0.114754584466682
+Yengo BMI EU sex combined 656 SNPs clumped	412	X-06246 || id:412	Yengo BMI EU sex combined 656 SNPs clumped	-6.28236506423516e-08	0.000490674055419528	0.999897927060936
+Yengo BMI EU sex combined 656 SNPs clumped	413	X-06267 || id:413	Yengo BMI EU sex combined 656 SNPs clumped	0.000481081885186305	0.000522097247626639	0.357555653897316
+Yengo BMI EU sex combined 656 SNPs clumped	414	X-06307 || id:414	Yengo BMI EU sex combined 656 SNPs clumped	0.000846907508247413	0.000649999517011904	0.19358605478825
+Yengo BMI EU sex combined 656 SNPs clumped	415	X-06350 || id:415	Yengo BMI EU sex combined 656 SNPs clumped	0.000398128064528356	0.000570254925443843	0.485615573201184
+Yengo BMI EU sex combined 656 SNPs clumped	416	X-06351 || id:416	Yengo BMI EU sex combined 656 SNPs clumped	0.00126098048073513	0.000696899537388465	0.0713807132478747
+Yengo BMI EU sex combined 656 SNPs clumped	417	Myo-inositol || id:417	Yengo BMI EU sex combined 656 SNPs clumped	0.000612959681065193	0.000377891065552595	0.105831828543954
+Yengo BMI EU sex combined 656 SNPs clumped	418	Glucose || id:418	Yengo BMI EU sex combined 656 SNPs clumped	1.07990484269886e-05	0.000310108252753181	0.972243427327552
+Yengo BMI EU sex combined 656 SNPs clumped	419	1,5-anhydroglucitol (1,5-AG) || id:419	Yengo BMI EU sex combined 656 SNPs clumped	8.37244066508742e-05	0.000591640205098136	0.887559540940671
+Yengo BMI EU sex combined 656 SNPs clumped	420	2-hydroxybutyrate (AHB) || id:420	Yengo BMI EU sex combined 656 SNPs clumped	0.000557746791802638	0.00058743107626584	0.343142007030308
+Yengo BMI EU sex combined 656 SNPs clumped	421	3-methyl-2-oxobutyrate || id:421	Yengo BMI EU sex combined 656 SNPs clumped	-3.37776641598267e-05	0.000401932448922574	0.933081585644975
+Yengo BMI EU sex combined 656 SNPs clumped	422	1,6-anhydroglucose || id:422	Yengo BMI EU sex combined 656 SNPs clumped	-0.000465456936532263	0.00135996163872241	0.732395257433706
+Yengo BMI EU sex combined 656 SNPs clumped	423	1-palmitoylglycerol (1-monopalmitin) || id:423	Yengo BMI EU sex combined 656 SNPs clumped	0.000635961221402828	0.000550261442479366	0.248699515126162
+Yengo BMI EU sex combined 656 SNPs clumped	424	1-oleoylglycerol (1-monoolein) || id:424	Yengo BMI EU sex combined 656 SNPs clumped	0.000114318100890293	0.000977652793578929	0.906992051302432
+Yengo BMI EU sex combined 656 SNPs clumped	425	1-stearoylglycerol (1-monostearin) || id:425	Yengo BMI EU sex combined 656 SNPs clumped	0.00096842046407029	0.000496337050614834	0.0519654638986207
+Yengo BMI EU sex combined 656 SNPs clumped	426	X-08402 || id:426	Yengo BMI EU sex combined 656 SNPs clumped	0.000697288250631421	0.000476103944298637	0.144074635187264
+Yengo BMI EU sex combined 656 SNPs clumped	427	2-hydroxyisobutyrate || id:427	Yengo BMI EU sex combined 656 SNPs clumped	0.000223563177489377	0.000491208373012302	0.649342371939181
+Yengo BMI EU sex combined 656 SNPs clumped	428	X-08766 || id:428	Yengo BMI EU sex combined 656 SNPs clumped	0.000127158492458484	0.000603893677981169	0.833369215571514
+Yengo BMI EU sex combined 656 SNPs clumped	429	4-methyl-2-oxopentanoate || id:429	Yengo BMI EU sex combined 656 SNPs clumped	-1.43969385266203e-05	0.000409249393676841	0.9719602605534
+Yengo BMI EU sex combined 656 SNPs clumped	430	Phenyllactate (PLA) || id:430	Yengo BMI EU sex combined 656 SNPs clumped	0.000150362351532459	0.000490227606171985	0.759268276991894
+Yengo BMI EU sex combined 656 SNPs clumped	431	Homocitrulline || id:431	Yengo BMI EU sex combined 656 SNPs clumped	0.000943148435641572	0.000792970296968849	0.235218674745633
+Yengo BMI EU sex combined 656 SNPs clumped	432	Aspartylphenylalanine || id:432	Yengo BMI EU sex combined 656 SNPs clumped	0.00107262375559567	0.00097246057300687	0.270902545640266
+Yengo BMI EU sex combined 656 SNPs clumped	433	Levulinate (4-oxovalerate) || id:433	Yengo BMI EU sex combined 656 SNPs clumped	2.08453388964588e-05	0.00039949982275032	0.958420885959135
+Yengo BMI EU sex combined 656 SNPs clumped	434	Palmitoylcarnitine || id:434	Yengo BMI EU sex combined 656 SNPs clumped	0.0012583269988957	0.000602485616954525	0.0375818633587055
+Yengo BMI EU sex combined 656 SNPs clumped	435	X-08988 || id:435	Yengo BMI EU sex combined 656 SNPs clumped	0.000442400467421605	0.000511494875331136	0.387771005638734
+Yengo BMI EU sex combined 656 SNPs clumped	436	X-09026 || id:436	Yengo BMI EU sex combined 656 SNPs clumped	0.000317646872032588	0.000455305017853787	0.485926526958878
+Yengo BMI EU sex combined 656 SNPs clumped	437	X-09108 || id:437	Yengo BMI EU sex combined 656 SNPs clumped	0.00014389386088357	0.000445322114061121	0.746825634562616
+Yengo BMI EU sex combined 656 SNPs clumped	438	Cholate || id:438	Yengo BMI EU sex combined 656 SNPs clumped	0.000230660838554875	0.00188408237359329	0.902643004446658
+Yengo BMI EU sex combined 656 SNPs clumped	439	X-09706 || id:439	Yengo BMI EU sex combined 656 SNPs clumped	0.000373511577793234	0.000500048066280734	0.45567214245101
+Yengo BMI EU sex combined 656 SNPs clumped	440	X-10395 || id:440	Yengo BMI EU sex combined 656 SNPs clumped	0.0010846414672877	0.000404061957281232	0.00766838672699803
+Yengo BMI EU sex combined 656 SNPs clumped	441	X-10429 || id:441	Yengo BMI EU sex combined 656 SNPs clumped	0.00108402630269834	0.000511657715408662	0.0349358676591292
+Yengo BMI EU sex combined 656 SNPs clumped	442	X-10500 || id:442	Yengo BMI EU sex combined 656 SNPs clumped	0.00036400298887129	0.000310523101680128	0.242027505005722
+Yengo BMI EU sex combined 656 SNPs clumped	443	X-10506 || id:443	Yengo BMI EU sex combined 656 SNPs clumped	0.00038147764360102	0.000428272600087889	0.373777765081577
+Yengo BMI EU sex combined 656 SNPs clumped	444	X-10510 || id:444	Yengo BMI EU sex combined 656 SNPs clumped	0.000835961661685581	0.000458231318677172	0.0690880887937371
+Yengo BMI EU sex combined 656 SNPs clumped	445	1-linoleoylglycerol (1-monolinolein) || id:445	Yengo BMI EU sex combined 656 SNPs clumped	0.000176281069813947	0.00123985976558007	0.887033716108913
+Yengo BMI EU sex combined 656 SNPs clumped	446	Indoleacetate || id:446	Yengo BMI EU sex combined 656 SNPs clumped	-0.000366602494159512	0.000572676004893856	0.522555973063869
+Yengo BMI EU sex combined 656 SNPs clumped	447	Hyodeoxycholate || id:447	Yengo BMI EU sex combined 656 SNPs clumped	-0.001002474749171	0.00132835289947927	0.451032086545823
+Yengo BMI EU sex combined 656 SNPs clumped	448	3-indoxyl sulfate || id:448	Yengo BMI EU sex combined 656 SNPs clumped	-0.000656659964121896	0.000732397207041839	0.370649553688482
+Yengo BMI EU sex combined 656 SNPs clumped	449	N-acetylglycine || id:449	Yengo BMI EU sex combined 656 SNPs clumped	0.000800371355464725	0.00117843182190576	0.497541840618203
+Yengo BMI EU sex combined 656 SNPs clumped	450	Bilirubin (Z,Z) || id:450	Yengo BMI EU sex combined 656 SNPs clumped	0.00115288042095434	0.00113215456235197	0.309344676874027
+Yengo BMI EU sex combined 656 SNPs clumped	451	Creatine || id:451	Yengo BMI EU sex combined 656 SNPs clumped	0.000527473950825154	0.000766287098284286	0.491758880761225
+Yengo BMI EU sex combined 656 SNPs clumped	452	Erythrose || id:452	Yengo BMI EU sex combined 656 SNPs clumped	-0.000486697002565897	0.000678617333223511	0.473811707239411
+Yengo BMI EU sex combined 656 SNPs clumped	453	Threonate || id:453	Yengo BMI EU sex combined 656 SNPs clumped	0.000603038202455	0.000678829795974764	0.375057365138485
+Yengo BMI EU sex combined 656 SNPs clumped	454	X-10810 || id:454	Yengo BMI EU sex combined 656 SNPs clumped	0.000755168673799721	0.000494327482417265	0.127641439328273
+Yengo BMI EU sex combined 656 SNPs clumped	455	Cysteine || id:455	Yengo BMI EU sex combined 656 SNPs clumped	0.00028652872486551	0.00045874165157573	0.532705524763373
+Yengo BMI EU sex combined 656 SNPs clumped	456	Pyroglutamylglycine || id:456	Yengo BMI EU sex combined 656 SNPs clumped	-0.000246231134016606	0.00155650324027318	0.874408468428751
+Yengo BMI EU sex combined 656 SNPs clumped	457	N-(2-furoyl)glycine || id:457	Yengo BMI EU sex combined 656 SNPs clumped	0.000110461277569697	0.00280250283374466	0.968585299387098
+Yengo BMI EU sex combined 656 SNPs clumped	458	DSGEGDFXAEGGGVR* || id:458	Yengo BMI EU sex combined 656 SNPs clumped	-0.00154370624635391	0.00121209578447262	0.203786873547366
+Yengo BMI EU sex combined 656 SNPs clumped	459	Pyridoxate || id:459	Yengo BMI EU sex combined 656 SNPs clumped	0.000819101741803069	0.000718869139084542	0.255423423236126
+Yengo BMI EU sex combined 656 SNPs clumped	460	Androsterone sulfate || id:460	Yengo BMI EU sex combined 656 SNPs clumped	-0.000847635113995926	0.00180020217847756	0.638082712335436
+Yengo BMI EU sex combined 656 SNPs clumped	461	3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF) || id:461	Yengo BMI EU sex combined 656 SNPs clumped	-0.000286435521243863	0.00148045720494513	0.846714466799954
+Yengo BMI EU sex combined 656 SNPs clumped	462	3-(4-hydroxyphenyl)lactate || id:462	Yengo BMI EU sex combined 656 SNPs clumped	-0.000857359374376331	0.000521611012730295	0.101280374085478
+Yengo BMI EU sex combined 656 SNPs clumped	463	Acetylcarnitine || id:463	Yengo BMI EU sex combined 656 SNPs clumped	0.00035865686145198	0.000441889801512875	0.417633520772363
+Yengo BMI EU sex combined 656 SNPs clumped	464	Serine || id:464	Yengo BMI EU sex combined 656 SNPs clumped	0.000868454219708946	0.000456587268415773	0.0581152110746511
+Yengo BMI EU sex combined 656 SNPs clumped	465	Trans-4-hydroxyproline || id:465	Yengo BMI EU sex combined 656 SNPs clumped	0.000417514327144044	0.00067878412437751	0.538955979810096
+Yengo BMI EU sex combined 656 SNPs clumped	466	Glutamate || id:466	Yengo BMI EU sex combined 656 SNPs clumped	-0.000673618954645572	0.00063596486462437	0.290348781359098
+Yengo BMI EU sex combined 656 SNPs clumped	467	Hexanoylcarnitine || id:467	Yengo BMI EU sex combined 656 SNPs clumped	0.000146893478906791	0.000601225503504311	0.807145697368048
+Yengo BMI EU sex combined 656 SNPs clumped	468	Glycine || id:468	Yengo BMI EU sex combined 656 SNPs clumped	0.000495125546856898	0.000799200786725076	0.536035562722839
+Yengo BMI EU sex combined 656 SNPs clumped	469	Alanine || id:469	Yengo BMI EU sex combined 656 SNPs clumped	-0.000130410912248131	0.000379983185325107	0.731685437238853
+Yengo BMI EU sex combined 656 SNPs clumped	470	Glycochenodeoxycholate || id:470	Yengo BMI EU sex combined 656 SNPs clumped	0.00188689546262396	0.00134995077199285	0.163213601679137
+Yengo BMI EU sex combined 656 SNPs clumped	471	2-aminobutyrate || id:471	Yengo BMI EU sex combined 656 SNPs clumped	0.000335206410320873	0.000415392211684322	0.420322493042858
+Yengo BMI EU sex combined 656 SNPs clumped	472	Scyllo-inositol || id:472	Yengo BMI EU sex combined 656 SNPs clumped	0.000507199302203041	0.000766779296089916	0.508815468297371
+Yengo BMI EU sex combined 656 SNPs clumped	473	Dodecanedioate || id:473	Yengo BMI EU sex combined 656 SNPs clumped	0.00112809072585163	0.000676404357114929	0.0963967869926878
+Yengo BMI EU sex combined 656 SNPs clumped	474	Gamma-glutamylvaline || id:474	Yengo BMI EU sex combined 656 SNPs clumped	-0.000441825738768534	0.000437455017988817	0.313305335571395
+Yengo BMI EU sex combined 656 SNPs clumped	475	Indolepropionate || id:475	Yengo BMI EU sex combined 656 SNPs clumped	0.000291067743076314	0.00068965704867256	0.673289950803246
+Yengo BMI EU sex combined 656 SNPs clumped	476	Butyrylcarnitine || id:476	Yengo BMI EU sex combined 656 SNPs clumped	1.25841926344106e-05	0.000728588118480895	0.986231007750262
+Yengo BMI EU sex combined 656 SNPs clumped	477	Myristoleate (14:1n5) || id:477	Yengo BMI EU sex combined 656 SNPs clumped	0.00113013791479877	0.000689746179930315	0.102358750175259
+Yengo BMI EU sex combined 656 SNPs clumped	478	Dehydroisoandrosterone sulfate (DHEA-S) || id:478	Yengo BMI EU sex combined 656 SNPs clumped	-0.00128291564497377	0.000998684060927424	0.19991118976584
+Yengo BMI EU sex combined 656 SNPs clumped	479	Propionylcarnitine || id:479	Yengo BMI EU sex combined 656 SNPs clumped	-0.000264355390453972	0.000417844010808286	0.527430985005598
+Yengo BMI EU sex combined 656 SNPs clumped	480	Caproate (6:0) || id:480	Yengo BMI EU sex combined 656 SNPs clumped	0.000566660118636724	0.000388197746934187	0.145406380307671
+Yengo BMI EU sex combined 656 SNPs clumped	481	Caprylate (8:0) || id:481	Yengo BMI EU sex combined 656 SNPs clumped	0.000756763390343881	0.00040243025015644	0.0610044506903709
+Yengo BMI EU sex combined 656 SNPs clumped	482	10-undecenoate (11:1n1) || id:482	Yengo BMI EU sex combined 656 SNPs clumped	0.000862042571838234	0.000562816066596098	0.126653308625837
+Yengo BMI EU sex combined 656 SNPs clumped	483	Docosapentaenoate (n3 DPA; 22:5n3) || id:483	Yengo BMI EU sex combined 656 SNPs clumped	0.00108698386020873	0.000694842021420374	0.118776553073741
+Yengo BMI EU sex combined 656 SNPs clumped	484	X-11204 || id:484	Yengo BMI EU sex combined 656 SNPs clumped	0.000279883044652434	0.000341100548306899	0.41256152902029
+Yengo BMI EU sex combined 656 SNPs clumped	485	X-02269 || id:485	Yengo BMI EU sex combined 656 SNPs clumped	0.000708180567959036	0.00125652403560719	0.57344129184884
+Yengo BMI EU sex combined 656 SNPs clumped	486	Phenol sulfate || id:486	Yengo BMI EU sex combined 656 SNPs clumped	0.00163455500767134	0.000914812841278389	0.0749751916790392
+Yengo BMI EU sex combined 656 SNPs clumped	487	X-06126 || id:487	Yengo BMI EU sex combined 656 SNPs clumped	-0.000732377681052346	0.00106193131782808	0.490933983874456
+Yengo BMI EU sex combined 656 SNPs clumped	488	X-07765 || id:488	Yengo BMI EU sex combined 656 SNPs clumped	0.000866212814038415	0.00163069412035222	0.595675703028576
+Yengo BMI EU sex combined 656 SNPs clumped	489	X-11247 || id:489	Yengo BMI EU sex combined 656 SNPs clumped	0.000732552069382307	0.00135180570888437	0.5882826298627
+Yengo BMI EU sex combined 656 SNPs clumped	490	X-11261 || id:490	Yengo BMI EU sex combined 656 SNPs clumped	-0.00124507734635344	0.000921354514012038	0.177593044277659
+Yengo BMI EU sex combined 656 SNPs clumped	491	Bilirubin (E,E)* || id:491	Yengo BMI EU sex combined 656 SNPs clumped	0.000944245213998428	0.00107693612403323	0.3812961352514
+Yengo BMI EU sex combined 656 SNPs clumped	492	X-02249 || id:492	Yengo BMI EU sex combined 656 SNPs clumped	0.000254293785998154	0.000660668135967773	0.700578599305892
+Yengo BMI EU sex combined 656 SNPs clumped	493	Heme* || id:493	Yengo BMI EU sex combined 656 SNPs clumped	0.000215027720593007	0.000847152679869392	0.79980364587281
+Yengo BMI EU sex combined 656 SNPs clumped	494	X-11299 || id:494	Yengo BMI EU sex combined 656 SNPs clumped	0.00210596121725067	0.00169273500179735	0.214417889341623
+Yengo BMI EU sex combined 656 SNPs clumped	495	X-11315 || id:495	Yengo BMI EU sex combined 656 SNPs clumped	0.000371106178353022	0.000595476173701521	0.533617471749335
+Yengo BMI EU sex combined 656 SNPs clumped	496	X-11317 || id:496	Yengo BMI EU sex combined 656 SNPs clumped	0.000839063473002563	0.000358371131172068	0.0198655191862282
+Yengo BMI EU sex combined 656 SNPs clumped	497	1-linoleoylglycerophosphoethanolamine* || id:497	Yengo BMI EU sex combined 656 SNPs clumped	0.000833599640751301	0.000632231632586685	0.188330894584546
+Yengo BMI EU sex combined 656 SNPs clumped	498	X-11327 || id:498	Yengo BMI EU sex combined 656 SNPs clumped	-2.69995842450335e-05	0.000392192892028327	0.945160455663349
+Yengo BMI EU sex combined 656 SNPs clumped	499	X-11334 || id:499	Yengo BMI EU sex combined 656 SNPs clumped	-0.001578343679458	0.000592416717979881	0.00813056441780697
+Yengo BMI EU sex combined 656 SNPs clumped	500	3-dehydrocarnitine* || id:500	Yengo BMI EU sex combined 656 SNPs clumped	0.000111958639821571	0.000446127462783562	0.802017745843652
+Yengo BMI EU sex combined 656 SNPs clumped	501	Pyroglutamine* || id:501	Yengo BMI EU sex combined 656 SNPs clumped	-0.000477785433549466	0.000720709014072229	0.507874217796553
+Yengo BMI EU sex combined 656 SNPs clumped	502	C-glycosyltryptophan* || id:502	Yengo BMI EU sex combined 656 SNPs clumped	-0.000407085378201635	0.000285835779129888	0.15541958100223
+Yengo BMI EU sex combined 656 SNPs clumped	503	X-11374 || id:503	Yengo BMI EU sex combined 656 SNPs clumped	0.00145586459915854	0.00116950326430618	0.214146177929352
+Yengo BMI EU sex combined 656 SNPs clumped	504	X-11381 || id:504	Yengo BMI EU sex combined 656 SNPs clumped	7.80228582966302e-05	0.000413475660569016	0.850454274024444
+Yengo BMI EU sex combined 656 SNPs clumped	505	X-03056--N-[3-(2-Oxopyrrolidin-1-yl)propyl]acetamide || id:505	Yengo BMI EU sex combined 656 SNPs clumped	-0.000636331812806682	0.000565712712572763	0.26155339362933
+Yengo BMI EU sex combined 656 SNPs clumped	506	X-11412 || id:506	Yengo BMI EU sex combined 656 SNPs clumped	-1.69690578144101e-05	0.000387498032449068	0.965099670551554
+Yengo BMI EU sex combined 656 SNPs clumped	507	X-01911 || id:507	Yengo BMI EU sex combined 656 SNPs clumped	0.000554112842038341	0.0011867859787248	0.640905486159524
+Yengo BMI EU sex combined 656 SNPs clumped	508	X-11422--xanthine || id:508	Yengo BMI EU sex combined 656 SNPs clumped	-0.000444918688381816	0.000531342772160027	0.403057075220903
+Yengo BMI EU sex combined 656 SNPs clumped	509	X-11423--O-sulfo-L-tyrosine || id:509	Yengo BMI EU sex combined 656 SNPs clumped	-5.34247878497166e-05	0.000383203009583445	0.889213726616883
+Yengo BMI EU sex combined 656 SNPs clumped	510	X-09789 || id:510	Yengo BMI EU sex combined 656 SNPs clumped	-0.00121743060504785	0.00102502363557888	0.235877967990997
+Yengo BMI EU sex combined 656 SNPs clumped	511	X-11437 || id:511	Yengo BMI EU sex combined 656 SNPs clumped	-0.00180230652370008	0.00165894873873351	0.278161881103136
+Yengo BMI EU sex combined 656 SNPs clumped	512	X-11438 || id:512	Yengo BMI EU sex combined 656 SNPs clumped	0.000418986259519539	0.000711570436678965	0.556421332156611
+Yengo BMI EU sex combined 656 SNPs clumped	513	X-11440 || id:513	Yengo BMI EU sex combined 656 SNPs clumped	-0.000617936202674678	0.000979877775075656	0.52876057321767
+Yengo BMI EU sex combined 656 SNPs clumped	514	X-11441 || id:514	Yengo BMI EU sex combined 656 SNPs clumped	-0.000899642084341941	0.000837344133734421	0.28349851864403
+Yengo BMI EU sex combined 656 SNPs clumped	515	X-11442 || id:515	Yengo BMI EU sex combined 656 SNPs clumped	-0.000311147983601502	0.000834964698878466	0.709670918387356
+Yengo BMI EU sex combined 656 SNPs clumped	516	X-11444 || id:516	Yengo BMI EU sex combined 656 SNPs clumped	0.000126292234948039	0.000622200955735786	0.839289555504887
+Yengo BMI EU sex combined 656 SNPs clumped	517	X-11445--5-alpha-pregnan-3beta,20alpha-disulfate || id:517	Yengo BMI EU sex combined 656 SNPs clumped	-0.00545092558382751	0.00162831145603675	0.000918009608556
+Yengo BMI EU sex combined 656 SNPs clumped	518	X-11452 || id:518	Yengo BMI EU sex combined 656 SNPs clumped	0.00333802468609225	0.00110737318452208	0.00279285936485216
+Yengo BMI EU sex combined 656 SNPs clumped	519	X-11469 || id:519	Yengo BMI EU sex combined 656 SNPs clumped	0.000205144051661055	0.0011626051287998	0.860056699189802
+Yengo BMI EU sex combined 656 SNPs clumped	520	X-11470 || id:520	Yengo BMI EU sex combined 656 SNPs clumped	0.000668910497724972	0.000664091917990303	0.314615509037372
+Yengo BMI EU sex combined 656 SNPs clumped	521	X-11478 || id:521	Yengo BMI EU sex combined 656 SNPs clumped	-0.000782829931168769	0.000953293833284173	0.412189061049844
+Yengo BMI EU sex combined 656 SNPs clumped	522	X-11483 || id:522	Yengo BMI EU sex combined 656 SNPs clumped	0.000182015693754287	0.00122678370163446	0.882151868542025
+Yengo BMI EU sex combined 656 SNPs clumped	523	X-11485 || id:523	Yengo BMI EU sex combined 656 SNPs clumped	0.00137768112002222	0.00100687096826151	0.172238277613258
+Yengo BMI EU sex combined 656 SNPs clumped	524	X-11491 || id:524	Yengo BMI EU sex combined 656 SNPs clumped	0.00023618756472175	0.00112770306154301	0.834244521092196
+Yengo BMI EU sex combined 656 SNPs clumped	525	X-11497 || id:525	Yengo BMI EU sex combined 656 SNPs clumped	0.000694723805395444	0.000504806533775684	0.169770402303934
+Yengo BMI EU sex combined 656 SNPs clumped	526	HWESASXX* || id:526	Yengo BMI EU sex combined 656 SNPs clumped	-0.000272063884773198	0.000953493138473283	0.775583313678489
+Yengo BMI EU sex combined 656 SNPs clumped	527	X-11521 || id:527	Yengo BMI EU sex combined 656 SNPs clumped	-0.000771192540451759	0.000733622260485066	0.294001642295815
+Yengo BMI EU sex combined 656 SNPs clumped	528	X-11529 || id:528	Yengo BMI EU sex combined 656 SNPs clumped	-0.00209551713188661	0.00128897274686615	0.105050889153443
+Yengo BMI EU sex combined 656 SNPs clumped	529	X-11530 || id:529	Yengo BMI EU sex combined 656 SNPs clumped	0.0011111012922085	0.000830544905907199	0.181965505558151
+Yengo BMI EU sex combined 656 SNPs clumped	530	X-11537 || id:530	Yengo BMI EU sex combined 656 SNPs clumped	0.00189065592549163	0.00125189301168597	0.132024911631523
+Yengo BMI EU sex combined 656 SNPs clumped	531	X-11538 || id:531	Yengo BMI EU sex combined 656 SNPs clumped	0.000314106063393472	0.000749901868106493	0.67561310072698
+Yengo BMI EU sex combined 656 SNPs clumped	532	X-11540 || id:532	Yengo BMI EU sex combined 656 SNPs clumped	0.00199568614436429	0.00120655993216745	0.0991569886927402
+Yengo BMI EU sex combined 656 SNPs clumped	533	X-11546 || id:533	Yengo BMI EU sex combined 656 SNPs clumped	0.00170756401837791	0.00204190331794902	0.403667115247473
+Yengo BMI EU sex combined 656 SNPs clumped	534	X-11550 || id:534	Yengo BMI EU sex combined 656 SNPs clumped	0.000103323463215336	0.000253029836823957	0.683308842868042
+Yengo BMI EU sex combined 656 SNPs clumped	535	X-11552 || id:535	Yengo BMI EU sex combined 656 SNPs clumped	0.000303701332338865	0.000911792454848937	0.739303767773795
+Yengo BMI EU sex combined 656 SNPs clumped	536	X-11593--O-methylascorbate* || id:536	Yengo BMI EU sex combined 656 SNPs clumped	0.000105254050074116	0.00035898955744829	0.769573579933402
+Yengo BMI EU sex combined 656 SNPs clumped	537	Adrenate (22:4n6) || id:537	Yengo BMI EU sex combined 656 SNPs clumped	6.93657454832552e-05	0.00060481995305259	0.90876818457047
+Yengo BMI EU sex combined 656 SNPs clumped	538	Homostachydrine* || id:538	Yengo BMI EU sex combined 656 SNPs clumped	0.00119045684044188	0.00125747311222563	0.344545681230309
+Yengo BMI EU sex combined 656 SNPs clumped	539	ADSGEGDFXAEGGGVR* || id:539	Yengo BMI EU sex combined 656 SNPs clumped	-0.00107105168051361	0.000866686010173921	0.217489662486043
+Yengo BMI EU sex combined 656 SNPs clumped	540	X-11786--methylcysteine || id:540	Yengo BMI EU sex combined 656 SNPs clumped	6.62844652820612e-05	0.000956757547983101	0.944812192345182
+Yengo BMI EU sex combined 656 SNPs clumped	541	X-11787 || id:541	Yengo BMI EU sex combined 656 SNPs clumped	-9.82882107687527e-05	0.000288230862374997	0.733336032199202
+Yengo BMI EU sex combined 656 SNPs clumped	542	X-11792 || id:542	Yengo BMI EU sex combined 656 SNPs clumped	-0.00357076788248168	0.0017230746701505	0.0390836034817865
+Yengo BMI EU sex combined 656 SNPs clumped	543	X-11793--oxidized bilirubin* || id:543	Yengo BMI EU sex combined 656 SNPs clumped	0.000266172230446194	0.000745788880931763	0.721414914941217
+Yengo BMI EU sex combined 656 SNPs clumped	544	X-11795 || id:544	Yengo BMI EU sex combined 656 SNPs clumped	0.000188108616548409	0.000614014729278498	0.759542124588513
+Yengo BMI EU sex combined 656 SNPs clumped	545	X-11799 || id:545	Yengo BMI EU sex combined 656 SNPs clumped	-0.00294990939112846	0.00154776915844106	0.0576079611382919
+Yengo BMI EU sex combined 656 SNPs clumped	546	X-11805 || id:546	Yengo BMI EU sex combined 656 SNPs clumped	0.00181558110922994	0.00151673479272172	0.232229508395805
+Yengo BMI EU sex combined 656 SNPs clumped	547	X-11818 || id:547	Yengo BMI EU sex combined 656 SNPs clumped	-0.000585879184854854	0.000571020682658971	0.305700103907113
+Yengo BMI EU sex combined 656 SNPs clumped	548	X-11820 || id:548	Yengo BMI EU sex combined 656 SNPs clumped	0.000660330683903751	0.000755851887027103	0.38301695175557
+Yengo BMI EU sex combined 656 SNPs clumped	549	X-11843 || id:549	Yengo BMI EU sex combined 656 SNPs clumped	0.00053280773027551	0.00172293856549899	0.757349472215463
+Yengo BMI EU sex combined 656 SNPs clumped	550	X-11845 || id:550	Yengo BMI EU sex combined 656 SNPs clumped	0.000959323047260624	0.00195377584756001	0.623774964526624
+Yengo BMI EU sex combined 656 SNPs clumped	551	X-11847 || id:551	Yengo BMI EU sex combined 656 SNPs clumped	0.00114830945920796	0.00182732413396659	0.530208527903444
+Yengo BMI EU sex combined 656 SNPs clumped	552	X-11849 || id:552	Yengo BMI EU sex combined 656 SNPs clumped	0.000870593953940013	0.00188053477723263	0.643733478138967
+Yengo BMI EU sex combined 656 SNPs clumped	553	X-11850 || id:553	Yengo BMI EU sex combined 656 SNPs clumped	-0.00125506842537393	0.0017524315783845	0.474429415984481
+Yengo BMI EU sex combined 656 SNPs clumped	554	X-11852 || id:554	Yengo BMI EU sex combined 656 SNPs clumped	0.00290786947020032	0.00193447032012618	0.133839420281543
+Yengo BMI EU sex combined 656 SNPs clumped	555	X-11858 || id:555	Yengo BMI EU sex combined 656 SNPs clumped	0.0023623906983778	0.00226102295962151	0.296935887849401
+Yengo BMI EU sex combined 656 SNPs clumped	556	X-11859 || id:556	Yengo BMI EU sex combined 656 SNPs clumped	0.000225245148285194	0.000601003744700452	0.708085940028869
+Yengo BMI EU sex combined 656 SNPs clumped	557	X-11876 || id:557	Yengo BMI EU sex combined 656 SNPs clumped	-0.000530722475745317	0.000813494032720743	0.514638604134669
+Yengo BMI EU sex combined 656 SNPs clumped	558	1-arachidonoylglycerophosphocholine* || id:558	Yengo BMI EU sex combined 656 SNPs clumped	0.000982245512051757	0.00054360951994915	0.0717737681419072
+Yengo BMI EU sex combined 656 SNPs clumped	559	1-palmitoleoylglycerophosphocholine* || id:559	Yengo BMI EU sex combined 656 SNPs clumped	0.000852193714606193	0.000592924418990592	0.151675956400432
+Yengo BMI EU sex combined 656 SNPs clumped	560	X-11905 || id:560	Yengo BMI EU sex combined 656 SNPs clumped	0.00145303368015656	0.000876763468768407	0.0985033450340305
+Yengo BMI EU sex combined 656 SNPs clumped	561	X-12007 || id:561	Yengo BMI EU sex combined 656 SNPs clumped	0.00369611060600726	0.00163314540335838	0.0243363888546801
+Yengo BMI EU sex combined 656 SNPs clumped	562	X-12013 || id:562	Yengo BMI EU sex combined 656 SNPs clumped	-0.000590587782183921	0.00166243449720747	0.722646723213078
+Yengo BMI EU sex combined 656 SNPs clumped	563	Gamma-glutamylmethionine* || id:563	Yengo BMI EU sex combined 656 SNPs clumped	0.000438071332555066	0.000724736380254835	0.545992783551697
+Yengo BMI EU sex combined 656 SNPs clumped	564	Gamma-glutamylthreonine* || id:564	Yengo BMI EU sex combined 656 SNPs clumped	0.00109154900152235	0.000644543057047206	0.0913869167283408
+Yengo BMI EU sex combined 656 SNPs clumped	565	X-12029 || id:565	Yengo BMI EU sex combined 656 SNPs clumped	8.1319186244656e-05	0.000303833944939697	0.789155823161583
+Yengo BMI EU sex combined 656 SNPs clumped	566	X-12038 || id:566	Yengo BMI EU sex combined 656 SNPs clumped	8.71119188243813e-07	0.000381318556298216	0.99817874898064
+Yengo BMI EU sex combined 656 SNPs clumped	567	X-12039 || id:567	Yengo BMI EU sex combined 656 SNPs clumped	0.000185706601102374	0.0013807401424584	0.893098194627299
+Yengo BMI EU sex combined 656 SNPs clumped	568	X-12040 || id:568	Yengo BMI EU sex combined 656 SNPs clumped	-0.00187476210185504	0.00278906708406401	0.501981438637502
+Yengo BMI EU sex combined 656 SNPs clumped	569	X-12056 || id:569	Yengo BMI EU sex combined 656 SNPs clumped	0.00219258803099296	0.00135029993187164	0.105462909809991
+Yengo BMI EU sex combined 656 SNPs clumped	570	X-12063 || id:570	Yengo BMI EU sex combined 656 SNPs clumped	-0.000353804328185566	0.00115145838004843	0.758852477304373
+Yengo BMI EU sex combined 656 SNPs clumped	571	Gamma-tocopherol || id:571	Yengo BMI EU sex combined 656 SNPs clumped	0.000971938162833825	0.000908304832407231	0.285448018365631
+Yengo BMI EU sex combined 656 SNPs clumped	572	Gamma-glutamylphenylalanine || id:572	Yengo BMI EU sex combined 656 SNPs clumped	-0.00032082417357628	0.000323368088716445	0.321926862894744
+Yengo BMI EU sex combined 656 SNPs clumped	573	Isobutyrylcarnitine || id:573	Yengo BMI EU sex combined 656 SNPs clumped	-0.00123206882301222	0.000698809653643672	0.0788921923933957
+Yengo BMI EU sex combined 656 SNPs clumped	574	Pseudouridine || id:574	Yengo BMI EU sex combined 656 SNPs clumped	-0.000610986773564994	0.000288703206106436	0.0351332694569978
+Yengo BMI EU sex combined 656 SNPs clumped	575	Valerate || id:575	Yengo BMI EU sex combined 656 SNPs clumped	0.000477144339342966	0.000596329228998081	0.424259018062272
+Yengo BMI EU sex combined 656 SNPs clumped	576	Palmitoleate (16:1n7) || id:576	Yengo BMI EU sex combined 656 SNPs clumped	0.00101403868491107	0.000690067140327302	0.142740615295962
+Yengo BMI EU sex combined 656 SNPs clumped	577	Alpha-ketoglutarate || id:577	Yengo BMI EU sex combined 656 SNPs clumped	0.000175868672166244	0.000744958239750936	0.813531205762453
+Yengo BMI EU sex combined 656 SNPs clumped	578	Erythronate* || id:578	Yengo BMI EU sex combined 656 SNPs clumped	0.000166411415920269	0.000371765521154383	0.654745007907476
+Yengo BMI EU sex combined 656 SNPs clumped	579	Lathosterol || id:579	Yengo BMI EU sex combined 656 SNPs clumped	-6.83479015362763e-06	0.000898708339636739	0.993937067127151
+Yengo BMI EU sex combined 656 SNPs clumped	580	X-12092 || id:580	Yengo BMI EU sex combined 656 SNPs clumped	-0.000533514551615248	0.000948221860908334	0.57409106218217
+Yengo BMI EU sex combined 656 SNPs clumped	581	X-12093 || id:581	Yengo BMI EU sex combined 656 SNPs clumped	-0.000176017203658756	0.00118537045561092	0.882053822296816
+Yengo BMI EU sex combined 656 SNPs clumped	582	X-12094 || id:582	Yengo BMI EU sex combined 656 SNPs clumped	0.000709809591559586	0.000671391878405482	0.291252891868576
+Yengo BMI EU sex combined 656 SNPs clumped	583	X-12095--N1-methyl-3-pyridone-4-carboxamide || id:583	Yengo BMI EU sex combined 656 SNPs clumped	2.02754235527237e-05	0.000531331588094148	0.96958561020876
+Yengo BMI EU sex combined 656 SNPs clumped	584	X-12100--hydroxytryptophan* || id:584	Yengo BMI EU sex combined 656 SNPs clumped	-8.75973752180632e-06	0.000397815138115438	0.982446847582393
+Yengo BMI EU sex combined 656 SNPs clumped	585	X-12116 || id:585	Yengo BMI EU sex combined 656 SNPs clumped	-2.59293483279408e-05	0.00110769505653251	0.981340029858817
+Yengo BMI EU sex combined 656 SNPs clumped	586	Eicosenoate (20:1n9 or 11) || id:586	Yengo BMI EU sex combined 656 SNPs clumped	0.000937854950652835	0.000712206974035011	0.188890953973393
+Yengo BMI EU sex combined 656 SNPs clumped	587	X-12188 || id:587	Yengo BMI EU sex combined 656 SNPs clumped	-0.000414694149370958	0.00196726130549152	0.833187299524448
+Yengo BMI EU sex combined 656 SNPs clumped	588	X-12189 || id:588	Yengo BMI EU sex combined 656 SNPs clumped	0.00136188876526	0.00205032986317052	0.507050501621535
+Yengo BMI EU sex combined 656 SNPs clumped	589	X-12206 || id:589	Yengo BMI EU sex combined 656 SNPs clumped	7.14317459294831e-05	0.000658373083287491	0.913672981905275
+Yengo BMI EU sex combined 656 SNPs clumped	590	X-12212 || id:590	Yengo BMI EU sex combined 656 SNPs clumped	-7.47873096796332e-05	0.00130054464309107	0.954181264275388
+Yengo BMI EU sex combined 656 SNPs clumped	591	X-12216 || id:591	Yengo BMI EU sex combined 656 SNPs clumped	0.000155347362290839	0.000918132795180643	0.865752835226193
+Yengo BMI EU sex combined 656 SNPs clumped	592	X-12217 || id:592	Yengo BMI EU sex combined 656 SNPs clumped	-4.72112111107245e-05	0.000839462782721995	0.955187972516577
+Yengo BMI EU sex combined 656 SNPs clumped	593	X-12230 || id:593	Yengo BMI EU sex combined 656 SNPs clumped	-0.00073413981245656	0.00114154033391352	0.520636949366248
+Yengo BMI EU sex combined 656 SNPs clumped	594	X-12231 || id:594	Yengo BMI EU sex combined 656 SNPs clumped	0.000780224207190827	0.000978335932873161	0.425784449983227
+Yengo BMI EU sex combined 656 SNPs clumped	595	X-12236 || id:595	Yengo BMI EU sex combined 656 SNPs clumped	-0.000751770919669132	0.00144029026544629	0.602082237451534
+Yengo BMI EU sex combined 656 SNPs clumped	596	X-12244--N-acetylcarnosine || id:596	Yengo BMI EU sex combined 656 SNPs clumped	-0.000243512224332321	0.000462258527459292	0.59872628103833
+Yengo BMI EU sex combined 656 SNPs clumped	597	X-12253 || id:597	Yengo BMI EU sex combined 656 SNPs clumped	0.00055491672938926	0.00108505541870828	0.609430961341433
+Yengo BMI EU sex combined 656 SNPs clumped	598	X-12261 || id:598	Yengo BMI EU sex combined 656 SNPs clumped	-0.0021798208522207	0.00182214310390919	0.23251668339166
+Yengo BMI EU sex combined 656 SNPs clumped	599	X-12329 || id:599	Yengo BMI EU sex combined 656 SNPs clumped	0.00350820809439537	0.00258821179612228	0.176285042073099
+Yengo BMI EU sex combined 656 SNPs clumped	600	X-10346 || id:600	Yengo BMI EU sex combined 656 SNPs clumped	-0.000910659927185501	0.00169860045956346	0.592266428093532
+Yengo BMI EU sex combined 656 SNPs clumped	601	ADpSGEGDFXAEGGGVR* || id:601	Yengo BMI EU sex combined 656 SNPs clumped	-0.00139978450734341	0.00110495682803984	0.206191550465886
+Yengo BMI EU sex combined 656 SNPs clumped	602	1-eicosatrienoylglycerophosphocholine* || id:602	Yengo BMI EU sex combined 656 SNPs clumped	0.00142607856361677	0.000639902164328367	0.0265747392777826
+Yengo BMI EU sex combined 656 SNPs clumped	603	1-docosahexaenoylglycerophosphocholine* || id:603	Yengo BMI EU sex combined 656 SNPs clumped	0.00116325913737828	0.000672198532133284	0.0845539064259836
+Yengo BMI EU sex combined 656 SNPs clumped	604	X-12405 || id:604	Yengo BMI EU sex combined 656 SNPs clumped	-0.00107209666143533	0.000717009372714015	0.135897626164672
+Yengo BMI EU sex combined 656 SNPs clumped	605	X-12407 || id:605	Yengo BMI EU sex combined 656 SNPs clumped	-0.000886852616065617	0.00147764238277523	0.548834338435014
+Yengo BMI EU sex combined 656 SNPs clumped	606	X-12428 || id:606	Yengo BMI EU sex combined 656 SNPs clumped	0.000811173630275258	0.00152444774070748	0.595041161682131
+Yengo BMI EU sex combined 656 SNPs clumped	607	1-eicosadienoylglycerophosphocholine* || id:607	Yengo BMI EU sex combined 656 SNPs clumped	0.00107775972858972	0.000690701143702381	0.119712741623707
+Yengo BMI EU sex combined 656 SNPs clumped	608	X-12435 || id:608	Yengo BMI EU sex combined 656 SNPs clumped	-0.000943053412164396	0.00365892501082224	0.79678325639086
+Yengo BMI EU sex combined 656 SNPs clumped	609	X-12441--12-hydroxyeicosatetraenoate (12-HETE) || id:609	Yengo BMI EU sex combined 656 SNPs clumped	0.000390255600079149	0.00205786949649743	0.84971774784644
+Yengo BMI EU sex combined 656 SNPs clumped	610	X-12442--5,8-tetradecadienoate || id:610	Yengo BMI EU sex combined 656 SNPs clumped	0.000847115759924022	0.000768660931567357	0.271307207394092
+Yengo BMI EU sex combined 656 SNPs clumped	611	X-12443 || id:611	Yengo BMI EU sex combined 656 SNPs clumped	0.00157804847614614	0.00148674673855839	0.289348697424313
+Yengo BMI EU sex combined 656 SNPs clumped	612	X-12450 || id:612	Yengo BMI EU sex combined 656 SNPs clumped	0.000606103711007127	0.000629484240441778	0.336391847342966
+Yengo BMI EU sex combined 656 SNPs clumped	613	X-12456 || id:613	Yengo BMI EU sex combined 656 SNPs clumped	-0.00238012588844821	0.000966217072814455	0.0143203516756329
+Yengo BMI EU sex combined 656 SNPs clumped	614	X-12465 || id:614	Yengo BMI EU sex combined 656 SNPs clumped	0.000947442702487022	0.000868825606350411	0.276365276611829
+Yengo BMI EU sex combined 656 SNPs clumped	615	Octanoylcarnitine || id:615	Yengo BMI EU sex combined 656 SNPs clumped	4.62732399933379e-06	0.000726507805633503	0.994922283941271
+Yengo BMI EU sex combined 656 SNPs clumped	616	Alpha-hydroxyisovalerate || id:616	Yengo BMI EU sex combined 656 SNPs clumped	-0.000435118837549612	0.000683650214205098	0.524954457990827
+Yengo BMI EU sex combined 656 SNPs clumped	617	N-acetylthreonine || id:617	Yengo BMI EU sex combined 656 SNPs clumped	0.000206479288674245	0.000455240804429927	0.650469786675708
+Yengo BMI EU sex combined 656 SNPs clumped	618	Decanoylcarnitine || id:618	Yengo BMI EU sex combined 656 SNPs clumped	-5.12054633178333e-05	0.00076543406256289	0.946707591399761
+Yengo BMI EU sex combined 656 SNPs clumped	619	1-palmitoylglycerophosphocholine || id:619	Yengo BMI EU sex combined 656 SNPs clumped	0.000300697070855212	0.000345134696577123	0.384312147786304
+Yengo BMI EU sex combined 656 SNPs clumped	620	1-heptadecanoylglycerophosphocholine || id:620	Yengo BMI EU sex combined 656 SNPs clumped	0.00101105766364493	0.000754291737250358	0.181117337893034
+Yengo BMI EU sex combined 656 SNPs clumped	621	1-oleoylglycerophosphocholine || id:621	Yengo BMI EU sex combined 656 SNPs clumped	0.000250682660340508	0.000479288319292585	0.601334920287868
+Yengo BMI EU sex combined 656 SNPs clumped	622	1-stearoylglycerophosphocholine || id:622	Yengo BMI EU sex combined 656 SNPs clumped	0.00165699580190147	0.000643500069256029	0.010499094612222
+Yengo BMI EU sex combined 656 SNPs clumped	623	5-dodecenoate (12:1n7) || id:623	Yengo BMI EU sex combined 656 SNPs clumped	0.00128371890862296	0.000756443528285378	0.0907149871974549
+Yengo BMI EU sex combined 656 SNPs clumped	624	Stearidonate (18:4n3) || id:624	Yengo BMI EU sex combined 656 SNPs clumped	0.000838274192831805	0.000758884206483092	0.270203232686679
+Yengo BMI EU sex combined 656 SNPs clumped	625	10-heptadecenoate (17:1n7) || id:625	Yengo BMI EU sex combined 656 SNPs clumped	0.00106116171663189	0.000626369630681482	0.0912650695950155
+Yengo BMI EU sex combined 656 SNPs clumped	626	10-nonadecenoate (19:1n9) || id:626	Yengo BMI EU sex combined 656 SNPs clumped	0.00119447298780283	0.000662562291884488	0.07241178070129
+Yengo BMI EU sex combined 656 SNPs clumped	627	Epiandrosterone sulfate || id:627	Yengo BMI EU sex combined 656 SNPs clumped	-0.000803962253278573	0.0014799896439702	0.587376674768904
+Yengo BMI EU sex combined 656 SNPs clumped	628	Linolenate [alpha or gamma; (18:3n3 or 6)] || id:628	Yengo BMI EU sex combined 656 SNPs clumped	0.000806708814030705	0.000634063130779046	0.204247490866143
+Yengo BMI EU sex combined 656 SNPs clumped	629	X-12510--2-aminooctanoic acid || id:629	Yengo BMI EU sex combined 656 SNPs clumped	0.00174526561715363	0.000753975301051159	0.0212947448082517
+Yengo BMI EU sex combined 656 SNPs clumped	630	X-12524 || id:630	Yengo BMI EU sex combined 656 SNPs clumped	0.000127763266174758	0.000294969996231255	0.66522132842109
+Yengo BMI EU sex combined 656 SNPs clumped	631	Bilirubin (E,Z or Z,E)* || id:631	Yengo BMI EU sex combined 656 SNPs clumped	1.88919120937802e-05	0.000954677193444926	0.98422488026583
+Yengo BMI EU sex combined 656 SNPs clumped	632	X-12544 || id:632	Yengo BMI EU sex combined 656 SNPs clumped	-0.000856931159114895	0.00114164716348901	0.453472152893711
+Yengo BMI EU sex combined 656 SNPs clumped	633	X-12556 || id:633	Yengo BMI EU sex combined 656 SNPs clumped	0.000369004545835618	0.000478212022454947	0.440934719583038
+Yengo BMI EU sex combined 656 SNPs clumped	634	1-arachidonoylglycerophosphoinositol* || id:634	Yengo BMI EU sex combined 656 SNPs clumped	-4.27042051500693e-05	0.000512402397705157	0.933635495000531
+Yengo BMI EU sex combined 656 SNPs clumped	635	X-12627 || id:635	Yengo BMI EU sex combined 656 SNPs clumped	0.00104514206985304	0.000835340039919189	0.211842129451128
+Yengo BMI EU sex combined 656 SNPs clumped	636	X-12644 || id:636	Yengo BMI EU sex combined 656 SNPs clumped	0.000776323116446508	0.000591655978544074	0.190476388537803
+Yengo BMI EU sex combined 656 SNPs clumped	637	X-12645 || id:637	Yengo BMI EU sex combined 656 SNPs clumped	0.00221253249560984	0.000828200282822111	0.00796243921909066
+Yengo BMI EU sex combined 656 SNPs clumped	638	Asparagine || id:638	Yengo BMI EU sex combined 656 SNPs clumped	0.000235238169979429	0.000370385771671917	0.525833238092273
+Yengo BMI EU sex combined 656 SNPs clumped	639	X-12680 || id:639	Yengo BMI EU sex combined 656 SNPs clumped	-0.000597800053113345	0.000799941903754849	0.455459406823435
+Yengo BMI EU sex combined 656 SNPs clumped	640	X-12696 || id:640	Yengo BMI EU sex combined 656 SNPs clumped	0.000104281856600229	0.000477927900645571	0.827423928733293
+Yengo BMI EU sex combined 656 SNPs clumped	641	X-12704 || id:641	Yengo BMI EU sex combined 656 SNPs clumped	0.000273425144132026	0.00157306312389553	0.862125336058747
+Yengo BMI EU sex combined 656 SNPs clumped	642	X-12712 || id:642	Yengo BMI EU sex combined 656 SNPs clumped	-2.29914398975442e-05	0.00242917277792503	0.992454587395791
+Yengo BMI EU sex combined 656 SNPs clumped	643	X-12717 || id:643	Yengo BMI EU sex combined 656 SNPs clumped	0.000542608607504369	0.00225494944716952	0.810004586280633
+Yengo BMI EU sex combined 656 SNPs clumped	644	X-12719 || id:644	Yengo BMI EU sex combined 656 SNPs clumped	-0.000930186377252712	0.00178735010329062	0.603145615477443
+Yengo BMI EU sex combined 656 SNPs clumped	645	X-12726 || id:645	Yengo BMI EU sex combined 656 SNPs clumped	0.000452317636085976	0.00054393828047975	0.406314021429569
+Yengo BMI EU sex combined 656 SNPs clumped	646	X-12728 || id:646	Yengo BMI EU sex combined 656 SNPs clumped	-0.00258915681863707	0.0038953306521989	0.506762703227103
+Yengo BMI EU sex combined 656 SNPs clumped	647	X-12729 || id:647	Yengo BMI EU sex combined 656 SNPs clumped	0.00132774328421945	0.00193270742133369	0.492616883840933
+Yengo BMI EU sex combined 656 SNPs clumped	648	X-12734 || id:648	Yengo BMI EU sex combined 656 SNPs clumped	0.000580691472414437	0.00151619236839462	0.70199418869507
+Yengo BMI EU sex combined 656 SNPs clumped	649	X-12740 || id:649	Yengo BMI EU sex combined 656 SNPs clumped	-0.000309358030938671	0.00170956128839691	0.8565222722924
+Yengo BMI EU sex combined 656 SNPs clumped	650	X-12749 || id:650	Yengo BMI EU sex combined 656 SNPs clumped	-2.07619414580281e-05	0.00042045634308914	0.960649365382898
+Yengo BMI EU sex combined 656 SNPs clumped	651	Stachydrine || id:651	Yengo BMI EU sex combined 656 SNPs clumped	-0.00309323047474187	0.00241782938401905	0.201755488943411
+Yengo BMI EU sex combined 656 SNPs clumped	652	Isovalerylcarnitine || id:652	Yengo BMI EU sex combined 656 SNPs clumped	-0.000516894611173974	0.000573991554267326	0.368555299558308
+Yengo BMI EU sex combined 656 SNPs clumped	653	Stearoylcarnitine || id:653	Yengo BMI EU sex combined 656 SNPs clumped	0.000690831247344113	0.000604817155776138	0.254266439711158
+Yengo BMI EU sex combined 656 SNPs clumped	654	1-stearoylglycerophosphoethanolamine || id:654	Yengo BMI EU sex combined 656 SNPs clumped	0.000834342441426376	0.000638374943296641	0.192210967818392
+Yengo BMI EU sex combined 656 SNPs clumped	655	1-linoleoylglycerophosphocholine || id:655	Yengo BMI EU sex combined 656 SNPs clumped	0.000905020434844202	0.000446236082011345	0.0434225872946711
+Yengo BMI EU sex combined 656 SNPs clumped	656	Bradykinin, des-arg(9) || id:656	Yengo BMI EU sex combined 656 SNPs clumped	0.00027748703051694	0.00185228264237187	0.881015649447909
+Yengo BMI EU sex combined 656 SNPs clumped	657	X-12771 || id:657	Yengo BMI EU sex combined 656 SNPs clumped	0.000564075739216627	0.000906036285467897	0.534033497858745
+Yengo BMI EU sex combined 656 SNPs clumped	658	X-12776 || id:658	Yengo BMI EU sex combined 656 SNPs clumped	-6.27806575496466e-05	0.000217954855694576	0.773509742247698
+Yengo BMI EU sex combined 656 SNPs clumped	659	Gamma-glutamylisoleucine* || id:659	Yengo BMI EU sex combined 656 SNPs clumped	-0.000280373819542398	0.000572608743637511	0.624742068140785
+Yengo BMI EU sex combined 656 SNPs clumped	660	X-12786 || id:660	Yengo BMI EU sex combined 656 SNPs clumped	0.000421406409045599	0.000789485759564131	0.593892351158501
+Yengo BMI EU sex combined 656 SNPs clumped	661	X-12798 || id:661	Yengo BMI EU sex combined 656 SNPs clumped	-0.000553108888262472	0.000627095256069921	0.378466593559353
+Yengo BMI EU sex combined 656 SNPs clumped	662	X-12816 || id:662	Yengo BMI EU sex combined 656 SNPs clumped	0.000443181414047818	0.00158496475298036	0.779962950263773
+Yengo BMI EU sex combined 656 SNPs clumped	663	X-12830 || id:663	Yengo BMI EU sex combined 656 SNPs clumped	-0.000760152020063213	0.00111485002167157	0.495859455724129
+Yengo BMI EU sex combined 656 SNPs clumped	664	X-12833 || id:664	Yengo BMI EU sex combined 656 SNPs clumped	0.0037874488504224	0.0043450695460118	0.384083107499065
+Yengo BMI EU sex combined 656 SNPs clumped	665	X-12844 || id:665	Yengo BMI EU sex combined 656 SNPs clumped	0.000401233424297275	0.000577968155234547	0.488080098458645
+Yengo BMI EU sex combined 656 SNPs clumped	666	X-12847 || id:666	Yengo BMI EU sex combined 656 SNPs clumped	-4.35358716670392e-05	0.00115773990346016	0.970028111684718
+Yengo BMI EU sex combined 656 SNPs clumped	667	X-12850 || id:667	Yengo BMI EU sex combined 656 SNPs clumped	-0.000449414328272965	0.0010917134301659	0.680881906829681
+Yengo BMI EU sex combined 656 SNPs clumped	668	Laurylcarnitine || id:668	Yengo BMI EU sex combined 656 SNPs clumped	-0.000712073514136397	0.000913135187307106	0.436110403021664
+Yengo BMI EU sex combined 656 SNPs clumped	669	X-12851 || id:669	Yengo BMI EU sex combined 656 SNPs clumped	0.000795229619525717	0.00173055269172436	0.646189991344782
+Yengo BMI EU sex combined 656 SNPs clumped	670	X-12855 || id:670	Yengo BMI EU sex combined 656 SNPs clumped	0.000570886729669072	0.000781342975965036	0.465560593615139
+Yengo BMI EU sex combined 656 SNPs clumped	671	X-12990--docosapentaenoic acid (n6-DPA) || id:671	Yengo BMI EU sex combined 656 SNPs clumped	-0.000332913081518338	0.000999887455175045	0.739401861988554
+Yengo BMI EU sex combined 656 SNPs clumped	672	Isovalerate || id:672	Yengo BMI EU sex combined 656 SNPs clumped	-0.000596826298820224	0.000593354592799724	0.315289835869413
+Yengo BMI EU sex combined 656 SNPs clumped	673	X-13069 || id:673	Yengo BMI EU sex combined 656 SNPs clumped	0.00117439746981801	0.000757126599370615	0.12191573066414
+Yengo BMI EU sex combined 656 SNPs clumped	674	X-13183--stearamide || id:674	Yengo BMI EU sex combined 656 SNPs clumped	0.00110909738592379	0.00112593534788008	0.325387702913623
+Yengo BMI EU sex combined 656 SNPs clumped	675	X-13215 || id:675	Yengo BMI EU sex combined 656 SNPs clumped	0.00110303162526326	0.000447891810418044	0.0143467268887586
+Yengo BMI EU sex combined 656 SNPs clumped	676	7-methylguanine || id:676	Yengo BMI EU sex combined 656 SNPs clumped	-0.000969055004260584	0.000606986803870567	0.111419375391067
+Yengo BMI EU sex combined 656 SNPs clumped	677	Phenylacetylglutamine || id:677	Yengo BMI EU sex combined 656 SNPs clumped	-0.00103611432783797	0.000902418285838663	0.25181402171925
+Yengo BMI EU sex combined 656 SNPs clumped	678	Pro-hydroxy-pro || id:678	Yengo BMI EU sex combined 656 SNPs clumped	-0.000129844796407336	0.000533210468806577	0.807771180056653
+Yengo BMI EU sex combined 656 SNPs clumped	679	N2,N2-dimethylguanosine || id:679	Yengo BMI EU sex combined 656 SNPs clumped	0.000334709171083976	0.000376282687939514	0.374434259207224
+Yengo BMI EU sex combined 656 SNPs clumped	680	Cysteine-glutathione disulfide || id:680	Yengo BMI EU sex combined 656 SNPs clumped	-0.00291427742184725	0.0011224681244396	0.0098823841853285
+Yengo BMI EU sex combined 656 SNPs clumped	681	Oleoylcarnitine || id:681	Yengo BMI EU sex combined 656 SNPs clumped	0.00170137199676551	0.000671241517921453	0.0117586729030421
+Yengo BMI EU sex combined 656 SNPs clumped	682	1-arachidonoylglycerophosphoethanolamine* || id:682	Yengo BMI EU sex combined 656 SNPs clumped	0.000805577718786277	0.000486533953952213	0.0988080741323421
+Yengo BMI EU sex combined 656 SNPs clumped	683	X-13429 || id:683	Yengo BMI EU sex combined 656 SNPs clumped	-0.00224057843702351	0.0012171164837389	0.0666151546402257
+Yengo BMI EU sex combined 656 SNPs clumped	684	X-13431--nonanoylcarnitine* || id:684	Yengo BMI EU sex combined 656 SNPs clumped	-0.00144531783457911	0.000928727710949112	0.120696254978677
+Yengo BMI EU sex combined 656 SNPs clumped	685	X-13435 || id:685	Yengo BMI EU sex combined 656 SNPs clumped	-0.000564240493249595	0.000583760894958163	0.334534387790365
+Yengo BMI EU sex combined 656 SNPs clumped	686	X-13477 || id:686	Yengo BMI EU sex combined 656 SNPs clumped	0.000191242444835188	0.000540234087040443	0.723585677327875
+Yengo BMI EU sex combined 656 SNPs clumped	687	2-palmitoylglycerophosphocholine* || id:687	Yengo BMI EU sex combined 656 SNPs clumped	0.000782377920796861	0.000531848315257615	0.142314088357422
+Yengo BMI EU sex combined 656 SNPs clumped	688	2-oleoylglycerophosphocholine* || id:688	Yengo BMI EU sex combined 656 SNPs clumped	0.000848199148439575	0.000540440792215918	0.117588372148984
+Yengo BMI EU sex combined 656 SNPs clumped	689	2-stearoylglycerophosphocholine* || id:689	Yengo BMI EU sex combined 656 SNPs clumped	0.00124504069611695	0.00066532431120995	0.0622629896622779
+Yengo BMI EU sex combined 656 SNPs clumped	690	2-linoleoylglycerophosphocholine* || id:690	Yengo BMI EU sex combined 656 SNPs clumped	0.0010963518218737	0.000568654884201922	0.0547957973490713
+Yengo BMI EU sex combined 656 SNPs clumped	691	X-13496 || id:691	Yengo BMI EU sex combined 656 SNPs clumped	7.81261978045376e-05	0.000334457971519978	0.815461177632144
+Yengo BMI EU sex combined 656 SNPs clumped	692	1-palmitoylglycerophosphoinositol* || id:692	Yengo BMI EU sex combined 656 SNPs clumped	-0.000539540654206887	0.000708384029139106	0.446863327305031
+Yengo BMI EU sex combined 656 SNPs clumped	693	X-13548 || id:693	Yengo BMI EU sex combined 656 SNPs clumped	-5.16662174193921e-05	0.000325791763207171	0.874100558331882
+Yengo BMI EU sex combined 656 SNPs clumped	694	X-13549 || id:694	Yengo BMI EU sex combined 656 SNPs clumped	0.0003363610848455	0.000319893220654083	0.293876382546766
+Yengo BMI EU sex combined 656 SNPs clumped	695	X-13553 || id:695	Yengo BMI EU sex combined 656 SNPs clumped	-0.00011110466079449	0.000605087475227035	0.854436332633163
+Yengo BMI EU sex combined 656 SNPs clumped	696	X-13619 || id:696	Yengo BMI EU sex combined 656 SNPs clumped	0.000288531140540342	0.000300359139604212	0.337508961424914
+Yengo BMI EU sex combined 656 SNPs clumped	697	2-methylbutyroylcarnitine || id:697	Yengo BMI EU sex combined 656 SNPs clumped	-0.000897695582412723	0.000492114751551759	0.069112841567524
+Yengo BMI EU sex combined 656 SNPs clumped	698	Hydroxyisovaleroyl carnitine || id:698	Yengo BMI EU sex combined 656 SNPs clumped	-0.000272709278763478	0.000664508919678237	0.68180830536103
+Yengo BMI EU sex combined 656 SNPs clumped	699	Glutaroyl carnitine || id:699	Yengo BMI EU sex combined 656 SNPs clumped	0.000391008082970402	0.000484427238189107	0.420210068555939
+Yengo BMI EU sex combined 656 SNPs clumped	700	X-13658 || id:700	Yengo BMI EU sex combined 656 SNPs clumped	-0.00112387961632992	0.001867423052348	0.54773734613319
+Yengo BMI EU sex combined 656 SNPs clumped	701	X-13671 || id:701	Yengo BMI EU sex combined 656 SNPs clumped	0.00101566550008728	0.000485781841689887	0.0373802536910074
+Yengo BMI EU sex combined 656 SNPs clumped	702	2-tetradecenoyl carnitine || id:702	Yengo BMI EU sex combined 656 SNPs clumped	0.000891116264494835	0.00083408447330157	0.286201126936848
+Yengo BMI EU sex combined 656 SNPs clumped	703	4-hydroxyhippurate || id:703	Yengo BMI EU sex combined 656 SNPs clumped	-0.00072639768942832	0.00154374783448725	0.638307721830982
+Yengo BMI EU sex combined 656 SNPs clumped	704	X-13741 || id:704	Yengo BMI EU sex combined 656 SNPs clumped	0.000439420326120564	0.00139137216302262	0.752358107017506
+Yengo BMI EU sex combined 656 SNPs clumped	705	1-myristoylglycerophosphocholine || id:705	Yengo BMI EU sex combined 656 SNPs clumped	0.000543454018932016	0.000659127214627496	0.410300966315302
+Yengo BMI EU sex combined 656 SNPs clumped	706	1-oleoylglycerophosphoethanolamine || id:706	Yengo BMI EU sex combined 656 SNPs clumped	0.0008018494054481	0.000651314930222075	0.219231249791235
+Yengo BMI EU sex combined 656 SNPs clumped	707	1-palmitoylglycerophosphoethanolamine || id:707	Yengo BMI EU sex combined 656 SNPs clumped	0.000551722339379898	0.000526845647259619	0.295836359481395
+Yengo BMI EU sex combined 656 SNPs clumped	708	3-(3-hydroxyphenyl)propionate || id:708	Yengo BMI EU sex combined 656 SNPs clumped	0.000855255118852	0.00201079926331258	0.67089836614061
+Yengo BMI EU sex combined 656 SNPs clumped	709	Tetradecanedioate || id:709	Yengo BMI EU sex combined 656 SNPs clumped	0.000960808127061122	0.000969833255375036	0.322630667790803
+Yengo BMI EU sex combined 656 SNPs clumped	710	2-hydroxypalmitate || id:710	Yengo BMI EU sex combined 656 SNPs clumped	0.000517260374226668	0.000368467055972908	0.161400764755919
+Yengo BMI EU sex combined 656 SNPs clumped	711	Hexadecanedioate || id:711	Yengo BMI EU sex combined 656 SNPs clumped	-0.000233943244570555	0.000844913657171456	0.782058437162437
+Yengo BMI EU sex combined 656 SNPs clumped	712	Dihomo-linolenate (20:3n3 or n6) || id:712	Yengo BMI EU sex combined 656 SNPs clumped	0.000775905255778836	0.000496574487059051	0.119210433257602
+Yengo BMI EU sex combined 656 SNPs clumped	713	X-13859 || id:713	Yengo BMI EU sex combined 656 SNPs clumped	-0.000355069585235228	0.000449884655311938	0.430587524245815
+Yengo BMI EU sex combined 656 SNPs clumped	714	Threitol || id:714	Yengo BMI EU sex combined 656 SNPs clumped	0.000593202050648697	0.000687447323873758	0.388874182212014
+Yengo BMI EU sex combined 656 SNPs clumped	715	X-14056 || id:715	Yengo BMI EU sex combined 656 SNPs clumped	-0.00012071408694891	0.000653085350510368	0.85348084138498
+Yengo BMI EU sex combined 656 SNPs clumped	716	X-14057 || id:716	Yengo BMI EU sex combined 656 SNPs clumped	8.03298123252318e-05	0.000868998836529373	0.926409950144244
+Yengo BMI EU sex combined 656 SNPs clumped	717	X-14086 || id:717	Yengo BMI EU sex combined 656 SNPs clumped	0.00123239200111104	0.0010115034980159	0.224028771500299
+Yengo BMI EU sex combined 656 SNPs clumped	718	P-cresol sulfate || id:718	Yengo BMI EU sex combined 656 SNPs clumped	-0.00203092346627303	0.00102589074509044	0.0486484949047256
+Yengo BMI EU sex combined 656 SNPs clumped	719	X-14189--leucylalanine || id:719	Yengo BMI EU sex combined 656 SNPs clumped	3.49164433607997e-05	0.00117302117057426	0.976273070396918
+Yengo BMI EU sex combined 656 SNPs clumped	720	X-14205--alpha-glutamyltyrosine || id:720	Yengo BMI EU sex combined 656 SNPs clumped	-0.00133367670360268	0.00109330368743103	0.223469968470201
+Yengo BMI EU sex combined 656 SNPs clumped	721	X-14208--phenylalanylserine || id:721	Yengo BMI EU sex combined 656 SNPs clumped	-0.00012377543074115	0.00118017477052824	0.916541294222227
+Yengo BMI EU sex combined 656 SNPs clumped	722	X-14304--leucylalanine || id:722	Yengo BMI EU sex combined 656 SNPs clumped	0.000419377581740237	0.00123039044006929	0.733454116339198
+Yengo BMI EU sex combined 656 SNPs clumped	723	X-14374 || id:723	Yengo BMI EU sex combined 656 SNPs clumped	0.000415065838690738	0.000584248016502834	0.477985529671862
+Yengo BMI EU sex combined 656 SNPs clumped	724	X-14450--phenylalanylleucine || id:724	Yengo BMI EU sex combined 656 SNPs clumped	0.000779354865478618	0.00126858254554939	0.539444471477072
+Yengo BMI EU sex combined 656 SNPs clumped	725	X-14473 || id:725	Yengo BMI EU sex combined 656 SNPs clumped	0.0012416970399184	0.00086911128151026	0.154121256128249
+Yengo BMI EU sex combined 656 SNPs clumped	726	X-14541 || id:726	Yengo BMI EU sex combined 656 SNPs clumped	-0.00125069363898534	0.00129513650739738	0.33497458574994
+Yengo BMI EU sex combined 656 SNPs clumped	727	X-14588 || id:727	Yengo BMI EU sex combined 656 SNPs clumped	-5.30836004319741e-05	0.000167663625399744	0.751759281370257
+Yengo BMI EU sex combined 656 SNPs clumped	728	X-14625 || id:728	Yengo BMI EU sex combined 656 SNPs clumped	-0.000539304248737689	0.000384574493244667	0.161837384503011
+Yengo BMI EU sex combined 656 SNPs clumped	729	X-14626 || id:729	Yengo BMI EU sex combined 656 SNPs clumped	-0.000756139967823918	0.000631162756051281	0.231852064469113
+Yengo BMI EU sex combined 656 SNPs clumped	730	X-14632 || id:730	Yengo BMI EU sex combined 656 SNPs clumped	-0.000631961171656577	0.000996465353001637	0.526428532979253
+Yengo BMI EU sex combined 656 SNPs clumped	731	X-14658 || id:731	Yengo BMI EU sex combined 656 SNPs clumped	0.00104658803510564	0.00132392290528292	0.42984425018953
+Yengo BMI EU sex combined 656 SNPs clumped	732	X-14662 || id:732	Yengo BMI EU sex combined 656 SNPs clumped	-0.00161221211994598	0.00133090166970795	0.226701295608189
+Yengo BMI EU sex combined 656 SNPs clumped	733	X-14745 || id:733	Yengo BMI EU sex combined 656 SNPs clumped	0.000773738443510797	0.000709900908701058	0.276612405655209
+Yengo BMI EU sex combined 656 SNPs clumped	734	Gamma-glutamylglutamate || id:734	Yengo BMI EU sex combined 656 SNPs clumped	0.000759391527579067	0.00122706952937046	0.536471206740652
+Yengo BMI EU sex combined 656 SNPs clumped	735	Octadecanedioate || id:735	Yengo BMI EU sex combined 656 SNPs clumped	0.000581663487525938	0.000684676717856516	0.396248992930425
+Yengo BMI EU sex combined 656 SNPs clumped	736	Leucylleucine || id:736	Yengo BMI EU sex combined 656 SNPs clumped	-0.00102128928220104	0.000905929197298977	0.260491135402484
+Yengo BMI EU sex combined 656 SNPs clumped	737	7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca) || id:737	Yengo BMI EU sex combined 656 SNPs clumped	0.00060578639001801	0.000443814236782159	0.173279909196048
+Yengo BMI EU sex combined 656 SNPs clumped	738	N-Butyl Oleate || id:738	Yengo BMI EU sex combined 656 SNPs clumped	0.000730118229472298	0.000582463526610322	0.21099001364494
+Yengo BMI EU sex combined 656 SNPs clumped	739	Dimethylarginine (SDMA + ADMA) || id:739	Yengo BMI EU sex combined 656 SNPs clumped	-1.17001791256483e-05	0.000303117771740024	0.969235160372044
+Yengo BMI EU sex combined 656 SNPs clumped	740	Taurolithocholate 3-sulfate || id:740	Yengo BMI EU sex combined 656 SNPs clumped	-0.000309350800787472	0.00129800389593347	0.81178772514243
+Yengo BMI EU sex combined 656 SNPs clumped	741	X-14977--vanillin || id:741	Yengo BMI EU sex combined 656 SNPs clumped	3.6940232470596e-05	0.00087598476315577	0.966390993226725
+Yengo BMI EU sex combined 656 SNPs clumped	742	Succinylcarnitine || id:742	Yengo BMI EU sex combined 656 SNPs clumped	-0.000572113220762074	0.000411914726124353	0.165882945653882
+Yengo BMI EU sex combined 656 SNPs clumped	743	Tryptophan betaine || id:743	Yengo BMI EU sex combined 656 SNPs clumped	-0.00219480071668744	0.00167288301737046	0.190517631456528
+Yengo BMI EU sex combined 656 SNPs clumped	744	Cyclo(leu-pro) || id:744	Yengo BMI EU sex combined 656 SNPs clumped	0.0010916384120444	0.00107559060322045	0.310956375950992
+Yengo BMI EU sex combined 656 SNPs clumped	745	Chiro-inositol || id:745	Yengo BMI EU sex combined 656 SNPs clumped	0.00449023279015878	0.00243129609484853	0.0657506626934317
+Yengo BMI EU sex combined 656 SNPs clumped	746	5alpha-androstan-3beta,17beta-diol disulfate || id:746	Yengo BMI EU sex combined 656 SNPs clumped	-0.000482892763939317	0.00143843805201911	0.73732465983138
+Yengo BMI EU sex combined 656 SNPs clumped	747	4-androsten-3beta,17beta-diol disulfate 1* || id:747	Yengo BMI EU sex combined 656 SNPs clumped	-0.00118116537966055	0.00134924542547217	0.382035238119312
+Yengo BMI EU sex combined 656 SNPs clumped	748	4-androsten-3beta,17beta-diol disulfate 2* || id:748	Yengo BMI EU sex combined 656 SNPs clumped	-0.000519296568485374	0.000801527192678132	0.517550656663689
+Yengo BMI EU sex combined 656 SNPs clumped	749	2-hydroxyglutarate || id:749	Yengo BMI EU sex combined 656 SNPs clumped	0.000297853966854176	0.000615123556165452	0.628582046156961
+Yengo BMI EU sex combined 656 SNPs clumped	750	Ergothioneine || id:750	Yengo BMI EU sex combined 656 SNPs clumped	-0.00107150744610915	0.00144847792705297	0.460026166961186
+Yengo BMI EU sex combined 656 SNPs clumped	751	Palmitoyl sphingomyelin || id:751	Yengo BMI EU sex combined 656 SNPs clumped	0.000465837526380114	0.000345885283720937	0.179055177809852
+Yengo BMI EU sex combined 656 SNPs clumped	752	Phenylalanylphenylalanine || id:752	Yengo BMI EU sex combined 656 SNPs clumped	6.7010909051111e-05	0.000701311535237655	0.923940469285104
+Yengo BMI EU sex combined 656 SNPs clumped	753	Cis-4-decenoyl carnitine || id:753	Yengo BMI EU sex combined 656 SNPs clumped	-0.000232625195628745	0.000730235605256198	0.750278267782112
+Yengo BMI EU sex combined 656 SNPs clumped	754	15-methylpalmitate (isobar with 2-methylpalmitate) || id:754	Yengo BMI EU sex combined 656 SNPs clumped	0.000620703547785875	0.000497219758740226	0.212867187254864

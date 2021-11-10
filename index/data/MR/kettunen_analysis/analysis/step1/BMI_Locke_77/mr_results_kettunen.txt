@@ -1,0 +1,493 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+Locke BMI EU sex combined 77 SNPs	838	Acetoacetate || id:838	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.217040982941479	0.154168625372772	0.163429957907901
+Locke BMI EU sex combined 77 SNPs	838	Acetoacetate || id:838	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.10537256683193	0.0756696409746528	0.163760677235856
+Locke BMI EU sex combined 77 SNPs	838	Acetoacetate || id:838	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.130713475729387	0.0465610792515059	0.00499501712824485
+Locke BMI EU sex combined 77 SNPs	838	Acetoacetate || id:838	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.10721100809929	0.144295883940528	0.459837463144636
+Locke BMI EU sex combined 77 SNPs	839	Acetate || id:839	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.0359598057725329	0.106999653510204	0.737766115561672
+Locke BMI EU sex combined 77 SNPs	839	Acetate || id:839	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.1140099528474	0.0703557846355845	0.105129783890121
+Locke BMI EU sex combined 77 SNPs	839	Acetate || id:839	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.0349389562415658	0.0434179431463195	0.420985675484902
+Locke BMI EU sex combined 77 SNPs	839	Acetate || id:839	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.131821061798127	0.0948398192113136	0.168660825266415
+Locke BMI EU sex combined 77 SNPs	840	Alanine || id:840	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.042748619261864	0.116712371496193	0.715206309720334
+Locke BMI EU sex combined 77 SNPs	840	Alanine || id:840	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.0260542495075499	0.0703321275259122	0.711050266224251
+Locke BMI EU sex combined 77 SNPs	840	Alanine || id:840	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.0070823372393791	0.0473129696647792	0.881008217402235
+Locke BMI EU sex combined 77 SNPs	840	Alanine || id:840	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.0105645791996039	0.0816523035442442	0.897399419900596
+Locke BMI EU sex combined 77 SNPs	841	Albumin || id:841	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.107596977364878	0.166950696080426	0.521282001224042
+Locke BMI EU sex combined 77 SNPs	841	Albumin || id:841	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.0902161835480975	0.0822207276578058	0.2725348315523
+Locke BMI EU sex combined 77 SNPs	841	Albumin || id:841	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.110114584708431	0.0563434785121139	0.0506604530715349
+Locke BMI EU sex combined 77 SNPs	841	Albumin || id:841	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.0974040928165607	0.182523001485642	0.595180457146121
+Locke BMI EU sex combined 77 SNPs	842	Apolipoprotein A-I || id:842	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.102516526133089	0.195200287953414	0.601045180060387
+Locke BMI EU sex combined 77 SNPs	842	Apolipoprotein A-I || id:842	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.175627003316477	0.0863303585402882	0.0419153407941557
+Locke BMI EU sex combined 77 SNPs	842	Apolipoprotein A-I || id:842	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.236455947589776	0.0651095847698718	0.000281602755172372
+Locke BMI EU sex combined 77 SNPs	842	Apolipoprotein A-I || id:842	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.182688442847245	0.144080481604879	0.208786827360854
+Locke BMI EU sex combined 77 SNPs	843	Apolipoprotein B || id:843	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.205792375894029	0.192378961799423	0.288220492830523
+Locke BMI EU sex combined 77 SNPs	843	Apolipoprotein B || id:843	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.245925001945903	0.0798670257117987	0.00207570759263815
+Locke BMI EU sex combined 77 SNPs	843	Apolipoprotein B || id:843	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.111071710443057	0.0774680618053519	0.151636702038958
+Locke BMI EU sex combined 77 SNPs	843	Apolipoprotein B || id:843	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.265505073336155	0.10367192613684	0.0124459364294026
+Locke BMI EU sex combined 77 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Locke BMI EU sex combined 77 SNPs	MR Egger	76	-0.212539968042455	0.142013281252104	0.138745237706007
+Locke BMI EU sex combined 77 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.109651636535784	0.0899444233714603	0.222804594370732
+Locke BMI EU sex combined 77 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.124497752390322	0.0572693571535068	0.0297127813214677
+Locke BMI EU sex combined 77 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.142198411757966	0.116402156803872	0.225679895130757
+Locke BMI EU sex combined 77 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Locke BMI EU sex combined 77 SNPs	MR Egger	76	-0.208834898505923	0.149785474640744	0.167421347440271
+Locke BMI EU sex combined 77 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.176626989575057	0.0917095044547292	0.0541118844173654
+Locke BMI EU sex combined 77 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.165395150605858	0.0603759438483625	0.00615474357039367
+Locke BMI EU sex combined 77 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.203162029031597	0.132730635829399	0.130067091757641
+Locke BMI EU sex combined 77 SNPs	846	3-hydroxybutyrate || id:846	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.0225594175660553	0.120447397659556	0.851940486846353
+Locke BMI EU sex combined 77 SNPs	846	3-hydroxybutyrate || id:846	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.000398787120307042	0.0824043132597552	0.996138735561475
+Locke BMI EU sex combined 77 SNPs	846	3-hydroxybutyrate || id:846	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0115812741648114	0.0492422650191038	0.814061490127585
+Locke BMI EU sex combined 77 SNPs	846	3-hydroxybutyrate || id:846	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.0447734180417361	0.0999698104620701	0.655538500693487
+Locke BMI EU sex combined 77 SNPs	847	Average number of methylene groups per double bond || id:847	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.297612181471055	0.141669571113696	0.0390696729859213
+Locke BMI EU sex combined 77 SNPs	847	Average number of methylene groups per double bond || id:847	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.10470702714238	0.0874368870802851	0.231105691596037
+Locke BMI EU sex combined 77 SNPs	847	Average number of methylene groups per double bond || id:847	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.162383713832301	0.0573802953903944	0.00465543994200889
+Locke BMI EU sex combined 77 SNPs	847	Average number of methylene groups per double bond || id:847	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.102932119899485	0.123381995209069	0.406786327467709
+Locke BMI EU sex combined 77 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.166388573647913	0.12336080048829	0.181515685872051
+Locke BMI EU sex combined 77 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.00800254406959721	0.0792496443448844	0.919567188290315
+Locke BMI EU sex combined 77 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.104034824869247	0.0493831884114509	0.0351448887278437
+Locke BMI EU sex combined 77 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.00671363171535333	0.100898920208261	0.947126407390925
+Locke BMI EU sex combined 77 SNPs	849	Citrate || id:849	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.0528051342256527	0.109630378256805	0.631465245172396
+Locke BMI EU sex combined 77 SNPs	849	Citrate || id:849	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.0404245551060788	0.0714268539645284	0.571422753815118
+Locke BMI EU sex combined 77 SNPs	849	Citrate || id:849	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0142279768763225	0.0444295675295934	0.748788924973226
+Locke BMI EU sex combined 77 SNPs	849	Citrate || id:849	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.0500461822479259	0.090124962242126	0.580343628181299
+Locke BMI EU sex combined 77 SNPs	850	Creatinine || id:850	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.0668206072667728	0.134601478203207	0.62106046100038
+Locke BMI EU sex combined 77 SNPs	850	Creatinine || id:850	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.0194813273747555	0.0770703354320124	0.80044335764492
+Locke BMI EU sex combined 77 SNPs	850	Creatinine || id:850	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0248736655397326	0.0545096301466411	0.648162111718744
+Locke BMI EU sex combined 77 SNPs	850	Creatinine || id:850	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.0325927903655354	0.0879094000545446	0.711865656787997
+Locke BMI EU sex combined 77 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Locke BMI EU sex combined 77 SNPs	MR Egger	76	-0.247205027235095	0.144212925249974	0.0906839754574098
+Locke BMI EU sex combined 77 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.0830147494548275	0.0955284169933054	0.384843952528667
+Locke BMI EU sex combined 77 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.14030422075442	0.0588055995524391	0.017037429764874
+Locke BMI EU sex combined 77 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.146271574277593	0.129079026907651	0.260742336632055
+Locke BMI EU sex combined 77 SNPs	852	22:6, docosahexaenoic acid || id:852	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.150076545929669	0.149244142096455	0.317895756433158
+Locke BMI EU sex combined 77 SNPs	852	22:6, docosahexaenoic acid || id:852	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.00184156506629465	0.087601505633328	0.983228049497077
+Locke BMI EU sex combined 77 SNPs	852	22:6, docosahexaenoic acid || id:852	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.0886514844149442	0.0612465125856938	0.147769926248682
+Locke BMI EU sex combined 77 SNPs	852	22:6, docosahexaenoic acid || id:852	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.117287511628508	0.135117856690735	0.388142288966679
+Locke BMI EU sex combined 77 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.0158471138483737	0.198441266026186	0.93656580165694
+Locke BMI EU sex combined 77 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.0795715791558758	0.0960387643715765	0.407366983611049
+Locke BMI EU sex combined 77 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.094909560067817	0.0799908335070705	0.235422749688686
+Locke BMI EU sex combined 77 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.120212179270244	0.115962622715844	0.303231722360791
+Locke BMI EU sex combined 77 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Locke BMI EU sex combined 77 SNPs	MR Egger	76	-0.0301486203662079	0.143459657669158	0.834125040225729
+Locke BMI EU sex combined 77 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.0671167058110169	0.0939816491559715	0.475136331727297
+Locke BMI EU sex combined 77 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.0824571085002231	0.0577325344548418	0.153216842903919
+Locke BMI EU sex combined 77 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.0945888119762177	0.117414496571699	0.423021834582981
+Locke BMI EU sex combined 77 SNPs	855	Omega-3 fatty acids || id:855	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.166726684141085	0.147404186440569	0.261671665885327
+Locke BMI EU sex combined 77 SNPs	855	Omega-3 fatty acids || id:855	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.0392900756512285	0.0930292901217886	0.672776196820305
+Locke BMI EU sex combined 77 SNPs	855	Omega-3 fatty acids || id:855	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.0740488702404002	0.0606019045260692	0.221749170659922
+Locke BMI EU sex combined 77 SNPs	855	Omega-3 fatty acids || id:855	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.237786849221959	0.134820575151254	0.0818502757916462
+Locke BMI EU sex combined 77 SNPs	856	Omega-6 fatty acids || id:856	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.202956593521422	0.18226996311956	0.269099963983605
+Locke BMI EU sex combined 77 SNPs	856	Omega-6 fatty acids || id:856	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.0717548395417288	0.0905841046161755	0.428281965132657
+Locke BMI EU sex combined 77 SNPs	856	Omega-6 fatty acids || id:856	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.0775810821526611	0.0747668281081435	0.299437497332378
+Locke BMI EU sex combined 77 SNPs	856	Omega-6 fatty acids || id:856	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.0996841462437743	0.110134810540616	0.36830540655786
+Locke BMI EU sex combined 77 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.246587576802206	0.147406157973948	0.0985808238190575
+Locke BMI EU sex combined 77 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.1666673760017	0.0898256771171337	0.0635314792949114
+Locke BMI EU sex combined 77 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.00413959725250168	0.0605456932425421	0.945489942786279
+Locke BMI EU sex combined 77 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.212046139118252	0.113876523854806	0.0665103033929807
+Locke BMI EU sex combined 77 SNPs	858	Free cholesterol || id:858	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.206563283805656	0.178324776524295	0.250444175778741
+Locke BMI EU sex combined 77 SNPs	858	Free cholesterol || id:858	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.19215456809965	0.094487280975392	0.0419863530725631
+Locke BMI EU sex combined 77 SNPs	858	Free cholesterol || id:858	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.0548956788016509	0.0728851495523054	0.451341410916526
+Locke BMI EU sex combined 77 SNPs	858	Free cholesterol || id:858	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.259837780246225	0.131991903147079	0.0526957795608093
+Locke BMI EU sex combined 77 SNPs	859	Glucose || id:859	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.229878849585553	0.106960561528588	0.0348893273469277
+Locke BMI EU sex combined 77 SNPs	859	Glucose || id:859	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.148691109131153	0.0675936204621826	0.0278224921770498
+Locke BMI EU sex combined 77 SNPs	859	Glucose || id:859	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0828812482103775	0.0404475559800629	0.0404519477485547
+Locke BMI EU sex combined 77 SNPs	859	Glucose || id:859	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.156983925374679	0.0810076811707462	0.0564011245147354
+Locke BMI EU sex combined 77 SNPs	860	Glutamine || id:860	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.0206851078907735	0.123446760135873	0.867384173557499
+Locke BMI EU sex combined 77 SNPs	860	Glutamine || id:860	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.066809938686701	0.0769173473515771	0.385069292332208
+Locke BMI EU sex combined 77 SNPs	860	Glutamine || id:860	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.0822499653785086	0.0502422996336516	0.101616659506577
+Locke BMI EU sex combined 77 SNPs	860	Glutamine || id:860	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.108484510595153	0.091618572653042	0.240117114874943
+Locke BMI EU sex combined 77 SNPs	861	Glycerol || id:861	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.253477769126973	0.129641479853467	0.0543334857596891
+Locke BMI EU sex combined 77 SNPs	861	Glycerol || id:861	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.134104683440618	0.0854503243910252	0.11655764091598
+Locke BMI EU sex combined 77 SNPs	861	Glycerol || id:861	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.130475232756852	0.0528869879959383	0.013622853487635
+Locke BMI EU sex combined 77 SNPs	861	Glycerol || id:861	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.147462624278427	0.0994743460101582	0.142418765738407
+Locke BMI EU sex combined 77 SNPs	862	Glycoproteins || id:862	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.0241102517370466	0.142239231842377	0.865862013136272
+Locke BMI EU sex combined 77 SNPs	862	Glycoproteins || id:862	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.0615320232212641	0.0784391234202304	0.432772723175515
+Locke BMI EU sex combined 77 SNPs	862	Glycoproteins || id:862	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.040171655582928	0.057795848950176	0.487016911490506
+Locke BMI EU sex combined 77 SNPs	862	Glycoproteins || id:862	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.0654886351948645	0.139806650515396	0.640840771826094
+Locke BMI EU sex combined 77 SNPs	863	Glycoprotein acetyls || id:863	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.368613077136148	0.172694822848479	0.0361618165169842
+Locke BMI EU sex combined 77 SNPs	863	Glycoprotein acetyls || id:863	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.154852391741595	0.0774041334477863	0.0454387430113296
+Locke BMI EU sex combined 77 SNPs	863	Glycoprotein acetyls || id:863	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.209224922861071	0.0579356269579973	0.000304625567528451
+Locke BMI EU sex combined 77 SNPs	863	Glycoprotein acetyls || id:863	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.13823057719411	0.137810922602486	0.319107767791247
+Locke BMI EU sex combined 77 SNPs	864	Total cholesterol in HDL || id:864	Locke BMI EU sex combined 77 SNPs	MR Egger	76	-0.113977839214315	0.158429279548236	0.474145604108605
+Locke BMI EU sex combined 77 SNPs	864	Total cholesterol in HDL || id:864	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.191582597652315	0.0736834491343518	0.00932030059617038
+Locke BMI EU sex combined 77 SNPs	864	Total cholesterol in HDL || id:864	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.256277575241074	0.0640817319406841	6.35489400829328e-05
+Locke BMI EU sex combined 77 SNPs	864	Total cholesterol in HDL || id:864	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.180422307820059	0.0882001747002057	0.044302798795114
+Locke BMI EU sex combined 77 SNPs	865	Mean diameter for HDL particles || id:865	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.16896440199663	0.21134470907197	0.426609927956162
+Locke BMI EU sex combined 77 SNPs	865	Mean diameter for HDL particles || id:865	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.287475659148439	0.0824783167951234	0.000491274190849192
+Locke BMI EU sex combined 77 SNPs	865	Mean diameter for HDL particles || id:865	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.281286963819881	0.0705127297077542	6.63060892173306e-05
+Locke BMI EU sex combined 77 SNPs	865	Mean diameter for HDL particles || id:865	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.251885912588774	0.130284436960807	0.0570180960070315
+Locke BMI EU sex combined 77 SNPs	866	Histidine || id:866	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.0488488505937612	0.165593669536032	0.768837133214896
+Locke BMI EU sex combined 77 SNPs	866	Histidine || id:866	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.0789788517015798	0.0792133420126517	0.318745209909968
+Locke BMI EU sex combined 77 SNPs	866	Histidine || id:866	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.037788192445579	0.0552894473564092	0.494315454918982
+Locke BMI EU sex combined 77 SNPs	866	Histidine || id:866	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.114755052272516	0.147453722667184	0.438906205157576
+Locke BMI EU sex combined 77 SNPs	867	Total cholesterol in IDL || id:867	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.0454749717259261	0.23568232328919	0.847533719308232
+Locke BMI EU sex combined 77 SNPs	867	Total cholesterol in IDL || id:867	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.0880378110316549	0.0818808193977739	0.282287633507231
+Locke BMI EU sex combined 77 SNPs	867	Total cholesterol in IDL || id:867	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.0283450489187368	0.0785537471396902	0.718221773028376
+Locke BMI EU sex combined 77 SNPs	867	Total cholesterol in IDL || id:867	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.180421997046168	0.134940659634907	0.185303068375952
+Locke BMI EU sex combined 77 SNPs	868	Free cholesterol in IDL || id:868	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.12090840192789	0.167979760396397	0.473927960932803
+Locke BMI EU sex combined 77 SNPs	868	Free cholesterol in IDL || id:868	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.171119546812808	0.0757706141679922	0.023921397156065
+Locke BMI EU sex combined 77 SNPs	868	Free cholesterol in IDL || id:868	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0117772049504943	0.0677458446461008	0.861988106379893
+Locke BMI EU sex combined 77 SNPs	868	Free cholesterol in IDL || id:868	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.173569588732393	0.0901376400721207	0.0579444840831192
+Locke BMI EU sex combined 77 SNPs	869	Total lipids in IDL || id:869	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.00325415685819132	0.234750580170594	0.988977743644287
+Locke BMI EU sex combined 77 SNPs	869	Total lipids in IDL || id:869	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.0998412908075432	0.0801292493733374	0.212763267688186
+Locke BMI EU sex combined 77 SNPs	869	Total lipids in IDL || id:869	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.00247359357210046	0.0782378988899156	0.974778037340442
+Locke BMI EU sex combined 77 SNPs	869	Total lipids in IDL || id:869	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.167880622129599	0.133038222770971	0.210948564932449
+Locke BMI EU sex combined 77 SNPs	870	Concentration of IDL particles || id:870	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.0311944860037215	0.231236858897651	0.89306004488129
+Locke BMI EU sex combined 77 SNPs	870	Concentration of IDL particles || id:870	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.118462287405967	0.0819739333357423	0.148423781785907
+Locke BMI EU sex combined 77 SNPs	870	Concentration of IDL particles || id:870	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.0189372755855774	0.0770676736827583	0.805896911596553
+Locke BMI EU sex combined 77 SNPs	870	Concentration of IDL particles || id:870	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.184805752854428	0.130561494652549	0.161125951080533
+Locke BMI EU sex combined 77 SNPs	871	Phospholipids in IDL || id:871	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.15394522671783	0.169230319365603	0.365945395735649
+Locke BMI EU sex combined 77 SNPs	871	Phospholipids in IDL || id:871	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.187308780875063	0.0787897763820479	0.0174387901532224
+Locke BMI EU sex combined 77 SNPs	871	Phospholipids in IDL || id:871	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0418551494977209	0.0682716486598293	0.539831509761
+Locke BMI EU sex combined 77 SNPs	871	Phospholipids in IDL || id:871	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.193149406798905	0.0883141910409979	0.0318549148887848
+Locke BMI EU sex combined 77 SNPs	872	Triglycerides in IDL || id:872	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.165722557277502	0.21040074725184	0.433450386277973
+Locke BMI EU sex combined 77 SNPs	872	Triglycerides in IDL || id:872	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.145143992786137	0.0852650589474453	0.0887051155231727
+Locke BMI EU sex combined 77 SNPs	872	Triglycerides in IDL || id:872	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.0821562029840155	0.0702187074225253	0.241999161847932
+Locke BMI EU sex combined 77 SNPs	872	Triglycerides in IDL || id:872	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.170647714967986	0.149115393254986	0.256145804149286
+Locke BMI EU sex combined 77 SNPs	873	Isoleucine || id:873	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.297056159389703	0.110035626201998	0.00859714775861925
+Locke BMI EU sex combined 77 SNPs	873	Isoleucine || id:873	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.233245870946421	0.069895668936184	0.00084670408712671
+Locke BMI EU sex combined 77 SNPs	873	Isoleucine || id:873	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.199919407324351	0.0447955416867028	8.08461292547187e-06
+Locke BMI EU sex combined 77 SNPs	873	Isoleucine || id:873	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.241485043515454	0.0876389268324431	0.00735292443172934
+Locke BMI EU sex combined 77 SNPs	874	Total cholesterol in large HDL || id:874	Locke BMI EU sex combined 77 SNPs	MR Egger	76	-0.159289247443977	0.167021383257147	0.343337631652724
+Locke BMI EU sex combined 77 SNPs	874	Total cholesterol in large HDL || id:874	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.313856664004975	0.0741740373649599	2.32287995112868e-05
+Locke BMI EU sex combined 77 SNPs	874	Total cholesterol in large HDL || id:874	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.286032111884114	0.0674339030776983	2.2186643673163e-05
+Locke BMI EU sex combined 77 SNPs	874	Total cholesterol in large HDL || id:874	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.252542639996547	0.0894476636931972	0.00608273641746599
+Locke BMI EU sex combined 77 SNPs	875	Cholesterol esters in large HDL || id:875	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.185505038183838	0.222796668214256	0.407774618525598
+Locke BMI EU sex combined 77 SNPs	875	Cholesterol esters in large HDL || id:875	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.320431660122549	0.0806141883998621	7.04149895616189e-05
+Locke BMI EU sex combined 77 SNPs	875	Cholesterol esters in large HDL || id:875	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.301252106495529	0.0744109481843206	5.1548760767122e-05
+Locke BMI EU sex combined 77 SNPs	875	Cholesterol esters in large HDL || id:875	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.323290692653075	0.129015485647259	0.0144146712679165
+Locke BMI EU sex combined 77 SNPs	876	Free cholesterol in large HDL || id:876	Locke BMI EU sex combined 77 SNPs	MR Egger	76	-0.19355356863378	0.160104065769825	0.230540831625732
+Locke BMI EU sex combined 77 SNPs	876	Free cholesterol in large HDL || id:876	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.295092312965097	0.0754616336636996	9.21073093760248e-05
+Locke BMI EU sex combined 77 SNPs	876	Free cholesterol in large HDL || id:876	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.310602987765492	0.0646520918009907	1.55354553089622e-06
+Locke BMI EU sex combined 77 SNPs	876	Free cholesterol in large HDL || id:876	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.277620658678217	0.0942377121581903	0.00428680557049663
+Locke BMI EU sex combined 77 SNPs	877	Total lipids in large HDL || id:877	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.142356733213605	0.221925136807762	0.523231010474638
+Locke BMI EU sex combined 77 SNPs	877	Total lipids in large HDL || id:877	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.32120818942082	0.0788260863407477	4.60347008718475e-05
+Locke BMI EU sex combined 77 SNPs	877	Total lipids in large HDL || id:877	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.310679585308681	0.0742893753090216	2.88931710216413e-05
+Locke BMI EU sex combined 77 SNPs	877	Total lipids in large HDL || id:877	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.320630323668397	0.124950234676364	0.0123087296064004
+Locke BMI EU sex combined 77 SNPs	878	Concentration of large HDL particles || id:878	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.118539773444767	0.222096816729305	0.595149732590945
+Locke BMI EU sex combined 77 SNPs	878	Concentration of large HDL particles || id:878	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.309104035954963	0.0832638163556805	0.000205347587182688
+Locke BMI EU sex combined 77 SNPs	878	Concentration of large HDL particles || id:878	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.310159526742446	0.0744504938435669	3.1001316490871e-05
+Locke BMI EU sex combined 77 SNPs	878	Concentration of large HDL particles || id:878	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.306624056945368	0.123963985343928	0.0156742168898663
+Locke BMI EU sex combined 77 SNPs	879	Phospholipids in large HDL || id:879	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.0928322983169453	0.221866585722695	0.676872155177827
+Locke BMI EU sex combined 77 SNPs	879	Phospholipids in large HDL || id:879	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.283905719928138	0.0805691746043958	0.000425483684319088
+Locke BMI EU sex combined 77 SNPs	879	Phospholipids in large HDL || id:879	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.307100276068467	0.0744720931003521	3.7284083151537e-05
+Locke BMI EU sex combined 77 SNPs	879	Phospholipids in large HDL || id:879	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.300761242514582	0.134074095705326	0.0278741387950107
+Locke BMI EU sex combined 77 SNPs	880	Total cholesterol in large LDL || id:880	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.110329585693877	0.1863358163082	0.555587912626986
+Locke BMI EU sex combined 77 SNPs	880	Total cholesterol in large LDL || id:880	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.209965181733425	0.075753093368126	0.00557636511313703
+Locke BMI EU sex combined 77 SNPs	880	Total cholesterol in large LDL || id:880	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0215980803088162	0.0750399577869214	0.773483714472525
+Locke BMI EU sex combined 77 SNPs	880	Total cholesterol in large LDL || id:880	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.204255567378589	0.0874127014373918	0.0221283813716811
+Locke BMI EU sex combined 77 SNPs	881	Cholesterol esters in large VLDL || id:881	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.0392669776142379	0.253231174711204	0.877199006146681
+Locke BMI EU sex combined 77 SNPs	881	Cholesterol esters in large VLDL || id:881	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.0843936231300792	0.0833032548093908	0.311017583038925
+Locke BMI EU sex combined 77 SNPs	881	Cholesterol esters in large VLDL || id:881	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.00842090614844326	0.0844048270841807	0.920528463146849
+Locke BMI EU sex combined 77 SNPs	881	Cholesterol esters in large VLDL || id:881	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.12077833271341	0.151940687832144	0.42921123563137
+Locke BMI EU sex combined 77 SNPs	882	Free cholesterol in large LDL || id:882	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.107132431507904	0.180745718916292	0.555172524614946
+Locke BMI EU sex combined 77 SNPs	882	Free cholesterol in large LDL || id:882	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.147035655600474	0.0747617930758339	0.0492152808863095
+Locke BMI EU sex combined 77 SNPs	882	Free cholesterol in large LDL || id:882	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0144462712845788	0.0728106569502456	0.842725273606979
+Locke BMI EU sex combined 77 SNPs	882	Free cholesterol in large LDL || id:882	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.188890873375111	0.0901012292299159	0.0394166767442936
+Locke BMI EU sex combined 77 SNPs	883	Total lipids in large LDL || id:883	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.0194391095208031	0.253179338583618	0.939008609489904
+Locke BMI EU sex combined 77 SNPs	883	Total lipids in large LDL || id:883	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.105625729307426	0.0817788432465454	0.196494961031948
+Locke BMI EU sex combined 77 SNPs	883	Total lipids in large LDL || id:883	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.00344764298829118	0.0843821635006684	0.967409511096619
+Locke BMI EU sex combined 77 SNPs	883	Total lipids in large LDL || id:883	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.199685043974639	0.135658082304551	0.145268472127036
+Locke BMI EU sex combined 77 SNPs	884	Concentration of large LDL particles || id:884	Locke BMI EU sex combined 77 SNPs	MR Egger	75	5.36421347252013e-05	0.251554622134317	0.999830438774887
+Locke BMI EU sex combined 77 SNPs	884	Concentration of large LDL particles || id:884	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.126177988152579	0.0813049340397578	0.12068361864497
+Locke BMI EU sex combined 77 SNPs	884	Concentration of large LDL particles || id:884	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.00955115003239196	0.0838347073322349	0.909294590379607
+Locke BMI EU sex combined 77 SNPs	884	Concentration of large LDL particles || id:884	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.247179565140017	0.131759835591124	0.0646011046401024
+Locke BMI EU sex combined 77 SNPs	885	Phospholipids in large LDL || id:885	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.139038471720761	0.180167749651416	0.442739663510807
+Locke BMI EU sex combined 77 SNPs	885	Phospholipids in large LDL || id:885	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.237922894466296	0.07511220550776	0.00153720629260953
+Locke BMI EU sex combined 77 SNPs	885	Phospholipids in large LDL || id:885	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0247431759001192	0.0726586159128167	0.733449792840235
+Locke BMI EU sex combined 77 SNPs	885	Phospholipids in large LDL || id:885	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.229824184853999	0.090148911879304	0.0128336247012359
+Locke BMI EU sex combined 77 SNPs	886	Total cholesterol in large VLDL || id:886	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.213680696716746	0.14506192171619	0.144983658030651
+Locke BMI EU sex combined 77 SNPs	886	Total cholesterol in large VLDL || id:886	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.197330547646868	0.084241493131275	0.0191581723197224
+Locke BMI EU sex combined 77 SNPs	886	Total cholesterol in large VLDL || id:886	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.157236832750348	0.0585174563283754	0.00720953755433178
+Locke BMI EU sex combined 77 SNPs	886	Total cholesterol in large VLDL || id:886	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.192244813749582	0.0944711394569281	0.0453893932018144
+Locke BMI EU sex combined 77 SNPs	887	Cholesterol esters in large VLDL || id:887	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.218299314962203	0.194789710723656	0.266092238676832
+Locke BMI EU sex combined 77 SNPs	887	Cholesterol esters in large VLDL || id:887	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.159174175133443	0.0785264968001967	0.0426611544741587
+Locke BMI EU sex combined 77 SNPs	887	Cholesterol esters in large VLDL || id:887	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.180416556119161	0.0651318917776544	0.00560530798665669
+Locke BMI EU sex combined 77 SNPs	887	Cholesterol esters in large VLDL || id:887	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.118828055125031	0.149111404903789	0.428053997325792
+Locke BMI EU sex combined 77 SNPs	888	Free cholesterol in large VLDL || id:888	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.219859077051729	0.144949239133645	0.133577593597579
+Locke BMI EU sex combined 77 SNPs	888	Free cholesterol in large VLDL || id:888	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.228262394804203	0.0811798748003658	0.00492635730282074
+Locke BMI EU sex combined 77 SNPs	888	Free cholesterol in large VLDL || id:888	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.163166427578182	0.0583537310832148	0.00517136301931711
+Locke BMI EU sex combined 77 SNPs	888	Free cholesterol in large VLDL || id:888	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.210301516189488	0.104709204444146	0.0481977567022883
+Locke BMI EU sex combined 77 SNPs	889	Total lipids in large VLDL || id:889	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.184395089204986	0.173400988054757	0.291104425893234
+Locke BMI EU sex combined 77 SNPs	889	Total lipids in large VLDL || id:889	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.122422573745776	0.0822931669908482	0.136845965082696
+Locke BMI EU sex combined 77 SNPs	889	Total lipids in large VLDL || id:889	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.195809225396094	0.0578013399704938	0.000705007566374032
+Locke BMI EU sex combined 77 SNPs	889	Total lipids in large VLDL || id:889	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.0848114051079385	0.154245563828091	0.584080330347459
+Locke BMI EU sex combined 77 SNPs	890	Concentration of large VLDL particles || id:890	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.22613744526072	0.180803915405605	0.215025864855959
+Locke BMI EU sex combined 77 SNPs	890	Concentration of large VLDL particles || id:890	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.174376198417303	0.078320908377126	0.0259852404729226
+Locke BMI EU sex combined 77 SNPs	890	Concentration of large VLDL particles || id:890	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.167436946076163	0.0603110702641285	0.00549945705503961
+Locke BMI EU sex combined 77 SNPs	890	Concentration of large VLDL particles || id:890	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.178296691277567	0.158958357550538	0.265635029760885
+Locke BMI EU sex combined 77 SNPs	891	Phospholipids in large VLDL || id:891	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.23920606533503	0.133500177795681	0.0772525628621842
+Locke BMI EU sex combined 77 SNPs	891	Phospholipids in large VLDL || id:891	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.229824525859658	0.0806332460366963	0.00436855310613286
+Locke BMI EU sex combined 77 SNPs	891	Phospholipids in large VLDL || id:891	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.189817133405377	0.0536672753947075	0.000404814451224778
+Locke BMI EU sex combined 77 SNPs	891	Phospholipids in large VLDL || id:891	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.233687916779484	0.093130005195192	0.0142562335063406
+Locke BMI EU sex combined 77 SNPs	892	Triglycerides in large VLDL || id:892	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.229290000417791	0.130330947750872	0.082661573286537
+Locke BMI EU sex combined 77 SNPs	892	Triglycerides in large VLDL || id:892	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.221380590756364	0.0792905771433557	0.00523807032128268
+Locke BMI EU sex combined 77 SNPs	892	Triglycerides in large VLDL || id:892	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.201547546125161	0.0524370182695322	0.000121236693040062
+Locke BMI EU sex combined 77 SNPs	892	Triglycerides in large VLDL || id:892	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.206624786271617	0.0976049790306214	0.037580507835598
+Locke BMI EU sex combined 77 SNPs	893	18:2, linoleic acid (LA) || id:893	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.197169594660388	0.186041863375366	0.292676676987303
+Locke BMI EU sex combined 77 SNPs	893	18:2, linoleic acid (LA) || id:893	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.0823270606394492	0.0900726086380204	0.360712783457695
+Locke BMI EU sex combined 77 SNPs	893	18:2, linoleic acid (LA) || id:893	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.073355936557988	0.0760727369911062	0.334902154037438
+Locke BMI EU sex combined 77 SNPs	893	18:2, linoleic acid (LA) || id:893	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.120120807418101	0.115710452713355	0.302551656563649
+Locke BMI EU sex combined 77 SNPs	894	Lactate || id:894	Locke BMI EU sex combined 77 SNPs	MR Egger	76	-0.00444194693477623	0.114470426209236	0.969150899269682
+Locke BMI EU sex combined 77 SNPs	894	Lactate || id:894	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.104830196827374	0.0736451380528955	0.154605648183689
+Locke BMI EU sex combined 77 SNPs	894	Lactate || id:894	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0664448587666389	0.0464805869215886	0.152855262332738
+Locke BMI EU sex combined 77 SNPs	894	Lactate || id:894	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.073732823412499	0.0893423226865371	0.41182749584717
+Locke BMI EU sex combined 77 SNPs	895	Total cholesterol in LDL || id:895	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.107633419012384	0.203052787224694	0.597646181545405
+Locke BMI EU sex combined 77 SNPs	895	Total cholesterol in LDL || id:895	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.164717728825555	0.0756220275039217	0.0293932870341549
+Locke BMI EU sex combined 77 SNPs	895	Total cholesterol in LDL || id:895	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0428540166410381	0.0816933321168066	0.599880908617354
+Locke BMI EU sex combined 77 SNPs	895	Total cholesterol in LDL || id:895	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.186301022926035	0.0888192890557081	0.0393163657491445
+Locke BMI EU sex combined 77 SNPs	896	Mean diameter for LDL particles || id:896	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.0295958895302666	0.178828061441205	0.869008607530349
+Locke BMI EU sex combined 77 SNPs	896	Mean diameter for LDL particles || id:896	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.0202419935459618	0.0775330895994691	0.794034250871268
+Locke BMI EU sex combined 77 SNPs	896	Mean diameter for LDL particles || id:896	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.0238905053622437	0.0596437126786072	0.6887487943356
+Locke BMI EU sex combined 77 SNPs	896	Mean diameter for LDL particles || id:896	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.0269549502289204	0.143914965142417	0.851939774058609
+Locke BMI EU sex combined 77 SNPs	897	Leucine || id:897	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.214554154517082	0.107813570531665	0.0502802651884952
+Locke BMI EU sex combined 77 SNPs	897	Leucine || id:897	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.176534617768248	0.0705038010325431	0.0122832005657496
+Locke BMI EU sex combined 77 SNPs	897	Leucine || id:897	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.171250912660631	0.0436711201111719	8.80444989730011e-05
+Locke BMI EU sex combined 77 SNPs	897	Leucine || id:897	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.175176277786073	0.085602726971686	0.0442234109460124
+Locke BMI EU sex combined 77 SNPs	898	Total cholesterol in medium HDL || id:898	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.0287969634109527	0.153240934240773	0.851454087755036
+Locke BMI EU sex combined 77 SNPs	898	Total cholesterol in medium HDL || id:898	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.14748458508243	0.0850262698839567	0.082815812662764
+Locke BMI EU sex combined 77 SNPs	898	Total cholesterol in medium HDL || id:898	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.140329516413182	0.0622352856377246	0.0241444783893992
+Locke BMI EU sex combined 77 SNPs	898	Total cholesterol in medium HDL || id:898	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.136466651924927	0.094644624978584	0.153497683217473
+Locke BMI EU sex combined 77 SNPs	899	Cholesterol esters in medium HDL || id:899	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.172742123638388	0.207023637687581	0.406773544926763
+Locke BMI EU sex combined 77 SNPs	899	Cholesterol esters in medium HDL || id:899	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.138120929835855	0.0858979428643353	0.107842731912433
+Locke BMI EU sex combined 77 SNPs	899	Cholesterol esters in medium HDL || id:899	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.128933918317934	0.0701666794711711	0.0661305573277086
+Locke BMI EU sex combined 77 SNPs	899	Cholesterol esters in medium HDL || id:899	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.100672014909341	0.144897346991539	0.489367963442424
+Locke BMI EU sex combined 77 SNPs	900	Free cholesterol in medium HDL || id:900	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.0282689207286571	0.143449129738906	0.844316293068506
+Locke BMI EU sex combined 77 SNPs	900	Free cholesterol in medium HDL || id:900	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.136158347060322	0.0797245676024388	0.08766244607934
+Locke BMI EU sex combined 77 SNPs	900	Free cholesterol in medium HDL || id:900	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.176135079283345	0.0586521093946949	0.00267290577524846
+Locke BMI EU sex combined 77 SNPs	900	Free cholesterol in medium HDL || id:900	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.146082381292364	0.0947162040739081	0.127205695913889
+Locke BMI EU sex combined 77 SNPs	901	Total lipids in medium HDL || id:901	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.227452725367607	0.188763102793924	0.232109036481255
+Locke BMI EU sex combined 77 SNPs	901	Total lipids in medium HDL || id:901	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.113723404657031	0.0824352855529404	0.167725964590457
+Locke BMI EU sex combined 77 SNPs	901	Total lipids in medium HDL || id:901	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.12401438954627	0.0645731458545963	0.0547915234530734
+Locke BMI EU sex combined 77 SNPs	901	Total lipids in medium HDL || id:901	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.0671951382724356	0.159310727960826	0.674403558669617
+Locke BMI EU sex combined 77 SNPs	902	Concentration of medium HDL particles || id:902	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.246027991580266	0.180354689688948	0.176716472426277
+Locke BMI EU sex combined 77 SNPs	902	Concentration of medium HDL particles || id:902	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.105005325014011	0.0785751665635511	0.181429075100446
+Locke BMI EU sex combined 77 SNPs	902	Concentration of medium HDL particles || id:902	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.115221237007572	0.061944563824271	0.0628755951472628
+Locke BMI EU sex combined 77 SNPs	902	Concentration of medium HDL particles || id:902	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.0400232328786321	0.140929267264015	0.777207194533595
+Locke BMI EU sex combined 77 SNPs	903	Phospholipids in medium HDL || id:903	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.102585313719168	0.139609996307739	0.464784053365226
+Locke BMI EU sex combined 77 SNPs	903	Phospholipids in medium HDL || id:903	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.0967524846885745	0.0808736865409835	0.231563622924665
+Locke BMI EU sex combined 77 SNPs	903	Phospholipids in medium HDL || id:903	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.123231505484513	0.0573032974575675	0.0315146321175783
+Locke BMI EU sex combined 77 SNPs	903	Phospholipids in medium HDL || id:903	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.100948758133452	0.0942544143060449	0.287593086454021
+Locke BMI EU sex combined 77 SNPs	904	Total cholesterol in medium LDL || id:904	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.0981011942865298	0.196249336109212	0.618642514852348
+Locke BMI EU sex combined 77 SNPs	904	Total cholesterol in medium LDL || id:904	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.191455438215494	0.0773870149718999	0.0133609874756643
+Locke BMI EU sex combined 77 SNPs	904	Total cholesterol in medium LDL || id:904	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0337438329472934	0.0789759597359456	0.669184759294611
+Locke BMI EU sex combined 77 SNPs	904	Total cholesterol in medium LDL || id:904	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.165831616715547	0.0950999536069482	0.0852982105151721
+Locke BMI EU sex combined 77 SNPs	905	Cholesterol esters in medium LDL || id:905	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.0175110999184317	0.257861121660885	0.946043708213325
+Locke BMI EU sex combined 77 SNPs	905	Cholesterol esters in medium LDL || id:905	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.0628978141831816	0.0819776456262243	0.442929514078244
+Locke BMI EU sex combined 77 SNPs	905	Cholesterol esters in medium LDL || id:905	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.0046787116389226	0.0859389713401062	0.956582811845109
+Locke BMI EU sex combined 77 SNPs	905	Cholesterol esters in medium LDL || id:905	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.110133852963238	0.135215256295807	0.417967739155099
+Locke BMI EU sex combined 77 SNPs	906	Total lipids in medium LDL || id:906	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.00631816271031098	0.260041063298395	0.980682169210256
+Locke BMI EU sex combined 77 SNPs	906	Total lipids in medium LDL || id:906	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.0857476116311674	0.0823314225693779	0.297646736377248
+Locke BMI EU sex combined 77 SNPs	906	Total lipids in medium LDL || id:906	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.0149889688049374	0.0866689300603361	0.862694562667475
+Locke BMI EU sex combined 77 SNPs	906	Total lipids in medium LDL || id:906	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.127652259207951	0.14611637542133	0.385143824897734
+Locke BMI EU sex combined 77 SNPs	907	Concentration of medium LDL particles || id:907	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.00427333183953384	0.258227040929693	0.98684176603379
+Locke BMI EU sex combined 77 SNPs	907	Concentration of medium LDL particles || id:907	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.112023261039353	0.0800510324820417	0.161693642778508
+Locke BMI EU sex combined 77 SNPs	907	Concentration of medium LDL particles || id:907	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.0162983010320208	0.0860784080574826	0.849824387033698
+Locke BMI EU sex combined 77 SNPs	907	Concentration of medium LDL particles || id:907	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.184687252032474	0.138698052777782	0.187086263526729
+Locke BMI EU sex combined 77 SNPs	908	Phospholipids in medium LDL || id:908	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.111556769642975	0.190382275012101	0.559684088215946
+Locke BMI EU sex combined 77 SNPs	908	Phospholipids in medium LDL || id:908	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.149661069498344	0.0746068670801746	0.0448566854024783
+Locke BMI EU sex combined 77 SNPs	908	Phospholipids in medium LDL || id:908	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0346270158134645	0.0766321947661769	0.651369914685736
+Locke BMI EU sex combined 77 SNPs	908	Phospholipids in medium LDL || id:908	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.177971402006474	0.0951765934511443	0.0653993311782095
+Locke BMI EU sex combined 77 SNPs	909	Total cholesterol in medium VLDL || id:909	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.225576447211036	0.158017152191969	0.157629621341815
+Locke BMI EU sex combined 77 SNPs	909	Total cholesterol in medium VLDL || id:909	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.235537694233611	0.0821626141134608	0.0041474204225472
+Locke BMI EU sex combined 77 SNPs	909	Total cholesterol in medium VLDL || id:909	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.14247040707696	0.0636680575182896	0.0252402206548004
+Locke BMI EU sex combined 77 SNPs	909	Total cholesterol in medium VLDL || id:909	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.212994779206578	0.096687288474305	0.0306715422872341
+Locke BMI EU sex combined 77 SNPs	910	Cholesterol esters in medium VLDL || id:910	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.0991101086893787	0.216577429991796	0.64858479713316
+Locke BMI EU sex combined 77 SNPs	910	Cholesterol esters in medium VLDL || id:910	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.1654150034572	0.082535906773503	0.0450531307574971
+Locke BMI EU sex combined 77 SNPs	910	Cholesterol esters in medium VLDL || id:910	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.107845170786119	0.0721798413465169	0.135144886527895
+Locke BMI EU sex combined 77 SNPs	910	Cholesterol esters in medium VLDL || id:910	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.126402989413561	0.147516583176105	0.39428148032753
+Locke BMI EU sex combined 77 SNPs	911	Free cholesterol in medium VLDL || id:911	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.241892241097505	0.147991019406094	0.10639998010289
+Locke BMI EU sex combined 77 SNPs	911	Free cholesterol in medium VLDL || id:911	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.25257198105697	0.0766625057692352	0.000985632888118514
+Locke BMI EU sex combined 77 SNPs	911	Free cholesterol in medium VLDL || id:911	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.173897361480056	0.0595977841028353	0.00352454476257911
+Locke BMI EU sex combined 77 SNPs	911	Free cholesterol in medium VLDL || id:911	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.255628763545657	0.100154248623007	0.0127336906576954
+Locke BMI EU sex combined 77 SNPs	912	Total lipids in medium VLDL || id:912	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.13878521122279	0.193283237588354	0.475024019501059
+Locke BMI EU sex combined 77 SNPs	912	Total lipids in medium VLDL || id:912	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.147437054441223	0.0802414109764415	0.0661481351519217
+Locke BMI EU sex combined 77 SNPs	912	Total lipids in medium VLDL || id:912	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.172552998859269	0.0644343619168611	0.00740708451716377
+Locke BMI EU sex combined 77 SNPs	912	Total lipids in medium VLDL || id:912	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.127152075126869	0.135180095097344	0.349963938233081
+Locke BMI EU sex combined 77 SNPs	913	Concentration of medium VLDL particles || id:913	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.108848378397562	0.198623756850111	0.58535495474849
+Locke BMI EU sex combined 77 SNPs	913	Concentration of medium VLDL particles || id:913	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.186702472870008	0.0825821259138516	0.0237710425148788
+Locke BMI EU sex combined 77 SNPs	913	Concentration of medium VLDL particles || id:913	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.182372998323951	0.0662742795950596	0.00592702463676169
+Locke BMI EU sex combined 77 SNPs	913	Concentration of medium VLDL particles || id:913	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.15711041220874	0.125673483371433	0.215184622798481
+Locke BMI EU sex combined 77 SNPs	914	Phospholipids in medium VLDL || id:914	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.238158748173578	0.147804321945432	0.111369377143557
+Locke BMI EU sex combined 77 SNPs	914	Phospholipids in medium VLDL || id:914	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.25165911364927	0.0784460212668584	0.00133636159241368
+Locke BMI EU sex combined 77 SNPs	914	Phospholipids in medium VLDL || id:914	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.179084913793874	0.0595017939434164	0.0026147163558212
+Locke BMI EU sex combined 77 SNPs	914	Phospholipids in medium VLDL || id:914	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.245804910136369	0.0943445053662673	0.0110615357137869
+Locke BMI EU sex combined 77 SNPs	915	Triglycerides in medium VLDL || id:915	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.269536937125297	0.13304901005848	0.0463861788615885
+Locke BMI EU sex combined 77 SNPs	915	Triglycerides in medium VLDL || id:915	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.264251146864272	0.0800606321053012	0.000964653362073173
+Locke BMI EU sex combined 77 SNPs	915	Triglycerides in medium VLDL || id:915	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.212655474257037	0.0535765394259794	7.21173070224519e-05
+Locke BMI EU sex combined 77 SNPs	915	Triglycerides in medium VLDL || id:915	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.234854636324557	0.0891991750543608	0.0102746386066647
+Locke BMI EU sex combined 77 SNPs	916	Mono-unsaturated fatty acids || id:916	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.131899083168216	0.154915161202914	0.397278638472696
+Locke BMI EU sex combined 77 SNPs	916	Mono-unsaturated fatty acids || id:916	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.0903924939916115	0.0927910842846583	0.329981749582302
+Locke BMI EU sex combined 77 SNPs	916	Mono-unsaturated fatty acids || id:916	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.00791134634148898	0.0626160957361209	0.89945737387814
+Locke BMI EU sex combined 77 SNPs	916	Mono-unsaturated fatty acids || id:916	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.117280879898622	0.112789848973703	0.301765184730575
+Locke BMI EU sex combined 77 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.0445268779782167	0.157933905612795	0.778781382879743
+Locke BMI EU sex combined 77 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.0139773179022139	0.0888433639789925	0.874988402088049
+Locke BMI EU sex combined 77 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.0774787894607856	0.0638603816584347	0.225033167171335
+Locke BMI EU sex combined 77 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.11789529015383	0.120448107101345	0.330822805083049
+Locke BMI EU sex combined 77 SNPs	918	Phosphatidylcholine and other cholines || id:918	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.145536448076531	0.161724840151141	0.371091803215275
+Locke BMI EU sex combined 77 SNPs	918	Phosphatidylcholine and other cholines || id:918	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.0438479039586355	0.0942236453895873	0.641673762632176
+Locke BMI EU sex combined 77 SNPs	918	Phosphatidylcholine and other cholines || id:918	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.179580144644234	0.0671148227715662	0.00745700049150984
+Locke BMI EU sex combined 77 SNPs	918	Phosphatidylcholine and other cholines || id:918	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.0121827367255816	0.117221771892303	0.917503143151629
+Locke BMI EU sex combined 77 SNPs	919	Phenylalanine || id:919	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.324494846227776	0.126401127959979	0.012272386194819
+Locke BMI EU sex combined 77 SNPs	919	Phenylalanine || id:919	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.311327236743707	0.0753226268341318	3.57669529527313e-05
+Locke BMI EU sex combined 77 SNPs	919	Phenylalanine || id:919	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.266391102356374	0.0512827628742555	2.05210744984617e-07
+Locke BMI EU sex combined 77 SNPs	919	Phenylalanine || id:919	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.320917803053175	0.0858329051957611	0.0003589578539773
+Locke BMI EU sex combined 77 SNPs	920	Pyruvate || id:920	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.111263051250843	0.10642205309674	0.299200319600694
+Locke BMI EU sex combined 77 SNPs	920	Pyruvate || id:920	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.0781932325005031	0.0738421573656017	0.289634394047641
+Locke BMI EU sex combined 77 SNPs	920	Pyruvate || id:920	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0545729942312589	0.0391986276811559	0.163856708756453
+Locke BMI EU sex combined 77 SNPs	920	Pyruvate || id:920	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.0713493115660162	0.0859196808599691	0.40893775855737
+Locke BMI EU sex combined 77 SNPs	921	Total lipids in small HDL || id:921	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.171845389653124	0.153576884483236	0.266828445035288
+Locke BMI EU sex combined 77 SNPs	921	Total lipids in small HDL || id:921	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.0512643290352079	0.0807849976965734	0.525704110195656
+Locke BMI EU sex combined 77 SNPs	921	Total lipids in small HDL || id:921	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.00558394123340506	0.0511213913631488	0.913020816171829
+Locke BMI EU sex combined 77 SNPs	921	Total lipids in small HDL || id:921	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.0568713819385986	0.134315681111639	0.67322003430157
+Locke BMI EU sex combined 77 SNPs	922	Concentration of small HDL particles || id:922	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.212825929406886	0.153368490228903	0.169456804211901
+Locke BMI EU sex combined 77 SNPs	922	Concentration of small HDL particles || id:922	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.0239997840612768	0.0760118155707427	0.752201726320399
+Locke BMI EU sex combined 77 SNPs	922	Concentration of small HDL particles || id:922	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.00943998988024298	0.0478538457760152	0.843618515664061
+Locke BMI EU sex combined 77 SNPs	922	Concentration of small HDL particles || id:922	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.0598260379558289	0.139577665952125	0.669443558004465
+Locke BMI EU sex combined 77 SNPs	923	Triglycerides in small HDL || id:923	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.0926987298511579	0.147282608392768	0.531029782152039
+Locke BMI EU sex combined 77 SNPs	923	Triglycerides in small HDL || id:923	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.123634843108221	0.081404628751325	0.128820600474914
+Locke BMI EU sex combined 77 SNPs	923	Triglycerides in small HDL || id:923	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.137388053478751	0.059252024926145	0.0204109575481347
+Locke BMI EU sex combined 77 SNPs	923	Triglycerides in small HDL || id:923	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.149173314375373	0.0890898080547522	0.0982145276287291
+Locke BMI EU sex combined 77 SNPs	924	Total cholesterol in small LDL || id:924	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.169396670196281	0.199060670124234	0.397525709406986
+Locke BMI EU sex combined 77 SNPs	924	Total cholesterol in small LDL || id:924	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.232351740601261	0.0783713002922039	0.00302923617154707
+Locke BMI EU sex combined 77 SNPs	924	Total cholesterol in small LDL || id:924	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0702022312837166	0.0801730749864674	0.381229300591656
+Locke BMI EU sex combined 77 SNPs	924	Total cholesterol in small LDL || id:924	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.248409675056961	0.0921932860487414	0.00869656888870616
+Locke BMI EU sex combined 77 SNPs	925	Total lipids in small LDL || id:925	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.0275300081384972	0.260570974344941	0.916147749905477
+Locke BMI EU sex combined 77 SNPs	925	Total lipids in small LDL || id:925	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.108491903568413	0.0789471879135599	0.169369073211825
+Locke BMI EU sex combined 77 SNPs	925	Total lipids in small LDL || id:925	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.0338969916687135	0.0868410960480184	0.696289931578628
+Locke BMI EU sex combined 77 SNPs	925	Total lipids in small LDL || id:925	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.192435660475557	0.131274348633289	0.14691081127547
+Locke BMI EU sex combined 77 SNPs	926	Concentration of small LDL particles || id:926	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.0273930707954075	0.257096100718813	0.915439852875242
+Locke BMI EU sex combined 77 SNPs	926	Concentration of small LDL particles || id:926	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.104037149731338	0.0822441980743264	0.205879002797373
+Locke BMI EU sex combined 77 SNPs	926	Concentration of small LDL particles || id:926	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.026447222569608	0.0856849379194755	0.757582752446083
+Locke BMI EU sex combined 77 SNPs	926	Concentration of small LDL particles || id:926	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.21169743501051	0.130089490018266	0.107919699144258
+Locke BMI EU sex combined 77 SNPs	927	Total cholesterol in small VLDL || id:927	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.168232237655039	0.168142922951278	0.320314044242282
+Locke BMI EU sex combined 77 SNPs	927	Total cholesterol in small VLDL || id:927	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.181408772264229	0.079415554017213	0.0223540373778941
+Locke BMI EU sex combined 77 SNPs	927	Total cholesterol in small VLDL || id:927	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.0740744068145886	0.0678706664449179	0.275094570044661
+Locke BMI EU sex combined 77 SNPs	927	Total cholesterol in small VLDL || id:927	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.199757349277875	0.101722279569612	0.0532653988922978
+Locke BMI EU sex combined 77 SNPs	928	Free cholesterol in small VLDL || id:928	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.150949604404462	0.172360625116167	0.383984797243738
+Locke BMI EU sex combined 77 SNPs	928	Free cholesterol in small VLDL || id:928	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.147359382863876	0.0870653138825869	0.0905477500459333
+Locke BMI EU sex combined 77 SNPs	928	Free cholesterol in small VLDL || id:928	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.100732419455419	0.0694165232666171	0.146743583818218
+Locke BMI EU sex combined 77 SNPs	928	Free cholesterol in small VLDL || id:928	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.16765262425394	0.100483464191501	0.0993943840411354
+Locke BMI EU sex combined 77 SNPs	929	Total lipids in small VLDL || id:929	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.136100009415589	0.224747376732048	0.546679272315491
+Locke BMI EU sex combined 77 SNPs	929	Total lipids in small VLDL || id:929	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.0836489444891845	0.0836356830013824	0.317233778952682
+Locke BMI EU sex combined 77 SNPs	929	Total lipids in small VLDL || id:929	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.11750139276407	0.074907211780269	0.116735132985232
+Locke BMI EU sex combined 77 SNPs	929	Total lipids in small VLDL || id:929	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.141698944737753	0.147229759830684	0.338966055617323
+Locke BMI EU sex combined 77 SNPs	930	Concentration of small VLDL particles || id:930	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.14558105229332	0.221365190722459	0.512830820999803
+Locke BMI EU sex combined 77 SNPs	930	Concentration of small VLDL particles || id:930	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.127329366625318	0.0811114932022221	0.116460085092703
+Locke BMI EU sex combined 77 SNPs	930	Concentration of small VLDL particles || id:930	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.134400952091284	0.0737794310343194	0.0685067683106839
+Locke BMI EU sex combined 77 SNPs	930	Concentration of small VLDL particles || id:930	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.170385726660745	0.153932755272846	0.271929230854916
+Locke BMI EU sex combined 77 SNPs	931	Phospholipids in small VLDL || id:931	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.181329771064155	0.15964424144934	0.259690230789304
+Locke BMI EU sex combined 77 SNPs	931	Phospholipids in small VLDL || id:931	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.165338455230077	0.0827210038313734	0.0456356079778994
+Locke BMI EU sex combined 77 SNPs	931	Phospholipids in small VLDL || id:931	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.105096869197265	0.064310223169695	0.102213264123672
+Locke BMI EU sex combined 77 SNPs	931	Phospholipids in small VLDL || id:931	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.173844822838574	0.0989706012640688	0.0830797577444283
+Locke BMI EU sex combined 77 SNPs	932	Triglycerides in small VLDL || id:932	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.158357538837133	0.161467822035881	0.329917816698203
+Locke BMI EU sex combined 77 SNPs	932	Triglycerides in small VLDL || id:932	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.150403236053152	0.0829712431190207	0.0698757542504781
+Locke BMI EU sex combined 77 SNPs	932	Triglycerides in small VLDL || id:932	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.166149441321376	0.0649595500891055	0.0105355755150032
+Locke BMI EU sex combined 77 SNPs	932	Triglycerides in small VLDL || id:932	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.182370054664419	0.101858363501179	0.077420703381209
+Locke BMI EU sex combined 77 SNPs	933	Serum total cholesterol || id:933	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.16357751488204	0.174707831580929	0.352168566198028
+Locke BMI EU sex combined 77 SNPs	933	Serum total cholesterol || id:933	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.145769558205642	0.0763159687277948	0.0561229935402614
+Locke BMI EU sex combined 77 SNPs	933	Serum total cholesterol || id:933	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.0245232366925918	0.0709625010395005	0.729658213562707
+Locke BMI EU sex combined 77 SNPs	933	Serum total cholesterol || id:933	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.199543695155478	0.0938766823915852	0.0368294724181088
+Locke BMI EU sex combined 77 SNPs	934	Serum total triglycerides || id:934	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.22494178570934	0.160118554735637	0.164251243384916
+Locke BMI EU sex combined 77 SNPs	934	Serum total triglycerides || id:934	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.180886785329161	0.088891773998446	0.0418599007412476
+Locke BMI EU sex combined 77 SNPs	934	Serum total triglycerides || id:934	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.159402638597158	0.0644691050153675	0.0134155548559827
+Locke BMI EU sex combined 77 SNPs	934	Serum total triglycerides || id:934	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.174136845302883	0.0962382105324862	0.0743901596343755
+Locke BMI EU sex combined 77 SNPs	935	Sphingomyelins || id:935	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.32781086603446	0.145912723644584	0.027647196528028
+Locke BMI EU sex combined 77 SNPs	935	Sphingomyelins || id:935	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.0931055466083835	0.0905875220625689	0.304045518916187
+Locke BMI EU sex combined 77 SNPs	935	Sphingomyelins || id:935	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.00754988457985586	0.0608962972436102	0.901331609221417
+Locke BMI EU sex combined 77 SNPs	935	Sphingomyelins || id:935	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.156248820410017	0.122547472465679	0.206242627396944
+Locke BMI EU sex combined 77 SNPs	936	Total fatty acids || id:936	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.241631518880915	0.159868610261066	0.134935703132784
+Locke BMI EU sex combined 77 SNPs	936	Total fatty acids || id:936	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.109963019073641	0.095198380845524	0.248052190703459
+Locke BMI EU sex combined 77 SNPs	936	Total fatty acids || id:936	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.0295519187147389	0.0657524845509356	0.653112942785486
+Locke BMI EU sex combined 77 SNPs	936	Total fatty acids || id:936	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.184624664723044	0.113689576962903	0.10858514968555
+Locke BMI EU sex combined 77 SNPs	937	Total phosphoglycerides || id:937	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.150967871771923	0.15686842137434	0.338990377770846
+Locke BMI EU sex combined 77 SNPs	937	Total phosphoglycerides || id:937	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.00205833021521806	0.0949866055879579	0.982711442658163
+Locke BMI EU sex combined 77 SNPs	937	Total phosphoglycerides || id:937	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.14958539818115	0.0649250435556338	0.0212242882774523
+Locke BMI EU sex combined 77 SNPs	937	Total phosphoglycerides || id:937	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.0288794813145685	0.10966245076765	0.793003869825014
+Locke BMI EU sex combined 77 SNPs	938	Tyrosine || id:938	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.331959536934609	0.115965008306344	0.00546200303689485
+Locke BMI EU sex combined 77 SNPs	938	Tyrosine || id:938	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.260850481767685	0.0739035841907418	0.00041618006419341
+Locke BMI EU sex combined 77 SNPs	938	Tyrosine || id:938	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.224464297961678	0.0461237013062964	1.13550758870955e-06
+Locke BMI EU sex combined 77 SNPs	938	Tyrosine || id:938	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.22738989576111	0.104564815617656	0.0328112672003735
+Locke BMI EU sex combined 77 SNPs	939	Urea || id:939	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.00259232367384657	0.162908737251662	0.987347420707402
+Locke BMI EU sex combined 77 SNPs	939	Urea || id:939	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.0370885453110527	0.0754943021263586	0.623231190866103
+Locke BMI EU sex combined 77 SNPs	939	Urea || id:939	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.0457154813966863	0.0543158236747604	0.39997803389842
+Locke BMI EU sex combined 77 SNPs	939	Urea || id:939	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.0104938006153352	0.153036047518462	0.945516231233843
+Locke BMI EU sex combined 77 SNPs	940	Valine || id:940	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.227486535476246	0.111425678085202	0.044756574799783
+Locke BMI EU sex combined 77 SNPs	940	Valine || id:940	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.275271757538789	0.0718656293754991	0.000127952116467698
+Locke BMI EU sex combined 77 SNPs	940	Valine || id:940	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.194564190417051	0.0451054158146561	1.60658233395733e-05
+Locke BMI EU sex combined 77 SNPs	940	Valine || id:940	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.277689699149518	0.0916376113035534	0.00335125708443866
+Locke BMI EU sex combined 77 SNPs	941	Mean diameter for VLDL particles || id:941	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.140521532278455	0.174802474176966	0.424071987918321
+Locke BMI EU sex combined 77 SNPs	941	Mean diameter for VLDL particles || id:941	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.115526662973735	0.0769842595510908	0.133445325549545
+Locke BMI EU sex combined 77 SNPs	941	Mean diameter for VLDL particles || id:941	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.174724903266859	0.0582807074836604	0.00271767737494626
+Locke BMI EU sex combined 77 SNPs	941	Mean diameter for VLDL particles || id:941	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.118289232771975	0.120231419671583	0.328396972605908
+Locke BMI EU sex combined 77 SNPs	942	Total cholesterol in very large HDL || id:942	Locke BMI EU sex combined 77 SNPs	MR Egger	76	-0.0974531886885972	0.135316969563962	0.473680111244749
+Locke BMI EU sex combined 77 SNPs	942	Total cholesterol in very large HDL || id:942	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.13121411941066	0.0755424634836507	0.0823945071744588
+Locke BMI EU sex combined 77 SNPs	942	Total cholesterol in very large HDL || id:942	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.13057868086248	0.0544194035446002	0.0164180384693722
+Locke BMI EU sex combined 77 SNPs	942	Total cholesterol in very large HDL || id:942	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.0392149216357405	0.106407965084867	0.713513546901946
+Locke BMI EU sex combined 77 SNPs	943	Cholesterol esters in very large HDL || id:943	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.228834200416171	0.182675979442324	0.214320946073009
+Locke BMI EU sex combined 77 SNPs	943	Cholesterol esters in very large HDL || id:943	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.174520828945392	0.0832092177518494	0.0359605030655712
+Locke BMI EU sex combined 77 SNPs	943	Cholesterol esters in very large HDL || id:943	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.158492232713056	0.0608807770535422	0.00923253442770131
+Locke BMI EU sex combined 77 SNPs	943	Cholesterol esters in very large HDL || id:943	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.184255007420969	0.13780442993314	0.185293603181243
+Locke BMI EU sex combined 77 SNPs	944	Free cholesterol in very large HDL || id:944	Locke BMI EU sex combined 77 SNPs	MR Egger	76	-0.110617293081833	0.137515161585336	0.423742358041771
+Locke BMI EU sex combined 77 SNPs	944	Free cholesterol in very large HDL || id:944	Locke BMI EU sex combined 77 SNPs	Weighted median	76	-0.175241468888072	0.0736089935524319	0.0172794352824678
+Locke BMI EU sex combined 77 SNPs	944	Free cholesterol in very large HDL || id:944	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.196991211841584	0.0554517552588543	0.000381619065510367
+Locke BMI EU sex combined 77 SNPs	944	Free cholesterol in very large HDL || id:944	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	-0.0300532304149614	0.101466039043665	0.767903556350185
+Locke BMI EU sex combined 77 SNPs	945	Total lipids in very large HDL || id:945	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.223140557157281	0.1821202127406	0.22442424489483
+Locke BMI EU sex combined 77 SNPs	945	Total lipids in very large HDL || id:945	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.222534836806364	0.0818176453239331	0.00653040187570376
+Locke BMI EU sex combined 77 SNPs	945	Total lipids in very large HDL || id:945	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.221569409053204	0.0606677083990899	0.000260023217486872
+Locke BMI EU sex combined 77 SNPs	945	Total lipids in very large HDL || id:945	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.226376568627836	0.152257793488461	0.14131675137406
+Locke BMI EU sex combined 77 SNPs	946	Concentration of very large HDL particles || id:946	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.169978991180124	0.167520863450822	0.313612750709349
+Locke BMI EU sex combined 77 SNPs	946	Concentration of very large HDL particles || id:946	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.170805170942036	0.083003416370403	0.0396084790731388
+Locke BMI EU sex combined 77 SNPs	946	Concentration of very large HDL particles || id:946	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.197931967976131	0.0558418516366928	0.000393344480320851
+Locke BMI EU sex combined 77 SNPs	946	Concentration of very large HDL particles || id:946	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.111851045507237	0.157918854143267	0.480995453934972
+Locke BMI EU sex combined 77 SNPs	947	Phospholipids in very large HDL || id:947	Locke BMI EU sex combined 77 SNPs	MR Egger	75	-0.222988966955542	0.191419526474987	0.247842897460648
+Locke BMI EU sex combined 77 SNPs	947	Phospholipids in very large HDL || id:947	Locke BMI EU sex combined 77 SNPs	Weighted median	75	-0.253812441783937	0.0816024411875655	0.00186863539050181
+Locke BMI EU sex combined 77 SNPs	947	Phospholipids in very large HDL || id:947	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	-0.274831458874545	0.0638352176453021	1.66739573631638e-05
+Locke BMI EU sex combined 77 SNPs	947	Phospholipids in very large HDL || id:947	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.115932036751639	0.144977596780754	0.426470286064885
+Locke BMI EU sex combined 77 SNPs	948	Triglycerides in very large HDL || id:948	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.11951626401202	0.113757248930247	0.296849606764793
+Locke BMI EU sex combined 77 SNPs	948	Triglycerides in very large HDL || id:948	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.00970039756264822	0.0731225214460988	0.894462669370372
+Locke BMI EU sex combined 77 SNPs	948	Triglycerides in very large HDL || id:948	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	-0.0908058019881217	0.0469736620277748	0.0532212163990455
+Locke BMI EU sex combined 77 SNPs	948	Triglycerides in very large HDL || id:948	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.0413567611656667	0.106007996093829	0.697547178867055
+Locke BMI EU sex combined 77 SNPs	949	Total lipids in very large VLDL || id:949	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.130045540008485	0.18171427907977	0.476484585798322
+Locke BMI EU sex combined 77 SNPs	949	Total lipids in very large VLDL || id:949	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.10176457485926	0.0826387300457542	0.218158628678855
+Locke BMI EU sex combined 77 SNPs	949	Total lipids in very large VLDL || id:949	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.136015725205547	0.0607357268316689	0.0251254720736102
+Locke BMI EU sex combined 77 SNPs	949	Total lipids in very large VLDL || id:949	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	-0.00795288071196198	0.154797185568169	0.959164234238806
+Locke BMI EU sex combined 77 SNPs	950	Concentration of very large VLDL particles || id:950	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.231250518471062	0.183622155564257	0.211904143747196
+Locke BMI EU sex combined 77 SNPs	950	Concentration of very large VLDL particles || id:950	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.228384780998989	0.0786200224355311	0.00367348391242362
+Locke BMI EU sex combined 77 SNPs	950	Concentration of very large VLDL particles || id:950	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.210043895829072	0.0614627935530552	0.000632187439666299
+Locke BMI EU sex combined 77 SNPs	950	Concentration of very large VLDL particles || id:950	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.164439048486881	0.160871603763825	0.310027822523282
+Locke BMI EU sex combined 77 SNPs	951	Phospholipids in very large VLDL || id:951	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.242449149284172	0.144333466970692	0.0972166655334469
+Locke BMI EU sex combined 77 SNPs	951	Phospholipids in very large VLDL || id:951	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.247056536599186	0.0799933551804791	0.00201194585426632
+Locke BMI EU sex combined 77 SNPs	951	Phospholipids in very large VLDL || id:951	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.171220624255208	0.0581695230654301	0.00324548460115734
+Locke BMI EU sex combined 77 SNPs	951	Phospholipids in very large VLDL || id:951	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.194572702925587	0.091717044744522	0.0371882409458917
+Locke BMI EU sex combined 77 SNPs	952	Triglycerides in very large VLDL || id:952	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.202926308670022	0.132349431655475	0.129475832509624
+Locke BMI EU sex combined 77 SNPs	952	Triglycerides in very large VLDL || id:952	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.201107347712853	0.0782120133617894	0.0101314533113077
+Locke BMI EU sex combined 77 SNPs	952	Triglycerides in very large VLDL || id:952	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.166230550739352	0.0526344533859413	0.00158742260845328
+Locke BMI EU sex combined 77 SNPs	952	Triglycerides in very large VLDL || id:952	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.206104913223023	0.0989011021973677	0.0405709999162711
+Locke BMI EU sex combined 77 SNPs	953	Total lipids in very small VLDL || id:953	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.0660413033996059	0.208072145704244	0.751849056971621
+Locke BMI EU sex combined 77 SNPs	953	Total lipids in very small VLDL || id:953	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.098023084311356	0.0812197205847349	0.227475383160648
+Locke BMI EU sex combined 77 SNPs	953	Total lipids in very small VLDL || id:953	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.0491960622167248	0.0693566986988135	0.478126199973351
+Locke BMI EU sex combined 77 SNPs	953	Total lipids in very small VLDL || id:953	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.0407130719827591	0.14513532302388	0.779862867821273
+Locke BMI EU sex combined 77 SNPs	954	Concentration of very small VLDL particles || id:954	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.0808552655451314	0.207728885343505	0.698235760963175
+Locke BMI EU sex combined 77 SNPs	954	Concentration of very small VLDL particles || id:954	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.0638489690256107	0.0814139870408823	0.4328930736926
+Locke BMI EU sex combined 77 SNPs	954	Concentration of very small VLDL particles || id:954	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.0696181573491018	0.0694349779633255	0.316035485288559
+Locke BMI EU sex combined 77 SNPs	954	Concentration of very small VLDL particles || id:954	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.0486999424500292	0.142855304599287	0.734141863983327
+Locke BMI EU sex combined 77 SNPs	955	Phospholipids in very small VLDL || id:955	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.0593436556802164	0.21090245847378	0.779215301798972
+Locke BMI EU sex combined 77 SNPs	955	Phospholipids in very small VLDL || id:955	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.146112172127228	0.0792850251564867	0.0653476658493513
+Locke BMI EU sex combined 77 SNPs	955	Phospholipids in very small VLDL || id:955	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.00734396060231476	0.0703111055628576	0.916812633326316
+Locke BMI EU sex combined 77 SNPs	955	Phospholipids in very small VLDL || id:955	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.210564542845728	0.130766111204794	0.111603767777683
+Locke BMI EU sex combined 77 SNPs	956	Triglycerides in very small VLDL || id:956	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.17598475720702	0.21735639179827	0.420767017429037
+Locke BMI EU sex combined 77 SNPs	956	Triglycerides in very small VLDL || id:956	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.122526480220417	0.0877627022831381	0.162681050667596
+Locke BMI EU sex combined 77 SNPs	956	Triglycerides in very small VLDL || id:956	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.121911603137509	0.0724820450253024	0.0925773920951408
+Locke BMI EU sex combined 77 SNPs	956	Triglycerides in very small VLDL || id:956	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.190685949293288	0.171338468722564	0.269345162798071
+Locke BMI EU sex combined 77 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.196922428198433	0.17570477493641	0.266064668415547
+Locke BMI EU sex combined 77 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.145715558264878	0.0789845380931677	0.065057642646732
+Locke BMI EU sex combined 77 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.162240079585805	0.058582392660969	0.00561537518249321
+Locke BMI EU sex combined 77 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.103440017474735	0.149888227766726	0.492281033256936
+Locke BMI EU sex combined 77 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Locke BMI EU sex combined 77 SNPs	MR Egger	75	0.26524520179136	0.168189408288317	0.119105128094939
+Locke BMI EU sex combined 77 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Locke BMI EU sex combined 77 SNPs	Weighted median	75	0.131643697917382	0.0798945832138108	0.0994106680800254
+Locke BMI EU sex combined 77 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	75	0.119602064061891	0.0564858409165572	0.0342274987744483
+Locke BMI EU sex combined 77 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Locke BMI EU sex combined 77 SNPs	Weighted mode	75	0.126250730591492	0.165683860743437	0.448483233071455
+Locke BMI EU sex combined 77 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.197572042178096	0.130001201441111	0.132829941051882
+Locke BMI EU sex combined 77 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.120596635099361	0.0797971313407496	0.130714489759755
+Locke BMI EU sex combined 77 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.146494172234618	0.0523350689858315	0.00512359229947769
+Locke BMI EU sex combined 77 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.120627367617596	0.0920141669368121	0.193869401745163
+Locke BMI EU sex combined 77 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Locke BMI EU sex combined 77 SNPs	MR Egger	76	0.202593323217608	0.139710681261209	0.151258272732137
+Locke BMI EU sex combined 77 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Locke BMI EU sex combined 77 SNPs	Weighted median	76	0.213261874503631	0.0756700288961572	0.00482766268929188
+Locke BMI EU sex combined 77 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Locke BMI EU sex combined 77 SNPs	Inverse variance weighted (multiplicative random effects)	76	0.164701142437297	0.0561311303100751	0.00334386003744184
+Locke BMI EU sex combined 77 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Locke BMI EU sex combined 77 SNPs	Weighted mode	76	0.202456518635481	0.0949143764999608	0.0361927207939548

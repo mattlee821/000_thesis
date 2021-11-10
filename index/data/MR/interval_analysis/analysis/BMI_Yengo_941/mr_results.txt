@@ -1,0 +1,921 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+Yengo BMI EU sex combined 941 SNPs	0bzA7q	XS-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0185174088629272	0.0220814514983826	0.401915997312444
+Yengo BMI EU sex combined 941 SNPs	0bzA7q	XS-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0171344309636633	0.0211620382102919	0.418125423290616
+Yengo BMI EU sex combined 941 SNPs	0bzA7q	XS-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0175575346762579	0.0136920314913336	0.199731212498791
+Yengo BMI EU sex combined 941 SNPs	0bzA7q	XS-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0110666097186316	0.0272237198971257	0.68446600213319
+Yengo BMI EU sex combined 941 SNPs	0HSQP7	Gly.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0189275890175144	0.0211585405463703	0.371258234668676
+Yengo BMI EU sex combined 941 SNPs	0HSQP7	Gly.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0297269389979113	0.0211977147700461	0.160806198764024
+Yengo BMI EU sex combined 941 SNPs	0HSQP7	Gly.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0721264334766231	0.013302228210808	5.88924601927096e-08
+Yengo BMI EU sex combined 941 SNPs	0HSQP7	Gly.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0396345799155142	0.0270429225544597	0.143096819329547
+Yengo BMI EU sex combined 941 SNPs	0P59FP	M-LDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0358086485573564	0.0245324709902571	0.144732579774631
+Yengo BMI EU sex combined 941 SNPs	0P59FP	M-LDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0222397089057247	0.0210256383755728	0.290172905553788
+Yengo BMI EU sex combined 941 SNPs	0P59FP	M-LDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0186237824868115	0.0151818476440403	0.219930167378418
+Yengo BMI EU sex combined 941 SNPs	0P59FP	M-LDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0263809434176046	0.026472200652195	0.319245708558327
+Yengo BMI EU sex combined 941 SNPs	0pw6e0	XL-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0123774910484765	0.0218915919080759	0.571941254356999
+Yengo BMI EU sex combined 941 SNPs	0pw6e0	XL-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00845273316267611	0.0226862935036238	0.709452072299492
+Yengo BMI EU sex combined 941 SNPs	0pw6e0	XL-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00515505050425005	0.0135450972556411	0.703511779649181
+Yengo BMI EU sex combined 941 SNPs	0pw6e0	XL-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0177278875217159	0.027117741684552	0.513445482840224
+Yengo BMI EU sex combined 941 SNPs	1blxDs	L-LDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0140003381309754	0.0239963996592689	0.559744788364636
+Yengo BMI EU sex combined 941 SNPs	1blxDs	L-LDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0326651846235138	0.0216760734514494	0.131818439144898
+Yengo BMI EU sex combined 941 SNPs	1blxDs	L-LDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0114736209066535	0.0148439136408169	0.439551260105261
+Yengo BMI EU sex combined 941 SNPs	1blxDs	L-LDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0273847224221537	0.0218030658989805	0.209436085190685
+Yengo BMI EU sex combined 941 SNPs	1Omz3D	S-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00484964624886726	0.0217928803400676	0.823948412682816
+Yengo BMI EU sex combined 941 SNPs	1Omz3D	S-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00790246886056367	0.0201906305750677	0.695506861295971
+Yengo BMI EU sex combined 941 SNPs	1Omz3D	S-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0404827096380694	0.0135324996246543	0.00277594614191654
+Yengo BMI EU sex combined 941 SNPs	1Omz3D	S-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0120851277860798	0.0196024641811886	0.537711237672008
+Yengo BMI EU sex combined 941 SNPs	1SHQOT	L-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0180382304928193	0.0223716945778797	0.420281808204711
+Yengo BMI EU sex combined 941 SNPs	1SHQOT	L-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0322326452600919	0.0222569338545919	0.14755919445162
+Yengo BMI EU sex combined 941 SNPs	1SHQOT	L-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0369182020678983	0.0138448956219812	0.00766326310696003
+Yengo BMI EU sex combined 941 SNPs	1SHQOT	L-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0220184556014686	0.0251388820313775	0.381329720658558
+Yengo BMI EU sex combined 941 SNPs	25lOzj	M-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0335654389967456	0.0215360078789402	0.119444419818826
+Yengo BMI EU sex combined 941 SNPs	25lOzj	M-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0261145874951866	0.0210158311301358	0.214009731041888
+Yengo BMI EU sex combined 941 SNPs	25lOzj	M-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0598814191727757	0.0133395102365278	7.15492908336352e-06
+Yengo BMI EU sex combined 941 SNPs	25lOzj	M-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0289490244295636	0.0217598359150537	0.183722667447101
+Yengo BMI EU sex combined 941 SNPs	2aDkIs	S-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0121079048902447	0.0220718349023909	0.583436131486159
+Yengo BMI EU sex combined 941 SNPs	2aDkIs	S-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0509080190467185	0.022002878666235	0.0206842869932925
+Yengo BMI EU sex combined 941 SNPs	2aDkIs	S-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0669879407628853	0.0137284297087408	1.06352452648042e-06
+Yengo BMI EU sex combined 941 SNPs	2aDkIs	S-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.028258023209998	0.0226024346804229	0.211539416215543
+Yengo BMI EU sex combined 941 SNPs	2HJzWv	S-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0374752372846018	0.0227370524524179	0.0996558177184479
+Yengo BMI EU sex combined 941 SNPs	2HJzWv	S-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0533382091811667	0.0207019017614955	0.00998095622979929
+Yengo BMI EU sex combined 941 SNPs	2HJzWv	S-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0359528589668816	0.0140647155807718	0.0105808589285644
+Yengo BMI EU sex combined 941 SNPs	2HJzWv	S-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0510154831072485	0.0236539849327539	0.0312864290327837
+Yengo BMI EU sex combined 941 SNPs	2oZN3c	S-LDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0321886618893414	0.0240978429496194	0.181964668924614
+Yengo BMI EU sex combined 941 SNPs	2oZN3c	S-LDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0143460980327643	0.0223988794451038	0.521858738489753
+Yengo BMI EU sex combined 941 SNPs	2oZN3c	S-LDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.00258538691402825	0.0149267717331653	0.862490534993781
+Yengo BMI EU sex combined 941 SNPs	2oZN3c	S-LDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0224700576065917	0.0274444125462639	0.413143858989657
+Yengo BMI EU sex combined 941 SNPs	2SLi4f	L-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00881361398483747	0.0215121311565595	0.682119041011764
+Yengo BMI EU sex combined 941 SNPs	2SLi4f	L-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0531605489574336	0.0216368035747274	0.0140122107851818
+Yengo BMI EU sex combined 941 SNPs	2SLi4f	L-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0803923072057029	0.0134359853493646	2.18583926360869e-09
+Yengo BMI EU sex combined 941 SNPs	2SLi4f	L-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0345267386830885	0.0227615008136587	0.129640103523509
+Yengo BMI EU sex combined 941 SNPs	2YzIO0	L-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0180960219884045	0.0207659827781233	0.383750806864667
+Yengo BMI EU sex combined 941 SNPs	2YzIO0	L-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0241401842940524	0.0232344123639789	0.298812145566949
+Yengo BMI EU sex combined 941 SNPs	2YzIO0	L-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0088206294601617	0.0128620871438346	0.492848548124517
+Yengo BMI EU sex combined 941 SNPs	2YzIO0	L-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.039453588192123	0.0364724244511344	0.279654826428935
+Yengo BMI EU sex combined 941 SNPs	33Ggrf	IDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0219989808235632	0.0237441562329232	0.354430866480621
+Yengo BMI EU sex combined 941 SNPs	33Ggrf	IDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.035494209992132	0.0208313875963142	0.0884032812697496
+Yengo BMI EU sex combined 941 SNPs	33Ggrf	IDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0173555883396298	0.014688271931629	0.237366447442235
+Yengo BMI EU sex combined 941 SNPs	33Ggrf	IDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0266009560178624	0.0218764226284047	0.224312692294887
+Yengo BMI EU sex combined 941 SNPs	3FNzFi	VLDL-D.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0335868042865197	0.0228344546509946	0.14166777283988
+Yengo BMI EU sex combined 941 SNPs	3FNzFi	VLDL-D.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0554630184054196	0.0218191277430977	0.0110237580352338
+Yengo BMI EU sex combined 941 SNPs	3FNzFi	VLDL-D.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0425711002039037	0.0142648764964705	0.00284199991009118
+Yengo BMI EU sex combined 941 SNPs	3FNzFi	VLDL-D.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0823375408582452	0.0319483717962297	0.0101161554226227
+Yengo BMI EU sex combined 941 SNPs	3MYCQH	L-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0237357843093611	0.0213565094102626	0.266685899808061
+Yengo BMI EU sex combined 941 SNPs	3MYCQH	L-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0514520678977664	0.0220627944485708	0.0196968019114981
+Yengo BMI EU sex combined 941 SNPs	3MYCQH	L-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0275237558934563	0.013275966877729	0.0381535207103066
+Yengo BMI EU sex combined 941 SNPs	3MYCQH	L-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.038832236992044	0.0307763110117715	0.207358359312077
+Yengo BMI EU sex combined 941 SNPs	3MZzbW	SFA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0100448738644368	0.0199428600785112	0.614605996858289
+Yengo BMI EU sex combined 941 SNPs	3MZzbW	SFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.025401846801769	0.0208764568893026	0.22369173083764
+Yengo BMI EU sex combined 941 SNPs	3MZzbW	SFA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0153955493412405	0.012337430242153	0.212077473217585
+Yengo BMI EU sex combined 941 SNPs	3MZzbW	SFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0130538682821602	0.0220225272536503	0.553494793025832
+Yengo BMI EU sex combined 941 SNPs	3St5UM	IDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0204090303423885	0.0225361330922871	0.365379550755766
+Yengo BMI EU sex combined 941 SNPs	3St5UM	IDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0122519222302556	0.0220458121453453	0.578382945030263
+Yengo BMI EU sex combined 941 SNPs	3St5UM	IDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0634240400426232	0.0141114236386238	6.97278797619273e-06
+Yengo BMI EU sex combined 941 SNPs	3St5UM	IDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0210911831392844	0.0260522640196871	0.418397148818072
+Yengo BMI EU sex combined 941 SNPs	490Ez8	XS-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0192216835213448	0.0222091616211405	0.387000567011148
+Yengo BMI EU sex combined 941 SNPs	490Ez8	XS-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0369812857175646	0.0205394238530245	0.0717813159696269
+Yengo BMI EU sex combined 941 SNPs	490Ez8	XS-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0412521283689747	0.0138291130178533	0.00285445801314544
+Yengo BMI EU sex combined 941 SNPs	490Ez8	XS-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0242192462672621	0.0292940746377633	0.408587627509309
+Yengo BMI EU sex combined 941 SNPs	4AY0XJ	XL-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00822776535221473	0.0218767986778777	0.70693337561471
+Yengo BMI EU sex combined 941 SNPs	4AY0XJ	XL-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0196644439642263	0.0215062885878231	0.36052883797991
+Yengo BMI EU sex combined 941 SNPs	4AY0XJ	XL-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0500996143793308	0.0136178401604927	0.000234178553679551
+Yengo BMI EU sex combined 941 SNPs	4AY0XJ	XL-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0022086721582788	0.0240842769937665	0.926951764999329
+Yengo BMI EU sex combined 941 SNPs	4dMDME	S-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0374752372846018	0.0227370524524179	0.0996558177184479
+Yengo BMI EU sex combined 941 SNPs	4dMDME	S-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0533382091811667	0.0205996748179015	0.00961784402673011
+Yengo BMI EU sex combined 941 SNPs	4dMDME	S-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0359528589668816	0.0140647155807718	0.0105808589285644
+Yengo BMI EU sex combined 941 SNPs	4dMDME	S-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0510154831072485	0.0223644808682021	0.0227724627780138
+Yengo BMI EU sex combined 941 SNPs	4FrZQ2	L-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0251264737895494	0.0226431493474731	0.267432805609309
+Yengo BMI EU sex combined 941 SNPs	4FrZQ2	L-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0383949117852932	0.0211095562311046	0.0689357966456671
+Yengo BMI EU sex combined 941 SNPs	4FrZQ2	L-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0533351424699475	0.014156175141481	0.000164808810783642
+Yengo BMI EU sex combined 941 SNPs	4FrZQ2	L-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0391168144474259	0.028644590604188	0.172403491860059
+Yengo BMI EU sex combined 941 SNPs	4HD3LI	M-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0382620128522405	0.0209903466846032	0.068655135939848
+Yengo BMI EU sex combined 941 SNPs	4HD3LI	M-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0403921012894185	0.0207391238126614	0.0514594732655271
+Yengo BMI EU sex combined 941 SNPs	4HD3LI	M-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0427243776646676	0.0129848475763141	0.00100071478602908
+Yengo BMI EU sex combined 941 SNPs	4HD3LI	M-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0320874213551812	0.0191702553761542	0.0945098903609576
+Yengo BMI EU sex combined 941 SNPs	4nIDSV	M-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00273188011649187	0.0199121488429609	0.890905640410407
+Yengo BMI EU sex combined 941 SNPs	4nIDSV	M-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.012430624586546	0.0200871462850562	0.536025212838116
+Yengo BMI EU sex combined 941 SNPs	4nIDSV	M-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0221114648527157	0.0123345320786739	0.0730293481702509
+Yengo BMI EU sex combined 941 SNPs	4nIDSV	M-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.000773617108785096	0.0223946819195301	0.972450365268555
+Yengo BMI EU sex combined 941 SNPs	5h2kME	L-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00881361398483747	0.0215121311565595	0.682119041011764
+Yengo BMI EU sex combined 941 SNPs	5h2kME	L-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0531605489574336	0.0222298118262765	0.0167838916043856
+Yengo BMI EU sex combined 941 SNPs	5h2kME	L-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0803923072057029	0.0134359853493646	2.18583926360869e-09
+Yengo BMI EU sex combined 941 SNPs	5h2kME	L-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0345267386830885	0.0213722878307445	0.106549891190019
+Yengo BMI EU sex combined 941 SNPs	5lgMTN	L-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00881361398483747	0.0215121311565595	0.682119041011764
+Yengo BMI EU sex combined 941 SNPs	5lgMTN	L-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0531605489574336	0.0217462245798658	0.0145017895485319
+Yengo BMI EU sex combined 941 SNPs	5lgMTN	L-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0803923072057029	0.0134359853493646	2.18583926360869e-09
+Yengo BMI EU sex combined 941 SNPs	5lgMTN	L-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0345267386830885	0.022772097889564	0.129818433990915
+Yengo BMI EU sex combined 941 SNPs	5Rg1WZ	XL-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00780660474200729	0.0222320164968066	0.725562583211804
+Yengo BMI EU sex combined 941 SNPs	5Rg1WZ	XL-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0225340263717442	0.0221659901001228	0.309342018646827
+Yengo BMI EU sex combined 941 SNPs	5Rg1WZ	XL-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0710047128319562	0.0139051153250312	3.28400225085613e-07
+Yengo BMI EU sex combined 941 SNPs	5Rg1WZ	XL-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00197546460273923	0.0259169122786526	0.939258389734992
+Yengo BMI EU sex combined 941 SNPs	5yPdoH	S-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0237669569580449	0.0219624043407956	0.279465025837569
+Yengo BMI EU sex combined 941 SNPs	5yPdoH	S-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00290009996240622	0.0209330253216638	0.889812200437897
+Yengo BMI EU sex combined 941 SNPs	5yPdoH	S-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0104032556711625	0.0136147154642648	0.444796641179982
+Yengo BMI EU sex combined 941 SNPs	5yPdoH	S-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0108296253523368	0.0283706734951076	0.702758621155516
+Yengo BMI EU sex combined 941 SNPs	6256tS	S-LDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0257557561436601	0.0242562298771506	0.288598386164071
+Yengo BMI EU sex combined 941 SNPs	6256tS	S-LDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0679820741103571	0.0211652570213333	0.00131830232447417
+Yengo BMI EU sex combined 941 SNPs	6256tS	S-LDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0530396951552604	0.0150212355653164	0.000414021718415521
+Yengo BMI EU sex combined 941 SNPs	6256tS	S-LDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0428910960004352	0.0249139109297784	0.0854857792242555
+Yengo BMI EU sex combined 941 SNPs	6jnkS1	M-LDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0260291192342168	0.0241295594714533	0.28099628960993
+Yengo BMI EU sex combined 941 SNPs	6jnkS1	M-LDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0469735114259269	0.0213947206041484	0.0281230545766895
+Yengo BMI EU sex combined 941 SNPs	6jnkS1	M-LDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0512480390932062	0.0149404117804253	0.000603220043518709
+Yengo BMI EU sex combined 941 SNPs	6jnkS1	M-LDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0486336795557922	0.0244121227658656	0.0466472320890143
+Yengo BMI EU sex combined 941 SNPs	6KJGkX	S-LDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0319489154821836	0.0244623588229984	0.191866927204362
+Yengo BMI EU sex combined 941 SNPs	6KJGkX	S-LDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.032864807452714	0.0224114655251946	0.142531639255269
+Yengo BMI EU sex combined 941 SNPs	6KJGkX	S-LDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0161333462321614	0.0151375578658953	0.286521914782307
+Yengo BMI EU sex combined 941 SNPs	6KJGkX	S-LDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0366363733410608	0.0269822991713474	0.174864892818074
+Yengo BMI EU sex combined 941 SNPs	6QF7TF	Lac.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00565187559806433	0.0239562043699033	0.813543577442297
+Yengo BMI EU sex combined 941 SNPs	6QF7TF	Lac.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00204229017473973	0.0258943680980922	0.937135983556025
+Yengo BMI EU sex combined 941 SNPs	6QF7TF	Lac.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0207143878729433	0.014830839995273	0.162500687443751
+Yengo BMI EU sex combined 941 SNPs	6QF7TF	Lac.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0169112313164814	0.0263191006352065	0.520680085178284
+Yengo BMI EU sex combined 941 SNPs	7D4x4s	XXL-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.024231771581844	0.02199520236868	0.270889555200372
+Yengo BMI EU sex combined 941 SNPs	7D4x4s	XXL-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00235656367360323	0.0212816621057737	0.911828770368391
+Yengo BMI EU sex combined 941 SNPs	7D4x4s	XXL-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.000306007656161595	0.0136185231176177	0.982073075188633
+Yengo BMI EU sex combined 941 SNPs	7D4x4s	XXL-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.000101966199426151	0.0251811833517074	0.996770018382538
+Yengo BMI EU sex combined 941 SNPs	7H5ZEC	Val.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00470822140121109	0.0189454840332008	0.803792549830544
+Yengo BMI EU sex combined 941 SNPs	7H5ZEC	Val.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0237448271229329	0.0200819469465157	0.237048345347649
+Yengo BMI EU sex combined 941 SNPs	7H5ZEC	Val.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0599220825699869	0.0118075349939497	3.87695829428176e-07
+Yengo BMI EU sex combined 941 SNPs	7H5ZEC	Val.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0241706426354575	0.0202075340204772	0.231960135961226
+Yengo BMI EU sex combined 941 SNPs	7RE032	XL-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0314297099213838	0.0221633859101903	0.156505633717161
+Yengo BMI EU sex combined 941 SNPs	7RE032	XL-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0257540512508453	0.0226688084353193	0.255914382995509
+Yengo BMI EU sex combined 941 SNPs	7RE032	XL-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0299738564266427	0.0137985723237406	0.0298373154522376
+Yengo BMI EU sex combined 941 SNPs	7RE032	XL-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0364465238314682	0.0304602785012905	0.231801864709693
+Yengo BMI EU sex combined 941 SNPs	7WxVaN	Ace.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0625964017043625	0.044037652745731	0.155533897153597
+Yengo BMI EU sex combined 941 SNPs	7WxVaN	Ace.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0319573212447645	0.0501505739762225	0.523976714614046
+Yengo BMI EU sex combined 941 SNPs	7WxVaN	Ace.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0119862905859622	0.027255028054832	0.660094478481037
+Yengo BMI EU sex combined 941 SNPs	7WxVaN	Ace.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00332668698306016	0.0553113142102802	0.952053485183827
+Yengo BMI EU sex combined 941 SNPs	8LNpjQ	S-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0249373243282666	0.0202741915212113	0.219013022620321
+Yengo BMI EU sex combined 941 SNPs	8LNpjQ	S-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.000270875870553684	0.0207262573162173	0.989572573606572
+Yengo BMI EU sex combined 941 SNPs	8LNpjQ	S-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0446842263964984	0.0126720122763979	0.00042154628120331
+Yengo BMI EU sex combined 941 SNPs	8LNpjQ	S-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0235635338851337	0.0206329615143267	0.253739499533461
+Yengo BMI EU sex combined 941 SNPs	8p1KH0	XL-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00780660474200729	0.0222320164968066	0.725562583211804
+Yengo BMI EU sex combined 941 SNPs	8p1KH0	XL-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0225340263717442	0.0219619639120381	0.30486901884019
+Yengo BMI EU sex combined 941 SNPs	8p1KH0	XL-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0710047128319562	0.0139051153250312	3.28400225085613e-07
+Yengo BMI EU sex combined 941 SNPs	8p1KH0	XL-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00197546460273923	0.0253123441213598	0.937810529496155
+Yengo BMI EU sex combined 941 SNPs	8sajif	L-LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.000963420446258748	0.0210031614091882	0.963423701201712
+Yengo BMI EU sex combined 941 SNPs	8sajif	L-LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0228180507547587	0.0206864348953235	0.270007997790275
+Yengo BMI EU sex combined 941 SNPs	8sajif	L-LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0433881909284866	0.0130396707552049	0.000876606753137564
+Yengo BMI EU sex combined 941 SNPs	8sajif	L-LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00423683227610283	0.0229805074514258	0.853767007910254
+Yengo BMI EU sex combined 941 SNPs	9DhbMx	XL-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0123774910484765	0.0218915919080759	0.571941254356999
+Yengo BMI EU sex combined 941 SNPs	9DhbMx	XL-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00845273316267611	0.0226668255197628	0.709213877312101
+Yengo BMI EU sex combined 941 SNPs	9DhbMx	XL-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00515505050425005	0.0135450972556411	0.703511779649181
+Yengo BMI EU sex combined 941 SNPs	9DhbMx	XL-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0177278875217159	0.0280537826826444	0.527594062238174
+Yengo BMI EU sex combined 941 SNPs	9Mrnkx	IDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00901631155724208	0.0201331729155278	0.654379639623399
+Yengo BMI EU sex combined 941 SNPs	9Mrnkx	IDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0165426797106216	0.0199052988596354	0.405934568933054
+Yengo BMI EU sex combined 941 SNPs	9Mrnkx	IDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0277058042505468	0.0124638043505251	0.0262224704096681
+Yengo BMI EU sex combined 941 SNPs	9Mrnkx	IDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0110290530089063	0.0201910493278479	0.585038024862068
+Yengo BMI EU sex combined 941 SNPs	9MTYB3	L-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0180382304928193	0.0223716945778797	0.420281808204711
+Yengo BMI EU sex combined 941 SNPs	9MTYB3	L-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0322326452600919	0.0233027008696237	0.166598953340448
+Yengo BMI EU sex combined 941 SNPs	9MTYB3	L-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0369182020678983	0.0138448956219812	0.00766326310696003
+Yengo BMI EU sex combined 941 SNPs	9MTYB3	L-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0220184556014686	0.0255739295888571	0.389479115070606
+Yengo BMI EU sex combined 941 SNPs	Abqcbt	Ala.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.000787947224824713	0.0201711276472444	0.968848611869059
+Yengo BMI EU sex combined 941 SNPs	Abqcbt	Ala.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00700529598700133	0.0197168297448701	0.722368412316038
+Yengo BMI EU sex combined 941 SNPs	Abqcbt	Ala.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.00108806416893834	0.0124775901422644	0.930511373054186
+Yengo BMI EU sex combined 941 SNPs	Abqcbt	Ala.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00289444443937503	0.0218937798602067	0.89485209629519
+Yengo BMI EU sex combined 941 SNPs	aCMrcg	M-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0230734211456028	0.0219151527525678	0.292687511461413
+Yengo BMI EU sex combined 941 SNPs	aCMrcg	M-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0170096603828228	0.0212655026640512	0.42378550053306
+Yengo BMI EU sex combined 941 SNPs	aCMrcg	M-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0306398206916296	0.0136286250778587	0.0245636932064598
+Yengo BMI EU sex combined 941 SNPs	aCMrcg	M-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0250665453546164	0.030445410114755	0.410536743507399
+Yengo BMI EU sex combined 941 SNPs	agIaD7	M-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0335654389967456	0.0215360078789402	0.119444419818826
+Yengo BMI EU sex combined 941 SNPs	agIaD7	M-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0261145874951866	0.019577105003495	0.182225127464302
+Yengo BMI EU sex combined 941 SNPs	agIaD7	M-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0598814191727757	0.0133395102365278	7.15492908336352e-06
+Yengo BMI EU sex combined 941 SNPs	agIaD7	M-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0289490244295636	0.0190803355949727	0.129557867339092
+Yengo BMI EU sex combined 941 SNPs	aoKYOO	IDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00901631155724208	0.0201331729155278	0.654379639623399
+Yengo BMI EU sex combined 941 SNPs	aoKYOO	IDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0165426797106216	0.0204641222528266	0.418874883030692
+Yengo BMI EU sex combined 941 SNPs	aoKYOO	IDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0277058042505468	0.0124638043505251	0.0262224704096681
+Yengo BMI EU sex combined 941 SNPs	aoKYOO	IDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0110290530089063	0.0204911532977232	0.590546102228113
+Yengo BMI EU sex combined 941 SNPs	AqdLnb	XS-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00814907394288683	0.0198336930602678	0.681264214121441
+Yengo BMI EU sex combined 941 SNPs	AqdLnb	XS-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0169391999023134	0.0204440624511137	0.407351560757177
+Yengo BMI EU sex combined 941 SNPs	AqdLnb	XS-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0333191137265679	0.0123166028109379	0.00682592751610249
+Yengo BMI EU sex combined 941 SNPs	AqdLnb	XS-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.000700918857787336	0.0220117056369975	0.974604210385623
+Yengo BMI EU sex combined 941 SNPs	AWxwrK	S-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0121079048902447	0.0220718349023909	0.583436131486159
+Yengo BMI EU sex combined 941 SNPs	AWxwrK	S-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0509080190467185	0.0215760769147221	0.0183012597747422
+Yengo BMI EU sex combined 941 SNPs	AWxwrK	S-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0669879407628853	0.0137284297087408	1.06352452648042e-06
+Yengo BMI EU sex combined 941 SNPs	AWxwrK	S-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.028258023209998	0.0222079544207371	0.203545044167736
+Yengo BMI EU sex combined 941 SNPs	B1Rmh9	XL-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0128886278359846	0.022093482352988	0.559789909834189
+Yengo BMI EU sex combined 941 SNPs	B1Rmh9	XL-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.013106496905567	0.0237636849910901	0.581267185296573
+Yengo BMI EU sex combined 941 SNPs	B1Rmh9	XL-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0234561473643903	0.0136950847048411	0.0867600066401124
+Yengo BMI EU sex combined 941 SNPs	B1Rmh9	XL-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00143741437489986	0.0241128065948498	0.952477648265903
+Yengo BMI EU sex combined 941 SNPs	B2wx1F	XL-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0269192898796825	0.0218241361143281	0.217720439355343
+Yengo BMI EU sex combined 941 SNPs	B2wx1F	XL-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0322546532621617	0.0210377495528151	0.12523155277959
+Yengo BMI EU sex combined 941 SNPs	B2wx1F	XL-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0479382710112856	0.0136411263478666	0.000441004528860371
+Yengo BMI EU sex combined 941 SNPs	B2wx1F	XL-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.031588699506691	0.026624369750509	0.235750078141246
+Yengo BMI EU sex combined 941 SNPs	b6dTia	PC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00599918984534604	0.0214089517261914	0.779373224114814
+Yengo BMI EU sex combined 941 SNPs	b6dTia	PC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0152201749275804	0.0195657333709304	0.436628241345342
+Yengo BMI EU sex combined 941 SNPs	b6dTia	PC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0341040485428379	0.0132633062322109	0.0101315107902394
+Yengo BMI EU sex combined 941 SNPs	b6dTia	PC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0123708310585369	0.0198365383883599	0.53302072380516
+Yengo BMI EU sex combined 941 SNPs	bBb2yX	Ile.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00978538588013602	0.0192950115394377	0.612175057254591
+Yengo BMI EU sex combined 941 SNPs	bBb2yX	Ile.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0271189881319637	0.0206257733437377	0.188573519985331
+Yengo BMI EU sex combined 941 SNPs	bBb2yX	Ile.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0449200466513882	0.01202077301964	0.000186326390513688
+Yengo BMI EU sex combined 941 SNPs	bBb2yX	Ile.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.000318401126364165	0.0225221705879541	0.988723586012617
+Yengo BMI EU sex combined 941 SNPs	BessWH	IDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0204090303423885	0.0225361330922871	0.365379550755766
+Yengo BMI EU sex combined 941 SNPs	BessWH	IDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0122519222302556	0.0221806581993773	0.580695125404582
+Yengo BMI EU sex combined 941 SNPs	BessWH	IDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0634240400426232	0.0141114236386238	6.97278797619273e-06
+Yengo BMI EU sex combined 941 SNPs	BessWH	IDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0210911831392844	0.0279563195302741	0.450783521503932
+Yengo BMI EU sex combined 941 SNPs	BKkLoL	XL-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00635073331094213	0.0221531287035793	0.774426807904058
+Yengo BMI EU sex combined 941 SNPs	BKkLoL	XL-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0189611029220047	0.021008114494091	0.366758981103422
+Yengo BMI EU sex combined 941 SNPs	BKkLoL	XL-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0557625083489897	0.0137990701772438	5.32160975179428e-05
+Yengo BMI EU sex combined 941 SNPs	BKkLoL	XL-HDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00453357104897201	0.0236114956638039	0.847779464189818
+Yengo BMI EU sex combined 941 SNPs	BRYOds	M-LDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00313719315218032	0.0207077746489598	0.879616137413049
+Yengo BMI EU sex combined 941 SNPs	BRYOds	M-LDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0155641943089774	0.0197161329268496	0.429869988523738
+Yengo BMI EU sex combined 941 SNPs	BRYOds	M-LDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0390346359538459	0.0128569715131644	0.00239685539223162
+Yengo BMI EU sex combined 941 SNPs	BRYOds	M-LDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00207572564004987	0.0225740449151363	0.926756450949851
+Yengo BMI EU sex combined 941 SNPs	bUXS3E	L-LDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0140003381309754	0.0239963996592689	0.559744788364636
+Yengo BMI EU sex combined 941 SNPs	bUXS3E	L-LDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0326651846235138	0.0213956798133134	0.12683097357523
+Yengo BMI EU sex combined 941 SNPs	bUXS3E	L-LDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0114736209066535	0.0148439136408169	0.439551260105261
+Yengo BMI EU sex combined 941 SNPs	bUXS3E	L-LDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0273847224221537	0.0231503430993488	0.237153611267476
+Yengo BMI EU sex combined 941 SNPs	bWXM5S	XXL-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0077019544712954	0.0209389514651898	0.713086060344738
+Yengo BMI EU sex combined 941 SNPs	bWXM5S	XXL-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0117267346351522	0.0217944544848676	0.590535295299099
+Yengo BMI EU sex combined 941 SNPs	bWXM5S	XXL-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0149896765443654	0.0129639422510127	0.247575181523619
+Yengo BMI EU sex combined 941 SNPs	bWXM5S	XXL-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0163686381617145	0.0251457512744534	0.515242261992446
+Yengo BMI EU sex combined 941 SNPs	bxK6RT	L-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.022184070609054	0.0212505579164997	0.296794931688911
+Yengo BMI EU sex combined 941 SNPs	bxK6RT	L-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.039225368261621	0.021118674031364	0.06325734219221
+Yengo BMI EU sex combined 941 SNPs	bxK6RT	L-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0560345853783365	0.0131738614263929	2.10485931303936e-05
+Yengo BMI EU sex combined 941 SNPs	bxK6RT	L-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.023243712422206	0.0216253263453596	0.28273143884952
+Yengo BMI EU sex combined 941 SNPs	Bxpfdh	S-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0196129186237189	0.021441138551389	0.360573555392556
+Yengo BMI EU sex combined 941 SNPs	Bxpfdh	S-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0472444769546555	0.0203295272613662	0.0201290386461221
+Yengo BMI EU sex combined 941 SNPs	Bxpfdh	S-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0582127108292351	0.0133010899900148	1.20579799354064e-05
+Yengo BMI EU sex combined 941 SNPs	Bxpfdh	S-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0368521772090231	0.0254832631301082	0.148483205354918
+Yengo BMI EU sex combined 941 SNPs	c14JVy	XS-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0176916427498646	0.0211638797580044	0.403410028718226
+Yengo BMI EU sex combined 941 SNPs	c14JVy	XS-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.013016210527132	0.0205219559079699	0.525912594463289
+Yengo BMI EU sex combined 941 SNPs	c14JVy	XS-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.068059377599635	0.0132815065606672	2.98531396530942e-07
+Yengo BMI EU sex combined 941 SNPs	c14JVy	XS-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.010197108022997	0.0218002275361366	0.640073315851157
+Yengo BMI EU sex combined 941 SNPs	C3aj8C	XL-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00278395655239116	0.0226407372666078	0.902164063101675
+Yengo BMI EU sex combined 941 SNPs	C3aj8C	XL-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.058985904786942	0.0216844419771074	0.00652434823217911
+Yengo BMI EU sex combined 941 SNPs	C3aj8C	XL-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.087435469820632	0.0141782573831168	6.96549852282618e-10
+Yengo BMI EU sex combined 941 SNPs	C3aj8C	XL-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0410365688916547	0.0245578632476982	0.0950613310595062
+Yengo BMI EU sex combined 941 SNPs	Cayt40	XL-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00635073331094213	0.0221531287035793	0.774426807904058
+Yengo BMI EU sex combined 941 SNPs	Cayt40	XL-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0189611029220047	0.0214799928081779	0.37738043641087
+Yengo BMI EU sex combined 941 SNPs	Cayt40	XL-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0557625083489897	0.0137990701772438	5.32160975179428e-05
+Yengo BMI EU sex combined 941 SNPs	Cayt40	XL-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00453357104897201	0.0254471482709756	0.858639710030383
+Yengo BMI EU sex combined 941 SNPs	CKGCZ6	S-LDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0175540632298737	0.0247445480114408	0.478250565645585
+Yengo BMI EU sex combined 941 SNPs	CKGCZ6	S-LDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0262431638954343	0.0202250024655751	0.194438409974788
+Yengo BMI EU sex combined 941 SNPs	CKGCZ6	S-LDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.014473286014998	0.0153067260023122	0.344377782115555
+Yengo BMI EU sex combined 941 SNPs	CKGCZ6	S-LDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0203123152134665	0.0207610925523974	0.328143740197328
+Yengo BMI EU sex combined 941 SNPs	CRRyoP	L-LDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.000963420446258748	0.0210031614091882	0.963423701201712
+Yengo BMI EU sex combined 941 SNPs	CRRyoP	L-LDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0228180507547587	0.0208295587703053	0.273313009737364
+Yengo BMI EU sex combined 941 SNPs	CRRyoP	L-LDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0433881909284866	0.0130396707552049	0.000876606753137564
+Yengo BMI EU sex combined 941 SNPs	CRRyoP	L-LDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00423683227610283	0.0228914826989166	0.85320476771457
+Yengo BMI EU sex combined 941 SNPs	cUvriI	S-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0249373243282666	0.0202741915212113	0.219013022620321
+Yengo BMI EU sex combined 941 SNPs	cUvriI	S-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.000270875870553684	0.0207054516665275	0.989562096317118
+Yengo BMI EU sex combined 941 SNPs	cUvriI	S-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0446842263964984	0.0126720122763979	0.00042154628120331
+Yengo BMI EU sex combined 941 SNPs	cUvriI	S-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0235635338851337	0.020155314636775	0.242669371309619
+Yengo BMI EU sex combined 941 SNPs	CWRP4r	M-LDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0233372701213414	0.02418518190358	0.334830229465383
+Yengo BMI EU sex combined 941 SNPs	CWRP4r	M-LDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0131312703284964	0.0214126341800864	0.539711900183858
+Yengo BMI EU sex combined 941 SNPs	CWRP4r	M-LDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0110063597431057	0.014963929650207	0.462019194212766
+Yengo BMI EU sex combined 941 SNPs	CWRP4r	M-LDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0240071779263822	0.0266071407496438	0.367144382035343
+Yengo BMI EU sex combined 941 SNPs	d0cGRP	M-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0335654389967456	0.0215360078789402	0.119444419818826
+Yengo BMI EU sex combined 941 SNPs	d0cGRP	M-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0261145874951866	0.0202887724099531	0.19804382996993
+Yengo BMI EU sex combined 941 SNPs	d0cGRP	M-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0598814191727757	0.0133395102365278	7.15492908336352e-06
+Yengo BMI EU sex combined 941 SNPs	d0cGRP	M-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0289490244295636	0.0196157956830045	0.140341918935312
+Yengo BMI EU sex combined 941 SNPs	d0M8mU	L-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0181054744415213	0.0226367425947223	0.424019401524607
+Yengo BMI EU sex combined 941 SNPs	d0M8mU	L-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0421304454755978	0.0216734536419263	0.0519107449604154
+Yengo BMI EU sex combined 941 SNPs	d0M8mU	L-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0913524072084759	0.0141310742880771	1.01535541564323e-10
+Yengo BMI EU sex combined 941 SNPs	d0M8mU	L-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0253995801198359	0.0229560589164326	0.268826088511032
+Yengo BMI EU sex combined 941 SNPs	D50dN9	S-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0288093807858437	0.0223600514822331	0.197922779952536
+Yengo BMI EU sex combined 941 SNPs	D50dN9	S-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0249032041287086	0.0221038119618591	0.259891554476901
+Yengo BMI EU sex combined 941 SNPs	D50dN9	S-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0273882558369874	0.0139092778656844	0.0489457626247884
+Yengo BMI EU sex combined 941 SNPs	D50dN9	S-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0460250686312946	0.0303659412754104	0.129946256388696
+Yengo BMI EU sex combined 941 SNPs	D8XEAz	M-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0230734211456028	0.0219151527525678	0.292687511461413
+Yengo BMI EU sex combined 941 SNPs	D8XEAz	M-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0170096603828228	0.0215781401312927	0.43053174895654
+Yengo BMI EU sex combined 941 SNPs	D8XEAz	M-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0306398206916296	0.0136286250778587	0.0245636932064598
+Yengo BMI EU sex combined 941 SNPs	D8XEAz	M-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0250665453546164	0.0292844947555722	0.392240915058668
+Yengo BMI EU sex combined 941 SNPs	dFjGR2	S-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00440897543739012	0.0203244331958661	0.828311562607421
+Yengo BMI EU sex combined 941 SNPs	dFjGR2	S-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00816485558268055	0.0214852205728074	0.703929115883637
+Yengo BMI EU sex combined 941 SNPs	dFjGR2	S-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0159272102945205	0.0125837285692777	0.205620934000755
+Yengo BMI EU sex combined 941 SNPs	dFjGR2	S-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00484613355372732	0.0228878743812142	0.832362076824598
+Yengo BMI EU sex combined 941 SNPs	dlcaqC	M-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0121947152200349	0.0224174231669745	0.58658557319528
+Yengo BMI EU sex combined 941 SNPs	dlcaqC	M-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0215601383905599	0.0220626521350075	0.328458600360257
+Yengo BMI EU sex combined 941 SNPs	dlcaqC	M-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.075763930436948	0.0139661103430116	5.80060947386818e-08
+Yengo BMI EU sex combined 941 SNPs	dlcaqC	M-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0197390858805315	0.0216262500577867	0.361621650770335
+Yengo BMI EU sex combined 941 SNPs	DpAfkE	TGbyPG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0185118110076173	0.0229701939012618	0.420507283213298
+Yengo BMI EU sex combined 941 SNPs	DpAfkE	TGbyPG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.03860045406465	0.0215387835925679	0.0731110006007082
+Yengo BMI EU sex combined 941 SNPs	DpAfkE	TGbyPG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0632852596721817	0.0143693020217628	1.06175648847725e-05
+Yengo BMI EU sex combined 941 SNPs	DpAfkE	TGbyPG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0454191935563983	0.028261213451344	0.108373551804576
+Yengo BMI EU sex combined 941 SNPs	DqqK4f	SFAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0100448738644368	0.0199428600785112	0.614605996858289
+Yengo BMI EU sex combined 941 SNPs	DqqK4f	SFAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.025401846801769	0.0207131780284854	0.220062617903743
+Yengo BMI EU sex combined 941 SNPs	DqqK4f	SFAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0153955493412405	0.012337430242153	0.212077473217585
+Yengo BMI EU sex combined 941 SNPs	DqqK4f	SFAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0130538682821602	0.0230962564977847	0.572080590489328
+Yengo BMI EU sex combined 941 SNPs	duCBJN	Crea.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00321727232140378	0.0233907449476013	0.890630645663335
+Yengo BMI EU sex combined 941 SNPs	duCBJN	Crea.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0194629249100881	0.0238766531400195	0.414989543927521
+Yengo BMI EU sex combined 941 SNPs	duCBJN	Crea.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0201331578726156	0.0144761714018503	0.164292396723386
+Yengo BMI EU sex combined 941 SNPs	duCBJN	Crea.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0107565198876141	0.0309686046359193	0.728418749387243
+Yengo BMI EU sex combined 941 SNPs	DZg8yC	LAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0138915178305044	0.0206134185378787	0.500541486825297
+Yengo BMI EU sex combined 941 SNPs	DZg8yC	LAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0223562003028009	0.0219067547751913	0.307483663316108
+Yengo BMI EU sex combined 941 SNPs	DZg8yC	LAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00383337817549872	0.0127601099469468	0.763857650110515
+Yengo BMI EU sex combined 941 SNPs	DZg8yC	LAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0271052042602205	0.0254830983382911	0.28776662142941
+Yengo BMI EU sex combined 941 SNPs	e3ygrP	DHAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0100558874550772	0.0205210144497244	0.624231398604688
+Yengo BMI EU sex combined 941 SNPs	e3ygrP	DHAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00601511613063938	0.0208140148225189	0.772586309848933
+Yengo BMI EU sex combined 941 SNPs	e3ygrP	DHAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0117110669836103	0.0127070425147997	0.356726721469629
+Yengo BMI EU sex combined 941 SNPs	e3ygrP	DHAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0075589837197616	0.0216614183022424	0.727199273553012
+Yengo BMI EU sex combined 941 SNPs	Eag8VS	S-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.029443879445881	0.0218589364878464	0.178316422566755
+Yengo BMI EU sex combined 941 SNPs	Eag8VS	S-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0393819345856747	0.0207573312248685	0.0577943918687667
+Yengo BMI EU sex combined 941 SNPs	Eag8VS	S-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.00708320196464735	0.0135341768058206	0.600726057987988
+Yengo BMI EU sex combined 941 SNPs	Eag8VS	S-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.045186429489469	0.0235876189019236	0.0557173890160052
+Yengo BMI EU sex combined 941 SNPs	eKKYCD	XL-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00973435585984577	0.0210810987824563	0.644365338627711
+Yengo BMI EU sex combined 941 SNPs	eKKYCD	XL-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0401369612898605	0.0209202097433662	0.0550383243556812
+Yengo BMI EU sex combined 941 SNPs	eKKYCD	XL-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0657904492097055	0.0131217508088084	5.33524527254886e-07
+Yengo BMI EU sex combined 941 SNPs	eKKYCD	XL-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.046281389737524	0.0216415090727978	0.0327371764338784
+Yengo BMI EU sex combined 941 SNPs	EkXcZJ	S-LDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0138247148336106	0.0211203164463352	0.51291000902366
+Yengo BMI EU sex combined 941 SNPs	EkXcZJ	S-LDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0254136464624634	0.0218955363471159	0.245773259683347
+Yengo BMI EU sex combined 941 SNPs	EkXcZJ	S-LDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0485306040104712	0.0131659661403891	0.000227748407056837
+Yengo BMI EU sex combined 941 SNPs	EkXcZJ	S-LDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0114400418521692	0.0261730508653841	0.66214769329331
+Yengo BMI EU sex combined 941 SNPs	eprz7F	S-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00484964624886726	0.0217928803400676	0.823948412682816
+Yengo BMI EU sex combined 941 SNPs	eprz7F	S-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00790246886056367	0.0198657407985439	0.690782175272446
+Yengo BMI EU sex combined 941 SNPs	eprz7F	S-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0404827096380694	0.0135324996246543	0.00277594614191654
+Yengo BMI EU sex combined 941 SNPs	eprz7F	S-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0120851277860798	0.0199037612600111	0.543883698026291
+Yengo BMI EU sex combined 941 SNPs	ETgVld	XS-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0192216835213448	0.0222091616211405	0.387000567011148
+Yengo BMI EU sex combined 941 SNPs	ETgVld	XS-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0369812857175646	0.0216032710981565	0.0869266522221211
+Yengo BMI EU sex combined 941 SNPs	ETgVld	XS-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0412521283689747	0.0138291130178533	0.00285445801314544
+Yengo BMI EU sex combined 941 SNPs	ETgVld	XS-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0242192462672621	0.0268587817440634	0.367440557254789
+Yengo BMI EU sex combined 941 SNPs	F097SA	S-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0237669569580449	0.0219624043407956	0.279465025837569
+Yengo BMI EU sex combined 941 SNPs	F097SA	S-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00290009996240622	0.0216112756346061	0.893249300566815
+Yengo BMI EU sex combined 941 SNPs	F097SA	S-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0104032556711625	0.0136147154642648	0.444796641179982
+Yengo BMI EU sex combined 941 SNPs	F097SA	S-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0108296253523368	0.0285330586024815	0.704370269116361
+Yengo BMI EU sex combined 941 SNPs	fDSXLu	HDL3-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0108060967639983	0.0207750786026603	0.603087291500083
+Yengo BMI EU sex combined 941 SNPs	fDSXLu	HDL3-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0124534760799986	0.0193416283972498	0.51966034705566
+Yengo BMI EU sex combined 941 SNPs	fDSXLu	HDL3-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0363464670214799	0.0129098751768095	0.00487165035502505
+Yengo BMI EU sex combined 941 SNPs	fDSXLu	HDL3-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.000817001297800601	0.0194016089383236	0.966420234093783
+Yengo BMI EU sex combined 941 SNPs	FGMXAa	S-LDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0319489154821836	0.0244623588229984	0.191866927204362
+Yengo BMI EU sex combined 941 SNPs	FGMXAa	S-LDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.032864807452714	0.0214021831599884	0.124640928984036
+Yengo BMI EU sex combined 941 SNPs	FGMXAa	S-LDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0161333462321614	0.0151375578658953	0.286521914782307
+Yengo BMI EU sex combined 941 SNPs	FGMXAa	S-LDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0366363733410608	0.0262639176115931	0.163375664841268
+Yengo BMI EU sex combined 941 SNPs	fVSgs9	S-LDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0361003996894726	0.0247034521837344	0.144263751543952
+Yengo BMI EU sex combined 941 SNPs	fVSgs9	S-LDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0450024236787358	0.0213108677819379	0.0347111250862416
+Yengo BMI EU sex combined 941 SNPs	fVSgs9	S-LDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0314394703642859	0.0152815064995365	0.0396521749436715
+Yengo BMI EU sex combined 941 SNPs	fVSgs9	S-LDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0524405857212393	0.0265291487281813	0.0483743251804659
+Yengo BMI EU sex combined 941 SNPs	fvzgxH	FAw3byFA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0264740457021639	0.0205543957159715	0.198072933821916
+Yengo BMI EU sex combined 941 SNPs	fvzgxH	FAw3byFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0137546546969827	0.0217807097281121	0.527709552714747
+Yengo BMI EU sex combined 941 SNPs	fvzgxH	FAw3byFA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00521010869303885	0.0127419463408098	0.682617263134296
+Yengo BMI EU sex combined 941 SNPs	fvzgxH	FAw3byFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00679093901615913	0.0238298406037597	0.775726954064196
+Yengo BMI EU sex combined 941 SNPs	fW8Mwo	L-LDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00530943310381797	0.022714533795222	0.815234573635633
+Yengo BMI EU sex combined 941 SNPs	fW8Mwo	L-LDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.053143970543176	0.0221918019089712	0.0166313884227004
+Yengo BMI EU sex combined 941 SNPs	fW8Mwo	L-LDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.072682752784939	0.0141980007613437	3.06794645602596e-07
+Yengo BMI EU sex combined 941 SNPs	fW8Mwo	L-LDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0297324634298777	0.0226629444781114	0.189869550169753
+Yengo BMI EU sex combined 941 SNPs	FY6kAp	M-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0278645720777822	0.0220725825683421	0.207125254437265
+Yengo BMI EU sex combined 941 SNPs	FY6kAp	M-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0194984943077508	0.0202221889381865	0.334939226262786
+Yengo BMI EU sex combined 941 SNPs	FY6kAp	M-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0671349396036793	0.013692118335414	9.42968413368632e-07
+Yengo BMI EU sex combined 941 SNPs	FY6kAp	M-HDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0215501242431504	0.0201344359413927	0.284761853916597
+Yengo BMI EU sex combined 941 SNPs	FYwzKu	TotFA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0103915448109873	0.0226236891925812	0.646112834984176
+Yengo BMI EU sex combined 941 SNPs	FYwzKu	TotFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0120043586386084	0.0199840922246906	0.548042671217981
+Yengo BMI EU sex combined 941 SNPs	FYwzKu	TotFA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.010829092297672	0.0140062176258176	0.439425791100081
+Yengo BMI EU sex combined 941 SNPs	FYwzKu	TotFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00582464022251905	0.0214445087914361	0.78597982778039
+Yengo BMI EU sex combined 941 SNPs	g0Vm4v	IDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00635658162838355	0.0213677706801047	0.7661643502716
+Yengo BMI EU sex combined 941 SNPs	g0Vm4v	IDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0322229167129179	0.0204115657031815	0.114414127296848
+Yengo BMI EU sex combined 941 SNPs	g0Vm4v	IDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0427219138273253	0.0132799090920224	0.00129523426456479
+Yengo BMI EU sex combined 941 SNPs	g0Vm4v	IDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00282991730884907	0.0213540860859229	0.894599471088099
+Yengo BMI EU sex combined 941 SNPs	GAGOfD	DAGbyTG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00600570087211868	0.0194221733595823	0.757225733291222
+Yengo BMI EU sex combined 941 SNPs	GAGOfD	DAGbyTG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00562583593131622	0.0197744070508059	0.776026570443686
+Yengo BMI EU sex combined 941 SNPs	GAGOfD	DAGbyTG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0250929105941557	0.0120418692947496	0.0371778845621841
+Yengo BMI EU sex combined 941 SNPs	GAGOfD	DAGbyTG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00604355425568626	0.0195934786943457	0.757812408947066
+Yengo BMI EU sex combined 941 SNPs	gEaUFN	GlycA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0189275890175144	0.0211585405463703	0.371258234668676
+Yengo BMI EU sex combined 941 SNPs	gEaUFN	GlycA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0297269389979113	0.0206487467636773	0.149966847389881
+Yengo BMI EU sex combined 941 SNPs	gEaUFN	GlycA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0721264334766231	0.013302228210808	5.88924601927096e-08
+Yengo BMI EU sex combined 941 SNPs	gEaUFN	GlycA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0396345799155142	0.0272429150844132	0.146052215797863
+Yengo BMI EU sex combined 941 SNPs	ggHEbf	FreeC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0208416328121498	0.0229318324721198	0.363668567646094
+Yengo BMI EU sex combined 941 SNPs	ggHEbf	FreeC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0156624061597245	0.0199422119780708	0.432225168550467
+Yengo BMI EU sex combined 941 SNPs	ggHEbf	FreeC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00540532336526436	0.0142022113432158	0.703502081200606
+Yengo BMI EU sex combined 941 SNPs	ggHEbf	FreeC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0113699480061831	0.0206344199145512	0.581755771988585
+Yengo BMI EU sex combined 941 SNPs	GI24xv	M-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00206663041439465	0.0220280329639264	0.925274180131596
+Yengo BMI EU sex combined 941 SNPs	GI24xv	M-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.023108125127006	0.021089952022062	0.27321289122933
+Yengo BMI EU sex combined 941 SNPs	GI24xv	M-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0665472819185414	0.0137432638678118	1.28425900119757e-06
+Yengo BMI EU sex combined 941 SNPs	GI24xv	M-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.000237299650357237	0.0212083796451461	0.991075134505865
+Yengo BMI EU sex combined 941 SNPs	Gld6g0	XL-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0314297099213838	0.0221633859101903	0.156505633717161
+Yengo BMI EU sex combined 941 SNPs	Gld6g0	XL-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0257540512508453	0.0226363966552584	0.255234281556069
+Yengo BMI EU sex combined 941 SNPs	Gld6g0	XL-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0299738564266427	0.0137985723237406	0.0298373154522376
+Yengo BMI EU sex combined 941 SNPs	Gld6g0	XL-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0364465238314682	0.0287974521138872	0.205973373245549
+Yengo BMI EU sex combined 941 SNPs	GP8eAO	S-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0288093807858437	0.0223600514822331	0.197922779952536
+Yengo BMI EU sex combined 941 SNPs	GP8eAO	S-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0249032041287086	0.0217531165849273	0.252287515230093
+Yengo BMI EU sex combined 941 SNPs	GP8eAO	S-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0273882558369874	0.0139092778656844	0.0489457626247884
+Yengo BMI EU sex combined 941 SNPs	GP8eAO	S-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0460250686312946	0.0308695226591494	0.136318715023794
+Yengo BMI EU sex combined 941 SNPs	Gpcxm4	L-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0237357843093611	0.0213565094102626	0.266685899808061
+Yengo BMI EU sex combined 941 SNPs	Gpcxm4	L-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0514520678977664	0.0224164634231594	0.0217170632777112
+Yengo BMI EU sex combined 941 SNPs	Gpcxm4	L-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0275237558934563	0.013275966877729	0.0381535207103066
+Yengo BMI EU sex combined 941 SNPs	Gpcxm4	L-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.038832236992044	0.0319037742719908	0.223855010790032
+Yengo BMI EU sex combined 941 SNPs	gv1Jey	L-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0287618499219721	0.0219487796471923	0.190387866657959
+Yengo BMI EU sex combined 941 SNPs	gv1Jey	L-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0257730853642438	0.0213118480304917	0.226535581824523
+Yengo BMI EU sex combined 941 SNPs	gv1Jey	L-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0630279653535065	0.0136053142851403	3.61103559292097e-06
+Yengo BMI EU sex combined 941 SNPs	gv1Jey	L-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0330458232386825	0.0209651571162166	0.115320169782805
+Yengo BMI EU sex combined 941 SNPs	GYJdye	UnsatDeg.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0234019466248111	0.020823047010006	0.261373102449975
+Yengo BMI EU sex combined 941 SNPs	GYJdye	UnsatDeg.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0128697898969057	0.0217737782936387	0.554474665671482
+Yengo BMI EU sex combined 941 SNPs	GYJdye	UnsatDeg.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0105201739941274	0.0129118983113652	0.415206343639331
+Yengo BMI EU sex combined 941 SNPs	GYJdye	UnsatDeg.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0167733675684052	0.0241612456154305	0.487717024276384
+Yengo BMI EU sex combined 941 SNPs	gZ5Lhv	M-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0159967805567487	0.0221782817042344	0.470921299950911
+Yengo BMI EU sex combined 941 SNPs	gZ5Lhv	M-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0505513940707449	0.0204452173637673	0.0134160805671536
+Yengo BMI EU sex combined 941 SNPs	gZ5Lhv	M-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0448118391729167	0.0137398559270253	0.00110844375648291
+Yengo BMI EU sex combined 941 SNPs	gZ5Lhv	M-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0302103182081876	0.0211309474385599	0.153153342612358
+Yengo BMI EU sex combined 941 SNPs	h3IWuL	Serum-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0130494136564393	0.0227527073017433	0.566425699985197
+Yengo BMI EU sex combined 941 SNPs	h3IWuL	Serum-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0440446846763791	0.0210852817898372	0.0367182650581405
+Yengo BMI EU sex combined 941 SNPs	h3IWuL	Serum-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0567804163171337	0.0141926792697807	6.31598150476506e-05
+Yengo BMI EU sex combined 941 SNPs	h3IWuL	Serum-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.049462176668583	0.0287913225402205	0.0861440110070478
+Yengo BMI EU sex combined 941 SNPs	H3QgjZ	L-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0237357843093611	0.0213565094102626	0.266685899808061
+Yengo BMI EU sex combined 941 SNPs	H3QgjZ	L-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0514520678977664	0.0225643638565627	0.0225937133655394
+Yengo BMI EU sex combined 941 SNPs	H3QgjZ	L-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0275237558934563	0.013275966877729	0.0381535207103066
+Yengo BMI EU sex combined 941 SNPs	H3QgjZ	L-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.038832236992044	0.0314762380926247	0.217632184957667
+Yengo BMI EU sex combined 941 SNPs	H74S5s	L-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0287618499219721	0.0219487796471923	0.190387866657959
+Yengo BMI EU sex combined 941 SNPs	H74S5s	L-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0257730853642438	0.0214027970263225	0.228515225542404
+Yengo BMI EU sex combined 941 SNPs	H74S5s	L-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0630279653535065	0.0136053142851403	3.61103559292097e-06
+Yengo BMI EU sex combined 941 SNPs	H74S5s	L-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0330458232386825	0.0219045810764679	0.131740309016467
+Yengo BMI EU sex combined 941 SNPs	hhbaAB	PUFA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0174850994629965	0.0213397585159061	0.412790974631633
+Yengo BMI EU sex combined 941 SNPs	hhbaAB	PUFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0242102566434508	0.0211575233305142	0.252505068913473
+Yengo BMI EU sex combined 941 SNPs	hhbaAB	PUFA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0573808601846338	0.0133448530836733	1.70914119106462e-05
+Yengo BMI EU sex combined 941 SNPs	hhbaAB	PUFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0234890641860677	0.0258068873096057	0.362964718046442
+Yengo BMI EU sex combined 941 SNPs	HjVk8d	M-LDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0260291192342168	0.0241295594714533	0.28099628960993
+Yengo BMI EU sex combined 941 SNPs	HjVk8d	M-LDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0469735114259269	0.0214528416502117	0.0285520093304835
+Yengo BMI EU sex combined 941 SNPs	HjVk8d	M-LDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0512480390932062	0.0149404117804253	0.000603220043518709
+Yengo BMI EU sex combined 941 SNPs	HjVk8d	M-LDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0486336795557922	0.0245596812133226	0.0479781744432671
+Yengo BMI EU sex combined 941 SNPs	hzSekU	Alb.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00902172087434772	0.0197771101407474	0.648376468310205
+Yengo BMI EU sex combined 941 SNPs	hzSekU	Alb.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0205552415046278	0.01973771711816	0.297680942962467
+Yengo BMI EU sex combined 941 SNPs	hzSekU	Alb.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0152985444405866	0.0122504430410342	0.211732524907767
+Yengo BMI EU sex combined 941 SNPs	hzSekU	Alb.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.010069960714866	0.0203771559369664	0.621298706079578
+Yengo BMI EU sex combined 941 SNPs	I37Fxl	FAw6byFA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0114976669097426	0.02121087864543	0.587906403073793
+Yengo BMI EU sex combined 941 SNPs	I37Fxl	FAw6byFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0435759906971466	0.0215598946453705	0.0432632335530157
+Yengo BMI EU sex combined 941 SNPs	I37Fxl	FAw6byFA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0585400408603157	0.0132480452095414	9.92650429911947e-06
+Yengo BMI EU sex combined 941 SNPs	I37Fxl	FAw6byFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0204893974494307	0.0241909253535635	0.397224367927495
+Yengo BMI EU sex combined 941 SNPs	IFSDnS	XS-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0185174088629272	0.0220814514983826	0.401915997312444
+Yengo BMI EU sex combined 941 SNPs	IFSDnS	XS-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0171344309636633	0.0216073756346818	0.427783698667102
+Yengo BMI EU sex combined 941 SNPs	IFSDnS	XS-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0175575346762579	0.0136920314913336	0.199731212498791
+Yengo BMI EU sex combined 941 SNPs	IFSDnS	XS-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0110666097186316	0.0283703036112111	0.696570416402478
+Yengo BMI EU sex combined 941 SNPs	iH0k2j	M-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0259192500101831	0.0212473506159076	0.222825157723707
+Yengo BMI EU sex combined 941 SNPs	iH0k2j	M-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.017328042966794	0.0219508883877068	0.429877945176844
+Yengo BMI EU sex combined 941 SNPs	iH0k2j	M-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0252205130726553	0.0132108275731953	0.056251905422637
+Yengo BMI EU sex combined 941 SNPs	iH0k2j	M-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00393867901437428	0.0321145470102562	0.902415446166689
+Yengo BMI EU sex combined 941 SNPs	IIDG9H	M-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0121947152200349	0.0224174231669745	0.58658557319528
+Yengo BMI EU sex combined 941 SNPs	IIDG9H	M-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0215601383905599	0.021476417588686	0.315427652159115
+Yengo BMI EU sex combined 941 SNPs	IIDG9H	M-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.075763930436948	0.0139661103430116	5.80060947386818e-08
+Yengo BMI EU sex combined 941 SNPs	IIDG9H	M-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0197390858805315	0.0219213253074595	0.368117577962061
+Yengo BMI EU sex combined 941 SNPs	iKYfIS	Serum-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0122457659043591	0.0232722834455686	0.598880460331612
+Yengo BMI EU sex combined 941 SNPs	iKYfIS	Serum-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00966554984945408	0.0200403159108192	0.629589108608727
+Yengo BMI EU sex combined 941 SNPs	iKYfIS	Serum-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00944250633645109	0.0144070502073772	0.512204638645488
+Yengo BMI EU sex combined 941 SNPs	iKYfIS	Serum-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0155950126095661	0.0199694360480763	0.435037829524646
+Yengo BMI EU sex combined 941 SNPs	ImDf1o	M-LDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0358086485573564	0.0245324709902571	0.144732579774631
+Yengo BMI EU sex combined 941 SNPs	ImDf1o	M-LDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0222397089057247	0.0219427458975083	0.310805384575102
+Yengo BMI EU sex combined 941 SNPs	ImDf1o	M-LDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0186237824868115	0.0151818476440403	0.219930167378418
+Yengo BMI EU sex combined 941 SNPs	ImDf1o	M-LDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0263809434176046	0.027027985683321	0.329293130898594
+Yengo BMI EU sex combined 941 SNPs	iOJu13	S-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0277348346537849	0.0219429996489442	0.206571255855443
+Yengo BMI EU sex combined 941 SNPs	iOJu13	S-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0457932172100719	0.0207027820669977	0.0269711265708826
+Yengo BMI EU sex combined 941 SNPs	iOJu13	S-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0149579228019057	0.0135775946198633	0.27060855478716
+Yengo BMI EU sex combined 941 SNPs	iOJu13	S-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0427220122491372	0.0235953132430407	0.0705291825770116
+Yengo BMI EU sex combined 941 SNPs	iQehim	M-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00206663041439465	0.0220280329639264	0.925274180131596
+Yengo BMI EU sex combined 941 SNPs	iQehim	M-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.023108125127006	0.021682357417481	0.286533484076471
+Yengo BMI EU sex combined 941 SNPs	iQehim	M-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0665472819185414	0.0137432638678118	1.28425900119757e-06
+Yengo BMI EU sex combined 941 SNPs	iQehim	M-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.000237299650357237	0.0214571963886306	0.991178622620783
+Yengo BMI EU sex combined 941 SNPs	jjaB4U	IDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00626258856556547	0.0217536835739992	0.773499143061204
+Yengo BMI EU sex combined 941 SNPs	jjaB4U	IDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0341685913223213	0.0205620854320789	0.0965673416711726
+Yengo BMI EU sex combined 941 SNPs	jjaB4U	IDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0525949680690816	0.0135440793087613	0.000103071937900083
+Yengo BMI EU sex combined 941 SNPs	jjaB4U	IDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00214083200704795	0.024636343199427	0.930772189844091
+Yengo BMI EU sex combined 941 SNPs	jOFvd0	XXL-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.024231771581844	0.02199520236868	0.270889555200372
+Yengo BMI EU sex combined 941 SNPs	jOFvd0	XXL-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00235656367360323	0.0223258907144016	0.915937054900629
+Yengo BMI EU sex combined 941 SNPs	jOFvd0	XXL-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.000306007656161595	0.0136185231176177	0.982073075188633
+Yengo BMI EU sex combined 941 SNPs	jOFvd0	XXL-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.000101966199426151	0.0261410581472793	0.996888619622251
+Yengo BMI EU sex combined 941 SNPs	JOggnN	M-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0290677366468605	0.021802310409828	0.182785614020703
+Yengo BMI EU sex combined 941 SNPs	JOggnN	M-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0161366020539509	0.0225331215950643	0.473912240531192
+Yengo BMI EU sex combined 941 SNPs	JOggnN	M-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.018256589508156	0.013543169708855	0.177648960700749
+Yengo BMI EU sex combined 941 SNPs	JOggnN	M-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0289295566862111	0.0335801184736812	0.389184255599983
+Yengo BMI EU sex combined 941 SNPs	jxM2qN	M-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0233629792703822	0.0208905887556015	0.263712246116146
+Yengo BMI EU sex combined 941 SNPs	jxM2qN	M-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0159448970915665	0.021831762353483	0.465174328568963
+Yengo BMI EU sex combined 941 SNPs	jxM2qN	M-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0241358599227691	0.0129816649342056	0.0629949913901678
+Yengo BMI EU sex combined 941 SNPs	jxM2qN	M-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00231505150585498	0.0297776071008773	0.938048160534719
+Yengo BMI EU sex combined 941 SNPs	KbWJWr	M-LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0233372701213414	0.02418518190358	0.334830229465383
+Yengo BMI EU sex combined 941 SNPs	KbWJWr	M-LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0131312703284964	0.0217104067371022	0.545286907102273
+Yengo BMI EU sex combined 941 SNPs	KbWJWr	M-LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0110063597431057	0.014963929650207	0.462019194212766
+Yengo BMI EU sex combined 941 SNPs	KbWJWr	M-LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0240071779263822	0.0259367646961471	0.354896305777378
+Yengo BMI EU sex combined 941 SNPs	KDyisG	L-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	3.4956775269328e-05	0.0227806584427959	0.998775987280659
+Yengo BMI EU sex combined 941 SNPs	KDyisG	L-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0556520861436959	0.0218133841649529	0.0107327560978346
+Yengo BMI EU sex combined 941 SNPs	KDyisG	L-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.103874495111671	0.0143487178761937	4.51047717655262e-13
+Yengo BMI EU sex combined 941 SNPs	KDyisG	L-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00960626729049352	0.0236613046330815	0.684844638474457
+Yengo BMI EU sex combined 941 SNPs	KgbnqP	XXL-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.015164159684671	0.0197777919623207	0.443442491782052
+Yengo BMI EU sex combined 941 SNPs	KgbnqP	XXL-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00695969519502128	0.0198302641611808	0.725615872291263
+Yengo BMI EU sex combined 941 SNPs	KgbnqP	XXL-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00615646294580661	0.0122343487864547	0.614815698609104
+Yengo BMI EU sex combined 941 SNPs	KgbnqP	XXL-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00269989841829688	0.0199481083968785	0.89236808122718
+Yengo BMI EU sex combined 941 SNPs	kS9SU0	HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00776507713513496	0.0197750816714294	0.69465514460751
+Yengo BMI EU sex combined 941 SNPs	kS9SU0	HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0171906427392634	0.0204785918384258	0.401219881363458
+Yengo BMI EU sex combined 941 SNPs	kS9SU0	HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0183849639363545	0.0122359359471444	0.132958111879174
+Yengo BMI EU sex combined 941 SNPs	kS9SU0	HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0142472259709505	0.020348253477089	0.483999842632209
+Yengo BMI EU sex combined 941 SNPs	L1cRg3	Tyr.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0051878264771217	0.0202868769322192	0.798222190525561
+Yengo BMI EU sex combined 941 SNPs	L1cRg3	Tyr.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0426148783575938	0.0197908324417543	0.0312979707695698
+Yengo BMI EU sex combined 941 SNPs	L1cRg3	Tyr.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0604080217083686	0.0126318937417729	1.73402102990298e-06
+Yengo BMI EU sex combined 941 SNPs	L1cRg3	Tyr.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0346534825963141	0.0219109007571276	0.114095572698795
+Yengo BMI EU sex combined 941 SNPs	L1h6Kz	DHA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0100558874550772	0.0205210144497244	0.624231398604688
+Yengo BMI EU sex combined 941 SNPs	L1h6Kz	DHA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00601511613063938	0.0206870258330095	0.771229093339789
+Yengo BMI EU sex combined 941 SNPs	L1h6Kz	DHA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0117110669836103	0.0127070425147997	0.356726721469629
+Yengo BMI EU sex combined 941 SNPs	L1h6Kz	DHA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0075589837197616	0.0232393270068948	0.745053606675526
+Yengo BMI EU sex combined 941 SNPs	LcGJl2	FAw3.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0264740457021639	0.0205543957159715	0.198072933821916
+Yengo BMI EU sex combined 941 SNPs	LcGJl2	FAw3.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0137546546969827	0.0212532620778724	0.51751641152773
+Yengo BMI EU sex combined 941 SNPs	LcGJl2	FAw3.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00521010869303885	0.0127419463408098	0.682617263134296
+Yengo BMI EU sex combined 941 SNPs	LcGJl2	FAw3.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00679093901615913	0.023962675159273	0.776937133871433
+Yengo BMI EU sex combined 941 SNPs	ldAFNf	XL-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00780660474200729	0.0222320164968066	0.725562583211804
+Yengo BMI EU sex combined 941 SNPs	ldAFNf	XL-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0225340263717442	0.022009103730284	0.305906011283134
+Yengo BMI EU sex combined 941 SNPs	ldAFNf	XL-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0710047128319562	0.0139051153250312	3.28400225085613e-07
+Yengo BMI EU sex combined 941 SNPs	ldAFNf	XL-HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00197546460273923	0.02353701368422	0.933130382983973
+Yengo BMI EU sex combined 941 SNPs	LjOCAL	M-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00273188011649187	0.0199121488429609	0.890905640410407
+Yengo BMI EU sex combined 941 SNPs	LjOCAL	M-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.012430624586546	0.0207227837516781	0.548604189046195
+Yengo BMI EU sex combined 941 SNPs	LjOCAL	M-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0221114648527157	0.0123345320786739	0.0730293481702509
+Yengo BMI EU sex combined 941 SNPs	LjOCAL	M-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.000773617108785096	0.0218863318974872	0.971810738412606
+Yengo BMI EU sex combined 941 SNPs	lUbVyE	XXL-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.024231771581844	0.02199520236868	0.270889555200372
+Yengo BMI EU sex combined 941 SNPs	lUbVyE	XXL-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00235656367360323	0.0222320740390498	0.91558364317822
+Yengo BMI EU sex combined 941 SNPs	lUbVyE	XXL-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.000306007656161595	0.0136185231176177	0.982073075188633
+Yengo BMI EU sex combined 941 SNPs	lUbVyE	XXL-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.000101966199426151	0.0239795387676803	0.996608160930026
+Yengo BMI EU sex combined 941 SNPs	lvfnOU	L-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0164052798711368	0.0206404634207578	0.426929884183282
+Yengo BMI EU sex combined 941 SNPs	lvfnOU	L-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.027759733051254	0.0224549454568811	0.216368848686683
+Yengo BMI EU sex combined 941 SNPs	lvfnOU	L-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0183232542578777	0.0127973954709485	0.152202332895629
+Yengo BMI EU sex combined 941 SNPs	lvfnOU	L-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0534211607780222	0.0369458952511748	0.148540144828212
+Yengo BMI EU sex combined 941 SNPs	M7Wvpd	XL-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0314297099213838	0.0221633859101903	0.156505633717161
+Yengo BMI EU sex combined 941 SNPs	M7Wvpd	XL-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0257540512508453	0.0229116896987204	0.26098873334801
+Yengo BMI EU sex combined 941 SNPs	M7Wvpd	XL-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0299738564266427	0.0137985723237406	0.0298373154522376
+Yengo BMI EU sex combined 941 SNPs	M7Wvpd	XL-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0364465238314682	0.0271231337742771	0.179365321028065
+Yengo BMI EU sex combined 941 SNPs	MeYZfn	L-LDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0300054997650631	0.0245800697141541	0.222505762082558
+Yengo BMI EU sex combined 941 SNPs	MeYZfn	L-LDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0356522658992284	0.0211818338421726	0.092345488325198
+Yengo BMI EU sex combined 941 SNPs	MeYZfn	L-LDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0439004625055975	0.0152088045787827	0.00389532554394477
+Yengo BMI EU sex combined 941 SNPs	MeYZfn	L-LDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0264899672808214	0.0240177539757498	0.270347004424472
+Yengo BMI EU sex combined 941 SNPs	mkIZNA	LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0211605604548193	0.0246325171246529	0.390538737921793
+Yengo BMI EU sex combined 941 SNPs	mkIZNA	LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0323183197308748	0.0207671722927876	0.119655433803883
+Yengo BMI EU sex combined 941 SNPs	mkIZNA	LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0132074403727762	0.0152386452014424	0.386102572436387
+Yengo BMI EU sex combined 941 SNPs	mkIZNA	LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0212604878279858	0.0215194376723538	0.323430705988295
+Yengo BMI EU sex combined 941 SNPs	MMGFhN	ApoB.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0128320135263483	0.0246521682369407	0.602825640678115
+Yengo BMI EU sex combined 941 SNPs	MMGFhN	ApoB.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0122905419182452	0.0199693109908697	0.538243380943513
+Yengo BMI EU sex combined 941 SNPs	MMGFhN	ApoB.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0772251483780377	0.0153419630948921	4.81379252301033e-07
+Yengo BMI EU sex combined 941 SNPs	MMGFhN	ApoB.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0140579890968979	0.0234333761338834	0.548713015619026
+Yengo BMI EU sex combined 941 SNPs	mnzosB	S-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00484964624886726	0.0217928803400676	0.823948412682816
+Yengo BMI EU sex combined 941 SNPs	mnzosB	S-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00790246886056367	0.0194012860755512	0.683775359416727
+Yengo BMI EU sex combined 941 SNPs	mnzosB	S-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0404827096380694	0.0135324996246543	0.00277594614191654
+Yengo BMI EU sex combined 941 SNPs	mnzosB	S-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0120851277860798	0.0209992821318669	0.565093681365592
+Yengo BMI EU sex combined 941 SNPs	mOzN0N	TotCho.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00238244123188104	0.0214229337376517	0.911474410765761
+Yengo BMI EU sex combined 941 SNPs	mOzN0N	TotCho.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00600196012239834	0.0200103521963629	0.764220822761426
+Yengo BMI EU sex combined 941 SNPs	mOzN0N	TotCho.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0323215726884108	0.0132752499822017	0.014903143213067
+Yengo BMI EU sex combined 941 SNPs	mOzN0N	TotCho.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00858643622708533	0.0204360118517256	0.674465952335697
+Yengo BMI EU sex combined 941 SNPs	N3ZRIl	LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.013205137054773	0.0216739330039911	0.542501514164041
+Yengo BMI EU sex combined 941 SNPs	N3ZRIl	LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0278126374379075	0.019888626686217	0.161987220557924
+Yengo BMI EU sex combined 941 SNPs	N3ZRIl	LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0501003902550418	0.0134418275598017	0.000193618209529863
+Yengo BMI EU sex combined 941 SNPs	N3ZRIl	LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0112094641866509	0.0201168523329696	0.577515339886059
+Yengo BMI EU sex combined 941 SNPs	nAl0zI	HDL-D.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00540856499035997	0.0237467956810259	0.819884045312666
+Yengo BMI EU sex combined 941 SNPs	nAl0zI	HDL-D.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0615047712385979	0.0233168889655383	0.00834512513103425
+Yengo BMI EU sex combined 941 SNPs	nAl0zI	HDL-D.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.104604120514125	0.0149158391910656	2.33335233943974e-12
+Yengo BMI EU sex combined 941 SNPs	nAl0zI	HDL-D.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0575478278322792	0.0262519380007641	0.0286214942731656
+Yengo BMI EU sex combined 941 SNPs	NfBRwy	M-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0382620128522405	0.0209903466846032	0.068655135939848
+Yengo BMI EU sex combined 941 SNPs	NfBRwy	M-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0403921012894185	0.0204711028647883	0.0484810085376471
+Yengo BMI EU sex combined 941 SNPs	NfBRwy	M-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0427243776646676	0.0129848475763141	0.00100071478602908
+Yengo BMI EU sex combined 941 SNPs	NfBRwy	M-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0320874213551812	0.0212467809025548	0.13133199747691
+Yengo BMI EU sex combined 941 SNPs	NFsvB3	M-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0259192500101831	0.0212473506159076	0.222825157723707
+Yengo BMI EU sex combined 941 SNPs	NFsvB3	M-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.017328042966794	0.0222976589825588	0.437085694185695
+Yengo BMI EU sex combined 941 SNPs	NFsvB3	M-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0252205130726553	0.0132108275731953	0.056251905422637
+Yengo BMI EU sex combined 941 SNPs	NFsvB3	M-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00393867901437428	0.0323993642638262	0.903269054364561
+Yengo BMI EU sex combined 941 SNPs	nJQDs5	M-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0230734211456028	0.0219151527525678	0.292687511461413
+Yengo BMI EU sex combined 941 SNPs	nJQDs5	M-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0170096603828228	0.0222049332412773	0.443658040045955
+Yengo BMI EU sex combined 941 SNPs	nJQDs5	M-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0306398206916296	0.0136286250778587	0.0245636932064598
+Yengo BMI EU sex combined 941 SNPs	nJQDs5	M-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0250665453546164	0.0295593476802656	0.396656110502428
+Yengo BMI EU sex combined 941 SNPs	NkXEPc	AcAce.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0298896490462296	0.0192388919163371	0.120625469275847
+Yengo BMI EU sex combined 941 SNPs	NkXEPc	AcAce.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0200429932987057	0.020020452398132	0.316765947980917
+Yengo BMI EU sex combined 941 SNPs	NkXEPc	AcAce.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0136642067389947	0.0119084546794787	0.251200875351554
+Yengo BMI EU sex combined 941 SNPs	NkXEPc	AcAce.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0221238579639	0.0196486557972138	0.260472783959015
+Yengo BMI EU sex combined 941 SNPs	NtEIVQ	XXL-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.015164159684671	0.0197777919623207	0.443442491782052
+Yengo BMI EU sex combined 941 SNPs	NtEIVQ	XXL-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00695969519502128	0.0206151705179256	0.735664143936229
+Yengo BMI EU sex combined 941 SNPs	NtEIVQ	XXL-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00615646294580661	0.0122343487864547	0.614815698609104
+Yengo BMI EU sex combined 941 SNPs	NtEIVQ	XXL-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00269989841829688	0.0206914762645085	0.896212567977206
+Yengo BMI EU sex combined 941 SNPs	nTL7xS	His.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.000778295624483943	0.0195452892231776	0.968245256221836
+Yengo BMI EU sex combined 941 SNPs	nTL7xS	His.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00773461059404845	0.0203318949829986	0.703635455642886
+Yengo BMI EU sex combined 941 SNPs	nTL7xS	His.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00586225107540412	0.0120916382073121	0.62780502944423
+Yengo BMI EU sex combined 941 SNPs	nTL7xS	His.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00552184039165038	0.0236042424574367	0.815088479303589
+Yengo BMI EU sex combined 941 SNPs	NTrQfK	XXL-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0314837589948437	0.0206313282304211	0.127352317615998
+Yengo BMI EU sex combined 941 SNPs	NTrQfK	XXL-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0237912112828357	0.0215646283550882	0.269917907743719
+Yengo BMI EU sex combined 941 SNPs	NTrQfK	XXL-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.00982343791981755	0.0127723161151448	0.441822348191189
+Yengo BMI EU sex combined 941 SNPs	NTrQfK	XXL-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0261769378713863	0.0238948089512384	0.273583341609127
+Yengo BMI EU sex combined 941 SNPs	NuVHnH	L-LDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0200840602133735	0.0243249246022159	0.409214243870391
+Yengo BMI EU sex combined 941 SNPs	NuVHnH	L-LDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0262964774146774	0.0204404084364506	0.198270462288502
+Yengo BMI EU sex combined 941 SNPs	NuVHnH	L-LDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0175585891833729	0.0150471318700234	0.243248313245257
+Yengo BMI EU sex combined 941 SNPs	NuVHnH	L-LDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0248683188730752	0.0233852071600289	0.287872281796805
+Yengo BMI EU sex combined 941 SNPs	o7OiJB	TotPG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00787611635429407	0.0214033948961918	0.712970222194817
+Yengo BMI EU sex combined 941 SNPs	o7OiJB	TotPG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0111991416659439	0.0205618469818569	0.585989853056653
+Yengo BMI EU sex combined 941 SNPs	o7OiJB	TotPG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0322263147179863	0.0132553782308034	0.0150494090465245
+Yengo BMI EU sex combined 941 SNPs	o7OiJB	TotPG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0189158190932881	0.0199420825827835	0.343106736392338
+Yengo BMI EU sex combined 941 SNPs	OhcwiJ	M-LDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0233372701213414	0.02418518190358	0.334830229465383
+Yengo BMI EU sex combined 941 SNPs	OhcwiJ	M-LDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0131312703284964	0.0214091609473292	0.539646129210264
+Yengo BMI EU sex combined 941 SNPs	OhcwiJ	M-LDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0110063597431057	0.014963929650207	0.462019194212766
+Yengo BMI EU sex combined 941 SNPs	OhcwiJ	M-LDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0240071779263822	0.0254868017310345	0.346469713766354
+Yengo BMI EU sex combined 941 SNPs	OIrXuK	S-LDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0361003996894726	0.0247034521837344	0.144263751543952
+Yengo BMI EU sex combined 941 SNPs	OIrXuK	S-LDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0450024236787358	0.0218729866410756	0.0396436306445705
+Yengo BMI EU sex combined 941 SNPs	OIrXuK	S-LDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0314394703642859	0.0152815064995365	0.0396521749436715
+Yengo BMI EU sex combined 941 SNPs	OIrXuK	S-LDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0524405857212393	0.026158935094643	0.0452909360956804
+Yengo BMI EU sex combined 941 SNPs	oJReMd	VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0237357843093611	0.0213565094102626	0.266685899808061
+Yengo BMI EU sex combined 941 SNPs	oJReMd	VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0514520678977664	0.0226269934293427	0.0229705444840569
+Yengo BMI EU sex combined 941 SNPs	oJReMd	VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0275237558934563	0.013275966877729	0.0381535207103066
+Yengo BMI EU sex combined 941 SNPs	oJReMd	VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.038832236992044	0.0301255118796311	0.197719362038039
+Yengo BMI EU sex combined 941 SNPs	OkJpgE	XS-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.000136521597896322	0.0192726035575252	0.994349610967584
+Yengo BMI EU sex combined 941 SNPs	OkJpgE	XS-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00122128394354955	0.0210704338294846	0.95377891771283
+Yengo BMI EU sex combined 941 SNPs	OkJpgE	XS-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00956176687477823	0.0119245992820902	0.422638424795117
+Yengo BMI EU sex combined 941 SNPs	OkJpgE	XS-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00608410143824178	0.0217850457092299	0.780094124526697
+Yengo BMI EU sex combined 941 SNPs	oQrqE4	L-LDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0300054997650631	0.0245800697141541	0.222505762082558
+Yengo BMI EU sex combined 941 SNPs	oQrqE4	L-LDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0356522658992284	0.0217646822329072	0.101405243891774
+Yengo BMI EU sex combined 941 SNPs	oQrqE4	L-LDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0439004625055975	0.0152088045787827	0.00389532554394477
+Yengo BMI EU sex combined 941 SNPs	oQrqE4	L-LDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0264899672808214	0.0232176196898412	0.254193063731419
+Yengo BMI EU sex combined 941 SNPs	oRQKyC	XXL-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0377981587387316	0.0217291433626978	0.0822816891149648
+Yengo BMI EU sex combined 941 SNPs	oRQKyC	XXL-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00665606545240326	0.0231467168173617	0.773683714143508
+Yengo BMI EU sex combined 941 SNPs	oRQKyC	XXL-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0017518451338164	0.0134719082480486	0.896537235601516
+Yengo BMI EU sex combined 941 SNPs	oRQKyC	XXL-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0173196927741337	0.0263223253856693	0.510713696028443
+Yengo BMI EU sex combined 941 SNPs	Os6u2o	XL-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0128886278359846	0.022093482352988	0.559789909834189
+Yengo BMI EU sex combined 941 SNPs	Os6u2o	XL-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.013106496905567	0.0228233344246688	0.56579279536277
+Yengo BMI EU sex combined 941 SNPs	Os6u2o	XL-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0234561473643903	0.0136950847048411	0.0867600066401124
+Yengo BMI EU sex combined 941 SNPs	Os6u2o	XL-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00143741437489986	0.0234135461681365	0.95106012133306
+Yengo BMI EU sex combined 941 SNPs	Ou7hj3	S-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0374752372846018	0.0227370524524179	0.0996558177184479
+Yengo BMI EU sex combined 941 SNPs	Ou7hj3	S-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0533382091811667	0.0204969357813182	0.00926135469430222
+Yengo BMI EU sex combined 941 SNPs	Ou7hj3	S-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0359528589668816	0.0140647155807718	0.0105808589285644
+Yengo BMI EU sex combined 941 SNPs	Ou7hj3	S-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0510154831072485	0.0237212008522025	0.0317674903288212
+Yengo BMI EU sex combined 941 SNPs	p7soOn	Leu.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00484200388376462	0.0190717775282226	0.799643020408911
+Yengo BMI EU sex combined 941 SNPs	p7soOn	Leu.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0176263015963946	0.0216113419674065	0.414726538059568
+Yengo BMI EU sex combined 941 SNPs	p7soOn	Leu.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0551258724487761	0.0119009549162527	3.62054710167489e-06
+Yengo BMI EU sex combined 941 SNPs	p7soOn	Leu.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00806319268349398	0.0241132415761992	0.738163151155166
+Yengo BMI EU sex combined 941 SNPs	pBhtpg	S-LDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0361003996894726	0.0247034521837344	0.144263751543952
+Yengo BMI EU sex combined 941 SNPs	pBhtpg	S-LDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0450024236787358	0.0222817249346691	0.043414404118102
+Yengo BMI EU sex combined 941 SNPs	pBhtpg	S-LDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0314394703642859	0.0152815064995365	0.0396521749436715
+Yengo BMI EU sex combined 941 SNPs	pBhtpg	S-LDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0524405857212393	0.025323060061826	0.0386521350834738
+Yengo BMI EU sex combined 941 SNPs	PCF1zN	M-LDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.020127563501	0.0246472415196651	0.41435578923563
+Yengo BMI EU sex combined 941 SNPs	PCF1zN	M-LDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0238454209294359	0.020711825482994	0.249610897227297
+Yengo BMI EU sex combined 941 SNPs	PCF1zN	M-LDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0195985091553482	0.0152463300671674	0.198632463147676
+Yengo BMI EU sex combined 941 SNPs	PCF1zN	M-LDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0269301240607493	0.0232555211995422	0.247162823181978
+Yengo BMI EU sex combined 941 SNPs	PClwKD	Pyr.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0155386906883443	0.025264256121399	0.53867748269105
+Yengo BMI EU sex combined 941 SNPs	PClwKD	Pyr.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00936359224133154	0.0265433254445063	0.724263606904129
+Yengo BMI EU sex combined 941 SNPs	PClwKD	Pyr.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.015756973605476	0.0156236417004858	0.313198181625366
+Yengo BMI EU sex combined 941 SNPs	PClwKD	Pyr.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0281823509648871	0.0271959078585499	0.300349764358868
+Yengo BMI EU sex combined 941 SNPs	pe9JR2	M-LDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0358086485573564	0.0245324709902571	0.144732579774631
+Yengo BMI EU sex combined 941 SNPs	pe9JR2	M-LDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0222397089057247	0.0216861545448792	0.305115203494072
+Yengo BMI EU sex combined 941 SNPs	pe9JR2	M-LDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0186237824868115	0.0151818476440403	0.219930167378418
+Yengo BMI EU sex combined 941 SNPs	pe9JR2	M-LDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0263809434176046	0.0277016281677308	0.341184403183499
+Yengo BMI EU sex combined 941 SNPs	PjFYeJ	DAG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00600570087211868	0.0194221733595823	0.757225733291222
+Yengo BMI EU sex combined 941 SNPs	PjFYeJ	DAG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00562583593131622	0.0193633442091303	0.771402762962657
+Yengo BMI EU sex combined 941 SNPs	PjFYeJ	DAG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0250929105941557	0.0120418692947496	0.0371778845621841
+Yengo BMI EU sex combined 941 SNPs	PjFYeJ	DAG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00604355425568626	0.0217059223588721	0.780746247292448
+Yengo BMI EU sex combined 941 SNPs	pqKQtP	CLAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0138915178305044	0.0206134185378787	0.500541486825297
+Yengo BMI EU sex combined 941 SNPs	pqKQtP	CLAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0223562003028009	0.0220253942318294	0.310096626157272
+Yengo BMI EU sex combined 941 SNPs	pqKQtP	CLAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00383337817549872	0.0127601099469468	0.763857650110515
+Yengo BMI EU sex combined 941 SNPs	pqKQtP	CLAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0271052042602205	0.0268106604475708	0.312290946292847
+Yengo BMI EU sex combined 941 SNPs	pWQEmr	IDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.000860454935574713	0.0198231620665338	0.965386963534765
+Yengo BMI EU sex combined 941 SNPs	pWQEmr	IDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00768398301902096	0.020455727523366	0.707184784375056
+Yengo BMI EU sex combined 941 SNPs	pWQEmr	IDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0199828376442894	0.0122726192020804	0.103472829191589
+Yengo BMI EU sex combined 941 SNPs	pWQEmr	IDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.000245613061276906	0.0215624973633939	0.990914179786717
+Yengo BMI EU sex combined 941 SNPs	QAewZ0	MUFA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0121626010872932	0.0219710372911278	0.580005918837463
+Yengo BMI EU sex combined 941 SNPs	QAewZ0	MUFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0570882140291199	0.021946688737758	0.00928922645964611
+Yengo BMI EU sex combined 941 SNPs	QAewZ0	MUFA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0702679262160506	0.0137603653152773	3.28102311035962e-07
+Yengo BMI EU sex combined 941 SNPs	QAewZ0	MUFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0641484903983773	0.0292375198509433	0.0284833986163922
+Yengo BMI EU sex combined 941 SNPs	QFqwD2	XL-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0172842170007264	0.0224528525103348	0.441617583863008
+Yengo BMI EU sex combined 941 SNPs	QFqwD2	XL-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.026214169939272	0.0220918876646868	0.235386578518702
+Yengo BMI EU sex combined 941 SNPs	QFqwD2	XL-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0148641827643033	0.013909375578904	0.285229724918409
+Yengo BMI EU sex combined 941 SNPs	QFqwD2	XL-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0337106805647469	0.0316079675757229	0.286468425430283
+Yengo BMI EU sex combined 941 SNPs	QsTjxp	L-LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0140003381309754	0.0239963996592689	0.559744788364636
+Yengo BMI EU sex combined 941 SNPs	QsTjxp	L-LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0326651846235138	0.021129782024148	0.122121237742634
+Yengo BMI EU sex combined 941 SNPs	QsTjxp	L-LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0114736209066535	0.0148439136408169	0.439551260105261
+Yengo BMI EU sex combined 941 SNPs	QsTjxp	L-LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0273847224221537	0.023689821871604	0.247995846536352
+Yengo BMI EU sex combined 941 SNPs	QZxly2	XL-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00635073331094213	0.0221531287035793	0.774426807904058
+Yengo BMI EU sex combined 941 SNPs	QZxly2	XL-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0189611029220047	0.02216223050494	0.392241577910311
+Yengo BMI EU sex combined 941 SNPs	QZxly2	XL-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0557625083489897	0.0137990701772438	5.32160975179428e-05
+Yengo BMI EU sex combined 941 SNPs	QZxly2	XL-HDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00453357104897201	0.0243754482276517	0.852494514338175
+Yengo BMI EU sex combined 941 SNPs	RdveAf	L-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0287618499219721	0.0219487796471923	0.190387866657959
+Yengo BMI EU sex combined 941 SNPs	RdveAf	L-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0257730853642438	0.0218491624558715	0.238162742555106
+Yengo BMI EU sex combined 941 SNPs	RdveAf	L-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0630279653535065	0.0136053142851403	3.61103559292097e-06
+Yengo BMI EU sex combined 941 SNPs	RdveAf	L-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0330458232386825	0.0226188152389406	0.14436271611064
+Yengo BMI EU sex combined 941 SNPs	rewq5u	LDL-D.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00454465809407034	0.0211665357862757	0.830041749485416
+Yengo BMI EU sex combined 941 SNPs	rewq5u	LDL-D.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.030596220915415	0.021216309615755	0.149271761154602
+Yengo BMI EU sex combined 941 SNPs	rewq5u	LDL-D.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0040721759457071	0.0130931175976407	0.755788058556937
+Yengo BMI EU sex combined 941 SNPs	rewq5u	LDL-D.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0241570248289036	0.0236305772403756	0.306920020358367
+Yengo BMI EU sex combined 941 SNPs	rfueCX	S-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0279058885088477	0.0219599021696056	0.204136095086713
+Yengo BMI EU sex combined 941 SNPs	rfueCX	S-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0069238347847876	0.0211671791065903	0.743590447440695
+Yengo BMI EU sex combined 941 SNPs	rfueCX	S-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0159458710522262	0.0136321533749394	0.242111640932444
+Yengo BMI EU sex combined 941 SNPs	rfueCX	S-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0106170786086888	0.0282274741019521	0.706910826598586
+Yengo BMI EU sex combined 941 SNPs	rKkDXe	SM.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0169102960027122	0.0215848852486972	0.43357670280042
+Yengo BMI EU sex combined 941 SNPs	rKkDXe	SM.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0262512712043106	0.0210483929406408	0.212329127298698
+Yengo BMI EU sex combined 941 SNPs	rKkDXe	SM.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.00614027396801799	0.0133555338954622	0.64569206074871
+Yengo BMI EU sex combined 941 SNPs	rKkDXe	SM.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0260274518889489	0.0238376957203622	0.27518221041349
+Yengo BMI EU sex combined 941 SNPs	rME3Qk	XS-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0176916427498646	0.0211638797580044	0.403410028718226
+Yengo BMI EU sex combined 941 SNPs	rME3Qk	XS-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.013016210527132	0.0206682213692642	0.528845558949742
+Yengo BMI EU sex combined 941 SNPs	rME3Qk	XS-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.068059377599635	0.0132815065606672	2.98531396530942e-07
+Yengo BMI EU sex combined 941 SNPs	rME3Qk	XS-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.010197108022997	0.0199599629653264	0.609559921596278
+Yengo BMI EU sex combined 941 SNPs	rOGSns	L-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0192084274584736	0.0206137246912142	0.351672489805432
+Yengo BMI EU sex combined 941 SNPs	rOGSns	L-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0091849173300398	0.0204757081965487	0.653737336878677
+Yengo BMI EU sex combined 941 SNPs	rOGSns	L-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0165783559553257	0.0127831991723127	0.194670308885951
+Yengo BMI EU sex combined 941 SNPs	rOGSns	L-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00873999838389938	0.0203589539078079	0.667809792791431
+Yengo BMI EU sex combined 941 SNPs	RPZSPA	IDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.000860454935574713	0.0198231620665338	0.965386963534765
+Yengo BMI EU sex combined 941 SNPs	RPZSPA	IDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00768398301902096	0.0201385699834534	0.702791064678569
+Yengo BMI EU sex combined 941 SNPs	RPZSPA	IDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0199828376442894	0.0122726192020804	0.103472829191589
+Yengo BMI EU sex combined 941 SNPs	RPZSPA	IDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.000245613061276906	0.0218195492829713	0.991021213536887
+Yengo BMI EU sex combined 941 SNPs	RwE4pz	XL-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00611589525547397	0.0208321126561657	0.769145521564636
+Yengo BMI EU sex combined 941 SNPs	RwE4pz	XL-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0161711981179236	0.0207154521072165	0.435017451350175
+Yengo BMI EU sex combined 941 SNPs	RwE4pz	XL-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0479136422198546	0.0129325998970386	0.000211496541076844
+Yengo BMI EU sex combined 941 SNPs	RwE4pz	XL-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00231530716127093	0.0210641577803859	0.912499425506331
+Yengo BMI EU sex combined 941 SNPs	S0NNLZ	IDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00901631155724208	0.0201331729155278	0.654379639623399
+Yengo BMI EU sex combined 941 SNPs	S0NNLZ	IDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0165426797106216	0.0195695329077409	0.397927572320011
+Yengo BMI EU sex combined 941 SNPs	S0NNLZ	IDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0277058042505468	0.0124638043505251	0.0262224704096681
+Yengo BMI EU sex combined 941 SNPs	S0NNLZ	IDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0110290530089063	0.0191047437400365	0.563883222208399
+Yengo BMI EU sex combined 941 SNPs	sLCn3U	M-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0382620128522405	0.0209903466846032	0.068655135939848
+Yengo BMI EU sex combined 941 SNPs	sLCn3U	M-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0403921012894185	0.020793096572519	0.0520678107593897
+Yengo BMI EU sex combined 941 SNPs	sLCn3U	M-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0427243776646676	0.0129848475763141	0.00100071478602908
+Yengo BMI EU sex combined 941 SNPs	sLCn3U	M-HDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0320874213551812	0.0216187504885973	0.138090317040232
+Yengo BMI EU sex combined 941 SNPs	snVA8D	L-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00231338213587002	0.0240335515965839	0.923338118669268
+Yengo BMI EU sex combined 941 SNPs	snVA8D	L-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0587524692367743	0.0215545012141975	0.00641529780425709
+Yengo BMI EU sex combined 941 SNPs	snVA8D	L-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0982207960251421	0.0150759720659242	7.26627451311418e-11
+Yengo BMI EU sex combined 941 SNPs	snVA8D	L-HDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0347693730247318	0.0242082277619898	0.151270167051264
+Yengo BMI EU sex combined 941 SNPs	SRnzwe	M-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0204348286123187	0.0232254878244083	0.379175075888459
+Yengo BMI EU sex combined 941 SNPs	SRnzwe	M-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0392498307547887	0.0221463549039186	0.076345925255024
+Yengo BMI EU sex combined 941 SNPs	SRnzwe	M-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0534974732910339	0.0144967265085305	0.00022397737851483
+Yengo BMI EU sex combined 941 SNPs	SRnzwe	M-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0568278404762141	0.029762207495756	0.0565242251983479
+Yengo BMI EU sex combined 941 SNPs	sSdSEs	S-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0237669569580449	0.0219624043407956	0.279465025837569
+Yengo BMI EU sex combined 941 SNPs	sSdSEs	S-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00290009996240622	0.0207273070639681	0.888725670758129
+Yengo BMI EU sex combined 941 SNPs	sSdSEs	S-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0104032556711625	0.0136147154642648	0.444796641179982
+Yengo BMI EU sex combined 941 SNPs	sSdSEs	S-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0108296253523368	0.0281433125063542	0.700473145356421
+Yengo BMI EU sex combined 941 SNPs	SvKqVr	PUFAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0174850994629965	0.0213397585159061	0.412790974631633
+Yengo BMI EU sex combined 941 SNPs	SvKqVr	PUFAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0242102566434508	0.0213326294255922	0.256420058216145
+Yengo BMI EU sex combined 941 SNPs	SvKqVr	PUFAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0573808601846338	0.0133448530836733	1.70914119106462e-05
+Yengo BMI EU sex combined 941 SNPs	SvKqVr	PUFAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0234890641860677	0.0270099801437799	0.384723611675801
+Yengo BMI EU sex combined 941 SNPs	T5eJmz	XL-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0128886278359846	0.022093482352988	0.559789909834189
+Yengo BMI EU sex combined 941 SNPs	T5eJmz	XL-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.013106496905567	0.0230982084094051	0.570425586366691
+Yengo BMI EU sex combined 941 SNPs	T5eJmz	XL-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0234561473643903	0.0136950847048411	0.0867600066401124
+Yengo BMI EU sex combined 941 SNPs	T5eJmz	XL-VLDL-PL.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00143741437489986	0.0255946364373076	0.955226023958555
+Yengo BMI EU sex combined 941 SNPs	tahkNY	L-LDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0182373310639545	0.0235605188089346	0.439094015276368
+Yengo BMI EU sex combined 941 SNPs	tahkNY	L-LDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.000700935147339768	0.0211546635449094	0.973567860525179
+Yengo BMI EU sex combined 941 SNPs	tahkNY	L-LDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0123050730204995	0.0145960009264427	0.399203758973106
+Yengo BMI EU sex combined 941 SNPs	tahkNY	L-LDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0250605115845914	0.0246945980739039	0.310461656230293
+Yengo BMI EU sex combined 941 SNPs	tbDouZ	XL-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00611589525547397	0.0208321126561657	0.769145521564636
+Yengo BMI EU sex combined 941 SNPs	tbDouZ	XL-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0161711981179236	0.0200205802785402	0.419246754064176
+Yengo BMI EU sex combined 941 SNPs	tbDouZ	XL-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0479136422198546	0.0129325998970386	0.000211496541076844
+Yengo BMI EU sex combined 941 SNPs	tbDouZ	XL-HDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00231530716127093	0.0203939924816145	0.909636225261356
+Yengo BMI EU sex combined 941 SNPs	tChWPM	MUFAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0121626010872932	0.0219710372911278	0.580005918837463
+Yengo BMI EU sex combined 941 SNPs	tChWPM	MUFAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0570882140291199	0.0217633347766302	0.00871241684867229
+Yengo BMI EU sex combined 941 SNPs	tChWPM	MUFAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0702679262160506	0.0137603653152773	3.28102311035962e-07
+Yengo BMI EU sex combined 941 SNPs	tChWPM	MUFAbyFA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0641484903983773	0.0290733210672146	0.027601624615861
+Yengo BMI EU sex combined 941 SNPs	TfiqZv	L-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.022184070609054	0.0212505579164997	0.296794931688911
+Yengo BMI EU sex combined 941 SNPs	TfiqZv	L-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.039225368261621	0.0208043581508714	0.0593704628888461
+Yengo BMI EU sex combined 941 SNPs	TfiqZv	L-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0560345853783365	0.0131738614263929	2.10485931303936e-05
+Yengo BMI EU sex combined 941 SNPs	TfiqZv	L-HDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.023243712422206	0.0224219307293374	0.300173107303614
+Yengo BMI EU sex combined 941 SNPs	tNNiBj	FAw6.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0114976669097426	0.02121087864543	0.587906403073793
+Yengo BMI EU sex combined 941 SNPs	tNNiBj	FAw6.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0435759906971466	0.0207342285948269	0.0355843728001102
+Yengo BMI EU sex combined 941 SNPs	tNNiBj	FAw6.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0585400408603157	0.0132480452095414	9.92650429911947e-06
+Yengo BMI EU sex combined 941 SNPs	tNNiBj	FAw6.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0204893974494307	0.0224639626935045	0.361956446016911
+Yengo BMI EU sex combined 941 SNPs	TNz8YM	Remnant-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00811063109918271	0.0229161642297656	0.723475991902127
+Yengo BMI EU sex combined 941 SNPs	TNz8YM	Remnant-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0181835519993566	0.0201115503403384	0.36592394189562
+Yengo BMI EU sex combined 941 SNPs	TNz8YM	Remnant-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0334949123854418	0.0141912338345217	0.0182624401328826
+Yengo BMI EU sex combined 941 SNPs	TNz8YM	Remnant-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.000500199773022736	0.0212371131843205	0.981214232023794
+Yengo BMI EU sex combined 941 SNPs	TpPC96	XS-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.000136521597896322	0.0192726035575252	0.994349610967584
+Yengo BMI EU sex combined 941 SNPs	TpPC96	XS-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00122128394354955	0.0202523025059287	0.951913945122704
+Yengo BMI EU sex combined 941 SNPs	TpPC96	XS-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00956176687477823	0.0119245992820902	0.422638424795117
+Yengo BMI EU sex combined 941 SNPs	TpPC96	XS-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00608410143824178	0.0219681842281814	0.781880739692736
+Yengo BMI EU sex combined 941 SNPs	TUA8D1	M-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0290677366468605	0.021802310409828	0.182785614020703
+Yengo BMI EU sex combined 941 SNPs	TUA8D1	M-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0161366020539509	0.0228024306776319	0.479150049883868
+Yengo BMI EU sex combined 941 SNPs	TUA8D1	M-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.018256589508156	0.013543169708855	0.177648960700749
+Yengo BMI EU sex combined 941 SNPs	TUA8D1	M-VLDL-P.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0289295566862111	0.0356799727859609	0.417688055992361
+Yengo BMI EU sex combined 941 SNPs	tYyR92	L-LDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00530943310381797	0.022714533795222	0.815234573635633
+Yengo BMI EU sex combined 941 SNPs	tYyR92	L-LDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.053143970543176	0.0203817985859705	0.0091226584136066
+Yengo BMI EU sex combined 941 SNPs	tYyR92	L-LDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.072682752784939	0.0141980007613437	3.06794645602596e-07
+Yengo BMI EU sex combined 941 SNPs	tYyR92	L-LDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0297324634298777	0.022391482887846	0.184560530423287
+Yengo BMI EU sex combined 941 SNPs	u0q3uA	ApoA1.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00853735253438003	0.0228401105294653	0.708649142644925
+Yengo BMI EU sex combined 941 SNPs	u0q3uA	ApoA1.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.034163739096345	0.0211212213826954	0.105768725978824
+Yengo BMI EU sex combined 941 SNPs	u0q3uA	ApoA1.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0717537646438521	0.0142244901694552	4.54989098434076e-07
+Yengo BMI EU sex combined 941 SNPs	u0q3uA	ApoA1.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0178504928250698	0.0195878749713408	0.3623761905483
+Yengo BMI EU sex combined 941 SNPs	UBqtpR	S-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00362364639342632	0.023144226605526	0.875619937063903
+Yengo BMI EU sex combined 941 SNPs	UBqtpR	S-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0594626863821427	0.021478738200477	0.00563246443472527
+Yengo BMI EU sex combined 941 SNPs	UBqtpR	S-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0582645682265094	0.0144081926505733	5.25805915983377e-05
+Yengo BMI EU sex combined 941 SNPs	UBqtpR	S-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0435397501499244	0.0254954746837121	0.0880237609543714
+Yengo BMI EU sex combined 941 SNPs	ur03eB	IDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00626258856556547	0.0217536835739992	0.773499143061204
+Yengo BMI EU sex combined 941 SNPs	ur03eB	IDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0341685913223213	0.0195761199926751	0.0809114316939584
+Yengo BMI EU sex combined 941 SNPs	ur03eB	IDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0525949680690816	0.0135440793087613	0.000103071937900083
+Yengo BMI EU sex combined 941 SNPs	ur03eB	IDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00214083200704795	0.0239600884388844	0.928823417353562
+Yengo BMI EU sex combined 941 SNPs	UYyRBe	XS-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0185174088629272	0.0220814514983826	0.401915997312444
+Yengo BMI EU sex combined 941 SNPs	UYyRBe	XS-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0171344309636633	0.0211204858529321	0.417210242634216
+Yengo BMI EU sex combined 941 SNPs	UYyRBe	XS-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0175575346762579	0.0136920314913336	0.199731212498791
+Yengo BMI EU sex combined 941 SNPs	UYyRBe	XS-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0110666097186316	0.0280377192696531	0.693153278821657
+Yengo BMI EU sex combined 941 SNPs	v1nK2w	L-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0192084274584736	0.0206137246912142	0.351672489805432
+Yengo BMI EU sex combined 941 SNPs	v1nK2w	L-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0091849173300398	0.0204127431389373	0.65273930322466
+Yengo BMI EU sex combined 941 SNPs	v1nK2w	L-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0165783559553257	0.0127831991723127	0.194670308885951
+Yengo BMI EU sex combined 941 SNPs	v1nK2w	L-VLDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00873999838389938	0.0204648190782241	0.669425900540425
+Yengo BMI EU sex combined 941 SNPs	val7xK	EstC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0104167225598295	0.0234648618847544	0.657199535013506
+Yengo BMI EU sex combined 941 SNPs	val7xK	EstC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00801278735202704	0.0202568830177679	0.692430571891622
+Yengo BMI EU sex combined 941 SNPs	val7xK	EstC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00967324762690701	0.014524884946578	0.50542543530439
+Yengo BMI EU sex combined 941 SNPs	val7xK	EstC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00858654051943653	0.0198437528492915	0.665329477755636
+Yengo BMI EU sex combined 941 SNPs	VFcQtC	L-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0180960219884045	0.0207659827781233	0.383750806864667
+Yengo BMI EU sex combined 941 SNPs	VFcQtC	L-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0241401842940524	0.0225664916541889	0.284738241381768
+Yengo BMI EU sex combined 941 SNPs	VFcQtC	L-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0088206294601617	0.0128620871438346	0.492848548124517
+Yengo BMI EU sex combined 941 SNPs	VFcQtC	L-VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.039453588192123	0.0362963155058885	0.27732986221017
+Yengo BMI EU sex combined 941 SNPs	vit8a9	S-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0277348346537849	0.0219429996489442	0.206571255855443
+Yengo BMI EU sex combined 941 SNPs	vit8a9	S-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0457932172100719	0.02029942993719	0.0240777178075548
+Yengo BMI EU sex combined 941 SNPs	vit8a9	S-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0149579228019057	0.0135775946198633	0.27060855478716
+Yengo BMI EU sex combined 941 SNPs	vit8a9	S-HDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0427220122491372	0.0242797763362012	0.0788153029470356
+Yengo BMI EU sex combined 941 SNPs	VpNBn8	S-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0196129186237189	0.021441138551389	0.360573555392556
+Yengo BMI EU sex combined 941 SNPs	VpNBn8	S-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0472444769546555	0.0209396110709897	0.0240565347744118
+Yengo BMI EU sex combined 941 SNPs	VpNBn8	S-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0582127108292351	0.0133010899900148	1.20579799354064e-05
+Yengo BMI EU sex combined 941 SNPs	VpNBn8	S-HDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0368521772090231	0.0229856211421596	0.109220727321486
+Yengo BMI EU sex combined 941 SNPs	vSpf6x	S-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0277348346537849	0.0219429996489442	0.206571255855443
+Yengo BMI EU sex combined 941 SNPs	vSpf6x	S-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0457932172100719	0.0207354682290829	0.0272130123125324
+Yengo BMI EU sex combined 941 SNPs	vSpf6x	S-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0149579228019057	0.0135775946198633	0.27060855478716
+Yengo BMI EU sex combined 941 SNPs	vSpf6x	S-HDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0427220122491372	0.0212133132874831	0.044310387533741
+Yengo BMI EU sex combined 941 SNPs	vZ9z6N	L-LDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0300054997650631	0.0245800697141541	0.222505762082558
+Yengo BMI EU sex combined 941 SNPs	vZ9z6N	L-LDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0356522658992284	0.0218831651676652	0.103268625125978
+Yengo BMI EU sex combined 941 SNPs	vZ9z6N	L-LDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0439004625055975	0.0152088045787827	0.00389532554394477
+Yengo BMI EU sex combined 941 SNPs	vZ9z6N	L-LDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0264899672808214	0.0220607996689541	0.230151499569171
+Yengo BMI EU sex combined 941 SNPs	WCkhvA	HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00623442271584771	0.0236874771709165	0.792459825923281
+Yengo BMI EU sex combined 941 SNPs	WCkhvA	HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0453233891695764	0.0217424669654145	0.0371096253178252
+Yengo BMI EU sex combined 941 SNPs	WCkhvA	HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0899629668093682	0.0148147742338757	1.25920846777983e-09
+Yengo BMI EU sex combined 941 SNPs	WCkhvA	HDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00806230124140539	0.0228154129048661	0.723892032177498
+Yengo BMI EU sex combined 941 SNPs	wj7rer	ApoBbyApoA1.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0128320135263483	0.0246521682369407	0.602825640678115
+Yengo BMI EU sex combined 941 SNPs	wj7rer	ApoBbyApoA1.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0122905419182452	0.0210354241362299	0.559033087245509
+Yengo BMI EU sex combined 941 SNPs	wj7rer	ApoBbyApoA1.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0772251483780377	0.0153419630948921	4.81379252301033e-07
+Yengo BMI EU sex combined 941 SNPs	wj7rer	ApoBbyApoA1.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0140579890968979	0.0222490980290119	0.527646111184383
+Yengo BMI EU sex combined 941 SNPs	WjDDPS	S-LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0319489154821836	0.0244623588229984	0.191866927204362
+Yengo BMI EU sex combined 941 SNPs	WjDDPS	S-LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.032864807452714	0.0216443208346202	0.128912768767208
+Yengo BMI EU sex combined 941 SNPs	WjDDPS	S-LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0161333462321614	0.0151375578658953	0.286521914782307
+Yengo BMI EU sex combined 941 SNPs	WjDDPS	S-LDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0366363733410608	0.0274589174106648	0.182462819390125
+Yengo BMI EU sex combined 941 SNPs	WL9yVf	XS-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0154297736743314	0.0227068650746122	0.496980734725603
+Yengo BMI EU sex combined 941 SNPs	WL9yVf	XS-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0308873030515457	0.020793280025258	0.137425610856666
+Yengo BMI EU sex combined 941 SNPs	WL9yVf	XS-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0415308183001466	0.0140627755390358	0.0031445252054726
+Yengo BMI EU sex combined 941 SNPs	WL9yVf	XS-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00915544848205041	0.0207896292042971	0.659762263089017
+Yengo BMI EU sex combined 941 SNPs	WO6fbd	L-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0180382304928193	0.0223716945778797	0.420281808204711
+Yengo BMI EU sex combined 941 SNPs	WO6fbd	L-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0322326452600919	0.0223895939922495	0.149973193858109
+Yengo BMI EU sex combined 941 SNPs	WO6fbd	L-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0369182020678983	0.0138448956219812	0.00766326310696003
+Yengo BMI EU sex combined 941 SNPs	WO6fbd	L-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0220184556014686	0.0253502568913972	0.385310991632986
+Yengo BMI EU sex combined 941 SNPs	WsHi4g	Glc.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.000461009289017864	0.0241063764793783	0.9847464035539
+Yengo BMI EU sex combined 941 SNPs	WsHi4g	Glc.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0209128763942332	0.026090796420624	0.422817778809651
+Yengo BMI EU sex combined 941 SNPs	WsHi4g	Glc.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.00566627166713167	0.0149090336844926	0.703903649142102
+Yengo BMI EU sex combined 941 SNPs	WsHi4g	Glc.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00628590373959126	0.0289163412332052	0.82795891324904
+Yengo BMI EU sex combined 941 SNPs	WVQm6E	M-LDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0261608756947042	0.023838951145534	0.272756035103175
+Yengo BMI EU sex combined 941 SNPs	WVQm6E	M-LDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0024943463756008	0.0206180235044441	0.903707725818594
+Yengo BMI EU sex combined 941 SNPs	WVQm6E	M-LDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00712541791669006	0.0147721930796619	0.629554901616066
+Yengo BMI EU sex combined 941 SNPs	WVQm6E	M-LDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.000300469047958885	0.0254944398826248	0.99059918853447
+Yengo BMI EU sex combined 941 SNPs	WzVpBP	XXL-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0077019544712954	0.0209389514651898	0.713086060344738
+Yengo BMI EU sex combined 941 SNPs	WzVpBP	XXL-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0117267346351522	0.0212824858421746	0.581630938770801
+Yengo BMI EU sex combined 941 SNPs	WzVpBP	XXL-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0149896765443654	0.0129639422510127	0.247575181523619
+Yengo BMI EU sex combined 941 SNPs	WzVpBP	XXL-VLDL-FC_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0163686381617145	0.0244753465053244	0.503804467823116
+Yengo BMI EU sex combined 941 SNPs	xATMTC	XL-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00973435585984577	0.0210810987824563	0.644365338627711
+Yengo BMI EU sex combined 941 SNPs	xATMTC	XL-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0401369612898605	0.0218223407170857	0.0658769338340973
+Yengo BMI EU sex combined 941 SNPs	xATMTC	XL-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0657904492097055	0.0131217508088084	5.33524527254886e-07
+Yengo BMI EU sex combined 941 SNPs	xATMTC	XL-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.046281389737524	0.0209445604784982	0.0273728362962579
+Yengo BMI EU sex combined 941 SNPs	xCvFht	XL-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0172842170007264	0.0224528525103348	0.441617583863008
+Yengo BMI EU sex combined 941 SNPs	xCvFht	XL-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.026214169939272	0.022604174667064	0.246169013826628
+Yengo BMI EU sex combined 941 SNPs	xCvFht	XL-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0148641827643033	0.013909375578904	0.285229724918409
+Yengo BMI EU sex combined 941 SNPs	xCvFht	XL-VLDL-TG_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0337106805647469	0.0323472069352696	0.297617456663644
+Yengo BMI EU sex combined 941 SNPs	Xe2pI4	XXL-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0256588462845769	0.0216375121866558	0.235990359068412
+Yengo BMI EU sex combined 941 SNPs	Xe2pI4	XXL-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0321036706322936	0.0208244573511002	0.123162801977787
+Yengo BMI EU sex combined 941 SNPs	Xe2pI4	XXL-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0448752699618976	0.0135108980528803	0.000895629585334765
+Yengo BMI EU sex combined 941 SNPs	Xe2pI4	XXL-VLDL-L.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0234029126481001	0.0215743870697903	0.278316769439
+Yengo BMI EU sex combined 941 SNPs	XPCgB8	M-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0290677366468605	0.021802310409828	0.182785614020703
+Yengo BMI EU sex combined 941 SNPs	XPCgB8	M-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0161366020539509	0.021711326443251	0.457339853208514
+Yengo BMI EU sex combined 941 SNPs	XPCgB8	M-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.018256589508156	0.013543169708855	0.177648960700749
+Yengo BMI EU sex combined 941 SNPs	XPCgB8	M-VLDL-PL_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0289295566862111	0.0346679702847567	0.404231618967882
+Yengo BMI EU sex combined 941 SNPs	xrdCAb	CLA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0138915178305044	0.0206134185378787	0.500541486825297
+Yengo BMI EU sex combined 941 SNPs	xrdCAb	CLA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0223562003028009	0.0223501306902088	0.317179101997413
+Yengo BMI EU sex combined 941 SNPs	xrdCAb	CLA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00383337817549872	0.0127601099469468	0.763857650110515
+Yengo BMI EU sex combined 941 SNPs	xrdCAb	CLA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0271052042602205	0.0261916776317246	0.300999679535377
+Yengo BMI EU sex combined 941 SNPs	XUYFJN	S-LDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0257557561436601	0.0242562298771506	0.288598386164071
+Yengo BMI EU sex combined 941 SNPs	XUYFJN	S-LDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0679820741103571	0.0212245893969202	0.00136010338805095
+Yengo BMI EU sex combined 941 SNPs	XUYFJN	S-LDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0530396951552604	0.0150212355653164	0.000414021718415521
+Yengo BMI EU sex combined 941 SNPs	XUYFJN	S-LDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0428910960004352	0.029021287438219	0.139774485186809
+Yengo BMI EU sex combined 941 SNPs	XzFHWy	S-LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0138247148336106	0.0211203164463352	0.51291000902366
+Yengo BMI EU sex combined 941 SNPs	XzFHWy	S-LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0254136464624634	0.0209095068418454	0.224209341102548
+Yengo BMI EU sex combined 941 SNPs	XzFHWy	S-LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0485306040104712	0.0131659661403891	0.000227748407056837
+Yengo BMI EU sex combined 941 SNPs	XzFHWy	S-LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0114400418521692	0.0254333187485983	0.652957598320353
+Yengo BMI EU sex combined 941 SNPs	Yihav2	Gln.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0113923858703284	0.0208185833219191	0.584360131536637
+Yengo BMI EU sex combined 941 SNPs	Yihav2	Gln.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0237055524614904	0.0210108707130524	0.259213597975554
+Yengo BMI EU sex combined 941 SNPs	Yihav2	Gln.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0497065875098731	0.0129166038129086	0.000118954585453089
+Yengo BMI EU sex combined 941 SNPs	Yihav2	Gln.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0160714621168476	0.0219563046001662	0.464371781047673
+Yengo BMI EU sex combined 941 SNPs	Ykbexm	LA.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0138915178305044	0.0206134185378787	0.500541486825297
+Yengo BMI EU sex combined 941 SNPs	Ykbexm	LA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0223562003028009	0.0226391370666192	0.323396447724254
+Yengo BMI EU sex combined 941 SNPs	Ykbexm	LA.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00383337817549872	0.0127601099469468	0.763857650110515
+Yengo BMI EU sex combined 941 SNPs	Ykbexm	LA.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0271052042602205	0.0273928253791813	0.322680666229583
+Yengo BMI EU sex combined 941 SNPs	yl5mAN	IDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.000860454935574713	0.0198231620665338	0.965386963534765
+Yengo BMI EU sex combined 941 SNPs	yl5mAN	IDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.00768398301902096	0.0203714346387303	0.706029435150476
+Yengo BMI EU sex combined 941 SNPs	yl5mAN	IDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0199828376442894	0.0122726192020804	0.103472829191589
+Yengo BMI EU sex combined 941 SNPs	yl5mAN	IDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.000245613061276906	0.0218515410138253	0.991034358367311
+Yengo BMI EU sex combined 941 SNPs	yMy9dc	XL-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0260279532418755	0.0225660363216568	0.24904321555899
+Yengo BMI EU sex combined 941 SNPs	yMy9dc	XL-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0134362373521092	0.022835451893092	0.556268026593976
+Yengo BMI EU sex combined 941 SNPs	yMy9dc	XL-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0288240996576868	0.0140272266577003	0.0398917527808019
+Yengo BMI EU sex combined 941 SNPs	yMy9dc	XL-VLDL-C_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0273799561030423	0.0342131320380355	0.423758955937197
+Yengo BMI EU sex combined 941 SNPs	z5n2y3	FALen.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00407043811179051	0.0213879068599447	0.849104703761249
+Yengo BMI EU sex combined 941 SNPs	z5n2y3	FALen.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0332112447927265	0.0202309234665268	0.100671279095853
+Yengo BMI EU sex combined 941 SNPs	z5n2y3	FALen.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0541505942144488	0.013317698984111	4.78141519032644e-05
+Yengo BMI EU sex combined 941 SNPs	z5n2y3	FALen.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0286108966299627	0.025101523565714	0.254665577386321
+Yengo BMI EU sex combined 941 SNPs	ZCFRUs	XXL-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0377981587387316	0.0217291433626978	0.0822816891149648
+Yengo BMI EU sex combined 941 SNPs	ZCFRUs	XXL-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00665606545240326	0.0225988313479898	0.768351872602038
+Yengo BMI EU sex combined 941 SNPs	ZCFRUs	XXL-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0017518451338164	0.0134719082480486	0.896537235601516
+Yengo BMI EU sex combined 941 SNPs	ZCFRUs	XXL-VLDL-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0173196927741337	0.0265788738757906	0.514801424798697
+Yengo BMI EU sex combined 941 SNPs	zkSznX	L-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	3.4956775269328e-05	0.0227806584427959	0.998775987280659
+Yengo BMI EU sex combined 941 SNPs	zkSznX	L-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.0556520861436959	0.0221936684889023	0.0121565913326413
+Yengo BMI EU sex combined 941 SNPs	zkSznX	L-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.103874495111671	0.0143487178761937	4.51047717655262e-13
+Yengo BMI EU sex combined 941 SNPs	zkSznX	L-HDL-FC.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00960626729049352	0.0238661925476922	0.687406460977451
+Yengo BMI EU sex combined 941 SNPs	ZLpWP8	HDL2-C.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00776522701580304	0.0239392177659617	0.745730320400534
+Yengo BMI EU sex combined 941 SNPs	ZLpWP8	HDL2-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	-0.046598914868747	0.0212340095468115	0.0281965048853365
+Yengo BMI EU sex combined 941 SNPs	ZLpWP8	HDL2-C.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.0926390154786034	0.0149733111167823	6.13423125305687e-10
+Yengo BMI EU sex combined 941 SNPs	ZLpWP8	HDL2-C.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.0171324151600101	0.0240587325481194	0.476579844357488
+Yengo BMI EU sex combined 941 SNPs	ZNeMEF	XXL-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.0377981587387316	0.0217291433626978	0.0822816891149648
+Yengo BMI EU sex combined 941 SNPs	ZNeMEF	XXL-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00665606545240326	0.0220320978629092	0.762569995975811
+Yengo BMI EU sex combined 941 SNPs	ZNeMEF	XXL-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0017518451338164	0.0134719082480486	0.896537235601516
+Yengo BMI EU sex combined 941 SNPs	ZNeMEF	XXL-VLDL-CE.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0173196927741337	0.0280776380812705	0.537487415021777
+Yengo BMI EU sex combined 941 SNPs	ZnM6tf	VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.0180960219884045	0.0207659827781233	0.383750806864667
+Yengo BMI EU sex combined 941 SNPs	ZnM6tf	VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0241401842940524	0.0223465331267869	0.280024057516734
+Yengo BMI EU sex combined 941 SNPs	ZnM6tf	VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0088206294601617	0.0128620871438346	0.492848548124517
+Yengo BMI EU sex combined 941 SNPs	ZnM6tf	VLDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.039453588192123	0.0370328949643018	0.286991980903421
+Yengo BMI EU sex combined 941 SNPs	zvwZvs	M-LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	-0.00313719315218032	0.0207077746489598	0.879616137413049
+Yengo BMI EU sex combined 941 SNPs	zvwZvs	M-LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0155641943089774	0.0204083430610588	0.44567883692368
+Yengo BMI EU sex combined 941 SNPs	zvwZvs	M-LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.0390346359538459	0.0128569715131644	0.00239685539223162
+Yengo BMI EU sex combined 941 SNPs	zvwZvs	M-LDL-TG.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	-0.00207572564004987	0.0223958338257928	0.926175289876827
+Yengo BMI EU sex combined 941 SNPs	ZVzegt	Phe.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.00605023466415591	0.0196052684358624	0.757694403290894
+Yengo BMI EU sex combined 941 SNPs	ZVzegt	Phe.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.0469794980147933	0.0206972501599583	0.023217140986525
+Yengo BMI EU sex combined 941 SNPs	ZVzegt	Phe.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	0.104570882486173	0.0123969623922589	3.30631126569706e-17
+Yengo BMI EU sex combined 941 SNPs	ZVzegt	Phe.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.0329505811380257	0.0214126839598174	0.124191140020878
+Yengo BMI EU sex combined 941 SNPs	ZycoCg	XS-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	MR Egger	914	0.000136521597896322	0.0192726035575252	0.994349610967584
+Yengo BMI EU sex combined 941 SNPs	ZycoCg	XS-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted median	914	0.00122128394354955	0.0205418856511437	0.952591019998378
+Yengo BMI EU sex combined 941 SNPs	ZycoCg	XS-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted (multiplicative random effects)	914	-0.00956176687477823	0.0119245992820902	0.422638424795117
+Yengo BMI EU sex combined 941 SNPs	ZycoCg	XS-VLDL-CE_percent.txt	Yengo BMI EU sex combined 941 SNPs	Weighted mode	914	0.00608410143824178	0.0212010364550844	0.77419895975183

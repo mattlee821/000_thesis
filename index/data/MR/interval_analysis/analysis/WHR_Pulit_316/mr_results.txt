@@ -1,0 +1,921 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+Pulit WHR EU sex combined 316 SNPs clumped	0PwsHa	M-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.354525415005398	0.109500963402843	0.00133885897692524
+Pulit WHR EU sex combined 316 SNPs clumped	0PwsHa	M-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.160907236087757	0.0512637197375056	0.00169633593479259
+Pulit WHR EU sex combined 316 SNPs clumped	0PwsHa	M-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.172658055324893	0.0387686386429434	8.44621829530715e-06
+Pulit WHR EU sex combined 316 SNPs clumped	0PwsHa	M-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.146252933005214	0.0947187156555264	0.123610137008344
+Pulit WHR EU sex combined 316 SNPs clumped	0S8dSg	IDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.643981415896604	0.12097700220863	1.98869696323616e-07
+Pulit WHR EU sex combined 316 SNPs clumped	0S8dSg	IDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.373112111968776	0.047599632735724	4.55777916198658e-15
+Pulit WHR EU sex combined 316 SNPs clumped	0S8dSg	IDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.383418147185682	0.0429803885611663	4.63058698221771e-19
+Pulit WHR EU sex combined 316 SNPs clumped	0S8dSg	IDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.396190640578771	0.103241991186172	0.000151195726017924
+Pulit WHR EU sex combined 316 SNPs clumped	1ASCaJ	M-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.315911757704541	0.105925122884607	0.00309216469942629
+Pulit WHR EU sex combined 316 SNPs clumped	1ASCaJ	M-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.150725876126044	0.0503817157626787	0.00277448639586416
+Pulit WHR EU sex combined 316 SNPs clumped	1ASCaJ	M-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.160913207960471	0.037457940606627	1.74035413724315e-05
+Pulit WHR EU sex combined 316 SNPs clumped	1ASCaJ	M-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.167096963841204	0.0931203749246633	0.0737397893505809
+Pulit WHR EU sex combined 316 SNPs clumped	1h5JY6	M-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0377662536387693	0.107295925254501	0.725096297312767
+Pulit WHR EU sex combined 316 SNPs clumped	1h5JY6	M-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.126671484651061	0.0476506240939678	0.00785269960847609
+Pulit WHR EU sex combined 316 SNPs clumped	1h5JY6	M-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0733536470364199	0.0377970016215015	0.0522914462604806
+Pulit WHR EU sex combined 316 SNPs clumped	1h5JY6	M-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.2035535679903	0.0811732322752507	0.012675011840089
+Pulit WHR EU sex combined 316 SNPs clumped	1QPDNe	M-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.417425157725199	0.113797557568511	0.000288531071109164
+Pulit WHR EU sex combined 316 SNPs clumped	1QPDNe	M-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.202992554619416	0.0475382294316019	1.95393431341667e-05
+Pulit WHR EU sex combined 316 SNPs clumped	1QPDNe	M-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.175608586830398	0.0404212837081894	1.39619677120508e-05
+Pulit WHR EU sex combined 316 SNPs clumped	1QPDNe	M-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.258610822709807	0.0901022046799103	0.00438994347418895
+Pulit WHR EU sex combined 316 SNPs clumped	1sS6PY	Ace.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.183731359795126	0.200093666458328	0.359230496219981
+Pulit WHR EU sex combined 316 SNPs clumped	1sS6PY	Ace.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.121241157574645	0.109658367704877	0.268888371703891
+Pulit WHR EU sex combined 316 SNPs clumped	1sS6PY	Ace.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.049074303669919	0.070649435033794	0.487295310781666
+Pulit WHR EU sex combined 316 SNPs clumped	1sS6PY	Ace.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.285618907029247	0.215256876448166	0.185545903423011
+Pulit WHR EU sex combined 316 SNPs clumped	1t9bZS	S-LDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.256907937901539	0.146682522081214	0.0808792276623773
+Pulit WHR EU sex combined 316 SNPs clumped	1t9bZS	S-LDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.137138290633765	0.0471834040484896	0.00365503664198189
+Pulit WHR EU sex combined 316 SNPs clumped	1t9bZS	S-LDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0376116694711174	0.0520385939096154	0.469824331056088
+Pulit WHR EU sex combined 316 SNPs clumped	1t9bZS	S-LDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.143932401380689	0.0984475946733236	0.144768544016051
+Pulit WHR EU sex combined 316 SNPs clumped	21ovaF	S-LDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.256907937901539	0.146682522081214	0.0808792276623773
+Pulit WHR EU sex combined 316 SNPs clumped	21ovaF	S-LDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.137138290633765	0.0471505986299224	0.00363148097983874
+Pulit WHR EU sex combined 316 SNPs clumped	21ovaF	S-LDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0376116694711174	0.0520385939096154	0.469824331056088
+Pulit WHR EU sex combined 316 SNPs clumped	21ovaF	S-LDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.143932401380689	0.0976666363965759	0.141594115759364
+Pulit WHR EU sex combined 316 SNPs clumped	2KMxds	XL-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.225371466467437	0.107822161324273	0.037431842560202
+Pulit WHR EU sex combined 316 SNPs clumped	2KMxds	XL-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0653113787705605	0.0527862201755387	0.215982838980264
+Pulit WHR EU sex combined 316 SNPs clumped	2KMxds	XL-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.070795610401246	0.0382025769056981	0.0638589677521971
+Pulit WHR EU sex combined 316 SNPs clumped	2KMxds	XL-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0401822285053068	0.0898450822815225	0.65502096043196
+Pulit WHR EU sex combined 316 SNPs clumped	2lByLX	M-LDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.191542624734195	0.147951467859964	0.196433104423287
+Pulit WHR EU sex combined 316 SNPs clumped	2lByLX	M-LDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.140577337718806	0.0485994187425181	0.00382101095720509
+Pulit WHR EU sex combined 316 SNPs clumped	2lByLX	M-LDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0773783074176887	0.0524304634548899	0.139990269711556
+Pulit WHR EU sex combined 316 SNPs clumped	2lByLX	M-LDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.125640805673736	0.088686935936558	0.157601085020197
+Pulit WHR EU sex combined 316 SNPs clumped	2oUcOy	M-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.247874626349873	0.118872353786257	0.0378863755226485
+Pulit WHR EU sex combined 316 SNPs clumped	2oUcOy	M-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.253169509455581	0.0496191030060744	3.35623194719709e-07
+Pulit WHR EU sex combined 316 SNPs clumped	2oUcOy	M-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.240206785867217	0.0418687467907528	9.62896941497082e-09
+Pulit WHR EU sex combined 316 SNPs clumped	2oUcOy	M-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.288514529617714	0.0893337200130164	0.00137522175091091
+Pulit WHR EU sex combined 316 SNPs clumped	2xNesc	MUFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.32420644014581	0.109736377816466	0.00337821881476067
+Pulit WHR EU sex combined 316 SNPs clumped	2xNesc	MUFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.35453055687383	0.0491944339823773	5.73152993480642e-13
+Pulit WHR EU sex combined 316 SNPs clumped	2xNesc	MUFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.32587706863863	0.038663062526621	3.49703039848252e-17
+Pulit WHR EU sex combined 316 SNPs clumped	2xNesc	MUFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.385572883615318	0.0989732668692323	0.000120440769627237
+Pulit WHR EU sex combined 316 SNPs clumped	3BAkJV	Alb.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.0219745756197874	0.0900334184807889	0.807340762623457
+Pulit WHR EU sex combined 316 SNPs clumped	3BAkJV	Alb.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0588477739038975	0.0478947737331138	0.219188492620109
+Pulit WHR EU sex combined 316 SNPs clumped	3BAkJV	Alb.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.00198087130483582	0.0317134568129422	0.950195289907878
+Pulit WHR EU sex combined 316 SNPs clumped	3BAkJV	Alb.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0666305354371559	0.0870746582519904	0.444739219627392
+Pulit WHR EU sex combined 316 SNPs clumped	4j6pec	S-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.387920768404711	0.117744889607424	0.00110256931748548
+Pulit WHR EU sex combined 316 SNPs clumped	4j6pec	S-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0349890713358304	0.0462969910407766	0.449797540900661
+Pulit WHR EU sex combined 316 SNPs clumped	4j6pec	S-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0419233708957799	0.0421386913806897	0.319789672025954
+Pulit WHR EU sex combined 316 SNPs clumped	4j6pec	S-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.138944833655279	0.0926744033291782	0.134838870301351
+Pulit WHR EU sex combined 316 SNPs clumped	5ep6rP	M-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.522938058576487	0.139582786053383	0.000214698378445238
+Pulit WHR EU sex combined 316 SNPs clumped	5ep6rP	M-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.483914806842365	0.0487522259159787	3.20856044028627e-23
+Pulit WHR EU sex combined 316 SNPs clumped	5ep6rP	M-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.385042183112114	0.0492534030143477	5.38505494187541e-15
+Pulit WHR EU sex combined 316 SNPs clumped	5ep6rP	M-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.560841892396325	0.0980111880011359	2.51861174580403e-08
+Pulit WHR EU sex combined 316 SNPs clumped	5VIKnp	M-LDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.4013849152798	0.147792169827088	0.00698962295084708
+Pulit WHR EU sex combined 316 SNPs clumped	5VIKnp	M-LDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0534035569537508	0.0504521734334716	0.289828170569338
+Pulit WHR EU sex combined 316 SNPs clumped	5VIKnp	M-LDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0802300358365475	0.0525108723586733	0.12654363912791
+Pulit WHR EU sex combined 316 SNPs clumped	5VIKnp	M-LDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.116612275409551	0.0884058576571421	0.188143096899694
+Pulit WHR EU sex combined 316 SNPs clumped	6Bekpa	His.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.02104376426032	0.0868448782509799	0.808700489306775
+Pulit WHR EU sex combined 316 SNPs clumped	6Bekpa	His.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0115603989823666	0.0465081104808601	0.803695446770516
+Pulit WHR EU sex combined 316 SNPs clumped	6Bekpa	His.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.00433439070976996	0.0305904294942143	0.887324028287502
+Pulit WHR EU sex combined 316 SNPs clumped	6Bekpa	His.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0772995603264111	0.0942089457879759	0.41256726285514
+Pulit WHR EU sex combined 316 SNPs clumped	6G5flm	PC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.111880485188453	0.0940728993704948	0.235254510266531
+Pulit WHR EU sex combined 316 SNPs clumped	6G5flm	PC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0362189379281965	0.0500944224012917	0.469671660659337
+Pulit WHR EU sex combined 316 SNPs clumped	6G5flm	PC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0124872666851986	0.0332077614791226	0.706891187343183
+Pulit WHR EU sex combined 316 SNPs clumped	6G5flm	PC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0887990666132294	0.0854964785196336	0.299802996996867
+Pulit WHR EU sex combined 316 SNPs clumped	6L8TNs	S-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.357649512131118	0.138627531139094	0.0103528217101528
+Pulit WHR EU sex combined 316 SNPs clumped	6L8TNs	S-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0180901060866393	0.0438115674347603	0.679674698554218
+Pulit WHR EU sex combined 316 SNPs clumped	6L8TNs	S-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0318429014260024	0.0493299156005693	0.518597428062872
+Pulit WHR EU sex combined 316 SNPs clumped	6L8TNs	S-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.109615050317904	0.0859514523167712	0.203172011682999
+Pulit WHR EU sex combined 316 SNPs clumped	6mIWha	XXL-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.233218541865961	0.0930508372311479	0.0127220511432911
+Pulit WHR EU sex combined 316 SNPs clumped	6mIWha	XXL-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0748284493314609	0.0490250838364733	0.126927735902537
+Pulit WHR EU sex combined 316 SNPs clumped	6mIWha	XXL-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0795705720338644	0.0329659635285834	0.0157906358094417
+Pulit WHR EU sex combined 316 SNPs clumped	6mIWha	XXL-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0810320318549893	0.093902754504812	0.388853123633989
+Pulit WHR EU sex combined 316 SNPs clumped	6NAYhU	XS-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.549137946623043	0.123170029622504	1.16442764514299e-05
+Pulit WHR EU sex combined 316 SNPs clumped	6NAYhU	XS-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.261380818491264	0.0497215630718627	1.46511391688328e-07
+Pulit WHR EU sex combined 316 SNPs clumped	6NAYhU	XS-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.296574428947652	0.0437205934688955	1.17377166417219e-11
+Pulit WHR EU sex combined 316 SNPs clumped	6NAYhU	XS-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.220800261570598	0.107348205528385	0.0405526952963867
+Pulit WHR EU sex combined 316 SNPs clumped	77GrQC	XXL-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.528552747634105	0.105401586412215	9.06056676060652e-07
+Pulit WHR EU sex combined 316 SNPs clumped	77GrQC	XXL-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.28879156778793	0.0509790875011419	1.47108032419053e-08
+Pulit WHR EU sex combined 316 SNPs clumped	77GrQC	XXL-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.247633311766019	0.0376446397610959	4.76233381367113e-11
+Pulit WHR EU sex combined 316 SNPs clumped	77GrQC	XXL-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.428719513691853	0.113662848407017	0.000194732179305212
+Pulit WHR EU sex combined 316 SNPs clumped	7BjJ52	LAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0321749329552556	0.0857557293446341	0.707779572857767
+Pulit WHR EU sex combined 316 SNPs clumped	7BjJ52	LAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0213660734062577	0.0508022976191565	0.674066931899211
+Pulit WHR EU sex combined 316 SNPs clumped	7BjJ52	LAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0237527426908311	0.0302221783274084	0.431904115146687
+Pulit WHR EU sex combined 316 SNPs clumped	7BjJ52	LAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0201771791657732	0.0940230322523786	0.83022443033315
+Pulit WHR EU sex combined 316 SNPs clumped	7dzEQl	M-LDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.191542624734195	0.147951467859964	0.196433104423287
+Pulit WHR EU sex combined 316 SNPs clumped	7dzEQl	M-LDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.140577337718806	0.050049899014731	0.004973522667611
+Pulit WHR EU sex combined 316 SNPs clumped	7dzEQl	M-LDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0773783074176887	0.0524304634548899	0.139990269711556
+Pulit WHR EU sex combined 316 SNPs clumped	7dzEQl	M-LDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.125640805673736	0.0893555477841757	0.160722467328515
+Pulit WHR EU sex combined 316 SNPs clumped	7fITLk	L-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.225331330003164	0.093629146806669	0.0166984472903468
+Pulit WHR EU sex combined 316 SNPs clumped	7fITLk	L-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0957210821467028	0.0484639113263083	0.0482567753626017
+Pulit WHR EU sex combined 316 SNPs clumped	7fITLk	L-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.126809470457716	0.0330959361013649	0.000127326969411797
+Pulit WHR EU sex combined 316 SNPs clumped	7fITLk	L-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0258122250663266	0.113178776238958	0.819748293973537
+Pulit WHR EU sex combined 316 SNPs clumped	7jJ4pE	AcAce.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.0162075716437927	0.0863523632057657	0.851244419880568
+Pulit WHR EU sex combined 316 SNPs clumped	7jJ4pE	AcAce.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0203707198617852	0.0491347243627704	0.678442748123721
+Pulit WHR EU sex combined 316 SNPs clumped	7jJ4pE	AcAce.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0104900166224327	0.0304181154924655	0.730198997623378
+Pulit WHR EU sex combined 316 SNPs clumped	7jJ4pE	AcAce.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.00253555571251418	0.0901762324828569	0.977586660401802
+Pulit WHR EU sex combined 316 SNPs clumped	7nmmo6	M-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.466685241654927	0.109479362149702	2.69988948959655e-05
+Pulit WHR EU sex combined 316 SNPs clumped	7nmmo6	M-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.341737424361596	0.0464721352851989	1.92940704770101e-13
+Pulit WHR EU sex combined 316 SNPs clumped	7nmmo6	M-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.277890253723019	0.038775522451725	7.6860165849776e-13
+Pulit WHR EU sex combined 316 SNPs clumped	7nmmo6	M-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.460588502098207	0.116548377171027	9.64619581121682e-05
+Pulit WHR EU sex combined 316 SNPs clumped	7OhyMZ	Phe.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.18286555084277	0.0939068318638211	0.052421355052198
+Pulit WHR EU sex combined 316 SNPs clumped	7OhyMZ	Phe.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.145734629652086	0.0448233878854816	0.00114875426127864
+Pulit WHR EU sex combined 316 SNPs clumped	7OhyMZ	Phe.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.195438463804242	0.0330731658468746	3.43614659352521e-09
+Pulit WHR EU sex combined 316 SNPs clumped	7OhyMZ	Phe.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0386290365286093	0.100815260220183	0.701864066914615
+Pulit WHR EU sex combined 316 SNPs clumped	7t88Go	VLDL-D.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.631877827592983	0.130270709052921	1.97267647853191e-06
+Pulit WHR EU sex combined 316 SNPs clumped	7t88Go	VLDL-D.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.364592259932052	0.0488350313759029	8.27991096531049e-14
+Pulit WHR EU sex combined 316 SNPs clumped	7t88Go	VLDL-D.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.373023753552423	0.0462236464310839	7.03115367846032e-16
+Pulit WHR EU sex combined 316 SNPs clumped	7t88Go	VLDL-D.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.548987202664953	0.106450735876948	4.5275401690124e-07
+Pulit WHR EU sex combined 316 SNPs clumped	7V4hek	HDL-D.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.422461462957591	0.133981600613233	0.00177719242260792
+Pulit WHR EU sex combined 316 SNPs clumped	7V4hek	HDL-D.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.404157697017884	0.052513586728666	1.4011743434979e-14
+Pulit WHR EU sex combined 316 SNPs clumped	7V4hek	HDL-D.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.381513280759977	0.0471955581845547	6.28466519804308e-16
+Pulit WHR EU sex combined 316 SNPs clumped	7V4hek	HDL-D.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.403394047736127	0.102370529989479	0.000100919414946078
+Pulit WHR EU sex combined 316 SNPs clumped	8oDnJd	XS-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.5446834678982	0.117442245813947	5.24214514007551e-06
+Pulit WHR EU sex combined 316 SNPs clumped	8oDnJd	XS-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.240217631784171	0.0466673109059235	2.64051890064958e-07
+Pulit WHR EU sex combined 316 SNPs clumped	8oDnJd	XS-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.247581556407709	0.0418585301909847	3.3243720980753e-09
+Pulit WHR EU sex combined 316 SNPs clumped	8oDnJd	XS-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.298211775610401	0.0939422922354546	0.00165526102231366
+Pulit WHR EU sex combined 316 SNPs clumped	8szXYV	XL-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.468181582532108	0.125063825370075	0.000217077248364997
+Pulit WHR EU sex combined 316 SNPs clumped	8szXYV	XL-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.375527970534749	0.0523270096514121	7.14868257324682e-13
+Pulit WHR EU sex combined 316 SNPs clumped	8szXYV	XL-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.345825350716796	0.0441293900337439	4.62828490941934e-15
+Pulit WHR EU sex combined 316 SNPs clumped	8szXYV	XL-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.432671177154832	0.0943575269751458	6.62764929877471e-06
+Pulit WHR EU sex combined 316 SNPs clumped	9Es59Z	M-LDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.4013849152798	0.147792169827088	0.00698962295084708
+Pulit WHR EU sex combined 316 SNPs clumped	9Es59Z	M-LDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0534035569537508	0.0472137546627614	0.258012299644486
+Pulit WHR EU sex combined 316 SNPs clumped	9Es59Z	M-LDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0802300358365475	0.0525108723586733	0.12654363912791
+Pulit WHR EU sex combined 316 SNPs clumped	9Es59Z	M-LDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.116612275409551	0.0830199314089753	0.161152286815102
+Pulit WHR EU sex combined 316 SNPs clumped	9G44LB	S-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.132214524581403	0.0931716542015027	0.156914511316162
+Pulit WHR EU sex combined 316 SNPs clumped	9G44LB	S-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.149277150913436	0.0487398431022669	0.00219325279647207
+Pulit WHR EU sex combined 316 SNPs clumped	9G44LB	S-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.103269155530021	0.0328207687754156	0.00165261252316273
+Pulit WHR EU sex combined 316 SNPs clumped	9G44LB	S-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.163871910250371	0.079126440099176	0.0392011479030002
+Pulit WHR EU sex combined 316 SNPs clumped	9sa4mZ	M-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.354525415005398	0.109500963402843	0.00133885897692524
+Pulit WHR EU sex combined 316 SNPs clumped	9sa4mZ	M-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.160907236087757	0.0500879276478548	0.00131587265547535
+Pulit WHR EU sex combined 316 SNPs clumped	9sa4mZ	M-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.172658055324893	0.0387686386429434	8.44621829530715e-06
+Pulit WHR EU sex combined 316 SNPs clumped	9sa4mZ	M-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.146252933005214	0.0977960029395219	0.13582399499179
+Pulit WHR EU sex combined 316 SNPs clumped	9UX6Zo	L-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.540751073821424	0.132189935772241	5.51752035345684e-05
+Pulit WHR EU sex combined 316 SNPs clumped	9UX6Zo	L-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.443009325873726	0.0512430722929152	5.3686198017052e-18
+Pulit WHR EU sex combined 316 SNPs clumped	9UX6Zo	L-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.382466835842174	0.0466847665142387	2.55769328586465e-16
+Pulit WHR EU sex combined 316 SNPs clumped	9UX6Zo	L-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.528601252694674	0.101293089601433	3.34589651628613e-07
+Pulit WHR EU sex combined 316 SNPs clumped	9yx1ww	L-LDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.172985911438121	0.156749846936262	0.27065127620021
+Pulit WHR EU sex combined 316 SNPs clumped	9yx1ww	L-LDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.166293619055826	0.0488241750077268	0.000659297018936545
+Pulit WHR EU sex combined 316 SNPs clumped	9yx1ww	L-LDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.108935404136692	0.0555503072209332	0.0498763944945832
+Pulit WHR EU sex combined 316 SNPs clumped	9yx1ww	L-LDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.086517329046131	0.0940649795293321	0.358426742824368
+Pulit WHR EU sex combined 316 SNPs clumped	a44h4O	FreeC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.223458219507021	0.124567831942843	0.0738312274292625
+Pulit WHR EU sex combined 316 SNPs clumped	a44h4O	FreeC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0520600081369807	0.0503071737159118	0.300742408921678
+Pulit WHR EU sex combined 316 SNPs clumped	a44h4O	FreeC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0261800586331189	0.0440914242304295	0.552667570062048
+Pulit WHR EU sex combined 316 SNPs clumped	a44h4O	FreeC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0617861556710553	0.0858080360770947	0.472046883465272
+Pulit WHR EU sex combined 316 SNPs clumped	AeKOjG	M-LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.32910039346118	0.103511955362607	0.00162876554644675
+Pulit WHR EU sex combined 316 SNPs clumped	AeKOjG	M-LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.105822652359157	0.0479530282086851	0.0273281666770065
+Pulit WHR EU sex combined 316 SNPs clumped	AeKOjG	M-LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.204517278022735	0.0365487308508731	2.19679845420392e-08
+Pulit WHR EU sex combined 316 SNPs clumped	AeKOjG	M-LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0627706144591436	0.0890256235653023	0.481297326934014
+Pulit WHR EU sex combined 316 SNPs clumped	aI5JaC	EstC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.195022876935336	0.129513980428579	0.133158834624721
+Pulit WHR EU sex combined 316 SNPs clumped	aI5JaC	EstC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0211454304511574	0.0484743744286405	0.662678033827238
+Pulit WHR EU sex combined 316 SNPs clumped	aI5JaC	EstC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0123282952227477	0.0458484156863285	0.788012406816393
+Pulit WHR EU sex combined 316 SNPs clumped	aI5JaC	EstC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0194802597054551	0.088982871382237	0.826858136626745
+Pulit WHR EU sex combined 316 SNPs clumped	anvzRp	IDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0986284317128351	0.0993829180478769	0.32179024378641
+Pulit WHR EU sex combined 316 SNPs clumped	anvzRp	IDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0325723171157854	0.0487584145870956	0.504111387074701
+Pulit WHR EU sex combined 316 SNPs clumped	anvzRp	IDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0350077558649628	0.0350277712152534	0.317587117670411
+Pulit WHR EU sex combined 316 SNPs clumped	anvzRp	IDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0413661391530615	0.0842362192913078	0.623729082107285
+Pulit WHR EU sex combined 316 SNPs clumped	aPyn1f	XL-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.338057212566272	0.109934394340468	0.00229622531062271
+Pulit WHR EU sex combined 316 SNPs clumped	aPyn1f	XL-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.127831184345413	0.0567104453864229	0.024189689803468
+Pulit WHR EU sex combined 316 SNPs clumped	aPyn1f	XL-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.14800845291797	0.0390165380144703	0.000148550658061171
+Pulit WHR EU sex combined 316 SNPs clumped	aPyn1f	XL-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.107574606914454	0.102480222591657	0.294684818189581
+Pulit WHR EU sex combined 316 SNPs clumped	BdFxzH	S-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.455770563652971	0.114438298975242	8.5387926815336e-05
+Pulit WHR EU sex combined 316 SNPs clumped	BdFxzH	S-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.111967898987491	0.0463071260301418	0.015608607072854
+Pulit WHR EU sex combined 316 SNPs clumped	BdFxzH	S-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.17037135618349	0.0407742650513162	2.93561732134065e-05
+Pulit WHR EU sex combined 316 SNPs clumped	BdFxzH	S-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.131403349945297	0.114131109909548	0.250498406600485
+Pulit WHR EU sex combined 316 SNPs clumped	BfBSlg	ApoB.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.200389298649765	0.15817749011574	0.206176993386282
+Pulit WHR EU sex combined 316 SNPs clumped	BfBSlg	ApoB.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.382105510479526	0.0486166336774668	3.8547494446639e-15
+Pulit WHR EU sex combined 316 SNPs clumped	BfBSlg	ApoB.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.300646486335053	0.0557553118790028	6.95815225648068e-08
+Pulit WHR EU sex combined 316 SNPs clumped	BfBSlg	ApoB.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.424628123019625	0.0918294390898981	5.57155907863079e-06
+Pulit WHR EU sex combined 316 SNPs clumped	BhJXLm	ApoA1.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.234079774498808	0.111069137019276	0.035894395214436
+Pulit WHR EU sex combined 316 SNPs clumped	BhJXLm	ApoA1.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.19379050530344	0.0480736150808766	5.55117197725107e-05
+Pulit WHR EU sex combined 316 SNPs clumped	BhJXLm	ApoA1.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.183212768303924	0.0391330487132514	2.84378878358839e-06
+Pulit WHR EU sex combined 316 SNPs clumped	BhJXLm	ApoA1.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.284625360721676	0.0861588671803282	0.00106892951303166
+Pulit WHR EU sex combined 316 SNPs clumped	bkLabt	LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.25373914143482	0.15193427636999	0.0959404376540874
+Pulit WHR EU sex combined 316 SNPs clumped	bkLabt	LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0474720332799127	0.0496367932383655	0.338876246442561
+Pulit WHR EU sex combined 316 SNPs clumped	bkLabt	LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.024072080481551	0.0538521153378145	0.654872580498032
+Pulit WHR EU sex combined 316 SNPs clumped	bkLabt	LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0580346822086657	0.0853066663642311	0.496828159400269
+Pulit WHR EU sex combined 316 SNPs clumped	bn8se4	XL-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.288677844992076	0.101489351428724	0.00475214433026025
+Pulit WHR EU sex combined 316 SNPs clumped	bn8se4	XL-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.149895853089364	0.0538223545467691	0.00535258960660935
+Pulit WHR EU sex combined 316 SNPs clumped	bn8se4	XL-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.20650715336716	0.0358653984232446	8.51980657588347e-09
+Pulit WHR EU sex combined 316 SNPs clumped	bn8se4	XL-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.15379343106811	0.0977740378967601	0.116771111273837
+Pulit WHR EU sex combined 316 SNPs clumped	BO4mdY	L-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.273153144323781	0.105286881978918	0.00993713313937358
+Pulit WHR EU sex combined 316 SNPs clumped	BO4mdY	L-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.17253489938492	0.0483110353733455	0.000355166047844619
+Pulit WHR EU sex combined 316 SNPs clumped	BO4mdY	L-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.206829324378824	0.037168198843351	2.62626144071819e-08
+Pulit WHR EU sex combined 316 SNPs clumped	BO4mdY	L-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.203605932179446	0.0910436347875821	0.0260537075335593
+Pulit WHR EU sex combined 316 SNPs clumped	BwdmJk	L-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.054795341031757	0.114969191854285	0.633984161219961
+Pulit WHR EU sex combined 316 SNPs clumped	BwdmJk	L-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.186420740687244	0.047261647470965	7.99866206763108e-05
+Pulit WHR EU sex combined 316 SNPs clumped	BwdmJk	L-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.205032193973413	0.0406112504305095	4.44931318004726e-07
+Pulit WHR EU sex combined 316 SNPs clumped	BwdmJk	L-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.142204959355065	0.102869669196588	0.167869841982509
+Pulit WHR EU sex combined 316 SNPs clumped	C4acaM	TGbyPG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.574302553298541	0.138440996015723	4.35405099987764e-05
+Pulit WHR EU sex combined 316 SNPs clumped	C4acaM	TGbyPG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.371478380595794	0.0477038203318093	6.85196548972764e-15
+Pulit WHR EU sex combined 316 SNPs clumped	C4acaM	TGbyPG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.394132960329484	0.0489280893494456	7.925070046358e-16
+Pulit WHR EU sex combined 316 SNPs clumped	C4acaM	TGbyPG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.443057945533785	0.109336616526768	6.44791185529667e-05
+Pulit WHR EU sex combined 316 SNPs clumped	C4C0yO	XXL-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.170155191588142	0.0918132412344039	0.0648149338451463
+Pulit WHR EU sex combined 316 SNPs clumped	C4C0yO	XXL-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.133141211430826	0.0495529773239604	0.00721302324823634
+Pulit WHR EU sex combined 316 SNPs clumped	C4C0yO	XXL-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.10693674546155	0.0323904543937823	0.000961729304544482
+Pulit WHR EU sex combined 316 SNPs clumped	C4C0yO	XXL-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.145811616897845	0.0855523748493921	0.0893365362869327
+Pulit WHR EU sex combined 316 SNPs clumped	Chgg91	S-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.455770563652971	0.114438298975242	8.5387926815336e-05
+Pulit WHR EU sex combined 316 SNPs clumped	Chgg91	S-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.111967898987491	0.0475016746656343	0.0184165094621564
+Pulit WHR EU sex combined 316 SNPs clumped	Chgg91	S-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.17037135618349	0.0407742650513162	2.93561732134065e-05
+Pulit WHR EU sex combined 316 SNPs clumped	Chgg91	S-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.131403349945297	0.107521313975097	0.222611095987554
+Pulit WHR EU sex combined 316 SNPs clumped	CLt0mW	XS-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.5446834678982	0.117442245813947	5.24214514007551e-06
+Pulit WHR EU sex combined 316 SNPs clumped	CLt0mW	XS-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.240217631784171	0.0454333592659988	1.24167349972846e-07
+Pulit WHR EU sex combined 316 SNPs clumped	CLt0mW	XS-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.247581556407709	0.0418585301909847	3.3243720980753e-09
+Pulit WHR EU sex combined 316 SNPs clumped	CLt0mW	XS-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.298211775610401	0.090052157711068	0.0010396912118726
+Pulit WHR EU sex combined 316 SNPs clumped	CzYLMP	IDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0986284317128351	0.0993829180478769	0.32179024378641
+Pulit WHR EU sex combined 316 SNPs clumped	CzYLMP	IDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0325723171157854	0.0489032750591825	0.505375341722385
+Pulit WHR EU sex combined 316 SNPs clumped	CzYLMP	IDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0350077558649628	0.0350277712152534	0.317587117670411
+Pulit WHR EU sex combined 316 SNPs clumped	CzYLMP	IDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0413661391530615	0.0937084011525914	0.659212141731192
+Pulit WHR EU sex combined 316 SNPs clumped	D7rHjX	SFAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.21304836065885	0.0896528657002173	0.018105181468188
+Pulit WHR EU sex combined 316 SNPs clumped	D7rHjX	SFAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.000758345108707089	0.0470255073196649	0.987133671403376
+Pulit WHR EU sex combined 316 SNPs clumped	D7rHjX	SFAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.006661197494636	0.0318972268032775	0.834578512811211
+Pulit WHR EU sex combined 316 SNPs clumped	D7rHjX	SFAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.00684575079532523	0.0867381579233438	0.937144738531166
+Pulit WHR EU sex combined 316 SNPs clumped	danLV5	XXL-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.357306894356255	0.104268777203458	0.00069517690935663
+Pulit WHR EU sex combined 316 SNPs clumped	danLV5	XXL-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.226951275820121	0.0529469462940719	1.81599833086449e-05
+Pulit WHR EU sex combined 316 SNPs clumped	danLV5	XXL-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.182449854110334	0.0369495444586262	7.90044951675703e-07
+Pulit WHR EU sex combined 316 SNPs clumped	danLV5	XXL-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.301408324786858	0.100184919753041	0.00284477625282522
+Pulit WHR EU sex combined 316 SNPs clumped	DBmkPU	Glc.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.211489793335325	0.106186221118543	0.0473027545444315
+Pulit WHR EU sex combined 316 SNPs clumped	DBmkPU	Glc.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.131930342399316	0.0584579566648013	0.0240179807613519
+Pulit WHR EU sex combined 316 SNPs clumped	DBmkPU	Glc.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0955964723771151	0.0374701415774647	0.0107330940971854
+Pulit WHR EU sex combined 316 SNPs clumped	DBmkPU	Glc.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.23088890494149	0.107907319203952	0.033175305523189
+Pulit WHR EU sex combined 316 SNPs clumped	dCPB4O	SM.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.271523619330145	0.106220871749453	0.0110693676213616
+Pulit WHR EU sex combined 316 SNPs clumped	dCPB4O	SM.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0868575927965413	0.0494713146400655	0.0791368645981596
+Pulit WHR EU sex combined 316 SNPs clumped	dCPB4O	SM.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0649444564628745	0.0376863911000321	0.0848366921349792
+Pulit WHR EU sex combined 316 SNPs clumped	dCPB4O	SM.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.180805086487152	0.111586439918957	0.106201610962605
+Pulit WHR EU sex combined 316 SNPs clumped	dDkuiA	XS-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.257588436644791	0.103966399383184	0.0137714675314439
+Pulit WHR EU sex combined 316 SNPs clumped	dDkuiA	XS-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.165144976106338	0.0540618620462419	0.00225255100383497
+Pulit WHR EU sex combined 316 SNPs clumped	dDkuiA	XS-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.169788399358403	0.0366648569547933	3.64218176086836e-06
+Pulit WHR EU sex combined 316 SNPs clumped	dDkuiA	XS-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.123651099790592	0.103311803868899	0.232288614786254
+Pulit WHR EU sex combined 316 SNPs clumped	dG6D5F	L-LDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.172985911438121	0.156749846936262	0.27065127620021
+Pulit WHR EU sex combined 316 SNPs clumped	dG6D5F	L-LDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.166293619055826	0.0473774272647053	0.000448147624956711
+Pulit WHR EU sex combined 316 SNPs clumped	dG6D5F	L-LDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.108935404136692	0.0555503072209332	0.0498763944945832
+Pulit WHR EU sex combined 316 SNPs clumped	dG6D5F	L-LDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.086517329046131	0.0898488172269815	0.336352389371338
+Pulit WHR EU sex combined 316 SNPs clumped	Dgacxn	FALen.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.481207917396126	0.105093981291294	6.83471043478239e-06
+Pulit WHR EU sex combined 316 SNPs clumped	Dgacxn	FALen.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.285733385379192	0.049576820549438	8.24130652607331e-09
+Pulit WHR EU sex combined 316 SNPs clumped	Dgacxn	FALen.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.241914622950696	0.037384044453045	9.73138458342983e-11
+Pulit WHR EU sex combined 316 SNPs clumped	Dgacxn	FALen.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.32333495766671	0.0880131363735931	0.000282418824657767
+Pulit WHR EU sex combined 316 SNPs clumped	DT5JTb	S-LDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.438218906927481	0.142927283874959	0.00236472343328502
+Pulit WHR EU sex combined 316 SNPs clumped	DT5JTb	S-LDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.104245780790499	0.049853949831038	0.0365259572194886
+Pulit WHR EU sex combined 316 SNPs clumped	DT5JTb	S-LDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.136856178885107	0.0507432113805852	0.00699600749895224
+Pulit WHR EU sex combined 316 SNPs clumped	DT5JTb	S-LDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.119706708749353	0.0853566503321197	0.161807288343406
+Pulit WHR EU sex combined 316 SNPs clumped	dxk7D6	L-LDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.40064800416331	0.135901973334411	0.00344633757507931
+Pulit WHR EU sex combined 316 SNPs clumped	dxk7D6	L-LDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.449023774831932	0.0516352223732998	3.43560916047254e-18
+Pulit WHR EU sex combined 316 SNPs clumped	dxk7D6	L-LDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.374858076198989	0.0478701385774504	4.85049680228647e-15
+Pulit WHR EU sex combined 316 SNPs clumped	dxk7D6	L-LDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.513896738568944	0.0955110506311534	1.48570880830182e-07
+Pulit WHR EU sex combined 316 SNPs clumped	dyqh9F	PUFAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.4350607874993	0.10572141196314	4.99183692137731e-05
+Pulit WHR EU sex combined 316 SNPs clumped	dyqh9F	PUFAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.330110338507041	0.052426042214946	3.04075894074211e-10
+Pulit WHR EU sex combined 316 SNPs clumped	dyqh9F	PUFAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.316919025581675	0.0373328213734322	2.08388865868195e-17
+Pulit WHR EU sex combined 316 SNPs clumped	dyqh9F	PUFAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.354566053640514	0.102768215116408	0.000639515160356405
+Pulit WHR EU sex combined 316 SNPs clumped	Dyzk3a	L-LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.421164045314736	0.108970140639367	0.000135957839842184
+Pulit WHR EU sex combined 316 SNPs clumped	Dyzk3a	L-LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.155385188431812	0.0504299992814326	0.00206164344846444
+Pulit WHR EU sex combined 316 SNPs clumped	Dyzk3a	L-LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.224067993285717	0.038615856687016	6.53385938128183e-09
+Pulit WHR EU sex combined 316 SNPs clumped	Dyzk3a	L-LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0743197217254497	0.0939080424373088	0.429322076483335
+Pulit WHR EU sex combined 316 SNPs clumped	e0Yxhd	XL-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0691539497566856	0.110386018930731	0.531475893824105
+Pulit WHR EU sex combined 316 SNPs clumped	e0Yxhd	XL-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0916389111033531	0.0543064654868006	0.0915187461067596
+Pulit WHR EU sex combined 316 SNPs clumped	e0Yxhd	XL-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0793127581914875	0.039094066501486	0.0424820118754438
+Pulit WHR EU sex combined 316 SNPs clumped	e0Yxhd	XL-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.061240717463944	0.0948812372224199	0.51912503394632
+Pulit WHR EU sex combined 316 SNPs clumped	E2NwtE	Ile.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.398206060331735	0.0909944097065843	1.66422954032561e-05
+Pulit WHR EU sex combined 316 SNPs clumped	E2NwtE	Ile.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.285325157365242	0.0507712896641918	1.91164175840328e-08
+Pulit WHR EU sex combined 316 SNPs clumped	E2NwtE	Ile.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.255056143942635	0.0321979299196137	2.34648065342083e-15
+Pulit WHR EU sex combined 316 SNPs clumped	E2NwtE	Ile.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.284012532347087	0.0870221754824436	0.00122510595141356
+Pulit WHR EU sex combined 316 SNPs clumped	E7jxMh	L-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.222491765677991	0.0963572330053724	0.0216144830719334
+Pulit WHR EU sex combined 316 SNPs clumped	E7jxMh	L-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0134269597998885	0.0533519021170056	0.801297790412673
+Pulit WHR EU sex combined 316 SNPs clumped	E7jxMh	L-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0878180003162288	0.0341076326307929	0.0100317892742104
+Pulit WHR EU sex combined 316 SNPs clumped	E7jxMh	L-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0799692763771422	0.101659603465686	0.432106767973216
+Pulit WHR EU sex combined 316 SNPs clumped	e9c5gC	M-LDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.4013849152798	0.147792169827088	0.00698962295084708
+Pulit WHR EU sex combined 316 SNPs clumped	e9c5gC	M-LDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0534035569537508	0.0474128899430235	0.260016970078215
+Pulit WHR EU sex combined 316 SNPs clumped	e9c5gC	M-LDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0802300358365475	0.0525108723586733	0.12654363912791
+Pulit WHR EU sex combined 316 SNPs clumped	e9c5gC	M-LDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.116612275409551	0.091765535315689	0.204784443444475
+Pulit WHR EU sex combined 316 SNPs clumped	eO8AR6	S-LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.403592556933901	0.147192414140952	0.00647093330607406
+Pulit WHR EU sex combined 316 SNPs clumped	eO8AR6	S-LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0750247067147741	0.0477938606205478	0.116471852276709
+Pulit WHR EU sex combined 316 SNPs clumped	eO8AR6	S-LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0939839864258533	0.0522582326264813	0.072105216446248
+Pulit WHR EU sex combined 316 SNPs clumped	eO8AR6	S-LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0866166620893294	0.0869044024055238	0.319708155022063
+Pulit WHR EU sex combined 316 SNPs clumped	eP3taF	XL-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.293808288979279	0.125901702291638	0.0202688041682902
+Pulit WHR EU sex combined 316 SNPs clumped	eP3taF	XL-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.41398260628572	0.0492722727017094	4.39167736855464e-17
+Pulit WHR EU sex combined 316 SNPs clumped	eP3taF	XL-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.32193214499133	0.0443511810862892	3.90813420294523e-13
+Pulit WHR EU sex combined 316 SNPs clumped	eP3taF	XL-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.481369194075675	0.0942253648002146	5.739267248123e-07
+Pulit WHR EU sex combined 316 SNPs clumped	eYioMM	IDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.475254125056946	0.117126573661024	6.31369502246701e-05
+Pulit WHR EU sex combined 316 SNPs clumped	eYioMM	IDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.196558998862188	0.0521349546583035	0.000163119373096314
+Pulit WHR EU sex combined 316 SNPs clumped	eYioMM	IDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.267000260886872	0.0414955098310598	1.23931491012167e-10
+Pulit WHR EU sex combined 316 SNPs clumped	eYioMM	IDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.120913449565189	0.0872432777329461	0.166782759384186
+Pulit WHR EU sex combined 316 SNPs clumped	EyoyP0	IDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.36367210409932	0.112335253025368	0.0013400597449128
+Pulit WHR EU sex combined 316 SNPs clumped	EyoyP0	IDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.110845100189211	0.0502905664013866	0.0275177836280074
+Pulit WHR EU sex combined 316 SNPs clumped	EyoyP0	IDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.18567653439811	0.0397500236375661	2.99583733022836e-06
+Pulit WHR EU sex combined 316 SNPs clumped	EyoyP0	IDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.051180505510489	0.090967897625878	0.574107224357199
+Pulit WHR EU sex combined 316 SNPs clumped	Ez1ACd	M-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.417425157725199	0.113797557568511	0.000288531071109164
+Pulit WHR EU sex combined 316 SNPs clumped	Ez1ACd	M-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.202992554619416	0.0489501617024735	3.36973228962133e-05
+Pulit WHR EU sex combined 316 SNPs clumped	Ez1ACd	M-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.175608586830398	0.0404212837081894	1.39619677120508e-05
+Pulit WHR EU sex combined 316 SNPs clumped	Ez1ACd	M-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.258610822709807	0.0880097197002619	0.00355128225627031
+Pulit WHR EU sex combined 316 SNPs clumped	F47UUG	S-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.534594388399874	0.120180850977451	1.21712627982648e-05
+Pulit WHR EU sex combined 316 SNPs clumped	F47UUG	S-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.216023868552227	0.049738166046846	1.40408486844943e-05
+Pulit WHR EU sex combined 316 SNPs clumped	F47UUG	S-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.241951044664007	0.0427982047508651	1.57397224370532e-08
+Pulit WHR EU sex combined 316 SNPs clumped	F47UUG	S-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.181095086216703	0.11530650664985	0.117326510574169
+Pulit WHR EU sex combined 316 SNPs clumped	FAr3Ys	S-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.485815730632211	0.127269144380004	0.000163642159722042
+Pulit WHR EU sex combined 316 SNPs clumped	FAr3Ys	S-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.138068233803832	0.0459468029470888	0.00265617130915574
+Pulit WHR EU sex combined 316 SNPs clumped	FAr3Ys	S-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.131198404813847	0.0454720821673507	0.00391100771083258
+Pulit WHR EU sex combined 316 SNPs clumped	FAr3Ys	S-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.256219418629813	0.0953807038699612	0.00762245644403319
+Pulit WHR EU sex combined 316 SNPs clumped	fInDrh	DAGbyTG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.259129160920649	0.0859693195856442	0.002794270019722
+Pulit WHR EU sex combined 316 SNPs clumped	fInDrh	DAGbyTG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.18512719629035	0.0514772829440214	0.000322788939756529
+Pulit WHR EU sex combined 316 SNPs clumped	fInDrh	DAGbyTG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.185953101868961	0.0303280900240243	8.71190014572113e-10
+Pulit WHR EU sex combined 316 SNPs clumped	fInDrh	DAGbyTG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.243889614736086	0.092272593736474	0.00863981475975659
+Pulit WHR EU sex combined 316 SNPs clumped	FMTUfX	TotPG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0827611394134595	0.0945758029037031	0.382224960394021
+Pulit WHR EU sex combined 316 SNPs clumped	FMTUfX	TotPG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0632368323819677	0.0472197306629529	0.180504407090003
+Pulit WHR EU sex combined 316 SNPs clumped	FMTUfX	TotPG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.00359934509865801	0.0333621312914763	0.914085214342854
+Pulit WHR EU sex combined 316 SNPs clumped	FMTUfX	TotPG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0663380085805612	0.0820306347964509	0.419321317393321
+Pulit WHR EU sex combined 316 SNPs clumped	fYAsy8	XXL-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.357306894356255	0.104268777203458	0.00069517690935663
+Pulit WHR EU sex combined 316 SNPs clumped	fYAsy8	XXL-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.226951275820121	0.0483852282683544	2.72528245895008e-06
+Pulit WHR EU sex combined 316 SNPs clumped	fYAsy8	XXL-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.182449854110334	0.0369495444586262	7.90044951675703e-07
+Pulit WHR EU sex combined 316 SNPs clumped	fYAsy8	XXL-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.301408324786858	0.108562964665859	0.00583841059042867
+Pulit WHR EU sex combined 316 SNPs clumped	ghEMxr	M-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.247874626349873	0.118872353786257	0.0378863755226485
+Pulit WHR EU sex combined 316 SNPs clumped	ghEMxr	M-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.253169509455581	0.0483992026829619	1.68722197758892e-07
+Pulit WHR EU sex combined 316 SNPs clumped	ghEMxr	M-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.240206785867217	0.0418687467907528	9.62896941497082e-09
+Pulit WHR EU sex combined 316 SNPs clumped	ghEMxr	M-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.288514529617714	0.0916444322087462	0.00180594388740043
+Pulit WHR EU sex combined 316 SNPs clumped	gHXB4V	M-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.268744947644216	0.120338378481895	0.0262628159973998
+Pulit WHR EU sex combined 316 SNPs clumped	gHXB4V	M-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.284925807524113	0.0489689322595672	5.93775145889936e-09
+Pulit WHR EU sex combined 316 SNPs clumped	gHXB4V	M-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.252147663296934	0.0423844770011788	2.69691962005462e-09
+Pulit WHR EU sex combined 316 SNPs clumped	gHXB4V	M-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.326323105407859	0.0874420416568912	0.000226784741685173
+Pulit WHR EU sex combined 316 SNPs clumped	gHy68e	IDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.643981415896604	0.12097700220863	1.98869696323616e-07
+Pulit WHR EU sex combined 316 SNPs clumped	gHy68e	IDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.373112111968776	0.0490846001524152	2.92924152754382e-14
+Pulit WHR EU sex combined 316 SNPs clumped	gHy68e	IDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.383418147185682	0.0429803885611663	4.63058698221771e-19
+Pulit WHR EU sex combined 316 SNPs clumped	gHy68e	IDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.396190640578771	0.1040567730632	0.00016983812568859
+Pulit WHR EU sex combined 316 SNPs clumped	gK82XT	S-LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.418362250846781	0.110225898680043	0.000177945488660044
+Pulit WHR EU sex combined 316 SNPs clumped	gK82XT	S-LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.215574788812448	0.0520518901038549	3.44987361831142e-05
+Pulit WHR EU sex combined 316 SNPs clumped	gK82XT	S-LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.281468284070414	0.0389198947695066	4.75967769675107e-13
+Pulit WHR EU sex combined 316 SNPs clumped	gK82XT	S-LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.169452238892327	0.0944277837526288	0.0737241538247019
+Pulit WHR EU sex combined 316 SNPs clumped	gL2Uzd	S-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.251092750127628	0.123892044975283	0.0435680064025445
+Pulit WHR EU sex combined 316 SNPs clumped	gL2Uzd	S-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.309777626601899	0.0504338202777234	8.13556510447595e-10
+Pulit WHR EU sex combined 316 SNPs clumped	gL2Uzd	S-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.233019073937864	0.0436372397219001	9.29910754055349e-08
+Pulit WHR EU sex combined 316 SNPs clumped	gL2Uzd	S-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.385749901832645	0.0931102979401079	4.44892780721002e-05
+Pulit WHR EU sex combined 316 SNPs clumped	gqC7aF	M-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.45360165065803	0.116968204972486	0.000129200837670513
+Pulit WHR EU sex combined 316 SNPs clumped	gqC7aF	M-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.222178048068318	0.0505212262616871	1.09395564740285e-05
+Pulit WHR EU sex combined 316 SNPs clumped	gqC7aF	M-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.247200788770888	0.041435639113999	2.43292517168617e-09
+Pulit WHR EU sex combined 316 SNPs clumped	gqC7aF	M-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.286191942185881	0.100949609175306	0.00488967578405934
+Pulit WHR EU sex combined 316 SNPs clumped	GSF6lt	S-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.357649512131118	0.138627531139094	0.0103528217101528
+Pulit WHR EU sex combined 316 SNPs clumped	GSF6lt	S-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0180901060866393	0.0459076466059564	0.693540941483973
+Pulit WHR EU sex combined 316 SNPs clumped	GSF6lt	S-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0318429014260024	0.0493299156005693	0.518597428062872
+Pulit WHR EU sex combined 316 SNPs clumped	GSF6lt	S-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.109615050317904	0.0831760376243059	0.188540015147651
+Pulit WHR EU sex combined 316 SNPs clumped	GZjw35	Lac.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0458585476159307	0.0996589458161813	0.645735106860374
+Pulit WHR EU sex combined 316 SNPs clumped	GZjw35	Lac.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.014676460881856	0.0568158218780117	0.7961626989098
+Pulit WHR EU sex combined 316 SNPs clumped	GZjw35	Lac.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0540387966532575	0.0342275021384287	0.114379148129476
+Pulit WHR EU sex combined 316 SNPs clumped	GZjw35	Lac.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.083676912869636	0.109392561860437	0.444910641310368
+Pulit WHR EU sex combined 316 SNPs clumped	h1z0R1	XXL-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.0313481465909397	0.0868467814023241	0.718381463911471
+Pulit WHR EU sex combined 316 SNPs clumped	h1z0R1	XXL-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.00806202704365404	0.0506107511136189	0.873436655319653
+Pulit WHR EU sex combined 316 SNPs clumped	h1z0R1	XXL-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0452800507023086	0.0306115391220941	0.139091565168996
+Pulit WHR EU sex combined 316 SNPs clumped	h1z0R1	XXL-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0124396677611425	0.0854528374173019	0.88435457149326
+Pulit WHR EU sex combined 316 SNPs clumped	hEkv17	L-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.010568547616524	0.117659244128567	0.928486936500674
+Pulit WHR EU sex combined 316 SNPs clumped	hEkv17	L-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0995324284382954	0.0466170137595182	0.032752067707282
+Pulit WHR EU sex combined 316 SNPs clumped	hEkv17	L-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.116974977878981	0.0415962742297293	0.00492114917916094
+Pulit WHR EU sex combined 316 SNPs clumped	hEkv17	L-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0703500899155287	0.0918550356202886	0.444340945666274
+Pulit WHR EU sex combined 316 SNPs clumped	hIkbTT	S-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.427156232403534	0.138952515923438	0.0023034365063595
+Pulit WHR EU sex combined 316 SNPs clumped	hIkbTT	S-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.481012396953804	0.0488726166707684	7.40982283527723e-23
+Pulit WHR EU sex combined 316 SNPs clumped	hIkbTT	S-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.369440427330591	0.0489568681305069	4.47993545615163e-14
+Pulit WHR EU sex combined 316 SNPs clumped	hIkbTT	S-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.537239678555464	0.0970970410954915	6.79788312148522e-08
+Pulit WHR EU sex combined 316 SNPs clumped	hOKtCR	S-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.132214524581403	0.0931716542015027	0.156914511316162
+Pulit WHR EU sex combined 316 SNPs clumped	hOKtCR	S-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.149277150913436	0.0481285986698828	0.00192457732757333
+Pulit WHR EU sex combined 316 SNPs clumped	hOKtCR	S-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.103269155530021	0.0328207687754156	0.00165261252316273
+Pulit WHR EU sex combined 316 SNPs clumped	hOKtCR	S-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.163871910250371	0.076479349851799	0.0329314670282638
+Pulit WHR EU sex combined 316 SNPs clumped	HQZjLn	DHA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0471306962974841	0.0920564373786583	0.609040677203357
+Pulit WHR EU sex combined 316 SNPs clumped	HQZjLn	DHA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0208116397557297	0.0469756307999311	0.657743634531955
+Pulit WHR EU sex combined 316 SNPs clumped	HQZjLn	DHA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0222146956090644	0.0324370056690337	0.493434450108492
+Pulit WHR EU sex combined 316 SNPs clumped	HQZjLn	DHA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0141786915940316	0.105163890209767	0.892839685745389
+Pulit WHR EU sex combined 316 SNPs clumped	hUsSMY	L-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.0294239584376489	0.10669900099463	0.782915764414995
+Pulit WHR EU sex combined 316 SNPs clumped	hUsSMY	L-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.229488581872874	0.0468110519384644	9.46513846041722e-07
+Pulit WHR EU sex combined 316 SNPs clumped	hUsSMY	L-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.22286096378815	0.0378014247761571	3.7338910120135e-09
+Pulit WHR EU sex combined 316 SNPs clumped	hUsSMY	L-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.1240047428589	0.0947517297230193	0.191613202236666
+Pulit WHR EU sex combined 316 SNPs clumped	hZrEOi	XL-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.293808288979279	0.125901702291638	0.0202688041682902
+Pulit WHR EU sex combined 316 SNPs clumped	hZrEOi	XL-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.41398260628572	0.0485374729881084	1.47447442774671e-17
+Pulit WHR EU sex combined 316 SNPs clumped	hZrEOi	XL-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.32193214499133	0.0443511810862892	3.90813420294523e-13
+Pulit WHR EU sex combined 316 SNPs clumped	hZrEOi	XL-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.481369194075675	0.0905369853639446	2.04894310124628e-07
+Pulit WHR EU sex combined 316 SNPs clumped	I2lmOP	MUFAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.32420644014581	0.109736377816466	0.00337821881476067
+Pulit WHR EU sex combined 316 SNPs clumped	I2lmOP	MUFAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.35453055687383	0.0516455802660356	6.66388838015453e-12
+Pulit WHR EU sex combined 316 SNPs clumped	I2lmOP	MUFAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.32587706863863	0.038663062526621	3.49703039848252e-17
+Pulit WHR EU sex combined 316 SNPs clumped	I2lmOP	MUFAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.385572883615318	0.109356290039551	0.0004871716372048
+Pulit WHR EU sex combined 316 SNPs clumped	IBgMRE	L-LDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.40064800416331	0.135901973334411	0.00344633757507931
+Pulit WHR EU sex combined 316 SNPs clumped	IBgMRE	L-LDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.449023774831932	0.0504837466858612	5.87238493584282e-19
+Pulit WHR EU sex combined 316 SNPs clumped	IBgMRE	L-LDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.374858076198989	0.0478701385774504	4.85049680228647e-15
+Pulit WHR EU sex combined 316 SNPs clumped	IBgMRE	L-LDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.513896738568944	0.0944588699249378	1.09488754999559e-07
+Pulit WHR EU sex combined 316 SNPs clumped	iBIe8a	L-LDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.421164045314736	0.108970140639367	0.000135957839842184
+Pulit WHR EU sex combined 316 SNPs clumped	iBIe8a	L-LDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.155385188431812	0.0540767716459562	0.00406056011841537
+Pulit WHR EU sex combined 316 SNPs clumped	iBIe8a	L-LDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.224067993285717	0.038615856687016	6.53385938128183e-09
+Pulit WHR EU sex combined 316 SNPs clumped	iBIe8a	L-LDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0743197217254497	0.0941620246959862	0.430566494147727
+Pulit WHR EU sex combined 316 SNPs clumped	iEo0jF	XL-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.407086014433068	0.120827976446325	0.000851574782653661
+Pulit WHR EU sex combined 316 SNPs clumped	iEo0jF	XL-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.358128415205869	0.0524592720210111	8.68358742717571e-12
+Pulit WHR EU sex combined 316 SNPs clumped	iEo0jF	XL-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.3108204786387	0.0426048972496115	2.97736151923532e-13
+Pulit WHR EU sex combined 316 SNPs clumped	iEo0jF	XL-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.335692095150478	0.106090043845947	0.00171241855413487
+Pulit WHR EU sex combined 316 SNPs clumped	IJG13f	FAw6.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.437659241719004	0.107220432509125	5.72044969414383e-05
+Pulit WHR EU sex combined 316 SNPs clumped	IJG13f	FAw6.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.303923692397751	0.0526706309301862	7.91452366351111e-09
+Pulit WHR EU sex combined 316 SNPs clumped	IJG13f	FAw6.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.335114840856035	0.037838627949131	8.26239711055572e-19
+Pulit WHR EU sex combined 316 SNPs clumped	IJG13f	FAw6.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.329887509883457	0.109352303631743	0.00277096329099367
+Pulit WHR EU sex combined 316 SNPs clumped	IjkdVY	LA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0321749329552556	0.0857557293446341	0.707779572857767
+Pulit WHR EU sex combined 316 SNPs clumped	IjkdVY	LA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0213660734062577	0.0528795988583565	0.686174957600707
+Pulit WHR EU sex combined 316 SNPs clumped	IjkdVY	LA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0237527426908311	0.0302221783274084	0.431904115146687
+Pulit WHR EU sex combined 316 SNPs clumped	IjkdVY	LA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0201771791657732	0.101269301977791	0.842206017933819
+Pulit WHR EU sex combined 316 SNPs clumped	IosDQi	Serum-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.5068153545368	0.136896257206068	0.000253888070054717
+Pulit WHR EU sex combined 316 SNPs clumped	IosDQi	Serum-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.42187890588841	0.0504625495018887	6.25920449962179e-17
+Pulit WHR EU sex combined 316 SNPs clumped	IosDQi	Serum-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.383491746326987	0.0482900725479506	1.99879661957915e-15
+Pulit WHR EU sex combined 316 SNPs clumped	IosDQi	Serum-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.479200516689002	0.104725770762201	6.92083515817578e-06
+Pulit WHR EU sex combined 316 SNPs clumped	IpHncv	XL-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.348560867752886	0.104841340346341	0.000994047568731379
+Pulit WHR EU sex combined 316 SNPs clumped	IpHncv	XL-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.193460197534468	0.0589260514762475	0.00102671755881054
+Pulit WHR EU sex combined 316 SNPs clumped	IpHncv	XL-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.20319779455677	0.0371382653109378	4.46528881495302e-08
+Pulit WHR EU sex combined 316 SNPs clumped	IpHncv	XL-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.169009829997943	0.103445309780514	0.103334216720718
+Pulit WHR EU sex combined 316 SNPs clumped	IRDYc5	M-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.466685241654927	0.109479362149702	2.69988948959655e-05
+Pulit WHR EU sex combined 316 SNPs clumped	IRDYc5	M-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.341737424361596	0.0450139000532388	3.15443147701081e-14
+Pulit WHR EU sex combined 316 SNPs clumped	IRDYc5	M-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.277890253723019	0.038775522451725	7.6860165849776e-13
+Pulit WHR EU sex combined 316 SNPs clumped	IRDYc5	M-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.460588502098207	0.11358693676448	6.37755099662603e-05
+Pulit WHR EU sex combined 316 SNPs clumped	J3BMPe	M-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.247874626349873	0.118872353786257	0.0378863755226485
+Pulit WHR EU sex combined 316 SNPs clumped	J3BMPe	M-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.253169509455581	0.0483048080234396	1.59636862130741e-07
+Pulit WHR EU sex combined 316 SNPs clumped	J3BMPe	M-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.240206785867217	0.0418687467907528	9.62896941497082e-09
+Pulit WHR EU sex combined 316 SNPs clumped	J3BMPe	M-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.288514529617714	0.093707815616411	0.00226744181348394
+Pulit WHR EU sex combined 316 SNPs clumped	J5sIje	S-LDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.403592556933901	0.147192414140952	0.00647093330607406
+Pulit WHR EU sex combined 316 SNPs clumped	J5sIje	S-LDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0750247067147741	0.0489233666908735	0.125149063765214
+Pulit WHR EU sex combined 316 SNPs clumped	J5sIje	S-LDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0939839864258533	0.0522582326264813	0.072105216446248
+Pulit WHR EU sex combined 316 SNPs clumped	J5sIje	S-LDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0866166620893294	0.0897503249284277	0.335269494577881
+Pulit WHR EU sex combined 316 SNPs clumped	J840KB	XL-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.269811585720506	0.123891976363157	0.0301922099457478
+Pulit WHR EU sex combined 316 SNPs clumped	J840KB	XL-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.380157836094515	0.047073327079501	6.69999574868348e-16
+Pulit WHR EU sex combined 316 SNPs clumped	J840KB	XL-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.283470226227899	0.0436412073089848	8.27736570427905e-11
+Pulit WHR EU sex combined 316 SNPs clumped	J840KB	XL-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.427312140425335	0.0828641955191356	4.536848284827e-07
+Pulit WHR EU sex combined 316 SNPs clumped	J8MTg7	XS-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.13131735612274	0.0964538358625519	0.174382115878128
+Pulit WHR EU sex combined 316 SNPs clumped	J8MTg7	XS-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0695935634181877	0.0509370120677905	0.171855145524765
+Pulit WHR EU sex combined 316 SNPs clumped	J8MTg7	XS-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0761510311414334	0.0339904105724675	0.0250670362587221
+Pulit WHR EU sex combined 316 SNPs clumped	J8MTg7	XS-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0341876205483995	0.106938574580704	0.749419900918346
+Pulit WHR EU sex combined 316 SNPs clumped	Jh0Exz	S-LDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.403592556933901	0.147192414140952	0.00647093330607406
+Pulit WHR EU sex combined 316 SNPs clumped	Jh0Exz	S-LDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0750247067147741	0.0463632345740601	0.105620801522895
+Pulit WHR EU sex combined 316 SNPs clumped	Jh0Exz	S-LDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0939839864258533	0.0522582326264813	0.072105216446248
+Pulit WHR EU sex combined 316 SNPs clumped	Jh0Exz	S-LDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0866166620893294	0.0858598347169761	0.313865793789413
+Pulit WHR EU sex combined 316 SNPs clumped	JkRXel	XS-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.347919456778775	0.0989598490179981	0.000505512350191296
+Pulit WHR EU sex combined 316 SNPs clumped	JkRXel	XS-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.297863675196197	0.0517941073051794	8.8760047184114e-09
+Pulit WHR EU sex combined 316 SNPs clumped	JkRXel	XS-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.265109998870361	0.03489821696604	3.03864134898296e-14
+Pulit WHR EU sex combined 316 SNPs clumped	JkRXel	XS-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.385224095972386	0.0887543620348865	1.93928721600157e-05
+Pulit WHR EU sex combined 316 SNPs clumped	Jnuhjv	M-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.401903320323987	0.128401359575701	0.00191807555667886
+Pulit WHR EU sex combined 316 SNPs clumped	Jnuhjv	M-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.382247129789106	0.0484957842095935	3.22003454148347e-15
+Pulit WHR EU sex combined 316 SNPs clumped	Jnuhjv	M-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.33836096181974	0.0452449016212794	7.52140745354669e-14
+Pulit WHR EU sex combined 316 SNPs clumped	Jnuhjv	M-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.426320180706325	0.102311516803707	4.02924138308189e-05
+Pulit WHR EU sex combined 316 SNPs clumped	JrTxIl	XL-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.293808288979279	0.125901702291638	0.0202688041682902
+Pulit WHR EU sex combined 316 SNPs clumped	JrTxIl	XL-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.41398260628572	0.0478509043084393	5.08221663234207e-18
+Pulit WHR EU sex combined 316 SNPs clumped	JrTxIl	XL-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.32193214499133	0.0443511810862892	3.90813420294523e-13
+Pulit WHR EU sex combined 316 SNPs clumped	JrTxIl	XL-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.481369194075675	0.0894760496543934	1.49045295067616e-07
+Pulit WHR EU sex combined 316 SNPs clumped	JRV3Nv	S-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.165708804119221	0.0924086063544489	0.0739352226421218
+Pulit WHR EU sex combined 316 SNPs clumped	JRV3Nv	S-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0937674044113669	0.0474727533756041	0.0482473151539174
+Pulit WHR EU sex combined 316 SNPs clumped	JRV3Nv	S-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.144385479358066	0.03254932921286	9.1689584858133e-06
+Pulit WHR EU sex combined 316 SNPs clumped	JRV3Nv	S-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0772898096568753	0.0943120356907344	0.413136595470267
+Pulit WHR EU sex combined 316 SNPs clumped	k1sIEr	M-LDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.369044918180891	0.144521389382988	0.0111521642104462
+Pulit WHR EU sex combined 316 SNPs clumped	k1sIEr	M-LDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0439899420158097	0.0510073327882605	0.38845430256638
+Pulit WHR EU sex combined 316 SNPs clumped	k1sIEr	M-LDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0813570059600462	0.0512667896643329	0.112527618299329
+Pulit WHR EU sex combined 316 SNPs clumped	k1sIEr	M-LDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0752036715181106	0.0788794822015786	0.341145064589822
+Pulit WHR EU sex combined 316 SNPs clumped	kF7bBy	TotFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.173431520608678	0.123123063837636	0.159977883908342
+Pulit WHR EU sex combined 316 SNPs clumped	kF7bBy	TotFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.251622994606896	0.0499167227270843	4.63454920172816e-07
+Pulit WHR EU sex combined 316 SNPs clumped	kF7bBy	TotFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.20153322335166	0.043382229598702	3.39213023437618e-06
+Pulit WHR EU sex combined 316 SNPs clumped	kF7bBy	TotFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.262758502585595	0.0875710002870935	0.00291834035210523
+Pulit WHR EU sex combined 316 SNPs clumped	kMsDfN	XL-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0604567316549715	0.0939697409143837	0.520474662345948
+Pulit WHR EU sex combined 316 SNPs clumped	kMsDfN	XL-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.045103907911848	0.0457088517747279	0.323757719346929
+Pulit WHR EU sex combined 316 SNPs clumped	kMsDfN	XL-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0885799289336738	0.0331071460197491	0.00746060418366865
+Pulit WHR EU sex combined 316 SNPs clumped	kMsDfN	XL-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0316228464589696	0.0825310226451277	0.701866594383545
+Pulit WHR EU sex combined 316 SNPs clumped	KmSDvC	XL-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.288677844992076	0.101489351428724	0.00475214433026025
+Pulit WHR EU sex combined 316 SNPs clumped	KmSDvC	XL-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.149895853089364	0.0520072800602286	0.00394897647228735
+Pulit WHR EU sex combined 316 SNPs clumped	KmSDvC	XL-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.20650715336716	0.0358653984232446	8.51980657588347e-09
+Pulit WHR EU sex combined 316 SNPs clumped	KmSDvC	XL-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.15379343106811	0.0996638475670168	0.123841578232151
+Pulit WHR EU sex combined 316 SNPs clumped	Ku6B09	Ala.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.0704685694900714	0.0846633221557302	0.405873253728403
+Pulit WHR EU sex combined 316 SNPs clumped	Ku6B09	Ala.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.066295822345571	0.0465764754205524	0.154627278887214
+Pulit WHR EU sex combined 316 SNPs clumped	Ku6B09	Ala.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0606174588280598	0.0298201961440245	0.0420762442859991
+Pulit WHR EU sex combined 316 SNPs clumped	Ku6B09	Ala.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0345651892310901	0.0847308910018129	0.683604276562959
+Pulit WHR EU sex combined 316 SNPs clumped	L1GT8q	L-LDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.19004597772012	0.148449577830898	0.201452054218356
+Pulit WHR EU sex combined 316 SNPs clumped	L1GT8q	L-LDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0749956014257138	0.0493185907029247	0.128351324902354
+Pulit WHR EU sex combined 316 SNPs clumped	L1GT8q	L-LDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0552804609120014	0.052556890403642	0.292881508690797
+Pulit WHR EU sex combined 316 SNPs clumped	L1GT8q	L-LDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.116213499013886	0.0842530009027968	0.168803917067239
+Pulit WHR EU sex combined 316 SNPs clumped	l4jHop	XS-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.098839838195931	0.131649545909468	0.453367755090519
+Pulit WHR EU sex combined 316 SNPs clumped	l4jHop	XS-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.252808071154998	0.0465835073509488	5.73134225760459e-08
+Pulit WHR EU sex combined 316 SNPs clumped	l4jHop	XS-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.207651715267255	0.0464291713506907	7.73318516860513e-06
+Pulit WHR EU sex combined 316 SNPs clumped	l4jHop	XS-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.260311275670539	0.0856729960071008	0.00258457898999734
+Pulit WHR EU sex combined 316 SNPs clumped	lFyPS8	Gln.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.202966731546748	0.0896380183869446	0.0242626634560696
+Pulit WHR EU sex combined 316 SNPs clumped	lFyPS8	Gln.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.165652744095737	0.044493173221279	0.000196787836082289
+Pulit WHR EU sex combined 316 SNPs clumped	lFyPS8	Gln.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.174320167607965	0.0315738339198094	3.37013165303098e-08
+Pulit WHR EU sex combined 316 SNPs clumped	lFyPS8	Gln.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.313794637449134	0.090216984184968	0.000578454007057178
+Pulit WHR EU sex combined 316 SNPs clumped	li3Zzo	M-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.0459942291278229	0.106573834654578	0.666359791478679
+Pulit WHR EU sex combined 316 SNPs clumped	li3Zzo	M-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.134783636461328	0.049070693992327	0.00601938271713002
+Pulit WHR EU sex combined 316 SNPs clumped	li3Zzo	M-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.107406111605478	0.0375600872133143	0.00424201076171875
+Pulit WHR EU sex combined 316 SNPs clumped	li3Zzo	M-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.128041124350421	0.0860281719781431	0.137691842231444
+Pulit WHR EU sex combined 316 SNPs clumped	liZb1b	M-LDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.32910039346118	0.103511955362607	0.00162876554644675
+Pulit WHR EU sex combined 316 SNPs clumped	liZb1b	M-LDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.105822652359157	0.0506417485879121	0.0366508093807311
+Pulit WHR EU sex combined 316 SNPs clumped	liZb1b	M-LDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.204517278022735	0.0365487308508731	2.19679845420392e-08
+Pulit WHR EU sex combined 316 SNPs clumped	liZb1b	M-LDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0627706144591436	0.0874208468896481	0.473291464766045
+Pulit WHR EU sex combined 316 SNPs clumped	LKGkfu	VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.353691841578094	0.105260920233602	0.000878743643867559
+Pulit WHR EU sex combined 316 SNPs clumped	LKGkfu	VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.216490141458223	0.053766396479464	5.66143762068494e-05
+Pulit WHR EU sex combined 316 SNPs clumped	LKGkfu	VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.240951321267278	0.0372105892733858	9.45969291560767e-11
+Pulit WHR EU sex combined 316 SNPs clumped	LKGkfu	VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.20145914789618	0.117367331835231	0.0870921409840357
+Pulit WHR EU sex combined 316 SNPs clumped	lp7a4r	XL-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0604567316549715	0.0939697409143837	0.520474662345948
+Pulit WHR EU sex combined 316 SNPs clumped	lp7a4r	XL-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.045103907911848	0.0454286086873829	0.320781838563883
+Pulit WHR EU sex combined 316 SNPs clumped	lp7a4r	XL-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0885799289336738	0.0331071460197491	0.00746060418366865
+Pulit WHR EU sex combined 316 SNPs clumped	lp7a4r	XL-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0316228464589696	0.0863538017296209	0.71446983161905
+Pulit WHR EU sex combined 316 SNPs clumped	lT0rfP	L-LDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.415217744476668	0.138886228333763	0.00302209303847694
+Pulit WHR EU sex combined 316 SNPs clumped	lT0rfP	L-LDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0855692843165907	0.0479369797676593	0.0742553095864865
+Pulit WHR EU sex combined 316 SNPs clumped	lT0rfP	L-LDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.120919525546834	0.049328645296837	0.0142339521723163
+Pulit WHR EU sex combined 316 SNPs clumped	lT0rfP	L-LDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0781621743532313	0.0859524205482583	0.36387756527435
+Pulit WHR EU sex combined 316 SNPs clumped	LtEauc	DHAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0471306962974841	0.0920564373786583	0.609040677203357
+Pulit WHR EU sex combined 316 SNPs clumped	LtEauc	DHAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0208116397557297	0.0462698568868543	0.652863102982726
+Pulit WHR EU sex combined 316 SNPs clumped	LtEauc	DHAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0222146956090644	0.0324370056690337	0.493434450108492
+Pulit WHR EU sex combined 316 SNPs clumped	LtEauc	DHAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0141786915940316	0.105566752844107	0.893246163926826
+Pulit WHR EU sex combined 316 SNPs clumped	luTQSm	S-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.251092750127628	0.123892044975283	0.0435680064025445
+Pulit WHR EU sex combined 316 SNPs clumped	luTQSm	S-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.309777626601899	0.0491840420844097	3.00857660738073e-10
+Pulit WHR EU sex combined 316 SNPs clumped	luTQSm	S-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.233019073937864	0.0436372397219001	9.29910754055349e-08
+Pulit WHR EU sex combined 316 SNPs clumped	luTQSm	S-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.385749901832645	0.0906907966914875	2.80543655341895e-05
+Pulit WHR EU sex combined 316 SNPs clumped	lyOOvg	XL-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.321713081456182	0.131975434410656	0.0153569354370816
+Pulit WHR EU sex combined 316 SNPs clumped	lyOOvg	XL-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.390832214479933	0.0484561876271824	7.28279779418538e-16
+Pulit WHR EU sex combined 316 SNPs clumped	lyOOvg	XL-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.316437969515533	0.0464885025470688	9.9793056400033e-12
+Pulit WHR EU sex combined 316 SNPs clumped	lyOOvg	XL-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.502366867127349	0.0923753232374591	1.10673929734009e-07
+Pulit WHR EU sex combined 316 SNPs clumped	MAwxBs	M-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.45360165065803	0.116968204972486	0.000129200837670513
+Pulit WHR EU sex combined 316 SNPs clumped	MAwxBs	M-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.222178048068318	0.0525020452252734	2.31830611670848e-05
+Pulit WHR EU sex combined 316 SNPs clumped	MAwxBs	M-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.247200788770888	0.041435639113999	2.43292517168617e-09
+Pulit WHR EU sex combined 316 SNPs clumped	MAwxBs	M-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.286191942185881	0.106411000853604	0.0075511557355661
+Pulit WHR EU sex combined 316 SNPs clumped	MlLhjD	CLAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0321749329552556	0.0857557293446341	0.707779572857767
+Pulit WHR EU sex combined 316 SNPs clumped	MlLhjD	CLAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0213660734062577	0.050414694378884	0.671706962886625
+Pulit WHR EU sex combined 316 SNPs clumped	MlLhjD	CLAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0237527426908311	0.0302221783274084	0.431904115146687
+Pulit WHR EU sex combined 316 SNPs clumped	MlLhjD	CLAbyFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0201771791657732	0.0884688187308591	0.819744307974836
+Pulit WHR EU sex combined 316 SNPs clumped	MRmF4B	GlycA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.294548013129819	0.106598156558533	0.00607456164133489
+Pulit WHR EU sex combined 316 SNPs clumped	MRmF4B	GlycA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.320700052233625	0.0501486220780662	1.60555442489284e-10
+Pulit WHR EU sex combined 316 SNPs clumped	MRmF4B	GlycA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.314220660071433	0.0375490103631001	5.8464970661861e-17
+Pulit WHR EU sex combined 316 SNPs clumped	MRmF4B	GlycA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.309230317928469	0.0975886616502133	0.00168701045063624
+Pulit WHR EU sex combined 316 SNPs clumped	NCeHHo	S-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.455770563652971	0.114438298975242	8.5387926815336e-05
+Pulit WHR EU sex combined 316 SNPs clumped	NCeHHo	S-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.111967898987491	0.0459926282916781	0.0149134142976782
+Pulit WHR EU sex combined 316 SNPs clumped	NCeHHo	S-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.17037135618349	0.0407742650513162	2.93561732134065e-05
+Pulit WHR EU sex combined 316 SNPs clumped	NCeHHo	S-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.131403349945297	0.112473155139951	0.243597715952884
+Pulit WHR EU sex combined 316 SNPs clumped	NfETcK	IDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.145551705291318	0.140936601724885	0.302546394028705
+Pulit WHR EU sex combined 316 SNPs clumped	NfETcK	IDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.104770231303231	0.0492244505306134	0.0333024003902674
+Pulit WHR EU sex combined 316 SNPs clumped	NfETcK	IDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0656526855894298	0.0498514204326088	0.187849619230941
+Pulit WHR EU sex combined 316 SNPs clumped	NfETcK	IDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.117022507967506	0.0933564036114603	0.210985965586706
+Pulit WHR EU sex combined 316 SNPs clumped	nhESq5	M-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.45360165065803	0.116968204972486	0.000129200837670513
+Pulit WHR EU sex combined 316 SNPs clumped	nhESq5	M-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.222178048068318	0.0509534544980738	1.29817856972095e-05
+Pulit WHR EU sex combined 316 SNPs clumped	nhESq5	M-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.247200788770888	0.041435639113999	2.43292517168617e-09
+Pulit WHR EU sex combined 316 SNPs clumped	nhESq5	M-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.286191942185881	0.109986151909551	0.00972003974176096
+Pulit WHR EU sex combined 316 SNPs clumped	Nj1DFr	XL-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.321713081456182	0.131975434410656	0.0153569354370816
+Pulit WHR EU sex combined 316 SNPs clumped	Nj1DFr	XL-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.390832214479933	0.0479724627050844	3.73027631710173e-16
+Pulit WHR EU sex combined 316 SNPs clumped	Nj1DFr	XL-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.316437969515533	0.0464885025470688	9.9793056400033e-12
+Pulit WHR EU sex combined 316 SNPs clumped	Nj1DFr	XL-HDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.502366867127349	0.081872153312501	2.63385956227025e-09
+Pulit WHR EU sex combined 316 SNPs clumped	NKKpFg	XL-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.321713081456182	0.131975434410656	0.0153569354370816
+Pulit WHR EU sex combined 316 SNPs clumped	NKKpFg	XL-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.390832214479933	0.0478058293127098	2.94863540425778e-16
+Pulit WHR EU sex combined 316 SNPs clumped	NKKpFg	XL-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.316437969515533	0.0464885025470688	9.9793056400033e-12
+Pulit WHR EU sex combined 316 SNPs clumped	NKKpFg	XL-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.502366867127349	0.0917248414823742	9.08182929771142e-08
+Pulit WHR EU sex combined 316 SNPs clumped	npo1Fd	M-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.240736640194802	0.10765024113746	0.0260607642667086
+Pulit WHR EU sex combined 316 SNPs clumped	npo1Fd	M-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.269589043969211	0.0494345041977353	4.93993278091802e-08
+Pulit WHR EU sex combined 316 SNPs clumped	npo1Fd	M-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.199347748664759	0.0379212815538344	1.46517284530192e-07
+Pulit WHR EU sex combined 316 SNPs clumped	npo1Fd	M-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.307604458105631	0.0851202740265161	0.000353048190645295
+Pulit WHR EU sex combined 316 SNPs clumped	NqWbru	Val.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.240581230038744	0.0871943195662963	0.00614797279376928
+Pulit WHR EU sex combined 316 SNPs clumped	NqWbru	Val.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.167268967563516	0.0503618290565767	0.000895849908506822
+Pulit WHR EU sex combined 316 SNPs clumped	NqWbru	Val.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.174064982718657	0.0307601466414681	1.52450518388735e-08
+Pulit WHR EU sex combined 316 SNPs clumped	NqWbru	Val.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.183077916152332	0.0951714920957906	0.0553303889949907
+Pulit WHR EU sex combined 316 SNPs clumped	NRSdhb	S-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.451476233006464	0.114048355955862	9.39801398014617e-05
+Pulit WHR EU sex combined 316 SNPs clumped	NRSdhb	S-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.113816345310056	0.0477242736927428	0.0170850051286292
+Pulit WHR EU sex combined 316 SNPs clumped	NRSdhb	S-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.178544437453628	0.0405988073164954	1.09366049659698e-05
+Pulit WHR EU sex combined 316 SNPs clumped	NRSdhb	S-VLDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0500879911659124	0.111073723995762	0.652351636509133
+Pulit WHR EU sex combined 316 SNPs clumped	O4Ajyu	M-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.0459942291278229	0.106573834654578	0.666359791478679
+Pulit WHR EU sex combined 316 SNPs clumped	O4Ajyu	M-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.134783636461328	0.0495617049029919	0.00653783816279264
+Pulit WHR EU sex combined 316 SNPs clumped	O4Ajyu	M-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.107406111605478	0.0375600872133143	0.00424201076171875
+Pulit WHR EU sex combined 316 SNPs clumped	O4Ajyu	M-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.128041124350421	0.0824400877327713	0.12142973673305
+Pulit WHR EU sex combined 316 SNPs clumped	o84wfH	XXL-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.528552747634105	0.105401586412215	9.06056676060652e-07
+Pulit WHR EU sex combined 316 SNPs clumped	o84wfH	XXL-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.28879156778793	0.0501241687035519	8.33581342506725e-09
+Pulit WHR EU sex combined 316 SNPs clumped	o84wfH	XXL-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.247633311766019	0.0376446397610959	4.76233381367113e-11
+Pulit WHR EU sex combined 316 SNPs clumped	o84wfH	XXL-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.428719513691853	0.110696020473178	0.000131691545578869
+Pulit WHR EU sex combined 316 SNPs clumped	oAIoZw	L-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.054795341031757	0.114969191854285	0.633984161219961
+Pulit WHR EU sex combined 316 SNPs clumped	oAIoZw	L-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.186420740687244	0.0467414537167229	6.65376689064101e-05
+Pulit WHR EU sex combined 316 SNPs clumped	oAIoZw	L-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.205032193973413	0.0406112504305095	4.44931318004726e-07
+Pulit WHR EU sex combined 316 SNPs clumped	oAIoZw	L-HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.142204959355065	0.0959010588661869	0.139155522454876
+Pulit WHR EU sex combined 316 SNPs clumped	oCUurn	L-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.0294239584376489	0.10669900099463	0.782915764414995
+Pulit WHR EU sex combined 316 SNPs clumped	oCUurn	L-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.229488581872874	0.0457759351394829	5.35038532766306e-07
+Pulit WHR EU sex combined 316 SNPs clumped	oCUurn	L-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.22286096378815	0.0378014247761571	3.7338910120135e-09
+Pulit WHR EU sex combined 316 SNPs clumped	oCUurn	L-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.1240047428589	0.106545918090122	0.245392580751377
+Pulit WHR EU sex combined 316 SNPs clumped	oJ5Hti	M-LDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.369044918180891	0.144521389382988	0.0111521642104462
+Pulit WHR EU sex combined 316 SNPs clumped	oJ5Hti	M-LDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0439899420158097	0.050138145743244	0.380283134830987
+Pulit WHR EU sex combined 316 SNPs clumped	oJ5Hti	M-LDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0813570059600462	0.0512667896643329	0.112527618299329
+Pulit WHR EU sex combined 316 SNPs clumped	oJ5Hti	M-LDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0752036715181106	0.0810176737086173	0.354020612939034
+Pulit WHR EU sex combined 316 SNPs clumped	ONMzHe	XL-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0691539497566856	0.110386018930731	0.531475893824105
+Pulit WHR EU sex combined 316 SNPs clumped	ONMzHe	XL-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0916389111033531	0.053904838209424	0.0891285312672378
+Pulit WHR EU sex combined 316 SNPs clumped	ONMzHe	XL-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0793127581914875	0.039094066501486	0.0424820118754438
+Pulit WHR EU sex combined 316 SNPs clumped	ONMzHe	XL-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.061240717463944	0.0974468445182189	0.530179396219353
+Pulit WHR EU sex combined 316 SNPs clumped	opvIIv	L-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.0294239584376489	0.10669900099463	0.782915764414995
+Pulit WHR EU sex combined 316 SNPs clumped	opvIIv	L-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.229488581872874	0.0455399141243927	4.6727552174822e-07
+Pulit WHR EU sex combined 316 SNPs clumped	opvIIv	L-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.22286096378815	0.0378014247761571	3.7338910120135e-09
+Pulit WHR EU sex combined 316 SNPs clumped	opvIIv	L-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.1240047428589	0.0928435755999883	0.182669066179795
+Pulit WHR EU sex combined 316 SNPs clumped	Ov4EoT	Pyr.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.125224099259575	0.102048290355316	0.220735221467415
+Pulit WHR EU sex combined 316 SNPs clumped	Ov4EoT	Pyr.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0562579433262275	0.0614176071671861	0.359671889343911
+Pulit WHR EU sex combined 316 SNPs clumped	Ov4EoT	Pyr.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0210124098881748	0.035992904613219	0.559359511238301
+Pulit WHR EU sex combined 316 SNPs clumped	Ov4EoT	Pyr.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.082056203231391	0.113713410061481	0.471091790457724
+Pulit WHR EU sex combined 316 SNPs clumped	OX2F0a	HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.358748989015061	0.102138345284214	0.000511730230661289
+Pulit WHR EU sex combined 316 SNPs clumped	OX2F0a	HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.22668324191252	0.0486233431268812	3.13113122410829e-06
+Pulit WHR EU sex combined 316 SNPs clumped	OX2F0a	HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.218407947145048	0.0361013707654665	1.44979034909894e-09
+Pulit WHR EU sex combined 316 SNPs clumped	OX2F0a	HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.206298386895787	0.0906991375791745	0.0236303176510023
+Pulit WHR EU sex combined 316 SNPs clumped	p2kPzT	XL-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.225371466467437	0.107822161324273	0.037431842560202
+Pulit WHR EU sex combined 316 SNPs clumped	p2kPzT	XL-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0653113787705605	0.0525291495738269	0.213744071135891
+Pulit WHR EU sex combined 316 SNPs clumped	p2kPzT	XL-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.070795610401246	0.0382025769056981	0.0638589677521971
+Pulit WHR EU sex combined 316 SNPs clumped	p2kPzT	XL-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0401822285053068	0.0993485623173371	0.686161053522236
+Pulit WHR EU sex combined 316 SNPs clumped	p4Yz8l	FAw3byFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0454204581569521	0.0904188369705936	0.615797447068826
+Pulit WHR EU sex combined 316 SNPs clumped	p4Yz8l	FAw3byFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0821013455872866	0.043793900995628	0.0608311171967919
+Pulit WHR EU sex combined 316 SNPs clumped	p4Yz8l	FAw3byFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0170714125521844	0.0318607692980296	0.592087836332849
+Pulit WHR EU sex combined 316 SNPs clumped	p4Yz8l	FAw3byFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.187869548321831	0.103432249451958	0.0703009421210577
+Pulit WHR EU sex combined 316 SNPs clumped	PCppOO	HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.33482931562073	0.129160448851759	0.00999432933819946
+Pulit WHR EU sex combined 316 SNPs clumped	PCppOO	HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.299745614181693	0.0475202744927719	2.83136324864832e-10
+Pulit WHR EU sex combined 316 SNPs clumped	PCppOO	HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.282269697523496	0.0455028212304399	5.52754878080838e-10
+Pulit WHR EU sex combined 316 SNPs clumped	PCppOO	HDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.366681143773656	0.0965544128308043	0.000176363076741998
+Pulit WHR EU sex combined 316 SNPs clumped	Pekokl	XXL-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.233218541865961	0.0930508372311479	0.0127220511432911
+Pulit WHR EU sex combined 316 SNPs clumped	Pekokl	XXL-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0748284493314609	0.0487910916132768	0.125115822561918
+Pulit WHR EU sex combined 316 SNPs clumped	Pekokl	XXL-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0795705720338644	0.0329659635285834	0.0157906358094417
+Pulit WHR EU sex combined 316 SNPs clumped	Pekokl	XXL-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0810320318549893	0.0930721927541458	0.384639733418531
+Pulit WHR EU sex combined 316 SNPs clumped	Pfk7rk	L-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.010568547616524	0.117659244128567	0.928486936500674
+Pulit WHR EU sex combined 316 SNPs clumped	Pfk7rk	L-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0995324284382954	0.0459105534744842	0.0301614235764772
+Pulit WHR EU sex combined 316 SNPs clumped	Pfk7rk	L-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.116974977878981	0.0415962742297293	0.00492114917916094
+Pulit WHR EU sex combined 316 SNPs clumped	Pfk7rk	L-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0703500899155287	0.090975887440102	0.43995588589121
+Pulit WHR EU sex combined 316 SNPs clumped	pKsoiY	L-LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.267322715877312	0.145807622217041	0.0677249712608109
+Pulit WHR EU sex combined 316 SNPs clumped	pKsoiY	L-LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0291828882578921	0.0477112409131405	0.540765080912034
+Pulit WHR EU sex combined 316 SNPs clumped	pKsoiY	L-LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.00306861796087962	0.0516882335664532	0.952659140450168
+Pulit WHR EU sex combined 316 SNPs clumped	pKsoiY	L-LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0528518486009943	0.0807146516865434	0.513092491504897
+Pulit WHR EU sex combined 316 SNPs clumped	pPut2m	XXL-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.388302535618994	0.122937262857873	0.00174556594656209
+Pulit WHR EU sex combined 316 SNPs clumped	pPut2m	XXL-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.335689769565889	0.0485720644491279	4.80674353422002e-12
+Pulit WHR EU sex combined 316 SNPs clumped	pPut2m	XXL-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.313602395923787	0.0433321123497567	4.58102260865482e-13
+Pulit WHR EU sex combined 316 SNPs clumped	pPut2m	XXL-VLDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.410104459192937	0.0870867120738794	3.78731721486422e-06
+Pulit WHR EU sex combined 316 SNPs clumped	PXUN7h	L-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.353691841578094	0.105260920233602	0.000878743643867559
+Pulit WHR EU sex combined 316 SNPs clumped	PXUN7h	L-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.216490141458223	0.0504395859057076	1.77016576358651e-05
+Pulit WHR EU sex combined 316 SNPs clumped	PXUN7h	L-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.240951321267278	0.0372105892733858	9.45969291560767e-11
+Pulit WHR EU sex combined 316 SNPs clumped	PXUN7h	L-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.20145914789618	0.112009279926346	0.0730748935990851
+Pulit WHR EU sex combined 316 SNPs clumped	pY0gSF	L-LDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.267322715877312	0.145807622217041	0.0677249712608109
+Pulit WHR EU sex combined 316 SNPs clumped	pY0gSF	L-LDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0291828882578921	0.0487910421463461	0.549760001161601
+Pulit WHR EU sex combined 316 SNPs clumped	pY0gSF	L-LDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.00306861796087962	0.0516882335664532	0.952659140450168
+Pulit WHR EU sex combined 316 SNPs clumped	pY0gSF	L-LDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0528518486009943	0.0856317482722331	0.537565322564689
+Pulit WHR EU sex combined 316 SNPs clumped	q0Q3Yw	L-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.353691841578094	0.105260920233602	0.000878743643867559
+Pulit WHR EU sex combined 316 SNPs clumped	q0Q3Yw	L-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.216490141458223	0.0501098909056258	1.55811870878884e-05
+Pulit WHR EU sex combined 316 SNPs clumped	q0Q3Yw	L-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.240951321267278	0.0372105892733858	9.45969291560767e-11
+Pulit WHR EU sex combined 316 SNPs clumped	q0Q3Yw	L-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.20145914789618	0.115719770147493	0.082708886149009
+Pulit WHR EU sex combined 316 SNPs clumped	q9Envc	L-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.054795341031757	0.114969191854285	0.633984161219961
+Pulit WHR EU sex combined 316 SNPs clumped	q9Envc	L-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.186420740687244	0.0486100328157411	0.000125551002328048
+Pulit WHR EU sex combined 316 SNPs clumped	q9Envc	L-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.205032193973413	0.0406112504305095	4.44931318004726e-07
+Pulit WHR EU sex combined 316 SNPs clumped	q9Envc	L-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.142204959355065	0.095096144981716	0.135852406574295
+Pulit WHR EU sex combined 316 SNPs clumped	qhcyRR	L-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.423237691923746	0.128507699408537	0.00110676292682135
+Pulit WHR EU sex combined 316 SNPs clumped	qhcyRR	L-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.430082159784185	0.0526792655726582	3.23669111197827e-16
+Pulit WHR EU sex combined 316 SNPs clumped	qhcyRR	L-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.413656529967529	0.0452460184158092	6.10897916390633e-20
+Pulit WHR EU sex combined 316 SNPs clumped	qhcyRR	L-HDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.422452635846881	0.0977400139561495	2.09567710332354e-05
+Pulit WHR EU sex combined 316 SNPs clumped	qj3iv1	Leu.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.358970738493132	0.0896031811531865	7.76960629872251e-05
+Pulit WHR EU sex combined 316 SNPs clumped	qj3iv1	Leu.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.237671424893682	0.0513227239341062	3.64044652968769e-06
+Pulit WHR EU sex combined 316 SNPs clumped	qj3iv1	Leu.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.243727998822879	0.031656919668385	1.37088594356512e-14
+Pulit WHR EU sex combined 316 SNPs clumped	qj3iv1	Leu.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.302783865923854	0.0956517655269776	0.0017052430701915
+Pulit WHR EU sex combined 316 SNPs clumped	qQ2VLP	S-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.487569340338706	0.126940742982553	0.0001492917056658
+Pulit WHR EU sex combined 316 SNPs clumped	qQ2VLP	S-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.155361678240247	0.0455153622315714	0.00064160074630869
+Pulit WHR EU sex combined 316 SNPs clumped	qQ2VLP	S-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.144574539031973	0.0453189537867045	0.00142195941658031
+Pulit WHR EU sex combined 316 SNPs clumped	qQ2VLP	S-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.261287052435226	0.0918040649283892	0.00472617268106969
+Pulit WHR EU sex combined 316 SNPs clumped	QqrK6o	ApoBbyApoA1.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.200389298649765	0.15817749011574	0.206176993386282
+Pulit WHR EU sex combined 316 SNPs clumped	QqrK6o	ApoBbyApoA1.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.382105510479526	0.0483277181456909	2.64620458294885e-15
+Pulit WHR EU sex combined 316 SNPs clumped	QqrK6o	ApoBbyApoA1.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.300646486335053	0.0557553118790028	6.95815225648068e-08
+Pulit WHR EU sex combined 316 SNPs clumped	QqrK6o	ApoBbyApoA1.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.424628123019625	0.0859065545849887	1.27420224082508e-06
+Pulit WHR EU sex combined 316 SNPs clumped	qQyFYn	L-LDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.172985911438121	0.156749846936262	0.27065127620021
+Pulit WHR EU sex combined 316 SNPs clumped	qQyFYn	L-LDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.166293619055826	0.0481634233031347	0.000555015808667937
+Pulit WHR EU sex combined 316 SNPs clumped	qQyFYn	L-LDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.108935404136692	0.0555503072209332	0.0498763944945832
+Pulit WHR EU sex combined 316 SNPs clumped	qQyFYn	L-LDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.086517329046131	0.0882273651228411	0.32756097852285
+Pulit WHR EU sex combined 316 SNPs clumped	qRNr6L	M-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.401903320323987	0.128401359575701	0.00191807555667886
+Pulit WHR EU sex combined 316 SNPs clumped	qRNr6L	M-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.382247129789106	0.0484080096785955	2.87163697947498e-15
+Pulit WHR EU sex combined 316 SNPs clumped	qRNr6L	M-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.33836096181974	0.0452449016212794	7.52140745354669e-14
+Pulit WHR EU sex combined 316 SNPs clumped	qRNr6L	M-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.426320180706325	0.103317018377015	4.76402294699579e-05
+Pulit WHR EU sex combined 316 SNPs clumped	r7qAg1	IDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.324222842749285	0.0979998168961747	0.00105139961217676
+Pulit WHR EU sex combined 316 SNPs clumped	r7qAg1	IDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.24830536178123	0.0475306356203759	1.74992884715889e-07
+Pulit WHR EU sex combined 316 SNPs clumped	r7qAg1	IDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.238158368480525	0.0345628076776936	5.55588448123783e-12
+Pulit WHR EU sex combined 316 SNPs clumped	r7qAg1	IDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.326418747044024	0.0900770591460302	0.000340202318026234
+Pulit WHR EU sex combined 316 SNPs clumped	R7qv69	CLA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0321749329552556	0.0857557293446341	0.707779572857767
+Pulit WHR EU sex combined 316 SNPs clumped	R7qv69	CLA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0213660734062577	0.0488565265113494	0.661877256072681
+Pulit WHR EU sex combined 316 SNPs clumped	R7qv69	CLA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0237527426908311	0.0302221783274084	0.431904115146687
+Pulit WHR EU sex combined 316 SNPs clumped	R7qv69	CLA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0201771791657732	0.0961321485263361	0.833894101857032
+Pulit WHR EU sex combined 316 SNPs clumped	rAcnJB	S-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.251092750127628	0.123892044975283	0.0435680064025445
+Pulit WHR EU sex combined 316 SNPs clumped	rAcnJB	S-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.309777626601899	0.0478390506059671	9.45527408699207e-11
+Pulit WHR EU sex combined 316 SNPs clumped	rAcnJB	S-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.233019073937864	0.0436372397219001	9.29910754055349e-08
+Pulit WHR EU sex combined 316 SNPs clumped	rAcnJB	S-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.385749901832645	0.093804785436788	5.047523552245e-05
+Pulit WHR EU sex combined 316 SNPs clumped	RlJZJ3	TotCho.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.142795664415284	0.0961118020123286	0.138391681327877
+Pulit WHR EU sex combined 316 SNPs clumped	RlJZJ3	TotCho.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0749980423317952	0.0495899964335802	0.130441713624936
+Pulit WHR EU sex combined 316 SNPs clumped	RlJZJ3	TotCho.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0292249389997748	0.0339476653188969	0.389302955445156
+Pulit WHR EU sex combined 316 SNPs clumped	RlJZJ3	TotCho.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0882549492555742	0.0829276103113968	0.288064198137415
+Pulit WHR EU sex combined 316 SNPs clumped	rPWUst	Crea.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.0359549399919818	0.101151644015994	0.722495462308268
+Pulit WHR EU sex combined 316 SNPs clumped	rPWUst	Crea.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0123364149431999	0.0482093094181484	0.798033618027559
+Pulit WHR EU sex combined 316 SNPs clumped	rPWUst	Crea.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0145366612357424	0.0356511290651469	0.683459009539292
+Pulit WHR EU sex combined 316 SNPs clumped	rPWUst	Crea.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0702211522041685	0.100073386353369	0.483405250341231
+Pulit WHR EU sex combined 316 SNPs clumped	ru9glV	Gly.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.294548013129819	0.106598156558533	0.00607456164133489
+Pulit WHR EU sex combined 316 SNPs clumped	ru9glV	Gly.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.320700052233625	0.0499561763691283	1.36608045571315e-10
+Pulit WHR EU sex combined 316 SNPs clumped	ru9glV	Gly.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.314220660071433	0.0375490103631001	5.8464970661861e-17
+Pulit WHR EU sex combined 316 SNPs clumped	ru9glV	Gly.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.309230317928469	0.0944100999005292	0.00117708533614277
+Pulit WHR EU sex combined 316 SNPs clumped	S3BbpN	L-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.273153144323781	0.105286881978918	0.00993713313937358
+Pulit WHR EU sex combined 316 SNPs clumped	S3BbpN	L-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.17253489938492	0.0502135641066848	0.00059032353649107
+Pulit WHR EU sex combined 316 SNPs clumped	S3BbpN	L-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.206829324378824	0.037168198843351	2.62626144071819e-08
+Pulit WHR EU sex combined 316 SNPs clumped	S3BbpN	L-VLDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.203605932179446	0.0887955462039841	0.0225320055964771
+Pulit WHR EU sex combined 316 SNPs clumped	s3OgXG	L-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.423237691923746	0.128507699408537	0.00110676292682135
+Pulit WHR EU sex combined 316 SNPs clumped	s3OgXG	L-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.430082159784185	0.0524733955331776	2.48116600507738e-16
+Pulit WHR EU sex combined 316 SNPs clumped	s3OgXG	L-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.413656529967529	0.0452460184158092	6.10897916390633e-20
+Pulit WHR EU sex combined 316 SNPs clumped	s3OgXG	L-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.422452635846881	0.0947833037569399	1.16999000643089e-05
+Pulit WHR EU sex combined 316 SNPs clumped	sAiLhm	S-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.485815730632211	0.127269144380004	0.000163642159722042
+Pulit WHR EU sex combined 316 SNPs clumped	sAiLhm	S-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.138068233803832	0.0451269290818224	0.002216675206256
+Pulit WHR EU sex combined 316 SNPs clumped	sAiLhm	S-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.131198404813847	0.0454720821673507	0.00391100771083258
+Pulit WHR EU sex combined 316 SNPs clumped	sAiLhm	S-HDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.256219418629813	0.087981008881252	0.00385449174286058
+Pulit WHR EU sex combined 316 SNPs clumped	SCF61G	IDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.324222842749285	0.0979998168961747	0.00105139961217676
+Pulit WHR EU sex combined 316 SNPs clumped	SCF61G	IDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.24830536178123	0.044309657974327	2.09623445942198e-08
+Pulit WHR EU sex combined 316 SNPs clumped	SCF61G	IDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.238158368480525	0.0345628076776936	5.55588448123783e-12
+Pulit WHR EU sex combined 316 SNPs clumped	SCF61G	IDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.326418747044024	0.0933515746667185	0.000541357728326276
+Pulit WHR EU sex combined 316 SNPs clumped	sl3QkQ	IDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0986284317128351	0.0993829180478769	0.32179024378641
+Pulit WHR EU sex combined 316 SNPs clumped	sl3QkQ	IDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0325723171157854	0.0490204532847487	0.506393504773075
+Pulit WHR EU sex combined 316 SNPs clumped	sl3QkQ	IDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0350077558649628	0.0350277712152534	0.317587117670411
+Pulit WHR EU sex combined 316 SNPs clumped	sl3QkQ	IDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0413661391530615	0.09239289825144	0.654674231496649
+Pulit WHR EU sex combined 316 SNPs clumped	sNOZiz	LDL-D.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.207388974760714	0.109614536155116	0.0594463776943918
+Pulit WHR EU sex combined 316 SNPs clumped	sNOZiz	LDL-D.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0360539028482216	0.046593344266006	0.43904941455938
+Pulit WHR EU sex combined 316 SNPs clumped	sNOZiz	LDL-D.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0166731021983314	0.038823690591913	0.667590745706065
+Pulit WHR EU sex combined 316 SNPs clumped	sNOZiz	LDL-D.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0960556662417038	0.0913350570461854	0.293779562142906
+Pulit WHR EU sex combined 316 SNPs clumped	suGh9m	XS-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.5446834678982	0.117442245813947	5.24214514007551e-06
+Pulit WHR EU sex combined 316 SNPs clumped	suGh9m	XS-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.240217631784171	0.0440851069825624	5.0667484531702e-08
+Pulit WHR EU sex combined 316 SNPs clumped	suGh9m	XS-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.247581556407709	0.0418585301909847	3.3243720980753e-09
+Pulit WHR EU sex combined 316 SNPs clumped	suGh9m	XS-VLDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.298211775610401	0.0966591481710467	0.00222128546153363
+Pulit WHR EU sex combined 316 SNPs clumped	SyQ3PW	L-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.249290046108818	0.124626296810808	0.0463599575536046
+Pulit WHR EU sex combined 316 SNPs clumped	SyQ3PW	L-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.331150948014057	0.0525949149497599	3.04924410314419e-10
+Pulit WHR EU sex combined 316 SNPs clumped	SyQ3PW	L-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.328515654814261	0.0439136188045808	7.37863782747104e-14
+Pulit WHR EU sex combined 316 SNPs clumped	SyQ3PW	L-HDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.303904865188833	0.102455447483478	0.00325397729420108
+Pulit WHR EU sex combined 316 SNPs clumped	TaF0SP	Serum-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.198207792239509	0.128655758079256	0.124456449122603
+Pulit WHR EU sex combined 316 SNPs clumped	TaF0SP	Serum-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.00537205718182542	0.0505250764928056	0.915324835692813
+Pulit WHR EU sex combined 316 SNPs clumped	TaF0SP	Serum-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.00289202711920268	0.0455228030867705	0.949345110458112
+Pulit WHR EU sex combined 316 SNPs clumped	TaF0SP	Serum-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.00557771081775105	0.0813705023956603	0.945395203202715
+Pulit WHR EU sex combined 316 SNPs clumped	tjlctk	XL-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0691539497566856	0.110386018930731	0.531475893824105
+Pulit WHR EU sex combined 316 SNPs clumped	tjlctk	XL-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0916389111033531	0.0529793594906272	0.0836821578355323
+Pulit WHR EU sex combined 316 SNPs clumped	tjlctk	XL-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0793127581914875	0.039094066501486	0.0424820118754438
+Pulit WHR EU sex combined 316 SNPs clumped	tjlctk	XL-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.061240717463944	0.0889542306360619	0.491693215231671
+Pulit WHR EU sex combined 316 SNPs clumped	tMzh3s	L-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.37026986999186	0.125371276851948	0.00338913735549675
+Pulit WHR EU sex combined 316 SNPs clumped	tMzh3s	L-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.283758905664699	0.0508807799013914	2.44790425508746e-08
+Pulit WHR EU sex combined 316 SNPs clumped	tMzh3s	L-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.294055624350375	0.0441725716581298	2.79524190072396e-11
+Pulit WHR EU sex combined 316 SNPs clumped	tMzh3s	L-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.285839490683428	0.0907927711335167	0.00180553838997858
+Pulit WHR EU sex combined 316 SNPs clumped	tRhkst	XL-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.387054830290506	0.126709354649383	0.00245332491384404
+Pulit WHR EU sex combined 316 SNPs clumped	tRhkst	XL-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.286783904898165	0.048373845008415	3.05731161599619e-09
+Pulit WHR EU sex combined 316 SNPs clumped	tRhkst	XL-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.2641862464311	0.0447111582990128	3.44751285266812e-09
+Pulit WHR EU sex combined 316 SNPs clumped	tRhkst	XL-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.36565608549768	0.100700563145732	0.000331050600430402
+Pulit WHR EU sex combined 316 SNPs clumped	TuTtEn	S-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.387920768404711	0.117744889607424	0.00110256931748548
+Pulit WHR EU sex combined 316 SNPs clumped	TuTtEn	S-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0349890713358304	0.0455036422883185	0.441935445233551
+Pulit WHR EU sex combined 316 SNPs clumped	TuTtEn	S-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0419233708957799	0.0421386913806897	0.319789672025954
+Pulit WHR EU sex combined 316 SNPs clumped	TuTtEn	S-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.138944833655279	0.0891285701150513	0.120054328865609
+Pulit WHR EU sex combined 316 SNPs clumped	TVCIyF	S-LDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.215537109330166	0.153199867229496	0.160481493851636
+Pulit WHR EU sex combined 316 SNPs clumped	TVCIyF	S-LDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.121750890036408	0.0480527522293732	0.0112867780715021
+Pulit WHR EU sex combined 316 SNPs clumped	TVCIyF	S-LDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0552842001466293	0.0542775150580351	0.308418076708347
+Pulit WHR EU sex combined 316 SNPs clumped	TVCIyF	S-LDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.138515812110957	0.0919147251621753	0.132848186247739
+Pulit WHR EU sex combined 316 SNPs clumped	U7rhqi	XXL-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.233218541865961	0.0930508372311479	0.0127220511432911
+Pulit WHR EU sex combined 316 SNPs clumped	U7rhqi	XXL-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0748284493314609	0.0480714192477371	0.119563120903147
+Pulit WHR EU sex combined 316 SNPs clumped	U7rhqi	XXL-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0795705720338644	0.0329659635285834	0.0157906358094417
+Pulit WHR EU sex combined 316 SNPs clumped	U7rhqi	XXL-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0810320318549893	0.0982735434652146	0.410270248419851
+Pulit WHR EU sex combined 316 SNPs clumped	ubyhtT	L-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.37026986999186	0.125371276851948	0.00338913735549675
+Pulit WHR EU sex combined 316 SNPs clumped	ubyhtT	L-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.283758905664699	0.0488828714768107	6.44144568350053e-09
+Pulit WHR EU sex combined 316 SNPs clumped	ubyhtT	L-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.294055624350375	0.0441725716581298	2.79524190072396e-11
+Pulit WHR EU sex combined 316 SNPs clumped	ubyhtT	L-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.285839490683428	0.095770337596758	0.00306959883110664
+Pulit WHR EU sex combined 316 SNPs clumped	uDjofW	S-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.478520313524852	0.127405700641147	0.000207110784492318
+Pulit WHR EU sex combined 316 SNPs clumped	uDjofW	S-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.32791322858039	0.0478134110009014	6.97408019358961e-12
+Pulit WHR EU sex combined 316 SNPs clumped	uDjofW	S-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.332872257322892	0.0449818201237822	1.36029813772183e-13
+Pulit WHR EU sex combined 316 SNPs clumped	uDjofW	S-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.382307302753732	0.0940292272826001	6.1015481854061e-05
+Pulit WHR EU sex combined 316 SNPs clumped	UJSkic	VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.222491765677991	0.0963572330053724	0.0216144830719334
+Pulit WHR EU sex combined 316 SNPs clumped	UJSkic	VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0134269597998885	0.0520074092927471	0.796272639011871
+Pulit WHR EU sex combined 316 SNPs clumped	UJSkic	VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0878180003162288	0.0341076326307929	0.0100317892742104
+Pulit WHR EU sex combined 316 SNPs clumped	UJSkic	VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0799692763771422	0.101857020902413	0.432998711525967
+Pulit WHR EU sex combined 316 SNPs clumped	UMFSVf	L-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.332888584518455	0.135073853417917	0.0142754706061565
+Pulit WHR EU sex combined 316 SNPs clumped	UMFSVf	L-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.352728666029994	0.0505998048086541	3.1480976661619e-12
+Pulit WHR EU sex combined 316 SNPs clumped	UMFSVf	L-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.325381842331241	0.047571222934719	7.92550557773856e-12
+Pulit WHR EU sex combined 316 SNPs clumped	UMFSVf	L-HDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.41034398606247	0.0956308002892112	2.39431622333703e-05
+Pulit WHR EU sex combined 316 SNPs clumped	upm2x7	PUFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.4350607874993	0.10572141196314	4.99183692137731e-05
+Pulit WHR EU sex combined 316 SNPs clumped	upm2x7	PUFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.330110338507041	0.0538437903730564	8.73889918710552e-10
+Pulit WHR EU sex combined 316 SNPs clumped	upm2x7	PUFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.316919025581675	0.0373328213734322	2.08388865868195e-17
+Pulit WHR EU sex combined 316 SNPs clumped	upm2x7	PUFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.354566053640514	0.10514255262768	0.000842049800813008
+Pulit WHR EU sex combined 316 SNPs clumped	v4GJdA	XS-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.347919456778775	0.0989598490179981	0.000505512350191296
+Pulit WHR EU sex combined 316 SNPs clumped	v4GJdA	XS-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.297863675196197	0.0505460706627919	3.79442651896016e-09
+Pulit WHR EU sex combined 316 SNPs clumped	v4GJdA	XS-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.265109998870361	0.03489821696604	3.03864134898296e-14
+Pulit WHR EU sex combined 316 SNPs clumped	v4GJdA	XS-VLDL-FC.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.385224095972386	0.0893532180289967	2.19595721948409e-05
+Pulit WHR EU sex combined 316 SNPs clumped	vCHEbm	XS-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.13131735612274	0.0964538358625519	0.174382115878128
+Pulit WHR EU sex combined 316 SNPs clumped	vCHEbm	XS-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0695935634181877	0.0535097950382121	0.193403573805635
+Pulit WHR EU sex combined 316 SNPs clumped	vCHEbm	XS-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0761510311414334	0.0339904105724675	0.0250670362587221
+Pulit WHR EU sex combined 316 SNPs clumped	vCHEbm	XS-VLDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0341876205483995	0.108256329512967	0.752369112910374
+Pulit WHR EU sex combined 316 SNPs clumped	VDArtn	LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.15764077738529	0.124889831475081	0.207833578881774
+Pulit WHR EU sex combined 316 SNPs clumped	VDArtn	LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.236597288926527	0.0496982589763147	1.92945970153631e-06
+Pulit WHR EU sex combined 316 SNPs clumped	VDArtn	LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.234599778740877	0.0440191541772854	9.84872584388888e-08
+Pulit WHR EU sex combined 316 SNPs clumped	VDArtn	LDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.215341925516712	0.0824304818994746	0.00943740907002654
+Pulit WHR EU sex combined 316 SNPs clumped	ViUkWP	S-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.478520313524852	0.127405700641147	0.000207110784492318
+Pulit WHR EU sex combined 316 SNPs clumped	ViUkWP	S-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.32791322858039	0.0470442227760561	3.16223664549037e-12
+Pulit WHR EU sex combined 316 SNPs clumped	ViUkWP	S-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.332872257322892	0.0449818201237822	1.36029813772183e-13
+Pulit WHR EU sex combined 316 SNPs clumped	ViUkWP	S-HDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.382307302753732	0.098095800256451	0.000119705855258652
+Pulit WHR EU sex combined 316 SNPs clumped	vLe65t	M-LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.369044918180891	0.144521389382988	0.0111521642104462
+Pulit WHR EU sex combined 316 SNPs clumped	vLe65t	M-LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0439899420158097	0.0487492264389479	0.366859234807499
+Pulit WHR EU sex combined 316 SNPs clumped	vLe65t	M-LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0813570059600462	0.0512667896643329	0.112527618299329
+Pulit WHR EU sex combined 316 SNPs clumped	vLe65t	M-LDL-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0752036715181106	0.0867767507790088	0.386826137102303
+Pulit WHR EU sex combined 316 SNPs clumped	vlf2y9	XS-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.549137946623043	0.123170029622504	1.16442764514299e-05
+Pulit WHR EU sex combined 316 SNPs clumped	vlf2y9	XS-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.261380818491264	0.0501169357550815	1.83402200112005e-07
+Pulit WHR EU sex combined 316 SNPs clumped	vlf2y9	XS-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.296574428947652	0.0437205934688955	1.17377166417219e-11
+Pulit WHR EU sex combined 316 SNPs clumped	vlf2y9	XS-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.220800261570598	0.108871332168973	0.0434233759071212
+Pulit WHR EU sex combined 316 SNPs clumped	vMOC1Y	XS-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.13131735612274	0.0964538358625519	0.174382115878128
+Pulit WHR EU sex combined 316 SNPs clumped	vMOC1Y	XS-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0695935634181877	0.0510407290047452	0.172727888175697
+Pulit WHR EU sex combined 316 SNPs clumped	vMOC1Y	XS-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0761510311414334	0.0339904105724675	0.0250670362587221
+Pulit WHR EU sex combined 316 SNPs clumped	vMOC1Y	XS-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.0341876205483995	0.104022651212494	0.742642341638111
+Pulit WHR EU sex combined 316 SNPs clumped	vR5Kwv	L-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.222491765677991	0.0963572330053724	0.0216144830719334
+Pulit WHR EU sex combined 316 SNPs clumped	vR5Kwv	L-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0134269597998885	0.0532080431410374	0.800771849557515
+Pulit WHR EU sex combined 316 SNPs clumped	vR5Kwv	L-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0878180003162288	0.0341076326307929	0.0100317892742104
+Pulit WHR EU sex combined 316 SNPs clumped	vR5Kwv	L-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0799692763771422	0.103755533838199	0.441455444110224
+Pulit WHR EU sex combined 316 SNPs clumped	w0gKvT	M-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.417425157725199	0.113797557568511	0.000288531071109164
+Pulit WHR EU sex combined 316 SNPs clumped	w0gKvT	M-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.202992554619416	0.0470698982973313	1.61362753224426e-05
+Pulit WHR EU sex combined 316 SNPs clumped	w0gKvT	M-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.175608586830398	0.0404212837081894	1.39619677120508e-05
+Pulit WHR EU sex combined 316 SNPs clumped	w0gKvT	M-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.258610822709807	0.0943980561492141	0.00651522161447201
+Pulit WHR EU sex combined 316 SNPs clumped	w5q5F3	FAw3.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0454204581569521	0.0904188369705936	0.615797447068826
+Pulit WHR EU sex combined 316 SNPs clumped	w5q5F3	FAw3.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0821013455872866	0.0448624180208739	0.0672395380878607
+Pulit WHR EU sex combined 316 SNPs clumped	w5q5F3	FAw3.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.0170714125521844	0.0318607692980296	0.592087836332849
+Pulit WHR EU sex combined 316 SNPs clumped	w5q5F3	FAw3.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.187869548321831	0.102530218377314	0.0678798524130717
+Pulit WHR EU sex combined 316 SNPs clumped	WAe5Cu	FAw6byFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.437659241719004	0.107220432509125	5.72044969414383e-05
+Pulit WHR EU sex combined 316 SNPs clumped	WAe5Cu	FAw6byFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.303923692397751	0.0512200711196207	2.96212538514566e-09
+Pulit WHR EU sex combined 316 SNPs clumped	WAe5Cu	FAw6byFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.335114840856035	0.037838627949131	8.26239711055572e-19
+Pulit WHR EU sex combined 316 SNPs clumped	WAe5Cu	FAw6byFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.329887509883457	0.0999023586689719	0.0010740745263204
+Pulit WHR EU sex combined 316 SNPs clumped	wgLSQ9	S-LDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.418362250846781	0.110225898680043	0.000177945488660044
+Pulit WHR EU sex combined 316 SNPs clumped	wgLSQ9	S-LDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.215574788812448	0.0531997682070735	5.07436120178404e-05
+Pulit WHR EU sex combined 316 SNPs clumped	wgLSQ9	S-LDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.281468284070414	0.0389198947695066	4.75967769675107e-13
+Pulit WHR EU sex combined 316 SNPs clumped	wgLSQ9	S-LDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.169452238892327	0.0894724841452835	0.0591870256847849
+Pulit WHR EU sex combined 316 SNPs clumped	WiBRTT	M-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.240736640194802	0.10765024113746	0.0260607642667086
+Pulit WHR EU sex combined 316 SNPs clumped	WiBRTT	M-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.269589043969211	0.0486080590323914	2.9197827664302e-08
+Pulit WHR EU sex combined 316 SNPs clumped	WiBRTT	M-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.199347748664759	0.0379212815538344	1.46517284530192e-07
+Pulit WHR EU sex combined 316 SNPs clumped	WiBRTT	M-HDL-FC_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.307604458105631	0.0858376836581561	0.000394626871979145
+Pulit WHR EU sex combined 316 SNPs clumped	wK9GIn	XL-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.338057212566272	0.109934394340468	0.00229622531062271
+Pulit WHR EU sex combined 316 SNPs clumped	wK9GIn	XL-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.127831184345413	0.0558976669645146	0.0222029037957093
+Pulit WHR EU sex combined 316 SNPs clumped	wK9GIn	XL-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.14800845291797	0.0390165380144703	0.000148550658061171
+Pulit WHR EU sex combined 316 SNPs clumped	wK9GIn	XL-VLDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.107574606914454	0.0997731886590962	0.28180306525436
+Pulit WHR EU sex combined 316 SNPs clumped	wl0Hxz	XXL-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.170155191588142	0.0918132412344039	0.0648149338451463
+Pulit WHR EU sex combined 316 SNPs clumped	wl0Hxz	XXL-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.133141211430826	0.048422476311053	0.00596726761323373
+Pulit WHR EU sex combined 316 SNPs clumped	wl0Hxz	XXL-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.10693674546155	0.0323904543937823	0.000961729304544482
+Pulit WHR EU sex combined 316 SNPs clumped	wl0Hxz	XXL-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.145811616897845	0.0853638481869696	0.0886350621741356
+Pulit WHR EU sex combined 316 SNPs clumped	wMYGJe	UnsatDeg.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.292607416625873	0.104907651353872	0.00561853358537965
+Pulit WHR EU sex combined 316 SNPs clumped	wMYGJe	UnsatDeg.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.151589876646908	0.0500701331158099	0.00246544188348601
+Pulit WHR EU sex combined 316 SNPs clumped	wMYGJe	UnsatDeg.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.166677817222558	0.0370560350397901	6.85976855124677e-06
+Pulit WHR EU sex combined 316 SNPs clumped	wMYGJe	UnsatDeg.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.144678673413081	0.0912535582524849	0.113901966006081
+Pulit WHR EU sex combined 316 SNPs clumped	wRRy2y	M-LDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.439709178253499	0.137533471847553	0.00153482179493521
+Pulit WHR EU sex combined 316 SNPs clumped	wRRy2y	M-LDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.113946805764194	0.0497851002293939	0.0220925303488226
+Pulit WHR EU sex combined 316 SNPs clumped	wRRy2y	M-LDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.155731500530186	0.0488211035907849	0.00142351667742868
+Pulit WHR EU sex combined 316 SNPs clumped	wRRy2y	M-LDL-C_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.10636333369418	0.088880940621831	0.232358066009749
+Pulit WHR EU sex combined 316 SNPs clumped	wWAo9K	S-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.534594388399874	0.120180850977451	1.21712627982648e-05
+Pulit WHR EU sex combined 316 SNPs clumped	wWAo9K	S-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.216023868552227	0.0469948538051921	4.29119983787621e-06
+Pulit WHR EU sex combined 316 SNPs clumped	wWAo9K	S-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.241951044664007	0.0427982047508651	1.57397224370532e-08
+Pulit WHR EU sex combined 316 SNPs clumped	wWAo9K	S-VLDL-TG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.181095086216703	0.111075084040422	0.104055877892168
+Pulit WHR EU sex combined 316 SNPs clumped	WXLfzU	HDL2-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.35468569526	0.132998638877214	0.00806822288498303
+Pulit WHR EU sex combined 316 SNPs clumped	WXLfzU	HDL2-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.330604019538182	0.0505038200997593	5.90515078546805e-11
+Pulit WHR EU sex combined 316 SNPs clumped	WXLfzU	HDL2-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.306103912546405	0.046853206217117	6.43557182150428e-11
+Pulit WHR EU sex combined 316 SNPs clumped	WXLfzU	HDL2-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.389137169599319	0.0972612255743399	7.93026709517268e-05
+Pulit WHR EU sex combined 316 SNPs clumped	wZRlpa	IDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.324222842749285	0.0979998168961747	0.00105139961217676
+Pulit WHR EU sex combined 316 SNPs clumped	wZRlpa	IDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.24830536178123	0.0461379068100261	7.37413446323632e-08
+Pulit WHR EU sex combined 316 SNPs clumped	wZRlpa	IDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.238158368480525	0.0345628076776936	5.55588448123783e-12
+Pulit WHR EU sex combined 316 SNPs clumped	wZRlpa	IDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.326418747044024	0.0981090118395238	0.000985283321227248
+Pulit WHR EU sex combined 316 SNPs clumped	wzY4ch	Tyr.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.126403145023594	0.0883858028013768	0.153710196979469
+Pulit WHR EU sex combined 316 SNPs clumped	wzY4ch	Tyr.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.110749195348526	0.0442325004532169	0.0122868560063621
+Pulit WHR EU sex combined 316 SNPs clumped	wzY4ch	Tyr.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.109627401080159	0.0311349045408555	0.00042984960444012
+Pulit WHR EU sex combined 316 SNPs clumped	wzY4ch	Tyr.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0491195931657367	0.0999361368657609	0.623420583486988
+Pulit WHR EU sex combined 316 SNPs clumped	WzYyTJ	XXL-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.357306894356255	0.104268777203458	0.00069517690935663
+Pulit WHR EU sex combined 316 SNPs clumped	WzYyTJ	XXL-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.226951275820121	0.0543679288107458	2.98825671496033e-05
+Pulit WHR EU sex combined 316 SNPs clumped	WzYyTJ	XXL-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.182449854110334	0.0369495444586262	7.90044951675703e-07
+Pulit WHR EU sex combined 316 SNPs clumped	WzYyTJ	XXL-VLDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.301408324786858	0.103893015729578	0.00398946676168469
+Pulit WHR EU sex combined 316 SNPs clumped	X9BLYv	DAG.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.259129160920649	0.0859693195856442	0.002794270019722
+Pulit WHR EU sex combined 316 SNPs clumped	X9BLYv	DAG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.18512719629035	0.0493881463633308	0.000177956665943816
+Pulit WHR EU sex combined 316 SNPs clumped	X9BLYv	DAG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.185953101868961	0.0303280900240243	8.71190014572113e-10
+Pulit WHR EU sex combined 316 SNPs clumped	X9BLYv	DAG.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.243889614736086	0.094777108033349	0.0105474160084457
+Pulit WHR EU sex combined 316 SNPs clumped	XXDuOk	S-LDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.339516301286434	0.153406034295906	0.0276296635574607
+Pulit WHR EU sex combined 316 SNPs clumped	XXDuOk	S-LDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.00650341450792537	0.0478856043919316	0.891970320300123
+Pulit WHR EU sex combined 316 SNPs clumped	XXDuOk	S-LDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.021281380028054	0.0544519953552728	0.695924165192495
+Pulit WHR EU sex combined 316 SNPs clumped	XXDuOk	S-LDL-PL.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0193147523167796	0.0795959391432239	0.808432416123144
+Pulit WHR EU sex combined 316 SNPs clumped	y0ej8K	HDL3-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.0507134763780025	0.10229619443774	0.620429229970045
+Pulit WHR EU sex combined 316 SNPs clumped	y0ej8K	HDL3-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.0438321228435051	0.050237611407155	0.382937764254998
+Pulit WHR EU sex combined 316 SNPs clumped	y0ej8K	HDL3-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.00571652924210058	0.0360410451786938	0.873974858399857
+Pulit WHR EU sex combined 316 SNPs clumped	y0ej8K	HDL3-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.041637991998023	0.0750139059424684	0.579254756965673
+Pulit WHR EU sex combined 316 SNPs clumped	yCj75O	IDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.475254125056946	0.117126573661024	6.31369502246701e-05
+Pulit WHR EU sex combined 316 SNPs clumped	yCj75O	IDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.196558998862188	0.0518892909639917	0.000151837003423561
+Pulit WHR EU sex combined 316 SNPs clumped	yCj75O	IDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.267000260886872	0.0414955098310598	1.23931491012167e-10
+Pulit WHR EU sex combined 316 SNPs clumped	yCj75O	IDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.120913449565189	0.0946140027066556	0.202236479882272
+Pulit WHR EU sex combined 316 SNPs clumped	yDM2KB	S-LDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.339516301286434	0.153406034295906	0.0276296635574607
+Pulit WHR EU sex combined 316 SNPs clumped	yDM2KB	S-LDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.00650341450792537	0.0471116457403748	0.890206742504534
+Pulit WHR EU sex combined 316 SNPs clumped	yDM2KB	S-LDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.021281380028054	0.0544519953552728	0.695924165192495
+Pulit WHR EU sex combined 316 SNPs clumped	yDM2KB	S-LDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0193147523167796	0.0903176217523251	0.830804552421076
+Pulit WHR EU sex combined 316 SNPs clumped	Yg0AEp	S-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.485815730632211	0.127269144380004	0.000163642159722042
+Pulit WHR EU sex combined 316 SNPs clumped	Yg0AEp	S-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.138068233803832	0.04674111890976	0.00313793439519996
+Pulit WHR EU sex combined 316 SNPs clumped	Yg0AEp	S-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.131198404813847	0.0454720821673507	0.00391100771083258
+Pulit WHR EU sex combined 316 SNPs clumped	Yg0AEp	S-HDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.256219418629813	0.0915796513413825	0.00547394792949241
+Pulit WHR EU sex combined 316 SNPs clumped	yGC4fH	M-LDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.198751895114491	0.153706685102517	0.196975485465791
+Pulit WHR EU sex combined 316 SNPs clumped	yGC4fH	M-LDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.110171003290459	0.0485829647792841	0.0233482334651565
+Pulit WHR EU sex combined 316 SNPs clumped	yGC4fH	M-LDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0647832423143712	0.0544390492050171	0.234040805670399
+Pulit WHR EU sex combined 316 SNPs clumped	yGC4fH	M-LDL-L.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.134044201806142	0.0930267133460616	0.150636011471718
+Pulit WHR EU sex combined 316 SNPs clumped	Yt3xmq	Remnant-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.104553970144281	0.133667589997662	0.434711469175489
+Pulit WHR EU sex combined 316 SNPs clumped	Yt3xmq	Remnant-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.283709050711543	0.0478759852980412	3.10561972074062e-09
+Pulit WHR EU sex combined 316 SNPs clumped	Yt3xmq	Remnant-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.199020836872267	0.0471246903257114	2.40770694764431e-05
+Pulit WHR EU sex combined 316 SNPs clumped	Yt3xmq	Remnant-C.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.32064516528328	0.0824326558022859	0.000123284987954256
+Pulit WHR EU sex combined 316 SNPs clumped	yurjqR	S-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.357649512131118	0.138627531139094	0.0103528217101528
+Pulit WHR EU sex combined 316 SNPs clumped	yurjqR	S-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0180901060866393	0.0458969228612512	0.693472969053304
+Pulit WHR EU sex combined 316 SNPs clumped	yurjqR	S-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.0318429014260024	0.0493299156005693	0.518597428062872
+Pulit WHR EU sex combined 316 SNPs clumped	yurjqR	S-HDL-PL_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.109615050317904	0.0833084144188174	0.189241269336621
+Pulit WHR EU sex combined 316 SNPs clumped	YWrWcT	L-LDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.267322715877312	0.145807622217041	0.0677249712608109
+Pulit WHR EU sex combined 316 SNPs clumped	YWrWcT	L-LDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0291828882578921	0.0471507995007261	0.535964654954481
+Pulit WHR EU sex combined 316 SNPs clumped	YWrWcT	L-LDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.00306861796087962	0.0516882335664532	0.952659140450168
+Pulit WHR EU sex combined 316 SNPs clumped	YWrWcT	L-LDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0528518486009943	0.0814366899497091	0.516832829787173
+Pulit WHR EU sex combined 316 SNPs clumped	Z5uRDP	XL-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.288677844992076	0.101489351428724	0.00475214433026025
+Pulit WHR EU sex combined 316 SNPs clumped	Z5uRDP	XL-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.149895853089364	0.0567376456719277	0.00824395319089173
+Pulit WHR EU sex combined 316 SNPs clumped	Z5uRDP	XL-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.20650715336716	0.0358653984232446	8.51980657588347e-09
+Pulit WHR EU sex combined 316 SNPs clumped	Z5uRDP	XL-VLDL-CE.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.15379343106811	0.0965779021269685	0.112327618780877
+Pulit WHR EU sex combined 316 SNPs clumped	Z7odxD	SFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.21304836065885	0.0896528657002173	0.018105181468188
+Pulit WHR EU sex combined 316 SNPs clumped	Z7odxD	SFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.000758345108707089	0.04712807705576	0.987161671313196
+Pulit WHR EU sex combined 316 SNPs clumped	Z7odxD	SFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.006661197494636	0.0318972268032775	0.834578512811211
+Pulit WHR EU sex combined 316 SNPs clumped	Z7odxD	SFA.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.00684575079532523	0.0850951564240345	0.935933740337369
+Pulit WHR EU sex combined 316 SNPs clumped	Z9IVci	XL-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.387054830290506	0.126709354649383	0.00245332491384404
+Pulit WHR EU sex combined 316 SNPs clumped	Z9IVci	XL-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.286783904898165	0.0478268082545264	2.01863572279841e-09
+Pulit WHR EU sex combined 316 SNPs clumped	Z9IVci	XL-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.2641862464311	0.0447111582990128	3.44751285266812e-09
+Pulit WHR EU sex combined 316 SNPs clumped	Z9IVci	XL-HDL-TG_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.36565608549768	0.0962622078886009	0.00017576714116248
+Pulit WHR EU sex combined 316 SNPs clumped	z9phQf	L-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.353691841578094	0.105260920233602	0.000878743643867559
+Pulit WHR EU sex combined 316 SNPs clumped	z9phQf	L-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	-0.216490141458223	0.0515486185721894	2.67236622499216e-05
+Pulit WHR EU sex combined 316 SNPs clumped	z9phQf	L-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	-0.240951321267278	0.0372105892733858	9.45969291560767e-11
+Pulit WHR EU sex combined 316 SNPs clumped	z9phQf	L-VLDL-CE_percent.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	-0.20145914789618	0.118400794214674	0.0898712713301312
+Pulit WHR EU sex combined 316 SNPs clumped	ZBeF3x	L-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	-0.010568547616524	0.117659244128567	0.928486936500674
+Pulit WHR EU sex combined 316 SNPs clumped	ZBeF3x	L-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.0995324284382954	0.0496130552690697	0.044837672007207
+Pulit WHR EU sex combined 316 SNPs clumped	ZBeF3x	L-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.116974977878981	0.0415962742297293	0.00492114917916094
+Pulit WHR EU sex combined 316 SNPs clumped	ZBeF3x	L-VLDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0703500899155287	0.0886996465618452	0.428322367567345
+Pulit WHR EU sex combined 316 SNPs clumped	zcalOL	S-LDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.339516301286434	0.153406034295906	0.0276296635574607
+Pulit WHR EU sex combined 316 SNPs clumped	zcalOL	S-LDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.00650341450792537	0.0491602474280423	0.894754830214992
+Pulit WHR EU sex combined 316 SNPs clumped	zcalOL	S-LDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.021281380028054	0.0544519953552728	0.695924165192495
+Pulit WHR EU sex combined 316 SNPs clumped	zcalOL	S-LDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.0193147523167796	0.0791115516921939	0.807282600664913
+Pulit WHR EU sex combined 316 SNPs clumped	ZIkQmD	M-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	305	0.0459942291278229	0.106573834654578	0.666359791478679
+Pulit WHR EU sex combined 316 SNPs clumped	ZIkQmD	M-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted median	305	0.134783636461328	0.0517459703126955	0.00919500289024466
+Pulit WHR EU sex combined 316 SNPs clumped	ZIkQmD	M-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted (multiplicative random effects)	305	0.107406111605478	0.0375600872133143	0.00424201076171875
+Pulit WHR EU sex combined 316 SNPs clumped	ZIkQmD	M-HDL-P.txt	Pulit WHR EU sex combined 316 SNPs clumped	Weighted mode	305	0.128041124350421	0.0892408178128912	0.152377153571697

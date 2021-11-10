@@ -1,0 +1,921 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+Lu BF EU sex combined 5 SNPs	00vVAP	Ala.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.176252838858725	0.390541346158385	0.682397960365438
+Lu BF EU sex combined 5 SNPs	00vVAP	Ala.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.112301358276534	0.0988761773033908	0.256049607853965
+Lu BF EU sex combined 5 SNPs	00vVAP	Ala.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.164463038429984	0.0477767589396586	0.000576741054080137
+Lu BF EU sex combined 5 SNPs	00vVAP	Ala.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.089911200830207	0.137414858633933	0.54862716079819
+Lu BF EU sex combined 5 SNPs	0iPlP8	HDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.0932800176017443	0.519423636118297	0.8689241311657
+Lu BF EU sex combined 5 SNPs	0iPlP8	HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0511497579286457	0.112197805452972	0.648469719225701
+Lu BF EU sex combined 5 SNPs	0iPlP8	HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0789269148433047	0.100096464685819	0.430399319196271
+Lu BF EU sex combined 5 SNPs	0iPlP8	HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0666404256566637	0.149583378975199	0.679002387942233
+Lu BF EU sex combined 5 SNPs	0ttqk4	IDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.823431656034334	1.04986444481118	0.490081502313185
+Lu BF EU sex combined 5 SNPs	0ttqk4	IDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.149161331851355	0.115958898514453	0.198328151685578
+Lu BF EU sex combined 5 SNPs	0ttqk4	IDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0967065089743893	0.214534693020094	0.652152955247144
+Lu BF EU sex combined 5 SNPs	0ttqk4	IDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.17309830089292	0.116571013644593	0.211740469798903
+Lu BF EU sex combined 5 SNPs	1G2fRh	IDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-3.7634267396356	3.79336153906525	0.394278163806215
+Lu BF EU sex combined 5 SNPs	1G2fRh	IDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0539352052465149	0.112601055261046	0.631943052626804
+Lu BF EU sex combined 5 SNPs	1G2fRh	IDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.78966269170597	0.790739690800461	0.317970092113534
+Lu BF EU sex combined 5 SNPs	1G2fRh	IDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.129073599786512	0.114606809778057	0.323063199857334
+Lu BF EU sex combined 5 SNPs	1j1xuv	L-LDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.01818369123584	2.48797741651656	0.476646596785691
+Lu BF EU sex combined 5 SNPs	1j1xuv	L-LDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.125885098117709	0.115790168475156	0.276955959902459
+Lu BF EU sex combined 5 SNPs	1j1xuv	L-LDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.428443373317183	0.502949212989087	0.394290633800239
+Lu BF EU sex combined 5 SNPs	1j1xuv	L-LDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.171105830081748	0.118548493397613	0.222407132103401
+Lu BF EU sex combined 5 SNPs	1mV9sc	HDL-D.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.28002536540359	1.80260340681333	0.528864147417155
+Lu BF EU sex combined 5 SNPs	1mV9sc	HDL-D.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.193044012326702	0.123014658345514	0.116583525915364
+Lu BF EU sex combined 5 SNPs	1mV9sc	HDL-D.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.156916531670038	0.363272185577944	0.66577553053167
+Lu BF EU sex combined 5 SNPs	1mV9sc	HDL-D.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.197999685829934	0.126567099811588	0.192774756660799
+Lu BF EU sex combined 5 SNPs	28Ecak	XS-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-3.02403961460881	3.17461047443246	0.411082884098947
+Lu BF EU sex combined 5 SNPs	28Ecak	XS-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.1525128248599	0.116274077186822	0.189632646905188
+Lu BF EU sex combined 5 SNPs	28Ecak	XS-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.609693370803208	0.658277215033582	0.354344409276755
+Lu BF EU sex combined 5 SNPs	28Ecak	XS-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.160983217852079	0.122363239463143	0.258641350747086
+Lu BF EU sex combined 5 SNPs	2bOtDV	SFAbyFA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.2300632304486	0.961937896586958	0.290939571204338
+Lu BF EU sex combined 5 SNPs	2bOtDV	SFAbyFA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.111691102326754	0.11755416794103	0.342048964151205
+Lu BF EU sex combined 5 SNPs	2bOtDV	SFAbyFA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.331471194418528	0.207839685370147	0.110747857587611
+Lu BF EU sex combined 5 SNPs	2bOtDV	SFAbyFA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.109029949840533	0.117688963686895	0.406661252080808
+Lu BF EU sex combined 5 SNPs	2Fdhzu	M-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.23149806581893	1.48249986616224	0.467080917763679
+Lu BF EU sex combined 5 SNPs	2Fdhzu	M-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.146216043438695	0.112684910102801	0.19443670904695
+Lu BF EU sex combined 5 SNPs	2Fdhzu	M-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.173270222918954	0.304303792938991	0.569085512323989
+Lu BF EU sex combined 5 SNPs	2Fdhzu	M-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.141427214908212	0.117955309912527	0.296702838774422
+Lu BF EU sex combined 5 SNPs	2ixMgY	L-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.0151441873248	1.91959241402296	0.633549786492195
+Lu BF EU sex combined 5 SNPs	2ixMgY	L-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.256671189359133	0.127099706897871	0.0434407254974014
+Lu BF EU sex combined 5 SNPs	2ixMgY	L-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.110533832210835	0.376853141371461	0.769287163137267
+Lu BF EU sex combined 5 SNPs	2ixMgY	L-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.275541671237075	0.129091893947643	0.099706459444001
+Lu BF EU sex combined 5 SNPs	2jBlFJ	S-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.293982682918797	0.390294870068037	0.506031922320231
+Lu BF EU sex combined 5 SNPs	2jBlFJ	S-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.139837141503294	0.104888555552324	0.182467057540694
+Lu BF EU sex combined 5 SNPs	2jBlFJ	S-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.143206826384515	0.0509059783522365	0.00490567422028336
+Lu BF EU sex combined 5 SNPs	2jBlFJ	S-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0520716530891665	0.130086644654286	0.709403903846776
+Lu BF EU sex combined 5 SNPs	2Uacrz	S-LDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.43757990897902	3.93713111373096	0.341706227811953
+Lu BF EU sex combined 5 SNPs	2Uacrz	S-LDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0315182139454433	0.113143916793388	0.780576784764592
+Lu BF EU sex combined 5 SNPs	2Uacrz	S-LDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.903895137404638	0.842973472466404	0.283598792239182
+Lu BF EU sex combined 5 SNPs	2Uacrz	S-LDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0393486230491655	0.118482293124205	0.756483239101014
+Lu BF EU sex combined 5 SNPs	3YMi9B	S-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.45806385771782	2.57185242802689	0.610407410378415
+Lu BF EU sex combined 5 SNPs	3YMi9B	S-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.42535961291675	0.121596174194617	0.000468527086700506
+Lu BF EU sex combined 5 SNPs	3YMi9B	S-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.221910822212412	0.505624301332086	0.6607450083464
+Lu BF EU sex combined 5 SNPs	3YMi9B	S-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.451844829571824	0.11771699820261	0.0184848144460362
+Lu BF EU sex combined 5 SNPs	4BfnMp	IDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.40032939785999	1.27164219193007	0.351236421662797
+Lu BF EU sex combined 5 SNPs	4BfnMp	IDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.128433525696827	0.112425884844099	0.253294462366452
+Lu BF EU sex combined 5 SNPs	4BfnMp	IDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.118936204675708	0.279963284515	0.670962162329159
+Lu BF EU sex combined 5 SNPs	4BfnMp	IDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.157865978439098	0.116568433960077	0.247099208682797
+Lu BF EU sex combined 5 SNPs	4RYbaz	S-HDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	3.78827876903606	3.43972646038278	0.351186562349264
+Lu BF EU sex combined 5 SNPs	4RYbaz	S-HDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0777200166201721	0.109877158521974	0.479357999440046
+Lu BF EU sex combined 5 SNPs	4RYbaz	S-HDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.735197994933037	0.734723464714259	0.316998049239717
+Lu BF EU sex combined 5 SNPs	4RYbaz	S-HDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0947669281472016	0.110666278442349	0.440083515337982
+Lu BF EU sex combined 5 SNPs	4Ve706	L-LDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.40684276916308	4.48225064187678	0.398017426590237
+Lu BF EU sex combined 5 SNPs	4Ve706	L-LDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0814594845086762	0.111668021504531	0.465708665933196
+Lu BF EU sex combined 5 SNPs	4Ve706	L-LDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.951703548682875	0.931592181232699	0.306975860593029
+Lu BF EU sex combined 5 SNPs	4Ve706	L-LDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.152492028963801	0.114788426155422	0.254749376356737
+Lu BF EU sex combined 5 SNPs	4ZYstD	ApoBbyApoA1.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-3.67549624367074	3.77181536072298	0.4016968798823
+Lu BF EU sex combined 5 SNPs	4ZYstD	ApoBbyApoA1.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.266660232578481	0.112297590618595	0.0175686658631494
+Lu BF EU sex combined 5 SNPs	4ZYstD	ApoBbyApoA1.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.646547401236851	0.789611613573038	0.412890838451778
+Lu BF EU sex combined 5 SNPs	4ZYstD	ApoBbyApoA1.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.271320059891301	0.115041928232321	0.0777947815479832
+Lu BF EU sex combined 5 SNPs	5JHAer	S-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-3.23017068207253	2.68634487058616	0.315444053661203
+Lu BF EU sex combined 5 SNPs	5JHAer	S-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0101527400569075	0.112155836756165	0.9278712120374
+Lu BF EU sex combined 5 SNPs	5JHAer	S-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.629295690955053	0.585452484711775	0.282424997092853
+Lu BF EU sex combined 5 SNPs	5JHAer	S-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.00879409067788695	0.125149449225889	0.947352608706939
+Lu BF EU sex combined 5 SNPs	5lrIap	L-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.385642730749214	0.84301230950135	0.678437887618945
+Lu BF EU sex combined 5 SNPs	5lrIap	L-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0231771878080503	0.134118604294561	0.862799886755231
+Lu BF EU sex combined 5 SNPs	5lrIap	L-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0119762456153855	0.164847713091727	0.942084351497374
+Lu BF EU sex combined 5 SNPs	5lrIap	L-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.149582227399065	0.2048190600375	0.505671082666449
+Lu BF EU sex combined 5 SNPs	5RJBFe	M-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.40334489251151	1.25901401722638	0.346260862241053
+Lu BF EU sex combined 5 SNPs	5RJBFe	M-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0884964124239817	0.11217271269759	0.43015295072533
+Lu BF EU sex combined 5 SNPs	5RJBFe	M-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.371105488892528	0.264611406760643	0.160779533833903
+Lu BF EU sex combined 5 SNPs	5RJBFe	M-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0533614220599925	0.123725417705347	0.688485211830345
+Lu BF EU sex combined 5 SNPs	6DkOr2	M-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.13136673008194	0.867985698888437	0.283434992573614
+Lu BF EU sex combined 5 SNPs	6DkOr2	M-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.00743604247117601	0.119915163873732	0.950554183403076
+Lu BF EU sex combined 5 SNPs	6DkOr2	M-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.201944081339787	0.194294995846354	0.298633428921988
+Lu BF EU sex combined 5 SNPs	6DkOr2	M-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.034076666992799	0.117372661298789	0.785994401507415
+Lu BF EU sex combined 5 SNPs	6e7Aif	M-HDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.36743061252828	1.49357092272189	0.427418329183693
+Lu BF EU sex combined 5 SNPs	6e7Aif	M-HDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.187002723500179	0.115064242500494	0.104119364379606
+Lu BF EU sex combined 5 SNPs	6e7Aif	M-HDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.125784571220513	0.314766555279695	0.689442132788331
+Lu BF EU sex combined 5 SNPs	6e7Aif	M-HDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.216615534684735	0.113164085252244	0.128128538082191
+Lu BF EU sex combined 5 SNPs	6gykXV	DHA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.998068400616145	0.391637985137592	0.0840568220598647
+Lu BF EU sex combined 5 SNPs	6gykXV	DHA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.123501881267121	0.107781620476013	0.251856026801152
+Lu BF EU sex combined 5 SNPs	6gykXV	DHA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.114437428131415	0.106754611817321	0.283734824425739
+Lu BF EU sex combined 5 SNPs	6gykXV	DHA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.156149313254374	0.140455246958524	0.328565235560289
+Lu BF EU sex combined 5 SNPs	6H21Wu	XL-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.402780046256173	0.708101682126946	0.609277495134494
+Lu BF EU sex combined 5 SNPs	6H21Wu	XL-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0736797873919673	0.125677374607748	0.557699899279234
+Lu BF EU sex combined 5 SNPs	6H21Wu	XL-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.02721315733092	0.140461251000984	0.846378385075801
+Lu BF EU sex combined 5 SNPs	6H21Wu	XL-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.207572388761837	0.200783866345461	0.359629684763784
+Lu BF EU sex combined 5 SNPs	6yU0PW	XL-HDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.04677721998791	2.28226675732436	0.435903599084239
+Lu BF EU sex combined 5 SNPs	6yU0PW	XL-HDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.323287813047849	0.118816553001263	0.0065104694897083
+Lu BF EU sex combined 5 SNPs	6yU0PW	XL-HDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.189075370664677	0.478992920772469	0.693038315473752
+Lu BF EU sex combined 5 SNPs	6yU0PW	XL-HDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.314112606001271	0.126428606545854	0.0678825910528065
+Lu BF EU sex combined 5 SNPs	79xGev	M-LDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.24717619069536	4.01270514965802	0.36753945661753
+Lu BF EU sex combined 5 SNPs	79xGev	M-LDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0686267535588628	0.112990685314558	0.54360773586754
+Lu BF EU sex combined 5 SNPs	79xGev	M-LDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.891463704879702	0.84653218022858	0.292305629468365
+Lu BF EU sex combined 5 SNPs	79xGev	M-LDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0728214037244517	0.114617322472984	0.559732889275906
+Lu BF EU sex combined 5 SNPs	7e3dhh	PUFAbyFA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.141654296498857	0.538634927918395	0.809587411309972
+Lu BF EU sex combined 5 SNPs	7e3dhh	PUFAbyFA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.070401685317596	0.110106490153361	0.522565138195905
+Lu BF EU sex combined 5 SNPs	7e3dhh	PUFAbyFA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.125929488850141	0.10187425856199	0.216411479635005
+Lu BF EU sex combined 5 SNPs	7e3dhh	PUFAbyFA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0191333796398241	0.141094539888049	0.898682666070335
+Lu BF EU sex combined 5 SNPs	7j3JHr	DAG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.435367533143733	0.764210347658908	0.608751023270448
+Lu BF EU sex combined 5 SNPs	7j3JHr	DAG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.119080442265231	0.121071677073409	0.325335217705315
+Lu BF EU sex combined 5 SNPs	7j3JHr	DAG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0406655810675329	0.154022024677157	0.79176107507671
+Lu BF EU sex combined 5 SNPs	7j3JHr	DAG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.156508373600338	0.135649886688457	0.312841215714805
+Lu BF EU sex combined 5 SNPs	7pK3zD	HDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.06381619838284	1.40527596864871	0.50406806231525
+Lu BF EU sex combined 5 SNPs	7pK3zD	HDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.227700185890366	0.118621937155431	0.0549153548545094
+Lu BF EU sex combined 5 SNPs	7pK3zD	HDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0690971177575887	0.288103585120583	0.810458725818557
+Lu BF EU sex combined 5 SNPs	7pK3zD	HDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.266165217224445	0.123384932340659	0.0971942970455257
+Lu BF EU sex combined 5 SNPs	89DfHC	XL-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.11027248151187	2.34751808428843	0.434935440824511
+Lu BF EU sex combined 5 SNPs	89DfHC	XL-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.274648961938883	0.115132269489074	0.0170555465827287
+Lu BF EU sex combined 5 SNPs	89DfHC	XL-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.240635156961928	0.490718858984106	0.623870154933116
+Lu BF EU sex combined 5 SNPs	89DfHC	XL-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.281408975222353	0.125911559136846	0.0891175304659236
+Lu BF EU sex combined 5 SNPs	8g4RUy	S-LDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.23023921009808	3.65523116630006	0.330922947221905
+Lu BF EU sex combined 5 SNPs	8g4RUy	S-LDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0238333279305175	0.113218709900367	0.833272009769067
+Lu BF EU sex combined 5 SNPs	8g4RUy	S-LDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.844946097138326	0.788160405803115	0.283698296278816
+Lu BF EU sex combined 5 SNPs	8g4RUy	S-LDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0332390244109178	0.111821203399764	0.781072222080518
+Lu BF EU sex combined 5 SNPs	8JBZRc	XS-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.424792415985531	0.390342526314921	0.356094072086787
+Lu BF EU sex combined 5 SNPs	8JBZRc	XS-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.245164401407003	0.103128029132484	0.0174407515331935
+Lu BF EU sex combined 5 SNPs	8JBZRc	XS-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.227653401714452	0.0617613548650749	0.000227791174211673
+Lu BF EU sex combined 5 SNPs	8JBZRc	XS-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.242495731654871	0.119258531401411	0.111784300745965
+Lu BF EU sex combined 5 SNPs	8px8DS	L-HDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.76395559017995	2.10329116109445	0.463220270201086
+Lu BF EU sex combined 5 SNPs	8px8DS	L-HDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.278900808416225	0.120848687858018	0.0210074052723738
+Lu BF EU sex combined 5 SNPs	8px8DS	L-HDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.2047851151649	0.434307246716119	0.6372685166428
+Lu BF EU sex combined 5 SNPs	8px8DS	L-HDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.28922823811199	0.123103294273685	0.078560301960361
+Lu BF EU sex combined 5 SNPs	8QUMvt	L-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.93314391481417	2.19489224742766	0.443306044022782
+Lu BF EU sex combined 5 SNPs	8QUMvt	L-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.165287078095278	0.115717958040526	0.153187829731581
+Lu BF EU sex combined 5 SNPs	8QUMvt	L-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.334608121228636	0.452021361060491	0.459149241522487
+Lu BF EU sex combined 5 SNPs	8QUMvt	L-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.17350032233022	0.120379814816242	0.222951106654979
+Lu BF EU sex combined 5 SNPs	8QwhaL	M-LDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.4383054018627	3.83752636889493	0.331189121473384
+Lu BF EU sex combined 5 SNPs	8QwhaL	M-LDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0099049104134249	0.110869936101375	0.928813208700566
+Lu BF EU sex combined 5 SNPs	8QwhaL	M-LDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.900842214307824	0.826603848487837	0.275796275463952
+Lu BF EU sex combined 5 SNPs	8QwhaL	M-LDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0170027351996911	0.117017505857884	0.89150108964703
+Lu BF EU sex combined 5 SNPs	8YSB4f	XXL-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.628978303847014	0.582828884992115	0.359539024709388
+Lu BF EU sex combined 5 SNPs	8YSB4f	XXL-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0354526744120751	0.117069775767754	0.762016592805482
+Lu BF EU sex combined 5 SNPs	8YSB4f	XXL-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.082486096549192	0.126069204275497	0.512923572555812
+Lu BF EU sex combined 5 SNPs	8YSB4f	XXL-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.00919178194721915	0.147553949320451	0.953316947472227
+Lu BF EU sex combined 5 SNPs	8ZosGC	M-LDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.50314898659728	3.9962265356935	0.341800471319148
+Lu BF EU sex combined 5 SNPs	8ZosGC	M-LDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0191721138466908	0.114524919822948	0.867050912811674
+Lu BF EU sex combined 5 SNPs	8ZosGC	M-LDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.935229947390244	0.854593235142719	0.273798507810276
+Lu BF EU sex combined 5 SNPs	8ZosGC	M-LDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0256221895969239	0.121150787351115	0.842843345219908
+Lu BF EU sex combined 5 SNPs	9fIfQr	XXL-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.518204036479957	0.424695898878171	0.309564210990275
+Lu BF EU sex combined 5 SNPs	9fIfQr	XXL-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0852826278027919	0.11797566456181	0.469751635994383
+Lu BF EU sex combined 5 SNPs	9fIfQr	XXL-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0113532877722889	0.0998258023748231	0.909451041936166
+Lu BF EU sex combined 5 SNPs	9fIfQr	XXL-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.066760879394093	0.147172898862161	0.673621647177497
+Lu BF EU sex combined 5 SNPs	9zAHRs	S-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	3.78827876903606	3.43972646038278	0.351186562349264
+Lu BF EU sex combined 5 SNPs	9zAHRs	S-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0777200166201721	0.113274405710516	0.492636430337481
+Lu BF EU sex combined 5 SNPs	9zAHRs	S-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.735197994933037	0.734723464714259	0.316998049239717
+Lu BF EU sex combined 5 SNPs	9zAHRs	S-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0947669281472016	0.111796502462341	0.444362848674317
+Lu BF EU sex combined 5 SNPs	A4zep1	XL-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.04677721998791	2.28226675732436	0.435903599084239
+Lu BF EU sex combined 5 SNPs	A4zep1	XL-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.323287813047849	0.116548701306285	0.0055398386287477
+Lu BF EU sex combined 5 SNPs	A4zep1	XL-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.189075370664677	0.478992920772469	0.693038315473752
+Lu BF EU sex combined 5 SNPs	A4zep1	XL-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.314112606001271	0.123727479221131	0.0640662154034822
+Lu BF EU sex combined 5 SNPs	a67sS1	L-HDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.93314391481417	2.19489224742766	0.443306044022782
+Lu BF EU sex combined 5 SNPs	a67sS1	L-HDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.165287078095278	0.11724556261751	0.158613146855436
+Lu BF EU sex combined 5 SNPs	a67sS1	L-HDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.334608121228636	0.452021361060491	0.459149241522487
+Lu BF EU sex combined 5 SNPs	a67sS1	L-HDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.17350032233022	0.11300246033759	0.199490296007547
+Lu BF EU sex combined 5 SNPs	Afv39M	XXL-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.284345921225558	0.408015950314334	0.536013466146677
+Lu BF EU sex combined 5 SNPs	Afv39M	XXL-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0544933242619866	0.109724140868832	0.619443410068909
+Lu BF EU sex combined 5 SNPs	Afv39M	XXL-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0939364306440416	0.0835279809362667	0.260754192184783
+Lu BF EU sex combined 5 SNPs	Afv39M	XXL-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0435290060802078	0.13438437447032	0.76223229158988
+Lu BF EU sex combined 5 SNPs	ajgPW6	M-HDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.45806280755197	1.67512394432948	0.448121138692599
+Lu BF EU sex combined 5 SNPs	ajgPW6	M-HDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.171803372746988	0.11725602567995	0.142866722667955
+Lu BF EU sex combined 5 SNPs	ajgPW6	M-HDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.227866257560876	0.345394992718275	0.509429305841715
+Lu BF EU sex combined 5 SNPs	ajgPW6	M-HDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.185644850497482	0.117757339654999	0.190039370719835
+Lu BF EU sex combined 5 SNPs	aMOnTU	M-LDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.77570293327732	1.41646502757638	0.298782556842502
+Lu BF EU sex combined 5 SNPs	aMOnTU	M-LDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0173795768070435	0.109185584612863	0.87353127852772
+Lu BF EU sex combined 5 SNPs	aMOnTU	M-LDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.314161839260343	0.313806261295012	0.316762458175607
+Lu BF EU sex combined 5 SNPs	aMOnTU	M-LDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.00578950615904616	0.112431104624057	0.961400960828643
+Lu BF EU sex combined 5 SNPs	ao5YM5	EstC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-3.27765091235419	3.23140953935028	0.385127328957086
+Lu BF EU sex combined 5 SNPs	ao5YM5	EstC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0084934237606486	0.113492649295937	0.940344582318592
+Lu BF EU sex combined 5 SNPs	ao5YM5	EstC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.717044044703367	0.674899444909012	0.28803337526589
+Lu BF EU sex combined 5 SNPs	ao5YM5	EstC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.103225685211308	0.118040466323653	0.431213646740775
+Lu BF EU sex combined 5 SNPs	aOn7eJ	PC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.13853481184558	1.1303467796361	0.388017757711027
+Lu BF EU sex combined 5 SNPs	aOn7eJ	PC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0885775645240623	0.117475416520345	0.45084359681404
+Lu BF EU sex combined 5 SNPs	aOn7eJ	PC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.340827148513071	0.231646157744671	0.141202819013679
+Lu BF EU sex combined 5 SNPs	aOn7eJ	PC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0704808991528847	0.120768600656031	0.590811199454145
+Lu BF EU sex combined 5 SNPs	AwKWz8	XL-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.32079922712242	1.73141659834394	0.50105576279517
+Lu BF EU sex combined 5 SNPs	AwKWz8	XL-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0750160450136407	0.128093093875057	0.558119532178504
+Lu BF EU sex combined 5 SNPs	AwKWz8	XL-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.35836388671551	0.344949053886306	0.29885621573936
+Lu BF EU sex combined 5 SNPs	AwKWz8	XL-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0909517713599211	0.12988044485897	0.52234679445937
+Lu BF EU sex combined 5 SNPs	AzmbTV	XS-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.52998480858146	1.78395056297529	0.251164959605425
+Lu BF EU sex combined 5 SNPs	AzmbTV	XS-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.182715874631046	0.115419707795955	0.113408674094592
+Lu BF EU sex combined 5 SNPs	AzmbTV	XS-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.619739234560748	0.399353856071873	0.120696948553065
+Lu BF EU sex combined 5 SNPs	AzmbTV	XS-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.171292634821789	0.117419214331795	0.218375836793323
+Lu BF EU sex combined 5 SNPs	B0s4G8	L-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.04064999444907	1.48145985264593	0.532998064711991
+Lu BF EU sex combined 5 SNPs	B0s4G8	L-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.164883884973735	0.123768042875795	0.182794215769465
+Lu BF EU sex combined 5 SNPs	B0s4G8	L-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.166049550719958	0.29676750423467	0.575801835283278
+Lu BF EU sex combined 5 SNPs	B0s4G8	L-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.168414035565693	0.129214935401572	0.262408336051166
+Lu BF EU sex combined 5 SNPs	b3qpay	L-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.28792412210287	2.36245088193432	0.404253345785324
+Lu BF EU sex combined 5 SNPs	b3qpay	L-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.124287188696051	0.113473558483715	0.273386770996591
+Lu BF EU sex combined 5 SNPs	b3qpay	L-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.423173767485844	0.493143952610057	0.390829475242099
+Lu BF EU sex combined 5 SNPs	b3qpay	L-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.124972318975893	0.120602576138196	0.358625807732132
+Lu BF EU sex combined 5 SNPs	Bb6BQc	IDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.40032939785999	1.27164219193007	0.351236421662797
+Lu BF EU sex combined 5 SNPs	Bb6BQc	IDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.128433525696827	0.110081901949271	0.243327980574846
+Lu BF EU sex combined 5 SNPs	Bb6BQc	IDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.118936204675708	0.279963284515	0.670962162329159
+Lu BF EU sex combined 5 SNPs	Bb6BQc	IDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.157865978439098	0.119785310894525	0.257943182188891
+Lu BF EU sex combined 5 SNPs	bcb1Ha	XL-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.32079922712242	1.73141659834394	0.50105576279517
+Lu BF EU sex combined 5 SNPs	bcb1Ha	XL-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0750160450136407	0.124233290354589	0.545955294749617
+Lu BF EU sex combined 5 SNPs	bcb1Ha	XL-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.35836388671551	0.344949053886306	0.29885621573936
+Lu BF EU sex combined 5 SNPs	bcb1Ha	XL-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0909517713599211	0.121165852008446	0.494614804396177
+Lu BF EU sex combined 5 SNPs	BqrO1H	S-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.46399109984645	1.50791903950132	0.40322428478644
+Lu BF EU sex combined 5 SNPs	BqrO1H	S-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0863940016821756	0.114621569050139	0.451009863168579
+Lu BF EU sex combined 5 SNPs	BqrO1H	S-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.239611249150033	0.316347076093371	0.448791373584869
+Lu BF EU sex combined 5 SNPs	BqrO1H	S-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0980341633792989	0.122730770576589	0.469161871857452
+Lu BF EU sex combined 5 SNPs	bslhO5	FAw6.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.391005729017926	0.602121158457596	0.56237814490627
+Lu BF EU sex combined 5 SNPs	bslhO5	FAw6.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0841343436839602	0.110181590097718	0.445107372522384
+Lu BF EU sex combined 5 SNPs	bslhO5	FAw6.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.174103338308784	0.116422146001356	0.134797398013295
+Lu BF EU sex combined 5 SNPs	bslhO5	FAw6.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0687448092911318	0.141566154077162	0.652648880767005
+Lu BF EU sex combined 5 SNPs	BSoyey	L-LDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.01818369123584	2.48797741651656	0.476646596785691
+Lu BF EU sex combined 5 SNPs	BSoyey	L-LDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.125885098117709	0.116646883808534	0.280499416023625
+Lu BF EU sex combined 5 SNPs	BSoyey	L-LDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.428443373317183	0.502949212989087	0.394290633800239
+Lu BF EU sex combined 5 SNPs	BSoyey	L-LDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.171105830081748	0.124774580640059	0.242172943381006
+Lu BF EU sex combined 5 SNPs	BTsYyd	S-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.94201427790098	2.45663303691912	0.31707538051905
+Lu BF EU sex combined 5 SNPs	BTsYyd	S-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.11367638775139	0.107187167661325	0.288898540235062
+Lu BF EU sex combined 5 SNPs	BTsYyd	S-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.479690292642763	0.54012450561677	0.37448126743698
+Lu BF EU sex combined 5 SNPs	BTsYyd	S-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.117995973066022	0.117233591740442	0.371118094394739
+Lu BF EU sex combined 5 SNPs	bvWLc0	FAw6byFA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.391005729017926	0.602121158457596	0.56237814490627
+Lu BF EU sex combined 5 SNPs	bvWLc0	FAw6byFA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0841343436839602	0.114806403696392	0.463658046889083
+Lu BF EU sex combined 5 SNPs	bvWLc0	FAw6byFA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.174103338308784	0.116422146001356	0.134797398013295
+Lu BF EU sex combined 5 SNPs	bvWLc0	FAw6byFA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0687448092911318	0.137632780011816	0.643665221435842
+Lu BF EU sex combined 5 SNPs	c7qkdn	M-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.38466180829511	0.747744100649289	0.64245005630596
+Lu BF EU sex combined 5 SNPs	c7qkdn	M-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0795447193901168	0.119364973493988	0.505155992206618
+Lu BF EU sex combined 5 SNPs	c7qkdn	M-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.139243878501902	0.144038697970092	0.33368823237685
+Lu BF EU sex combined 5 SNPs	c7qkdn	M-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0235685593399058	0.143199168201761	0.877252304219309
+Lu BF EU sex combined 5 SNPs	cAJoYk	XS-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.28373569096228	0.952179799851678	0.27034975104999
+Lu BF EU sex combined 5 SNPs	cAJoYk	XS-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.00282871126858536	0.11155442913219	0.979770025990053
+Lu BF EU sex combined 5 SNPs	cAJoYk	XS-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.196183836730346	0.217307746048436	0.366635950787197
+Lu BF EU sex combined 5 SNPs	cAJoYk	XS-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0301630112875912	0.116304284573485	0.808169053295116
+Lu BF EU sex combined 5 SNPs	cArdaR	XL-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.462524594130997	0.483515771666428	0.409346004889572
+Lu BF EU sex combined 5 SNPs	cArdaR	XL-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.119733083174551	0.11339185753568	0.291003343642521
+Lu BF EU sex combined 5 SNPs	cArdaR	XL-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.100305312911677	0.100094722410347	0.316293408644306
+Lu BF EU sex combined 5 SNPs	cArdaR	XL-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0897327023412056	0.129831306060754	0.527490277394354
+Lu BF EU sex combined 5 SNPs	CcjEeJ	M-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.662698928618671	0.978832790819254	0.546918651170209
+Lu BF EU sex combined 5 SNPs	CcjEeJ	M-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.241711311856705	0.113877229525008	0.0337906959788445
+Lu BF EU sex combined 5 SNPs	CcjEeJ	M-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0495841530669079	0.201536033044984	0.805658076663631
+Lu BF EU sex combined 5 SNPs	CcjEeJ	M-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.262253272837924	0.125517521972	0.104904701043889
+Lu BF EU sex combined 5 SNPs	ceVu4C	L-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.76317356113932	2.66986234300804	0.556178067367139
+Lu BF EU sex combined 5 SNPs	ceVu4C	L-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.170507563484348	0.142789895005391	0.232432964485916
+Lu BF EU sex combined 5 SNPs	ceVu4C	L-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.504609973136542	0.524325777278766	0.335849819704007
+Lu BF EU sex combined 5 SNPs	ceVu4C	L-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.142352423088926	0.134597342782317	0.349871414902709
+Lu BF EU sex combined 5 SNPs	CHJuCP	S-HDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-3.33809729940048	2.79630086992591	0.31836514517373
+Lu BF EU sex combined 5 SNPs	CHJuCP	S-HDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0330304000562387	0.110964302859874	0.765957408694062
+Lu BF EU sex combined 5 SNPs	CHJuCP	S-HDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.637809907436975	0.609029752261106	0.294981640746082
+Lu BF EU sex combined 5 SNPs	CHJuCP	S-HDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0297644600084856	0.114087558115448	0.807057374831885
+Lu BF EU sex combined 5 SNPs	cLe6sc	XXL-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.123959361362	1.57501555502516	0.526970495683077
+Lu BF EU sex combined 5 SNPs	cLe6sc	XXL-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.129747208669971	0.121095251569559	0.283968249465437
+Lu BF EU sex combined 5 SNPs	cLe6sc	XXL-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.201395121111662	0.31522227574051	0.522888794697282
+Lu BF EU sex combined 5 SNPs	cLe6sc	XXL-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.164295533982826	0.117670604186106	0.235145582997084
+Lu BF EU sex combined 5 SNPs	cMvwl2	M-LDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.4383054018627	3.83752636889493	0.331189121473384
+Lu BF EU sex combined 5 SNPs	cMvwl2	M-LDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0099049104134249	0.109559369280267	0.927963964615793
+Lu BF EU sex combined 5 SNPs	cMvwl2	M-LDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.900842214307824	0.826603848487837	0.275796275463952
+Lu BF EU sex combined 5 SNPs	cMvwl2	M-LDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0170027351996911	0.126996171953334	0.899960340757726
+Lu BF EU sex combined 5 SNPs	cOOoUs	XL-HDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.1533832721396	2.43764753301638	0.442082745248656
+Lu BF EU sex combined 5 SNPs	cOOoUs	XL-HDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.268933573092538	0.117944959982087	0.0225981036550348
+Lu BF EU sex combined 5 SNPs	cOOoUs	XL-HDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.257977594747331	0.507377940705335	0.611136025591934
+Lu BF EU sex combined 5 SNPs	cOOoUs	XL-HDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.277386501322081	0.122309720327138	0.0859265332862625
+Lu BF EU sex combined 5 SNPs	crG89o	L-LDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.40684276916308	4.48225064187678	0.398017426590237
+Lu BF EU sex combined 5 SNPs	crG89o	L-LDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0814594845086762	0.114107095490521	0.475297531199075
+Lu BF EU sex combined 5 SNPs	crG89o	L-LDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.951703548682875	0.931592181232699	0.306975860593029
+Lu BF EU sex combined 5 SNPs	crG89o	L-LDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.152492028963801	0.120289877322089	0.273674626228323
+Lu BF EU sex combined 5 SNPs	ctpdCO	M-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.38466180829511	0.747744100649289	0.64245005630596
+Lu BF EU sex combined 5 SNPs	ctpdCO	M-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0795447193901168	0.113271729477397	0.482525210042811
+Lu BF EU sex combined 5 SNPs	ctpdCO	M-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.139243878501902	0.144038697970092	0.33368823237685
+Lu BF EU sex combined 5 SNPs	ctpdCO	M-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0235685593399058	0.148593189021864	0.881660912731852
+Lu BF EU sex combined 5 SNPs	d0heWP	VLDL-D.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.0828378368986779	0.528789856603345	0.885465164406839
+Lu BF EU sex combined 5 SNPs	d0heWP	VLDL-D.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0369369977227555	0.110062226584106	0.737171739528507
+Lu BF EU sex combined 5 SNPs	d0heWP	VLDL-D.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0736485555699594	0.0999981024782434	0.461426752924189
+Lu BF EU sex combined 5 SNPs	d0heWP	VLDL-D.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.00996271049546593	0.149074801939424	0.949923874681436
+Lu BF EU sex combined 5 SNPs	D32iq6	VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.731725420668549	0.456549860632615	0.207321766577783
+Lu BF EU sex combined 5 SNPs	D32iq6	VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.110810037033509	0.11803329920667	0.347831804224159
+Lu BF EU sex combined 5 SNPs	D32iq6	VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.194377683644493	0.1052262319036	0.0647129440694133
+Lu BF EU sex combined 5 SNPs	D32iq6	VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0779035551075818	0.147805636413146	0.626024608310051
+Lu BF EU sex combined 5 SNPs	D6a0NW	Val.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.656954259871091	0.659818772472546	0.392801257463506
+Lu BF EU sex combined 5 SNPs	D6a0NW	Val.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.339603529123433	0.111944447264578	0.00241591267180377
+Lu BF EU sex combined 5 SNPs	D6a0NW	Val.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.294188812388772	0.131229003137568	0.0249744819983655
+Lu BF EU sex combined 5 SNPs	D6a0NW	Val.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.337960669666123	0.134045411176227	0.065270482529987
+Lu BF EU sex combined 5 SNPs	D9ydep	S-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-3.33809729940048	2.79630086992591	0.31836514517373
+Lu BF EU sex combined 5 SNPs	D9ydep	S-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0330304000562387	0.110045026137322	0.764060070155255
+Lu BF EU sex combined 5 SNPs	D9ydep	S-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.637809907436975	0.609029752261106	0.294981640746082
+Lu BF EU sex combined 5 SNPs	D9ydep	S-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0297644600084856	0.105612778748268	0.792056418587721
+Lu BF EU sex combined 5 SNPs	DJ61Tv	XXL-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.284345921225558	0.408015950314334	0.536013466146677
+Lu BF EU sex combined 5 SNPs	DJ61Tv	XXL-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0544933242619866	0.109258397401733	0.617951010892472
+Lu BF EU sex combined 5 SNPs	DJ61Tv	XXL-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0939364306440416	0.0835279809362667	0.260754192184783
+Lu BF EU sex combined 5 SNPs	DJ61Tv	XXL-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0435290060802078	0.133636818126928	0.760958959544674
+Lu BF EU sex combined 5 SNPs	djapCn	XS-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.424792415985531	0.390342526314921	0.356094072086787
+Lu BF EU sex combined 5 SNPs	djapCn	XS-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.245164401407003	0.102771964693844	0.0170550743176319
+Lu BF EU sex combined 5 SNPs	djapCn	XS-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.227653401714452	0.0617613548650749	0.000227791174211673
+Lu BF EU sex combined 5 SNPs	djapCn	XS-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.242495731654871	0.125484158545248	0.125456964861215
+Lu BF EU sex combined 5 SNPs	dom5dX	XS-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.477314565178002	0.796547621599902	0.59125305890242
+Lu BF EU sex combined 5 SNPs	dom5dX	XS-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.195613347409383	0.131508157379783	0.136892911398834
+Lu BF EU sex combined 5 SNPs	dom5dX	XS-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0891489976873023	0.156767363944458	0.569579673935054
+Lu BF EU sex combined 5 SNPs	dom5dX	XS-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.336135805128313	0.216282455795919	0.195116138832864
+Lu BF EU sex combined 5 SNPs	DQqcga	S-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.53735407687193	1.61445750840712	0.411225209504488
+Lu BF EU sex combined 5 SNPs	DQqcga	S-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.10914164122167	0.122012922571772	0.371049687282478
+Lu BF EU sex combined 5 SNPs	DQqcga	S-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.238524220866336	0.338115052878628	0.480528476927704
+Lu BF EU sex combined 5 SNPs	DQqcga	S-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.122423115838779	0.124558986973381	0.381326063624349
+Lu BF EU sex combined 5 SNPs	dsot2R	L-LDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.08610724577604	4.12404011267982	0.394823074071153
+Lu BF EU sex combined 5 SNPs	dsot2R	L-LDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0523500914335886	0.114742829353737	0.648218513773836
+Lu BF EU sex combined 5 SNPs	dsot2R	L-LDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.860446992627648	0.859329635291462	0.316681664219927
+Lu BF EU sex combined 5 SNPs	dsot2R	L-LDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.202151892433535	0.117197841960586	0.159636339073855
+Lu BF EU sex combined 5 SNPs	DUptcE	XL-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.898226592831832	1.48136618137828	0.587088339967173
+Lu BF EU sex combined 5 SNPs	DUptcE	XL-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0900725681595946	0.118900068110372	0.448721321194892
+Lu BF EU sex combined 5 SNPs	DUptcE	XL-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.202490727239226	0.29071407685536	0.48609772730959
+Lu BF EU sex combined 5 SNPs	DUptcE	XL-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.112369087514187	0.122055174517362	0.409336397085153
+Lu BF EU sex combined 5 SNPs	DWLFC7	M-LDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.50314898659728	3.9962265356935	0.341800471319148
+Lu BF EU sex combined 5 SNPs	DWLFC7	M-LDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0191721138466908	0.115634115385612	0.868314499147824
+Lu BF EU sex combined 5 SNPs	DWLFC7	M-LDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.935229947390244	0.854593235142719	0.273798507810276
+Lu BF EU sex combined 5 SNPs	DWLFC7	M-LDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0256221895969239	0.119342573180364	0.840506932331012
+Lu BF EU sex combined 5 SNPs	DxRmxB	XXL-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.05529338380733	1.28975016116959	0.209288282480227
+Lu BF EU sex combined 5 SNPs	DxRmxB	XXL-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0331536052425063	0.124695473076915	0.790334266759204
+Lu BF EU sex combined 5 SNPs	DxRmxB	XXL-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.277568806542061	0.314789098396	0.37790596911372
+Lu BF EU sex combined 5 SNPs	DxRmxB	XXL-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0181557289500862	0.129568374442964	0.895334171240705
+Lu BF EU sex combined 5 SNPs	Dy9Fw2	M-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.58012066415802	1.74841190230459	0.432746648657531
+Lu BF EU sex combined 5 SNPs	Dy9Fw2	M-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.164367050491035	0.113792277633552	0.148612940998755
+Lu BF EU sex combined 5 SNPs	Dy9Fw2	M-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.275935560796309	0.361394242533242	0.445147023625002
+Lu BF EU sex combined 5 SNPs	Dy9Fw2	M-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.141782061527001	0.124100233131339	0.316994357859067
+Lu BF EU sex combined 5 SNPs	E5NbFN	XL-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.402780046256173	0.708101682126946	0.609277495134494
+Lu BF EU sex combined 5 SNPs	E5NbFN	XL-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0736797873919673	0.122287544197776	0.546832972097286
+Lu BF EU sex combined 5 SNPs	E5NbFN	XL-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.02721315733092	0.140461251000984	0.846378385075801
+Lu BF EU sex combined 5 SNPs	E5NbFN	XL-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.207572388761837	0.208022300410695	0.374830517043023
+Lu BF EU sex combined 5 SNPs	eH2Krn	SM.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.08872154766397	1.56499377214169	0.536682225834014
+Lu BF EU sex combined 5 SNPs	eH2Krn	SM.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0563432154253109	0.127013639591151	0.657332005558473
+Lu BF EU sex combined 5 SNPs	eH2Krn	SM.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.213504160843546	0.311730414163472	0.493407025638606
+Lu BF EU sex combined 5 SNPs	eH2Krn	SM.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.220695803527011	0.122188111181353	0.145187928460851
+Lu BF EU sex combined 5 SNPs	Ei6xll	XL-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.251247928937199	0.635608776252124	0.71906141724318
+Lu BF EU sex combined 5 SNPs	Ei6xll	XL-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0133319085567202	0.122638863002832	0.913433559325507
+Lu BF EU sex combined 5 SNPs	Ei6xll	XL-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.109962419854814	0.121331035679873	0.36477663972555
+Lu BF EU sex combined 5 SNPs	Ei6xll	XL-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0588125153418025	0.144078056215755	0.704033396327244
+Lu BF EU sex combined 5 SNPs	ePpezk	XXL-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.505877498477885	0.407780231864374	0.302943981202871
+Lu BF EU sex combined 5 SNPs	ePpezk	XXL-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0564265822419218	0.110582107840155	0.609863266916966
+Lu BF EU sex combined 5 SNPs	ePpezk	XXL-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0700608826694862	0.0858572224175954	0.414490881722033
+Lu BF EU sex combined 5 SNPs	ePpezk	XXL-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.054393074697997	0.151712929194439	0.738071232512462
+Lu BF EU sex combined 5 SNPs	Ez3ZqJ	LDL-D.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.63327490906117	2.3515269923264	0.344363066176042
+Lu BF EU sex combined 5 SNPs	Ez3ZqJ	LDL-D.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0448122000653607	0.114967666784476	0.696698572153083
+Lu BF EU sex combined 5 SNPs	Ez3ZqJ	LDL-D.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.56859923384558	0.501092958775702	0.256493464671047
+Lu BF EU sex combined 5 SNPs	Ez3ZqJ	LDL-D.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0181375417718314	0.120369363998528	0.887519624575452
+Lu BF EU sex combined 5 SNPs	f12LHj	SFA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.2300632304486	0.961937896586958	0.290939571204338
+Lu BF EU sex combined 5 SNPs	f12LHj	SFA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.111691102326754	0.110697839585332	0.312987708713549
+Lu BF EU sex combined 5 SNPs	f12LHj	SFA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.331471194418528	0.207839685370147	0.110747857587611
+Lu BF EU sex combined 5 SNPs	f12LHj	SFA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.109029949840533	0.120616720143369	0.417146669074219
+Lu BF EU sex combined 5 SNPs	F4FpnC	Serum-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-3.1941563394677	3.10964442788184	0.37991647360467
+Lu BF EU sex combined 5 SNPs	F4FpnC	Serum-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0041898503055554	0.112168371996303	0.970203368597343
+Lu BF EU sex combined 5 SNPs	F4FpnC	Serum-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.700688985199979	0.650875687422739	0.281689068040903
+Lu BF EU sex combined 5 SNPs	F4FpnC	Serum-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0942385655823346	0.113286086151737	0.45226405052008
+Lu BF EU sex combined 5 SNPs	FamBI3	M-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.40334489251151	1.25901401722638	0.346260862241053
+Lu BF EU sex combined 5 SNPs	FamBI3	M-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0884964124239817	0.121929070475667	0.467959913201915
+Lu BF EU sex combined 5 SNPs	FamBI3	M-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.371105488892528	0.264611406760643	0.160779533833903
+Lu BF EU sex combined 5 SNPs	FamBI3	M-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0533614220599925	0.111119994354076	0.65615587194131
+Lu BF EU sex combined 5 SNPs	fcrEas	M-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.4836159161796	1.73162212791949	0.454554004939719
+Lu BF EU sex combined 5 SNPs	fcrEas	M-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.177606752819473	0.112493452876738	0.114377677057687
+Lu BF EU sex combined 5 SNPs	fcrEas	M-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.22200869712094	0.356582412348911	0.533546513138308
+Lu BF EU sex combined 5 SNPs	fcrEas	M-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.192844774427023	0.124312645220805	0.195776532796745
+Lu BF EU sex combined 5 SNPs	fO8sEc	M-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.19692307019629	0.975742123428673	0.307436535189117
+Lu BF EU sex combined 5 SNPs	fO8sEc	M-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.00782571179423229	0.109778196844325	0.943169678690291
+Lu BF EU sex combined 5 SNPs	fO8sEc	M-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.245541283707545	0.21300219991417	0.24900723408406
+Lu BF EU sex combined 5 SNPs	fO8sEc	M-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0220524494674394	0.119049470597722	0.862055999886015
+Lu BF EU sex combined 5 SNPs	FoXxP9	XL-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.251247928937199	0.635608776252124	0.71906141724318
+Lu BF EU sex combined 5 SNPs	FoXxP9	XL-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0133319085567202	0.132194537288548	0.919668997594955
+Lu BF EU sex combined 5 SNPs	FoXxP9	XL-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.109962419854814	0.121331035679873	0.36477663972555
+Lu BF EU sex combined 5 SNPs	FoXxP9	XL-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0588125153418025	0.138610673092802	0.693172330521253
+Lu BF EU sex combined 5 SNPs	fZ4NMR	XL-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.84205197022153	0.752374978751457	0.344590903666579
+Lu BF EU sex combined 5 SNPs	fZ4NMR	XL-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0144674112347353	0.128319531054782	0.910232565006181
+Lu BF EU sex combined 5 SNPs	fZ4NMR	XL-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.186530073181271	0.160195494718382	0.244265894394672
+Lu BF EU sex combined 5 SNPs	fZ4NMR	XL-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0171761239687137	0.141357363840014	0.909147839486411
+Lu BF EU sex combined 5 SNPs	g89MMP	S-LDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.34780511462684	4.29910838462269	0.386344948306014
+Lu BF EU sex combined 5 SNPs	g89MMP	S-LDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0677195384573243	0.119035326247238	0.569422059156681
+Lu BF EU sex combined 5 SNPs	g89MMP	S-LDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.915318543302986	0.899115836271106	0.308668113455627
+Lu BF EU sex combined 5 SNPs	g89MMP	S-LDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.188415052389513	0.117513943460809	0.184122896066352
+Lu BF EU sex combined 5 SNPs	gcWBwe	M-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.45806280755197	1.67512394432948	0.448121138692599
+Lu BF EU sex combined 5 SNPs	gcWBwe	M-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.171803372746988	0.113937940934792	0.131588319418304
+Lu BF EU sex combined 5 SNPs	gcWBwe	M-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.227866257560876	0.345394992718275	0.509429305841715
+Lu BF EU sex combined 5 SNPs	gcWBwe	M-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.185644850497482	0.113288567261317	0.176620498060625
+Lu BF EU sex combined 5 SNPs	gEwL9j	IDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.64822917490648	0.935734989537981	0.176381943334808
+Lu BF EU sex combined 5 SNPs	gEwL9j	IDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.223561648616724	0.126084728799953	0.0762110658152009
+Lu BF EU sex combined 5 SNPs	gEwL9j	IDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.421372111532421	0.223942119846678	0.0598887572708416
+Lu BF EU sex combined 5 SNPs	gEwL9j	IDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.185676204202246	0.129168090867257	0.223954202714028
+Lu BF EU sex combined 5 SNPs	GJp7WO	S-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.18664397115439	0.930827978860315	0.292145672881133
+Lu BF EU sex combined 5 SNPs	GJp7WO	S-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0267594964471713	0.111899048028783	0.810997316239359
+Lu BF EU sex combined 5 SNPs	GJp7WO	S-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.198247703397798	0.20787554788831	0.340243330747346
+Lu BF EU sex combined 5 SNPs	GJp7WO	S-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0263390374237266	0.128073518949378	0.847102443821028
+Lu BF EU sex combined 5 SNPs	GMcOrs	L-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.385642730749214	0.84301230950135	0.678437887618945
+Lu BF EU sex combined 5 SNPs	GMcOrs	L-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0231771878080503	0.125666996752016	0.85367349272172
+Lu BF EU sex combined 5 SNPs	GMcOrs	L-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0119762456153855	0.164847713091727	0.942084351497374
+Lu BF EU sex combined 5 SNPs	GMcOrs	L-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.149582227399065	0.211555245262321	0.518544719944557
+Lu BF EU sex combined 5 SNPs	gMJWK7	IDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.823431656034334	1.04986444481118	0.490081502313185
+Lu BF EU sex combined 5 SNPs	gMJWK7	IDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.149161331851355	0.114449031819249	0.192472633406891
+Lu BF EU sex combined 5 SNPs	gMJWK7	IDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0967065089743893	0.214534693020094	0.652152955247144
+Lu BF EU sex combined 5 SNPs	gMJWK7	IDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.17309830089292	0.125116217550738	0.2387115280933
+Lu BF EU sex combined 5 SNPs	GMQ5tM	IDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.04644752440751	1.60379827066014	0.291782735376266
+Lu BF EU sex combined 5 SNPs	GMQ5tM	IDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0392540219945744	0.112193329935546	0.726429963220197
+Lu BF EU sex combined 5 SNPs	GMQ5tM	IDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.331025055196703	0.358908226983198	0.356366306068565
+Lu BF EU sex combined 5 SNPs	GMQ5tM	IDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0217169175004208	0.111393071043959	0.854928237737847
+Lu BF EU sex combined 5 SNPs	gRCoAB	LDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.34840650080914	4.26207019321906	0.382710607150628
+Lu BF EU sex combined 5 SNPs	gRCoAB	LDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0383915293430921	0.113283875049456	0.734687564313322
+Lu BF EU sex combined 5 SNPs	gRCoAB	LDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.900412679242472	0.89354167956734	0.31360348767635
+Lu BF EU sex combined 5 SNPs	gRCoAB	LDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.184866513517543	0.120992900658726	0.201254128822408
+Lu BF EU sex combined 5 SNPs	GrTcds	Lac.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.0688785524550306	0.787629630104991	0.935823732568171
+Lu BF EU sex combined 5 SNPs	GrTcds	Lac.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0150398594479988	0.139610980461123	0.914212323085721
+Lu BF EU sex combined 5 SNPs	GrTcds	Lac.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.122006234443745	0.150505700755548	0.417571319904932
+Lu BF EU sex combined 5 SNPs	GrTcds	Lac.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0391861304493655	0.174454201462185	0.833281694126009
+Lu BF EU sex combined 5 SNPs	GXPtzg	S-LDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.58474150557578	4.21890901759801	0.356677582806841
+Lu BF EU sex combined 5 SNPs	GXPtzg	S-LDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0480306592620618	0.111542895717332	0.666757361100617
+Lu BF EU sex combined 5 SNPs	GXPtzg	S-LDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.953557776536441	0.895249536861745	0.286816782964827
+Lu BF EU sex combined 5 SNPs	GXPtzg	S-LDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0523435377602206	0.12105175975852	0.687737551994227
+Lu BF EU sex combined 5 SNPs	Gz8CLx	L-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.731725420668549	0.456549860632615	0.207321766577783
+Lu BF EU sex combined 5 SNPs	Gz8CLx	L-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.110810037033509	0.114526190298548	0.333268191849151
+Lu BF EU sex combined 5 SNPs	Gz8CLx	L-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.194377683644493	0.1052262319036	0.0647129440694133
+Lu BF EU sex combined 5 SNPs	Gz8CLx	L-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0779035551075818	0.139669056899266	0.6067405575459
+Lu BF EU sex combined 5 SNPs	H1ed1o	XS-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.28373569096228	0.952179799851678	0.27034975104999
+Lu BF EU sex combined 5 SNPs	H1ed1o	XS-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.00282871126858536	0.105517132660661	0.978612812143347
+Lu BF EU sex combined 5 SNPs	H1ed1o	XS-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.196183836730346	0.217307746048436	0.366635950787197
+Lu BF EU sex combined 5 SNPs	H1ed1o	XS-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0301630112875912	0.117910055211322	0.810711263615703
+Lu BF EU sex combined 5 SNPs	h89xQB	XXL-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.05529338380733	1.28975016116959	0.209288282480227
+Lu BF EU sex combined 5 SNPs	h89xQB	XXL-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0331536052425063	0.125911608514786	0.792312756881404
+Lu BF EU sex combined 5 SNPs	h89xQB	XXL-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.277568806542061	0.314789098396	0.37790596911372
+Lu BF EU sex combined 5 SNPs	h89xQB	XXL-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0181557289500862	0.127194821179283	0.893397350746348
+Lu BF EU sex combined 5 SNPs	hDcdpT	L-LDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.04514841281924	1.57608585737531	0.285186624536599
+Lu BF EU sex combined 5 SNPs	hDcdpT	L-LDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0140705505258315	0.110245184659092	0.898442093033999
+Lu BF EU sex combined 5 SNPs	hDcdpT	L-LDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.366887407808608	0.352258234732275	0.297629784047866
+Lu BF EU sex combined 5 SNPs	hDcdpT	L-LDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.00856180410664231	0.111841928719445	0.942655448043798
+Lu BF EU sex combined 5 SNPs	hE3jzK	Ace.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.786065906022452	1.48297256425157	0.632794889931101
+Lu BF EU sex combined 5 SNPs	hE3jzK	Ace.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.332249446824673	0.261770853494359	0.204356283997219
+Lu BF EU sex combined 5 SNPs	hE3jzK	Ace.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.147010345426007	0.288858983587158	0.610798032049717
+Lu BF EU sex combined 5 SNPs	hE3jzK	Ace.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.47940259873859	0.335762333113458	0.226530449581224
+Lu BF EU sex combined 5 SNPs	hg69IB	M-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.966775899859621	0.725170641510676	0.274672277703429
+Lu BF EU sex combined 5 SNPs	hg69IB	M-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0164394905966977	0.119066331650888	0.890185080685893
+Lu BF EU sex combined 5 SNPs	hg69IB	M-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.16087046254073	0.164101720363418	0.326933405535035
+Lu BF EU sex combined 5 SNPs	hg69IB	M-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0398843816155161	0.13066819275012	0.775411874094689
+Lu BF EU sex combined 5 SNPs	HGewR6	S-LDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.43757990897902	3.93713111373096	0.341706227811953
+Lu BF EU sex combined 5 SNPs	HGewR6	S-LDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0315182139454433	0.111310931576661	0.777058248502852
+Lu BF EU sex combined 5 SNPs	HGewR6	S-LDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.903895137404638	0.842973472466404	0.283598792239182
+Lu BF EU sex combined 5 SNPs	HGewR6	S-LDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0393486230491655	0.124800148233685	0.76830308278084
+Lu BF EU sex combined 5 SNPs	HI7Mg6	Phe.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.22942473875589	0.39059708949329	0.0513624849482046
+Lu BF EU sex combined 5 SNPs	HI7Mg6	Phe.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.427369086995123	0.107568009802364	7.09692139837877e-05
+Lu BF EU sex combined 5 SNPs	HI7Mg6	Phe.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.302094928271677	0.113465738085666	0.00775780063464561
+Lu BF EU sex combined 5 SNPs	HI7Mg6	Phe.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.439536167527984	0.135204960121632	0.0313494154588941
+Lu BF EU sex combined 5 SNPs	HipS7A	L-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.04064999444907	1.48145985264593	0.532998064711991
+Lu BF EU sex combined 5 SNPs	HipS7A	L-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.164883884973735	0.121484725169769	0.174705078392879
+Lu BF EU sex combined 5 SNPs	HipS7A	L-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.166049550719958	0.29676750423467	0.575801835283278
+Lu BF EU sex combined 5 SNPs	HipS7A	L-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.168414035565693	0.127196081433811	0.256079554630211
+Lu BF EU sex combined 5 SNPs	hJdJCp	S-LDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.43757990897902	3.93713111373096	0.341706227811953
+Lu BF EU sex combined 5 SNPs	hJdJCp	S-LDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0315182139454433	0.116026715593483	0.785894088440984
+Lu BF EU sex combined 5 SNPs	hJdJCp	S-LDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.903895137404638	0.842973472466404	0.283598792239182
+Lu BF EU sex combined 5 SNPs	hJdJCp	S-LDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0393486230491655	0.117348979361657	0.754237321880865
+Lu BF EU sex combined 5 SNPs	HkOWXT	XXL-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.284345921225558	0.408015950314334	0.536013466146677
+Lu BF EU sex combined 5 SNPs	HkOWXT	XXL-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0544933242619866	0.102808034343639	0.596077765823868
+Lu BF EU sex combined 5 SNPs	HkOWXT	XXL-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0939364306440416	0.0835279809362667	0.260754192184783
+Lu BF EU sex combined 5 SNPs	HkOWXT	XXL-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0435290060802078	0.134900939231431	0.763104449874863
+Lu BF EU sex combined 5 SNPs	hPCfFS	TGbyPG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.13335269799009	1.5374340282759	0.514438050689124
+Lu BF EU sex combined 5 SNPs	hPCfFS	TGbyPG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.184941077156477	0.116093588806249	0.111152480771814
+Lu BF EU sex combined 5 SNPs	hPCfFS	TGbyPG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.119011854208256	0.312078095713037	0.702941482941075
+Lu BF EU sex combined 5 SNPs	hPCfFS	TGbyPG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.191945339417452	0.120029804842257	0.185034912500513
+Lu BF EU sex combined 5 SNPs	iCmZHz	IDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.82814314768124	1.3465620128385	0.267675796980622
+Lu BF EU sex combined 5 SNPs	iCmZHz	IDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0263500623428601	0.112398102794133	0.814647198956826
+Lu BF EU sex combined 5 SNPs	iCmZHz	IDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.308018942028838	0.306209850040238	0.314459821001341
+Lu BF EU sex combined 5 SNPs	iCmZHz	IDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0338208203906758	0.110012591813314	0.773859930108371
+Lu BF EU sex combined 5 SNPs	Ievudo	S-HDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.280346591847813	0.426939557496721	0.558285939305552
+Lu BF EU sex combined 5 SNPs	Ievudo	S-HDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.045173699369959	0.104913452977553	0.666773336951913
+Lu BF EU sex combined 5 SNPs	Ievudo	S-HDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0556542702290579	0.089061296435469	0.532037679256497
+Lu BF EU sex combined 5 SNPs	Ievudo	S-HDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0212122477878647	0.135109166616273	0.882850190187561
+Lu BF EU sex combined 5 SNPs	iONlRg	M-LDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.24717619069536	4.01270514965802	0.36753945661753
+Lu BF EU sex combined 5 SNPs	iONlRg	M-LDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0686267535588628	0.112110288434077	0.540447721703607
+Lu BF EU sex combined 5 SNPs	iONlRg	M-LDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.891463704879702	0.84653218022858	0.292305629468365
+Lu BF EU sex combined 5 SNPs	iONlRg	M-LDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0728214037244517	0.114960313192278	0.560851596161162
+Lu BF EU sex combined 5 SNPs	IVYH2V	FAw3.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.690710830374103	0.391803269529783	0.176120164924232
+Lu BF EU sex combined 5 SNPs	IVYH2V	FAw3.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.160443375498268	0.104185385104578	0.123565307810944
+Lu BF EU sex combined 5 SNPs	IVYH2V	FAw3.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.134055877542778	0.0752459704065161	0.0748195666966286
+Lu BF EU sex combined 5 SNPs	IVYH2V	FAw3.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.157270958791257	0.118900288821794	0.256484205589501
+Lu BF EU sex combined 5 SNPs	j55EmY	XL-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.1533832721396	2.43764753301638	0.442082745248656
+Lu BF EU sex combined 5 SNPs	j55EmY	XL-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.268933573092538	0.118976211522786	0.0237965696364188
+Lu BF EU sex combined 5 SNPs	j55EmY	XL-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.257977594747331	0.507377940705335	0.611136025591934
+Lu BF EU sex combined 5 SNPs	j55EmY	XL-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.277386501322081	0.12317455908447	0.0874533230084042
+Lu BF EU sex combined 5 SNPs	j5BZTY	M-LDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.30058028093342	4.33259346482955	0.394068814015438
+Lu BF EU sex combined 5 SNPs	j5BZTY	M-LDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0438133536611591	0.116012189493792	0.70568196828798
+Lu BF EU sex combined 5 SNPs	j5BZTY	M-LDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.910018679373337	0.902869080171114	0.313493467031589
+Lu BF EU sex combined 5 SNPs	j5BZTY	M-LDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.211858483098189	0.120043436264586	0.152352367457861
+Lu BF EU sex combined 5 SNPs	jcbEUC	XL-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.84205197022153	0.752374978751457	0.344590903666579
+Lu BF EU sex combined 5 SNPs	jcbEUC	XL-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0144674112347353	0.132579557802575	0.913105338376433
+Lu BF EU sex combined 5 SNPs	jcbEUC	XL-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.186530073181271	0.160195494718382	0.244265894394672
+Lu BF EU sex combined 5 SNPs	jcbEUC	XL-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0171761239687137	0.144666670509241	0.911213823741251
+Lu BF EU sex combined 5 SNPs	JCQsxq	ApoB.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-3.67549624367074	3.77181536072298	0.4016968798823
+Lu BF EU sex combined 5 SNPs	JCQsxq	ApoB.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.266660232578481	0.110899387649705	0.0161935455096676
+Lu BF EU sex combined 5 SNPs	JCQsxq	ApoB.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.646547401236851	0.789611613573038	0.412890838451778
+Lu BF EU sex combined 5 SNPs	JCQsxq	ApoB.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.271320059891301	0.125220376670743	0.0961603389047643
+Lu BF EU sex combined 5 SNPs	JFP5st	XXL-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.505877498477885	0.407780231864374	0.302943981202871
+Lu BF EU sex combined 5 SNPs	JFP5st	XXL-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0564265822419218	0.11059236185257	0.609896408509712
+Lu BF EU sex combined 5 SNPs	JFP5st	XXL-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0700608826694862	0.0858572224175954	0.414490881722033
+Lu BF EU sex combined 5 SNPs	JFP5st	XXL-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.054393074697997	0.153140287002024	0.740388618181108
+Lu BF EU sex combined 5 SNPs	JiqTkA	FAw3byFA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.690710830374103	0.391803269529783	0.176120164924232
+Lu BF EU sex combined 5 SNPs	JiqTkA	FAw3byFA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.160443375498268	0.105300897816117	0.12759221977378
+Lu BF EU sex combined 5 SNPs	JiqTkA	FAw3byFA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.134055877542778	0.0752459704065161	0.0748195666966286
+Lu BF EU sex combined 5 SNPs	JiqTkA	FAw3byFA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.157270958791257	0.121546399512885	0.265348536547173
+Lu BF EU sex combined 5 SNPs	JMQy1p	Pyr.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.762012401826572	0.602155841915014	0.295053064967132
+Lu BF EU sex combined 5 SNPs	JMQy1p	Pyr.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.121049382689141	0.145135291614859	0.40425555493564
+Lu BF EU sex combined 5 SNPs	JMQy1p	Pyr.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0217600893897112	0.140837208920451	0.877211365216378
+Lu BF EU sex combined 5 SNPs	JMQy1p	Pyr.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.158391708139366	0.163045984791999	0.386331955444085
+Lu BF EU sex combined 5 SNPs	jNQ1t5	IDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.823431656034334	1.04986444481118	0.490081502313185
+Lu BF EU sex combined 5 SNPs	jNQ1t5	IDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.149161331851355	0.114388488040373	0.192237327797938
+Lu BF EU sex combined 5 SNPs	jNQ1t5	IDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0967065089743893	0.214534693020094	0.652152955247144
+Lu BF EU sex combined 5 SNPs	jNQ1t5	IDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.17309830089292	0.121956761613544	0.228808186031155
+Lu BF EU sex combined 5 SNPs	kSow66	XS-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.477314565178002	0.796547621599902	0.59125305890242
+Lu BF EU sex combined 5 SNPs	kSow66	XS-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.195613347409383	0.129970289638222	0.13230813088152
+Lu BF EU sex combined 5 SNPs	kSow66	XS-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0891489976873023	0.156767363944458	0.569579673935054
+Lu BF EU sex combined 5 SNPs	kSow66	XS-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.336135805128313	0.19267521398372	0.156002278997167
+Lu BF EU sex combined 5 SNPs	kWKp54	Ile.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.138052396006359	0.831781475975228	0.878733900000244
+Lu BF EU sex combined 5 SNPs	kWKp54	Ile.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.20793840141201	0.119043453313495	0.0806818074187876
+Lu BF EU sex combined 5 SNPs	kWKp54	Ile.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.124674659338251	0.157306464357104	0.428034784752261
+Lu BF EU sex combined 5 SNPs	kWKp54	Ile.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.305538030654393	0.162866711797396	0.13389878051371
+Lu BF EU sex combined 5 SNPs	kwryFc	IDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.40032939785999	1.27164219193007	0.351236421662797
+Lu BF EU sex combined 5 SNPs	kwryFc	IDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.128433525696827	0.115778090052372	0.267297468543923
+Lu BF EU sex combined 5 SNPs	kwryFc	IDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.118936204675708	0.279963284515	0.670962162329159
+Lu BF EU sex combined 5 SNPs	kwryFc	IDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.157865978439098	0.126028941170421	0.278580272494648
+Lu BF EU sex combined 5 SNPs	l9UYZs	XL-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.787045544031672	1.30943873593344	0.590182810810205
+Lu BF EU sex combined 5 SNPs	l9UYZs	XL-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.113133845220007	0.11962824777848	0.344295603612393
+Lu BF EU sex combined 5 SNPs	l9UYZs	XL-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.133438303681731	0.258188314318227	0.605277980133879
+Lu BF EU sex combined 5 SNPs	l9UYZs	XL-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.156316441053344	0.115950019258646	0.248898325796665
+Lu BF EU sex combined 5 SNPs	lAMxJS	S-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.45806385771782	2.57185242802689	0.610407410378415
+Lu BF EU sex combined 5 SNPs	lAMxJS	S-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.42535961291675	0.120075249750241	0.000396440529423426
+Lu BF EU sex combined 5 SNPs	lAMxJS	S-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.221910822212412	0.505624301332086	0.6607450083464
+Lu BF EU sex combined 5 SNPs	lAMxJS	S-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.451844829571824	0.122545749647372	0.0210712835696085
+Lu BF EU sex combined 5 SNPs	lcrtvV	S-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.88153117104702	2.17086489298334	0.449858359638986
+Lu BF EU sex combined 5 SNPs	lcrtvV	S-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.138926137550454	0.111446790992382	0.212555499474628
+Lu BF EU sex combined 5 SNPs	lcrtvV	S-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.363316417926311	0.444227218748259	0.413436175397049
+Lu BF EU sex combined 5 SNPs	lcrtvV	S-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.150411339201564	0.114153461082418	0.258029558955819
+Lu BF EU sex combined 5 SNPs	LecQl3	DAGbyTG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.435367533143733	0.764210347658908	0.608751023270448
+Lu BF EU sex combined 5 SNPs	LecQl3	DAGbyTG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.119080442265231	0.115305899282567	0.301727911832241
+Lu BF EU sex combined 5 SNPs	LecQl3	DAGbyTG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0406655810675329	0.154022024677157	0.79176107507671
+Lu BF EU sex combined 5 SNPs	LecQl3	DAGbyTG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.156508373600338	0.139265481826612	0.323974771925153
+Lu BF EU sex combined 5 SNPs	lzGwoX	S-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.698057897147023	1.17247489443153	0.593518207546529
+Lu BF EU sex combined 5 SNPs	lzGwoX	S-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.168438676957362	0.118630518377472	0.15564856791503
+Lu BF EU sex combined 5 SNPs	lzGwoX	S-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0736582013152891	0.232454990038033	0.751341630700482
+Lu BF EU sex combined 5 SNPs	lzGwoX	S-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.198028312622298	0.117189736353695	0.166330076568936
+Lu BF EU sex combined 5 SNPs	M0pZcU	DHAbyFA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.998068400616145	0.391637985137592	0.0840568220598647
+Lu BF EU sex combined 5 SNPs	M0pZcU	DHAbyFA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.123501881267121	0.109958426577662	0.261365782760068
+Lu BF EU sex combined 5 SNPs	M0pZcU	DHAbyFA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.114437428131415	0.106754611817321	0.283734824425739
+Lu BF EU sex combined 5 SNPs	M0pZcU	DHAbyFA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.156149313254374	0.132560962274597	0.304114400049639
+Lu BF EU sex combined 5 SNPs	m3x4Aj	XXL-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.505877498477885	0.407780231864374	0.302943981202871
+Lu BF EU sex combined 5 SNPs	m3x4Aj	XXL-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0564265822419218	0.113140780315487	0.617970348967437
+Lu BF EU sex combined 5 SNPs	m3x4Aj	XXL-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0700608826694862	0.0858572224175954	0.414490881722033
+Lu BF EU sex combined 5 SNPs	m3x4Aj	XXL-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.054393074697997	0.150258727950479	0.735668544259158
+Lu BF EU sex combined 5 SNPs	mM7NNm	M-LDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.11250147986725	3.44704114094513	0.318602447746533
+Lu BF EU sex combined 5 SNPs	mM7NNm	M-LDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.00775346828042728	0.115472013436924	0.946465580889323
+Lu BF EU sex combined 5 SNPs	mM7NNm	M-LDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.801148948078936	0.749725861092194	0.285254823201504
+Lu BF EU sex combined 5 SNPs	mM7NNm	M-LDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0100405110010429	0.114345370844558	0.934249096488692
+Lu BF EU sex combined 5 SNPs	MMaGoA	XL-HDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.384600423939997	0.896791898376187	0.696954356174848
+Lu BF EU sex combined 5 SNPs	MMaGoA	XL-HDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.038579058979087	0.122686562648468	0.753177618776807
+Lu BF EU sex combined 5 SNPs	MMaGoA	XL-HDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.00187843680497577	0.174903225490128	0.991430993289003
+Lu BF EU sex combined 5 SNPs	MMaGoA	XL-HDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0686386313523137	0.151002849590465	0.673006647561814
+Lu BF EU sex combined 5 SNPs	mslmhA	HDL3-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.659068809153563	0.967595473826178	0.544648226701735
+Lu BF EU sex combined 5 SNPs	mslmhA	HDL3-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0664300825740582	0.119670395050693	0.578820282942178
+Lu BF EU sex combined 5 SNPs	mslmhA	HDL3-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.249895418110976	0.188627233290407	0.185233872654409
+Lu BF EU sex combined 5 SNPs	mslmhA	HDL3-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.00750302899061173	0.133063568903386	0.957737888365123
+Lu BF EU sex combined 5 SNPs	mSRo8T	XL-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.402780046256173	0.708101682126946	0.609277495134494
+Lu BF EU sex combined 5 SNPs	mSRo8T	XL-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0736797873919673	0.124572374716217	0.554211116108135
+Lu BF EU sex combined 5 SNPs	mSRo8T	XL-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.02721315733092	0.140461251000984	0.846378385075801
+Lu BF EU sex combined 5 SNPs	mSRo8T	XL-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.207572388761837	0.192939130792102	0.342560645365847
+Lu BF EU sex combined 5 SNPs	mtTOy2	M-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.40334489251151	1.25901401722638	0.346260862241053
+Lu BF EU sex combined 5 SNPs	mtTOy2	M-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0884964124239817	0.116186933185528	0.446255386625752
+Lu BF EU sex combined 5 SNPs	mtTOy2	M-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.371105488892528	0.264611406760643	0.160779533833903
+Lu BF EU sex combined 5 SNPs	mtTOy2	M-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0533614220599925	0.122374589662902	0.685302087760246
+Lu BF EU sex combined 5 SNPs	n81JJz	Crea.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.030717160250424	0.52465447663178	0.956994245700832
+Lu BF EU sex combined 5 SNPs	n81JJz	Crea.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0694440199242865	0.107254359243496	0.517327563531629
+Lu BF EU sex combined 5 SNPs	n81JJz	Crea.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0875959525200626	0.100109093148767	0.381571209785326
+Lu BF EU sex combined 5 SNPs	n81JJz	Crea.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0540814063136177	0.126696161266195	0.691454204602369
+Lu BF EU sex combined 5 SNPs	ndkiSR	PUFA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.141654296498857	0.538634927918395	0.809587411309972
+Lu BF EU sex combined 5 SNPs	ndkiSR	PUFA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.070401685317596	0.113314370689594	0.534405349111616
+Lu BF EU sex combined 5 SNPs	ndkiSR	PUFA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.125929488850141	0.10187425856199	0.216411479635005
+Lu BF EU sex combined 5 SNPs	ndkiSR	PUFA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0191333796398241	0.134285248250814	0.893587243388337
+Lu BF EU sex combined 5 SNPs	NfRFlY	TotFA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.11202891781581	2.55142123186343	0.468494193934661
+Lu BF EU sex combined 5 SNPs	NfRFlY	TotFA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0842251785064616	0.120139646124476	0.483265165597354
+Lu BF EU sex combined 5 SNPs	NfRFlY	TotFA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.501079936177367	0.515054039379187	0.330618579911217
+Lu BF EU sex combined 5 SNPs	NfRFlY	TotFA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.111918551980072	0.114276836840871	0.382852437894162
+Lu BF EU sex combined 5 SNPs	nSKrNJ	L-LDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.3598975078118	3.96906456023408	0.352254840107678
+Lu BF EU sex combined 5 SNPs	nSKrNJ	L-LDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0996493790554851	0.109240939863022	0.361664437834845
+Lu BF EU sex combined 5 SNPs	nSKrNJ	L-LDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.844600610977458	0.847386183512726	0.318903960445102
+Lu BF EU sex combined 5 SNPs	nSKrNJ	L-LDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.101537670161865	0.114332505032276	0.424669709668508
+Lu BF EU sex combined 5 SNPs	nthNA0	S-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.53735407687193	1.61445750840712	0.411225209504488
+Lu BF EU sex combined 5 SNPs	nthNA0	S-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.10914164122167	0.1152136281527	0.343486942170532
+Lu BF EU sex combined 5 SNPs	nthNA0	S-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.238524220866336	0.338115052878628	0.480528476927704
+Lu BF EU sex combined 5 SNPs	nthNA0	S-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.122423115838779	0.116110469786926	0.351189253124887
+Lu BF EU sex combined 5 SNPs	nvN19C	AcAce.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.01405208144603	0.390256826285499	0.08048548407656
+Lu BF EU sex combined 5 SNPs	nvN19C	AcAce.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0587313093320231	0.127664977665007	0.645485749731631
+Lu BF EU sex combined 5 SNPs	nvN19C	AcAce.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.00547700653452609	0.120837326789633	0.963847899996596
+Lu BF EU sex combined 5 SNPs	nvN19C	AcAce.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.139821179085832	0.146395505914558	0.393616470355104
+Lu BF EU sex combined 5 SNPs	nXjYio	M-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.45806280755197	1.67512394432948	0.448121138692599
+Lu BF EU sex combined 5 SNPs	nXjYio	M-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.171803372746988	0.11339018222247	0.129733890145464
+Lu BF EU sex combined 5 SNPs	nXjYio	M-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.227866257560876	0.345394992718275	0.509429305841715
+Lu BF EU sex combined 5 SNPs	nXjYio	M-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.185644850497482	0.112314689389711	0.173695033900134
+Lu BF EU sex combined 5 SNPs	o5Lr5q	S-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	3.78827876903606	3.43972646038278	0.351186562349264
+Lu BF EU sex combined 5 SNPs	o5Lr5q	S-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0777200166201721	0.113106458772687	0.491994261645418
+Lu BF EU sex combined 5 SNPs	o5Lr5q	S-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.735197994933037	0.734723464714259	0.316998049239717
+Lu BF EU sex combined 5 SNPs	o5Lr5q	S-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0947669281472016	0.114113082155164	0.452968327366587
+Lu BF EU sex combined 5 SNPs	oCACEi	LA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.902611475386615	0.589650680798625	0.223329664735362
+Lu BF EU sex combined 5 SNPs	oCACEi	LA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.131958988478779	0.124230524774991	0.288140058740952
+Lu BF EU sex combined 5 SNPs	oCACEi	LA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.168129271564661	0.138459726437523	0.22463973138942
+Lu BF EU sex combined 5 SNPs	oCACEi	LA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0654617037177472	0.1562697363667	0.696803887479375
+Lu BF EU sex combined 5 SNPs	OG0QWr	L-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.76317356113932	2.66986234300804	0.556178067367139
+Lu BF EU sex combined 5 SNPs	OG0QWr	L-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.170507563484348	0.143014380908456	0.233166884732417
+Lu BF EU sex combined 5 SNPs	OG0QWr	L-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.504609973136542	0.524325777278766	0.335849819704007
+Lu BF EU sex combined 5 SNPs	OG0QWr	L-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.142352423088926	0.130248249894804	0.335831922786233
+Lu BF EU sex combined 5 SNPs	Og1WUQ	L-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.93314391481417	2.19489224742766	0.443306044022782
+Lu BF EU sex combined 5 SNPs	Og1WUQ	L-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.165287078095278	0.11627571434984	0.15516858001495
+Lu BF EU sex combined 5 SNPs	Og1WUQ	L-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.334608121228636	0.452021361060491	0.459149241522487
+Lu BF EU sex combined 5 SNPs	Og1WUQ	L-HDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.17350032233022	0.118518226853188	0.21706322452608
+Lu BF EU sex combined 5 SNPs	OhNP9P	S-LDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.32775270448491	1.05976519665595	0.299017347417168
+Lu BF EU sex combined 5 SNPs	OhNP9P	S-LDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0164230404181558	0.116765440772748	0.888146573907604
+Lu BF EU sex combined 5 SNPs	OhNP9P	S-LDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.269071581987932	0.232780175140458	0.247720344756104
+Lu BF EU sex combined 5 SNPs	OhNP9P	S-LDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0183779375433677	0.114659105795469	0.880426636128295
+Lu BF EU sex combined 5 SNPs	OinoWX	S-LDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.20568835108662	4.01515582280755	0.371842175122962
+Lu BF EU sex combined 5 SNPs	OinoWX	S-LDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0873085801824055	0.115123652122684	0.448217783580842
+Lu BF EU sex combined 5 SNPs	OinoWX	S-LDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.901812173592774	0.844439738793611	0.28554693716456
+Lu BF EU sex combined 5 SNPs	OinoWX	S-LDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0604477769783043	0.118736424346266	0.637485607696869
+Lu BF EU sex combined 5 SNPs	OlNhOs	S-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.45806385771782	2.57185242802689	0.610407410378415
+Lu BF EU sex combined 5 SNPs	OlNhOs	S-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.42535961291675	0.120937137261428	0.000436131642772462
+Lu BF EU sex combined 5 SNPs	OlNhOs	S-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.221910822212412	0.505624301332086	0.6607450083464
+Lu BF EU sex combined 5 SNPs	OlNhOs	S-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.451844829571824	0.120970646069019	0.0202059155259867
+Lu BF EU sex combined 5 SNPs	oltrOw	S-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.698057897147023	1.17247489443153	0.593518207546529
+Lu BF EU sex combined 5 SNPs	oltrOw	S-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.168438676957362	0.114491610806263	0.141240297968761
+Lu BF EU sex combined 5 SNPs	oltrOw	S-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0736582013152891	0.232454990038033	0.751341630700482
+Lu BF EU sex combined 5 SNPs	oltrOw	S-HDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.198028312622298	0.122557129695934	0.181440828004333
+Lu BF EU sex combined 5 SNPs	OmsM8y	L-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.861576694846321	1.32514947167857	0.561930322489301
+Lu BF EU sex combined 5 SNPs	OmsM8y	L-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0821284107273037	0.121760526478219	0.499988602131985
+Lu BF EU sex combined 5 SNPs	OmsM8y	L-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.147016969578192	0.263024277100098	0.576197012258285
+Lu BF EU sex combined 5 SNPs	OmsM8y	L-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.131062995566607	0.126812937872016	0.359752398414077
+Lu BF EU sex combined 5 SNPs	oYwZVe	M-HDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.58012066415802	1.74841190230459	0.432746648657531
+Lu BF EU sex combined 5 SNPs	oYwZVe	M-HDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.164367050491035	0.106361864111561	0.122259936879494
+Lu BF EU sex combined 5 SNPs	oYwZVe	M-HDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.275935560796309	0.361394242533242	0.445147023625002
+Lu BF EU sex combined 5 SNPs	oYwZVe	M-HDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.141782061527001	0.115932837802886	0.28846610965777
+Lu BF EU sex combined 5 SNPs	P670Co	GlycA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.0493970589561502	1.25028782251633	0.9709671291657
+Lu BF EU sex combined 5 SNPs	P670Co	GlycA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.203921656883284	0.130392417203451	0.117839333153346
+Lu BF EU sex combined 5 SNPs	P670Co	GlycA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.00288753614009149	0.236504330578358	0.9902586846445
+Lu BF EU sex combined 5 SNPs	P670Co	GlycA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.256756565128215	0.148070709203552	0.157939574207842
+Lu BF EU sex combined 5 SNPs	prOi7X	L-HDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.28792412210287	2.36245088193432	0.404253345785324
+Lu BF EU sex combined 5 SNPs	prOi7X	L-HDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.124287188696051	0.111786209689924	0.266211530580811
+Lu BF EU sex combined 5 SNPs	prOi7X	L-HDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.423173767485844	0.493143952610057	0.390829475242099
+Lu BF EU sex combined 5 SNPs	prOi7X	L-HDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.124972318975893	0.105413130481638	0.301416670554752
+Lu BF EU sex combined 5 SNPs	PuymE3	XXL-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.518204036479957	0.424695898878171	0.309564210990275
+Lu BF EU sex combined 5 SNPs	PuymE3	XXL-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0852826278027919	0.114283954694553	0.455525781269419
+Lu BF EU sex combined 5 SNPs	PuymE3	XXL-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0113532877722889	0.0998258023748231	0.909451041936166
+Lu BF EU sex combined 5 SNPs	PuymE3	XXL-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.066760879394093	0.14137685627162	0.661379955637177
+Lu BF EU sex combined 5 SNPs	Pylmlh	XL-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.898226592831832	1.48136618137828	0.587088339967173
+Lu BF EU sex combined 5 SNPs	Pylmlh	XL-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0900725681595946	0.123075541867385	0.464261452111549
+Lu BF EU sex combined 5 SNPs	Pylmlh	XL-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.202490727239226	0.29071407685536	0.48609772730959
+Lu BF EU sex combined 5 SNPs	Pylmlh	XL-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.112369087514187	0.118331905164933	0.396083456635637
+Lu BF EU sex combined 5 SNPs	Q9BRBv	S-LDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.58474150557578	4.21890901759801	0.356677582806841
+Lu BF EU sex combined 5 SNPs	Q9BRBv	S-LDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0480306592620618	0.112192006363116	0.668570131910833
+Lu BF EU sex combined 5 SNPs	Q9BRBv	S-LDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.953557776536441	0.895249536861745	0.286816782964827
+Lu BF EU sex combined 5 SNPs	Q9BRBv	S-LDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0523435377602206	0.122974052460187	0.692267704227459
+Lu BF EU sex combined 5 SNPs	QFvS4d	M-LDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.50314898659728	3.9962265356935	0.341800471319148
+Lu BF EU sex combined 5 SNPs	QFvS4d	M-LDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0191721138466908	0.11251580145207	0.864699616882387
+Lu BF EU sex combined 5 SNPs	QFvS4d	M-LDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.935229947390244	0.854593235142719	0.273798507810276
+Lu BF EU sex combined 5 SNPs	QFvS4d	M-LDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0256221895969239	0.115580311304168	0.835418305763849
+Lu BF EU sex combined 5 SNPs	QMZgbp	L-LDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.3598975078118	3.96906456023408	0.352254840107678
+Lu BF EU sex combined 5 SNPs	QMZgbp	L-LDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0996493790554851	0.111004543840257	0.369342626802639
+Lu BF EU sex combined 5 SNPs	QMZgbp	L-LDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.844600610977458	0.847386183512726	0.318903960445102
+Lu BF EU sex combined 5 SNPs	QMZgbp	L-LDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.101537670161865	0.122490422105444	0.453735451616273
+Lu BF EU sex combined 5 SNPs	Quprkm	L-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.385642730749214	0.84301230950135	0.678437887618945
+Lu BF EU sex combined 5 SNPs	Quprkm	L-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0231771878080503	0.133308605492046	0.861974583290135
+Lu BF EU sex combined 5 SNPs	Quprkm	L-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0119762456153855	0.164847713091727	0.942084351497374
+Lu BF EU sex combined 5 SNPs	Quprkm	L-VLDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.149582227399065	0.201635961150044	0.499377038386022
+Lu BF EU sex combined 5 SNPs	r5rpw7	S-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.18664397115439	0.930827978860315	0.292145672881133
+Lu BF EU sex combined 5 SNPs	r5rpw7	S-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0267594964471713	0.119205185334551	0.822381762157583
+Lu BF EU sex combined 5 SNPs	r5rpw7	S-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.198247703397798	0.20787554788831	0.340243330747346
+Lu BF EU sex combined 5 SNPs	r5rpw7	S-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0263390374237266	0.115869663765791	0.831323702167801
+Lu BF EU sex combined 5 SNPs	r6YXjB	Serum-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.21762353565926	1.71715224942051	0.529405011012912
+Lu BF EU sex combined 5 SNPs	r6YXjB	Serum-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.1043778768457	0.118680027018155	0.37913574466463
+Lu BF EU sex combined 5 SNPs	r6YXjB	Serum-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.267633155860836	0.341646770583084	0.433414464020473
+Lu BF EU sex combined 5 SNPs	r6YXjB	Serum-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.150079221175671	0.111578732528314	0.249806756018014
+Lu BF EU sex combined 5 SNPs	RBZw7G	L-LDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.04514841281924	1.57608585737531	0.285186624536599
+Lu BF EU sex combined 5 SNPs	RBZw7G	L-LDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0140705505258315	0.109965361922017	0.898185069775291
+Lu BF EU sex combined 5 SNPs	RBZw7G	L-LDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.366887407808608	0.352258234732275	0.297629784047866
+Lu BF EU sex combined 5 SNPs	RBZw7G	L-LDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.00856180410664231	0.112959133274865	0.943221243402758
+Lu BF EU sex combined 5 SNPs	RfBMNJ	XL-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.32079922712242	1.73141659834394	0.50105576279517
+Lu BF EU sex combined 5 SNPs	RfBMNJ	XL-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0750160450136407	0.127340270400941	0.555794763788702
+Lu BF EU sex combined 5 SNPs	RfBMNJ	XL-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.35836388671551	0.344949053886306	0.29885621573936
+Lu BF EU sex combined 5 SNPs	RfBMNJ	XL-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0909517713599211	0.129083102490137	0.519921232272278
+Lu BF EU sex combined 5 SNPs	rJU9tK	CLA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.902611475386615	0.589650680798625	0.223329664735362
+Lu BF EU sex combined 5 SNPs	rJU9tK	CLA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.131958988478779	0.120606758312094	0.27389972643024
+Lu BF EU sex combined 5 SNPs	rJU9tK	CLA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.168129271564661	0.138459726437523	0.22463973138942
+Lu BF EU sex combined 5 SNPs	rJU9tK	CLA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0654617037177472	0.142222264077025	0.669226370215071
+Lu BF EU sex combined 5 SNPs	RJZoVA	S-LDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.58474150557578	4.21890901759801	0.356677582806841
+Lu BF EU sex combined 5 SNPs	RJZoVA	S-LDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0480306592620618	0.114215079138266	0.674099648249069
+Lu BF EU sex combined 5 SNPs	RJZoVA	S-LDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.953557776536441	0.895249536861745	0.286816782964827
+Lu BF EU sex combined 5 SNPs	RJZoVA	S-LDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0523435377602206	0.114436124549444	0.671122110713718
+Lu BF EU sex combined 5 SNPs	RKJTK1	XS-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.52998480858146	1.78395056297529	0.251164959605425
+Lu BF EU sex combined 5 SNPs	RKJTK1	XS-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.182715874631046	0.122140767294405	0.134667978721651
+Lu BF EU sex combined 5 SNPs	RKJTK1	XS-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.619739234560748	0.399353856071873	0.120696948553065
+Lu BF EU sex combined 5 SNPs	RKJTK1	XS-VLDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.171292634821789	0.124757138806058	0.241690005352299
+Lu BF EU sex combined 5 SNPs	RoBqrS	IDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.82814314768124	1.3465620128385	0.267675796980622
+Lu BF EU sex combined 5 SNPs	RoBqrS	IDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0263500623428601	0.114205073123019	0.817527791445903
+Lu BF EU sex combined 5 SNPs	RoBqrS	IDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.308018942028838	0.306209850040238	0.314459821001341
+Lu BF EU sex combined 5 SNPs	RoBqrS	IDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0338208203906758	0.122422895779865	0.796033120826912
+Lu BF EU sex combined 5 SNPs	roKbMM	LAbyFA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.902611475386615	0.589650680798625	0.223329664735362
+Lu BF EU sex combined 5 SNPs	roKbMM	LAbyFA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.131958988478779	0.124904887933966	0.290750902063466
+Lu BF EU sex combined 5 SNPs	roKbMM	LAbyFA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.168129271564661	0.138459726437523	0.22463973138942
+Lu BF EU sex combined 5 SNPs	roKbMM	LAbyFA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0654617037177472	0.155658574944857	0.695696342264826
+Lu BF EU sex combined 5 SNPs	s2KidT	M-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.23149806581893	1.48249986616224	0.467080917763679
+Lu BF EU sex combined 5 SNPs	s2KidT	M-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.146216043438695	0.11747833702383	0.213270978005255
+Lu BF EU sex combined 5 SNPs	s2KidT	M-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.173270222918954	0.304303792938991	0.569085512323989
+Lu BF EU sex combined 5 SNPs	s2KidT	M-HDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.141427214908212	0.123730199329373	0.316791228833023
+Lu BF EU sex combined 5 SNPs	SdTnHl	Gln.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.893435613822958	0.535243717660033	0.193667499973515
+Lu BF EU sex combined 5 SNPs	SdTnHl	Gln.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.169549668529351	0.115964118512875	0.143717279979766
+Lu BF EU sex combined 5 SNPs	SdTnHl	Gln.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0615200040889122	0.137515891139392	0.65461045333073
+Lu BF EU sex combined 5 SNPs	SdTnHl	Gln.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.198062888498282	0.130014327431507	0.202331043569316
+Lu BF EU sex combined 5 SNPs	sIAJPD	Alb.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.203629036264519	0.390719498154343	0.638278452312591
+Lu BF EU sex combined 5 SNPs	sIAJPD	Alb.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0512671610452581	0.101842726001704	0.614686296460803
+Lu BF EU sex combined 5 SNPs	sIAJPD	Alb.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.116018564603232	0.0790884489865112	0.142390468000508
+Lu BF EU sex combined 5 SNPs	sIAJPD	Alb.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0437569277312637	0.120035788065068	0.733914619017969
+Lu BF EU sex combined 5 SNPs	sJtFHH	XS-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.52998480858146	1.78395056297529	0.251164959605425
+Lu BF EU sex combined 5 SNPs	sJtFHH	XS-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.182715874631046	0.117140048927063	0.118805483989417
+Lu BF EU sex combined 5 SNPs	sJtFHH	XS-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.619739234560748	0.399353856071873	0.120696948553065
+Lu BF EU sex combined 5 SNPs	sJtFHH	XS-VLDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.171292634821789	0.12504056038025	0.24258055981531
+Lu BF EU sex combined 5 SNPs	Sxo96P	L-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.0151441873248	1.91959241402296	0.633549786492195
+Lu BF EU sex combined 5 SNPs	Sxo96P	L-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.256671189359133	0.129063079569513	0.0467313797875825
+Lu BF EU sex combined 5 SNPs	Sxo96P	L-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.110533832210835	0.376853141371461	0.769287163137267
+Lu BF EU sex combined 5 SNPs	Sxo96P	L-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.275541671237075	0.127889825973485	0.0974856900952093
+Lu BF EU sex combined 5 SNPs	sYqqyJ	HDL2-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.2356675163168	1.62714271767998	0.502828944816822
+Lu BF EU sex combined 5 SNPs	sYqqyJ	HDL2-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.25693379253604	0.117325347649356	0.0285296267272523
+Lu BF EU sex combined 5 SNPs	sYqqyJ	HDL2-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.104741067377495	0.332694095156908	0.752893048062983
+Lu BF EU sex combined 5 SNPs	sYqqyJ	HDL2-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.290151187204198	0.130946977561331	0.0910374105053383
+Lu BF EU sex combined 5 SNPs	TBju6U	L-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.95375148152999	2.38466381111248	0.472644298320726
+Lu BF EU sex combined 5 SNPs	TBju6U	L-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.207123389753417	0.111693936682529	0.0636843181471176
+Lu BF EU sex combined 5 SNPs	TBju6U	L-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.327341589803385	0.486323422338357	0.500887213290927
+Lu BF EU sex combined 5 SNPs	TBju6U	L-HDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.209735637781214	0.130347551879518	0.182889525915416
+Lu BF EU sex combined 5 SNPs	tknTLZ	Leu.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.338911153069273	0.697538949583145	0.660338637307677
+Lu BF EU sex combined 5 SNPs	tknTLZ	Leu.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.340998235971456	0.11646610832874	0.00341286950006069
+Lu BF EU sex combined 5 SNPs	tknTLZ	Leu.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.206118531454059	0.132745985174363	0.120487907917319
+Lu BF EU sex combined 5 SNPs	tknTLZ	Leu.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.358592484111726	0.14117982829857	0.0639829682867718
+Lu BF EU sex combined 5 SNPs	TlEyLu	M-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.58012066415802	1.74841190230459	0.432746648657531
+Lu BF EU sex combined 5 SNPs	TlEyLu	M-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.164367050491035	0.118454291542452	0.165259201572635
+Lu BF EU sex combined 5 SNPs	TlEyLu	M-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.275935560796309	0.361394242533242	0.445147023625002
+Lu BF EU sex combined 5 SNPs	TlEyLu	M-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.141782061527001	0.11489110493116	0.28473043984473
+Lu BF EU sex combined 5 SNPs	U7c5bh	XL-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.1533832721396	2.43764753301638	0.442082745248656
+Lu BF EU sex combined 5 SNPs	U7c5bh	XL-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.268933573092538	0.113666734751828	0.0179822654020497
+Lu BF EU sex combined 5 SNPs	U7c5bh	XL-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.257977594747331	0.507377940705335	0.611136025591934
+Lu BF EU sex combined 5 SNPs	U7c5bh	XL-HDL-PL_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.277386501322081	0.114145096338927	0.071971492479516
+Lu BF EU sex combined 5 SNPs	U96Csu	L-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.280611299623502	0.424777555304666	0.556060984605694
+Lu BF EU sex combined 5 SNPs	U96Csu	L-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.00418442404299524	0.113825598161227	0.97067500149974
+Lu BF EU sex combined 5 SNPs	U96Csu	L-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0743773088128707	0.0836015690446363	0.373646313863849
+Lu BF EU sex combined 5 SNPs	U96Csu	L-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0709337938649759	0.161893778566583	0.683900255191264
+Lu BF EU sex combined 5 SNPs	uBcDlx	UnsatDeg.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.565755152307431	0.531453753019838	0.365165645289604
+Lu BF EU sex combined 5 SNPs	uBcDlx	UnsatDeg.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.00424530743139594	0.106459976277662	0.968191165708888
+Lu BF EU sex combined 5 SNPs	uBcDlx	UnsatDeg.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0546834316340078	0.115629272158097	0.63627003187767
+Lu BF EU sex combined 5 SNPs	uBcDlx	UnsatDeg.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0250283704217591	0.139459653531636	0.866295543854466
+Lu BF EU sex combined 5 SNPs	uhL969	S-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-3.33809729940048	2.79630086992591	0.31836514517373
+Lu BF EU sex combined 5 SNPs	uhL969	S-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0330304000562387	0.116598522437501	0.776959770914844
+Lu BF EU sex combined 5 SNPs	uhL969	S-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.637809907436975	0.609029752261106	0.294981640746082
+Lu BF EU sex combined 5 SNPs	uhL969	S-HDL-CE.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0297644600084856	0.115780352645352	0.809801697624836
+Lu BF EU sex combined 5 SNPs	ULQRNm	S-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.293982682918797	0.390294870068037	0.506031922320231
+Lu BF EU sex combined 5 SNPs	ULQRNm	S-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.139837141503294	0.104934046955299	0.182656751685983
+Lu BF EU sex combined 5 SNPs	ULQRNm	S-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.143206826384515	0.0509059783522365	0.00490567422028336
+Lu BF EU sex combined 5 SNPs	ULQRNm	S-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0520716530891665	0.149341603413606	0.744912606182923
+Lu BF EU sex combined 5 SNPs	UQI8eQ	IDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.64822917490648	0.935734989537981	0.176381943334808
+Lu BF EU sex combined 5 SNPs	UQI8eQ	IDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.223561648616724	0.123710454249135	0.0707410349715872
+Lu BF EU sex combined 5 SNPs	UQI8eQ	IDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.421372111532421	0.223942119846678	0.0598887572708416
+Lu BF EU sex combined 5 SNPs	UQI8eQ	IDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.185676204202246	0.128812816183502	0.22290688015292
+Lu BF EU sex combined 5 SNPs	V8aUfa	MUFA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.588116467651322	0.597742598057624	0.397714988144539
+Lu BF EU sex combined 5 SNPs	V8aUfa	MUFA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0680083996488396	0.117879292610413	0.563985028035671
+Lu BF EU sex combined 5 SNPs	V8aUfa	MUFA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0807532461734816	0.126481644226834	0.523175438878782
+Lu BF EU sex combined 5 SNPs	V8aUfa	MUFA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0556178393565707	0.133611700295497	0.698581692585988
+Lu BF EU sex combined 5 SNPs	vEkt4f	VLDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.385642730749214	0.84301230950135	0.678437887618945
+Lu BF EU sex combined 5 SNPs	vEkt4f	VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0231771878080503	0.13064762451338	0.859192408469096
+Lu BF EU sex combined 5 SNPs	vEkt4f	VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0119762456153855	0.164847713091727	0.942084351497374
+Lu BF EU sex combined 5 SNPs	vEkt4f	VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.149582227399065	0.221142291894942	0.535876588651724
+Lu BF EU sex combined 5 SNPs	Vl8clq	M-LDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.4383054018627	3.83752636889493	0.331189121473384
+Lu BF EU sex combined 5 SNPs	Vl8clq	M-LDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0099049104134249	0.11097307711902	0.928879195808277
+Lu BF EU sex combined 5 SNPs	Vl8clq	M-LDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.900842214307824	0.826603848487837	0.275796275463952
+Lu BF EU sex combined 5 SNPs	Vl8clq	M-LDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0170027351996911	0.126647287706247	0.899686809487868
+Lu BF EU sex combined 5 SNPs	vRldnY	L-LDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.01521813044533	3.49070975641978	0.333410216321402
+Lu BF EU sex combined 5 SNPs	vRldnY	L-LDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0351441133579575	0.104683095519673	0.737082710279817
+Lu BF EU sex combined 5 SNPs	vRldnY	L-LDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.777533452237814	0.752981444924272	0.301788136175413
+Lu BF EU sex combined 5 SNPs	vRldnY	L-LDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0257514203704008	0.113484217582783	0.831614072507407
+Lu BF EU sex combined 5 SNPs	w024O1	L-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.76317356113932	2.66986234300804	0.556178067367139
+Lu BF EU sex combined 5 SNPs	w024O1	L-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.170507563484348	0.148362045677389	0.250446011305907
+Lu BF EU sex combined 5 SNPs	w024O1	L-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.504609973136542	0.524325777278766	0.335849819704007
+Lu BF EU sex combined 5 SNPs	w024O1	L-VLDL-PL.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.142352423088926	0.1351404428317	0.351596137105964
+Lu BF EU sex combined 5 SNPs	W5ShBp	L-LDL-P.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.40684276916308	4.48225064187678	0.398017426590237
+Lu BF EU sex combined 5 SNPs	W5ShBp	L-LDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0814594845086762	0.118819032583544	0.49298048070472
+Lu BF EU sex combined 5 SNPs	W5ShBp	L-LDL-P.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.951703548682875	0.931592181232699	0.306975860593029
+Lu BF EU sex combined 5 SNPs	W5ShBp	L-LDL-P.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.152492028963801	0.111186998642708	0.242123741027859
+Lu BF EU sex combined 5 SNPs	whPL0g	FALen.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.004372487507	1.50366602962256	0.274724387453732
+Lu BF EU sex combined 5 SNPs	whPL0g	FALen.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.141106651710811	0.112327196266841	0.209039504901497
+Lu BF EU sex combined 5 SNPs	whPL0g	FALen.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.473439706956376	0.33195652932338	0.153807746767441
+Lu BF EU sex combined 5 SNPs	whPL0g	FALen.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.13757030104085	0.118843614110015	0.31145172840511
+Lu BF EU sex combined 5 SNPs	Wmd076	ApoA1.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.1710484685523	0.425941249726315	0.71489032909354
+Lu BF EU sex combined 5 SNPs	Wmd076	ApoA1.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.120740350459294	0.105503996151134	0.252451591180027
+Lu BF EU sex combined 5 SNPs	Wmd076	ApoA1.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.107802456676787	0.0863800499860748	0.212030403058406
+Lu BF EU sex combined 5 SNPs	Wmd076	ApoA1.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.173697833774308	0.136774003209027	0.272947694135097
+Lu BF EU sex combined 5 SNPs	WNLeYy	L-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.28792412210287	2.36245088193432	0.404253345785324
+Lu BF EU sex combined 5 SNPs	WNLeYy	L-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.124287188696051	0.113961721255723	0.2754468610544
+Lu BF EU sex combined 5 SNPs	WNLeYy	L-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.423173767485844	0.493143952610057	0.390829475242099
+Lu BF EU sex combined 5 SNPs	WNLeYy	L-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.124972318975893	0.118534101666768	0.35121048863513
+Lu BF EU sex combined 5 SNPs	wXH20f	XL-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.11532980131446	0.996811125489465	0.344698497042658
+Lu BF EU sex combined 5 SNPs	wXH20f	XL-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.150418116424199	0.118241264264338	0.203327363536684
+Lu BF EU sex combined 5 SNPs	wXH20f	XL-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.28696192811862	0.210051131189593	0.171891027992289
+Lu BF EU sex combined 5 SNPs	wXH20f	XL-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0779708240771804	0.122476616207334	0.558981726064078
+Lu BF EU sex combined 5 SNPs	x0AUK0	LDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.20117972348223	2.63194276712646	0.464346306275147
+Lu BF EU sex combined 5 SNPs	x0AUK0	LDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0146757737467539	0.12467206792533	0.906293473059231
+Lu BF EU sex combined 5 SNPs	x0AUK0	LDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.552121745184512	0.530788348937357	0.298250750462879
+Lu BF EU sex combined 5 SNPs	x0AUK0	LDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.181357690470416	0.123198615448189	0.214978738701603
+Lu BF EU sex combined 5 SNPs	xG5KSF	Remnant-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-3.05686936920475	3.19365711999158	0.409094621173984
+Lu BF EU sex combined 5 SNPs	xG5KSF	Remnant-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.16572170994725	0.116569430502531	0.155125940801662
+Lu BF EU sex combined 5 SNPs	xG5KSF	Remnant-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.600413179427567	0.663503476475738	0.365511273355098
+Lu BF EU sex combined 5 SNPs	xG5KSF	Remnant-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.180141695700628	0.116844529773872	0.197999648038104
+Lu BF EU sex combined 5 SNPs	XjFEPb	S-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.53735407687193	1.61445750840712	0.411225209504488
+Lu BF EU sex combined 5 SNPs	XjFEPb	S-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.10914164122167	0.114527353912607	0.340603020179685
+Lu BF EU sex combined 5 SNPs	XjFEPb	S-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.238524220866336	0.338115052878628	0.480528476927704
+Lu BF EU sex combined 5 SNPs	XjFEPb	S-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.122423115838779	0.115379173971594	0.34848367589903
+Lu BF EU sex combined 5 SNPs	xkiFDR	His.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.0967377627790211	0.390987320216863	0.820550514749921
+Lu BF EU sex combined 5 SNPs	xkiFDR	His.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.102648549917702	0.101707524113439	0.312853662843865
+Lu BF EU sex combined 5 SNPs	xkiFDR	His.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.130049861677571	0.0487362815307338	0.00762043015500641
+Lu BF EU sex combined 5 SNPs	xkiFDR	His.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0304305304431625	0.132014417382663	0.829005570392607
+Lu BF EU sex combined 5 SNPs	XLU8ch	Tyr.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.344434596802853	0.390922573168836	0.443150713820745
+Lu BF EU sex combined 5 SNPs	XLU8ch	Tyr.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.298503695905714	0.110309078106751	0.00680854196196086
+Lu BF EU sex combined 5 SNPs	XLU8ch	Tyr.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.31007558014923	0.0513425608691941	1.547384254062e-09
+Lu BF EU sex combined 5 SNPs	XLU8ch	Tyr.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.285649921898502	0.122298723018587	0.079755028857472
+Lu BF EU sex combined 5 SNPs	xOskfD	L-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.157125485738006	0.880835803694335	0.869788747183494
+Lu BF EU sex combined 5 SNPs	xOskfD	L-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0156436372553715	0.131709070582013	0.905454262832524
+Lu BF EU sex combined 5 SNPs	xOskfD	L-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.155236443699997	0.16662332818682	0.351511787507066
+Lu BF EU sex combined 5 SNPs	xOskfD	L-VLDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0778184834104352	0.136050138428903	0.597942926367675
+Lu BF EU sex combined 5 SNPs	xqiBGv	L-LDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-4.3598975078118	3.96906456023408	0.352254840107678
+Lu BF EU sex combined 5 SNPs	xqiBGv	L-LDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0996493790554851	0.105269855355773	0.343838121279744
+Lu BF EU sex combined 5 SNPs	xqiBGv	L-LDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.844600610977458	0.847386183512726	0.318903960445102
+Lu BF EU sex combined 5 SNPs	xqiBGv	L-LDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.101537670161865	0.112049402901249	0.416087795496628
+Lu BF EU sex combined 5 SNPs	xtSgXY	M-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.966775899859621	0.725170641510676	0.274672277703429
+Lu BF EU sex combined 5 SNPs	xtSgXY	M-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0164394905966977	0.115150425104765	0.886475504399483
+Lu BF EU sex combined 5 SNPs	xtSgXY	M-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.16087046254073	0.164101720363418	0.326933405535035
+Lu BF EU sex combined 5 SNPs	xtSgXY	M-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0398843816155161	0.140080864868227	0.789988448204745
+Lu BF EU sex combined 5 SNPs	XXl5JM	Glc.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.00831601731968543	0.495711263635442	0.987668698118824
+Lu BF EU sex combined 5 SNPs	XXl5JM	Glc.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.115173554703144	0.130738657458333	0.378347638758103
+Lu BF EU sex combined 5 SNPs	XXl5JM	Glc.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.067564214637715	0.0715291710330377	0.344879123336253
+Lu BF EU sex combined 5 SNPs	XXl5JM	Glc.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.102813616272614	0.151421751793047	0.534401274612663
+Lu BF EU sex combined 5 SNPs	y0Pjkj	CLAbyFA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.902611475386615	0.589650680798625	0.223329664735362
+Lu BF EU sex combined 5 SNPs	y0Pjkj	CLAbyFA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.131958988478779	0.121164483227899	0.276114339600688
+Lu BF EU sex combined 5 SNPs	y0Pjkj	CLAbyFA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.168129271564661	0.138459726437523	0.22463973138942
+Lu BF EU sex combined 5 SNPs	y0Pjkj	CLAbyFA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0654617037177472	0.160359871722699	0.704020861898647
+Lu BF EU sex combined 5 SNPs	Y2SvYp	S-LDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.32775270448491	1.05976519665595	0.299017347417168
+Lu BF EU sex combined 5 SNPs	Y2SvYp	S-LDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0164230404181558	0.108796578619117	0.880013730567791
+Lu BF EU sex combined 5 SNPs	Y2SvYp	S-LDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.269071581987932	0.232780175140458	0.247720344756104
+Lu BF EU sex combined 5 SNPs	Y2SvYp	S-LDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0183779375433677	0.115465113503956	0.881252550662756
+Lu BF EU sex combined 5 SNPs	y4GFF0	XL-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.11532980131446	0.996811125489465	0.344698497042658
+Lu BF EU sex combined 5 SNPs	y4GFF0	XL-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.150418116424199	0.120285365112453	0.211113108896641
+Lu BF EU sex combined 5 SNPs	y4GFF0	XL-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.28696192811862	0.210051131189593	0.171891027992289
+Lu BF EU sex combined 5 SNPs	y4GFF0	XL-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0779708240771804	0.130707903491314	0.582943428925141
+Lu BF EU sex combined 5 SNPs	Y8ieGU	M-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.662698928618671	0.978832790819254	0.546918651170209
+Lu BF EU sex combined 5 SNPs	Y8ieGU	M-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.241711311856705	0.112844725705902	0.0321949728761573
+Lu BF EU sex combined 5 SNPs	Y8ieGU	M-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0495841530669079	0.201536033044984	0.805658076663631
+Lu BF EU sex combined 5 SNPs	Y8ieGU	M-HDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.262253272837924	0.107791746036151	0.0717511153625474
+Lu BF EU sex combined 5 SNPs	ybI0NG	S-LDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	4.20568835108662	4.01515582280755	0.371842175122962
+Lu BF EU sex combined 5 SNPs	ybI0NG	S-LDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0873085801824055	0.115278080137036	0.448826038670687
+Lu BF EU sex combined 5 SNPs	ybI0NG	S-LDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.901812173592774	0.844439738793611	0.28554693716456
+Lu BF EU sex combined 5 SNPs	ybI0NG	S-LDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0604477769783043	0.121078341113056	0.643816577085518
+Lu BF EU sex combined 5 SNPs	yFAsSw	TotCho.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.06482646888615	1.23287522642401	0.451283064945396
+Lu BF EU sex combined 5 SNPs	yFAsSw	TotCho.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0426444672937792	0.113333383943995	0.706712802499045
+Lu BF EU sex combined 5 SNPs	yFAsSw	TotCho.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.314881568810413	0.247785492893011	0.203805891520941
+Lu BF EU sex combined 5 SNPs	yFAsSw	TotCho.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0152880724302131	0.113607037029403	0.89945164375325
+Lu BF EU sex combined 5 SNPs	YKApIu	M-LDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.77570293327732	1.41646502757638	0.298782556842502
+Lu BF EU sex combined 5 SNPs	YKApIu	M-LDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0173795768070435	0.112377742940151	0.877094732207218
+Lu BF EU sex combined 5 SNPs	YKApIu	M-LDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.314161839260343	0.313806261295012	0.316762458175607
+Lu BF EU sex combined 5 SNPs	YKApIu	M-LDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.00578950615904616	0.110174322586757	0.960611207980953
+Lu BF EU sex combined 5 SNPs	yLiBY5	XS-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.424792415985531	0.390342526314921	0.356094072086787
+Lu BF EU sex combined 5 SNPs	yLiBY5	XS-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.245164401407003	0.0986580545601624	0.0129554622362504
+Lu BF EU sex combined 5 SNPs	yLiBY5	XS-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.227653401714452	0.0617613548650749	0.000227791174211673
+Lu BF EU sex combined 5 SNPs	yLiBY5	XS-VLDL-C.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.242495731654871	0.122630632293139	0.119149030170058
+Lu BF EU sex combined 5 SNPs	yr3tD3	MUFAbyFA.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.588116467651322	0.597742598057624	0.397714988144539
+Lu BF EU sex combined 5 SNPs	yr3tD3	MUFAbyFA.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0680083996488396	0.116500249786404	0.55938055832013
+Lu BF EU sex combined 5 SNPs	yr3tD3	MUFAbyFA.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0807532461734816	0.126481644226834	0.523175438878782
+Lu BF EU sex combined 5 SNPs	yr3tD3	MUFAbyFA.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0556178393565707	0.138468277978061	0.708465701393518
+Lu BF EU sex combined 5 SNPs	YU5jBm	XL-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.04677721998791	2.28226675732436	0.435903599084239
+Lu BF EU sex combined 5 SNPs	YU5jBm	XL-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.323287813047849	0.117830242028058	0.00607557749220059
+Lu BF EU sex combined 5 SNPs	YU5jBm	XL-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.189075370664677	0.478992920772469	0.693038315473752
+Lu BF EU sex combined 5 SNPs	YU5jBm	XL-HDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.314112606001271	0.121985289156105	0.0616518608251659
+Lu BF EU sex combined 5 SNPs	yz99tn	M-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.966775899859621	0.725170641510676	0.274672277703429
+Lu BF EU sex combined 5 SNPs	yz99tn	M-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0164394905966977	0.124127457467199	0.894635958472764
+Lu BF EU sex combined 5 SNPs	yz99tn	M-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.16087046254073	0.164101720363418	0.326933405535035
+Lu BF EU sex combined 5 SNPs	yz99tn	M-VLDL-CE_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0398843816155161	0.134651081724715	0.78181523544791
+Lu BF EU sex combined 5 SNPs	z2X45D	L-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.157125485738006	0.880835803694335	0.869788747183494
+Lu BF EU sex combined 5 SNPs	z2X45D	L-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0156436372553715	0.123797730858865	0.899443408816257
+Lu BF EU sex combined 5 SNPs	z2X45D	L-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.155236443699997	0.16662332818682	0.351511787507066
+Lu BF EU sex combined 5 SNPs	z2X45D	L-VLDL-FC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0778184834104352	0.139517464108827	0.606742864009727
+Lu BF EU sex combined 5 SNPs	Z5MMR9	XS-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.220101046434365	0.390288495307719	0.612200528402149
+Lu BF EU sex combined 5 SNPs	Z5MMR9	XS-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.219021348798752	0.105681552162278	0.0382220698703967
+Lu BF EU sex combined 5 SNPs	Z5MMR9	XS-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.199881094234717	0.0516354100729805	0.000108386159071582
+Lu BF EU sex combined 5 SNPs	Z5MMR9	XS-VLDL-C_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.100478623785426	0.132234902858033	0.48966456221131
+Lu BF EU sex combined 5 SNPs	z7OcXI	Gly.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.0493970589561502	1.25028782251633	0.9709671291657
+Lu BF EU sex combined 5 SNPs	z7OcXI	Gly.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.203921656883284	0.131510141689891	0.120993868560394
+Lu BF EU sex combined 5 SNPs	z7OcXI	Gly.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.00288753614009149	0.236504330578358	0.9902586846445
+Lu BF EU sex combined 5 SNPs	z7OcXI	Gly.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.256756565128215	0.147843928525185	0.157449172379677
+Lu BF EU sex combined 5 SNPs	zb1ca2	S-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	2.94201427790098	2.45663303691912	0.31707538051905
+Lu BF EU sex combined 5 SNPs	zb1ca2	S-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.11367638775139	0.110586999607829	0.303979807499036
+Lu BF EU sex combined 5 SNPs	zb1ca2	S-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.479690292642763	0.54012450561677	0.37448126743698
+Lu BF EU sex combined 5 SNPs	zb1ca2	S-HDL-FC_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.117995973066022	0.110666526278868	0.34639948777533
+Lu BF EU sex combined 5 SNPs	Zc6AF9	M-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.30296805532565	1.69396441531552	0.497795581086777
+Lu BF EU sex combined 5 SNPs	Zc6AF9	M-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.130113412769676	0.115347561011841	0.259314925330993
+Lu BF EU sex combined 5 SNPs	Zc6AF9	M-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.237235566753608	0.341783718839506	0.487613099975914
+Lu BF EU sex combined 5 SNPs	Zc6AF9	M-VLDL-L.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.153264627728497	0.123417177413232	0.28213497888368
+Lu BF EU sex combined 5 SNPs	ze14h2	M-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.19692307019629	0.975742123428673	0.307436535189117
+Lu BF EU sex combined 5 SNPs	ze14h2	M-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.00782571179423229	0.116098739515285	0.946258765933802
+Lu BF EU sex combined 5 SNPs	ze14h2	M-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.245541283707545	0.21300219991417	0.24900723408406
+Lu BF EU sex combined 5 SNPs	ze14h2	M-VLDL-TG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0220524494674394	0.11621567427122	0.858741686215133
+Lu BF EU sex combined 5 SNPs	ZFp17y	FreeC.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.72466689831882	2.66822422250293	0.382347439771433
+Lu BF EU sex combined 5 SNPs	ZFp17y	FreeC.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0279199194559464	0.117047168485575	0.8114656880924
+Lu BF EU sex combined 5 SNPs	ZFp17y	FreeC.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.609437949869105	0.557317191515783	0.274165194725367
+Lu BF EU sex combined 5 SNPs	ZFp17y	FreeC.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0374630242063492	0.122938567924593	0.775769061247911
+Lu BF EU sex combined 5 SNPs	ZMtQMm	TotPG.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.06773744076224	1.10593237454069	0.405530893043742
+Lu BF EU sex combined 5 SNPs	ZMtQMm	TotPG.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0798865210891926	0.110277642829895	0.468812427002383
+Lu BF EU sex combined 5 SNPs	ZMtQMm	TotPG.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.342345234375094	0.224334500963809	0.12699789105179
+Lu BF EU sex combined 5 SNPs	ZMtQMm	TotPG.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0697522530826742	0.121057278048491	0.595353504595252
+Lu BF EU sex combined 5 SNPs	zSub2V	L-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.731725420668549	0.456549860632615	0.207321766577783
+Lu BF EU sex combined 5 SNPs	zSub2V	L-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.110810037033509	0.120009383882895	0.355827563523648
+Lu BF EU sex combined 5 SNPs	zSub2V	L-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.194377683644493	0.1052262319036	0.0647129440694133
+Lu BF EU sex combined 5 SNPs	zSub2V	L-VLDL-TG_percent.txt	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0779035551075818	0.149644198454414	0.630139023860469

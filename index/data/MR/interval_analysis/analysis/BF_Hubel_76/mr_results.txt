@@ -1,0 +1,921 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+Hubel BF EU sex combined 76 SNPs	0CN5pj	IDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00146297508901653	0.0264809593309775	0.95609525912644
+Hubel BF EU sex combined 76 SNPs	0CN5pj	IDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00672232855268531	0.00912837510052169	0.461474433004191
+Hubel BF EU sex combined 76 SNPs	0CN5pj	IDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00778291191150102	0.00696406762361791	0.263745849059442
+Hubel BF EU sex combined 76 SNPs	0CN5pj	IDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0191545993337087	0.017276848763031	0.271204998998069
+Hubel BF EU sex combined 76 SNPs	0ghR9u	XS-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0244650060652296	0.0238157220220682	0.307735535389055
+Hubel BF EU sex combined 76 SNPs	0ghR9u	XS-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00460168849863311	0.00910458327651723	0.613260016653217
+Hubel BF EU sex combined 76 SNPs	0ghR9u	XS-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00897286786581838	0.00628045553568322	0.153091345793155
+Hubel BF EU sex combined 76 SNPs	0ghR9u	XS-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0021738985416592	0.0186652609062588	0.907601764965236
+Hubel BF EU sex combined 76 SNPs	0ORWc9	DAGbyTG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0255992375045086	0.0326357228503698	0.435382603187418
+Hubel BF EU sex combined 76 SNPs	0ORWc9	DAGbyTG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.000797562940073339	0.00969415012234119	0.934429942182701
+Hubel BF EU sex combined 76 SNPs	0ORWc9	DAGbyTG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00870206349876321	0.00864886076385052	0.314342739094983
+Hubel BF EU sex combined 76 SNPs	0ORWc9	DAGbyTG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0191946815777701	0.0192827919163003	0.322815066714731
+Hubel BF EU sex combined 76 SNPs	0tbWBY	XL-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0761691854801517	0.035379171477048	0.0346745105379428
+Hubel BF EU sex combined 76 SNPs	0tbWBY	XL-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0333513421769181	0.00933605291284571	0.000353836494957827
+Hubel BF EU sex combined 76 SNPs	0tbWBY	XL-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00966415228454003	0.00954332361133548	0.311222079580546
+Hubel BF EU sex combined 76 SNPs	0tbWBY	XL-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0485014445004166	0.0155125046049728	0.00253900239884655
+Hubel BF EU sex combined 76 SNPs	0uoX6x	S-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0461897692943836	0.0327035273235166	0.162146311718395
+Hubel BF EU sex combined 76 SNPs	0uoX6x	S-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00391061080722222	0.00971743902819701	0.687365943032781
+Hubel BF EU sex combined 76 SNPs	0uoX6x	S-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.000279076353318734	0.00872277857103507	0.974476856260948
+Hubel BF EU sex combined 76 SNPs	0uoX6x	S-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00576399620733775	0.0169255782405827	0.734420890796857
+Hubel BF EU sex combined 76 SNPs	0y0K8W	XS-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.067549069352936	0.0312318173223934	0.0338760733327798
+Hubel BF EU sex combined 76 SNPs	0y0K8W	XS-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00255950998318877	0.00933190768000256	0.783873212520457
+Hubel BF EU sex combined 76 SNPs	0y0K8W	XS-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.000510599487732558	0.00849641781421547	0.952079291721369
+Hubel BF EU sex combined 76 SNPs	0y0K8W	XS-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0145469256479852	0.016912679339714	0.392539178099812
+Hubel BF EU sex combined 76 SNPs	0zx90r	M-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0400070538306598	0.0362903726771826	0.273952636910624
+Hubel BF EU sex combined 76 SNPs	0zx90r	M-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0254934715396224	0.0102865813536302	0.0132001573338345
+Hubel BF EU sex combined 76 SNPs	0zx90r	M-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00756808401488763	0.00959639517868414	0.430323485669595
+Hubel BF EU sex combined 76 SNPs	0zx90r	M-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0282473641006797	0.016654783250837	0.0941371914794053
+Hubel BF EU sex combined 76 SNPs	1A0xJy	TotPG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0191460067722045	0.0240824560093839	0.429215531288957
+Hubel BF EU sex combined 76 SNPs	1A0xJy	TotPG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00613873400783299	0.00920213777656714	0.504709100202587
+Hubel BF EU sex combined 76 SNPs	1A0xJy	TotPG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0117785763729237	0.00633347063205439	0.0629230417579719
+Hubel BF EU sex combined 76 SNPs	1A0xJy	TotPG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00749444457899567	0.015963301108977	0.640126148216839
+Hubel BF EU sex combined 76 SNPs	23Elm4	L-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0260868017034703	0.0317535849672548	0.414051554770508
+Hubel BF EU sex combined 76 SNPs	23Elm4	L-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00204255813973453	0.00983211528650903	0.835429242715708
+Hubel BF EU sex combined 76 SNPs	23Elm4	L-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00666738148699365	0.00841455356428759	0.428149006769101
+Hubel BF EU sex combined 76 SNPs	23Elm4	L-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0190508146840109	0.0223866207650998	0.397557142518378
+Hubel BF EU sex combined 76 SNPs	27TLOs	LA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0096996512858065	0.0278820585169076	0.728944218522566
+Hubel BF EU sex combined 76 SNPs	27TLOs	LA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0101601196621292	0.00984921225204644	0.302275133446336
+Hubel BF EU sex combined 76 SNPs	27TLOs	LA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0023499824262495	0.00733907516468069	0.748815632664587
+Hubel BF EU sex combined 76 SNPs	27TLOs	LA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.020327204386917	0.0171608971506495	0.240054627044777
+Hubel BF EU sex combined 76 SNPs	2cDC4l	XL-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0207519766716933	0.0282105531633904	0.464357465579559
+Hubel BF EU sex combined 76 SNPs	2cDC4l	XL-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0157544191107119	0.00938175835837108	0.093101225823676
+Hubel BF EU sex combined 76 SNPs	2cDC4l	XL-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0257253564658431	0.00741771009344008	0.000524153228946103
+Hubel BF EU sex combined 76 SNPs	2cDC4l	XL-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0108699673954966	0.0181011624512538	0.550024854962922
+Hubel BF EU sex combined 76 SNPs	2heYVO	L-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00323283568190203	0.0264478883112533	0.903054100066499
+Hubel BF EU sex combined 76 SNPs	2heYVO	L-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.002159346843383	0.00961115554192181	0.822235314206369
+Hubel BF EU sex combined 76 SNPs	2heYVO	L-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00748914881029599	0.00696198022580236	0.282052021833105
+Hubel BF EU sex combined 76 SNPs	2heYVO	L-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0169307050628545	0.0198591814416653	0.396704074316418
+Hubel BF EU sex combined 76 SNPs	2p12AK	HDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.055715804688232	0.0405683354848323	0.173895393316639
+Hubel BF EU sex combined 76 SNPs	2p12AK	HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0358522182460611	0.010255242752026	0.000472307756860314
+Hubel BF EU sex combined 76 SNPs	2p12AK	HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0209343037978988	0.010724278512166	0.0509325351059919
+Hubel BF EU sex combined 76 SNPs	2p12AK	HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0397916330308906	0.0157204045187795	0.0135206983129173
+Hubel BF EU sex combined 76 SNPs	3BUiSY	FAw3byFA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0521188276289861	0.0225723663949528	0.0238185629004116
+Hubel BF EU sex combined 76 SNPs	3BUiSY	FAw3byFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0134993988001383	0.00944654025364884	0.152995325603331
+Hubel BF EU sex combined 76 SNPs	3BUiSY	FAw3byFA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00336731866876883	0.00602247367955237	0.576076065823126
+Hubel BF EU sex combined 76 SNPs	3BUiSY	FAw3byFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0305929210458969	0.0162134512577439	0.0631521957214546
+Hubel BF EU sex combined 76 SNPs	3kvPUd	S-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0173231740216287	0.0275193805397431	0.531020769344266
+Hubel BF EU sex combined 76 SNPs	3kvPUd	S-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0122665766053418	0.00993477609556881	0.216938107610224
+Hubel BF EU sex combined 76 SNPs	3kvPUd	S-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0136082671098229	0.00730209889974267	0.062376442679817
+Hubel BF EU sex combined 76 SNPs	3kvPUd	S-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0232001931877888	0.0174689484719076	0.188288596085672
+Hubel BF EU sex combined 76 SNPs	3omJYB	VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0260868017034703	0.0317535849672548	0.414051554770508
+Hubel BF EU sex combined 76 SNPs	3omJYB	VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00204255813973453	0.0100799162630494	0.8394192219031
+Hubel BF EU sex combined 76 SNPs	3omJYB	VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00666738148699365	0.00841455356428759	0.428149006769101
+Hubel BF EU sex combined 76 SNPs	3omJYB	VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0190508146840109	0.0225260397000403	0.400470316456816
+Hubel BF EU sex combined 76 SNPs	3Q3bDH	EstC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0159809215608238	0.0268961271840048	0.554259590260835
+Hubel BF EU sex combined 76 SNPs	3Q3bDH	EstC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00566781114833009	0.00913446567539123	0.534937646470187
+Hubel BF EU sex combined 76 SNPs	3Q3bDH	EstC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.000356176363223234	0.00708778907162979	0.959921485398633
+Hubel BF EU sex combined 76 SNPs	3Q3bDH	EstC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0100447801454691	0.016179705525827	0.536647794382684
+Hubel BF EU sex combined 76 SNPs	3ugvC8	M-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0386227795485259	0.042619857509285	0.367844526111115
+Hubel BF EU sex combined 76 SNPs	3ugvC8	M-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0221299699600576	0.0102880906500681	0.0314739981045025
+Hubel BF EU sex combined 76 SNPs	3ugvC8	M-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00336441992961281	0.0112615063586746	0.765127761026005
+Hubel BF EU sex combined 76 SNPs	3ugvC8	M-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0258861988770144	0.0144692023943729	0.0777542119661182
+Hubel BF EU sex combined 76 SNPs	42ed6x	LDL-D.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0354990145127586	0.0259683326059884	0.175874723805033
+Hubel BF EU sex combined 76 SNPs	42ed6x	LDL-D.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0147576123500806	0.00964686807140135	0.12607051323603
+Hubel BF EU sex combined 76 SNPs	42ed6x	LDL-D.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00678042811900659	0.0068887534934139	0.324980298566433
+Hubel BF EU sex combined 76 SNPs	42ed6x	LDL-D.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0168222083222124	0.0168272579746527	0.320758055362778
+Hubel BF EU sex combined 76 SNPs	46XRMy	M-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00119558748745118	0.0287109655815219	0.966899202154108
+Hubel BF EU sex combined 76 SNPs	46XRMy	M-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0176026466734126	0.00966108671897502	0.0684526821230135
+Hubel BF EU sex combined 76 SNPs	46XRMy	M-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0174845431375975	0.00757044824890613	0.0209115111023385
+Hubel BF EU sex combined 76 SNPs	46XRMy	M-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0263012687735695	0.016501170021961	0.115278603254305
+Hubel BF EU sex combined 76 SNPs	4Biej0	Ala.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0311655491060105	0.0271193905219444	0.254277620769588
+Hubel BF EU sex combined 76 SNPs	4Biej0	Ala.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.01261625136389	0.00960749584562029	0.189126510511513
+Hubel BF EU sex combined 76 SNPs	4Biej0	Ala.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00659867755148473	0.00717226752471655	0.357558811869808
+Hubel BF EU sex combined 76 SNPs	4Biej0	Ala.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0137815626805404	0.0164776588152803	0.405671394294847
+Hubel BF EU sex combined 76 SNPs	4cRBev	XL-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.066232740590739	0.0370093365368787	0.0777196764298742
+Hubel BF EU sex combined 76 SNPs	4cRBev	XL-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0235233897038366	0.00932655100898035	0.0116624704202149
+Hubel BF EU sex combined 76 SNPs	4cRBev	XL-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00302524803833903	0.00993864941148723	0.76082905750284
+Hubel BF EU sex combined 76 SNPs	4cRBev	XL-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0383898271581944	0.0154609559228078	0.0153252656025932
+Hubel BF EU sex combined 76 SNPs	4fH6dW	S-LDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0173231740216287	0.0275193805397431	0.531020769344266
+Hubel BF EU sex combined 76 SNPs	4fH6dW	S-LDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0122665766053418	0.00986897458442157	0.213888699456088
+Hubel BF EU sex combined 76 SNPs	4fH6dW	S-LDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0136082671098229	0.00730209889974267	0.062376442679817
+Hubel BF EU sex combined 76 SNPs	4fH6dW	S-LDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0232001931877888	0.0163432347943814	0.159992271417588
+Hubel BF EU sex combined 76 SNPs	4Y1krm	M-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00352914986704521	0.0279391616877545	0.89983424542667
+Hubel BF EU sex combined 76 SNPs	4Y1krm	M-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-9.67955799927483e-05	0.00947574197842825	0.991849677221759
+Hubel BF EU sex combined 76 SNPs	4Y1krm	M-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0112045921254977	0.00735993394299451	0.127914713548905
+Hubel BF EU sex combined 76 SNPs	4Y1krm	M-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.000552424547540675	0.0163890258920088	0.973202809254238
+Hubel BF EU sex combined 76 SNPs	5HXRVH	FALen.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0568368131764449	0.031919972375865	0.0791957178166219
+Hubel BF EU sex combined 76 SNPs	5HXRVH	FALen.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0164494388001901	0.0098296908987335	0.0942398911826502
+Hubel BF EU sex combined 76 SNPs	5HXRVH	FALen.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00347771715103716	0.0085618697253306	0.684605464991993
+Hubel BF EU sex combined 76 SNPs	5HXRVH	FALen.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.02105147232314	0.0150056003387561	0.164883302446298
+Hubel BF EU sex combined 76 SNPs	5YC14T	M-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0395934721552201	0.0292778390495462	0.180500207677363
+Hubel BF EU sex combined 76 SNPs	5YC14T	M-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0145412163347363	0.00949845732361736	0.125793380115449
+Hubel BF EU sex combined 76 SNPs	5YC14T	M-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00298883472605553	0.00778541654817492	0.701051298888577
+Hubel BF EU sex combined 76 SNPs	5YC14T	M-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0368596817767782	0.0188405872871652	0.0542440835380989
+Hubel BF EU sex combined 76 SNPs	5ZT18F	DHAbyFA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0403309589996574	0.0225865137858139	0.0783716653351585
+Hubel BF EU sex combined 76 SNPs	5ZT18F	DHAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00369100972823391	0.00911250356570232	0.68544155215533
+Hubel BF EU sex combined 76 SNPs	5ZT18F	DHAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0040213883098489	0.00610427043442686	0.510035260028087
+Hubel BF EU sex combined 76 SNPs	5ZT18F	DHAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00938431092833145	0.0168961025090754	0.5803105090872
+Hubel BF EU sex combined 76 SNPs	6BX3BC	L-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0448611829055224	0.0401695155850365	0.267794311280716
+Hubel BF EU sex combined 76 SNPs	6BX3BC	L-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0318606062518897	0.00976834844718174	0.0011077891061097
+Hubel BF EU sex combined 76 SNPs	6BX3BC	L-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0143990196948324	0.0106055161516517	0.174561578223344
+Hubel BF EU sex combined 76 SNPs	6BX3BC	L-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0361850309276069	0.0139889926364557	0.0116824523723508
+Hubel BF EU sex combined 76 SNPs	6hFmSN	FAw3.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0521188276289861	0.0225723663949528	0.0238185629004116
+Hubel BF EU sex combined 76 SNPs	6hFmSN	FAw3.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0134993988001383	0.00876732987237433	0.1236240121577
+Hubel BF EU sex combined 76 SNPs	6hFmSN	FAw3.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00336731866876883	0.00602247367955237	0.576076065823126
+Hubel BF EU sex combined 76 SNPs	6hFmSN	FAw3.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0305929210458969	0.0164865100194125	0.0675425769674245
+Hubel BF EU sex combined 76 SNPs	6JlSqZ	S-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0217724076724168	0.0274736827082472	0.430682993126464
+Hubel BF EU sex combined 76 SNPs	6JlSqZ	S-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0181683334268517	0.00927099822349515	0.0500313923649631
+Hubel BF EU sex combined 76 SNPs	6JlSqZ	S-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0156652285103162	0.00732142127553399	0.0323836207181284
+Hubel BF EU sex combined 76 SNPs	6JlSqZ	S-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0222970526075256	0.0159600050451899	0.166628520175084
+Hubel BF EU sex combined 76 SNPs	6nBbtc	L-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0179181295952847	0.0340136445977661	0.599957042176522
+Hubel BF EU sex combined 76 SNPs	6nBbtc	L-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0317025213635381	0.0102072742557439	0.00189716679379687
+Hubel BF EU sex combined 76 SNPs	6nBbtc	L-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0216316833914827	0.00894090773131747	0.0155458896644932
+Hubel BF EU sex combined 76 SNPs	6nBbtc	L-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0399337524149736	0.0158805965907838	0.0141188471798741
+Hubel BF EU sex combined 76 SNPs	6U21l6	IDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0471904939581913	0.0297417512330127	0.116968633108435
+Hubel BF EU sex combined 76 SNPs	6U21l6	IDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0107805262008276	0.00956073123590904	0.259495707498849
+Hubel BF EU sex combined 76 SNPs	6U21l6	IDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00571919370190064	0.00793079572529236	0.470824959631775
+Hubel BF EU sex combined 76 SNPs	6U21l6	IDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0141501493356623	0.0175948534104356	0.423880690241985
+Hubel BF EU sex combined 76 SNPs	75sSDR	L-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0539652664686876	0.0401306731655706	0.182930640772113
+Hubel BF EU sex combined 76 SNPs	75sSDR	L-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.027990710215082	0.00978521302252036	0.00422958780717977
+Hubel BF EU sex combined 76 SNPs	75sSDR	L-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.012894575068566	0.0106303833678481	0.2251326962151
+Hubel BF EU sex combined 76 SNPs	75sSDR	L-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0311049775622826	0.0149556127300072	0.0410538015115494
+Hubel BF EU sex combined 76 SNPs	7HdpSK	M-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0458021441974278	0.0318078526687369	0.154211846248076
+Hubel BF EU sex combined 76 SNPs	7HdpSK	M-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.025764715719585	0.00977724740319814	0.00840949840566412
+Hubel BF EU sex combined 76 SNPs	7HdpSK	M-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0136097098617399	0.00842480667762366	0.106216980885117
+Hubel BF EU sex combined 76 SNPs	7HdpSK	M-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0322001238073346	0.0154768492268244	0.0409862684425545
+Hubel BF EU sex combined 76 SNPs	7xzTiq	M-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0267961055794698	0.0287307937008587	0.354111868745991
+Hubel BF EU sex combined 76 SNPs	7xzTiq	M-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0115749791315528	0.00981173014865196	0.238116266307717
+Hubel BF EU sex combined 76 SNPs	7xzTiq	M-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0127797406635312	0.00765769856178508	0.095142181587975
+Hubel BF EU sex combined 76 SNPs	7xzTiq	M-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0245266074640088	0.0192525106958508	0.206724535873088
+Hubel BF EU sex combined 76 SNPs	8JVU44	M-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0299363371301443	0.0288061390479807	0.302173031610091
+Hubel BF EU sex combined 76 SNPs	8JVU44	M-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00932717878200012	0.00995660940351266	0.348870379981746
+Hubel BF EU sex combined 76 SNPs	8JVU44	M-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00951378918661824	0.00767674874432218	0.215234685502012
+Hubel BF EU sex combined 76 SNPs	8JVU44	M-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0211841215866112	0.0192411226989926	0.274521791068921
+Hubel BF EU sex combined 76 SNPs	8R4iH6	M-LDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00442485726555908	0.0281060744344931	0.875343337424076
+Hubel BF EU sex combined 76 SNPs	8R4iH6	M-LDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0106540133244998	0.00942093118026477	0.258102444490645
+Hubel BF EU sex combined 76 SNPs	8R4iH6	M-LDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00750331050147828	0.00739818737850084	0.310482888090488
+Hubel BF EU sex combined 76 SNPs	8R4iH6	M-LDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0259965773483072	0.0185002695326548	0.164203278661129
+Hubel BF EU sex combined 76 SNPs	8riaeN	IDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00831498010892817	0.0256683596554135	0.746923434443887
+Hubel BF EU sex combined 76 SNPs	8riaeN	IDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0134022419377803	0.00957140985030972	0.161442368079074
+Hubel BF EU sex combined 76 SNPs	8riaeN	IDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00425554695312313	0.00675952981729329	0.528980820247637
+Hubel BF EU sex combined 76 SNPs	8riaeN	IDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0140179625784236	0.0181889447505706	0.443380359540411
+Hubel BF EU sex combined 76 SNPs	8Txr2K	L-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0488422789825291	0.0282005251682589	0.0875624544475816
+Hubel BF EU sex combined 76 SNPs	8Txr2K	L-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00914550073998574	0.00942806242018097	0.332031678756721
+Hubel BF EU sex combined 76 SNPs	8Txr2K	L-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00179449189632946	0.00759034162908644	0.813108482457142
+Hubel BF EU sex combined 76 SNPs	8Txr2K	L-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0178033576944097	0.0174973027134381	0.3122800724605
+Hubel BF EU sex combined 76 SNPs	8wAWc3	XXL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0185280731453358	0.023528866884591	0.433596510668078
+Hubel BF EU sex combined 76 SNPs	8wAWc3	XXL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0111831077811145	0.00895629949088827	0.211800289481947
+Hubel BF EU sex combined 76 SNPs	8wAWc3	XXL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00983381799968005	0.00619046116483916	0.11216345059586
+Hubel BF EU sex combined 76 SNPs	8wAWc3	XXL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00531737870979315	0.018381954908582	0.773193443990404
+Hubel BF EU sex combined 76 SNPs	96oYbl	L-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0142650267115391	0.029398820558951	0.628990312142222
+Hubel BF EU sex combined 76 SNPs	96oYbl	L-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0145748461325539	0.00969659747981775	0.132816171504935
+Hubel BF EU sex combined 76 SNPs	96oYbl	L-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0122146202109456	0.00777482088274757	0.116171397821279
+Hubel BF EU sex combined 76 SNPs	96oYbl	L-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0275825951601517	0.0179631537783865	0.128981794868232
+Hubel BF EU sex combined 76 SNPs	9pBhLY	IDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0471518971717668	0.0325058370311608	0.151243190450296
+Hubel BF EU sex combined 76 SNPs	9pBhLY	IDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00541640815046854	0.00990446869263001	0.584471421910982
+Hubel BF EU sex combined 76 SNPs	9pBhLY	IDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	7.98097983481795e-05	0.00867772140388501	0.99266188608509
+Hubel BF EU sex combined 76 SNPs	9pBhLY	IDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00434827157128526	0.0173383564631613	0.802681677317903
+Hubel BF EU sex combined 76 SNPs	9VhzK6	L-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0448611829055224	0.0401695155850365	0.267794311280716
+Hubel BF EU sex combined 76 SNPs	9VhzK6	L-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0318606062518897	0.0100863862940521	0.00158434758995693
+Hubel BF EU sex combined 76 SNPs	9VhzK6	L-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0143990196948324	0.0106055161516517	0.174561578223344
+Hubel BF EU sex combined 76 SNPs	9VhzK6	L-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0361850309276069	0.0156729658996285	0.0237908679876519
+Hubel BF EU sex combined 76 SNPs	9WegwP	L-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0194474487143334	0.034815685922701	0.578179473708867
+Hubel BF EU sex combined 76 SNPs	9WegwP	L-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0405696523267381	0.0105731092479945	0.000124516165513329
+Hubel BF EU sex combined 76 SNPs	9WegwP	L-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0267628740509267	0.00915345479234597	0.00345786485281579
+Hubel BF EU sex combined 76 SNPs	9WegwP	L-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0530213614488901	0.018701202399093	0.00592117409642575
+Hubel BF EU sex combined 76 SNPs	9XkmRu	XL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0162104959380845	0.0303959534671112	0.595460804376142
+Hubel BF EU sex combined 76 SNPs	9XkmRu	XL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00315690073779088	0.00951616060699406	0.740084830568898
+Hubel BF EU sex combined 76 SNPs	9XkmRu	XL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00580494121735054	0.00802294607632124	0.46934674838806
+Hubel BF EU sex combined 76 SNPs	9XkmRu	XL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0187215096501313	0.0218444765122308	0.394229638188584
+Hubel BF EU sex combined 76 SNPs	AH8qqb	L-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0181524526920124	0.0282172380261349	0.522066185561723
+Hubel BF EU sex combined 76 SNPs	AH8qqb	L-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0152157778275543	0.00928310365847424	0.101195965281715
+Hubel BF EU sex combined 76 SNPs	AH8qqb	L-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.013061574062689	0.00741926137251921	0.0783238799902418
+Hubel BF EU sex combined 76 SNPs	AH8qqb	L-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0173164340969371	0.0183698197875975	0.348965805642621
+Hubel BF EU sex combined 76 SNPs	AI5ZdQ	Val.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0831293853935698	0.0282127867814482	0.00432772377140512
+Hubel BF EU sex combined 76 SNPs	AI5ZdQ	Val.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0344348238688404	0.00937306827013848	0.000238965248545449
+Hubel BF EU sex combined 76 SNPs	AI5ZdQ	Val.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0205822721711516	0.00768265062575559	0.00738294448653464
+Hubel BF EU sex combined 76 SNPs	AI5ZdQ	Val.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0602702788564593	0.0189243404967517	0.00213076462371609
+Hubel BF EU sex combined 76 SNPs	Ar9G6y	M-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0395934721552201	0.0292778390495462	0.180500207677363
+Hubel BF EU sex combined 76 SNPs	Ar9G6y	M-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0145412163347363	0.00893598277249196	0.10368072513563
+Hubel BF EU sex combined 76 SNPs	Ar9G6y	M-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00298883472605553	0.00778541654817492	0.701051298888577
+Hubel BF EU sex combined 76 SNPs	Ar9G6y	M-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0368596817767782	0.0181332822730685	0.0457196246837045
+Hubel BF EU sex combined 76 SNPs	Avz7e6	S-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0165127749277973	0.0243444630854926	0.499757700549347
+Hubel BF EU sex combined 76 SNPs	Avz7e6	S-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0160156168193345	0.00877312124130294	0.0679207308612238
+Hubel BF EU sex combined 76 SNPs	Avz7e6	S-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0119856315213901	0.00640107678207395	0.0611457703435485
+Hubel BF EU sex combined 76 SNPs	Avz7e6	S-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0224887296389615	0.0178809750556246	0.212512212978503
+Hubel BF EU sex combined 76 SNPs	awAsv4	XL-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0464011130826441	0.044314782696672	0.298565170004285
+Hubel BF EU sex combined 76 SNPs	awAsv4	XL-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0369151676699868	0.010807780612365	0.000636392308539914
+Hubel BF EU sex combined 76 SNPs	awAsv4	XL-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0226738878674662	0.0116754465784642	0.0521353312907131
+Hubel BF EU sex combined 76 SNPs	awAsv4	XL-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.033384244319155	0.0173562390263872	0.0583205821647598
+Hubel BF EU sex combined 76 SNPs	awCiwD	LAbyFA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0096996512858065	0.0278820585169076	0.728944218522566
+Hubel BF EU sex combined 76 SNPs	awCiwD	LAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0101601196621292	0.00990440262942254	0.304977134037129
+Hubel BF EU sex combined 76 SNPs	awCiwD	LAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0023499824262495	0.00733907516468069	0.748815632664587
+Hubel BF EU sex combined 76 SNPs	awCiwD	LAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.020327204386917	0.0173147087442626	0.244216973264839
+Hubel BF EU sex combined 76 SNPs	B2pjDQ	XXL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00500843650623531	0.0239263855204431	0.834784181481385
+Hubel BF EU sex combined 76 SNPs	B2pjDQ	XXL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0116523184164388	0.00889968654254678	0.190434316174146
+Hubel BF EU sex combined 76 SNPs	B2pjDQ	XXL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0129130784903915	0.00629370280927159	0.0401943703176069
+Hubel BF EU sex combined 76 SNPs	B2pjDQ	XXL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00653214098611676	0.0176985013080359	0.71313737520644
+Hubel BF EU sex combined 76 SNPs	b9lnPf	S-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0338796041723564	0.0251918927969201	0.182891170232593
+Hubel BF EU sex combined 76 SNPs	b9lnPf	S-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0136771555734652	0.0095299600785876	0.15123738168153
+Hubel BF EU sex combined 76 SNPs	b9lnPf	S-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0250002329442202	0.00688722368994014	0.000283483252158715
+Hubel BF EU sex combined 76 SNPs	b9lnPf	S-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00369130218160102	0.0194936413460932	0.850336735708928
+Hubel BF EU sex combined 76 SNPs	bbZDqx	S-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.045313103810603	0.0301827703541057	0.137653451494403
+Hubel BF EU sex combined 76 SNPs	bbZDqx	S-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0055148049204288	0.00956629927532287	0.564289038729867
+Hubel BF EU sex combined 76 SNPs	bbZDqx	S-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0132831382289305	0.00815450899487764	0.103327477718624
+Hubel BF EU sex combined 76 SNPs	bbZDqx	S-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0098783918137243	0.0158538646342521	0.535166939627111
+Hubel BF EU sex combined 76 SNPs	Bg20wr	M-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0117753762371536	0.0318428557423864	0.712619622617768
+Hubel BF EU sex combined 76 SNPs	Bg20wr	M-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.000603432487882586	0.0097785665985844	0.950794008968106
+Hubel BF EU sex combined 76 SNPs	Bg20wr	M-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0117082802255062	0.00840531192874696	0.163631278076289
+Hubel BF EU sex combined 76 SNPs	Bg20wr	M-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.000394579123008665	0.0171151965105169	0.981669850184383
+Hubel BF EU sex combined 76 SNPs	bGgZyP	S-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0352891445756812	0.0288085084269274	0.224584376908746
+Hubel BF EU sex combined 76 SNPs	bGgZyP	S-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00785967649029365	0.00985206615861393	0.425004346456323
+Hubel BF EU sex combined 76 SNPs	bGgZyP	S-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0111602855732733	0.00771866772149923	0.148210197786056
+Hubel BF EU sex combined 76 SNPs	bGgZyP	S-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0135307471354114	0.0176759489258317	0.446448254164123
+Hubel BF EU sex combined 76 SNPs	bsdH7X	XS-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0244650060652296	0.0238157220220682	0.307735535389055
+Hubel BF EU sex combined 76 SNPs	bsdH7X	XS-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00460168849863311	0.00926942981872816	0.619586082510406
+Hubel BF EU sex combined 76 SNPs	bsdH7X	XS-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00897286786581838	0.00628045553568322	0.153091345793155
+Hubel BF EU sex combined 76 SNPs	bsdH7X	XS-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0021738985416592	0.018970217138481	0.909080482895988
+Hubel BF EU sex combined 76 SNPs	BTThg3	Tyr.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0822425787168104	0.0280876530367386	0.0045634086695674
+Hubel BF EU sex combined 76 SNPs	BTThg3	Tyr.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0262650341213716	0.00949161761111558	0.00565431658281199
+Hubel BF EU sex combined 76 SNPs	BTThg3	Tyr.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0170498584428457	0.00767497370171019	0.0263179577588301
+Hubel BF EU sex combined 76 SNPs	BTThg3	Tyr.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0380327350514701	0.0184419303317386	0.0427388264241655
+Hubel BF EU sex combined 76 SNPs	bU3sBJ	M-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0170911525506365	0.0268914432268448	0.52707752912059
+Hubel BF EU sex combined 76 SNPs	bU3sBJ	M-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00948942694631434	0.00919870444524604	0.302257327207246
+Hubel BF EU sex combined 76 SNPs	bU3sBJ	M-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0111166723381814	0.00712606405346638	0.118759469491323
+Hubel BF EU sex combined 76 SNPs	bU3sBJ	M-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0232755061840308	0.0172518734583582	0.181456079775986
+Hubel BF EU sex combined 76 SNPs	Bxs6Ym	S-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00514933831073906	0.028463494389105	0.856946293779127
+Hubel BF EU sex combined 76 SNPs	Bxs6Ym	S-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.017362133953338	0.00954882925282641	0.0690263284148325
+Hubel BF EU sex combined 76 SNPs	Bxs6Ym	S-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0155569293955843	0.00751206191440262	0.0383656490030106
+Hubel BF EU sex combined 76 SNPs	Bxs6Ym	S-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0173864469849759	0.0168340367797694	0.305100039034866
+Hubel BF EU sex combined 76 SNPs	c3EtvP	DHA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0403309589996574	0.0225865137858139	0.0783716653351585
+Hubel BF EU sex combined 76 SNPs	c3EtvP	DHA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00369100972823391	0.0087481817544051	0.673085340172308
+Hubel BF EU sex combined 76 SNPs	c3EtvP	DHA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0040213883098489	0.00610427043442686	0.510035260028087
+Hubel BF EU sex combined 76 SNPs	c3EtvP	DHA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00938431092833145	0.0175979928974456	0.595473260098096
+Hubel BF EU sex combined 76 SNPs	CdiDIy	M-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0475347778503169	0.0372557908138652	0.206090607043542
+Hubel BF EU sex combined 76 SNPs	CdiDIy	M-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0227396647435116	0.00993437069846627	0.0220799944846123
+Hubel BF EU sex combined 76 SNPs	CdiDIy	M-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00952724619926384	0.00986937927210314	0.334377606762057
+Hubel BF EU sex combined 76 SNPs	CdiDIy	M-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0256267750510691	0.0163281692860796	0.120860281196459
+Hubel BF EU sex combined 76 SNPs	CJJ6Yb	SFAbyFA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0305900563301922	0.0226108743686598	0.18032347194481
+Hubel BF EU sex combined 76 SNPs	CJJ6Yb	SFAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00186517201979554	0.00884312975742252	0.832951542454387
+Hubel BF EU sex combined 76 SNPs	CJJ6Yb	SFAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0117087822638507	0.00604688761707903	0.0528270464924402
+Hubel BF EU sex combined 76 SNPs	CJJ6Yb	SFAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00999765188618723	0.0158934742820179	0.531285582765374
+Hubel BF EU sex combined 76 SNPs	cUHZyt	S-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0629864441558943	0.0407948448195718	0.12697722729137
+Hubel BF EU sex combined 76 SNPs	cUHZyt	S-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0237341683026788	0.00968418934371519	0.0142532706162564
+Hubel BF EU sex combined 76 SNPs	cUHZyt	S-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00822645010342722	0.0108680230442064	0.449085327826527
+Hubel BF EU sex combined 76 SNPs	cUHZyt	S-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0332328164514619	0.0149942791460221	0.0297827433443907
+Hubel BF EU sex combined 76 SNPs	cvYREi	MUFA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00994508420050117	0.0372657093532245	0.790332450728803
+Hubel BF EU sex combined 76 SNPs	cvYREi	MUFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0122296020802242	0.0100268858455082	0.222585829788716
+Hubel BF EU sex combined 76 SNPs	cvYREi	MUFA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00952696186060254	0.00979444334590525	0.330707155045632
+Hubel BF EU sex combined 76 SNPs	cvYREi	MUFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.000574940393170909	0.0171205754689821	0.973302258647199
+Hubel BF EU sex combined 76 SNPs	CXHtNS	XXL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00983041344618897	0.0235143911996904	0.677147894012306
+Hubel BF EU sex combined 76 SNPs	CXHtNS	XXL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00823225956019936	0.00902458420310076	0.361661469785855
+Hubel BF EU sex combined 76 SNPs	CXHtNS	XXL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00393458726123683	0.00608777653348212	0.518078994791947
+Hubel BF EU sex combined 76 SNPs	CXHtNS	XXL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0141970536797184	0.0174807839498262	0.419344953307025
+Hubel BF EU sex combined 76 SNPs	dc22fS	S-LDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0300778159405817	0.0283422010311039	0.292128691668209
+Hubel BF EU sex combined 76 SNPs	dc22fS	S-LDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00867566876524041	0.0104068419718391	0.404477972893799
+Hubel BF EU sex combined 76 SNPs	dc22fS	S-LDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0141503026620318	0.007584214576441	0.0620753482414362
+Hubel BF EU sex combined 76 SNPs	dc22fS	S-LDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0211692910679019	0.0178607722571253	0.239766855130979
+Hubel BF EU sex combined 76 SNPs	DChiFp	CLA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0096996512858065	0.0278820585169076	0.728944218522566
+Hubel BF EU sex combined 76 SNPs	DChiFp	CLA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0101601196621292	0.00925699587607937	0.272396135643329
+Hubel BF EU sex combined 76 SNPs	DChiFp	CLA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0023499824262495	0.00733907516468069	0.748815632664587
+Hubel BF EU sex combined 76 SNPs	DChiFp	CLA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.020327204386917	0.0163813572065496	0.218625237575733
+Hubel BF EU sex combined 76 SNPs	DEv6aq	S-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0217724076724168	0.0274736827082472	0.430682993126464
+Hubel BF EU sex combined 76 SNPs	DEv6aq	S-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0181683334268517	0.00956564392120841	0.0575208403889263
+Hubel BF EU sex combined 76 SNPs	DEv6aq	S-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0156652285103162	0.00732142127553399	0.0323836207181284
+Hubel BF EU sex combined 76 SNPs	DEv6aq	S-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0222970526075256	0.0163758700264072	0.177518171331566
+Hubel BF EU sex combined 76 SNPs	DF4UcR	DAG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0255992375045086	0.0326357228503698	0.435382603187418
+Hubel BF EU sex combined 76 SNPs	DF4UcR	DAG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.000797562940073339	0.00971732485788205	0.934585968203227
+Hubel BF EU sex combined 76 SNPs	DF4UcR	DAG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00870206349876321	0.00864886076385052	0.314342739094983
+Hubel BF EU sex combined 76 SNPs	DF4UcR	DAG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0191946815777701	0.0197914986702627	0.335326335378396
+Hubel BF EU sex combined 76 SNPs	dGFzV4	L-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0510018670790863	0.0424101021559227	0.233075845126915
+Hubel BF EU sex combined 76 SNPs	dGFzV4	L-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.043080258651864	0.00983189893451481	1.17766386473349e-05
+Hubel BF EU sex combined 76 SNPs	dGFzV4	L-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0215766946522787	0.0111897588322293	0.0538235690353673
+Hubel BF EU sex combined 76 SNPs	dGFzV4	L-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0449093333342616	0.0164640874449431	0.00798326752750706
+Hubel BF EU sex combined 76 SNPs	Don01j	XS-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0300005918547854	0.0338665329098739	0.378648692694855
+Hubel BF EU sex combined 76 SNPs	Don01j	XS-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00275178429773505	0.0102561873120903	0.788464710855467
+Hubel BF EU sex combined 76 SNPs	Don01j	XS-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00417551261793908	0.00897028650878008	0.641585868174745
+Hubel BF EU sex combined 76 SNPs	Don01j	XS-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0101188312577972	0.017958042681789	0.574841208832621
+Hubel BF EU sex combined 76 SNPs	DsC6mY	Remnant-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0176090532562842	0.030914965016076	0.570724373058995
+Hubel BF EU sex combined 76 SNPs	DsC6mY	Remnant-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00962539003920181	0.00901664636483759	0.285740104902838
+Hubel BF EU sex combined 76 SNPs	DsC6mY	Remnant-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00901081262245381	0.008131749068657	0.267817490340306
+Hubel BF EU sex combined 76 SNPs	DsC6mY	Remnant-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0148121195473942	0.016322738901247	0.367153144793175
+Hubel BF EU sex combined 76 SNPs	dvvOJP	XL-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0761691854801517	0.035379171477048	0.0346745105379428
+Hubel BF EU sex combined 76 SNPs	dvvOJP	XL-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0333513421769181	0.00960430976004108	0.000515559705654579
+Hubel BF EU sex combined 76 SNPs	dvvOJP	XL-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00966415228454003	0.00954332361133548	0.311222079580546
+Hubel BF EU sex combined 76 SNPs	dvvOJP	XL-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0485014445004166	0.0150517419951443	0.00190110903853404
+Hubel BF EU sex combined 76 SNPs	dX8PyN	L-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0027995252038166	0.0277052868164721	0.919794323956574
+Hubel BF EU sex combined 76 SNPs	dX8PyN	L-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00255547321754852	0.00959788527976473	0.790043768292219
+Hubel BF EU sex combined 76 SNPs	dX8PyN	L-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00396191775508517	0.00728686696657778	0.58664338127259
+Hubel BF EU sex combined 76 SNPs	dX8PyN	L-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00749526868888847	0.0196970553295142	0.704659031956839
+Hubel BF EU sex combined 76 SNPs	dYMvBn	XXL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00500843650623531	0.0239263855204431	0.834784181481385
+Hubel BF EU sex combined 76 SNPs	dYMvBn	XXL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0116523184164388	0.00934778607765145	0.212568994024517
+Hubel BF EU sex combined 76 SNPs	dYMvBn	XXL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0129130784903915	0.00629370280927159	0.0401943703176069
+Hubel BF EU sex combined 76 SNPs	dYMvBn	XXL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00653214098611676	0.0200778296877801	0.745853661125396
+Hubel BF EU sex combined 76 SNPs	E2myn7	Serum-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0177707650651314	0.0265875738313069	0.506024341919679
+Hubel BF EU sex combined 76 SNPs	E2myn7	Serum-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00175803429285564	0.00932588262442592	0.850475855197832
+Hubel BF EU sex combined 76 SNPs	E2myn7	Serum-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.000146899819147484	0.00701298920381229	0.98328807822895
+Hubel BF EU sex combined 76 SNPs	E2myn7	Serum-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00828065009735937	0.016821300838797	0.624004540197943
+Hubel BF EU sex combined 76 SNPs	E9OHt1	Phe.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0856079882863354	0.0243564009502828	0.000765258670821579
+Hubel BF EU sex combined 76 SNPs	E9OHt1	Phe.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0541287897742304	0.00883376772863586	8.92783449009548e-10
+Hubel BF EU sex combined 76 SNPs	E9OHt1	Phe.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0454312238750496	0.00653110951228124	3.49755862667718e-12
+Hubel BF EU sex combined 76 SNPs	E9OHt1	Phe.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0667663187507763	0.0169500149002704	0.000185335298735004
+Hubel BF EU sex combined 76 SNPs	eA6PX4	L-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0208138523406229	0.0254152936278645	0.415517460650132
+Hubel BF EU sex combined 76 SNPs	eA6PX4	L-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0228315728210413	0.00935885353760967	0.014704777404858
+Hubel BF EU sex combined 76 SNPs	eA6PX4	L-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0148876408657526	0.00668405643277481	0.0259248127891857
+Hubel BF EU sex combined 76 SNPs	eA6PX4	L-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0394541319972548	0.0179062434994107	0.0307238699390528
+Hubel BF EU sex combined 76 SNPs	egJYBI	Pyr.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0488389532535572	0.0313697467003225	0.123883796798182
+Hubel BF EU sex combined 76 SNPs	egJYBI	Pyr.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00736864942177814	0.0114147882264721	0.518580311572014
+Hubel BF EU sex combined 76 SNPs	egJYBI	Pyr.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00691042269946997	0.00834774990297508	0.40777323517359
+Hubel BF EU sex combined 76 SNPs	egJYBI	Pyr.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00636462153870307	0.0203983719280234	0.755917707299697
+Hubel BF EU sex combined 76 SNPs	EIto8y	XL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0162104959380845	0.0303959534671112	0.595460804376142
+Hubel BF EU sex combined 76 SNPs	EIto8y	XL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00315690073779088	0.00980937340262331	0.747585340021446
+Hubel BF EU sex combined 76 SNPs	EIto8y	XL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00580494121735054	0.00802294607632124	0.46934674838806
+Hubel BF EU sex combined 76 SNPs	EIto8y	XL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0187215096501313	0.0210628430629116	0.377008333305272
+Hubel BF EU sex combined 76 SNPs	eSvBqr	IDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0471904939581913	0.0297417512330127	0.116968633108435
+Hubel BF EU sex combined 76 SNPs	eSvBqr	IDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0107805262008276	0.00999141189299599	0.280596973837702
+Hubel BF EU sex combined 76 SNPs	eSvBqr	IDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00571919370190064	0.00793079572529236	0.470824959631775
+Hubel BF EU sex combined 76 SNPs	eSvBqr	IDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0141501493356623	0.0179860592633288	0.433987335799275
+Hubel BF EU sex combined 76 SNPs	evlTM5	L-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0712320907070288	0.0478496158839788	0.140942555975926
+Hubel BF EU sex combined 76 SNPs	evlTM5	L-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.054348020931636	0.0109569266788131	7.0438069783129e-07
+Hubel BF EU sex combined 76 SNPs	evlTM5	L-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0269027416691458	0.0126579242065809	0.0335559537324281
+Hubel BF EU sex combined 76 SNPs	evlTM5	L-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0646952956993406	0.0159757384233226	0.000126422982564646
+Hubel BF EU sex combined 76 SNPs	eYO75d	M-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0458021441974278	0.0318078526687369	0.154211846248076
+Hubel BF EU sex combined 76 SNPs	eYO75d	M-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.025764715719585	0.0097496293975968	0.00822635677928359
+Hubel BF EU sex combined 76 SNPs	eYO75d	M-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0136097098617399	0.00842480667762366	0.106216980885117
+Hubel BF EU sex combined 76 SNPs	eYO75d	M-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0322001238073346	0.0161874358280037	0.0504261579760482
+Hubel BF EU sex combined 76 SNPs	FBJXxp	XXL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-5.32035926781785e-05	0.0267927971593858	0.998421099517963
+Hubel BF EU sex combined 76 SNPs	FBJXxp	XXL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0115932381523019	0.00967879657977669	0.23099586852008
+Hubel BF EU sex combined 76 SNPs	FBJXxp	XXL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0101574900419656	0.00704943069425576	0.149614324745282
+Hubel BF EU sex combined 76 SNPs	FBJXxp	XXL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0116301373240017	0.0162383334081363	0.476143615252835
+Hubel BF EU sex combined 76 SNPs	fL2Gaw	S-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0173231740216287	0.0275193805397431	0.531020769344266
+Hubel BF EU sex combined 76 SNPs	fL2Gaw	S-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0122665766053418	0.00993013359149808	0.216723272925684
+Hubel BF EU sex combined 76 SNPs	fL2Gaw	S-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0136082671098229	0.00730209889974267	0.062376442679817
+Hubel BF EU sex combined 76 SNPs	fL2Gaw	S-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0232001931877888	0.0158991109807299	0.148796231072805
+Hubel BF EU sex combined 76 SNPs	FZA82g	M-LDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0170911525506365	0.0268914432268448	0.52707752912059
+Hubel BF EU sex combined 76 SNPs	FZA82g	M-LDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00948942694631434	0.00934664205253964	0.30997399645975
+Hubel BF EU sex combined 76 SNPs	FZA82g	M-LDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0111166723381814	0.00712606405346638	0.118759469491323
+Hubel BF EU sex combined 76 SNPs	FZA82g	M-LDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0232755061840308	0.0167612002483573	0.169160578316486
+Hubel BF EU sex combined 76 SNPs	g4pWdk	CLAbyFA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0096996512858065	0.0278820585169076	0.728944218522566
+Hubel BF EU sex combined 76 SNPs	g4pWdk	CLAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0101601196621292	0.00956282459302962	0.288026858157942
+Hubel BF EU sex combined 76 SNPs	g4pWdk	CLAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0023499824262495	0.00733907516468069	0.748815632664587
+Hubel BF EU sex combined 76 SNPs	g4pWdk	CLAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.020327204386917	0.0169667695406034	0.234769073499246
+Hubel BF EU sex combined 76 SNPs	G9tuDu	L-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0181524526920124	0.0282172380261349	0.522066185561723
+Hubel BF EU sex combined 76 SNPs	G9tuDu	L-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0152157778275543	0.00947016894479494	0.108118863764366
+Hubel BF EU sex combined 76 SNPs	G9tuDu	L-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.013061574062689	0.00741926137251921	0.0783238799902418
+Hubel BF EU sex combined 76 SNPs	G9tuDu	L-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0173164340969371	0.0170769661752237	0.313921020879294
+Hubel BF EU sex combined 76 SNPs	Ghv4L6	XL-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.066232740590739	0.0370093365368787	0.0777196764298742
+Hubel BF EU sex combined 76 SNPs	Ghv4L6	XL-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0235233897038366	0.00946820345752187	0.0129747431774477
+Hubel BF EU sex combined 76 SNPs	Ghv4L6	XL-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00302524803833903	0.00993864941148723	0.76082905750284
+Hubel BF EU sex combined 76 SNPs	Ghv4L6	XL-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0383898271581944	0.0148040874519086	0.0114821852071086
+Hubel BF EU sex combined 76 SNPs	GJThIo	M-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0365597695013163	0.0261390119984463	0.166205732233526
+Hubel BF EU sex combined 76 SNPs	GJThIo	M-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0181348913500594	0.00902038843992806	0.044385324972454
+Hubel BF EU sex combined 76 SNPs	GJThIo	M-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0110458871562013	0.00692029660954638	0.110453510412308
+Hubel BF EU sex combined 76 SNPs	GJThIo	M-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0266674903133767	0.0165237024132001	0.11086531370447
+Hubel BF EU sex combined 76 SNPs	gPf5zU	S-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.045313103810603	0.0301827703541057	0.137653451494403
+Hubel BF EU sex combined 76 SNPs	gPf5zU	S-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0055148049204288	0.0101767756142906	0.587886705254036
+Hubel BF EU sex combined 76 SNPs	gPf5zU	S-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0132831382289305	0.00815450899487764	0.103327477718624
+Hubel BF EU sex combined 76 SNPs	gPf5zU	S-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0098783918137243	0.0151366330083307	0.516054523692252
+Hubel BF EU sex combined 76 SNPs	GPgBKt	M-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0117753762371536	0.0318428557423864	0.712619622617768
+Hubel BF EU sex combined 76 SNPs	GPgBKt	M-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.000603432487882586	0.00919975375240642	0.947702464639617
+Hubel BF EU sex combined 76 SNPs	GPgBKt	M-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0117082802255062	0.00840531192874696	0.163631278076289
+Hubel BF EU sex combined 76 SNPs	GPgBKt	M-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.000394579123008665	0.0169484111419032	0.981489500320017
+Hubel BF EU sex combined 76 SNPs	GPr1D7	TGbyPG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0542508178572203	0.0426322920173031	0.207279451012493
+Hubel BF EU sex combined 76 SNPs	GPr1D7	TGbyPG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0206707784455857	0.00978012132837905	0.0345536938815792
+Hubel BF EU sex combined 76 SNPs	GPr1D7	TGbyPG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00179872671259822	0.0113305620740532	0.873865844496577
+Hubel BF EU sex combined 76 SNPs	GPr1D7	TGbyPG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.026440606058915	0.015137610817474	0.0848985016176718
+Hubel BF EU sex combined 76 SNPs	gr32vx	M-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0353724713512317	0.0287973672638315	0.223325792420483
+Hubel BF EU sex combined 76 SNPs	gr32vx	M-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00322997029702794	0.00947809036349137	0.733267089975917
+Hubel BF EU sex combined 76 SNPs	gr32vx	M-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00189329140690235	0.0076632574131587	0.804861079648882
+Hubel BF EU sex combined 76 SNPs	gr32vx	M-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.000181884864851212	0.0183957022195193	0.992138130764395
+Hubel BF EU sex combined 76 SNPs	guHkFZ	M-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0103264345493487	0.0298961446899593	0.730793104512253
+Hubel BF EU sex combined 76 SNPs	guHkFZ	M-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0022210600537832	0.00955034401231557	0.816100484851748
+Hubel BF EU sex combined 76 SNPs	guHkFZ	M-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0109521753829957	0.0078887223905443	0.165035600013456
+Hubel BF EU sex combined 76 SNPs	guHkFZ	M-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0114805229561141	0.0178499184642429	0.522129390394671
+Hubel BF EU sex combined 76 SNPs	gXsn4q	M-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0345119731412344	0.0314352390199739	0.275916953075339
+Hubel BF EU sex combined 76 SNPs	gXsn4q	M-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00626978091910006	0.00931348875054099	0.500824139223567
+Hubel BF EU sex combined 76 SNPs	gXsn4q	M-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00279611938126494	0.0083504409204905	0.737740568254272
+Hubel BF EU sex combined 76 SNPs	gXsn4q	M-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00576530256065422	0.0149208611516988	0.700330265418463
+Hubel BF EU sex combined 76 SNPs	Gz4MOs	S-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0435132524913199	0.0339337808764612	0.203851073314424
+Hubel BF EU sex combined 76 SNPs	Gz4MOs	S-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0235542772273978	0.00954278610457053	0.0135763713618906
+Hubel BF EU sex combined 76 SNPs	Gz4MOs	S-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0130077880204749	0.0089742734558085	0.147211103165772
+Hubel BF EU sex combined 76 SNPs	Gz4MOs	S-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0564085963310591	0.0199970671912705	0.00616468741510761
+Hubel BF EU sex combined 76 SNPs	h14YcD	XXL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00983041344618897	0.0235143911996904	0.677147894012306
+Hubel BF EU sex combined 76 SNPs	h14YcD	XXL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00823225956019936	0.00891308610143324	0.355686828123182
+Hubel BF EU sex combined 76 SNPs	h14YcD	XXL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00393458726123683	0.00608777653348212	0.518078994791947
+Hubel BF EU sex combined 76 SNPs	h14YcD	XXL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0141970536797184	0.0169156759491573	0.404050164821317
+Hubel BF EU sex combined 76 SNPs	h3egn4	L-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0395454574353189	0.0420964063192069	0.350665162831178
+Hubel BF EU sex combined 76 SNPs	h3egn4	L-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.015167811722359	0.00973536954923823	0.119230667945716
+Hubel BF EU sex combined 76 SNPs	h3egn4	L-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00124542529037824	0.0111348144523948	0.910942605866176
+Hubel BF EU sex combined 76 SNPs	h3egn4	L-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0175910354603085	0.0139147260135981	0.210178948891024
+Hubel BF EU sex combined 76 SNPs	h7fXOk	Ile.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0743683367152648	0.0310973847632734	0.0193956948840365
+Hubel BF EU sex combined 76 SNPs	h7fXOk	Ile.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0206750171604326	0.00950703502823416	0.0296520678947869
+Hubel BF EU sex combined 76 SNPs	h7fXOk	Ile.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00888427122549282	0.00844058178763436	0.292539848147521
+Hubel BF EU sex combined 76 SNPs	h7fXOk	Ile.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.041226444714291	0.018376624411174	0.0279042132665985
+Hubel BF EU sex combined 76 SNPs	hddeoT	M-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0400070538306598	0.0362903726771826	0.273952636910624
+Hubel BF EU sex combined 76 SNPs	hddeoT	M-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0254934715396224	0.00970522782527514	0.00861977429095512
+Hubel BF EU sex combined 76 SNPs	hddeoT	M-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00756808401488763	0.00959639517868414	0.430323485669595
+Hubel BF EU sex combined 76 SNPs	hddeoT	M-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0282473641006797	0.0153190463687559	0.0692503269906419
+Hubel BF EU sex combined 76 SNPs	hEffEn	L-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0314802602185289	0.0295002970810858	0.289484219452371
+Hubel BF EU sex combined 76 SNPs	hEffEn	L-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00536174383773446	0.00974599197456314	0.582217455017105
+Hubel BF EU sex combined 76 SNPs	hEffEn	L-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00930821710661146	0.00786499256751924	0.236611126949184
+Hubel BF EU sex combined 76 SNPs	hEffEn	L-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0164204143680789	0.0205787624132075	0.427499111921606
+Hubel BF EU sex combined 76 SNPs	hHxUBz	L-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0194474487143334	0.034815685922701	0.578179473708867
+Hubel BF EU sex combined 76 SNPs	hHxUBz	L-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0405696523267381	0.0105577609562029	0.000121718986156609
+Hubel BF EU sex combined 76 SNPs	hHxUBz	L-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0267628740509267	0.00915345479234597	0.00345786485281579
+Hubel BF EU sex combined 76 SNPs	hHxUBz	L-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0530213614488901	0.0170976254917643	0.00274001419204639
+Hubel BF EU sex combined 76 SNPs	HlSSdz	M-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0462681107421089	0.0422779190254658	0.277436002751118
+Hubel BF EU sex combined 76 SNPs	HlSSdz	M-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0246608176461187	0.0102238025490457	0.0158610007477653
+Hubel BF EU sex combined 76 SNPs	HlSSdz	M-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0143036929542517	0.0111619699281879	0.200029783328648
+Hubel BF EU sex combined 76 SNPs	HlSSdz	M-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0283023803950598	0.0148882891742144	0.0612519214952549
+Hubel BF EU sex combined 76 SNPs	hPjShH	L-LDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0023799835555962	0.0273899110195369	0.930998000510253
+Hubel BF EU sex combined 76 SNPs	hPjShH	L-LDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00958247621036525	0.00891987159096596	0.282695369788118
+Hubel BF EU sex combined 76 SNPs	hPjShH	L-LDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00785252198981079	0.00720752370184878	0.275938046240002
+Hubel BF EU sex combined 76 SNPs	hPjShH	L-LDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.022899426226955	0.017165776820275	0.186345454246331
+Hubel BF EU sex combined 76 SNPs	hvGUMr	M-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0353724713512317	0.0287973672638315	0.223325792420483
+Hubel BF EU sex combined 76 SNPs	hvGUMr	M-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00322997029702794	0.00964943072596929	0.73782749061356
+Hubel BF EU sex combined 76 SNPs	hvGUMr	M-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00189329140690235	0.0076632574131587	0.804861079648882
+Hubel BF EU sex combined 76 SNPs	hvGUMr	M-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.000181884864851212	0.0182716245112933	0.992084744697661
+Hubel BF EU sex combined 76 SNPs	i6PLcx	S-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0461897692943836	0.0327035273235166	0.162146311718395
+Hubel BF EU sex combined 76 SNPs	i6PLcx	S-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00391061080722222	0.00952003805437306	0.6812362033113
+Hubel BF EU sex combined 76 SNPs	i6PLcx	S-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.000279076353318734	0.00872277857103507	0.974476856260948
+Hubel BF EU sex combined 76 SNPs	i6PLcx	S-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00576399620733775	0.0172406948821277	0.739092908844252
+Hubel BF EU sex combined 76 SNPs	ICgDHD	Gln.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0208389527180579	0.028396428193372	0.465418187858136
+Hubel BF EU sex combined 76 SNPs	ICgDHD	Gln.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0257454410467049	0.00948632656486831	0.00664856699823653
+Hubel BF EU sex combined 76 SNPs	ICgDHD	Gln.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0184483930489286	0.00746511746752265	0.0134630483677159
+Hubel BF EU sex combined 76 SNPs	ICgDHD	Gln.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0346023477962326	0.0166883784445773	0.0416605337690598
+Hubel BF EU sex combined 76 SNPs	iCPE8E	XL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00743687082640084	0.0267495861766034	0.781795232172483
+Hubel BF EU sex combined 76 SNPs	iCPE8E	XL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0152908101703679	0.0105821265197143	0.14846751189369
+Hubel BF EU sex combined 76 SNPs	iCPE8E	XL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00851921662765835	0.0070329742960985	0.225770923357523
+Hubel BF EU sex combined 76 SNPs	iCPE8E	XL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0176566641441062	0.0178192231560787	0.325018574343682
+Hubel BF EU sex combined 76 SNPs	IeWAhr	XS-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0250100651316016	0.029818486283918	0.404389255179153
+Hubel BF EU sex combined 76 SNPs	IeWAhr	XS-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0175270878371177	0.00923887590329707	0.0578145075469257
+Hubel BF EU sex combined 76 SNPs	IeWAhr	XS-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0113504043549727	0.00785104135125569	0.14825586487666
+Hubel BF EU sex combined 76 SNPs	IeWAhr	XS-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0200964578374041	0.0151185570977139	0.187902385685887
+Hubel BF EU sex combined 76 SNPs	iSyAEq	HDL2-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0606781751358346	0.0419647960362015	0.152535779807174
+Hubel BF EU sex combined 76 SNPs	iSyAEq	HDL2-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0398842191900792	0.00997911496496287	6.4212855342342e-05
+Hubel BF EU sex combined 76 SNPs	iSyAEq	HDL2-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0211909855928201	0.01110592239318	0.0563809099015624
+Hubel BF EU sex combined 76 SNPs	iSyAEq	HDL2-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0439877004181698	0.0158663342987782	0.00705704963580554
+Hubel BF EU sex combined 76 SNPs	iuSl9y	Alb.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00045910071490211	0.0225097574027305	0.983784185390679
+Hubel BF EU sex combined 76 SNPs	iuSl9y	Alb.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0106867117531814	0.00907151171489292	0.238775909917307
+Hubel BF EU sex combined 76 SNPs	iuSl9y	Alb.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00930764520558065	0.00565522710290294	0.0997950210752093
+Hubel BF EU sex combined 76 SNPs	iuSl9y	Alb.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00677981067921507	0.0149751177642965	0.652079829255801
+Hubel BF EU sex combined 76 SNPs	IVAn2H	XL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0125317347796508	0.0288671621954033	0.665501395729341
+Hubel BF EU sex combined 76 SNPs	IVAn2H	XL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0112605733955988	0.0102903742260022	0.273831227506011
+Hubel BF EU sex combined 76 SNPs	IVAn2H	XL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00656487069428296	0.007591913299166	0.387193109430071
+Hubel BF EU sex combined 76 SNPs	IVAn2H	XL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0193839245650997	0.0179998235971255	0.285073072710889
+Hubel BF EU sex combined 76 SNPs	jHThob	PC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0253741379108543	0.0245107067881537	0.304027600170517
+Hubel BF EU sex combined 76 SNPs	jHThob	PC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0124882764967853	0.00945177786863936	0.186413964517384
+Hubel BF EU sex combined 76 SNPs	jHThob	PC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0126270281281251	0.0064555524730735	0.0504657473347355
+Hubel BF EU sex combined 76 SNPs	jHThob	PC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0145709065441499	0.0172209988922663	0.400254914108553
+Hubel BF EU sex combined 76 SNPs	jjmyvU	XS-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0300005918547854	0.0338665329098739	0.378648692694855
+Hubel BF EU sex combined 76 SNPs	jjmyvU	XS-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00275178429773505	0.00998995161147365	0.782966526404855
+Hubel BF EU sex combined 76 SNPs	jjmyvU	XS-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00417551261793908	0.00897028650878008	0.641585868174745
+Hubel BF EU sex combined 76 SNPs	jjmyvU	XS-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0101188312577972	0.0154985139122578	0.515877866287022
+Hubel BF EU sex combined 76 SNPs	JlMrua	XXL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00500843650623531	0.0239263855204431	0.834784181481385
+Hubel BF EU sex combined 76 SNPs	JlMrua	XXL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0116523184164388	0.00914195133488324	0.202451351584036
+Hubel BF EU sex combined 76 SNPs	JlMrua	XXL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0129130784903915	0.00629370280927159	0.0401943703176069
+Hubel BF EU sex combined 76 SNPs	JlMrua	XXL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00653214098611676	0.018161647431516	0.720134743979459
+Hubel BF EU sex combined 76 SNPs	Jlt5Nd	L-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0208138523406229	0.0254152936278645	0.415517460650132
+Hubel BF EU sex combined 76 SNPs	Jlt5Nd	L-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0228315728210413	0.00947742191425148	0.0159941548825228
+Hubel BF EU sex combined 76 SNPs	Jlt5Nd	L-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0148876408657526	0.00668405643277481	0.0259248127891857
+Hubel BF EU sex combined 76 SNPs	Jlt5Nd	L-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0394541319972548	0.0174748796626813	0.0269509872709846
+Hubel BF EU sex combined 76 SNPs	jqFs5u	VLDL-D.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0411956340968379	0.0410888776185675	0.319412450782784
+Hubel BF EU sex combined 76 SNPs	jqFs5u	VLDL-D.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0213654894791968	0.00982927879538712	0.0297308368009243
+Hubel BF EU sex combined 76 SNPs	jqFs5u	VLDL-D.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.000778477999872834	0.0108854271100115	0.942987398460669
+Hubel BF EU sex combined 76 SNPs	jqFs5u	VLDL-D.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0216395665730085	0.0150257672810157	0.154096134959488
+Hubel BF EU sex combined 76 SNPs	JuIhT0	S-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0338796041723564	0.0251918927969201	0.182891170232593
+Hubel BF EU sex combined 76 SNPs	JuIhT0	S-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0136771555734652	0.00978729470079144	0.162281344728931
+Hubel BF EU sex combined 76 SNPs	JuIhT0	S-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0250002329442202	0.00688722368994014	0.000283483252158715
+Hubel BF EU sex combined 76 SNPs	JuIhT0	S-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00369130218160102	0.0188628119696723	0.845394912582514
+Hubel BF EU sex combined 76 SNPs	JytBYV	ApoA1.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0459216039237012	0.033514155378407	0.174877168762671
+Hubel BF EU sex combined 76 SNPs	JytBYV	ApoA1.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0242406084297624	0.00979831222065397	0.0133625575728595
+Hubel BF EU sex combined 76 SNPs	JytBYV	ApoA1.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.016900819589677	0.00886005903582972	0.0564521188346828
+Hubel BF EU sex combined 76 SNPs	JytBYV	ApoA1.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0220756026025163	0.0154125236715017	0.15632171125609
+Hubel BF EU sex combined 76 SNPs	kg3nPF	L-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0260868017034703	0.0317535849672548	0.414051554770508
+Hubel BF EU sex combined 76 SNPs	kg3nPF	L-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00204255813973453	0.0097833407921421	0.834620603462171
+Hubel BF EU sex combined 76 SNPs	kg3nPF	L-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00666738148699365	0.00841455356428759	0.428149006769101
+Hubel BF EU sex combined 76 SNPs	kg3nPF	L-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0190508146840109	0.0212867366963321	0.373749001398258
+Hubel BF EU sex combined 76 SNPs	KHCaGM	L-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0449587270819739	0.0313181926699711	0.155461639188516
+Hubel BF EU sex combined 76 SNPs	KHCaGM	L-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00475850137841094	0.010221366916767	0.641541561241725
+Hubel BF EU sex combined 76 SNPs	KHCaGM	L-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00217097856499991	0.00837091336619865	0.795366846353554
+Hubel BF EU sex combined 76 SNPs	KHCaGM	L-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00471056285954691	0.018749433208109	0.802336276893927
+Hubel BF EU sex combined 76 SNPs	KIYneT	TotCho.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0184066958543666	0.0243384881640401	0.451949185961788
+Hubel BF EU sex combined 76 SNPs	KIYneT	TotCho.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00154453296432731	0.00920043068909676	0.866680706365849
+Hubel BF EU sex combined 76 SNPs	KIYneT	TotCho.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00771704561944913	0.00640544432868129	0.228294608834475
+Hubel BF EU sex combined 76 SNPs	KIYneT	TotCho.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00393598437189635	0.0159394392738609	0.805652676526595
+Hubel BF EU sex combined 76 SNPs	KM6zA0	XS-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.067549069352936	0.0312318173223934	0.0338760733327798
+Hubel BF EU sex combined 76 SNPs	KM6zA0	XS-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00255950998318877	0.00919181430779225	0.780662826211984
+Hubel BF EU sex combined 76 SNPs	KM6zA0	XS-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.000510599487732558	0.00849641781421547	0.952079291721369
+Hubel BF EU sex combined 76 SNPs	KM6zA0	XS-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0145469256479852	0.0162191715851312	0.372722262884716
+Hubel BF EU sex combined 76 SNPs	kQGKbN	S-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.045313103810603	0.0301827703541057	0.137653451494403
+Hubel BF EU sex combined 76 SNPs	kQGKbN	S-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0055148049204288	0.00952604645662052	0.562644138693439
+Hubel BF EU sex combined 76 SNPs	kQGKbN	S-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0132831382289305	0.00815450899487764	0.103327477718624
+Hubel BF EU sex combined 76 SNPs	kQGKbN	S-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0098783918137243	0.0158006680852746	0.533797031677614
+Hubel BF EU sex combined 76 SNPs	kqo6sl	XS-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0470591922299975	0.0348377281003417	0.180986002490038
+Hubel BF EU sex combined 76 SNPs	kqo6sl	XS-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0336965791498804	0.00952517875644388	0.000403732007772138
+Hubel BF EU sex combined 76 SNPs	kqo6sl	XS-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.015148645169859	0.00921525825824586	0.100203986886
+Hubel BF EU sex combined 76 SNPs	kqo6sl	XS-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0585744854080315	0.0190121490266116	0.00290959797138478
+Hubel BF EU sex combined 76 SNPs	Kw9D20	ApoB.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0364989794420694	0.0403305186189522	0.368485615613051
+Hubel BF EU sex combined 76 SNPs	Kw9D20	ApoB.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0298156878104562	0.00999275651817884	0.00284757890443893
+Hubel BF EU sex combined 76 SNPs	Kw9D20	ApoB.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0176882949764595	0.0106197138410738	0.0957912418457764
+Hubel BF EU sex combined 76 SNPs	Kw9D20	ApoB.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.029165879694191	0.0150707995444567	0.0568325335571955
+Hubel BF EU sex combined 76 SNPs	L5lTd4	XS-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.067549069352936	0.0312318173223934	0.0338760733327798
+Hubel BF EU sex combined 76 SNPs	L5lTd4	XS-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00255950998318877	0.00950451900252534	0.787703445531902
+Hubel BF EU sex combined 76 SNPs	L5lTd4	XS-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.000510599487732558	0.00849641781421547	0.952079291721369
+Hubel BF EU sex combined 76 SNPs	L5lTd4	XS-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0145469256479852	0.0161613656987567	0.371024177586397
+Hubel BF EU sex combined 76 SNPs	lI8tq8	L-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0712320907070288	0.0478496158839788	0.140942555975926
+Hubel BF EU sex combined 76 SNPs	lI8tq8	L-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.054348020931636	0.0105538930168753	2.61082994261137e-07
+Hubel BF EU sex combined 76 SNPs	lI8tq8	L-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0269027416691458	0.0126579242065809	0.0335559537324281
+Hubel BF EU sex combined 76 SNPs	lI8tq8	L-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0646952956993406	0.01681422848023	0.000253098818586349
+Hubel BF EU sex combined 76 SNPs	ljI2uU	HDL-D.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.058057021704498	0.0478554771632565	0.229028439989664
+Hubel BF EU sex combined 76 SNPs	ljI2uU	HDL-D.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0384834195645861	0.010721056950616	0.000331290825827798
+Hubel BF EU sex combined 76 SNPs	ljI2uU	HDL-D.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0237849810864782	0.0126295567106036	0.0596625447022597
+Hubel BF EU sex combined 76 SNPs	ljI2uU	HDL-D.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0516189960556118	0.0172730884775799	0.0038184863170065
+Hubel BF EU sex combined 76 SNPs	lKCDu4	M-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0103264345493487	0.0298961446899593	0.730793104512253
+Hubel BF EU sex combined 76 SNPs	lKCDu4	M-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0022210600537832	0.00969219221476933	0.818744778365339
+Hubel BF EU sex combined 76 SNPs	lKCDu4	M-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0109521753829957	0.0078887223905443	0.165035600013456
+Hubel BF EU sex combined 76 SNPs	lKCDu4	M-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0114805229561141	0.0190728560669796	0.549085776737997
+Hubel BF EU sex combined 76 SNPs	LMnTwa	HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0312578006718166	0.029929126310281	0.299796987797497
+Hubel BF EU sex combined 76 SNPs	LMnTwa	HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00745091708687688	0.00951862756710054	0.433760892565182
+Hubel BF EU sex combined 76 SNPs	LMnTwa	HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.000611847770293569	0.00792906220391166	0.938492115465464
+Hubel BF EU sex combined 76 SNPs	LMnTwa	HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00985068913717041	0.0160354436413857	0.540922210563992
+Hubel BF EU sex combined 76 SNPs	LV9N2L	XL-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0761691854801517	0.035379171477048	0.0346745105379428
+Hubel BF EU sex combined 76 SNPs	LV9N2L	XL-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0333513421769181	0.00938184493800825	0.000378150217171255
+Hubel BF EU sex combined 76 SNPs	LV9N2L	XL-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00966415228454003	0.00954332361133548	0.311222079580546
+Hubel BF EU sex combined 76 SNPs	LV9N2L	XL-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0485014445004166	0.0152633112656716	0.00217740484592972
+Hubel BF EU sex combined 76 SNPs	lWwf84	GlycA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0334769908792808	0.0312985575516912	0.288371368905553
+Hubel BF EU sex combined 76 SNPs	lWwf84	GlycA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0320306815521689	0.00938061456832139	0.000638848643426079
+Hubel BF EU sex combined 76 SNPs	lWwf84	GlycA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0222405763227254	0.00823557933692715	0.00692253719512689
+Hubel BF EU sex combined 76 SNPs	lWwf84	GlycA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0431283544868071	0.0160998126032201	0.00912345060777825
+Hubel BF EU sex combined 76 SNPs	lXUESX	L-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0539652664686876	0.0401306731655706	0.182930640772113
+Hubel BF EU sex combined 76 SNPs	lXUESX	L-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.027990710215082	0.0103355772501988	0.00676512159081511
+Hubel BF EU sex combined 76 SNPs	lXUESX	L-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.012894575068566	0.0106303833678481	0.2251326962151
+Hubel BF EU sex combined 76 SNPs	lXUESX	L-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0311049775622826	0.0147538882649818	0.038441504436195
+Hubel BF EU sex combined 76 SNPs	mCev7R	S-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0300778159405817	0.0283422010311039	0.292128691668209
+Hubel BF EU sex combined 76 SNPs	mCev7R	S-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00867566876524041	0.00986037093020763	0.37893939811352
+Hubel BF EU sex combined 76 SNPs	mCev7R	S-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0141503026620318	0.007584214576441	0.0620753482414362
+Hubel BF EU sex combined 76 SNPs	mCev7R	S-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0211692910679019	0.0181088455390305	0.246205651000209
+Hubel BF EU sex combined 76 SNPs	Me0riD	M-LDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0267961055794698	0.0287307937008587	0.354111868745991
+Hubel BF EU sex combined 76 SNPs	Me0riD	M-LDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0115749791315528	0.00953357981131031	0.224699131938656
+Hubel BF EU sex combined 76 SNPs	Me0riD	M-LDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0127797406635312	0.00765769856178508	0.095142181587975
+Hubel BF EU sex combined 76 SNPs	Me0riD	M-LDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0245266074640088	0.018322621026724	0.184855922564827
+Hubel BF EU sex combined 76 SNPs	Mi0ggX	Lac.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-1.09514819495106e-05	0.0286074474345769	0.999695613129648
+Hubel BF EU sex combined 76 SNPs	Mi0ggX	Lac.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00905187274837631	0.011070452690934	0.413551026483166
+Hubel BF EU sex combined 76 SNPs	Mi0ggX	Lac.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0219562404962946	0.00672543288361545	0.00109596190539579
+Hubel BF EU sex combined 76 SNPs	Mi0ggX	Lac.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0056363226207102	0.0222832026359228	0.801025178127386
+Hubel BF EU sex combined 76 SNPs	MIDxLd	IDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0471904939581913	0.0297417512330127	0.116968633108435
+Hubel BF EU sex combined 76 SNPs	MIDxLd	IDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0107805262008276	0.00957012286671465	0.259963542208166
+Hubel BF EU sex combined 76 SNPs	MIDxLd	IDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00571919370190064	0.00793079572529236	0.470824959631775
+Hubel BF EU sex combined 76 SNPs	MIDxLd	IDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0141501493356623	0.0195555857778769	0.471632247629833
+Hubel BF EU sex combined 76 SNPs	mJn34G	M-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0395934721552201	0.0292778390495462	0.180500207677363
+Hubel BF EU sex combined 76 SNPs	mJn34G	M-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0145412163347363	0.00901621921029169	0.106791389122494
+Hubel BF EU sex combined 76 SNPs	mJn34G	M-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00298883472605553	0.00778541654817492	0.701051298888577
+Hubel BF EU sex combined 76 SNPs	mJn34G	M-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0368596817767782	0.0192782433612829	0.0598028580327804
+Hubel BF EU sex combined 76 SNPs	MlfJiO	UnsatDeg.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0133595096739613	0.0303815073213395	0.661453347654638
+Hubel BF EU sex combined 76 SNPs	MlfJiO	UnsatDeg.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00700981177427271	0.00907402768553805	0.439810165890948
+Hubel BF EU sex combined 76 SNPs	MlfJiO	UnsatDeg.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00487299323617706	0.00800550288893908	0.54271969412764
+Hubel BF EU sex combined 76 SNPs	MlfJiO	UnsatDeg.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.010135654675623	0.015384207516241	0.512074516379671
+Hubel BF EU sex combined 76 SNPs	mMbjNs	Ace.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0106577547961282	0.0535308800925755	0.842749248927054
+Hubel BF EU sex combined 76 SNPs	mMbjNs	Ace.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00925056373220923	0.0204364511750679	0.650800644005043
+Hubel BF EU sex combined 76 SNPs	mMbjNs	Ace.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0148706193455659	0.0123007907276776	0.226695224038477
+Hubel BF EU sex combined 76 SNPs	mMbjNs	Ace.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0405519977657036	0.048529927392565	0.406102117668376
+Hubel BF EU sex combined 76 SNPs	mmyBSI	L-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0179181295952847	0.0340136445977661	0.599957042176522
+Hubel BF EU sex combined 76 SNPs	mmyBSI	L-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0317025213635381	0.0108940552583986	0.00361341661902082
+Hubel BF EU sex combined 76 SNPs	mmyBSI	L-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0216316833914827	0.00894090773131747	0.0155458896644932
+Hubel BF EU sex combined 76 SNPs	mmyBSI	L-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0399337524149736	0.0165244421911398	0.0181643856456357
+Hubel BF EU sex combined 76 SNPs	MomfEW	XS-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00843791318078979	0.0264764278160629	0.750880254973894
+Hubel BF EU sex combined 76 SNPs	MomfEW	XS-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00558397387069038	0.00952057401591981	0.557528468216507
+Hubel BF EU sex combined 76 SNPs	MomfEW	XS-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00348265776125159	0.00696202838378998	0.616908858759474
+Hubel BF EU sex combined 76 SNPs	MomfEW	XS-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00547236972966569	0.0187502698568563	0.771224891688344
+Hubel BF EU sex combined 76 SNPs	mPNptB	IDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0339722547271902	0.029608583188807	0.255023527818003
+Hubel BF EU sex combined 76 SNPs	mPNptB	IDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.000703196446469798	0.00973970290707013	0.942443570701553
+Hubel BF EU sex combined 76 SNPs	mPNptB	IDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00109552748383198	0.00786448250081712	0.889212580327915
+Hubel BF EU sex combined 76 SNPs	mPNptB	IDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00117012222994911	0.0179367479106141	0.948164396570947
+Hubel BF EU sex combined 76 SNPs	MxiCvi	XL-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.066232740590739	0.0370093365368787	0.0777196764298742
+Hubel BF EU sex combined 76 SNPs	MxiCvi	XL-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0235233897038366	0.00978926604421279	0.0162621713598967
+Hubel BF EU sex combined 76 SNPs	MxiCvi	XL-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00302524803833903	0.00993864941148723	0.76082905750284
+Hubel BF EU sex combined 76 SNPs	MxiCvi	XL-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0383898271581944	0.0153911819706335	0.0148853937110956
+Hubel BF EU sex combined 76 SNPs	Mze6L0	LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0276687812737502	0.0311997597003156	0.378124861617698
+Hubel BF EU sex combined 76 SNPs	Mze6L0	LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0141266178406269	0.00963550859778426	0.142621082903363
+Hubel BF EU sex combined 76 SNPs	Mze6L0	LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00560635734591269	0.00823226929738749	0.495857505017001
+Hubel BF EU sex combined 76 SNPs	Mze6L0	LDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0214689087022547	0.0177588608080257	0.230597562302527
+Hubel BF EU sex combined 76 SNPs	NIZDlH	XL-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0670733424766905	0.033549871590915	0.0493601794785709
+Hubel BF EU sex combined 76 SNPs	NIZDlH	XL-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0201854136640225	0.00980338615679812	0.0394918780131606
+Hubel BF EU sex combined 76 SNPs	NIZDlH	XL-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00153175036000535	0.00906778701749095	0.865857851982291
+Hubel BF EU sex combined 76 SNPs	NIZDlH	XL-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0402334049225369	0.0154582653110971	0.0111950017478043
+Hubel BF EU sex combined 76 SNPs	nNPMen	FAw6.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0382959664384541	0.0405888558673718	0.348575738320726
+Hubel BF EU sex combined 76 SNPs	nNPMen	FAw6.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00847400401482911	0.0102358992699976	0.407743568284258
+Hubel BF EU sex combined 76 SNPs	nNPMen	FAw6.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00263564004204029	0.0107281650826575	0.805933964442095
+Hubel BF EU sex combined 76 SNPs	nNPMen	FAw6.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0117756152101801	0.0167648335079948	0.484663639865776
+Hubel BF EU sex combined 76 SNPs	NzmXt6	XL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00452548092562808	0.0308577964765059	0.883813415916443
+Hubel BF EU sex combined 76 SNPs	NzmXt6	XL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.000465236187348598	0.0102763673156676	0.963890157344529
+Hubel BF EU sex combined 76 SNPs	NzmXt6	XL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00806379123530546	0.00811369298023503	0.32029605167055
+Hubel BF EU sex combined 76 SNPs	NzmXt6	XL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00162412536609602	0.0201089749095368	0.935848914769429
+Hubel BF EU sex combined 76 SNPs	O0saYC	M-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00251255308506412	0.0272547253787467	0.92680485643769
+Hubel BF EU sex combined 76 SNPs	O0saYC	M-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00286140111537193	0.00935536121125827	0.759713657062859
+Hubel BF EU sex combined 76 SNPs	O0saYC	M-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0115715571275636	0.00717910383342364	0.106997052299827
+Hubel BF EU sex combined 76 SNPs	O0saYC	M-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00165481591203667	0.0169483869816733	0.9224869015018
+Hubel BF EU sex combined 76 SNPs	o47BLg	PUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0221855621887954	0.0395168349443109	0.576254233741161
+Hubel BF EU sex combined 76 SNPs	o47BLg	PUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00997140081665711	0.00981444693049878	0.309633135465379
+Hubel BF EU sex combined 76 SNPs	o47BLg	PUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00204253853842065	0.0104052808189419	0.844376721799059
+Hubel BF EU sex combined 76 SNPs	o47BLg	PUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0134426879203171	0.0162025595027186	0.409433418154247
+Hubel BF EU sex combined 76 SNPs	OGqfbX	S-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0435770813394866	0.0310019217963534	0.164136079691333
+Hubel BF EU sex combined 76 SNPs	OGqfbX	S-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00789540678275352	0.00980297455984315	0.420583532433628
+Hubel BF EU sex combined 76 SNPs	OGqfbX	S-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0108875891381065	0.00833528907935854	0.191483143911903
+Hubel BF EU sex combined 76 SNPs	OGqfbX	S-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00966395373113943	0.0154175855418668	0.532736806459011
+Hubel BF EU sex combined 76 SNPs	OIXytj	Glc.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0374079471806099	0.0286318063638269	0.195534841612585
+Hubel BF EU sex combined 76 SNPs	OIXytj	Glc.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00487808810098975	0.0111045433867486	0.660453165271328
+Hubel BF EU sex combined 76 SNPs	OIXytj	Glc.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0016778703477311	0.00677676691728288	0.804450435317354
+Hubel BF EU sex combined 76 SNPs	OIXytj	Glc.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00996192953972266	0.0223777174168948	0.657512873563107
+Hubel BF EU sex combined 76 SNPs	ow09Q4	VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00323283568190203	0.0264478883112533	0.903054100066499
+Hubel BF EU sex combined 76 SNPs	ow09Q4	VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.002159346843383	0.00942601041432885	0.818803738335304
+Hubel BF EU sex combined 76 SNPs	ow09Q4	VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00748914881029599	0.00696198022580236	0.282052021833105
+Hubel BF EU sex combined 76 SNPs	ow09Q4	VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0169307050628545	0.0203039695724183	0.407079136335663
+Hubel BF EU sex combined 76 SNPs	Oy9Ife	S-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0217724076724168	0.0274736827082472	0.430682993126464
+Hubel BF EU sex combined 76 SNPs	Oy9Ife	S-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0181683334268517	0.00966308262788913	0.0600835682731072
+Hubel BF EU sex combined 76 SNPs	Oy9Ife	S-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0156652285103162	0.00732142127553399	0.0323836207181284
+Hubel BF EU sex combined 76 SNPs	Oy9Ife	S-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0222970526075256	0.0159562193347588	0.166529254089149
+Hubel BF EU sex combined 76 SNPs	OyMoWS	His.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0379099259995617	0.0253768805149266	0.139577613445131
+Hubel BF EU sex combined 76 SNPs	OyMoWS	His.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00616877335220829	0.00919274084783918	0.502189744444635
+Hubel BF EU sex combined 76 SNPs	OyMoWS	His.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00158655070229074	0.00677209651773984	0.81476945368778
+Hubel BF EU sex combined 76 SNPs	OyMoWS	His.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0206536415099886	0.0215296626004266	0.340568715102184
+Hubel BF EU sex combined 76 SNPs	oZ0HOr	Gly.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0334769908792808	0.0312985575516912	0.288371368905553
+Hubel BF EU sex combined 76 SNPs	oZ0HOr	Gly.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0320306815521689	0.00958269473843711	0.000830109859759354
+Hubel BF EU sex combined 76 SNPs	oZ0HOr	Gly.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0222405763227254	0.00823557933692715	0.00692253719512689
+Hubel BF EU sex combined 76 SNPs	oZ0HOr	Gly.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0431283544868071	0.0157700281756288	0.00782867157682169
+Hubel BF EU sex combined 76 SNPs	pCWQad	M-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00352914986704521	0.0279391616877545	0.89983424542667
+Hubel BF EU sex combined 76 SNPs	pCWQad	M-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-9.67955799927483e-05	0.00934674295005287	0.991737194574599
+Hubel BF EU sex combined 76 SNPs	pCWQad	M-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0112045921254977	0.00735993394299451	0.127914713548905
+Hubel BF EU sex combined 76 SNPs	pCWQad	M-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.000552424547540675	0.0172289317390393	0.974508699811847
+Hubel BF EU sex combined 76 SNPs	pHCPDA	S-LDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00903231145273847	0.0280194134095377	0.748114878019099
+Hubel BF EU sex combined 76 SNPs	pHCPDA	S-LDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00533122956244653	0.00892899504791408	0.550461058343898
+Hubel BF EU sex combined 76 SNPs	pHCPDA	S-LDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00514413876396208	0.00737957711121303	0.485754158534476
+Hubel BF EU sex combined 76 SNPs	pHCPDA	S-LDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0239697417388603	0.0192999388770514	0.218226887574353
+Hubel BF EU sex combined 76 SNPs	pilb9S	M-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0462681107421089	0.0422779190254658	0.277436002751118
+Hubel BF EU sex combined 76 SNPs	pilb9S	M-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0246608176461187	0.010370654542291	0.0174095520283048
+Hubel BF EU sex combined 76 SNPs	pilb9S	M-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0143036929542517	0.0111619699281879	0.200029783328648
+Hubel BF EU sex combined 76 SNPs	pilb9S	M-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0283023803950598	0.0160174973683251	0.0814136029850389
+Hubel BF EU sex combined 76 SNPs	Pl4AOH	XL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00106805965784498	0.0316819015471506	0.973200109706542
+Hubel BF EU sex combined 76 SNPs	Pl4AOH	XL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00238110386166118	0.00995544255543363	0.810969039212669
+Hubel BF EU sex combined 76 SNPs	Pl4AOH	XL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00596075589182326	0.00833332912552719	0.474429206498789
+Hubel BF EU sex combined 76 SNPs	Pl4AOH	XL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00353292756324031	0.019968784817492	0.860059210136194
+Hubel BF EU sex combined 76 SNPs	pmShds	XXL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-5.32035926781785e-05	0.0267927971593858	0.998421099517963
+Hubel BF EU sex combined 76 SNPs	pmShds	XXL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0115932381523019	0.00957895424263252	0.226170611975347
+Hubel BF EU sex combined 76 SNPs	pmShds	XXL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0101574900419656	0.00704943069425576	0.149614324745282
+Hubel BF EU sex combined 76 SNPs	pmShds	XXL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0116301373240017	0.0170150869907789	0.496442726994
+Hubel BF EU sex combined 76 SNPs	Py3BYQ	L-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0488422789825291	0.0282005251682589	0.0875624544475816
+Hubel BF EU sex combined 76 SNPs	Py3BYQ	L-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00914550073998574	0.00981572337343559	0.351481513234825
+Hubel BF EU sex combined 76 SNPs	Py3BYQ	L-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00179449189632946	0.00759034162908644	0.813108482457142
+Hubel BF EU sex combined 76 SNPs	Py3BYQ	L-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0178033576944097	0.0187423330411531	0.345296955196562
+Hubel BF EU sex combined 76 SNPs	QEASAQ	S-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00406067973276452	0.0276663516766022	0.883721215521867
+Hubel BF EU sex combined 76 SNPs	QEASAQ	S-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00650127300564571	0.00921388658374084	0.480439987181212
+Hubel BF EU sex combined 76 SNPs	QEASAQ	S-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00174072119635921	0.00727339205226516	0.810851807157418
+Hubel BF EU sex combined 76 SNPs	QEASAQ	S-HDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00687750578931617	0.0161119052659499	0.670738597709883
+Hubel BF EU sex combined 76 SNPs	QEk5eA	S-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00514933831073906	0.028463494389105	0.856946293779127
+Hubel BF EU sex combined 76 SNPs	QEk5eA	S-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.017362133953338	0.00930216756391109	0.0619768808634361
+Hubel BF EU sex combined 76 SNPs	QEk5eA	S-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0155569293955843	0.00751206191440262	0.0383656490030106
+Hubel BF EU sex combined 76 SNPs	QEk5eA	S-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0173864469849759	0.0169972557307109	0.309734272150879
+Hubel BF EU sex combined 76 SNPs	QIk5ik	S-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0300778159405817	0.0283422010311039	0.292128691668209
+Hubel BF EU sex combined 76 SNPs	QIk5ik	S-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00867566876524041	0.0097770026388865	0.374887990642857
+Hubel BF EU sex combined 76 SNPs	QIk5ik	S-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0141503026620318	0.007584214576441	0.0620753482414362
+Hubel BF EU sex combined 76 SNPs	QIk5ik	S-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0211692910679019	0.0173389643412378	0.226049413135235
+Hubel BF EU sex combined 76 SNPs	QOgxcm	S-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00514933831073906	0.028463494389105	0.856946293779127
+Hubel BF EU sex combined 76 SNPs	QOgxcm	S-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.017362133953338	0.00968408598623223	0.0729965752703092
+Hubel BF EU sex combined 76 SNPs	QOgxcm	S-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0155569293955843	0.00751206191440262	0.0383656490030106
+Hubel BF EU sex combined 76 SNPs	QOgxcm	S-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0173864469849759	0.0173650691408987	0.320022447391921
+Hubel BF EU sex combined 76 SNPs	qrbQMW	XL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0125317347796508	0.0288671621954033	0.665501395729341
+Hubel BF EU sex combined 76 SNPs	qrbQMW	XL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0112605733955988	0.00974467692270808	0.247860567055461
+Hubel BF EU sex combined 76 SNPs	qrbQMW	XL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00656487069428296	0.007591913299166	0.387193109430071
+Hubel BF EU sex combined 76 SNPs	qrbQMW	XL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0193839245650997	0.016990451567752	0.257652330052845
+Hubel BF EU sex combined 76 SNPs	qRVLS0	IDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0700821059310661	0.0400424074489184	0.0843444177899189
+Hubel BF EU sex combined 76 SNPs	qRVLS0	IDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0257045656417242	0.00989736534311502	0.00940112828215825
+Hubel BF EU sex combined 76 SNPs	qRVLS0	IDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00842987868538356	0.0107114164081523	0.43128219558747
+Hubel BF EU sex combined 76 SNPs	qRVLS0	IDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0399209592854725	0.0177722378984347	0.0277134270097096
+Hubel BF EU sex combined 76 SNPs	QTfhFx	M-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0103264345493487	0.0298961446899593	0.730793104512253
+Hubel BF EU sex combined 76 SNPs	QTfhFx	M-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0022210600537832	0.00951806285888597	0.815487997137066
+Hubel BF EU sex combined 76 SNPs	QTfhFx	M-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0109521753829957	0.0078887223905443	0.165035600013456
+Hubel BF EU sex combined 76 SNPs	QTfhFx	M-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0114805229561141	0.0188148231483848	0.543634180733519
+Hubel BF EU sex combined 76 SNPs	RCfkdS	L-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0449587270819739	0.0313181926699711	0.155461639188516
+Hubel BF EU sex combined 76 SNPs	RCfkdS	L-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00475850137841094	0.00976594729849224	0.626078015776334
+Hubel BF EU sex combined 76 SNPs	RCfkdS	L-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00217097856499991	0.00837091336619865	0.795366846353554
+Hubel BF EU sex combined 76 SNPs	RCfkdS	L-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00471056285954691	0.0185516693012145	0.800274390031089
+Hubel BF EU sex combined 76 SNPs	Rorr38	XL-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0456926837472687	0.0397178110852527	0.253772147528367
+Hubel BF EU sex combined 76 SNPs	Rorr38	XL-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0239204646721715	0.0100976284780392	0.0178401566622631
+Hubel BF EU sex combined 76 SNPs	Rorr38	XL-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00676462456369125	0.0105162923728933	0.520060691608524
+Hubel BF EU sex combined 76 SNPs	Rorr38	XL-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0294112869252012	0.0157071646017011	0.0651456474445095
+Hubel BF EU sex combined 76 SNPs	RqQm2m	MUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00994508420050117	0.0372657093532245	0.790332450728803
+Hubel BF EU sex combined 76 SNPs	RqQm2m	MUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0122296020802242	0.0101585512135837	0.228638800070688
+Hubel BF EU sex combined 76 SNPs	RqQm2m	MUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00952696186060254	0.00979444334590525	0.330707155045632
+Hubel BF EU sex combined 76 SNPs	RqQm2m	MUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.000574940393170909	0.0172536246071521	0.973508057359691
+Hubel BF EU sex combined 76 SNPs	rszoha	Serum-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0409070088027894	0.0418522362892978	0.331636395613617
+Hubel BF EU sex combined 76 SNPs	rszoha	Serum-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0207381910765759	0.00948390860723646	0.0287665257886495
+Hubel BF EU sex combined 76 SNPs	rszoha	Serum-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00302265465214726	0.0110696628158953	0.784809001995417
+Hubel BF EU sex combined 76 SNPs	rszoha	Serum-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0201955905812631	0.0146629476430639	0.172621464877351
+Hubel BF EU sex combined 76 SNPs	seNYrP	L-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00323283568190203	0.0264478883112533	0.903054100066499
+Hubel BF EU sex combined 76 SNPs	seNYrP	L-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.002159346843383	0.00974951574687683	0.82471678344627
+Hubel BF EU sex combined 76 SNPs	seNYrP	L-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00748914881029599	0.00696198022580236	0.282052021833105
+Hubel BF EU sex combined 76 SNPs	seNYrP	L-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0169307050628545	0.0192524538090321	0.382067398049896
+Hubel BF EU sex combined 76 SNPs	SMJIvN	Crea.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0400741246887192	0.032847817564253	0.226448372790554
+Hubel BF EU sex combined 76 SNPs	SMJIvN	Crea.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00689926622852722	0.0103441784646781	0.504790708488646
+Hubel BF EU sex combined 76 SNPs	SMJIvN	Crea.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.000209603109345056	0.00873134789456112	0.9808479715252
+Hubel BF EU sex combined 76 SNPs	SMJIvN	Crea.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0136450534783148	0.0194765720392343	0.485787180247748
+Hubel BF EU sex combined 76 SNPs	smz3Xc	M-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0400070538306598	0.0362903726771826	0.273952636910624
+Hubel BF EU sex combined 76 SNPs	smz3Xc	M-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0254934715396224	0.00995892531322801	0.0104713823816126
+Hubel BF EU sex combined 76 SNPs	smz3Xc	M-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00756808401488763	0.00959639517868414	0.430323485669595
+Hubel BF EU sex combined 76 SNPs	smz3Xc	M-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0282473641006797	0.0172878022178739	0.106575598474115
+Hubel BF EU sex combined 76 SNPs	SRYxoS	S-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0179255194449021	0.0321442038925645	0.578806712544509
+Hubel BF EU sex combined 76 SNPs	SRYxoS	S-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00279698674666616	0.00953758894861871	0.769323953523037
+Hubel BF EU sex combined 76 SNPs	SRYxoS	S-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00940459111070167	0.00849534931917184	0.268281744063413
+Hubel BF EU sex combined 76 SNPs	SRYxoS	S-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00795158451088085	0.0160736039769481	0.62229870670241
+Hubel BF EU sex combined 76 SNPs	SSawsH	S-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0184471491047679	0.0281923803788957	0.514983284165037
+Hubel BF EU sex combined 76 SNPs	SSawsH	S-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0195872823914853	0.00950498848337997	0.0393281282769382
+Hubel BF EU sex combined 76 SNPs	SSawsH	S-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0180372659541789	0.00750339236277535	0.0162220315801458
+Hubel BF EU sex combined 76 SNPs	SSawsH	S-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0243449230352663	0.0158071771743599	0.127855306746422
+Hubel BF EU sex combined 76 SNPs	T52x0O	S-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0435132524913199	0.0339337808764612	0.203851073314424
+Hubel BF EU sex combined 76 SNPs	T52x0O	S-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0235542772273978	0.0096139673882263	0.0142853857249362
+Hubel BF EU sex combined 76 SNPs	T52x0O	S-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0130077880204749	0.0089742734558085	0.147211103165772
+Hubel BF EU sex combined 76 SNPs	T52x0O	S-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0564085963310591	0.0192696486077742	0.00455616179135618
+Hubel BF EU sex combined 76 SNPs	teoRW0	XL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0162104959380845	0.0303959534671112	0.595460804376142
+Hubel BF EU sex combined 76 SNPs	teoRW0	XL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00315690073779088	0.00947723994203537	0.739056241702394
+Hubel BF EU sex combined 76 SNPs	teoRW0	XL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00580494121735054	0.00802294607632124	0.46934674838806
+Hubel BF EU sex combined 76 SNPs	teoRW0	XL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0187215096501313	0.0210286355813129	0.376236832370878
+Hubel BF EU sex combined 76 SNPs	TLjwOt	XS-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0470591922299975	0.0348377281003417	0.180986002490038
+Hubel BF EU sex combined 76 SNPs	TLjwOt	XS-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0336965791498804	0.00982684877266535	0.000605738047641471
+Hubel BF EU sex combined 76 SNPs	TLjwOt	XS-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.015148645169859	0.00921525825824586	0.100203986886
+Hubel BF EU sex combined 76 SNPs	TLjwOt	XS-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0585744854080315	0.0188196891470415	0.00264912680573481
+Hubel BF EU sex combined 76 SNPs	TQ5b5H	FAw6byFA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0382959664384541	0.0405888558673718	0.348575738320726
+Hubel BF EU sex combined 76 SNPs	TQ5b5H	FAw6byFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00847400401482911	0.0101596803189613	0.404234914279154
+Hubel BF EU sex combined 76 SNPs	TQ5b5H	FAw6byFA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00263564004204029	0.0107281650826575	0.805933964442095
+Hubel BF EU sex combined 76 SNPs	TQ5b5H	FAw6byFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0117756152101801	0.0160885938181825	0.466558743497403
+Hubel BF EU sex combined 76 SNPs	TqyhSG	S-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0435132524913199	0.0339337808764612	0.203851073314424
+Hubel BF EU sex combined 76 SNPs	TqyhSG	S-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0235542772273978	0.00979368386947833	0.0161703533393327
+Hubel BF EU sex combined 76 SNPs	TqyhSG	S-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0130077880204749	0.0089742734558085	0.147211103165772
+Hubel BF EU sex combined 76 SNPs	TqyhSG	S-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0564085963310591	0.0198465074956557	0.0058046004234631
+Hubel BF EU sex combined 76 SNPs	U5emab	XL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00743687082640084	0.0267495861766034	0.781795232172483
+Hubel BF EU sex combined 76 SNPs	U5emab	XL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0152908101703679	0.00974510132496423	0.116630098258056
+Hubel BF EU sex combined 76 SNPs	U5emab	XL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00851921662765835	0.0070329742960985	0.225770923357523
+Hubel BF EU sex combined 76 SNPs	U5emab	XL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0176566641441062	0.0167460470256627	0.295187167483187
+Hubel BF EU sex combined 76 SNPs	U7Zo2n	M-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0267961055794698	0.0287307937008587	0.354111868745991
+Hubel BF EU sex combined 76 SNPs	U7Zo2n	M-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0115749791315528	0.00994641673588287	0.244531997494394
+Hubel BF EU sex combined 76 SNPs	U7Zo2n	M-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0127797406635312	0.00765769856178508	0.095142181587975
+Hubel BF EU sex combined 76 SNPs	U7Zo2n	M-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0245266074640088	0.018746699350315	0.194870619968487
+Hubel BF EU sex combined 76 SNPs	UaUwjP	XL-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0456926837472687	0.0397178110852527	0.253772147528367
+Hubel BF EU sex combined 76 SNPs	UaUwjP	XL-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0239204646721715	0.0104874596949755	0.0225565217492644
+Hubel BF EU sex combined 76 SNPs	UaUwjP	XL-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00676462456369125	0.0105162923728933	0.520060691608524
+Hubel BF EU sex combined 76 SNPs	UaUwjP	XL-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0294112869252012	0.0155594033722482	0.0626930875727627
+Hubel BF EU sex combined 76 SNPs	umzxq3	XXL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-5.32035926781785e-05	0.0267927971593858	0.998421099517963
+Hubel BF EU sex combined 76 SNPs	umzxq3	XXL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0115932381523019	0.00992598927753314	0.242819660432206
+Hubel BF EU sex combined 76 SNPs	umzxq3	XXL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0101574900419656	0.00704943069425576	0.149614324745282
+Hubel BF EU sex combined 76 SNPs	umzxq3	XXL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0116301373240017	0.0172061453467868	0.501221364177348
+Hubel BF EU sex combined 76 SNPs	UrNY4R	S-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0629864441558943	0.0407948448195718	0.12697722729137
+Hubel BF EU sex combined 76 SNPs	UrNY4R	S-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0237341683026788	0.0100078711413203	0.0177136426409765
+Hubel BF EU sex combined 76 SNPs	UrNY4R	S-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00822645010342722	0.0108680230442064	0.449085327826527
+Hubel BF EU sex combined 76 SNPs	UrNY4R	S-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0332328164514619	0.0153280596465181	0.0334110143785293
+Hubel BF EU sex combined 76 SNPs	utzRsS	M-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0117753762371536	0.0318428557423864	0.712619622617768
+Hubel BF EU sex combined 76 SNPs	utzRsS	M-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.000603432487882586	0.00941164381668045	0.94887823982526
+Hubel BF EU sex combined 76 SNPs	utzRsS	M-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0117082802255062	0.00840531192874696	0.163631278076289
+Hubel BF EU sex combined 76 SNPs	utzRsS	M-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.000394579123008665	0.0159655172761635	0.980350156668418
+Hubel BF EU sex combined 76 SNPs	uuE2WF	S-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00616729087719539	0.0288098166672611	0.831098275407012
+Hubel BF EU sex combined 76 SNPs	uuE2WF	S-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00563515311383093	0.00945154391947837	0.551031545703971
+Hubel BF EU sex combined 76 SNPs	uuE2WF	S-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0129935629557469	0.0075983459305565	0.0872563477509898
+Hubel BF EU sex combined 76 SNPs	uuE2WF	S-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00932509883589513	0.016237746578175	0.567540226418902
+Hubel BF EU sex combined 76 SNPs	UuQijd	L-LDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0142650267115391	0.029398820558951	0.628990312142222
+Hubel BF EU sex combined 76 SNPs	UuQijd	L-LDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0145748461325539	0.00981924013556212	0.137725353545268
+Hubel BF EU sex combined 76 SNPs	UuQijd	L-LDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0122146202109456	0.00777482088274757	0.116171397821279
+Hubel BF EU sex combined 76 SNPs	UuQijd	L-LDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0275825951601517	0.0182746259573143	0.135528630297347
+Hubel BF EU sex combined 76 SNPs	uVOJ7Z	SFA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0305900563301922	0.0226108743686598	0.18032347194481
+Hubel BF EU sex combined 76 SNPs	uVOJ7Z	SFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00186517201979554	0.00899726875184225	0.835772257900997
+Hubel BF EU sex combined 76 SNPs	uVOJ7Z	SFA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0117087822638507	0.00604688761707903	0.0528270464924402
+Hubel BF EU sex combined 76 SNPs	uVOJ7Z	SFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00999765188618723	0.0160953152605435	0.536433821763805
+Hubel BF EU sex combined 76 SNPs	v0BwJ7	M-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0345119731412344	0.0314352390199739	0.275916953075339
+Hubel BF EU sex combined 76 SNPs	v0BwJ7	M-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00626978091910006	0.00908769336692166	0.490244531615412
+Hubel BF EU sex combined 76 SNPs	v0BwJ7	M-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00279611938126494	0.0083504409204905	0.737740568254272
+Hubel BF EU sex combined 76 SNPs	v0BwJ7	M-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00576530256065422	0.0145462593516874	0.693008469321098
+Hubel BF EU sex combined 76 SNPs	v0nHHT	L-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0179181295952847	0.0340136445977661	0.599957042176522
+Hubel BF EU sex combined 76 SNPs	v0nHHT	L-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0317025213635381	0.0103171778656977	0.00212067639538883
+Hubel BF EU sex combined 76 SNPs	v0nHHT	L-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0216316833914827	0.00894090773131747	0.0155458896644932
+Hubel BF EU sex combined 76 SNPs	v0nHHT	L-HDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0399337524149736	0.0162268721415991	0.0162210501040492
+Hubel BF EU sex combined 76 SNPs	v1OVPn	XXL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.037584360916857	0.0375517093177173	0.320241811262797
+Hubel BF EU sex combined 76 SNPs	v1OVPn	XXL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0137855821399498	0.00958851470431499	0.150514025823564
+Hubel BF EU sex combined 76 SNPs	v1OVPn	XXL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00235782369201029	0.00993645149841563	0.81243157617956
+Hubel BF EU sex combined 76 SNPs	v1OVPn	XXL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0160162020512706	0.0151404992298958	0.293617093337208
+Hubel BF EU sex combined 76 SNPs	V9aioo	PUFA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0221855621887954	0.0395168349443109	0.576254233741161
+Hubel BF EU sex combined 76 SNPs	V9aioo	PUFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00997140081665711	0.00977829077628573	0.307847585316132
+Hubel BF EU sex combined 76 SNPs	V9aioo	PUFA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00204253853842065	0.0104052808189419	0.844376721799059
+Hubel BF EU sex combined 76 SNPs	V9aioo	PUFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0134426879203171	0.0167038930778336	0.42356931268241
+Hubel BF EU sex combined 76 SNPs	Vbq3rp	L-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0260868017034703	0.0317535849672548	0.414051554770508
+Hubel BF EU sex combined 76 SNPs	Vbq3rp	L-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00204255813973453	0.00974796943797634	0.834029225318314
+Hubel BF EU sex combined 76 SNPs	Vbq3rp	L-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00666738148699365	0.00841455356428759	0.428149006769101
+Hubel BF EU sex combined 76 SNPs	Vbq3rp	L-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0190508146840109	0.0232868082766546	0.415965519649245
+Hubel BF EU sex combined 76 SNPs	VbYdIB	AcAce.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0092291558499269	0.0224820548017767	0.682649414134425
+Hubel BF EU sex combined 76 SNPs	VbYdIB	AcAce.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00945336921430312	0.00863959188267594	0.273870937074224
+Hubel BF EU sex combined 76 SNPs	VbYdIB	AcAce.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00157284668965407	0.00586890536574711	0.788701935072911
+Hubel BF EU sex combined 76 SNPs	VbYdIB	AcAce.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0215279902103767	0.0156983570619752	0.174465724184399
+Hubel BF EU sex combined 76 SNPs	VNbCAf	L-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0208138523406229	0.0254152936278645	0.415517460650132
+Hubel BF EU sex combined 76 SNPs	VNbCAf	L-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0228315728210413	0.00947705642501589	0.0159900836999026
+Hubel BF EU sex combined 76 SNPs	VNbCAf	L-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0148876408657526	0.00668405643277481	0.0259248127891857
+Hubel BF EU sex combined 76 SNPs	VNbCAf	L-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0394541319972548	0.0175747621527887	0.0278022606298635
+Hubel BF EU sex combined 76 SNPs	Vq65zX	S-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0179255194449021	0.0321442038925645	0.578806712544509
+Hubel BF EU sex combined 76 SNPs	Vq65zX	S-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00279698674666616	0.00954778458887966	0.769563311998749
+Hubel BF EU sex combined 76 SNPs	Vq65zX	S-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00940459111070167	0.00849534931917184	0.268281744063413
+Hubel BF EU sex combined 76 SNPs	Vq65zX	S-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00795158451088085	0.0165283389560567	0.631892874697061
+Hubel BF EU sex combined 76 SNPs	w5xuWI	XL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0400455981316357	0.0399054624318282	0.318974759972051
+Hubel BF EU sex combined 76 SNPs	w5xuWI	XL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0138452472065238	0.00971842781258114	0.154261701634963
+Hubel BF EU sex combined 76 SNPs	w5xuWI	XL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.000957756833715859	0.0105654521463632	0.927770806737303
+Hubel BF EU sex combined 76 SNPs	w5xuWI	XL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0172889641801403	0.0146978136667996	0.243298720705284
+Hubel BF EU sex combined 76 SNPs	w78o0b	L-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0446878132676497	0.0428997852159373	0.301045655498361
+Hubel BF EU sex combined 76 SNPs	w78o0b	L-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0389157653124785	0.0106066537044527	0.000243505310943442
+Hubel BF EU sex combined 76 SNPs	w78o0b	L-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0258180386941066	0.0112926943863846	0.0222390357789284
+Hubel BF EU sex combined 76 SNPs	w78o0b	L-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.047680143144437	0.0178922876104754	0.00947532171010046
+Hubel BF EU sex combined 76 SNPs	WoqoeD	L-LDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0181524526920124	0.0282172380261349	0.522066185561723
+Hubel BF EU sex combined 76 SNPs	WoqoeD	L-LDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0152157778275543	0.00937108046957782	0.104440888495381
+Hubel BF EU sex combined 76 SNPs	WoqoeD	L-LDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.013061574062689	0.00741926137251921	0.0783238799902418
+Hubel BF EU sex combined 76 SNPs	WoqoeD	L-LDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0173164340969371	0.0178370396075857	0.334847037261809
+Hubel BF EU sex combined 76 SNPs	Wxc7Up	Leu.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0907121199430965	0.0296550011362023	0.0031186432550652
+Hubel BF EU sex combined 76 SNPs	Wxc7Up	Leu.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0229137729020989	0.0096335993498503	0.0173819798652022
+Hubel BF EU sex combined 76 SNPs	Wxc7Up	Leu.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.01520398476281	0.00816391446557048	0.062555175516263
+Hubel BF EU sex combined 76 SNPs	Wxc7Up	Leu.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0438107485041946	0.0182956003851988	0.019206361663374
+Hubel BF EU sex combined 76 SNPs	X2mCAe	S-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0344858912505563	0.0394195637254049	0.384568855762834
+Hubel BF EU sex combined 76 SNPs	X2mCAe	S-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0198761888662412	0.00980410176061869	0.0426282663484745
+Hubel BF EU sex combined 76 SNPs	X2mCAe	S-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00886045876026218	0.010396019208858	0.394051257477647
+Hubel BF EU sex combined 76 SNPs	X2mCAe	S-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0192678383773059	0.0143335847559287	0.183032056114143
+Hubel BF EU sex combined 76 SNPs	X6TNoM	IDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00831498010892817	0.0256683596554135	0.746923434443887
+Hubel BF EU sex combined 76 SNPs	X6TNoM	IDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0134022419377803	0.00967578092332525	0.166011850981536
+Hubel BF EU sex combined 76 SNPs	X6TNoM	IDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00425554695312313	0.00675952981729329	0.528980820247637
+Hubel BF EU sex combined 76 SNPs	X6TNoM	IDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0140179625784236	0.0194957885280775	0.474420831859236
+Hubel BF EU sex combined 76 SNPs	x81VVa	FreeC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0263366202349266	0.026207526019141	0.318297984941053
+Hubel BF EU sex combined 76 SNPs	x81VVa	FreeC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00514292022439586	0.00914833437212752	0.574000117902511
+Hubel BF EU sex combined 76 SNPs	x81VVa	FreeC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.000336116411785773	0.00694044305871403	0.961374612444421
+Hubel BF EU sex combined 76 SNPs	x81VVa	FreeC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00915653356392637	0.0157565574158056	0.562946020532249
+Hubel BF EU sex combined 76 SNPs	X8GohO	S-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0184471491047679	0.0281923803788957	0.514983284165037
+Hubel BF EU sex combined 76 SNPs	X8GohO	S-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0195872823914853	0.00949741058424601	0.0391714441847205
+Hubel BF EU sex combined 76 SNPs	X8GohO	S-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0180372659541789	0.00750339236277535	0.0162220315801458
+Hubel BF EU sex combined 76 SNPs	X8GohO	S-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0243449230352663	0.0158676481054293	0.129291289478706
+Hubel BF EU sex combined 76 SNPs	xAI2RZ	IDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0471518971717668	0.0325058370311608	0.151243190450296
+Hubel BF EU sex combined 76 SNPs	xAI2RZ	IDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00541640815046854	0.0102573454359802	0.597463489890176
+Hubel BF EU sex combined 76 SNPs	xAI2RZ	IDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	7.98097983481795e-05	0.00867772140388501	0.99266188608509
+Hubel BF EU sex combined 76 SNPs	xAI2RZ	IDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00434827157128526	0.0182037176101911	0.811877858420515
+Hubel BF EU sex combined 76 SNPs	xBEtoa	LDL-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00962559990720734	0.0276610306681564	0.728867434761568
+Hubel BF EU sex combined 76 SNPs	xBEtoa	LDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0119848776089548	0.00916566502364073	0.191014421715198
+Hubel BF EU sex combined 76 SNPs	xBEtoa	LDL-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00760647344635639	0.0072923362097459	0.296912297395743
+Hubel BF EU sex combined 76 SNPs	xBEtoa	LDL-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.023963473512075	0.0173448020781989	0.171310345477033
+Hubel BF EU sex combined 76 SNPs	XLfa7P	XS-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0244650060652296	0.0238157220220682	0.307735535389055
+Hubel BF EU sex combined 76 SNPs	XLfa7P	XS-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00460168849863311	0.00871977801300097	0.597686744226061
+Hubel BF EU sex combined 76 SNPs	XLfa7P	XS-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00897286786581838	0.00628045553568322	0.153091345793155
+Hubel BF EU sex combined 76 SNPs	XLfa7P	XS-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0021738985416592	0.0180186064799384	0.904301756661891
+Hubel BF EU sex combined 76 SNPs	XnLk80	M-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00119558748745118	0.0287109655815219	0.966899202154108
+Hubel BF EU sex combined 76 SNPs	XnLk80	M-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0176026466734126	0.0100328940705295	0.0793459956686011
+Hubel BF EU sex combined 76 SNPs	XnLk80	M-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0174845431375975	0.00757044824890613	0.0209115111023385
+Hubel BF EU sex combined 76 SNPs	XnLk80	M-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0263012687735695	0.0171784682150255	0.130076800713752
+Hubel BF EU sex combined 76 SNPs	xsqDI7	SM.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00148200869035532	0.0243048481215563	0.951547387897579
+Hubel BF EU sex combined 76 SNPs	xsqDI7	SM.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.017461525485865	0.00901268408126131	0.052691705191506
+Hubel BF EU sex combined 76 SNPs	xsqDI7	SM.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0102336511692268	0.00639841158206928	0.109730652695466
+Hubel BF EU sex combined 76 SNPs	xsqDI7	SM.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0265977770498517	0.017465795055319	0.132116782347023
+Hubel BF EU sex combined 76 SNPs	XTYAfO	S-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0165127749277973	0.0243444630854926	0.499757700549347
+Hubel BF EU sex combined 76 SNPs	XTYAfO	S-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0160156168193345	0.00869791126844783	0.0655750347974642
+Hubel BF EU sex combined 76 SNPs	XTYAfO	S-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0119856315213901	0.00640107678207395	0.0611457703435485
+Hubel BF EU sex combined 76 SNPs	XTYAfO	S-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0224887296389615	0.0173772607657924	0.1996938938458
+Hubel BF EU sex combined 76 SNPs	Y4w75v	HDL3-C.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.000690775292848134	0.0242173128309521	0.977323121115995
+Hubel BF EU sex combined 76 SNPs	Y4w75v	HDL3-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00507486554560655	0.00930590070837382	0.585520758314404
+Hubel BF EU sex combined 76 SNPs	Y4w75v	HDL3-C.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0118968759444073	0.00637909129678555	0.0621842459330424
+Hubel BF EU sex combined 76 SNPs	Y4w75v	HDL3-C.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00381682285504331	0.0166007162084028	0.81879762342452
+Hubel BF EU sex combined 76 SNPs	Y7ZLI3	XXL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0301544818439873	0.029181558026442	0.304903115144013
+Hubel BF EU sex combined 76 SNPs	Y7ZLI3	XXL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00405748632498588	0.0101507754150089	0.689361426086059
+Hubel BF EU sex combined 76 SNPs	Y7ZLI3	XXL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00671827069337541	0.00776045358552625	0.386651446896501
+Hubel BF EU sex combined 76 SNPs	Y7ZLI3	XXL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00678949493270203	0.0181036388800899	0.708721984250924
+Hubel BF EU sex combined 76 SNPs	Y95RVb	XL-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0207519766716933	0.0282105531633904	0.464357465579559
+Hubel BF EU sex combined 76 SNPs	Y95RVb	XL-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0157544191107119	0.00906015057926726	0.0820577279064603
+Hubel BF EU sex combined 76 SNPs	Y95RVb	XL-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0257253564658431	0.00741771009344008	0.000524153228946103
+Hubel BF EU sex combined 76 SNPs	Y95RVb	XL-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0108699673954966	0.0169917283441692	0.524356552894651
+Hubel BF EU sex combined 76 SNPs	YjZcBb	IDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0700821059310661	0.0400424074489184	0.0843444177899189
+Hubel BF EU sex combined 76 SNPs	YjZcBb	IDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.0257045656417242	0.00994797008239548	0.00976899506694641
+Hubel BF EU sex combined 76 SNPs	YjZcBb	IDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00842987868538356	0.0107114164081523	0.43128219558747
+Hubel BF EU sex combined 76 SNPs	YjZcBb	IDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0399209592854725	0.0166081797148783	0.0187705030245384
+Hubel BF EU sex combined 76 SNPs	YogZ0k	ApoBbyApoA1.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0364989794420694	0.0403305186189522	0.368485615613051
+Hubel BF EU sex combined 76 SNPs	YogZ0k	ApoBbyApoA1.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0298156878104562	0.00960492467143255	0.00190788894891421
+Hubel BF EU sex combined 76 SNPs	YogZ0k	ApoBbyApoA1.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0176882949764595	0.0106197138410738	0.0957912418457764
+Hubel BF EU sex combined 76 SNPs	YogZ0k	ApoBbyApoA1.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.029165879694191	0.0152850411736609	0.0603068191322659
+Hubel BF EU sex combined 76 SNPs	yrxDaf	TotFA.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0102039694176451	0.0301216695928038	0.735777684547596
+Hubel BF EU sex combined 76 SNPs	yrxDaf	TotFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00276253944944079	0.00933631893219476	0.76731277603867
+Hubel BF EU sex combined 76 SNPs	yrxDaf	TotFA.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0053434309214115	0.00793179646253814	0.50051972791866
+Hubel BF EU sex combined 76 SNPs	yrxDaf	TotFA.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00535681560587958	0.0178472589417868	0.764917480645725
+Hubel BF EU sex combined 76 SNPs	ywhv5d	IDL-CE.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00831498010892817	0.0256683596554135	0.746923434443887
+Hubel BF EU sex combined 76 SNPs	ywhv5d	IDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0134022419377803	0.00945141622848486	0.156186634003665
+Hubel BF EU sex combined 76 SNPs	ywhv5d	IDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00425554695312313	0.00675952981729329	0.528980820247637
+Hubel BF EU sex combined 76 SNPs	ywhv5d	IDL-CE.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0140179625784236	0.0185217041410122	0.451581684262964
+Hubel BF EU sex combined 76 SNPs	Z5y3D1	XL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.00452548092562808	0.0308577964765059	0.883813415916443
+Hubel BF EU sex combined 76 SNPs	Z5y3D1	XL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.000465236187348598	0.00990061829697267	0.962520703814463
+Hubel BF EU sex combined 76 SNPs	Z5y3D1	XL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00806379123530546	0.00811369298023503	0.32029605167055
+Hubel BF EU sex combined 76 SNPs	Z5y3D1	XL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.00162412536609602	0.0190084031359141	0.932143519092295
+Hubel BF EU sex combined 76 SNPs	ZMlTKD	XL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.00743687082640084	0.0267495861766034	0.781795232172483
+Hubel BF EU sex combined 76 SNPs	ZMlTKD	XL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0152908101703679	0.00972226650488829	0.115773964845361
+Hubel BF EU sex combined 76 SNPs	ZMlTKD	XL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.00851921662765835	0.0070329742960985	0.225770923357523
+Hubel BF EU sex combined 76 SNPs	ZMlTKD	XL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0176566641441062	0.0171427488666553	0.306420615706038
+Hubel BF EU sex combined 76 SNPs	ZMTkvB	L-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	-0.0142650267115391	0.029398820558951	0.628990312142222
+Hubel BF EU sex combined 76 SNPs	ZMTkvB	L-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0145748461325539	0.00999134399049073	0.14463467053073
+Hubel BF EU sex combined 76 SNPs	ZMTkvB	L-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0122146202109456	0.00777482088274757	0.116171397821279
+Hubel BF EU sex combined 76 SNPs	ZMTkvB	L-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0275825951601517	0.0188921245904726	0.148579078070225
+Hubel BF EU sex combined 76 SNPs	zNkUfu	XXL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0301544818439873	0.029181558026442	0.304903115144013
+Hubel BF EU sex combined 76 SNPs	zNkUfu	XXL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.00405748632498588	0.0101537558309599	0.689447855785901
+Hubel BF EU sex combined 76 SNPs	zNkUfu	XXL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.00671827069337541	0.00776045358552625	0.386651446896501
+Hubel BF EU sex combined 76 SNPs	zNkUfu	XXL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.00678949493270203	0.0175800473193051	0.700468500612805
+Hubel BF EU sex combined 76 SNPs	ZOyzEz	M-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0170911525506365	0.0268914432268448	0.52707752912059
+Hubel BF EU sex combined 76 SNPs	ZOyzEz	M-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	-0.00948942694631434	0.00975822333350701	0.330824553610066
+Hubel BF EU sex combined 76 SNPs	ZOyzEz	M-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	-0.0111166723381814	0.00712606405346638	0.118759469491323
+Hubel BF EU sex combined 76 SNPs	ZOyzEz	M-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	-0.0232755061840308	0.0179483681732555	0.198782885643793
+Hubel BF EU sex combined 76 SNPs	ZxIt68	L-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	MR Egger	74	0.0194474487143334	0.034815685922701	0.578179473708867
+Hubel BF EU sex combined 76 SNPs	ZxIt68	L-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted median	74	0.0405696523267381	0.0102140092061139	7.12832131690471e-05
+Hubel BF EU sex combined 76 SNPs	ZxIt68	L-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	Inverse variance weighted (multiplicative random effects)	74	0.0267628740509267	0.00915345479234597	0.00345786485281579
+Hubel BF EU sex combined 76 SNPs	ZxIt68	L-HDL-P.txt	Hubel BF EU sex combined 76 SNPs	Weighted mode	74	0.0530213614488901	0.0173903620262755	0.0031984510987281

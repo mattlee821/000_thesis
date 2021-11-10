@@ -1,0 +1,1151 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+Shungin WHR EU sex combined 26 SNPs	05Ser7	L-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	75.2995421172757	25	6.10484121946585e-07
+Shungin WHR EU sex combined 26 SNPs	05Ser7	L-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	74.5075871289555	24	4.44968879620581e-07
+Shungin WHR EU sex combined 26 SNPs	05Ser7	L-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	75.6791031885202	25	5.33945929115621e-07
+Shungin WHR EU sex combined 26 SNPs	05Ser7	L-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	75.1051541313798	25	6.53768423098716e-07
+Shungin WHR EU sex combined 26 SNPs	05Ser7	L-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00436431937552687	25	1
+Shungin WHR EU sex combined 26 SNPs	0LG9TO	XXL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	90.6573299683327	25	2.2342093280198e-09
+Shungin WHR EU sex combined 26 SNPs	0LG9TO	XXL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	92.9773309479468	24	4.60913471614259e-10
+Shungin WHR EU sex combined 26 SNPs	0LG9TO	XXL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	93.7919939847334	25	6.81775527098181e-10
+Shungin WHR EU sex combined 26 SNPs	0LG9TO	XXL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	89.3224475621262	25	3.68942638223994e-09
+Shungin WHR EU sex combined 26 SNPs	0LG9TO	XXL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00547357228610644	25	1
+Shungin WHR EU sex combined 26 SNPs	16WSXb	FAw6byFA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	147.339239610933	25	2.60465391447012e-19
+Shungin WHR EU sex combined 26 SNPs	16WSXb	FAw6byFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	145.40785739871	24	2.35019045463423e-19
+Shungin WHR EU sex combined 26 SNPs	16WSXb	FAw6byFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	151.816560560707	25	3.89709442759798e-20
+Shungin WHR EU sex combined 26 SNPs	16WSXb	FAw6byFA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	145.73084436948	25	5.14095991797409e-19
+Shungin WHR EU sex combined 26 SNPs	16WSXb	FAw6byFA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00877700248229515	25	1
+Shungin WHR EU sex combined 26 SNPs	1dkASa	XL-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	101.481634872826	25	3.52784393716888e-11
+Shungin WHR EU sex combined 26 SNPs	1dkASa	XL-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	104.364668640625	24	5.36122715963843e-12
+Shungin WHR EU sex combined 26 SNPs	1dkASa	XL-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	104.390955093451	25	1.13135491416975e-11
+Shungin WHR EU sex combined 26 SNPs	1dkASa	XL-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	100.762277851867	25	4.66704540197268e-11
+Shungin WHR EU sex combined 26 SNPs	1dkASa	XL-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00634114069824957	25	1
+Shungin WHR EU sex combined 26 SNPs	1DV86v	XXL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	64.8991355200449	25	2.13857362794121e-05
+Shungin WHR EU sex combined 26 SNPs	1DV86v	XXL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	64.9404527321195	24	1.2419468489328e-05
+Shungin WHR EU sex combined 26 SNPs	1DV86v	XXL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	65.3099529419925	25	1.86685526622097e-05
+Shungin WHR EU sex combined 26 SNPs	1DV86v	XXL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	64.691704504732	25	2.29009250046278e-05
+Shungin WHR EU sex combined 26 SNPs	1DV86v	XXL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00429088974670603	25	1
+Shungin WHR EU sex combined 26 SNPs	1H9E17	M-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	29.6882565411147	25	0.236174199104992
+Shungin WHR EU sex combined 26 SNPs	1H9E17	M-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	27.4989127721565	24	0.281740080527929
+Shungin WHR EU sex combined 26 SNPs	1H9E17	M-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	29.7282522004889	25	0.234625611676495
+Shungin WHR EU sex combined 26 SNPs	1H9E17	M-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	29.6565665835705	25	0.237406164081914
+Shungin WHR EU sex combined 26 SNPs	1H9E17	M-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00185463097979486	25	1
+Shungin WHR EU sex combined 26 SNPs	1iSQoY	L-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	87.7573059053319	25	6.62269688313657e-09
+Shungin WHR EU sex combined 26 SNPs	1iSQoY	L-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	87.4971505974676	24	3.72682569265745e-09
+Shungin WHR EU sex combined 26 SNPs	1iSQoY	L-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	88.8087892666518	25	4.47202293365686e-09
+Shungin WHR EU sex combined 26 SNPs	1iSQoY	L-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	87.3579313551196	25	7.68477037826716e-09
+Shungin WHR EU sex combined 26 SNPs	1iSQoY	L-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00511897882462453	25	1
+Shungin WHR EU sex combined 26 SNPs	1yrh6M	L-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	45.6258787866084	25	0.0070896747564055
+Shungin WHR EU sex combined 26 SNPs	1yrh6M	L-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	44.3913633906973	24	0.00686885477033151
+Shungin WHR EU sex combined 26 SNPs	1yrh6M	L-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	45.8025679792878	25	0.00676457544226426
+Shungin WHR EU sex combined 26 SNPs	1yrh6M	L-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	45.5842685540982	25	0.00716833198477356
+Shungin WHR EU sex combined 26 SNPs	1yrh6M	L-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00277134612142557	25	1
+Shungin WHR EU sex combined 26 SNPs	21svuV	S-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	40.4781400461836	25	0.0260291970012349
+Shungin WHR EU sex combined 26 SNPs	21svuV	S-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	40.3296301671529	24	0.0197071548531702
+Shungin WHR EU sex combined 26 SNPs	21svuV	S-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	41.0100469695718	25	0.022901531589031
+Shungin WHR EU sex combined 26 SNPs	21svuV	S-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	40.3076470548814	25	0.0271104572104319
+Shungin WHR EU sex combined 26 SNPs	21svuV	S-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00251015344673437	25	1
+Shungin WHR EU sex combined 26 SNPs	2gDwIS	M-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	92.0122044431154	25	1.33963672491347e-09
+Shungin WHR EU sex combined 26 SNPs	2gDwIS	M-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	91.9733200477551	24	6.77867288212888e-10
+Shungin WHR EU sex combined 26 SNPs	2gDwIS	M-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	92.7362922897264	25	1.01824173346919e-09
+Shungin WHR EU sex combined 26 SNPs	2gDwIS	M-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	91.7594691695951	25	1.47401549239226e-09
+Shungin WHR EU sex combined 26 SNPs	2gDwIS	M-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00546391959858429	25	1
+Shungin WHR EU sex combined 26 SNPs	2pK5Ww	L-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	158.010768997907	25	2.77003491824426e-21
+Shungin WHR EU sex combined 26 SNPs	2pK5Ww	L-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	162.493813440865	24	1.5271406074593e-22
+Shungin WHR EU sex combined 26 SNPs	2pK5Ww	L-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	162.853046921292	25	3.46441702539921e-22
+Shungin WHR EU sex combined 26 SNPs	2pK5Ww	L-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	156.359288226607	25	5.6154103456664e-21
+Shungin WHR EU sex combined 26 SNPs	2pK5Ww	L-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00947507907392346	25	1
+Shungin WHR EU sex combined 26 SNPs	2rcF8r	M-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	58.4591543251657	25	0.000169895694516185
+Shungin WHR EU sex combined 26 SNPs	2rcF8r	M-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	56.3383787205787	24	0.000206069696029442
+Shungin WHR EU sex combined 26 SNPs	2rcF8r	M-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	60.0045956165403	25	0.000104402511352766
+Shungin WHR EU sex combined 26 SNPs	2rcF8r	M-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	57.8009571293119	25	0.000208601262642317
+Shungin WHR EU sex combined 26 SNPs	2rcF8r	M-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00345455517463717	25	1
+Shungin WHR EU sex combined 26 SNPs	2tN1Ym	L-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	85.3985478944039	25	1.58897140123893e-08
+Shungin WHR EU sex combined 26 SNPs	2tN1Ym	L-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	87.5968053106469	24	3.58908091618196e-09
+Shungin WHR EU sex combined 26 SNPs	2tN1Ym	L-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	87.6047542038392	25	7.01004028251625e-09
+Shungin WHR EU sex combined 26 SNPs	2tN1Ym	L-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	84.597275073818	25	2.13515710517172e-08
+Shungin WHR EU sex combined 26 SNPs	2tN1Ym	L-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00528354252609565	25	1
+Shungin WHR EU sex combined 26 SNPs	2U538i	XXL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	33.1591709124958	25	0.127136461833249
+Shungin WHR EU sex combined 26 SNPs	2U538i	XXL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	31.7117617868745	24	0.134302793888125
+Shungin WHR EU sex combined 26 SNPs	2U538i	XXL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	33.2393345389717	25	0.125192312551375
+Shungin WHR EU sex combined 26 SNPs	2U538i	XXL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	33.1256550746973	25	0.127956408389743
+Shungin WHR EU sex combined 26 SNPs	2U538i	XXL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00241920347039863	25	1
+Shungin WHR EU sex combined 26 SNPs	2Wom9R	S-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	87.8054496430714	25	6.50491180083347e-09
+Shungin WHR EU sex combined 26 SNPs	2Wom9R	S-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	88.8230886775282	24	2.25553204664883e-09
+Shungin WHR EU sex combined 26 SNPs	2Wom9R	S-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	89.2840676616276	25	3.74288611147896e-09
+Shungin WHR EU sex combined 26 SNPs	2Wom9R	S-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	87.3108924970567	25	7.82046697695981e-09
+Shungin WHR EU sex combined 26 SNPs	2Wom9R	S-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00524331905189667	25	1
+Shungin WHR EU sex combined 26 SNPs	39iA0K	EstC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	20.3271824813288	25	0.729458953494955
+Shungin WHR EU sex combined 26 SNPs	39iA0K	EstC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	20.2519545439148	24	0.682361494867435
+Shungin WHR EU sex combined 26 SNPs	39iA0K	EstC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	20.3417744970635	25	0.728675306357981
+Shungin WHR EU sex combined 26 SNPs	39iA0K	EstC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	20.3271538867193	25	0.729460488398595
+Shungin WHR EU sex combined 26 SNPs	39iA0K	EstC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00134551867509322	25	1
+Shungin WHR EU sex combined 26 SNPs	3lXGnL	IDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	33.7847920210883	25	0.112588531923538
+Shungin WHR EU sex combined 26 SNPs	3lXGnL	IDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	32.4733181126879	24	0.115683117031061
+Shungin WHR EU sex combined 26 SNPs	3lXGnL	IDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	34.5157517247875	25	0.0973356264459389
+Shungin WHR EU sex combined 26 SNPs	3lXGnL	IDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	33.4988772445068	25	0.119060621720138
+Shungin WHR EU sex combined 26 SNPs	3lXGnL	IDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00238366677448537	25	1
+Shungin WHR EU sex combined 26 SNPs	3U0vOm	XS-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	73.949061332616	25	9.8110032963194e-07
+Shungin WHR EU sex combined 26 SNPs	3U0vOm	XS-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	74.5164250353166	24	4.43565270503636e-07
+Shungin WHR EU sex combined 26 SNPs	3U0vOm	XS-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	74.5257754276229	25	8.0151199435581e-07
+Shungin WHR EU sex combined 26 SNPs	3U0vOm	XS-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	73.7201721136725	25	1.06287973775541e-06
+Shungin WHR EU sex combined 26 SNPs	3U0vOm	XS-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00437609752079149	25	1
+Shungin WHR EU sex combined 26 SNPs	3UxZJo	S-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	21.1032104873124	25	0.686840638939197
+Shungin WHR EU sex combined 26 SNPs	3UxZJo	S-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	21.021749855836	24	0.637441793410206
+Shungin WHR EU sex combined 26 SNPs	3UxZJo	S-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	21.1177620027185	25	0.686025080063559
+Shungin WHR EU sex combined 26 SNPs	3UxZJo	S-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	21.0887661861175	25	0.687649661575014
+Shungin WHR EU sex combined 26 SNPs	3UxZJo	S-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00129128460100928	25	1
+Shungin WHR EU sex combined 26 SNPs	4rA0mR	Glc.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	39.2152976165138	25	0.0350498731931012
+Shungin WHR EU sex combined 26 SNPs	4rA0mR	Glc.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	39.2327261163316	24	0.0258119225303492
+Shungin WHR EU sex combined 26 SNPs	4rA0mR	Glc.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	39.2406423266582	25	0.034844333505293
+Shungin WHR EU sex combined 26 SNPs	4rA0mR	Glc.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	39.2075315452445	25	0.0351130701394407
+Shungin WHR EU sex combined 26 SNPs	4rA0mR	Glc.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00414948976947574	25	1
+Shungin WHR EU sex combined 26 SNPs	57Dbdn	XXL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	48.5606511611554	25	0.00319336151110887
+Shungin WHR EU sex combined 26 SNPs	57Dbdn	XXL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	49.2747360921917	24	0.00174936404861657
+Shungin WHR EU sex combined 26 SNPs	57Dbdn	XXL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	49.3060394298529	25	0.00259266273481229
+Shungin WHR EU sex combined 26 SNPs	57Dbdn	XXL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	48.1833084597089	25	0.00354556144066426
+Shungin WHR EU sex combined 26 SNPs	57Dbdn	XXL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0033290408248601	25	1
+Shungin WHR EU sex combined 26 SNPs	5bTa4Z	S-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	40.4781400461836	25	0.0260291970012349
+Shungin WHR EU sex combined 26 SNPs	5bTa4Z	S-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	40.3296301671529	24	0.0197071548531702
+Shungin WHR EU sex combined 26 SNPs	5bTa4Z	S-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	41.0100469695718	25	0.022901531589031
+Shungin WHR EU sex combined 26 SNPs	5bTa4Z	S-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	40.3076470548814	25	0.0271104572104319
+Shungin WHR EU sex combined 26 SNPs	5bTa4Z	S-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00251015344673437	25	1
+Shungin WHR EU sex combined 26 SNPs	5Z0tMb	XL-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	101.481634872826	25	3.52784393716888e-11
+Shungin WHR EU sex combined 26 SNPs	5Z0tMb	XL-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	104.364668640625	24	5.36122715963843e-12
+Shungin WHR EU sex combined 26 SNPs	5Z0tMb	XL-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	104.390955093451	25	1.13135491416975e-11
+Shungin WHR EU sex combined 26 SNPs	5Z0tMb	XL-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	100.762277851867	25	4.66704540197268e-11
+Shungin WHR EU sex combined 26 SNPs	5Z0tMb	XL-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00634114069824957	25	1
+Shungin WHR EU sex combined 26 SNPs	68jjR2	S-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	21.1088681217942	25	0.686523612475063
+Shungin WHR EU sex combined 26 SNPs	68jjR2	S-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	19.7217139354112	24	0.712486584796163
+Shungin WHR EU sex combined 26 SNPs	68jjR2	S-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	21.1269975736567	25	0.685507185600235
+Shungin WHR EU sex combined 26 SNPs	68jjR2	S-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	21.1034720443606	25	0.68682598432269
+Shungin WHR EU sex combined 26 SNPs	68jjR2	S-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00137949266823427	25	1
+Shungin WHR EU sex combined 26 SNPs	6EkIgu	AcAce.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	37.6214605165241	25	0.0503462568492703
+Shungin WHR EU sex combined 26 SNPs	6EkIgu	AcAce.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	37.6417780824741	24	0.0377139785851297
+Shungin WHR EU sex combined 26 SNPs	6EkIgu	AcAce.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	37.6450898483419	25	0.050082338637286
+Shungin WHR EU sex combined 26 SNPs	6EkIgu	AcAce.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	37.6212684618093	25	0.0503484068966236
+Shungin WHR EU sex combined 26 SNPs	6EkIgu	AcAce.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00250965848541165	25	1
+Shungin WHR EU sex combined 26 SNPs	6mZc9x	TotCho.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.9523119248132	25	0.190602726592633
+Shungin WHR EU sex combined 26 SNPs	6mZc9x	TotCho.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	30.8098641820719	24	0.15934094711965
+Shungin WHR EU sex combined 26 SNPs	6mZc9x	TotCho.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.9555002545126	25	0.190496523533456
+Shungin WHR EU sex combined 26 SNPs	6mZc9x	TotCho.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.9519146946071	25	0.190615961353306
+Shungin WHR EU sex combined 26 SNPs	6mZc9x	TotCho.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00209258182389885	25	1
+Shungin WHR EU sex combined 26 SNPs	6pLCK0	IDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.1317793751128	25	0.219392617263953
+Shungin WHR EU sex combined 26 SNPs	6pLCK0	IDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.7243184649786	24	0.194057448052872
+Shungin WHR EU sex combined 26 SNPs	6pLCK0	IDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.1414305648176	25	0.219036997177081
+Shungin WHR EU sex combined 26 SNPs	6pLCK0	IDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.1293360349294	25	0.219482712168738
+Shungin WHR EU sex combined 26 SNPs	6pLCK0	IDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0017688870899669	25	1
+Shungin WHR EU sex combined 26 SNPs	7arLzb	XS-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	39.9249767270558	25	0.0296860238582122
+Shungin WHR EU sex combined 26 SNPs	7arLzb	XS-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	39.6065976785191	24	0.02356140003658
+Shungin WHR EU sex combined 26 SNPs	7arLzb	XS-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	39.9737095425717	25	0.0293462455196809
+Shungin WHR EU sex combined 26 SNPs	7arLzb	XS-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	39.9209644476016	25	0.0297141553226017
+Shungin WHR EU sex combined 26 SNPs	7arLzb	XS-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00243176261850748	25	1
+Shungin WHR EU sex combined 26 SNPs	7hGEUK	XXL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	88.3597015095094	25	5.28955033244093e-09
+Shungin WHR EU sex combined 26 SNPs	7hGEUK	XXL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	90.1870173088083	24	1.34235768752745e-09
+Shungin WHR EU sex combined 26 SNPs	7hGEUK	XXL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	90.2199424682188	25	2.633983427282e-09
+Shungin WHR EU sex combined 26 SNPs	7hGEUK	XXL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	87.6826665247011	25	6.80949104558851e-09
+Shungin WHR EU sex combined 26 SNPs	7hGEUK	XXL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00606665468258968	25	1
+Shungin WHR EU sex combined 26 SNPs	7k1xA8	L-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	70.0197338672995	25	3.8220456785397e-06
+Shungin WHR EU sex combined 26 SNPs	7k1xA8	L-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	66.8945422255774	24	6.39252388063591e-06
+Shungin WHR EU sex combined 26 SNPs	7k1xA8	L-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	70.4216787101277	25	3.33056268210823e-06
+Shungin WHR EU sex combined 26 SNPs	7k1xA8	L-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	69.8844230865724	25	4.00300317103947e-06
+Shungin WHR EU sex combined 26 SNPs	7k1xA8	L-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00454653872643624	25	1
+Shungin WHR EU sex combined 26 SNPs	7v0WcZ	XS-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	39.9249767270558	25	0.0296860238582122
+Shungin WHR EU sex combined 26 SNPs	7v0WcZ	XS-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	39.6065976785191	24	0.02356140003658
+Shungin WHR EU sex combined 26 SNPs	7v0WcZ	XS-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	39.9737095425717	25	0.0293462455196809
+Shungin WHR EU sex combined 26 SNPs	7v0WcZ	XS-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	39.9209644476016	25	0.0297141553226017
+Shungin WHR EU sex combined 26 SNPs	7v0WcZ	XS-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00243176261850748	25	1
+Shungin WHR EU sex combined 26 SNPs	8qbNkd	M-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	29.6882565411147	25	0.236174199104992
+Shungin WHR EU sex combined 26 SNPs	8qbNkd	M-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	27.4989127721565	24	0.281740080527929
+Shungin WHR EU sex combined 26 SNPs	8qbNkd	M-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	29.7282522004889	25	0.234625611676495
+Shungin WHR EU sex combined 26 SNPs	8qbNkd	M-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	29.6565665835705	25	0.237406164081914
+Shungin WHR EU sex combined 26 SNPs	8qbNkd	M-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00185463097979486	25	1
+Shungin WHR EU sex combined 26 SNPs	8r7TEM	IDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	33.7847920210883	25	0.112588531923538
+Shungin WHR EU sex combined 26 SNPs	8r7TEM	IDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	32.4733181126879	24	0.115683117031061
+Shungin WHR EU sex combined 26 SNPs	8r7TEM	IDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	34.5157517247875	25	0.0973356264459389
+Shungin WHR EU sex combined 26 SNPs	8r7TEM	IDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	33.4988772445068	25	0.119060621720138
+Shungin WHR EU sex combined 26 SNPs	8r7TEM	IDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00238366677448537	25	1
+Shungin WHR EU sex combined 26 SNPs	8tc9OX	HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	93.5486926309199	25	7.47900350916017e-10
+Shungin WHR EU sex combined 26 SNPs	8tc9OX	HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	94.9934679183343	24	2.11661054039773e-10
+Shungin WHR EU sex combined 26 SNPs	8tc9OX	HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	95.4716785207815	25	3.59121080522503e-10
+Shungin WHR EU sex combined 26 SNPs	8tc9OX	HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	92.9042030068073	25	9.55395125860484e-10
+Shungin WHR EU sex combined 26 SNPs	8tc9OX	HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0059461621121281	25	1
+Shungin WHR EU sex combined 26 SNPs	8TkJRN	LA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.3650533024572	25	0.21091078851216
+Shungin WHR EU sex combined 26 SNPs	8TkJRN	LA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.664980813075	24	0.196104665553739
+Shungin WHR EU sex combined 26 SNPs	8TkJRN	LA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.365829176096	25	0.21088297307593
+Shungin WHR EU sex combined 26 SNPs	8TkJRN	LA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.3649440010091	25	0.210914707231009
+Shungin WHR EU sex combined 26 SNPs	8TkJRN	LA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00195737142519807	25	1
+Shungin WHR EU sex combined 26 SNPs	8VZs5n	M-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	29.6882565411147	25	0.236174199104992
+Shungin WHR EU sex combined 26 SNPs	8VZs5n	M-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	27.4989127721565	24	0.281740080527929
+Shungin WHR EU sex combined 26 SNPs	8VZs5n	M-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	29.7282522004889	25	0.234625611676495
+Shungin WHR EU sex combined 26 SNPs	8VZs5n	M-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	29.6565665835705	25	0.237406164081914
+Shungin WHR EU sex combined 26 SNPs	8VZs5n	M-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00185463097979486	25	1
+Shungin WHR EU sex combined 26 SNPs	8ybVoY	XS-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	131.61850755178	25	1.88483737831522e-16
+Shungin WHR EU sex combined 26 SNPs	8ybVoY	XS-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	135.362480767964	24	1.64440751846799e-17
+Shungin WHR EU sex combined 26 SNPs	8ybVoY	XS-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	135.710029087514	25	3.44391564651158e-17
+Shungin WHR EU sex combined 26 SNPs	8ybVoY	XS-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	130.409321886161	25	3.1086174641706e-16
+Shungin WHR EU sex combined 26 SNPs	8ybVoY	XS-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00796447897311822	25	1
+Shungin WHR EU sex combined 26 SNPs	97sZkl	XXL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	64.8991355200449	25	2.13857362794121e-05
+Shungin WHR EU sex combined 26 SNPs	97sZkl	XXL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	64.9404527321195	24	1.2419468489328e-05
+Shungin WHR EU sex combined 26 SNPs	97sZkl	XXL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	65.3099529419925	25	1.86685526622097e-05
+Shungin WHR EU sex combined 26 SNPs	97sZkl	XXL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	64.691704504732	25	2.29009250046278e-05
+Shungin WHR EU sex combined 26 SNPs	97sZkl	XXL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00429088974670603	25	1
+Shungin WHR EU sex combined 26 SNPs	9aDhQI	XL-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	103.549653581394	25	1.57330371860447e-11
+Shungin WHR EU sex combined 26 SNPs	9aDhQI	XL-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	106.716366070193	24	2.10205387094552e-12
+Shungin WHR EU sex combined 26 SNPs	9aDhQI	XL-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	106.793935045873	25	4.3940307311296e-12
+Shungin WHR EU sex combined 26 SNPs	9aDhQI	XL-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	102.607389519894	25	2.27426722092605e-11
+Shungin WHR EU sex combined 26 SNPs	9aDhQI	XL-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00629232802406597	25	1
+Shungin WHR EU sex combined 26 SNPs	9KBhPp	L-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	123.917742744358	25	4.48608376936453e-15
+Shungin WHR EU sex combined 26 SNPs	9KBhPp	L-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	129.628559304396	24	1.81106160458358e-16
+Shungin WHR EU sex combined 26 SNPs	9KBhPp	L-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	129.66304197476	25	4.23126178330233e-16
+Shungin WHR EU sex combined 26 SNPs	9KBhPp	L-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	121.796548827255	25	1.06633672764244e-14
+Shungin WHR EU sex combined 26 SNPs	9KBhPp	L-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00750109364223797	25	1
+Shungin WHR EU sex combined 26 SNPs	9Kxd9q	S-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	29.9734963527943	25	0.225282933262155
+Shungin WHR EU sex combined 26 SNPs	9Kxd9q	S-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	30.1445561199242	24	0.180006752980135
+Shungin WHR EU sex combined 26 SNPs	9Kxd9q	S-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.3365553478909	25	0.211934267579265
+Shungin WHR EU sex combined 26 SNPs	9Kxd9q	S-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	29.721011597723	25	0.234905441374266
+Shungin WHR EU sex combined 26 SNPs	9Kxd9q	S-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00186523876081337	25	1
+Shungin WHR EU sex combined 26 SNPs	9ml8p3	XS-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	70.2777613052714	25	3.49895640309456e-06
+Shungin WHR EU sex combined 26 SNPs	9ml8p3	XS-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	71.7398191626047	24	1.18825837725781e-06
+Shungin WHR EU sex combined 26 SNPs	9ml8p3	XS-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	72.0363584361381	25	1.9094000896954e-06
+Shungin WHR EU sex combined 26 SNPs	9ml8p3	XS-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	69.6865819267641	25	4.28281524847804e-06
+Shungin WHR EU sex combined 26 SNPs	9ml8p3	XS-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00444971078859707	25	1
+Shungin WHR EU sex combined 26 SNPs	aeFIFP	IDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.1317793751128	25	0.219392617263953
+Shungin WHR EU sex combined 26 SNPs	aeFIFP	IDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.7243184649786	24	0.194057448052872
+Shungin WHR EU sex combined 26 SNPs	aeFIFP	IDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.1414305648176	25	0.219036997177081
+Shungin WHR EU sex combined 26 SNPs	aeFIFP	IDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.1293360349294	25	0.219482712168738
+Shungin WHR EU sex combined 26 SNPs	aeFIFP	IDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0017688870899669	25	1
+Shungin WHR EU sex combined 26 SNPs	aEhJ1h	S-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	26.56104728199	25	0.378162875661103
+Shungin WHR EU sex combined 26 SNPs	aEhJ1h	S-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	25.8465016079214	24	0.360999325175916
+Shungin WHR EU sex combined 26 SNPs	aEhJ1h	S-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	26.6600696726673	25	0.37307725254643
+Shungin WHR EU sex combined 26 SNPs	aEhJ1h	S-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	26.5160893680505	25	0.380483053490266
+Shungin WHR EU sex combined 26 SNPs	aEhJ1h	S-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00165184461548746	25	1
+Shungin WHR EU sex combined 26 SNPs	AfSh7V	Ala.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	34.9357169767562	25	0.0893727618282117
+Shungin WHR EU sex combined 26 SNPs	AfSh7V	Ala.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	34.6153413281731	24	0.0743118371347734
+Shungin WHR EU sex combined 26 SNPs	AfSh7V	Ala.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	34.9800988700864	25	0.0885639135269563
+Shungin WHR EU sex combined 26 SNPs	AfSh7V	Ala.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	34.9155594823492	25	0.0897421577179362
+Shungin WHR EU sex combined 26 SNPs	AfSh7V	Ala.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00247140026596271	25	1
+Shungin WHR EU sex combined 26 SNPs	aIR6Zh	FreeC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.1193477848045	25	0.219851286445748
+Shungin WHR EU sex combined 26 SNPs	aIR6Zh	FreeC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.9770103939738	24	0.18551492766842
+Shungin WHR EU sex combined 26 SNPs	aIR6Zh	FreeC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.1420415679424	25	0.21901449705185
+Shungin WHR EU sex combined 26 SNPs	aIR6Zh	FreeC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.1164878738806	25	0.219956899575198
+Shungin WHR EU sex combined 26 SNPs	aIR6Zh	FreeC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00193070429366148	25	1
+Shungin WHR EU sex combined 26 SNPs	AjMbw1	Pyr.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	29.4932299194369	25	0.243825565452343
+Shungin WHR EU sex combined 26 SNPs	AjMbw1	Pyr.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.4713451221958	24	0.20289506129939
+Shungin WHR EU sex combined 26 SNPs	AjMbw1	Pyr.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	29.526435548063	25	0.24251109195356
+Shungin WHR EU sex combined 26 SNPs	AjMbw1	Pyr.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	29.4766481340949	25	0.244483771885547
+Shungin WHR EU sex combined 26 SNPs	AjMbw1	Pyr.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00285678914796282	25	1
+Shungin WHR EU sex combined 26 SNPs	aR67Id	Ile.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	60.5822435775728	25	8.68767412142779e-05
+Shungin WHR EU sex combined 26 SNPs	aR67Id	Ile.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	61.0505662631511	24	4.53299481735338e-05
+Shungin WHR EU sex combined 26 SNPs	aR67Id	Ile.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	61.5692430866968	25	6.3329677826158e-05
+Shungin WHR EU sex combined 26 SNPs	aR67Id	Ile.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	60.265704809569	25	9.60919223405808e-05
+Shungin WHR EU sex combined 26 SNPs	aR67Id	Ile.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00378041996095432	25	1
+Shungin WHR EU sex combined 26 SNPs	aSQdQO	S-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	26.56104728199	25	0.378162875661103
+Shungin WHR EU sex combined 26 SNPs	aSQdQO	S-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	25.8465016079214	24	0.360999325175916
+Shungin WHR EU sex combined 26 SNPs	aSQdQO	S-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	26.6600696726673	25	0.37307725254643
+Shungin WHR EU sex combined 26 SNPs	aSQdQO	S-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	26.5160893680505	25	0.380483053490266
+Shungin WHR EU sex combined 26 SNPs	aSQdQO	S-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00165184461548746	25	1
+Shungin WHR EU sex combined 26 SNPs	b2m5Ej	SM.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	49.2506094921978	25	0.00263335767533301
+Shungin WHR EU sex combined 26 SNPs	b2m5Ej	SM.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	49.3117950325992	24	0.00173065093731742
+Shungin WHR EU sex combined 26 SNPs	b2m5Ej	SM.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	49.7283941131544	25	0.00230161483151952
+Shungin WHR EU sex combined 26 SNPs	b2m5Ej	SM.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	49.0782617962331	25	0.0027637968092441
+Shungin WHR EU sex combined 26 SNPs	b2m5Ej	SM.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0029411194565068	25	1
+Shungin WHR EU sex combined 26 SNPs	b2Nvey	XS-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	94.7110110911807	25	4.80288100876529e-10
+Shungin WHR EU sex combined 26 SNPs	b2Nvey	XS-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	94.3464914547539	24	2.71846146418177e-10
+Shungin WHR EU sex combined 26 SNPs	b2Nvey	XS-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	96.6713988499393	25	2.26723816972289e-10
+Shungin WHR EU sex combined 26 SNPs	b2Nvey	XS-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	93.8343658617743	25	6.7086753614846e-10
+Shungin WHR EU sex combined 26 SNPs	b2Nvey	XS-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00569851817010766	25	1
+Shungin WHR EU sex combined 26 SNPs	b5Zguc	XL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	73.9025479493824	25	9.97201371527381e-07
+Shungin WHR EU sex combined 26 SNPs	b5Zguc	XL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	73.1984460965908	24	7.09389262604824e-07
+Shungin WHR EU sex combined 26 SNPs	b5Zguc	XL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	74.5143141451371	25	8.04743860877208e-07
+Shungin WHR EU sex combined 26 SNPs	b5Zguc	XL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	73.5952087998627	25	1.11032146784819e-06
+Shungin WHR EU sex combined 26 SNPs	b5Zguc	XL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00494935566677399	25	1
+Shungin WHR EU sex combined 26 SNPs	BJEuVh	VLDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	154.453004236887	25	1.26752332792911e-20
+Shungin WHR EU sex combined 26 SNPs	BJEuVh	VLDL-D.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	163.906101383129	24	8.27901022426474e-23
+Shungin WHR EU sex combined 26 SNPs	BJEuVh	VLDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	164.656409755382	25	1.59323395207638e-22
+Shungin WHR EU sex combined 26 SNPs	BJEuVh	VLDL-D.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	151.019825134159	25	5.4684632079927e-20
+Shungin WHR EU sex combined 26 SNPs	BJEuVh	VLDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00973743160786336	25	1
+Shungin WHR EU sex combined 26 SNPs	bqHRPA	DAGbyTG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	58.2748046417577	25	0.000179971796073223
+Shungin WHR EU sex combined 26 SNPs	bqHRPA	DAGbyTG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	58.1399497495946	24	0.000116370873186067
+Shungin WHR EU sex combined 26 SNPs	bqHRPA	DAGbyTG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	58.7540967994135	25	0.000154902340183829
+Shungin WHR EU sex combined 26 SNPs	bqHRPA	DAGbyTG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	58.0563531785819	25	0.000192662826595083
+Shungin WHR EU sex combined 26 SNPs	bqHRPA	DAGbyTG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00345558213822484	25	1
+Shungin WHR EU sex combined 26 SNPs	BuZWJt	S-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	100.811123357637	25	4.57928159324536e-11
+Shungin WHR EU sex combined 26 SNPs	BuZWJt	S-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	105.650112441728	24	3.21576061005513e-12
+Shungin WHR EU sex combined 26 SNPs	BuZWJt	S-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	105.775416291624	25	6.56531838888897e-12
+Shungin WHR EU sex combined 26 SNPs	BuZWJt	S-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	98.8999148032536	25	9.60623958420775e-11
+Shungin WHR EU sex combined 26 SNPs	BuZWJt	S-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00611291664819998	25	1
+Shungin WHR EU sex combined 26 SNPs	c9PHCZ	HDL3-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	29.1578879748317	25	0.257369781126179
+Shungin WHR EU sex combined 26 SNPs	c9PHCZ	HDL3-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	28.8125092877968	24	0.227266971980387
+Shungin WHR EU sex combined 26 SNPs	c9PHCZ	HDL3-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	29.1578883928075	25	0.25736976393949
+Shungin WHR EU sex combined 26 SNPs	c9PHCZ	HDL3-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	29.1578874797629	25	0.257369801482849
+Shungin WHR EU sex combined 26 SNPs	c9PHCZ	HDL3-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00191662573028829	25	1
+Shungin WHR EU sex combined 26 SNPs	CbwUTe	XXL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	64.8991355200449	25	2.13857362794121e-05
+Shungin WHR EU sex combined 26 SNPs	CbwUTe	XXL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	64.9404527321195	24	1.2419468489328e-05
+Shungin WHR EU sex combined 26 SNPs	CbwUTe	XXL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	65.3099529419925	25	1.86685526622097e-05
+Shungin WHR EU sex combined 26 SNPs	CbwUTe	XXL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	64.691704504732	25	2.29009250046278e-05
+Shungin WHR EU sex combined 26 SNPs	CbwUTe	XXL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00429088974670603	25	1
+Shungin WHR EU sex combined 26 SNPs	cCX0ao	LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	82.0363956267738	25	5.45358851702806e-08
+Shungin WHR EU sex combined 26 SNPs	cCX0ao	LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	83.0286851295765	24	1.98866455745529e-08
+Shungin WHR EU sex combined 26 SNPs	cCX0ao	LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	83.3874538812823	25	3.32945485935473e-08
+Shungin WHR EU sex combined 26 SNPs	cCX0ao	LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	81.557778783491	25	6.49085613379314e-08
+Shungin WHR EU sex combined 26 SNPs	cCX0ao	LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00475687791076771	25	1
+Shungin WHR EU sex combined 26 SNPs	cdtRF4	S-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	59.4719019832634	25	0.000123578393465571
+Shungin WHR EU sex combined 26 SNPs	cdtRF4	S-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	57.8724670214267	24	0.000126751694217982
+Shungin WHR EU sex combined 26 SNPs	cdtRF4	S-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	59.6755272722746	25	0.000115875349994413
+Shungin WHR EU sex combined 26 SNPs	cdtRF4	S-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	59.3281405601228	25	0.000129313912632414
+Shungin WHR EU sex combined 26 SNPs	cdtRF4	S-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0036033136351638	25	1
+Shungin WHR EU sex combined 26 SNPs	CkPdAR	XL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	31.5876809123962	25	0.170291052418944
+Shungin WHR EU sex combined 26 SNPs	CkPdAR	XL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	31.4558829841497	24	0.141068366143013
+Shungin WHR EU sex combined 26 SNPs	CkPdAR	XL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	31.5880295123174	25	0.170280374304275
+Shungin WHR EU sex combined 26 SNPs	CkPdAR	XL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	31.5875411476149	25	0.1702953337564
+Shungin WHR EU sex combined 26 SNPs	CkPdAR	XL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00219146406890304	25	1
+Shungin WHR EU sex combined 26 SNPs	CMRoZ0	Lac.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	29.0995520981768	25	0.259775870812224
+Shungin WHR EU sex combined 26 SNPs	CMRoZ0	Lac.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.1545107268637	24	0.214370028221582
+Shungin WHR EU sex combined 26 SNPs	CMRoZ0	Lac.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	29.1579509885377	25	0.2573671900828
+Shungin WHR EU sex combined 26 SNPs	CMRoZ0	Lac.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	29.0723781977203	25	0.260901709538244
+Shungin WHR EU sex combined 26 SNPs	CMRoZ0	Lac.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00284023504554124	25	1
+Shungin WHR EU sex combined 26 SNPs	COe8LK	M-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	52.9662474991778	25	0.000903024250438849
+Shungin WHR EU sex combined 26 SNPs	COe8LK	M-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	52.6678864344109	24	0.000639739466329385
+Shungin WHR EU sex combined 26 SNPs	COe8LK	M-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	53.1315984828297	25	0.000860001412047864
+Shungin WHR EU sex combined 26 SNPs	COe8LK	M-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	52.87782374706	25	0.000926870889123671
+Shungin WHR EU sex combined 26 SNPs	COe8LK	M-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00300053136041403	25	1
+Shungin WHR EU sex combined 26 SNPs	cqjDYz	M-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	21.7625265836727	25	0.649417191522783
+Shungin WHR EU sex combined 26 SNPs	cqjDYz	M-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	21.6702113329209	24	0.598943360754845
+Shungin WHR EU sex combined 26 SNPs	cqjDYz	M-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	21.786527041128	25	0.64803918107086
+Shungin WHR EU sex combined 26 SNPs	cqjDYz	M-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	21.7517533308259	25	0.650035444136435
+Shungin WHR EU sex combined 26 SNPs	cqjDYz	M-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00134303295766481	25	1
+Shungin WHR EU sex combined 26 SNPs	cRcQlM	LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	18.8198785237195	25	0.805674169412572
+Shungin WHR EU sex combined 26 SNPs	cRcQlM	LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	18.5307488496246	24	0.776529641161706
+Shungin WHR EU sex combined 26 SNPs	cRcQlM	LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	18.8242401741156	25	0.805469022025943
+Shungin WHR EU sex combined 26 SNPs	cRcQlM	LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	18.8191432900462	25	0.805708740867044
+Shungin WHR EU sex combined 26 SNPs	cRcQlM	LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00120432373066339	25	1
+Shungin WHR EU sex combined 26 SNPs	Crr2Ru	FAw6.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	147.339239610933	25	2.60465391447012e-19
+Shungin WHR EU sex combined 26 SNPs	Crr2Ru	FAw6.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	145.40785739871	24	2.35019045463423e-19
+Shungin WHR EU sex combined 26 SNPs	Crr2Ru	FAw6.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	151.816560560707	25	3.89709442759798e-20
+Shungin WHR EU sex combined 26 SNPs	Crr2Ru	FAw6.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	145.73084436948	25	5.14095991797409e-19
+Shungin WHR EU sex combined 26 SNPs	Crr2Ru	FAw6.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00877700248229515	25	1
+Shungin WHR EU sex combined 26 SNPs	Cs6teW	M-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	100.576483856882	25	5.01640042837116e-11
+Shungin WHR EU sex combined 26 SNPs	Cs6teW	M-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	104.746738043836	24	4.6063468969953e-12
+Shungin WHR EU sex combined 26 SNPs	Cs6teW	M-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	104.773738778491	25	9.73499840007847e-12
+Shungin WHR EU sex combined 26 SNPs	Cs6teW	M-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	99.0817007406148	25	8.95414712129859e-11
+Shungin WHR EU sex combined 26 SNPs	Cs6teW	M-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00617195872651225	25	1
+Shungin WHR EU sex combined 26 SNPs	CvWPmv	S-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	29.9734963527943	25	0.225282933262155
+Shungin WHR EU sex combined 26 SNPs	CvWPmv	S-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	30.1445561199242	24	0.180006752980135
+Shungin WHR EU sex combined 26 SNPs	CvWPmv	S-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.3365553478909	25	0.211934267579265
+Shungin WHR EU sex combined 26 SNPs	CvWPmv	S-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	29.721011597723	25	0.234905441374266
+Shungin WHR EU sex combined 26 SNPs	CvWPmv	S-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00186523876081337	25	1
+Shungin WHR EU sex combined 26 SNPs	CZk18h	L-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	116.965218215725	25	7.5657494974645e-14
+Shungin WHR EU sex combined 26 SNPs	CZk18h	L-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	118.614727369427	24	1.71130289580567e-14
+Shungin WHR EU sex combined 26 SNPs	CZk18h	L-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	119.237412640455	25	3.01730520553286e-14
+Shungin WHR EU sex combined 26 SNPs	CZk18h	L-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	115.988130036358	25	1.12196617608689e-13
+Shungin WHR EU sex combined 26 SNPs	CZk18h	L-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00678275082025839	25	1
+Shungin WHR EU sex combined 26 SNPs	d2itEw	XL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	76.0675169518993	25	4.65418291721632e-07
+Shungin WHR EU sex combined 26 SNPs	d2itEw	XL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	74.910900815992	24	3.8516914297686e-07
+Shungin WHR EU sex combined 26 SNPs	d2itEw	XL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	76.8056012620857	25	3.58225223359306e-07
+Shungin WHR EU sex combined 26 SNPs	d2itEw	XL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	75.6753453263287	25	5.34655247917987e-07
+Shungin WHR EU sex combined 26 SNPs	d2itEw	XL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00518983366965979	25	1
+Shungin WHR EU sex combined 26 SNPs	DFGzFL	XS-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	35.6097442015388	25	0.0777335171069316
+Shungin WHR EU sex combined 26 SNPs	DFGzFL	XS-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	35.6699035952402	24	0.0590666505671879
+Shungin WHR EU sex combined 26 SNPs	DFGzFL	XS-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	36.1078441514186	25	0.0699793692866802
+Shungin WHR EU sex combined 26 SNPs	DFGzFL	XS-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	35.4296079829833	25	0.0807114097298888
+Shungin WHR EU sex combined 26 SNPs	DFGzFL	XS-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00223767185450622	25	1
+Shungin WHR EU sex combined 26 SNPs	DjAuS0	MUFA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	104.429272156337	25	1.11447116215117e-11
+Shungin WHR EU sex combined 26 SNPs	DjAuS0	MUFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	105.877906512294	24	2.93681008703399e-12
+Shungin WHR EU sex combined 26 SNPs	DjAuS0	MUFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	106.668892703283	25	4.61632620978426e-12
+Shungin WHR EU sex combined 26 SNPs	DjAuS0	MUFA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	103.684903570668	25	1.4921418165105e-11
+Shungin WHR EU sex combined 26 SNPs	DjAuS0	MUFA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00646398227994951	25	1
+Shungin WHR EU sex combined 26 SNPs	dPCnT7	L-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	105.259625436552	25	8.04272449586507e-12
+Shungin WHR EU sex combined 26 SNPs	dPCnT7	L-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	104.23354324924	24	5.64767305175614e-12
+Shungin WHR EU sex combined 26 SNPs	dPCnT7	L-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	106.841543780061	25	4.31221897447545e-12
+Shungin WHR EU sex combined 26 SNPs	dPCnT7	L-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	104.5786118241	25	1.05102278817014e-11
+Shungin WHR EU sex combined 26 SNPs	dPCnT7	L-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00688737323205633	25	1
+Shungin WHR EU sex combined 26 SNPs	dprlex	S-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	21.1088681217942	25	0.686523612475063
+Shungin WHR EU sex combined 26 SNPs	dprlex	S-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	19.7217139354112	24	0.712486584796163
+Shungin WHR EU sex combined 26 SNPs	dprlex	S-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	21.1269975736567	25	0.685507185600235
+Shungin WHR EU sex combined 26 SNPs	dprlex	S-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	21.1034720443606	25	0.68682598432269
+Shungin WHR EU sex combined 26 SNPs	dprlex	S-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00137949266823427	25	1
+Shungin WHR EU sex combined 26 SNPs	DRB5um	L-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	105.259625436552	25	8.04272449586507e-12
+Shungin WHR EU sex combined 26 SNPs	DRB5um	L-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	104.23354324924	24	5.64767305175614e-12
+Shungin WHR EU sex combined 26 SNPs	DRB5um	L-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	106.841543780061	25	4.31221897447545e-12
+Shungin WHR EU sex combined 26 SNPs	DRB5um	L-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	104.5786118241	25	1.05102278817014e-11
+Shungin WHR EU sex combined 26 SNPs	DRB5um	L-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00688737323205633	25	1
+Shungin WHR EU sex combined 26 SNPs	dZb9WX	L-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	72.6540459194481	25	1.5411791120527e-06
+Shungin WHR EU sex combined 26 SNPs	dZb9WX	L-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	69.5991195939354	24	2.51416268156834e-06
+Shungin WHR EU sex combined 26 SNPs	dZb9WX	L-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	73.0794173772197	25	1.32918541124554e-06
+Shungin WHR EU sex combined 26 SNPs	dZb9WX	L-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	72.4185916146937	25	1.67247453924123e-06
+Shungin WHR EU sex combined 26 SNPs	dZb9WX	L-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00479071226807935	25	1
+Shungin WHR EU sex combined 26 SNPs	dzVX3a	S-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	21.1088681217942	25	0.686523612475063
+Shungin WHR EU sex combined 26 SNPs	dzVX3a	S-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	19.7217139354112	24	0.712486584796163
+Shungin WHR EU sex combined 26 SNPs	dzVX3a	S-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	21.1269975736567	25	0.685507185600235
+Shungin WHR EU sex combined 26 SNPs	dzVX3a	S-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	21.1034720443606	25	0.68682598432269
+Shungin WHR EU sex combined 26 SNPs	dzVX3a	S-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00137949266823427	25	1
+Shungin WHR EU sex combined 26 SNPs	eCevEI	L-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	125.900966793239	25	1.99080115391675e-15
+Shungin WHR EU sex combined 26 SNPs	eCevEI	L-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	129.457488661817	24	1.94484271886018e-16
+Shungin WHR EU sex combined 26 SNPs	eCevEI	L-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	129.581208153511	25	4.3766662697618e-16
+Shungin WHR EU sex combined 26 SNPs	eCevEI	L-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	124.715562880338	25	3.23646508910642e-15
+Shungin WHR EU sex combined 26 SNPs	eCevEI	L-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.007699158456823	25	1
+Shungin WHR EU sex combined 26 SNPs	ef51P0	L-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	123.917742744358	25	4.48608376936453e-15
+Shungin WHR EU sex combined 26 SNPs	ef51P0	L-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	129.628559304396	24	1.81106160458358e-16
+Shungin WHR EU sex combined 26 SNPs	ef51P0	L-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	129.66304197476	25	4.23126178330233e-16
+Shungin WHR EU sex combined 26 SNPs	ef51P0	L-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	121.796548827255	25	1.06633672764244e-14
+Shungin WHR EU sex combined 26 SNPs	ef51P0	L-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00750109364223797	25	1
+Shungin WHR EU sex combined 26 SNPs	EI2Oeq	L-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	42.656809354204	25	0.0152596944326324
+Shungin WHR EU sex combined 26 SNPs	EI2Oeq	L-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	42.9432636805204	24	0.0100964601462439
+Shungin WHR EU sex combined 26 SNPs	EI2Oeq	L-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	43.1621972990421	25	0.0134339882731213
+Shungin WHR EU sex combined 26 SNPs	EI2Oeq	L-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	42.389687552584	25	0.0163142473627917
+Shungin WHR EU sex combined 26 SNPs	EI2Oeq	L-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00315623183376085	25	1
+Shungin WHR EU sex combined 26 SNPs	EXplhK	M-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	79.9214540596582	25	1.17386089736074e-07
+Shungin WHR EU sex combined 26 SNPs	EXplhK	M-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	77.4442976003762	24	1.54550982622047e-07
+Shungin WHR EU sex combined 26 SNPs	EXplhK	M-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	80.5378877471753	25	9.39518614504954e-08
+Shungin WHR EU sex combined 26 SNPs	EXplhK	M-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	79.6480346030946	25	1.29546293214312e-07
+Shungin WHR EU sex combined 26 SNPs	EXplhK	M-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0047902704602802	25	1
+Shungin WHR EU sex combined 26 SNPs	fkolGR	L-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	70.0197338672995	25	3.8220456785397e-06
+Shungin WHR EU sex combined 26 SNPs	fkolGR	L-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	66.8945422255774	24	6.39252388063591e-06
+Shungin WHR EU sex combined 26 SNPs	fkolGR	L-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	70.4216787101277	25	3.33056268210823e-06
+Shungin WHR EU sex combined 26 SNPs	fkolGR	L-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	69.8844230865724	25	4.00300317103947e-06
+Shungin WHR EU sex combined 26 SNPs	fkolGR	L-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00454653872643624	25	1
+Shungin WHR EU sex combined 26 SNPs	fKYgfW	XL-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	103.549653581394	25	1.57330371860447e-11
+Shungin WHR EU sex combined 26 SNPs	fKYgfW	XL-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	106.716366070193	24	2.10205387094552e-12
+Shungin WHR EU sex combined 26 SNPs	fKYgfW	XL-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	106.793935045873	25	4.3940307311296e-12
+Shungin WHR EU sex combined 26 SNPs	fKYgfW	XL-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	102.607389519894	25	2.27426722092605e-11
+Shungin WHR EU sex combined 26 SNPs	fKYgfW	XL-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00629232802406597	25	1
+Shungin WHR EU sex combined 26 SNPs	FlOFLg	S-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	40.4781400461836	25	0.0260291970012349
+Shungin WHR EU sex combined 26 SNPs	FlOFLg	S-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	40.3296301671529	24	0.0197071548531702
+Shungin WHR EU sex combined 26 SNPs	FlOFLg	S-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	41.0100469695718	25	0.022901531589031
+Shungin WHR EU sex combined 26 SNPs	FlOFLg	S-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	40.3076470548814	25	0.0271104572104319
+Shungin WHR EU sex combined 26 SNPs	FlOFLg	S-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00251015344673437	25	1
+Shungin WHR EU sex combined 26 SNPs	flYu3v	S-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	25.0228509618797	25	0.461093587063473
+Shungin WHR EU sex combined 26 SNPs	flYu3v	S-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	24.9692101481733	24	0.40743544277061
+Shungin WHR EU sex combined 26 SNPs	flYu3v	S-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	25.0237356980385	25	0.461044049191391
+Shungin WHR EU sex combined 26 SNPs	flYu3v	S-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	25.0226822691411	25	0.461103032655983
+Shungin WHR EU sex combined 26 SNPs	flYu3v	S-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00164976501364585	25	1
+Shungin WHR EU sex combined 26 SNPs	fPiwXa	Crea.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	38.8155519497939	25	0.0384376210881372
+Shungin WHR EU sex combined 26 SNPs	fPiwXa	Crea.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	28.5462457431533	24	0.237676127814042
+Shungin WHR EU sex combined 26 SNPs	fPiwXa	Crea.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	38.8155955232057	25	0.0384372364987955
+Shungin WHR EU sex combined 26 SNPs	fPiwXa	Crea.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	38.8155302996664	25	0.0384378121786048
+Shungin WHR EU sex combined 26 SNPs	fPiwXa	Crea.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0029237965448729	25	1
+Shungin WHR EU sex combined 26 SNPs	g1yRa3	XS-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	70.2777613052714	25	3.49895640309456e-06
+Shungin WHR EU sex combined 26 SNPs	g1yRa3	XS-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	71.7398191626047	24	1.18825837725781e-06
+Shungin WHR EU sex combined 26 SNPs	g1yRa3	XS-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	72.0363584361381	25	1.9094000896954e-06
+Shungin WHR EU sex combined 26 SNPs	g1yRa3	XS-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	69.6865819267641	25	4.28281524847804e-06
+Shungin WHR EU sex combined 26 SNPs	g1yRa3	XS-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00444971078859707	25	1
+Shungin WHR EU sex combined 26 SNPs	G2MVWM	L-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	24.4915145568157	25	0.49113992809787
+Shungin WHR EU sex combined 26 SNPs	G2MVWM	L-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	24.388409358514	24	0.439575757250403
+Shungin WHR EU sex combined 26 SNPs	G2MVWM	L-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	24.524342541516	25	0.489267771931764
+Shungin WHR EU sex combined 26 SNPs	G2MVWM	L-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	24.4786289245114	25	0.491875300104925
+Shungin WHR EU sex combined 26 SNPs	G2MVWM	L-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00155971549923319	25	1
+Shungin WHR EU sex combined 26 SNPs	g2ULeA	M-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.6233331571765	25	0.32548210626955
+Shungin WHR EU sex combined 26 SNPs	g2ULeA	M-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26.3522231230879	24	0.33553841608908
+Shungin WHR EU sex combined 26 SNPs	g2ULeA	M-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.7017123154306	25	0.321766616699941
+Shungin WHR EU sex combined 26 SNPs	g2ULeA	M-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	27.5877895495874	25	0.327175086346519
+Shungin WHR EU sex combined 26 SNPs	g2ULeA	M-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00185997413553321	25	1
+Shungin WHR EU sex combined 26 SNPs	g4qDn3	Remnant-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	33.5812233018148	25	0.117166538001703
+Shungin WHR EU sex combined 26 SNPs	g4qDn3	Remnant-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	33.716555140629	24	0.0898340256332096
+Shungin WHR EU sex combined 26 SNPs	g4qDn3	Remnant-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	34.0618069076336	25	0.106593332413526
+Shungin WHR EU sex combined 26 SNPs	g4qDn3	Remnant-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	33.317579097139	25	0.123317713382981
+Shungin WHR EU sex combined 26 SNPs	g4qDn3	Remnant-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0020574442243341	25	1
+Shungin WHR EU sex combined 26 SNPs	gcTfob	PC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	28.5414211233198	25	0.283538405181798
+Shungin WHR EU sex combined 26 SNPs	gcTfob	PC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	28.1126926336265	24	0.255315340528884
+Shungin WHR EU sex combined 26 SNPs	gcTfob	PC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	28.5541893032405	25	0.282979884208717
+Shungin WHR EU sex combined 26 SNPs	gcTfob	PC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	28.5415807747025	25	0.283531417242845
+Shungin WHR EU sex combined 26 SNPs	gcTfob	PC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00189396286185357	25	1
+Shungin WHR EU sex combined 26 SNPs	h7NyGV	ApoBbyApoA1.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	76.4650151553958	25	4.0426867236291e-07
+Shungin WHR EU sex combined 26 SNPs	h7NyGV	ApoBbyApoA1.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	78.0154677359837	24	1.25601818788612e-07
+Shungin WHR EU sex combined 26 SNPs	h7NyGV	ApoBbyApoA1.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	78.579021026046	25	1.90225991220989e-07
+Shungin WHR EU sex combined 26 SNPs	h7NyGV	ApoBbyApoA1.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	75.6444011508446	25	5.40531549405964e-07
+Shungin WHR EU sex combined 26 SNPs	h7NyGV	ApoBbyApoA1.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00458501963341334	25	1
+Shungin WHR EU sex combined 26 SNPs	hBJHrK	S-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.9578617222692	25	0.190417891235493
+Shungin WHR EU sex combined 26 SNPs	hBJHrK	S-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.5847545273587	24	0.198897619797592
+Shungin WHR EU sex combined 26 SNPs	hBJHrK	S-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	31.0533321696314	25	0.187258871582545
+Shungin WHR EU sex combined 26 SNPs	hBJHrK	S-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.939830267895	25	0.191018908381448
+Shungin WHR EU sex combined 26 SNPs	hBJHrK	S-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00193595446685797	25	1
+Shungin WHR EU sex combined 26 SNPs	HCGzK3	IDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	33.7847920210883	25	0.112588531923538
+Shungin WHR EU sex combined 26 SNPs	HCGzK3	IDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	32.4733181126879	24	0.115683117031061
+Shungin WHR EU sex combined 26 SNPs	HCGzK3	IDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	34.5157517247875	25	0.0973356264459389
+Shungin WHR EU sex combined 26 SNPs	HCGzK3	IDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	33.4988772445068	25	0.119060621720138
+Shungin WHR EU sex combined 26 SNPs	HCGzK3	IDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00238366677448537	25	1
+Shungin WHR EU sex combined 26 SNPs	hLfE0T	S-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	87.8054496430714	25	6.50491180083347e-09
+Shungin WHR EU sex combined 26 SNPs	hLfE0T	S-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	88.8230886775282	24	2.25553204664883e-09
+Shungin WHR EU sex combined 26 SNPs	hLfE0T	S-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	89.2840676616276	25	3.74288611147896e-09
+Shungin WHR EU sex combined 26 SNPs	hLfE0T	S-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	87.3108924970567	25	7.82046697695981e-09
+Shungin WHR EU sex combined 26 SNPs	hLfE0T	S-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00524331905189667	25	1
+Shungin WHR EU sex combined 26 SNPs	HRj3yI	DAG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	58.2748046417577	25	0.000179971796073223
+Shungin WHR EU sex combined 26 SNPs	HRj3yI	DAG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	58.1399497495946	24	0.000116370873186067
+Shungin WHR EU sex combined 26 SNPs	HRj3yI	DAG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	58.7540967994135	25	0.000154902340183829
+Shungin WHR EU sex combined 26 SNPs	HRj3yI	DAG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	58.0563531785819	25	0.000192662826595083
+Shungin WHR EU sex combined 26 SNPs	HRj3yI	DAG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00345558213822484	25	1
+Shungin WHR EU sex combined 26 SNPs	HrN9g3	XL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	76.0675169518993	25	4.65418291721632e-07
+Shungin WHR EU sex combined 26 SNPs	HrN9g3	XL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	74.910900815992	24	3.8516914297686e-07
+Shungin WHR EU sex combined 26 SNPs	HrN9g3	XL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	76.8056012620857	25	3.58225223359306e-07
+Shungin WHR EU sex combined 26 SNPs	HrN9g3	XL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	75.6753453263287	25	5.34655247917987e-07
+Shungin WHR EU sex combined 26 SNPs	HrN9g3	XL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00518983366965979	25	1
+Shungin WHR EU sex combined 26 SNPs	hS8q3T	L-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	87.7573059053319	25	6.62269688313657e-09
+Shungin WHR EU sex combined 26 SNPs	hS8q3T	L-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	87.4971505974676	24	3.72682569265745e-09
+Shungin WHR EU sex combined 26 SNPs	hS8q3T	L-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	88.8087892666518	25	4.47202293365686e-09
+Shungin WHR EU sex combined 26 SNPs	hS8q3T	L-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	87.3579313551196	25	7.68477037826716e-09
+Shungin WHR EU sex combined 26 SNPs	hS8q3T	L-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00511897882462453	25	1
+Shungin WHR EU sex combined 26 SNPs	iAm2LK	S-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	111.518522232677	25	6.73573664925914e-13
+Shungin WHR EU sex combined 26 SNPs	iAm2LK	S-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	116.818345999994	24	3.56413479922378e-14
+Shungin WHR EU sex combined 26 SNPs	iAm2LK	S-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	116.866447779716	25	7.87346496212203e-14
+Shungin WHR EU sex combined 26 SNPs	iAm2LK	S-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	110.163447250807	25	1.1558302716659e-12
+Shungin WHR EU sex combined 26 SNPs	iAm2LK	S-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00684899525067375	25	1
+Shungin WHR EU sex combined 26 SNPs	Ib32uV	IDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	145.814740812231	25	4.96198708905148e-19
+Shungin WHR EU sex combined 26 SNPs	Ib32uV	IDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	152.180561785712	24	1.30197110142394e-20
+Shungin WHR EU sex combined 26 SNPs	Ib32uV	IDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	152.940473263322	25	2.4153176005502e-20
+Shungin WHR EU sex combined 26 SNPs	Ib32uV	IDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	143.494674234477	25	1.32012576812574e-18
+Shungin WHR EU sex combined 26 SNPs	Ib32uV	IDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00921701891177943	25	1
+Shungin WHR EU sex combined 26 SNPs	ICMs7B	XL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	31.5876809123962	25	0.170291052418944
+Shungin WHR EU sex combined 26 SNPs	ICMs7B	XL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	31.4558829841497	24	0.141068366143013
+Shungin WHR EU sex combined 26 SNPs	ICMs7B	XL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	31.5880295123174	25	0.170280374304275
+Shungin WHR EU sex combined 26 SNPs	ICMs7B	XL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	31.5875411476149	25	0.1702953337564
+Shungin WHR EU sex combined 26 SNPs	ICMs7B	XL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00219146406890304	25	1
+Shungin WHR EU sex combined 26 SNPs	in5Pfc	XS-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	70.2777613052714	25	3.49895640309456e-06
+Shungin WHR EU sex combined 26 SNPs	in5Pfc	XS-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	71.7398191626047	24	1.18825837725781e-06
+Shungin WHR EU sex combined 26 SNPs	in5Pfc	XS-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	72.0363584361381	25	1.9094000896954e-06
+Shungin WHR EU sex combined 26 SNPs	in5Pfc	XS-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	69.6865819267641	25	4.28281524847804e-06
+Shungin WHR EU sex combined 26 SNPs	in5Pfc	XS-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00444971078859707	25	1
+Shungin WHR EU sex combined 26 SNPs	IU8QbP	IDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	102.853294687441	25	2.06593443057801e-11
+Shungin WHR EU sex combined 26 SNPs	IU8QbP	IDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	104.002335575753	24	6.19029074411852e-12
+Shungin WHR EU sex combined 26 SNPs	IU8QbP	IDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	104.56167664215	25	1.0580335027032e-11
+Shungin WHR EU sex combined 26 SNPs	IU8QbP	IDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	102.283983232277	25	2.58033058234051e-11
+Shungin WHR EU sex combined 26 SNPs	IU8QbP	IDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00608551367699557	25	1
+Shungin WHR EU sex combined 26 SNPs	IXNjyR	S-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	115.866240847217	25	1.17843020184334e-13
+Shungin WHR EU sex combined 26 SNPs	IXNjyR	S-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	118.900348808492	24	1.52253842718758e-14
+Shungin WHR EU sex combined 26 SNPs	IXNjyR	S-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	119.475957640329	25	2.73907690815686e-14
+Shungin WHR EU sex combined 26 SNPs	IXNjyR	S-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	114.959411920957	25	1.6973991680991e-13
+Shungin WHR EU sex combined 26 SNPs	IXNjyR	S-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00708433068873581	25	1
+Shungin WHR EU sex combined 26 SNPs	J1cy19	M-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	86.4978455657221	25	1.05781798947288e-08
+Shungin WHR EU sex combined 26 SNPs	J1cy19	M-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	89.2142662517443	24	1.94408871152602e-09
+Shungin WHR EU sex combined 26 SNPs	J1cy19	M-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	89.354073512917	25	3.64594315776937e-09
+Shungin WHR EU sex combined 26 SNPs	J1cy19	M-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	85.3071230689056	25	1.6435294863448e-08
+Shungin WHR EU sex combined 26 SNPs	J1cy19	M-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00530779193465258	25	1
+Shungin WHR EU sex combined 26 SNPs	JfvcBi	HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	67.8564592266984	25	7.96899636617214e-06
+Shungin WHR EU sex combined 26 SNPs	JfvcBi	HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	68.8159702843117	24	3.29949595271409e-06
+Shungin WHR EU sex combined 26 SNPs	JfvcBi	HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	69.419152060924	25	4.69175828830525e-06
+Shungin WHR EU sex combined 26 SNPs	JfvcBi	HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	67.0802865521916	25	1.03463678250444e-05
+Shungin WHR EU sex combined 26 SNPs	JfvcBi	HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0042181007010953	25	1
+Shungin WHR EU sex combined 26 SNPs	jIdM2C	IDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	22.0348975566271	25	0.633728039371575
+Shungin WHR EU sex combined 26 SNPs	jIdM2C	IDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	21.8249537406983	24	0.589713886956639
+Shungin WHR EU sex combined 26 SNPs	jIdM2C	IDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	22.0745511392549	25	0.631435433875534
+Shungin WHR EU sex combined 26 SNPs	jIdM2C	IDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	22.0135185712552	25	0.634963263181605
+Shungin WHR EU sex combined 26 SNPs	jIdM2C	IDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00141689809645323	25	1
+Shungin WHR EU sex combined 26 SNPs	jlLU1E	XL-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	97.5558332286271	25	1.61354144227558e-10
+Shungin WHR EU sex combined 26 SNPs	jlLU1E	XL-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	100.212690391081	24	2.76357563694012e-11
+Shungin WHR EU sex combined 26 SNPs	jlLU1E	XL-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	100.363800224144	25	5.44828496074705e-11
+Shungin WHR EU sex combined 26 SNPs	jlLU1E	XL-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	96.8994123818166	25	2.07707464258007e-10
+Shungin WHR EU sex combined 26 SNPs	jlLU1E	XL-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00606953024776821	25	1
+Shungin WHR EU sex combined 26 SNPs	k2X2oA	M-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	58.9691364349476	25	0.000144788241605579
+Shungin WHR EU sex combined 26 SNPs	k2X2oA	M-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	59.4775676821486	24	7.56720767706436e-05
+Shungin WHR EU sex combined 26 SNPs	k2X2oA	M-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	59.4964825255746	25	0.000122622777116019
+Shungin WHR EU sex combined 26 SNPs	k2X2oA	M-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	58.7693722901828	25	0.000154161821012479
+Shungin WHR EU sex combined 26 SNPs	k2X2oA	M-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00383085948146734	25	1
+Shungin WHR EU sex combined 26 SNPs	K5LehO	Alb.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	39.6158634978381	25	0.0319246843850797
+Shungin WHR EU sex combined 26 SNPs	K5LehO	Alb.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	39.5955242467064	24	0.02362541486299
+Shungin WHR EU sex combined 26 SNPs	K5LehO	Alb.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	39.6160825450118	25	0.0319230458773826
+Shungin WHR EU sex combined 26 SNPs	K5LehO	Alb.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	39.6158363768582	25	0.0319248872595597
+Shungin WHR EU sex combined 26 SNPs	K5LehO	Alb.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00274105957426203	25	1
+Shungin WHR EU sex combined 26 SNPs	KEgdLF	S-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	22.7593394756105	25	0.59161407478887
+Shungin WHR EU sex combined 26 SNPs	KEgdLF	S-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	22.8305699818731	24	0.529817707750154
+Shungin WHR EU sex combined 26 SNPs	KEgdLF	S-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	22.8536068576669	25	0.586111512376506
+Shungin WHR EU sex combined 26 SNPs	KEgdLF	S-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	22.7290029077336	25	0.59338434552544
+Shungin WHR EU sex combined 26 SNPs	KEgdLF	S-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00145962984476434	25	1
+Shungin WHR EU sex combined 26 SNPs	kiCzCm	DHAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	45.7708377996019	25	0.00682191065513515
+Shungin WHR EU sex combined 26 SNPs	kiCzCm	DHAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	43.2734070651787	24	0.00925581798774048
+Shungin WHR EU sex combined 26 SNPs	kiCzCm	DHAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	45.7989498760422	25	0.00677109036992472
+Shungin WHR EU sex combined 26 SNPs	kiCzCm	DHAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	45.7507096022676	25	0.00685851684048479
+Shungin WHR EU sex combined 26 SNPs	kiCzCm	DHAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00349730748921939	25	1
+Shungin WHR EU sex combined 26 SNPs	kiYOiT	His.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	18.4286034255856	25	0.823664165078492
+Shungin WHR EU sex combined 26 SNPs	kiYOiT	His.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	18.3646850965306	24	0.784967761868686
+Shungin WHR EU sex combined 26 SNPs	kiYOiT	His.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	18.4385066819864	25	0.823219136059068
+Shungin WHR EU sex combined 26 SNPs	kiYOiT	His.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	18.4286021700737	25	0.823664221463625
+Shungin WHR EU sex combined 26 SNPs	kiYOiT	His.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00117218611895055	25	1
+Shungin WHR EU sex combined 26 SNPs	KsImFA	HDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	177.664609812013	25	5.65407282121469e-25
+Shungin WHR EU sex combined 26 SNPs	KsImFA	HDL-D.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	183.551186527343	24	1.53442238080029e-26
+Shungin WHR EU sex combined 26 SNPs	KsImFA	HDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	183.557791327998	25	4.30168963555394e-26
+Shungin WHR EU sex combined 26 SNPs	KsImFA	HDL-D.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	175.962940629909	25	1.18690133802308e-24
+Shungin WHR EU sex combined 26 SNPs	KsImFA	HDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0104720449047494	25	1
+Shungin WHR EU sex combined 26 SNPs	kVbHZr	LDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	39.0742850155258	25	0.0362133003448211
+Shungin WHR EU sex combined 26 SNPs	kVbHZr	LDL-D.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	39.0885919042274	24	0.0267302289353391
+Shungin WHR EU sex combined 26 SNPs	kVbHZr	LDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	39.08875373443	25	0.0360923634068759
+Shungin WHR EU sex combined 26 SNPs	kVbHZr	LDL-D.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	39.0747094939196	25	0.0362097472097722
+Shungin WHR EU sex combined 26 SNPs	kVbHZr	LDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00237797882098177	25	1
+Shungin WHR EU sex combined 26 SNPs	l0C3at	Gly.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	57.007402555976	25	0.000266698065558016
+Shungin WHR EU sex combined 26 SNPs	l0C3at	Gly.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	57.6308873859157	24	0.000136896309874538
+Shungin WHR EU sex combined 26 SNPs	l0C3at	Gly.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	57.6371756753664	25	0.000219486656974895
+Shungin WHR EU sex combined 26 SNPs	l0C3at	Gly.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	56.7498256138548	25	0.000288716678052807
+Shungin WHR EU sex combined 26 SNPs	l0C3at	Gly.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00337173509897611	25	1
+Shungin WHR EU sex combined 26 SNPs	L3PJbn	Phe.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	32.9645838125288	25	0.131955883564595
+Shungin WHR EU sex combined 26 SNPs	L3PJbn	Phe.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	32.3314271131976	24	0.118984560534208
+Shungin WHR EU sex combined 26 SNPs	L3PJbn	Phe.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	32.9686230105962	25	0.131854388989927
+Shungin WHR EU sex combined 26 SNPs	L3PJbn	Phe.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	32.9643523150277	25	0.131961702374301
+Shungin WHR EU sex combined 26 SNPs	L3PJbn	Phe.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00231961494861664	25	1
+Shungin WHR EU sex combined 26 SNPs	leZSEv	XL-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	103.549653581394	25	1.57330371860447e-11
+Shungin WHR EU sex combined 26 SNPs	leZSEv	XL-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	106.716366070193	24	2.10205387094552e-12
+Shungin WHR EU sex combined 26 SNPs	leZSEv	XL-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	106.793935045873	25	4.3940307311296e-12
+Shungin WHR EU sex combined 26 SNPs	leZSEv	XL-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	102.607389519894	25	2.27426722092605e-11
+Shungin WHR EU sex combined 26 SNPs	leZSEv	XL-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00629232802406597	25	1
+Shungin WHR EU sex combined 26 SNPs	LH2wLz	L-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	20.1192836381226	25	0.740540428254597
+Shungin WHR EU sex combined 26 SNPs	LH2wLz	L-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	19.3016520349021	24	0.735716748804868
+Shungin WHR EU sex combined 26 SNPs	LH2wLz	L-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	20.1222189858822	25	0.740385081045719
+Shungin WHR EU sex combined 26 SNPs	LH2wLz	L-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	20.1186880387048	25	0.74057194513933
+Shungin WHR EU sex combined 26 SNPs	LH2wLz	L-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00123783175705473	25	1
+Shungin WHR EU sex combined 26 SNPs	lHfQnC	GlycA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	57.007402555976	25	0.000266698065558016
+Shungin WHR EU sex combined 26 SNPs	lHfQnC	GlycA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	57.6308873859157	24	0.000136896309874538
+Shungin WHR EU sex combined 26 SNPs	lHfQnC	GlycA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	57.6371756753664	25	0.000219486656974895
+Shungin WHR EU sex combined 26 SNPs	lHfQnC	GlycA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	56.7498256138548	25	0.000288716678052807
+Shungin WHR EU sex combined 26 SNPs	lHfQnC	GlycA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00337173509897611	25	1
+Shungin WHR EU sex combined 26 SNPs	MdyjCs	S-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.9578617222692	25	0.190417891235493
+Shungin WHR EU sex combined 26 SNPs	MdyjCs	S-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.5847545273587	24	0.198897619797592
+Shungin WHR EU sex combined 26 SNPs	MdyjCs	S-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	31.0533321696314	25	0.187258871582545
+Shungin WHR EU sex combined 26 SNPs	MdyjCs	S-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.939830267895	25	0.191018908381448
+Shungin WHR EU sex combined 26 SNPs	MdyjCs	S-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00193595446685797	25	1
+Shungin WHR EU sex combined 26 SNPs	mfOW1Y	FAw3.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	42.7877883648576	25	0.0147658202425894
+Shungin WHR EU sex combined 26 SNPs	mfOW1Y	FAw3.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	40.4389182178648	24	0.0191774083044291
+Shungin WHR EU sex combined 26 SNPs	mfOW1Y	FAw3.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	42.7904320391794	25	0.0147560049221882
+Shungin WHR EU sex combined 26 SNPs	mfOW1Y	FAw3.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	42.7877233912493	25	0.014766061549364
+Shungin WHR EU sex combined 26 SNPs	mfOW1Y	FAw3.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00317407130456938	25	1
+Shungin WHR EU sex combined 26 SNPs	mI36gC	XL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	92.1975513244764	25	1.24887486716325e-09
+Shungin WHR EU sex combined 26 SNPs	mI36gC	XL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	90.3232416489817	24	1.27438646429392e-09
+Shungin WHR EU sex combined 26 SNPs	mI36gC	XL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	93.3149235024145	25	8.17412059578509e-10
+Shungin WHR EU sex combined 26 SNPs	mI36gC	XL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	91.7811678076501	25	1.46197236571993e-09
+Shungin WHR EU sex combined 26 SNPs	mI36gC	XL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00615395984584042	25	1
+Shungin WHR EU sex combined 26 SNPs	MKedW7	M-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	93.7085378528823	25	7.03776890847078e-10
+Shungin WHR EU sex combined 26 SNPs	MKedW7	M-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	93.8121211731229	24	3.34140917165593e-10
+Shungin WHR EU sex combined 26 SNPs	MKedW7	M-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	94.8276031168903	25	4.59376361583932e-10
+Shungin WHR EU sex combined 26 SNPs	MKedW7	M-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	93.4613498854272	25	7.73157942615371e-10
+Shungin WHR EU sex combined 26 SNPs	MKedW7	M-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00561661735053306	25	1
+Shungin WHR EU sex combined 26 SNPs	mkycip	M-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	82.8994229208326	25	3.98042143399382e-08
+Shungin WHR EU sex combined 26 SNPs	mkycip	M-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	84.5635668605167	24	1.12242460063027e-08
+Shungin WHR EU sex combined 26 SNPs	mkycip	M-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	84.7238888730505	25	2.03789516470899e-08
+Shungin WHR EU sex combined 26 SNPs	mkycip	M-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	82.0774902099183	25	5.37257129153289e-08
+Shungin WHR EU sex combined 26 SNPs	mkycip	M-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00486951420977718	25	1
+Shungin WHR EU sex combined 26 SNPs	MLJhbl	XXL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	48.5606511611554	25	0.00319336151110887
+Shungin WHR EU sex combined 26 SNPs	MLJhbl	XXL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	49.2747360921917	24	0.00174936404861657
+Shungin WHR EU sex combined 26 SNPs	MLJhbl	XXL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	49.3060394298529	25	0.00259266273481229
+Shungin WHR EU sex combined 26 SNPs	MLJhbl	XXL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	48.1833084597089	25	0.00354556144066426
+Shungin WHR EU sex combined 26 SNPs	MLJhbl	XXL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0033290408248601	25	1
+Shungin WHR EU sex combined 26 SNPs	mMl6Zf	S-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	25.0228509618797	25	0.461093587063473
+Shungin WHR EU sex combined 26 SNPs	mMl6Zf	S-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	24.9692101481733	24	0.40743544277061
+Shungin WHR EU sex combined 26 SNPs	mMl6Zf	S-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	25.0237356980385	25	0.461044049191391
+Shungin WHR EU sex combined 26 SNPs	mMl6Zf	S-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	25.0226822691411	25	0.461103032655983
+Shungin WHR EU sex combined 26 SNPs	mMl6Zf	S-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00164976501364585	25	1
+Shungin WHR EU sex combined 26 SNPs	mocWoT	XL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	109.435879361277	25	1.54351513909478e-12
+Shungin WHR EU sex combined 26 SNPs	mocWoT	XL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	112.848890555486	24	1.78707799050889e-13
+Shungin WHR EU sex combined 26 SNPs	mocWoT	XL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	114.112121608438	25	2.38556275043322e-13
+Shungin WHR EU sex combined 26 SNPs	mocWoT	XL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	107.860764842426	25	2.88227595986903e-12
+Shungin WHR EU sex combined 26 SNPs	mocWoT	XL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00657791485668927	25	1
+Shungin WHR EU sex combined 26 SNPs	mP595r	L-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.7272665368866	25	0.320560558955065
+Shungin WHR EU sex combined 26 SNPs	mP595r	L-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	27.639828937403	24	0.275523862914108
+Shungin WHR EU sex combined 26 SNPs	mP595r	L-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.7384150027832	25	0.32003521751327
+Shungin WHR EU sex combined 26 SNPs	mP595r	L-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	27.7270218505653	25	0.320572094742879
+Shungin WHR EU sex combined 26 SNPs	mP595r	L-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00209095687634933	25	1
+Shungin WHR EU sex combined 26 SNPs	mynshu	TotFA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	55.6779948117729	25	0.00040073074347754
+Shungin WHR EU sex combined 26 SNPs	mynshu	TotFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	56.627137865997	24	0.000188157237337303
+Shungin WHR EU sex combined 26 SNPs	mynshu	TotFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	56.8399728591226	25	0.000280817754247834
+Shungin WHR EU sex combined 26 SNPs	mynshu	TotFA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	55.2701248385037	25	0.000453534528056069
+Shungin WHR EU sex combined 26 SNPs	mynshu	TotFA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00334183078021842	25	1
+Shungin WHR EU sex combined 26 SNPs	NDCmNX	TotPG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	29.2967035303308	25	0.251703718548043
+Shungin WHR EU sex combined 26 SNPs	NDCmNX	TotPG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	28.5220508325098	24	0.238637985525779
+Shungin WHR EU sex combined 26 SNPs	NDCmNX	TotPG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	29.3122786462428	25	0.251073216775109
+Shungin WHR EU sex combined 26 SNPs	NDCmNX	TotPG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	29.2876014776411	25	0.252072670954703
+Shungin WHR EU sex combined 26 SNPs	NDCmNX	TotPG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00209664725573514	25	1
+Shungin WHR EU sex combined 26 SNPs	Nejk7Z	L-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.7272665368866	25	0.320560558955065
+Shungin WHR EU sex combined 26 SNPs	Nejk7Z	L-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	27.639828937403	24	0.275523862914108
+Shungin WHR EU sex combined 26 SNPs	Nejk7Z	L-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.7384150027832	25	0.32003521751327
+Shungin WHR EU sex combined 26 SNPs	Nejk7Z	L-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	27.7270218505653	25	0.320572094742879
+Shungin WHR EU sex combined 26 SNPs	Nejk7Z	L-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00209095687634933	25	1
+Shungin WHR EU sex combined 26 SNPs	NIgr0i	Tyr.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	13.9744539569889	25	0.962175900510708
+Shungin WHR EU sex combined 26 SNPs	NIgr0i	Tyr.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	12.7884746151082	24	0.969480124611186
+Shungin WHR EU sex combined 26 SNPs	NIgr0i	Tyr.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	13.9752487535425	25	0.962162158520446
+Shungin WHR EU sex combined 26 SNPs	NIgr0i	Tyr.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	13.9743497937108	25	0.962177701226873
+Shungin WHR EU sex combined 26 SNPs	NIgr0i	Tyr.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00105338696189162	25	1
+Shungin WHR EU sex combined 26 SNPs	NNMPqH	Ace.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	16.0687990014204	25	0.91276454027822
+Shungin WHR EU sex combined 26 SNPs	NNMPqH	Ace.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	14.8394978755774	24	0.925367223261881
+Shungin WHR EU sex combined 26 SNPs	NNMPqH	Ace.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	16.0870186650867	25	0.912212706740535
+Shungin WHR EU sex combined 26 SNPs	NNMPqH	Ace.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	16.0689795985258	25	0.912759081009233
+Shungin WHR EU sex combined 26 SNPs	NNMPqH	Ace.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00695801469396958	25	1
+Shungin WHR EU sex combined 26 SNPs	nqqhvg	S-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.9578617222692	25	0.190417891235493
+Shungin WHR EU sex combined 26 SNPs	nqqhvg	S-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.5847545273587	24	0.198897619797592
+Shungin WHR EU sex combined 26 SNPs	nqqhvg	S-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	31.0533321696314	25	0.187258871582545
+Shungin WHR EU sex combined 26 SNPs	nqqhvg	S-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.939830267895	25	0.191018908381448
+Shungin WHR EU sex combined 26 SNPs	nqqhvg	S-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00193595446685797	25	1
+Shungin WHR EU sex combined 26 SNPs	NRnQUS	S-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	28.7206135399618	25	0.275763502695548
+Shungin WHR EU sex combined 26 SNPs	NRnQUS	S-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	28.4369946440517	24	0.242040501412059
+Shungin WHR EU sex combined 26 SNPs	NRnQUS	S-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	28.7726958283374	25	0.273529475216473
+Shungin WHR EU sex combined 26 SNPs	NRnQUS	S-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	28.67897088373	25	0.277558089875809
+Shungin WHR EU sex combined 26 SNPs	NRnQUS	S-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00199544751410439	25	1
+Shungin WHR EU sex combined 26 SNPs	Nupl5e	M-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.4118635543559	25	0.335628061108658
+Shungin WHR EU sex combined 26 SNPs	Nupl5e	M-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	27.0614969246195	24	0.301594755268048
+Shungin WHR EU sex combined 26 SNPs	Nupl5e	M-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.4292666840225	25	0.334786458318281
+Shungin WHR EU sex combined 26 SNPs	Nupl5e	M-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	27.4023725458174	25	0.336087536599405
+Shungin WHR EU sex combined 26 SNPs	Nupl5e	M-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00172403565340036	25	1
+Shungin WHR EU sex combined 26 SNPs	OA1pwr	XXL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	88.3597015095094	25	5.28955033244093e-09
+Shungin WHR EU sex combined 26 SNPs	OA1pwr	XXL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	90.1870173088083	24	1.34235768752745e-09
+Shungin WHR EU sex combined 26 SNPs	OA1pwr	XXL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	90.2199424682188	25	2.633983427282e-09
+Shungin WHR EU sex combined 26 SNPs	OA1pwr	XXL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	87.6826665247011	25	6.80949104558851e-09
+Shungin WHR EU sex combined 26 SNPs	OA1pwr	XXL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00606665468258968	25	1
+Shungin WHR EU sex combined 26 SNPs	od0yLA	M-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	86.4978455657221	25	1.05781798947288e-08
+Shungin WHR EU sex combined 26 SNPs	od0yLA	M-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	89.2142662517443	24	1.94408871152602e-09
+Shungin WHR EU sex combined 26 SNPs	od0yLA	M-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	89.354073512917	25	3.64594315776937e-09
+Shungin WHR EU sex combined 26 SNPs	od0yLA	M-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	85.3071230689056	25	1.6435294863448e-08
+Shungin WHR EU sex combined 26 SNPs	od0yLA	M-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00530779193465258	25	1
+Shungin WHR EU sex combined 26 SNPs	oEBsPp	M-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	135.433800765025	25	3.86395621985643e-17
+Shungin WHR EU sex combined 26 SNPs	oEBsPp	M-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	137.199829747951	24	7.59204858011356e-18
+Shungin WHR EU sex combined 26 SNPs	oEBsPp	M-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	138.394608246744	25	1.12276434714234e-17
+Shungin WHR EU sex combined 26 SNPs	oEBsPp	M-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	134.377710263296	25	5.99697074164898e-17
+Shungin WHR EU sex combined 26 SNPs	oEBsPp	M-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00795830128649236	25	1
+Shungin WHR EU sex combined 26 SNPs	OldXAu	XL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	76.0675169518993	25	4.65418291721632e-07
+Shungin WHR EU sex combined 26 SNPs	OldXAu	XL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	74.910900815992	24	3.8516914297686e-07
+Shungin WHR EU sex combined 26 SNPs	OldXAu	XL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	76.8056012620857	25	3.58225223359306e-07
+Shungin WHR EU sex combined 26 SNPs	OldXAu	XL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	75.6753453263287	25	5.34655247917987e-07
+Shungin WHR EU sex combined 26 SNPs	OldXAu	XL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00518983366965979	25	1
+Shungin WHR EU sex combined 26 SNPs	pEoVjh	S-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	43.0942683547859	25	0.0136670884302711
+Shungin WHR EU sex combined 26 SNPs	pEoVjh	S-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	40.5376634077242	24	0.0187099837350331
+Shungin WHR EU sex combined 26 SNPs	pEoVjh	S-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	43.4039788631709	25	0.0126337254255126
+Shungin WHR EU sex combined 26 SNPs	pEoVjh	S-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	43.0957119120643	25	0.0136620963086356
+Shungin WHR EU sex combined 26 SNPs	pEoVjh	S-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00268623836371444	25	1
+Shungin WHR EU sex combined 26 SNPs	piaYQ0	L-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	24.4915145568157	25	0.49113992809787
+Shungin WHR EU sex combined 26 SNPs	piaYQ0	L-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	24.388409358514	24	0.439575757250403
+Shungin WHR EU sex combined 26 SNPs	piaYQ0	L-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	24.524342541516	25	0.489267771931764
+Shungin WHR EU sex combined 26 SNPs	piaYQ0	L-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	24.4786289245114	25	0.491875300104925
+Shungin WHR EU sex combined 26 SNPs	piaYQ0	L-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00155971549923319	25	1
+Shungin WHR EU sex combined 26 SNPs	pQ0kkB	M-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.6233331571765	25	0.32548210626955
+Shungin WHR EU sex combined 26 SNPs	pQ0kkB	M-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26.3522231230879	24	0.33553841608908
+Shungin WHR EU sex combined 26 SNPs	pQ0kkB	M-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.7017123154306	25	0.321766616699941
+Shungin WHR EU sex combined 26 SNPs	pQ0kkB	M-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	27.5877895495874	25	0.327175086346519
+Shungin WHR EU sex combined 26 SNPs	pQ0kkB	M-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00185997413553321	25	1
+Shungin WHR EU sex combined 26 SNPs	q2je9x	VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	70.0197338672995	25	3.8220456785397e-06
+Shungin WHR EU sex combined 26 SNPs	q2je9x	VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	66.8945422255774	24	6.39252388063591e-06
+Shungin WHR EU sex combined 26 SNPs	q2je9x	VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	70.4216787101277	25	3.33056268210823e-06
+Shungin WHR EU sex combined 26 SNPs	q2je9x	VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	69.8844230865724	25	4.00300317103947e-06
+Shungin WHR EU sex combined 26 SNPs	q2je9x	VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00454653872643624	25	1
+Shungin WHR EU sex combined 26 SNPs	Q3oE8p	IDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	102.853294687441	25	2.06593443057801e-11
+Shungin WHR EU sex combined 26 SNPs	Q3oE8p	IDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	104.002335575753	24	6.19029074411852e-12
+Shungin WHR EU sex combined 26 SNPs	Q3oE8p	IDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	104.56167664215	25	1.0580335027032e-11
+Shungin WHR EU sex combined 26 SNPs	Q3oE8p	IDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	102.283983232277	25	2.58033058234051e-11
+Shungin WHR EU sex combined 26 SNPs	Q3oE8p	IDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00608551367699557	25	1
+Shungin WHR EU sex combined 26 SNPs	q55OOg	ApoA1.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	58.9436251453751	25	0.000145953772329834
+Shungin WHR EU sex combined 26 SNPs	q55OOg	ApoA1.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	59.1294907109031	24	8.46806871344169e-05
+Shungin WHR EU sex combined 26 SNPs	q55OOg	ApoA1.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	59.3851051191835	25	0.000127010986066208
+Shungin WHR EU sex combined 26 SNPs	q55OOg	ApoA1.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	58.7866407732944	25	0.000153328821322154
+Shungin WHR EU sex combined 26 SNPs	q55OOg	ApoA1.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00386308488999567	25	1
+Shungin WHR EU sex combined 26 SNPs	qb1kOB	S-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	110.760189663717	25	9.11401307760624e-13
+Shungin WHR EU sex combined 26 SNPs	qb1kOB	S-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	109.491709874447	24	6.91735748048413e-13
+Shungin WHR EU sex combined 26 SNPs	qb1kOB	S-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	112.839336569545	25	3.97309179350029e-13
+Shungin WHR EU sex combined 26 SNPs	qb1kOB	S-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	109.933068653801	25	1.26675378988001e-12
+Shungin WHR EU sex combined 26 SNPs	qb1kOB	S-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00660555729290454	25	1
+Shungin WHR EU sex combined 26 SNPs	qi2S4j	XL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	92.1975513244764	25	1.24887486716325e-09
+Shungin WHR EU sex combined 26 SNPs	qi2S4j	XL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	90.3232416489817	24	1.27438646429392e-09
+Shungin WHR EU sex combined 26 SNPs	qi2S4j	XL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	93.3149235024145	25	8.17412059578509e-10
+Shungin WHR EU sex combined 26 SNPs	qi2S4j	XL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	91.7811678076501	25	1.46197236571993e-09
+Shungin WHR EU sex combined 26 SNPs	qi2S4j	XL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00615395984584042	25	1
+Shungin WHR EU sex combined 26 SNPs	Qnn8jF	FALen.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	40.8432255080322	25	0.0238437191735363
+Shungin WHR EU sex combined 26 SNPs	Qnn8jF	FALen.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	40.9452990432284	24	0.0168886047516569
+Shungin WHR EU sex combined 26 SNPs	Qnn8jF	FALen.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	41.505087428137	25	0.0203010498628162
+Shungin WHR EU sex combined 26 SNPs	Qnn8jF	FALen.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	40.5752947553516	25	0.0254306014180819
+Shungin WHR EU sex combined 26 SNPs	Qnn8jF	FALen.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00253263830713005	25	1
+Shungin WHR EU sex combined 26 SNPs	QuH2ha	XL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	31.5876809123962	25	0.170291052418944
+Shungin WHR EU sex combined 26 SNPs	QuH2ha	XL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	31.4558829841497	24	0.141068366143013
+Shungin WHR EU sex combined 26 SNPs	QuH2ha	XL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	31.5880295123174	25	0.170280374304275
+Shungin WHR EU sex combined 26 SNPs	QuH2ha	XL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	31.5875411476149	25	0.1702953337564
+Shungin WHR EU sex combined 26 SNPs	QuH2ha	XL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00219146406890304	25	1
+Shungin WHR EU sex combined 26 SNPs	qy8stt	XL-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	128.236385866756	25	7.62089674324886e-16
+Shungin WHR EU sex combined 26 SNPs	qy8stt	XL-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	131.140588372291	24	9.63875761351241e-17
+Shungin WHR EU sex combined 26 SNPs	qy8stt	XL-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	131.160525871443	25	2.27835992319657e-16
+Shungin WHR EU sex combined 26 SNPs	qy8stt	XL-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	127.294428601499	25	1.12305357329256e-15
+Shungin WHR EU sex combined 26 SNPs	qy8stt	XL-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00751722189501923	25	1
+Shungin WHR EU sex combined 26 SNPs	QYAiMS	XL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	92.2061098705823	25	1.24483438573313e-09
+Shungin WHR EU sex combined 26 SNPs	QYAiMS	XL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	91.2738303673656	24	8.8622251691831e-10
+Shungin WHR EU sex combined 26 SNPs	QYAiMS	XL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	93.393738915078	25	7.9328861899111e-10
+Shungin WHR EU sex combined 26 SNPs	QYAiMS	XL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	91.5201454746493	25	1.61354547788142e-09
+Shungin WHR EU sex combined 26 SNPs	QYAiMS	XL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00610295312548276	25	1
+Shungin WHR EU sex combined 26 SNPs	qYgl1G	S-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	111.518522232677	25	6.73573664925914e-13
+Shungin WHR EU sex combined 26 SNPs	qYgl1G	S-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	116.818345999994	24	3.56413479922378e-14
+Shungin WHR EU sex combined 26 SNPs	qYgl1G	S-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	116.866447779716	25	7.87346496212203e-14
+Shungin WHR EU sex combined 26 SNPs	qYgl1G	S-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	110.163447250807	25	1.1558302716659e-12
+Shungin WHR EU sex combined 26 SNPs	qYgl1G	S-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00684899525067375	25	1
+Shungin WHR EU sex combined 26 SNPs	R0j1K9	Serum-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	135.089566200623	25	4.45952555184767e-17
+Shungin WHR EU sex combined 26 SNPs	R0j1K9	Serum-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	142.458078832656	24	8.22769472035495e-19
+Shungin WHR EU sex combined 26 SNPs	R0j1K9	Serum-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	142.978765354269	25	1.64037377459616e-18
+Shungin WHR EU sex combined 26 SNPs	R0j1K9	Serum-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	132.652229705814	25	1.2279759859163e-16
+Shungin WHR EU sex combined 26 SNPs	R0j1K9	Serum-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00810811843053127	25	1
+Shungin WHR EU sex combined 26 SNPs	r8OA9y	L-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	65.6188823109326	25	1.68506069877062e-05
+Shungin WHR EU sex combined 26 SNPs	r8OA9y	L-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	65.4050807043429	24	1.06137531125537e-05
+Shungin WHR EU sex combined 26 SNPs	r8OA9y	L-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	66.2834618274907	25	1.35069777629775e-05
+Shungin WHR EU sex combined 26 SNPs	r8OA9y	L-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	65.3969401999149	25	1.8138110481152e-05
+Shungin WHR EU sex combined 26 SNPs	r8OA9y	L-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00408579042985329	25	1
+Shungin WHR EU sex combined 26 SNPs	rba7kj	DHA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	45.7708377996019	25	0.00682191065513515
+Shungin WHR EU sex combined 26 SNPs	rba7kj	DHA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	43.2734070651787	24	0.00925581798774048
+Shungin WHR EU sex combined 26 SNPs	rba7kj	DHA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	45.7989498760422	25	0.00677109036992472
+Shungin WHR EU sex combined 26 SNPs	rba7kj	DHA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	45.7507096022676	25	0.00685851684048479
+Shungin WHR EU sex combined 26 SNPs	rba7kj	DHA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00349730748921939	25	1
+Shungin WHR EU sex combined 26 SNPs	RcncOj	XXL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.8172232589081	25	0.195142554940957
+Shungin WHR EU sex combined 26 SNPs	RcncOj	XXL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.9047617615262	24	0.187928413760497
+Shungin WHR EU sex combined 26 SNPs	RcncOj	XXL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.8261448019661	25	0.194840319196264
+Shungin WHR EU sex combined 26 SNPs	RcncOj	XXL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.8150731222432	25	0.195215446440825
+Shungin WHR EU sex combined 26 SNPs	RcncOj	XXL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00218128604524276	25	1
+Shungin WHR EU sex combined 26 SNPs	rd7FPI	L-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	42.656809354204	25	0.0152596944326324
+Shungin WHR EU sex combined 26 SNPs	rd7FPI	L-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	42.9432636805204	24	0.0100964601462439
+Shungin WHR EU sex combined 26 SNPs	rd7FPI	L-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	43.1621972990421	25	0.0134339882731213
+Shungin WHR EU sex combined 26 SNPs	rd7FPI	L-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	42.389687552584	25	0.0163142473627917
+Shungin WHR EU sex combined 26 SNPs	rd7FPI	L-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00315623183376085	25	1
+Shungin WHR EU sex combined 26 SNPs	Rdjtbu	XL-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	85.4599236576529	25	1.55335423555825e-08
+Shungin WHR EU sex combined 26 SNPs	Rdjtbu	XL-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	87.5660144402746	24	3.63109340598104e-09
+Shungin WHR EU sex combined 26 SNPs	Rdjtbu	XL-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	87.6530874471251	25	6.88495092146444e-09
+Shungin WHR EU sex combined 26 SNPs	Rdjtbu	XL-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	84.9316943400161	25	1.88767482169931e-08
+Shungin WHR EU sex combined 26 SNPs	Rdjtbu	XL-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00533634939680304	25	1
+Shungin WHR EU sex combined 26 SNPs	RFEq2O	XL-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	97.5558332286271	25	1.61354144227558e-10
+Shungin WHR EU sex combined 26 SNPs	RFEq2O	XL-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	100.212690391081	24	2.76357563694012e-11
+Shungin WHR EU sex combined 26 SNPs	RFEq2O	XL-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	100.363800224144	25	5.44828496074705e-11
+Shungin WHR EU sex combined 26 SNPs	RFEq2O	XL-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	96.8994123818166	25	2.07707464258007e-10
+Shungin WHR EU sex combined 26 SNPs	RFEq2O	XL-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00606953024776821	25	1
+Shungin WHR EU sex combined 26 SNPs	RgOHY1	L-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	65.6188823109326	25	1.68506069877062e-05
+Shungin WHR EU sex combined 26 SNPs	RgOHY1	L-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	65.4050807043429	24	1.06137531125537e-05
+Shungin WHR EU sex combined 26 SNPs	RgOHY1	L-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	66.2834618274907	25	1.35069777629775e-05
+Shungin WHR EU sex combined 26 SNPs	RgOHY1	L-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	65.3969401999149	25	1.8138110481152e-05
+Shungin WHR EU sex combined 26 SNPs	RgOHY1	L-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00408579042985329	25	1
+Shungin WHR EU sex combined 26 SNPs	rrkdJg	M-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	58.4591543251657	25	0.000169895694516185
+Shungin WHR EU sex combined 26 SNPs	rrkdJg	M-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	56.3383787205787	24	0.000206069696029442
+Shungin WHR EU sex combined 26 SNPs	rrkdJg	M-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	60.0045956165403	25	0.000104402511352766
+Shungin WHR EU sex combined 26 SNPs	rrkdJg	M-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	57.8009571293119	25	0.000208601262642317
+Shungin WHR EU sex combined 26 SNPs	rrkdJg	M-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00345455517463717	25	1
+Shungin WHR EU sex combined 26 SNPs	S1YLFO	M-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	52.9662474991778	25	0.000903024250438849
+Shungin WHR EU sex combined 26 SNPs	S1YLFO	M-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	52.6678864344109	24	0.000639739466329385
+Shungin WHR EU sex combined 26 SNPs	S1YLFO	M-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	53.1315984828297	25	0.000860001412047864
+Shungin WHR EU sex combined 26 SNPs	S1YLFO	M-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	52.87782374706	25	0.000926870889123671
+Shungin WHR EU sex combined 26 SNPs	S1YLFO	M-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00300053136041403	25	1
+Shungin WHR EU sex combined 26 SNPs	S63Jlg	HDL2-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	103.50152136045	25	1.60323300830587e-11
+Shungin WHR EU sex combined 26 SNPs	S63Jlg	HDL2-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	105.342969107564	24	3.63400362479986e-12
+Shungin WHR EU sex combined 26 SNPs	S63Jlg	HDL2-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	105.88063665931	25	6.29883161956196e-12
+Shungin WHR EU sex combined 26 SNPs	S63Jlg	HDL2-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	102.639964201849	25	2.24551422269236e-11
+Shungin WHR EU sex combined 26 SNPs	S63Jlg	HDL2-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0065633898838957	25	1
+Shungin WHR EU sex combined 26 SNPs	SbNV2Q	L-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	85.3985478944039	25	1.58897140123893e-08
+Shungin WHR EU sex combined 26 SNPs	SbNV2Q	L-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	87.5968053106469	24	3.58908091618196e-09
+Shungin WHR EU sex combined 26 SNPs	SbNV2Q	L-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	87.6047542038392	25	7.01004028251625e-09
+Shungin WHR EU sex combined 26 SNPs	SbNV2Q	L-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	84.597275073818	25	2.13515710517172e-08
+Shungin WHR EU sex combined 26 SNPs	SbNV2Q	L-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00528354252609565	25	1
+Shungin WHR EU sex combined 26 SNPs	SgyU7o	XL-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.703184654447	25	0.321697057005514
+Shungin WHR EU sex combined 26 SNPs	SgyU7o	XL-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	27.627154824023	24	0.276079330644822
+Shungin WHR EU sex combined 26 SNPs	SgyU7o	XL-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.7043480172528	25	0.321642100838174
+Shungin WHR EU sex combined 26 SNPs	SgyU7o	XL-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	27.7029754356718	25	0.321706940879946
+Shungin WHR EU sex combined 26 SNPs	SgyU7o	XL-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00187395637158898	25	1
+Shungin WHR EU sex combined 26 SNPs	SWLPSl	ApoB.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	76.4650151553958	25	4.0426867236291e-07
+Shungin WHR EU sex combined 26 SNPs	SWLPSl	ApoB.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	78.0154677359837	24	1.25601818788612e-07
+Shungin WHR EU sex combined 26 SNPs	SWLPSl	ApoB.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	78.579021026046	25	1.90225991220989e-07
+Shungin WHR EU sex combined 26 SNPs	SWLPSl	ApoB.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	75.6444011508446	25	5.40531549405964e-07
+Shungin WHR EU sex combined 26 SNPs	SWLPSl	ApoB.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00458501963341334	25	1
+Shungin WHR EU sex combined 26 SNPs	SZoJuf	S-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	22.7593394756105	25	0.59161407478887
+Shungin WHR EU sex combined 26 SNPs	SZoJuf	S-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	22.8305699818731	24	0.529817707750154
+Shungin WHR EU sex combined 26 SNPs	SZoJuf	S-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	22.8536068576669	25	0.586111512376506
+Shungin WHR EU sex combined 26 SNPs	SZoJuf	S-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	22.7290029077336	25	0.59338434552544
+Shungin WHR EU sex combined 26 SNPs	SZoJuf	S-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00145962984476434	25	1
+Shungin WHR EU sex combined 26 SNPs	tBy73q	L-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	105.259625436552	25	8.04272449586507e-12
+Shungin WHR EU sex combined 26 SNPs	tBy73q	L-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	104.23354324924	24	5.64767305175614e-12
+Shungin WHR EU sex combined 26 SNPs	tBy73q	L-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	106.841543780061	25	4.31221897447545e-12
+Shungin WHR EU sex combined 26 SNPs	tBy73q	L-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	104.5786118241	25	1.05102278817014e-11
+Shungin WHR EU sex combined 26 SNPs	tBy73q	L-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00688737323205633	25	1
+Shungin WHR EU sex combined 26 SNPs	thIfQO	IDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	145.814740812231	25	4.96198708905148e-19
+Shungin WHR EU sex combined 26 SNPs	thIfQO	IDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	152.180561785712	24	1.30197110142394e-20
+Shungin WHR EU sex combined 26 SNPs	thIfQO	IDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	152.940473263322	25	2.4153176005502e-20
+Shungin WHR EU sex combined 26 SNPs	thIfQO	IDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	143.494674234477	25	1.32012576812574e-18
+Shungin WHR EU sex combined 26 SNPs	thIfQO	IDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00921701891177943	25	1
+Shungin WHR EU sex combined 26 SNPs	TkbsEG	SFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	47.3287314971672	25	0.00448357395065362
+Shungin WHR EU sex combined 26 SNPs	TkbsEG	SFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	45.2958119538995	24	0.0053733442994738
+Shungin WHR EU sex combined 26 SNPs	TkbsEG	SFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	47.3957372596641	25	0.00440230774204246
+Shungin WHR EU sex combined 26 SNPs	TkbsEG	SFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	47.2965396715328	25	0.00452311761425921
+Shungin WHR EU sex combined 26 SNPs	TkbsEG	SFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00298771045457336	25	1
+Shungin WHR EU sex combined 26 SNPs	tlALmo	XXL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	48.5606511611554	25	0.00319336151110887
+Shungin WHR EU sex combined 26 SNPs	tlALmo	XXL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	49.2747360921917	24	0.00174936404861657
+Shungin WHR EU sex combined 26 SNPs	tlALmo	XXL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	49.3060394298529	25	0.00259266273481229
+Shungin WHR EU sex combined 26 SNPs	tlALmo	XXL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	48.1833084597089	25	0.00354556144066426
+Shungin WHR EU sex combined 26 SNPs	tlALmo	XXL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0033290408248601	25	1
+Shungin WHR EU sex combined 26 SNPs	tnTwW2	XS-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	94.7110110911807	25	4.80288100876529e-10
+Shungin WHR EU sex combined 26 SNPs	tnTwW2	XS-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	94.3464914547539	24	2.71846146418177e-10
+Shungin WHR EU sex combined 26 SNPs	tnTwW2	XS-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	96.6713988499393	25	2.26723816972289e-10
+Shungin WHR EU sex combined 26 SNPs	tnTwW2	XS-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	93.8343658617743	25	6.7086753614846e-10
+Shungin WHR EU sex combined 26 SNPs	tnTwW2	XS-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00569851817010766	25	1
+Shungin WHR EU sex combined 26 SNPs	TOLnwf	M-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.6233331571765	25	0.32548210626955
+Shungin WHR EU sex combined 26 SNPs	TOLnwf	M-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26.3522231230879	24	0.33553841608908
+Shungin WHR EU sex combined 26 SNPs	TOLnwf	M-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.7017123154306	25	0.321766616699941
+Shungin WHR EU sex combined 26 SNPs	TOLnwf	M-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	27.5877895495874	25	0.327175086346519
+Shungin WHR EU sex combined 26 SNPs	TOLnwf	M-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00185997413553321	25	1
+Shungin WHR EU sex combined 26 SNPs	tTLptP	UnsatDeg.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	116.156671060494	25	1.0482995631187e-13
+Shungin WHR EU sex combined 26 SNPs	tTLptP	UnsatDeg.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	116.294330574994	24	4.41262959779914e-14
+Shungin WHR EU sex combined 26 SNPs	tTLptP	UnsatDeg.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	117.018832786802	25	7.40375736104771e-14
+Shungin WHR EU sex combined 26 SNPs	tTLptP	UnsatDeg.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	115.804744824469	25	1.20798177306614e-13
+Shungin WHR EU sex combined 26 SNPs	tTLptP	UnsatDeg.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00694678000291695	25	1
+Shungin WHR EU sex combined 26 SNPs	TVhlrt	S-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	28.7206135399618	25	0.275763502695548
+Shungin WHR EU sex combined 26 SNPs	TVhlrt	S-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	28.4369946440517	24	0.242040501412059
+Shungin WHR EU sex combined 26 SNPs	TVhlrt	S-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	28.7726958283374	25	0.273529475216473
+Shungin WHR EU sex combined 26 SNPs	TVhlrt	S-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	28.67897088373	25	0.277558089875809
+Shungin WHR EU sex combined 26 SNPs	TVhlrt	S-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00199544751410439	25	1
+Shungin WHR EU sex combined 26 SNPs	TzGjsX	L-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	20.1192836381226	25	0.740540428254597
+Shungin WHR EU sex combined 26 SNPs	TzGjsX	L-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	19.3016520349021	24	0.735716748804868
+Shungin WHR EU sex combined 26 SNPs	TzGjsX	L-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	20.1222189858822	25	0.740385081045719
+Shungin WHR EU sex combined 26 SNPs	TzGjsX	L-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	20.1186880387048	25	0.74057194513933
+Shungin WHR EU sex combined 26 SNPs	TzGjsX	L-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00123783175705473	25	1
+Shungin WHR EU sex combined 26 SNPs	u2y8My	S-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	26.56104728199	25	0.378162875661103
+Shungin WHR EU sex combined 26 SNPs	u2y8My	S-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	25.8465016079214	24	0.360999325175916
+Shungin WHR EU sex combined 26 SNPs	u2y8My	S-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	26.6600696726673	25	0.37307725254643
+Shungin WHR EU sex combined 26 SNPs	u2y8My	S-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	26.5160893680505	25	0.380483053490266
+Shungin WHR EU sex combined 26 SNPs	u2y8My	S-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00165184461548746	25	1
+Shungin WHR EU sex combined 26 SNPs	u7MBi8	M-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	100.576483856882	25	5.01640042837116e-11
+Shungin WHR EU sex combined 26 SNPs	u7MBi8	M-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	104.746738043836	24	4.6063468969953e-12
+Shungin WHR EU sex combined 26 SNPs	u7MBi8	M-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	104.773738778491	25	9.73499840007847e-12
+Shungin WHR EU sex combined 26 SNPs	u7MBi8	M-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	99.0817007406148	25	8.95414712129859e-11
+Shungin WHR EU sex combined 26 SNPs	u7MBi8	M-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00617195872651225	25	1
+Shungin WHR EU sex combined 26 SNPs	UJHadq	S-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	43.6105357317901	25	0.0119851539005516
+Shungin WHR EU sex combined 26 SNPs	UJHadq	S-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	43.347006872503	24	0.00907751144828149
+Shungin WHR EU sex combined 26 SNPs	UJHadq	S-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	44.2256133217956	25	0.0102317268835647
+Shungin WHR EU sex combined 26 SNPs	UJHadq	S-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	43.3485154197682	25	0.0128133129593603
+Shungin WHR EU sex combined 26 SNPs	UJHadq	S-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0027380513305221	25	1
+Shungin WHR EU sex combined 26 SNPs	uR1FsJ	M-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	135.433800765025	25	3.86395621985643e-17
+Shungin WHR EU sex combined 26 SNPs	uR1FsJ	M-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	137.199829747951	24	7.59204858011356e-18
+Shungin WHR EU sex combined 26 SNPs	uR1FsJ	M-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	138.394608246744	25	1.12276434714234e-17
+Shungin WHR EU sex combined 26 SNPs	uR1FsJ	M-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	134.377710263296	25	5.99697074164898e-17
+Shungin WHR EU sex combined 26 SNPs	uR1FsJ	M-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00795830128649236	25	1
+Shungin WHR EU sex combined 26 SNPs	uUpNZS	FAw3byFA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	42.7877883648576	25	0.0147658202425894
+Shungin WHR EU sex combined 26 SNPs	uUpNZS	FAw3byFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	40.4389182178648	24	0.0191774083044291
+Shungin WHR EU sex combined 26 SNPs	uUpNZS	FAw3byFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	42.7904320391794	25	0.0147560049221882
+Shungin WHR EU sex combined 26 SNPs	uUpNZS	FAw3byFA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	42.7877233912493	25	0.014766061549364
+Shungin WHR EU sex combined 26 SNPs	uUpNZS	FAw3byFA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00317407130456938	25	1
+Shungin WHR EU sex combined 26 SNPs	V1rnmC	XXL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	33.1591709124958	25	0.127136461833249
+Shungin WHR EU sex combined 26 SNPs	V1rnmC	XXL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	31.7117617868745	24	0.134302793888125
+Shungin WHR EU sex combined 26 SNPs	V1rnmC	XXL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	33.2393345389717	25	0.125192312551375
+Shungin WHR EU sex combined 26 SNPs	V1rnmC	XXL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	33.1256550746973	25	0.127956408389743
+Shungin WHR EU sex combined 26 SNPs	V1rnmC	XXL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00241920347039863	25	1
+Shungin WHR EU sex combined 26 SNPs	V9DrWT	MUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	104.429272156337	25	1.11447116215117e-11
+Shungin WHR EU sex combined 26 SNPs	V9DrWT	MUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	105.877906512294	24	2.93681008703399e-12
+Shungin WHR EU sex combined 26 SNPs	V9DrWT	MUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	106.668892703283	25	4.61632620978426e-12
+Shungin WHR EU sex combined 26 SNPs	V9DrWT	MUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	103.684903570668	25	1.4921418165105e-11
+Shungin WHR EU sex combined 26 SNPs	V9DrWT	MUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00646398227994951	25	1
+Shungin WHR EU sex combined 26 SNPs	VbGOO0	M-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	58.9691364349476	25	0.000144788241605579
+Shungin WHR EU sex combined 26 SNPs	VbGOO0	M-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	59.4775676821486	24	7.56720767706436e-05
+Shungin WHR EU sex combined 26 SNPs	VbGOO0	M-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	59.4964825255746	25	0.000122622777116019
+Shungin WHR EU sex combined 26 SNPs	VbGOO0	M-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	58.7693722901828	25	0.000154161821012479
+Shungin WHR EU sex combined 26 SNPs	VbGOO0	M-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00383085948146734	25	1
+Shungin WHR EU sex combined 26 SNPs	VeUHgc	IDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.1317793751128	25	0.219392617263953
+Shungin WHR EU sex combined 26 SNPs	VeUHgc	IDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.7243184649786	24	0.194057448052872
+Shungin WHR EU sex combined 26 SNPs	VeUHgc	IDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.1414305648176	25	0.219036997177081
+Shungin WHR EU sex combined 26 SNPs	VeUHgc	IDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.1293360349294	25	0.219482712168738
+Shungin WHR EU sex combined 26 SNPs	VeUHgc	IDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0017688870899669	25	1
+Shungin WHR EU sex combined 26 SNPs	vi1sa3	L-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	158.010768997907	25	2.77003491824426e-21
+Shungin WHR EU sex combined 26 SNPs	vi1sa3	L-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	162.493813440865	24	1.5271406074593e-22
+Shungin WHR EU sex combined 26 SNPs	vi1sa3	L-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	162.853046921292	25	3.46441702539921e-22
+Shungin WHR EU sex combined 26 SNPs	vi1sa3	L-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	156.359288226607	25	5.6154103456664e-21
+Shungin WHR EU sex combined 26 SNPs	vi1sa3	L-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00947507907392346	25	1
+Shungin WHR EU sex combined 26 SNPs	VKsjqH	M-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	82.8994229208326	25	3.98042143399382e-08
+Shungin WHR EU sex combined 26 SNPs	VKsjqH	M-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	84.5635668605167	24	1.12242460063027e-08
+Shungin WHR EU sex combined 26 SNPs	VKsjqH	M-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	84.7238888730505	25	2.03789516470899e-08
+Shungin WHR EU sex combined 26 SNPs	VKsjqH	M-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	82.0774902099183	25	5.37257129153289e-08
+Shungin WHR EU sex combined 26 SNPs	VKsjqH	M-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00486951420977718	25	1
+Shungin WHR EU sex combined 26 SNPs	VUh5Bw	TGbyPG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	144.599314755631	25	8.28774612232274e-19
+Shungin WHR EU sex combined 26 SNPs	VUh5Bw	TGbyPG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	153.286755063981	24	8.09996268553358e-21
+Shungin WHR EU sex combined 26 SNPs	VUh5Bw	TGbyPG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	153.657390123369	25	1.77954187378267e-20
+Shungin WHR EU sex combined 26 SNPs	VUh5Bw	TGbyPG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	141.96626662492	25	2.51120770706824e-18
+Shungin WHR EU sex combined 26 SNPs	VUh5Bw	TGbyPG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00903263740114909	25	1
+Shungin WHR EU sex combined 26 SNPs	VWNKhA	PUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	157.474916737421	25	3.48434926716576e-21
+Shungin WHR EU sex combined 26 SNPs	VWNKhA	PUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	158.760769345363	24	7.67397604818485e-22
+Shungin WHR EU sex combined 26 SNPs	VWNKhA	PUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	161.55140849003	25	6.06395268267413e-22
+Shungin WHR EU sex combined 26 SNPs	VWNKhA	PUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	155.996967671607	25	6.55601642503711e-21
+Shungin WHR EU sex combined 26 SNPs	VWNKhA	PUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00943168599363261	25	1
+Shungin WHR EU sex combined 26 SNPs	vxv0Gu	M-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	58.4591543251657	25	0.000169895694516185
+Shungin WHR EU sex combined 26 SNPs	vxv0Gu	M-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	56.3383787205787	24	0.000206069696029442
+Shungin WHR EU sex combined 26 SNPs	vxv0Gu	M-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	60.0045956165403	25	0.000104402511352766
+Shungin WHR EU sex combined 26 SNPs	vxv0Gu	M-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	57.8009571293119	25	0.000208601262642317
+Shungin WHR EU sex combined 26 SNPs	vxv0Gu	M-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00345455517463717	25	1
+Shungin WHR EU sex combined 26 SNPs	w5Ybfv	L-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	75.2995421172757	25	6.10484121946585e-07
+Shungin WHR EU sex combined 26 SNPs	w5Ybfv	L-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	74.5075871289555	24	4.44968879620581e-07
+Shungin WHR EU sex combined 26 SNPs	w5Ybfv	L-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	75.6791031885202	25	5.33945929115621e-07
+Shungin WHR EU sex combined 26 SNPs	w5Ybfv	L-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	75.1051541313798	25	6.53768423098716e-07
+Shungin WHR EU sex combined 26 SNPs	w5Ybfv	L-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00436431937552687	25	1
+Shungin WHR EU sex combined 26 SNPs	W8ppGl	S-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	87.8054496430714	25	6.50491180083347e-09
+Shungin WHR EU sex combined 26 SNPs	W8ppGl	S-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	88.8230886775282	24	2.25553204664883e-09
+Shungin WHR EU sex combined 26 SNPs	W8ppGl	S-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	89.2840676616276	25	3.74288611147896e-09
+Shungin WHR EU sex combined 26 SNPs	W8ppGl	S-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	87.3108924970567	25	7.82046697695981e-09
+Shungin WHR EU sex combined 26 SNPs	W8ppGl	S-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00524331905189667	25	1
+Shungin WHR EU sex combined 26 SNPs	wF8nyy	VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	105.259625436552	25	8.04272449586507e-12
+Shungin WHR EU sex combined 26 SNPs	wF8nyy	VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	104.23354324924	24	5.64767305175614e-12
+Shungin WHR EU sex combined 26 SNPs	wF8nyy	VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	106.841543780061	25	4.31221897447545e-12
+Shungin WHR EU sex combined 26 SNPs	wF8nyy	VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	104.5786118241	25	1.05102278817014e-11
+Shungin WHR EU sex combined 26 SNPs	wF8nyy	VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00688737323205633	25	1
+Shungin WHR EU sex combined 26 SNPs	WLCDdw	L-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	75.2995421172757	25	6.10484121946585e-07
+Shungin WHR EU sex combined 26 SNPs	WLCDdw	L-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	74.5075871289555	24	4.44968879620581e-07
+Shungin WHR EU sex combined 26 SNPs	WLCDdw	L-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	75.6791031885202	25	5.33945929115621e-07
+Shungin WHR EU sex combined 26 SNPs	WLCDdw	L-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	75.1051541313798	25	6.53768423098716e-07
+Shungin WHR EU sex combined 26 SNPs	WLCDdw	L-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00436431937552687	25	1
+Shungin WHR EU sex combined 26 SNPs	wOBeYQ	M-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	82.8994229208326	25	3.98042143399382e-08
+Shungin WHR EU sex combined 26 SNPs	wOBeYQ	M-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	84.5635668605167	24	1.12242460063027e-08
+Shungin WHR EU sex combined 26 SNPs	wOBeYQ	M-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	84.7238888730505	25	2.03789516470899e-08
+Shungin WHR EU sex combined 26 SNPs	wOBeYQ	M-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	82.0774902099183	25	5.37257129153289e-08
+Shungin WHR EU sex combined 26 SNPs	wOBeYQ	M-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00486951420977718	25	1
+Shungin WHR EU sex combined 26 SNPs	woPDAJ	Leu.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	50.3539009258805	25	0.0019270009115545
+Shungin WHR EU sex combined 26 SNPs	woPDAJ	Leu.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	50.3755647487744	24	0.00126813062154079
+Shungin WHR EU sex combined 26 SNPs	woPDAJ	Leu.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	50.8297819783513	25	0.00168168100109336
+Shungin WHR EU sex combined 26 SNPs	woPDAJ	Leu.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	50.2044005995144	25	0.00201086069623651
+Shungin WHR EU sex combined 26 SNPs	woPDAJ	Leu.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00312662752533216	25	1
+Shungin WHR EU sex combined 26 SNPs	wPqzF4	IDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	80.6147669035543	25	9.13744598105934e-08
+Shungin WHR EU sex combined 26 SNPs	wPqzF4	IDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	80.308579019131	24	5.43259510782286e-08
+Shungin WHR EU sex combined 26 SNPs	wPqzF4	IDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	81.0334269393542	25	7.85170568255883e-08
+Shungin WHR EU sex combined 26 SNPs	wPqzF4	IDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	80.4005899534469	25	9.87346186264449e-08
+Shungin WHR EU sex combined 26 SNPs	wPqzF4	IDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00474559974739234	25	1
+Shungin WHR EU sex combined 26 SNPs	WQBt8T	XL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	73.9025479493824	25	9.97201371527381e-07
+Shungin WHR EU sex combined 26 SNPs	WQBt8T	XL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	73.1984460965908	24	7.09389262604824e-07
+Shungin WHR EU sex combined 26 SNPs	WQBt8T	XL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	74.5143141451371	25	8.04743860877208e-07
+Shungin WHR EU sex combined 26 SNPs	WQBt8T	XL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	73.5952087998627	25	1.11032146784819e-06
+Shungin WHR EU sex combined 26 SNPs	WQBt8T	XL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00494935566677399	25	1
+Shungin WHR EU sex combined 26 SNPs	WRxLHc	L-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	24.4915145568157	25	0.49113992809787
+Shungin WHR EU sex combined 26 SNPs	WRxLHc	L-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	24.388409358514	24	0.439575757250403
+Shungin WHR EU sex combined 26 SNPs	WRxLHc	L-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	24.524342541516	25	0.489267771931764
+Shungin WHR EU sex combined 26 SNPs	WRxLHc	L-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	24.4786289245114	25	0.491875300104925
+Shungin WHR EU sex combined 26 SNPs	WRxLHc	L-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00155971549923319	25	1
+Shungin WHR EU sex combined 26 SNPs	wv9rWr	S-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	29.9734963527943	25	0.225282933262155
+Shungin WHR EU sex combined 26 SNPs	wv9rWr	S-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	30.1445561199242	24	0.180006752980135
+Shungin WHR EU sex combined 26 SNPs	wv9rWr	S-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.3365553478909	25	0.211934267579265
+Shungin WHR EU sex combined 26 SNPs	wv9rWr	S-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	29.721011597723	25	0.234905441374266
+Shungin WHR EU sex combined 26 SNPs	wv9rWr	S-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00186523876081337	25	1
+Shungin WHR EU sex combined 26 SNPs	wye8wl	M-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	124.921304363546	25	2.97490172234667e-15
+Shungin WHR EU sex combined 26 SNPs	wye8wl	M-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	132.355055954091	24	5.8019036717808e-17
+Shungin WHR EU sex combined 26 SNPs	wye8wl	M-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	132.574975572172	25	1.26796367703124e-16
+Shungin WHR EU sex combined 26 SNPs	wye8wl	M-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	122.633759720063	25	7.57969135864506e-15
+Shungin WHR EU sex combined 26 SNPs	wye8wl	M-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00759784062037232	25	1
+Shungin WHR EU sex combined 26 SNPs	xAlclA	L-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	133.970966092922	25	7.10192910995877e-17
+Shungin WHR EU sex combined 26 SNPs	xAlclA	L-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	140.585224975716	24	1.81869691208424e-18
+Shungin WHR EU sex combined 26 SNPs	xAlclA	L-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	141.691512164075	25	2.81855333141511e-18
+Shungin WHR EU sex combined 26 SNPs	xAlclA	L-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	131.614799873827	25	1.88773395381935e-16
+Shungin WHR EU sex combined 26 SNPs	xAlclA	L-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00814553338105728	25	1
+Shungin WHR EU sex combined 26 SNPs	xC1JNt	M-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	93.7085378528823	25	7.03776890847078e-10
+Shungin WHR EU sex combined 26 SNPs	xC1JNt	M-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	93.8121211731229	24	3.34140917165593e-10
+Shungin WHR EU sex combined 26 SNPs	xC1JNt	M-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	94.8276031168903	25	4.59376361583932e-10
+Shungin WHR EU sex combined 26 SNPs	xC1JNt	M-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	93.4613498854272	25	7.73157942615371e-10
+Shungin WHR EU sex combined 26 SNPs	xC1JNt	M-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00561661735053306	25	1
+Shungin WHR EU sex combined 26 SNPs	xEVACG	M-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.5865637388134	25	0.327233562512295
+Shungin WHR EU sex combined 26 SNPs	xEVACG	M-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26.3597716286242	24	0.335166121090524
+Shungin WHR EU sex combined 26 SNPs	xEVACG	M-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.608415004622	25	0.326192062516104
+Shungin WHR EU sex combined 26 SNPs	xEVACG	M-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	27.5759331914111	25	0.327740932764343
+Shungin WHR EU sex combined 26 SNPs	xEVACG	M-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00200811682904963	25	1
+Shungin WHR EU sex combined 26 SNPs	xhIw7w	PUFA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	157.474916737421	25	3.48434926716576e-21
+Shungin WHR EU sex combined 26 SNPs	xhIw7w	PUFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	158.760769345363	24	7.67397604818485e-22
+Shungin WHR EU sex combined 26 SNPs	xhIw7w	PUFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	161.55140849003	25	6.06395268267413e-22
+Shungin WHR EU sex combined 26 SNPs	xhIw7w	PUFA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	155.996967671607	25	6.55601642503711e-21
+Shungin WHR EU sex combined 26 SNPs	xhIw7w	PUFA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00943168599363261	25	1
+Shungin WHR EU sex combined 26 SNPs	xlSR5p	Serum-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	23.8842442890567	25	0.526070005107203
+Shungin WHR EU sex combined 26 SNPs	xlSR5p	Serum-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	23.7586869649408	24	0.475463584623546
+Shungin WHR EU sex combined 26 SNPs	xlSR5p	Serum-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	23.8916258328557	25	0.525642537400865
+Shungin WHR EU sex combined 26 SNPs	xlSR5p	Serum-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	23.8842855394877	25	0.526067616118014
+Shungin WHR EU sex combined 26 SNPs	xlSR5p	Serum-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00156466349663519	25	1
+Shungin WHR EU sex combined 26 SNPs	XS5weX	L-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	20.147220907537	25	0.73906058741453
+Shungin WHR EU sex combined 26 SNPs	XS5weX	L-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	19.9876858169406	24	0.697476215675756
+Shungin WHR EU sex combined 26 SNPs	XS5weX	L-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	20.1673286357727	25	0.737993663561056
+Shungin WHR EU sex combined 26 SNPs	XS5weX	L-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	20.1356205195534	25	0.739675418746894
+Shungin WHR EU sex combined 26 SNPs	XS5weX	L-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00127789856185754	25	1
+Shungin WHR EU sex combined 26 SNPs	Xt60hH	CLA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.3650533024572	25	0.21091078851216
+Shungin WHR EU sex combined 26 SNPs	Xt60hH	CLA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.664980813075	24	0.196104665553739
+Shungin WHR EU sex combined 26 SNPs	Xt60hH	CLA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.365829176096	25	0.21088297307593
+Shungin WHR EU sex combined 26 SNPs	Xt60hH	CLA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.3649440010091	25	0.210914707231009
+Shungin WHR EU sex combined 26 SNPs	Xt60hH	CLA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00195737142519807	25	1
+Shungin WHR EU sex combined 26 SNPs	xuwLx5	M-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	79.9214540596582	25	1.17386089736074e-07
+Shungin WHR EU sex combined 26 SNPs	xuwLx5	M-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	77.4442976003762	24	1.54550982622047e-07
+Shungin WHR EU sex combined 26 SNPs	xuwLx5	M-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	80.5378877471753	25	9.39518614504954e-08
+Shungin WHR EU sex combined 26 SNPs	xuwLx5	M-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	79.6480346030946	25	1.29546293214312e-07
+Shungin WHR EU sex combined 26 SNPs	xuwLx5	M-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.0047902704602802	25	1
+Shungin WHR EU sex combined 26 SNPs	XVREJ5	S-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	115.866240847217	25	1.17843020184334e-13
+Shungin WHR EU sex combined 26 SNPs	XVREJ5	S-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	118.900348808492	24	1.52253842718758e-14
+Shungin WHR EU sex combined 26 SNPs	XVREJ5	S-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	119.475957640329	25	2.73907690815686e-14
+Shungin WHR EU sex combined 26 SNPs	XVREJ5	S-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	114.959411920957	25	1.6973991680991e-13
+Shungin WHR EU sex combined 26 SNPs	XVREJ5	S-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00708433068873581	25	1
+Shungin WHR EU sex combined 26 SNPs	xZdrWG	M-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	52.9662474991778	25	0.000903024250438849
+Shungin WHR EU sex combined 26 SNPs	xZdrWG	M-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	52.6678864344109	24	0.000639739466329385
+Shungin WHR EU sex combined 26 SNPs	xZdrWG	M-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	53.1315984828297	25	0.000860001412047864
+Shungin WHR EU sex combined 26 SNPs	xZdrWG	M-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	52.87782374706	25	0.000926870889123671
+Shungin WHR EU sex combined 26 SNPs	xZdrWG	M-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00300053136041403	25	1
+Shungin WHR EU sex combined 26 SNPs	Y5AgcV	LAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.3650533024572	25	0.21091078851216
+Shungin WHR EU sex combined 26 SNPs	Y5AgcV	LAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.664980813075	24	0.196104665553739
+Shungin WHR EU sex combined 26 SNPs	Y5AgcV	LAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.365829176096	25	0.21088297307593
+Shungin WHR EU sex combined 26 SNPs	Y5AgcV	LAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.3649440010091	25	0.210914707231009
+Shungin WHR EU sex combined 26 SNPs	Y5AgcV	LAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00195737142519807	25	1
+Shungin WHR EU sex combined 26 SNPs	Y7nCfy	XL-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	97.5558332286271	25	1.61354144227558e-10
+Shungin WHR EU sex combined 26 SNPs	Y7nCfy	XL-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	100.212690391081	24	2.76357563694012e-11
+Shungin WHR EU sex combined 26 SNPs	Y7nCfy	XL-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	100.363800224144	25	5.44828496074705e-11
+Shungin WHR EU sex combined 26 SNPs	Y7nCfy	XL-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	96.8994123818166	25	2.07707464258007e-10
+Shungin WHR EU sex combined 26 SNPs	Y7nCfy	XL-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00606953024776821	25	1
+Shungin WHR EU sex combined 26 SNPs	Y9kNuG	M-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.4118635543559	25	0.335628061108658
+Shungin WHR EU sex combined 26 SNPs	Y9kNuG	M-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	27.0614969246195	24	0.301594755268048
+Shungin WHR EU sex combined 26 SNPs	Y9kNuG	M-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.4292666840225	25	0.334786458318281
+Shungin WHR EU sex combined 26 SNPs	Y9kNuG	M-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	27.4023725458174	25	0.336087536599405
+Shungin WHR EU sex combined 26 SNPs	Y9kNuG	M-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00172403565340036	25	1
+Shungin WHR EU sex combined 26 SNPs	YCL7QN	XS-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	131.61850755178	25	1.88483737831522e-16
+Shungin WHR EU sex combined 26 SNPs	YCL7QN	XS-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	135.362480767964	24	1.64440751846799e-17
+Shungin WHR EU sex combined 26 SNPs	YCL7QN	XS-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	135.710029087514	25	3.44391564651158e-17
+Shungin WHR EU sex combined 26 SNPs	YCL7QN	XS-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	130.409321886161	25	3.1086174641706e-16
+Shungin WHR EU sex combined 26 SNPs	YCL7QN	XS-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00796447897311822	25	1
+Shungin WHR EU sex combined 26 SNPs	yEdt0k	Gln.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	46.5704224790411	25	0.00550725136930858
+Shungin WHR EU sex combined 26 SNPs	yEdt0k	Gln.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	42.8316270172121	24	0.0103964072901907
+Shungin WHR EU sex combined 26 SNPs	yEdt0k	Gln.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	46.8659518918988	25	0.00508462278212742
+Shungin WHR EU sex combined 26 SNPs	yEdt0k	Gln.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	46.4252608257309	25	0.00572672110363313
+Shungin WHR EU sex combined 26 SNPs	yEdt0k	Gln.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00341922303650287	25	1
+Shungin WHR EU sex combined 26 SNPs	YFJ7Mc	S-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	110.760189663717	25	9.11401307760624e-13
+Shungin WHR EU sex combined 26 SNPs	YFJ7Mc	S-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	109.491709874447	24	6.91735748048413e-13
+Shungin WHR EU sex combined 26 SNPs	YFJ7Mc	S-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	112.839336569545	25	3.97309179350029e-13
+Shungin WHR EU sex combined 26 SNPs	YFJ7Mc	S-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	109.933068653801	25	1.26675378988001e-12
+Shungin WHR EU sex combined 26 SNPs	YFJ7Mc	S-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00660555729290454	25	1
+Shungin WHR EU sex combined 26 SNPs	YgBRII	L-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.7272665368866	25	0.320560558955065
+Shungin WHR EU sex combined 26 SNPs	YgBRII	L-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	27.639828937403	24	0.275523862914108
+Shungin WHR EU sex combined 26 SNPs	YgBRII	L-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.7384150027832	25	0.32003521751327
+Shungin WHR EU sex combined 26 SNPs	YgBRII	L-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	27.7270218505653	25	0.320572094742879
+Shungin WHR EU sex combined 26 SNPs	YgBRII	L-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00209095687634933	25	1
+Shungin WHR EU sex combined 26 SNPs	yKv6Wx	Val.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	37.5615381485482	25	0.0510209911376031
+Shungin WHR EU sex combined 26 SNPs	yKv6Wx	Val.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	37.4002711600284	24	0.0398961327565816
+Shungin WHR EU sex combined 26 SNPs	yKv6Wx	Val.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	37.6348342193969	25	0.0501967358098273
+Shungin WHR EU sex combined 26 SNPs	yKv6Wx	Val.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	37.5341862275476	25	0.0513315935581355
+Shungin WHR EU sex combined 26 SNPs	yKv6Wx	Val.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00239932280293125	25	1
+Shungin WHR EU sex combined 26 SNPs	Yu9Fhj	M-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	135.433800765025	25	3.86395621985643e-17
+Shungin WHR EU sex combined 26 SNPs	Yu9Fhj	M-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	137.199829747951	24	7.59204858011356e-18
+Shungin WHR EU sex combined 26 SNPs	Yu9Fhj	M-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	138.394608246744	25	1.12276434714234e-17
+Shungin WHR EU sex combined 26 SNPs	Yu9Fhj	M-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	134.377710263296	25	5.99697074164898e-17
+Shungin WHR EU sex combined 26 SNPs	Yu9Fhj	M-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00795830128649236	25	1
+Shungin WHR EU sex combined 26 SNPs	yVmLWt	SFA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	47.3287314971672	25	0.00448357395065362
+Shungin WHR EU sex combined 26 SNPs	yVmLWt	SFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	45.2958119538995	24	0.0053733442994738
+Shungin WHR EU sex combined 26 SNPs	yVmLWt	SFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	47.3957372596641	25	0.00440230774204246
+Shungin WHR EU sex combined 26 SNPs	yVmLWt	SFA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	47.2965396715328	25	0.00452311761425921
+Shungin WHR EU sex combined 26 SNPs	yVmLWt	SFA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00298771045457336	25	1
+Shungin WHR EU sex combined 26 SNPs	yxzp4O	S-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	90.7197465798706	25	2.18229371747101e-09
+Shungin WHR EU sex combined 26 SNPs	yxzp4O	S-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	91.6677169488467	24	7.62132641173943e-10
+Shungin WHR EU sex combined 26 SNPs	yxzp4O	S-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	92.2770702938129	25	1.21182925862923e-09
+Shungin WHR EU sex combined 26 SNPs	yxzp4O	S-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	90.1699310174217	25	2.68398574509457e-09
+Shungin WHR EU sex combined 26 SNPs	yxzp4O	S-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00545842203023192	25	1
+Shungin WHR EU sex combined 26 SNPs	Z1INsu	M-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	83.1004300347545	25	3.69832627558375e-08
+Shungin WHR EU sex combined 26 SNPs	Z1INsu	M-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	84.7510858868326	24	1.04642330095047e-08
+Shungin WHR EU sex combined 26 SNPs	Z1INsu	M-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	84.8960992705976	25	1.91260535834039e-08
+Shungin WHR EU sex combined 26 SNPs	Z1INsu	M-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	82.1892524237964	25	5.15820020569066e-08
+Shungin WHR EU sex combined 26 SNPs	Z1INsu	M-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00491522526780873	25	1
+Shungin WHR EU sex combined 26 SNPs	ZacNeU	XS-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	39.9249767270558	25	0.0296860238582122
+Shungin WHR EU sex combined 26 SNPs	ZacNeU	XS-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	39.6065976785191	24	0.02356140003658
+Shungin WHR EU sex combined 26 SNPs	ZacNeU	XS-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	39.9737095425717	25	0.0293462455196809
+Shungin WHR EU sex combined 26 SNPs	ZacNeU	XS-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	39.9209644476016	25	0.0297141553226017
+Shungin WHR EU sex combined 26 SNPs	ZacNeU	XS-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00243176261850748	25	1
+Shungin WHR EU sex combined 26 SNPs	zCuECX	XL-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	27.703184654447	25	0.321697057005514
+Shungin WHR EU sex combined 26 SNPs	zCuECX	XL-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	27.627154824023	24	0.276079330644822
+Shungin WHR EU sex combined 26 SNPs	zCuECX	XL-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	27.7043480172528	25	0.321642100838174
+Shungin WHR EU sex combined 26 SNPs	zCuECX	XL-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	27.7029754356718	25	0.321706940879946
+Shungin WHR EU sex combined 26 SNPs	zCuECX	XL-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00187395637158898	25	1
+Shungin WHR EU sex combined 26 SNPs	zDcFVY	L-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	65.6188823109326	25	1.68506069877062e-05
+Shungin WHR EU sex combined 26 SNPs	zDcFVY	L-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	65.4050807043429	24	1.06137531125537e-05
+Shungin WHR EU sex combined 26 SNPs	zDcFVY	L-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	66.2834618274907	25	1.35069777629775e-05
+Shungin WHR EU sex combined 26 SNPs	zDcFVY	L-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	65.3969401999149	25	1.8138110481152e-05
+Shungin WHR EU sex combined 26 SNPs	zDcFVY	L-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00408579042985329	25	1
+Shungin WHR EU sex combined 26 SNPs	ZdPMDV	CLAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	30.3650533024572	25	0.21091078851216
+Shungin WHR EU sex combined 26 SNPs	ZdPMDV	CLAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	29.664980813075	24	0.196104665553739
+Shungin WHR EU sex combined 26 SNPs	ZdPMDV	CLAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	30.365829176096	25	0.21088297307593
+Shungin WHR EU sex combined 26 SNPs	ZdPMDV	CLAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	30.3649440010091	25	0.210914707231009
+Shungin WHR EU sex combined 26 SNPs	ZdPMDV	CLAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00195737142519807	25	1
+Shungin WHR EU sex combined 26 SNPs	zKjWYy	L-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	20.1192836381226	25	0.740540428254597
+Shungin WHR EU sex combined 26 SNPs	zKjWYy	L-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	19.3016520349021	24	0.735716748804868
+Shungin WHR EU sex combined 26 SNPs	zKjWYy	L-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	20.1222189858822	25	0.740385081045719
+Shungin WHR EU sex combined 26 SNPs	zKjWYy	L-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	20.1186880387048	25	0.74057194513933
+Shungin WHR EU sex combined 26 SNPs	zKjWYy	L-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00123783175705473	25	1
+Shungin WHR EU sex combined 26 SNPs	zydPx8	M-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Maximum likelihood	50.313011413054	25	0.00194960030877003
+Shungin WHR EU sex combined 26 SNPs	zydPx8	M-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	47.6422567246048	24	0.00279440439995059
+Shungin WHR EU sex combined 26 SNPs	zydPx8	M-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted	50.5771481582586	25	0.00180794778997373
+Shungin WHR EU sex combined 26 SNPs	zydPx8	M-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	IVW radial	50.1886203867127	25	0.00201991231552526
+Shungin WHR EU sex combined 26 SNPs	zydPx8	M-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Unweighted regression	0.00314834812992791	25	1

@@ -1,0 +1,1151 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+Pulit WHRadjBMI EU sex combined 346 SNPs	0la3Nw	TotPG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	560.207561606764	335	1.41973887455348e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	0la3Nw	TotPG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	558.867288013499	334	1.43728783793657e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	0la3Nw	TotPG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	560.281677319137	335	1.39829767913081e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	0la3Nw	TotPG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	560.148534274996	335	1.43704713400898e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	0la3Nw	TotPG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0734130022780884	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	131xu5	HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	679.888456474808	335	1.16929370108159e-25
+Pulit WHRadjBMI EU sex combined 346 SNPs	131xu5	HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	674.879545235785	334	2.94863687952411e-25
+Pulit WHRadjBMI EU sex combined 346 SNPs	131xu5	HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	680.834606508682	335	9.17195225252983e-26
+Pulit WHRadjBMI EU sex combined 346 SNPs	131xu5	HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	679.430119052778	335	1.31511068270826e-25
+Pulit WHRadjBMI EU sex combined 346 SNPs	131xu5	HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.10753473216058	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	1uJzJw	Glc.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	361.246792365957	335	0.155228538264279
+Pulit WHRadjBMI EU sex combined 346 SNPs	1uJzJw	Glc.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	361.172776380924	334	0.146918007269996
+Pulit WHRadjBMI EU sex combined 346 SNPs	1uJzJw	Glc.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	361.342710155328	335	0.15438960413797
+Pulit WHRadjBMI EU sex combined 346 SNPs	1uJzJw	Glc.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	361.185400063322	335	0.155767153308473
+Pulit WHRadjBMI EU sex combined 346 SNPs	1uJzJw	Glc.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0677513538714764	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	2n474K	M-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	543.233586070648	335	4.292656202626e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	2n474K	M-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	541.186404690035	334	5.00739852387113e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	2n474K	M-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	543.31547257792	335	4.22420289183685e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	2n474K	M-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	543.17315743275	335	4.34387186907352e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	2n474K	M-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.054415799845711	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	31cBUd	S-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	569.780013735739	335	1.94343434678188e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	31cBUd	S-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	566.910521661875	334	2.70749637580125e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	31cBUd	S-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	571.187399148474	335	1.44511729296781e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	31cBUd	S-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	569.173518842457	335	2.20741962187643e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	31cBUd	S-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0545682298784823	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	3dY1UP	L-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	438.292096565672	335	0.000122962680713548
+Pulit WHRadjBMI EU sex combined 346 SNPs	3dY1UP	L-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	438.474241584353	334	0.000103913151329494
+Pulit WHRadjBMI EU sex combined 346 SNPs	3dY1UP	L-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	438.538922405227	335	0.000119180753251296
+Pulit WHRadjBMI EU sex combined 346 SNPs	3dY1UP	L-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	438.155970946699	335	0.000125096916975974
+Pulit WHRadjBMI EU sex combined 346 SNPs	3dY1UP	L-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0502585172941463	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	3eNPPZ	M-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	959.358404017867	335	1.49715613370287e-61
+Pulit WHRadjBMI EU sex combined 346 SNPs	3eNPPZ	M-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	958.714742161168	334	1.08811114125701e-61
+Pulit WHRadjBMI EU sex combined 346 SNPs	3eNPPZ	M-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	959.688755645168	335	1.34384399575606e-61
+Pulit WHRadjBMI EU sex combined 346 SNPs	3eNPPZ	M-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	959.27045897237	335	1.54083476484559e-61
+Pulit WHRadjBMI EU sex combined 346 SNPs	3eNPPZ	M-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0848133532478242	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	3K9mpi	S-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	404.626873005175	335	0.00540667706357158
+Pulit WHRadjBMI EU sex combined 346 SNPs	3K9mpi	S-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	404.54991379582	334	0.00488992053541133
+Pulit WHRadjBMI EU sex combined 346 SNPs	3K9mpi	S-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	404.643349817186	335	0.0053979758321067
+Pulit WHRadjBMI EU sex combined 346 SNPs	3K9mpi	S-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	404.609779441445	335	0.00541571741603165
+Pulit WHRadjBMI EU sex combined 346 SNPs	3K9mpi	S-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0546063948897264	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	3QtDUT	L-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	524.885360067802	335	1.43221596357334e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	3QtDUT	L-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	526.381586734629	334	8.58342531779591e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	3QtDUT	L-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	526.38823402087	335	1.08235929380614e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	3QtDUT	L-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	524.268116875532	335	1.60620254841553e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	3QtDUT	L-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.076608549575066	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	3tZqrD	PUFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	597.421359886316	335	4.84612137027911e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	3tZqrD	PUFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	598.504361921751	334	2.8291311385001e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	3tZqrD	PUFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	599.557777772368	335	3.00412850081619e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	3tZqrD	PUFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	596.622333990508	335	5.7920698592404e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	3tZqrD	PUFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0545071890123355	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	3YaYhc	LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	932.887869245017	335	8.06477522024556e-58
+Pulit WHRadjBMI EU sex combined 346 SNPs	3YaYhc	LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	932.551774182022	334	5.36533955138559e-58
+Pulit WHRadjBMI EU sex combined 346 SNPs	3YaYhc	LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	934.817414470084	335	4.33025104787768e-58
+Pulit WHRadjBMI EU sex combined 346 SNPs	3YaYhc	LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	932.12096387753	335	1.03240758550581e-57
+Pulit WHRadjBMI EU sex combined 346 SNPs	3YaYhc	LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0965937050279572	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	4BsnLm	S-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1088.24772449091	335	1.8895996053623e-80
+Pulit WHRadjBMI EU sex combined 346 SNPs	4BsnLm	S-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1088.17628154364	334	1.07096500809975e-80
+Pulit WHRadjBMI EU sex combined 346 SNPs	4BsnLm	S-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1088.361865776	335	1.81613555988132e-80
+Pulit WHRadjBMI EU sex combined 346 SNPs	4BsnLm	S-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1088.21468731072	335	1.91141178836643e-80
+Pulit WHRadjBMI EU sex combined 346 SNPs	4BsnLm	S-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.100676991334077	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	4ec1kT	AcAce.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	418.33189292145	335	0.00130278476759327
+Pulit WHRadjBMI EU sex combined 346 SNPs	4ec1kT	AcAce.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	415.702476837311	334	0.00153714163822882
+Pulit WHRadjBMI EU sex combined 346 SNPs	4ec1kT	AcAce.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	418.37172112554	335	0.00129709680290234
+Pulit WHRadjBMI EU sex combined 346 SNPs	4ec1kT	AcAce.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	418.308892486813	335	0.00130608005690505
+Pulit WHRadjBMI EU sex combined 346 SNPs	4ec1kT	AcAce.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0447554331748338	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	51rMkQ	Ala.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	410.029184711814	335	0.00314712537119744
+Pulit WHRadjBMI EU sex combined 346 SNPs	51rMkQ	Ala.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	406.506607454344	334	0.00402344559115909
+Pulit WHRadjBMI EU sex combined 346 SNPs	51rMkQ	Ala.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	410.22145586739	335	0.00308561185051097
+Pulit WHRadjBMI EU sex combined 346 SNPs	51rMkQ	Ala.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	409.965426750408	335	0.00316777014701122
+Pulit WHRadjBMI EU sex combined 346 SNPs	51rMkQ	Ala.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0430552437965549	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	5KvCtQ	TGbyPG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	844.67801765812	335	8.02120015117048e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	5KvCtQ	TGbyPG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	843.538892924062	334	7.11287220924478e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	5KvCtQ	TGbyPG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	849.806722570864	335	1.68499133615582e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	5KvCtQ	TGbyPG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	842.598965752308	335	1.50726239837681e-45
+Pulit WHRadjBMI EU sex combined 346 SNPs	5KvCtQ	TGbyPG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0822921779722522	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	5NMjoj	S-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	719.542255424582	335	3.42195666987327e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	5NMjoj	S-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	719.297727630297	334	2.48259735139382e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	5NMjoj	S-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	720.556330786438	335	2.60250523009997e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	5NMjoj	S-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	719.297121931073	335	3.65587181143479e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	5NMjoj	S-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0899825488808479	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	5nypGc	XXL-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	810.747532735051	335	2.08621809586638e-41
+Pulit WHRadjBMI EU sex combined 346 SNPs	5nypGc	XXL-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	813.631796972284	334	5.67834882703056e-42
+Pulit WHRadjBMI EU sex combined 346 SNPs	5nypGc	XXL-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	813.823569136651	335	8.39673524387632e-42
+Pulit WHRadjBMI EU sex combined 346 SNPs	5nypGc	XXL-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	809.441461399374	335	3.06810258119441e-41
+Pulit WHRadjBMI EU sex combined 346 SNPs	5nypGc	XXL-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0718073573207126	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	5UMukj	CLA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	417.407168808398	335	0.00144153722879101
+Pulit WHRadjBMI EU sex combined 346 SNPs	5UMukj	CLA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	416.643111323497	334	0.00138724313258494
+Pulit WHRadjBMI EU sex combined 346 SNPs	5UMukj	CLA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	417.409130434887	335	0.00144122890709284
+Pulit WHRadjBMI EU sex combined 346 SNPs	5UMukj	CLA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	417.405980126874	335	0.0014417240914184
+Pulit WHRadjBMI EU sex combined 346 SNPs	5UMukj	CLA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0979199342888121	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	5VjOrR	IDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	564.953879766273	335	5.32737819675397e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	5VjOrR	IDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	561.240630199337	334	8.81281401083858e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	5VjOrR	IDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	566.113991629101	335	4.18509753300683e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	5VjOrR	IDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	564.458182945264	335	5.90480933208334e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	5VjOrR	IDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0726114243009513	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	5zxdL3	IDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	460.206775820549	335	6.37693042271273e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	5zxdL3	IDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	456.773815369284	334	8.80950820884317e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	5zxdL3	IDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	460.210504152478	335	6.37352266321546e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	5zxdL3	IDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	460.202064073846	335	6.38123955275144e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	5zxdL3	IDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0562229252256392	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	63OZ3T	XL-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	570.208868329096	335	1.77585821515736e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	63OZ3T	XL-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	569.086152297035	334	1.71405515725753e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	63OZ3T	XL-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	570.242880389396	335	1.76319649846464e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	63OZ3T	XL-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	570.180381378551	335	1.78653224096457e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	63OZ3T	XL-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.067296331626962	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	6jd5Q0	M-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	531.422165663692	335	4.1958043553065e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	6jd5Q0	M-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	531.202989955655	334	3.44892945533508e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	6jd5Q0	M-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	532.182345150258	335	3.63176575877804e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	6jd5Q0	M-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	531.079647690829	335	4.47732273736851e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	6jd5Q0	M-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0598244332260485	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	6QDDQM	Pyr.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	364.38394487842	335	0.129409414867913
+Pulit WHRadjBMI EU sex combined 346 SNPs	6QDDQM	Pyr.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	363.955864526505	334	0.124723389681919
+Pulit WHRadjBMI EU sex combined 346 SNPs	6QDDQM	Pyr.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	364.396308793306	335	0.129314199645425
+Pulit WHRadjBMI EU sex combined 346 SNPs	6QDDQM	Pyr.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	364.367939814722	335	0.12953274609941
+Pulit WHRadjBMI EU sex combined 346 SNPs	6QDDQM	Pyr.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.073615511342275	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	77nuW1	VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	438.292096565672	335	0.000122962680713548
+Pulit WHRadjBMI EU sex combined 346 SNPs	77nuW1	VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	438.474241584353	334	0.000103913151329494
+Pulit WHRadjBMI EU sex combined 346 SNPs	77nuW1	VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	438.538922405227	335	0.000119180753251296
+Pulit WHRadjBMI EU sex combined 346 SNPs	77nuW1	VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	438.155970946699	335	0.000125096916975974
+Pulit WHRadjBMI EU sex combined 346 SNPs	77nuW1	VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0502585172941463	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	78biZu	L-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	427.86470951987	335	0.000439824398320633
+Pulit WHRadjBMI EU sex combined 346 SNPs	78biZu	L-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	428.234541501995	334	0.000368157352922206
+Pulit WHRadjBMI EU sex combined 346 SNPs	78biZu	L-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	428.24412736348	335	0.000420552948851048
+Pulit WHRadjBMI EU sex combined 346 SNPs	78biZu	L-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	427.65248080234	335	0.000450962921863608
+Pulit WHRadjBMI EU sex combined 346 SNPs	78biZu	L-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.054048265705635	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	7HNYnr	LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1149.29465951302	335	9.054559518462e-90
+Pulit WHRadjBMI EU sex combined 346 SNPs	7HNYnr	LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1148.18673948354	334	7.22587181068104e-90
+Pulit WHRadjBMI EU sex combined 346 SNPs	7HNYnr	LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1149.30868779373	335	9.00951863475338e-90
+Pulit WHRadjBMI EU sex combined 346 SNPs	7HNYnr	LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1149.26824034592	335	9.13999569971927e-90
+Pulit WHRadjBMI EU sex combined 346 SNPs	7HNYnr	LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.104138168425274	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	7Lhv8U	PUFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	597.421359886316	335	4.84612137027911e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	7Lhv8U	PUFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	598.504361921751	334	2.8291311385001e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	7Lhv8U	PUFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	599.557777772368	335	3.00412850081619e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	7Lhv8U	PUFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	596.622333990508	335	5.7920698592404e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	7Lhv8U	PUFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0545071890123355	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	7nfMnr	Ile.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	442.151649022109	335	7.50252136646895e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	7nfMnr	Ile.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	443.27176374732	334	5.5802170511921e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	7nfMnr	Ile.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	443.271808768157	335	6.48591726642826e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	7nfMnr	Ile.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	441.666007573757	335	7.98893629535786e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	7nfMnr	Ile.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0439512722239109	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	7PkZHv	XL-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	680.857554800185	335	9.11805411023803e-26
+Pulit WHRadjBMI EU sex combined 346 SNPs	7PkZHv	XL-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	683.654668472442	334	3.09189726164754e-26
+Pulit WHRadjBMI EU sex combined 346 SNPs	7PkZHv	XL-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	683.77398601233	335	4.30478691940719e-26
+Pulit WHRadjBMI EU sex combined 346 SNPs	7PkZHv	XL-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	679.876061220383	335	1.17301704694112e-25
+Pulit WHRadjBMI EU sex combined 346 SNPs	7PkZHv	XL-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0701388795161662	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	7QxUeS	M-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	476.508420614771	335	5.59430709913475e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	7QxUeS	M-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	473.582335941395	334	7.31970053543046e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	7QxUeS	M-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	476.751460311713	335	5.38727585774702e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	7QxUeS	M-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	476.383530290743	335	5.70367824236725e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	7QxUeS	M-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.06221316209516	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	8C9P1S	L-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	783.735452932159	335	5.5606934410223e-38
+Pulit WHRadjBMI EU sex combined 346 SNPs	8C9P1S	L-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	783.183612262199	334	4.24534341746892e-38
+Pulit WHRadjBMI EU sex combined 346 SNPs	8C9P1S	L-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	785.680104725835	335	3.17153428501069e-38
+Pulit WHRadjBMI EU sex combined 346 SNPs	8C9P1S	L-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	782.847758850084	335	7.18289918553328e-38
+Pulit WHRadjBMI EU sex combined 346 SNPs	8C9P1S	L-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.120403632506279	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	8DO0c1	S-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	719.542255424582	335	3.42195666987327e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	8DO0c1	S-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	719.297727630297	334	2.48259735139382e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	8DO0c1	S-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	720.556330786438	335	2.60250523009997e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	8DO0c1	S-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	719.297121931073	335	3.65587181143479e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	8DO0c1	S-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0899825488808479	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	9Yi6iL	XXL-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	441.50712647658	335	8.15448876831518e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	9Yi6iL	XXL-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	441.380084675307	334	7.14607537406677e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	9Yi6iL	XXL-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	441.7359470205	335	7.91707933788835e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	9Yi6iL	XXL-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	441.391926924711	335	8.2765633249589e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	9Yi6iL	XXL-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0519973002680195	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	AkqoBU	S-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	564.026366633742	335	6.45794761338081e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	AkqoBU	S-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	559.400587122024	334	1.28801172770204e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	AkqoBU	S-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	564.989144633729	335	5.28849333302522e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	AkqoBU	S-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	563.655638651101	335	6.97346719437758e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	AkqoBU	S-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0522731767336547	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ArCofi	XS-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	482.859801515258	335	2.06036216733835e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	ArCofi	XS-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	482.652242157015	334	1.75924740170005e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	ArCofi	XS-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	483.630916370449	335	1.82162632851275e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	ArCofi	XS-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	482.528897601424	335	2.17190653280466e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	ArCofi	XS-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0437787129932722	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	asaTuw	S-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	569.417538458887	335	2.0971950609899e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	asaTuw	S-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	564.262427057314	334	4.70795115784296e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	asaTuw	S-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	570.466897783309	335	1.6820027497544e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	asaTuw	S-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	569.034698041831	335	2.27266141295449e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	asaTuw	S-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0511371443782034	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	AwPT89	XXL-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	443.647578408721	335	6.17535508242219e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	AwPT89	XXL-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	443.805793283881	334	5.20122023424485e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	AwPT89	XXL-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	443.89302610533	335	5.98021504477493e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	AwPT89	XXL-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	443.518214297222	335	6.28063391115097e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	AwPT89	XXL-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0515542621147668	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	AXi9pH	GlycA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	579.347999798657	335	2.54377427444659e-15
+Pulit WHRadjBMI EU sex combined 346 SNPs	AXi9pH	GlycA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	580.700631263862	334	1.43529378790476e-15
+Pulit WHRadjBMI EU sex combined 346 SNPs	AXi9pH	GlycA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	581.148683418527	335	1.72628983088255e-15
+Pulit WHRadjBMI EU sex combined 346 SNPs	AXi9pH	GlycA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	578.494723709489	335	3.05508154015667e-15
+Pulit WHRadjBMI EU sex combined 346 SNPs	AXi9pH	GlycA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0662468253277933	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	aXy1uK	VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	524.885360067802	335	1.43221596357334e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	aXy1uK	VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	526.381586734629	334	8.58342531779591e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	aXy1uK	VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	526.38823402087	335	1.08235929380614e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	aXy1uK	VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	524.268116875532	335	1.60620254841553e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	aXy1uK	VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.076608549575066	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	AZP07M	XL-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	497.554904351994	335	1.84098543955927e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	AZP07M	XL-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	498.199478437103	334	1.34276337046364e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	AZP07M	XL-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	498.219715906407	335	1.64492058514375e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	AZP07M	XL-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	497.301306496348	335	1.92164505159264e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	AZP07M	XL-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0626436176817891	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	B2Ryp7	L-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	694.588928244229	335	2.59430904088046e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	B2Ryp7	L-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	694.551145969869	334	1.81062499736315e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	B2Ryp7	L-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	695.383196918211	335	2.10737148009242e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	B2Ryp7	L-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	694.18731500003	335	2.88161322917603e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	B2Ryp7	L-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0815371780235931	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	baeKRo	Ace.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	302.632064860043	335	0.897461346540424
+Pulit WHRadjBMI EU sex combined 346 SNPs	baeKRo	Ace.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	302.493485945658	334	0.891325073272469
+Pulit WHRadjBMI EU sex combined 346 SNPs	baeKRo	Ace.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	302.632364393675	335	0.897459132984093
+Pulit WHRadjBMI EU sex combined 346 SNPs	baeKRo	Ace.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	302.631659663071	335	0.897464340896875
+Pulit WHRadjBMI EU sex combined 346 SNPs	baeKRo	Ace.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.246853804839177	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	bq52yL	XL-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	734.944882577689	335	5.17071593801375e-32
+Pulit WHRadjBMI EU sex combined 346 SNPs	bq52yL	XL-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	735.095228906111	334	3.3337520686989e-32
+Pulit WHRadjBMI EU sex combined 346 SNPs	bq52yL	XL-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	737.168941614538	335	2.80561665954522e-32
+Pulit WHRadjBMI EU sex combined 346 SNPs	bq52yL	XL-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	734.106881580173	335	6.50769767774703e-32
+Pulit WHRadjBMI EU sex combined 346 SNPs	bq52yL	XL-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0727465431633992	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	bRrtBt	SM.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	593.343720437352	335	1.20021331844336e-16
+Pulit WHRadjBMI EU sex combined 346 SNPs	bRrtBt	SM.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	588.269035017665	334	2.75342123503718e-16
+Pulit WHRadjBMI EU sex combined 346 SNPs	bRrtBt	SM.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	593.426291341866	335	1.17846245037955e-16
+Pulit WHRadjBMI EU sex combined 346 SNPs	bRrtBt	SM.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	593.288039144977	335	1.21510493963594e-16
+Pulit WHRadjBMI EU sex combined 346 SNPs	bRrtBt	SM.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0671907104705625	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	BuH2Ws	XL-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	741.183553886905	335	9.27037008830985e-33
+Pulit WHRadjBMI EU sex combined 346 SNPs	BuH2Ws	XL-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	744.190743941266	334	2.69241411545281e-33
+Pulit WHRadjBMI EU sex combined 346 SNPs	BuH2Ws	XL-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	744.623944437058	335	3.57510231041338e-33
+Pulit WHRadjBMI EU sex combined 346 SNPs	BuH2Ws	XL-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	740.113228842865	335	1.246012585903e-32
+Pulit WHRadjBMI EU sex combined 346 SNPs	BuH2Ws	XL-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0679108294887383	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	bvJ6Ne	S-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	848.176822055116	335	2.76844617724602e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	bvJ6Ne	S-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	848.420914691929	334	1.60829995812235e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	bvJ6Ne	S-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	848.421183373509	335	2.56994315088529e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	bvJ6Ne	S-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	848.111738643182	335	2.82384751147006e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	bvJ6Ne	S-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.100997705683223	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	BWJVbb	S-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	719.542255424582	335	3.42195666987327e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	BWJVbb	S-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	719.297727630297	334	2.48259735139382e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	BWJVbb	S-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	720.556330786438	335	2.60250523009997e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	BWJVbb	S-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	719.297121931073	335	3.65587181143479e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	BWJVbb	S-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0899825488808479	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	bZuPaU	S-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	987.705925397375	335	1.31478231681906e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	bZuPaU	S-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	987.683937280714	334	7.68429344501304e-66
+Pulit WHRadjBMI EU sex combined 346 SNPs	bZuPaU	S-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	988.261834481507	335	1.09320930456673e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	bZuPaU	S-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	987.55053956902	335	1.38437324354818e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	bZuPaU	S-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0905146860879292	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	CDEQUm	M-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	959.358404017867	335	1.49715613370287e-61
+Pulit WHRadjBMI EU sex combined 346 SNPs	CDEQUm	M-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	958.714742161168	334	1.08811114125701e-61
+Pulit WHRadjBMI EU sex combined 346 SNPs	CDEQUm	M-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	959.688755645168	335	1.34384399575606e-61
+Pulit WHRadjBMI EU sex combined 346 SNPs	CDEQUm	M-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	959.27045897237	335	1.54083476484559e-61
+Pulit WHRadjBMI EU sex combined 346 SNPs	CDEQUm	M-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0848133532478242	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ch88q2	EstC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	894.898179129602	335	1.44510994451141e-52
+Pulit WHRadjBMI EU sex combined 346 SNPs	ch88q2	EstC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	893.300551685432	334	1.45663209985209e-52
+Pulit WHRadjBMI EU sex combined 346 SNPs	ch88q2	EstC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	894.953292649847	335	1.42026910986686e-52
+Pulit WHRadjBMI EU sex combined 346 SNPs	ch88q2	EstC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	894.828082346747	335	1.47733141211129e-52
+Pulit WHRadjBMI EU sex combined 346 SNPs	ch88q2	EstC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0917588384296858	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	CifqvC	XS-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	415.576593836108	335	0.00175746387090564
+Pulit WHRadjBMI EU sex combined 346 SNPs	CifqvC	XS-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	411.067293697459	334	0.00252000380318233
+Pulit WHRadjBMI EU sex combined 346 SNPs	CifqvC	XS-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	415.669711605629	335	0.00173995974365672
+Pulit WHRadjBMI EU sex combined 346 SNPs	CifqvC	XS-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	415.50954915335	335	0.00177016748000937
+Pulit WHRadjBMI EU sex combined 346 SNPs	CifqvC	XS-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0559748074643329	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	CIs3Az	S-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	434.939839755743	335	0.000187035387548236
+Pulit WHRadjBMI EU sex combined 346 SNPs	CIs3Az	S-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	433.309396402543	334	0.000198797700709453
+Pulit WHRadjBMI EU sex combined 346 SNPs	CIs3Az	S-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	435.650069255095	335	0.000171262354373706
+Pulit WHRadjBMI EU sex combined 346 SNPs	CIs3Az	S-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	434.565822257135	335	0.000195885142950034
+Pulit WHRadjBMI EU sex combined 346 SNPs	CIs3Az	S-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.050961978291747	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	CoMUwV	M-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	596.084754796189	335	6.52924991758823e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	CoMUwV	M-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	595.857034402771	334	5.11982719403288e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	CoMUwV	M-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	598.107964423133	335	4.15670696178841e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	CoMUwV	M-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	595.323884594926	335	7.73402823730392e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	CoMUwV	M-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0648010485270354	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	cQHlDM	M-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	782.684619559997	335	7.52871079763572e-38
+Pulit WHRadjBMI EU sex combined 346 SNPs	cQHlDM	M-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	780.446047218415	334	9.35482919633161e-38
+Pulit WHRadjBMI EU sex combined 346 SNPs	cQHlDM	M-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	785.172844562385	335	3.67216493961291e-38
+Pulit WHRadjBMI EU sex combined 346 SNPs	cQHlDM	M-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	781.669328357794	335	1.00864684955091e-37
+Pulit WHRadjBMI EU sex combined 346 SNPs	cQHlDM	M-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0728068454203604	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	CxPiZQ	HDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	827.47228084911	335	1.4392129837839e-43
+Pulit WHRadjBMI EU sex combined 346 SNPs	CxPiZQ	HDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	829.859020504707	334	4.45114372317401e-44
+Pulit WHRadjBMI EU sex combined 346 SNPs	CxPiZQ	HDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	831.100227508009	335	4.84629112035584e-44
+Pulit WHRadjBMI EU sex combined 346 SNPs	CxPiZQ	HDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	825.712819145414	335	2.43716857898116e-43
+Pulit WHRadjBMI EU sex combined 346 SNPs	CxPiZQ	HDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.131596053233219	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	cZEyrN	Crea.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	464.788006344577	335	3.28103367101568e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	cZEyrN	Crea.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	464.797205405462	334	2.75616118761753e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	cZEyrN	Crea.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	464.804722181201	335	3.2729957208136e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	cZEyrN	Crea.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	464.774111681297	335	3.28772954930727e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	cZEyrN	Crea.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0653878559173425	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	d428EK	M-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	701.41750883478	335	4.31352376157213e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	d428EK	M-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	698.948325887393	334	5.69544107348421e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	d428EK	M-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	702.615998284545	335	3.1432295303059e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	d428EK	M-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	700.994145918661	335	4.82323590732231e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	d428EK	M-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0681837486526236	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	DBqA7S	M-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	558.436876386046	335	2.04048092421116e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	DBqA7S	M-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	557.450466739067	334	1.92201380732961e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	DBqA7S	M-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	559.301343992443	335	1.70968295632759e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	DBqA7S	M-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	558.105080240183	335	2.18359151145054e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	DBqA7S	M-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0536368306839181	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	dC21Mc	L-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	694.588928244229	335	2.59430904088046e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	dC21Mc	L-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	694.551145969869	334	1.81062499736315e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	dC21Mc	L-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	695.383196918211	335	2.10737148009242e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	dC21Mc	L-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	694.18731500003	335	2.88161322917603e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	dC21Mc	L-HDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0815371780235931	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	dIR81F	M-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1116.64236334477	335	9.29544343490231e-85
+Pulit WHRadjBMI EU sex combined 346 SNPs	dIR81F	M-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1116.22084979397	334	5.8842401156126e-85
+Pulit WHRadjBMI EU sex combined 346 SNPs	dIR81F	M-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1116.76732074871	335	8.89624690391156e-85
+Pulit WHRadjBMI EU sex combined 346 SNPs	dIR81F	M-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1116.59647313192	335	9.44649758186165e-85
+Pulit WHRadjBMI EU sex combined 346 SNPs	dIR81F	M-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.105818162317792	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	Dl9Myc	FAw3.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	370.593724918643	335	0.0877478775778736
+Pulit WHRadjBMI EU sex combined 346 SNPs	Dl9Myc	FAw3.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	370.500409708096	334	0.0823527324994271
+Pulit WHRadjBMI EU sex combined 346 SNPs	Dl9Myc	FAw3.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	370.594726176208	335	0.0877421141738926
+Pulit WHRadjBMI EU sex combined 346 SNPs	Dl9Myc	FAw3.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	370.592152223709	335	0.0877569308607192
+Pulit WHRadjBMI EU sex combined 346 SNPs	Dl9Myc	FAw3.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0411354639892434	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	Dp5s5f	XL-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	741.183553886905	335	9.27037008830985e-33
+Pulit WHRadjBMI EU sex combined 346 SNPs	Dp5s5f	XL-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	744.190743941266	334	2.69241411545281e-33
+Pulit WHRadjBMI EU sex combined 346 SNPs	Dp5s5f	XL-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	744.623944437058	335	3.57510231041338e-33
+Pulit WHRadjBMI EU sex combined 346 SNPs	Dp5s5f	XL-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	740.113228842865	335	1.246012585903e-32
+Pulit WHRadjBMI EU sex combined 346 SNPs	Dp5s5f	XL-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0679108294887383	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	DzC5Jn	ApoB.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1189.90306384267	335	4.40303197177403e-96
+Pulit WHRadjBMI EU sex combined 346 SNPs	DzC5Jn	ApoB.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1190.75618726426	334	1.71134106305871e-96
+Pulit WHRadjBMI EU sex combined 346 SNPs	DzC5Jn	ApoB.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1193.01721284052	335	1.43246528317782e-96
+Pulit WHRadjBMI EU sex combined 346 SNPs	DzC5Jn	ApoB.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1188.98191881906	335	6.13629887239544e-96
+Pulit WHRadjBMI EU sex combined 346 SNPs	DzC5Jn	ApoB.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.120090086446034	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	e0M6J5	XS-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	415.576593836108	335	0.00175746387090564
+Pulit WHRadjBMI EU sex combined 346 SNPs	e0M6J5	XS-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	411.067293697459	334	0.00252000380318233
+Pulit WHRadjBMI EU sex combined 346 SNPs	e0M6J5	XS-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	415.669711605629	335	0.00173995974365672
+Pulit WHRadjBMI EU sex combined 346 SNPs	e0M6J5	XS-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	415.50954915335	335	0.00177016748000937
+Pulit WHRadjBMI EU sex combined 346 SNPs	e0M6J5	XS-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0559748074643329	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	e3NfZp	XL-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	497.554904351994	335	1.84098543955927e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	e3NfZp	XL-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	498.199478437103	334	1.34276337046364e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	e3NfZp	XL-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	498.219715906407	335	1.64492058514375e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	e3NfZp	XL-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	497.301306496348	335	1.92164505159264e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	e3NfZp	XL-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0626436176817891	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	egQ088	DHAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	388.869766556614	335	0.0225099958960317
+Pulit WHRadjBMI EU sex combined 346 SNPs	egQ088	DHAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	388.877942961498	334	0.0205521310195009
+Pulit WHRadjBMI EU sex combined 346 SNPs	egQ088	DHAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	388.880329488708	335	0.022490224349869
+Pulit WHRadjBMI EU sex combined 346 SNPs	egQ088	DHAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	388.85679399689	335	0.0225342982843001
+Pulit WHRadjBMI EU sex combined 346 SNPs	egQ088	DHAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0434121748456145	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	epCiOK	XL-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	570.208868329096	335	1.77585821515736e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	epCiOK	XL-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	569.086152297035	334	1.71405515725753e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	epCiOK	XL-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	570.242880389396	335	1.76319649846464e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	epCiOK	XL-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	570.180381378551	335	1.78653224096457e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	epCiOK	XL-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.067296331626962	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	erMwyQ	DAG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	441.550041509793	335	8.10945250650791e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	erMwyQ	DAG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	440.841376842034	334	7.66359460895672e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	erMwyQ	DAG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	442.418279209548	335	7.24760229247394e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	erMwyQ	DAG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	441.234396516605	335	8.44631449812881e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	erMwyQ	DAG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0437498842197893	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	EsjvqG	L-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	636.882834665522	335	5.12778073310544e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	EsjvqG	L-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	636.963966045662	334	3.62707458940089e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	EsjvqG	L-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	636.977586137382	335	5.01236314343728e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	EsjvqG	L-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	636.820275261373	335	5.20542744118736e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	EsjvqG	L-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0786369351119143	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	f1HkeF	Leu.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	437.820836202548	335	0.00013050222351896
+Pulit WHRadjBMI EU sex combined 346 SNPs	f1HkeF	Leu.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	438.416298489021	334	0.000104684670216013
+Pulit WHRadjBMI EU sex combined 346 SNPs	f1HkeF	Leu.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	438.84231236006	335	0.000114683438651685
+Pulit WHRadjBMI EU sex combined 346 SNPs	f1HkeF	Leu.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	437.350528650073	335	0.000138462730332764
+Pulit WHRadjBMI EU sex combined 346 SNPs	f1HkeF	Leu.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0485498226418822	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	f6Qx3F	M-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	701.41750883478	335	4.31352376157213e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	f6Qx3F	M-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	698.948325887393	334	5.69544107348421e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	f6Qx3F	M-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	702.615998284545	335	3.1432295303059e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	f6Qx3F	M-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	700.994145918661	335	4.82323590732231e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	f6Qx3F	M-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0681837486526236	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	FLGSi0	XL-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	720.569418498319	335	2.5933216051092e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	FLGSi0	XL-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	721.446886110396	334	1.38744984572041e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	FLGSi0	XL-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	722.332581643043	335	1.60996619747326e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	FLGSi0	XL-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	719.559279021246	335	3.4062769003815e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	FLGSi0	XL-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.102464547067311	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	Fli2mR	S-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	597.851946149513	335	4.40159999860796e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	Fli2mR	S-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	591.750402510643	334	1.27673895716144e-16
+Pulit WHRadjBMI EU sex combined 346 SNPs	Fli2mR	S-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	599.515569150205	335	3.03270527684807e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	Fli2mR	S-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	597.239298831507	335	5.04719747144755e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	Fli2mR	S-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0590696202068549	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	fp3aZK	XXL-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	414.356535149738	335	0.00200235709989921
+Pulit WHRadjBMI EU sex combined 346 SNPs	fp3aZK	XXL-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	414.195784019987	334	0.00180881887942585
+Pulit WHRadjBMI EU sex combined 346 SNPs	fp3aZK	XXL-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	414.370817414831	335	0.00199931663972345
+Pulit WHRadjBMI EU sex combined 346 SNPs	fp3aZK	XXL-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	414.348870947491	335	0.00200399044149295
+Pulit WHRadjBMI EU sex combined 346 SNPs	fp3aZK	XXL-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0480364374255385	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	FSpiOw	Phe.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	367.919768885489	335	0.10420793265366
+Pulit WHRadjBMI EU sex combined 346 SNPs	FSpiOw	Phe.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	366.877525706701	334	0.104165640313013
+Pulit WHRadjBMI EU sex combined 346 SNPs	FSpiOw	Phe.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	368.048961155579	335	0.10336253943063
+Pulit WHRadjBMI EU sex combined 346 SNPs	FSpiOw	Phe.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	367.83054851043	335	0.104794796572564
+Pulit WHRadjBMI EU sex combined 346 SNPs	FSpiOw	Phe.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0427156994574118	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	FXTpI4	XL-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	472.495430795158	335	1.03648859066894e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	FXTpI4	XL-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	473.191561364891	334	7.77342134116302e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	FXTpI4	XL-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	473.389295162948	335	9.04347436219848e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	FXTpI4	XL-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	472.104839146008	335	1.09993985307384e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	FXTpI4	XL-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0665518878228626	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	g7dDlu	Serum-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	895.65160751906	335	1.14007977967504e-52
+Pulit WHRadjBMI EU sex combined 346 SNPs	g7dDlu	Serum-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	894.083389934103	334	1.1383788561618e-52
+Pulit WHRadjBMI EU sex combined 346 SNPs	g7dDlu	Serum-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	895.693867245775	335	1.12501524401884e-52
+Pulit WHRadjBMI EU sex combined 346 SNPs	g7dDlu	Serum-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	895.631618972098	335	1.14727515683382e-52
+Pulit WHRadjBMI EU sex combined 346 SNPs	g7dDlu	Serum-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0922480420586491	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	g7yXcJ	IDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1052.83765098125	335	3.80197002695176e-75
+Pulit WHRadjBMI EU sex combined 346 SNPs	g7yXcJ	IDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1052.67855352928	334	2.25662289328613e-75
+Pulit WHRadjBMI EU sex combined 346 SNPs	g7yXcJ	IDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1053.00802021047	335	3.58658752605901e-75
+Pulit WHRadjBMI EU sex combined 346 SNPs	g7yXcJ	IDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1052.77213963557	335	3.88818721970482e-75
+Pulit WHRadjBMI EU sex combined 346 SNPs	g7yXcJ	IDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.098439584509059	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	GadduW	IDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	570.161388386266	335	1.79368411272893e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	GadduW	IDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	564.948371308706	334	4.08078081641942e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	GadduW	IDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	570.767549111217	335	1.57881662059098e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	GadduW	IDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	569.904951193155	335	1.8930631931046e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	GadduW	IDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0591743998588416	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	h33rW0	XL-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	680.857554800185	335	9.11805411023803e-26
+Pulit WHRadjBMI EU sex combined 346 SNPs	h33rW0	XL-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	683.654668472442	334	3.09189726164754e-26
+Pulit WHRadjBMI EU sex combined 346 SNPs	h33rW0	XL-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	683.77398601233	335	4.30478691940719e-26
+Pulit WHRadjBMI EU sex combined 346 SNPs	h33rW0	XL-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	679.876061220383	335	1.17301704694112e-25
+Pulit WHRadjBMI EU sex combined 346 SNPs	h33rW0	XL-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0701388795161662	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	h6YDWR	Serum-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	978.885592966555	335	2.44063940843304e-64
+Pulit WHRadjBMI EU sex combined 346 SNPs	h6YDWR	Serum-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	981.192529351287	334	6.62606133877804e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	h6YDWR	Serum-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	984.990895613861	335	3.23576965837851e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	h6YDWR	Serum-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	976.761574224508	335	4.92198064824314e-64
+Pulit WHRadjBMI EU sex combined 346 SNPs	h6YDWR	Serum-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0948417790113041	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	H76Jpb	M-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	840.644238966695	335	2.72495332953409e-45
+Pulit WHRadjBMI EU sex combined 346 SNPs	H76Jpb	M-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	839.65604157677	334	2.31137878383582e-45
+Pulit WHRadjBMI EU sex combined 346 SNPs	H76Jpb	M-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	841.499336684668	335	2.10332869280634e-45
+Pulit WHRadjBMI EU sex combined 346 SNPs	H76Jpb	M-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	840.437799952142	335	2.90065644678763e-45
+Pulit WHRadjBMI EU sex combined 346 SNPs	H76Jpb	M-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0720955134344017	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	H7dqeS	S-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	695.390115737118	335	2.10355688984174e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	H7dqeS	S-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	693.818205427627	334	2.19421166668818e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	H7dqeS	S-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	695.990346487471	335	1.79749110565939e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	H7dqeS	S-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	695.219409593147	335	2.19971089434218e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	H7dqeS	S-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0917145168718367	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	HkVjsd	XXL-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	524.64810615398	335	1.49678268269879e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	HkVjsd	XXL-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	526.047218071601	334	9.13916446208829e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	HkVjsd	XXL-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	526.420331580472	335	1.07588877094539e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	HkVjsd	XXL-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	524.012580674328	335	1.6841687960019e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	HkVjsd	XXL-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0643873522800666	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	HLK6Z9	XL-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	472.495430795158	335	1.03648859066894e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	HLK6Z9	XL-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	473.191561364891	334	7.77342134116302e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	HLK6Z9	XL-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	473.389295162948	335	9.04347436219848e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	HLK6Z9	XL-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	472.104839146008	335	1.09993985307384e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	HLK6Z9	XL-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0665518878228626	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	hlV38z	L-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	657.20714992319	335	3.58066705567062e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	hlV38z	L-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	654.068662464221	334	5.54420727724265e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	hlV38z	L-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	657.881810110171	335	3.02837230317271e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	hlV38z	L-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	656.830356317671	335	3.93155558364834e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	hlV38z	L-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0864469062162536	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	hPx352	XL-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	460.812543786827	335	5.84568010127757e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	hPx352	XL-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	459.472489384471	334	5.99123284441929e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	hPx352	XL-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	460.99386230432	335	5.69514574580866e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	hPx352	XL-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	460.702389287675	335	5.93899847730439e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	hPx352	XL-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0617327303037736	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	HyeJ0b	XXL-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	524.64810615398	335	1.49678268269879e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	HyeJ0b	XXL-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	526.047218071601	334	9.13916446208829e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	HyeJ0b	XXL-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	526.420331580472	335	1.07588877094539e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	HyeJ0b	XXL-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	524.012580674328	335	1.6841687960019e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	HyeJ0b	XXL-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0643873522800666	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	i39hax	XXL-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	505.633937903845	335	4.59669150174375e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	i39hax	XXL-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	505.510747759442	334	3.793717032353e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	i39hax	XXL-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	506.867751202484	335	3.70547184345926e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	i39hax	XXL-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	505.103836066087	335	5.04120174743963e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	i39hax	XXL-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0584826161187237	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	i45hDV	L-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	900.515549785964	335	2.46035941600971e-53
+Pulit WHRadjBMI EU sex combined 346 SNPs	i45hDV	L-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	904.531581376699	334	4.18945710171831e-54
+Pulit WHRadjBMI EU sex combined 346 SNPs	i45hDV	L-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	906.192391613535	335	4.08434932441319e-54
+Pulit WHRadjBMI EU sex combined 346 SNPs	i45hDV	L-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	898.537760568125	335	4.59237146555677e-53
+Pulit WHRadjBMI EU sex combined 346 SNPs	i45hDV	L-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0812184355002213	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	I4ZV3l	SFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	455.267610697087	335	1.28292112387815e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	I4ZV3l	SFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	455.32472234865	334	1.08114477588563e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	I4ZV3l	SFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	455.331179268042	335	1.27157830715993e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	I4ZV3l	SFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	455.22889005844	335	1.28987781821819e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	I4ZV3l	SFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0519989060318409	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	I6Fzrp	L-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	526.284336905443	335	1.10356735739278e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	I6Fzrp	L-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	527.191534675541	334	7.37133334358109e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	I6Fzrp	L-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	527.284156007986	335	9.15351466445310e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	I6Fzrp	L-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	525.915830849999	335	1.18213612723517e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	I6Fzrp	L-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0603602604290188	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	iEcUVw	FALen.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	596.905300897518	335	5.43780774509739e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	iEcUVw	FALen.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	596.927311202683	334	4.02974094019713e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	iEcUVw	FALen.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	598.410889645321	335	3.88433371117996e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	iEcUVw	FALen.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	596.215141224665	335	6.34233444373361e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	iEcUVw	FALen.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0592373879304023	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	iigG4K	L-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	715.234383928997	335	1.09072547969134e-29
+Pulit WHRadjBMI EU sex combined 346 SNPs	iigG4K	L-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	713.948755464702	334	1.04967124035744e-29
+Pulit WHRadjBMI EU sex combined 346 SNPs	iigG4K	L-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	717.242478176166	335	6.3585577109683e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	iigG4K	L-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	714.421373751577	335	1.35656036169388e-29
+Pulit WHRadjBMI EU sex combined 346 SNPs	iigG4K	L-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0701561709203684	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	IiKWw6	M-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	516.954632338554	335	6.1424657910862e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	IiKWw6	M-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	512.543164389363	334	1.08992155894276e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	IiKWw6	M-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	517.559252117373	335	5.50435545870035e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	IiKWw6	M-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	516.722435919533	335	6.40636284261228e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	IiKWw6	M-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0477678628623951	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ILafFN	IDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	605.504764497949	335	7.85093773565668e-18
+Pulit WHRadjBMI EU sex combined 346 SNPs	ILafFN	IDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	597.609956484097	334	3.45811409677589e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	ILafFN	IDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	606.903525322914	335	5.71280241391917e-18
+Pulit WHRadjBMI EU sex combined 346 SNPs	ILafFN	IDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	604.95338099274	335	8.89703431487179e-18
+Pulit WHRadjBMI EU sex combined 346 SNPs	ILafFN	IDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0601305999807882	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	iM4Lbq	XS-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	482.859801515258	335	2.06036216733835e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	iM4Lbq	XS-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	482.652242157015	334	1.75924740170005e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	iM4Lbq	XS-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	483.630916370449	335	1.82162632851275e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	iM4Lbq	XS-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	482.528897601424	335	2.17190653280466e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	iM4Lbq	XS-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0437787129932722	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	iU1zBz	CLAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	417.407168808398	335	0.00144153722879101
+Pulit WHRadjBMI EU sex combined 346 SNPs	iU1zBz	CLAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	416.643111323497	334	0.00138724313258494
+Pulit WHRadjBMI EU sex combined 346 SNPs	iU1zBz	CLAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	417.409130434887	335	0.00144122890709284
+Pulit WHRadjBMI EU sex combined 346 SNPs	iU1zBz	CLAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	417.405980126874	335	0.0014417240914184
+Pulit WHRadjBMI EU sex combined 346 SNPs	iU1zBz	CLAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0979199342888121	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	IVu17G	M-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1021.36874399413	335	1.67996648312502e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	IVu17G	M-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1021.18455393206	334	1.02014574059285e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	IVu17G	M-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1021.74162333507	335	1.4813199528657e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	IVu17G	M-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1021.25725940596	335	1.7443703756403e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	IVu17G	M-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0900130158973125	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	IwjXUh	L-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	564.861830575297	335	5.43021269806655e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	IwjXUh	L-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	559.356148411235	334	1.29984226828705e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	IwjXUh	L-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	565.863292228469	335	4.40940076851277e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	IwjXUh	L-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	564.521721966333	335	5.82747189589499e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	IwjXUh	L-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0525431941972199	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ixlI3h	M-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	656.421098176838	335	4.35147564393731e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	ixlI3h	M-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	654.392766107279	334	5.11634081519937e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	ixlI3h	M-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	659.054958535199	335	2.26214447804265e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	ixlI3h	M-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	655.420113643568	335	5.57588807686096e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	ixlI3h	M-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0676452803725128	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	iz01px	L-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	524.885360067802	335	1.43221596357334e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	iz01px	L-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	526.381586734629	334	8.58342531779591e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	iz01px	L-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	526.38823402087	335	1.08235929380614e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	iz01px	L-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	524.268116875532	335	1.60620254841553e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	iz01px	L-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.076608549575066	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	izRo4H	XL-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	460.812543786827	335	5.84568010127757e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	izRo4H	XL-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	459.472489384471	334	5.99123284441929e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	izRo4H	XL-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	460.99386230432	335	5.69514574580866e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	izRo4H	XL-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	460.702389287675	335	5.93899847730439e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	izRo4H	XL-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0617327303037736	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	jM5ebB	L-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	799.741852845547	335	5.30917700719263e-40
+Pulit WHRadjBMI EU sex combined 346 SNPs	jM5ebB	L-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	802.764803331329	334	1.40800081172275e-40
+Pulit WHRadjBMI EU sex combined 346 SNPs	jM5ebB	L-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	803.134778029395	335	1.96382438260928e-40
+Pulit WHRadjBMI EU sex combined 346 SNPs	jM5ebB	L-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	798.10975261548	335	8.55733144540944e-40
+Pulit WHRadjBMI EU sex combined 346 SNPs	jM5ebB	L-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0827532327010085	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	jRKD1i	S-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1102.50771086424	335	1.31453083568317e-82
+Pulit WHRadjBMI EU sex combined 346 SNPs	jRKD1i	S-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1101.81444259331	334	9.20191008433245e-83
+Pulit WHRadjBMI EU sex combined 346 SNPs	jRKD1i	S-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1102.50805479442	335	1.31437289247412e-82
+Pulit WHRadjBMI EU sex combined 346 SNPs	jRKD1i	S-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1102.50686593449	335	1.31491893364056e-82
+Pulit WHRadjBMI EU sex combined 346 SNPs	jRKD1i	S-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.109205650725991	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	jSNe6K	DHA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	388.869766556614	335	0.0225099958960317
+Pulit WHRadjBMI EU sex combined 346 SNPs	jSNe6K	DHA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	388.877942961498	334	0.0205521310195009
+Pulit WHRadjBMI EU sex combined 346 SNPs	jSNe6K	DHA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	388.880329488708	335	0.022490224349869
+Pulit WHRadjBMI EU sex combined 346 SNPs	jSNe6K	DHA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	388.85679399689	335	0.0225342982843001
+Pulit WHRadjBMI EU sex combined 346 SNPs	jSNe6K	DHA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0434121748456145	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	JzQXQl	MUFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	662.588194504413	335	9.36715613597583e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	JzQXQl	MUFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	663.547731425722	334	5.20704992751145e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	JzQXQl	MUFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	664.501841076718	335	5.79925942181094e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	JzQXQl	MUFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	661.654689194213	335	1.18296840424207e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	JzQXQl	MUFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0734343044302558	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	K8G2HL	L-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	796.683256923589	335	1.29804155784791e-39
+Pulit WHRadjBMI EU sex combined 346 SNPs	K8G2HL	L-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	798.920863876559	334	4.35233193295466e-40
+Pulit WHRadjBMI EU sex combined 346 SNPs	K8G2HL	L-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	798.968531177401	335	6.65721457849609e-40
+Pulit WHRadjBMI EU sex combined 346 SNPs	K8G2HL	L-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	795.642574922501	335	1.75854720367324e-39
+Pulit WHRadjBMI EU sex combined 346 SNPs	K8G2HL	L-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0868252487598436	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	KbSzaw	MUFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	662.588194504413	335	9.36715613597583e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	KbSzaw	MUFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	663.547731425722	334	5.20704992751145e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	KbSzaw	MUFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	664.501841076718	335	5.79925942181094e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	KbSzaw	MUFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	661.654689194213	335	1.18296840424207e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	KbSzaw	MUFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0734343044302558	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	kocmaA	XXL-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	441.50712647658	335	8.15448876831518e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	kocmaA	XXL-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	441.380084675307	334	7.14607537406677e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	kocmaA	XXL-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	441.7359470205	335	7.91707933788835e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	kocmaA	XXL-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	441.391926924711	335	8.2765633249589e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	kocmaA	XXL-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0519973002680195	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	kVr4lF	HDL2-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	713.4804771704	335	1.74561149759863e-29
+Pulit WHRadjBMI EU sex combined 346 SNPs	kVr4lF	HDL2-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	708.604581680044	334	4.39193402488191e-29
+Pulit WHRadjBMI EU sex combined 346 SNPs	kVr4lF	HDL2-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	714.789496834518	335	1.22902464447014e-29
+Pulit WHRadjBMI EU sex combined 346 SNPs	kVr4lF	HDL2-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	712.873467533643	335	2.05366736767271e-29
+Pulit WHRadjBMI EU sex combined 346 SNPs	kVr4lF	HDL2-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.108861061917847	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	L1kYpu	L-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1017.44889514075	335	6.29854270971641e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	L1kYpu	L-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1021.19344377628	334	1.01708583516223e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	L1kYpu	L-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1023.04850149079	335	9.52858554383931e-71
+Pulit WHRadjBMI EU sex combined 346 SNPs	L1kYpu	L-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1015.52354171827	335	1.20436528075415e-69
+Pulit WHRadjBMI EU sex combined 346 SNPs	L1kYpu	L-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.104573239112893	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	l26klZ	XS-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	976.353530659796	335	5.63150572922603e-64
+Pulit WHRadjBMI EU sex combined 346 SNPs	l26klZ	XS-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	977.507391291377	334	2.24403202879824e-64
+Pulit WHRadjBMI EU sex combined 346 SNPs	l26klZ	XS-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	977.871226176842	335	3.41217174893406e-64
+Pulit WHRadjBMI EU sex combined 346 SNPs	l26klZ	XS-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	975.827057354256	335	6.69985033201373e-64
+Pulit WHRadjBMI EU sex combined 346 SNPs	l26klZ	XS-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0939548257450522	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	L4WUxS	SFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	455.267610697087	335	1.28292112387815e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	L4WUxS	SFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	455.32472234865	334	1.08114477588563e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	L4WUxS	SFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	455.331179268042	335	1.27157830715993e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	L4WUxS	SFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	455.22889005844	335	1.28987781821819e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	L4WUxS	SFAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0519989060318409	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	L6Tt61	S-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1002.23780803324	335	1.03815692280929e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	L6Tt61	S-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1004.5499230005	334	2.75577986751294e-68
+Pulit WHRadjBMI EU sex combined 346 SNPs	L6Tt61	S-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1007.83356441745	335	1.59431910745562e-68
+Pulit WHRadjBMI EU sex combined 346 SNPs	L6Tt61	S-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1000.26414714152	335	2.00781474499495e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	L6Tt61	S-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.101716208729431	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	lAIC3t	Alb.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	421.476629446164	335	0.000918351135905741
+Pulit WHRadjBMI EU sex combined 346 SNPs	lAIC3t	Alb.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	420.951152450654	334	0.000858672937744639
+Pulit WHRadjBMI EU sex combined 346 SNPs	lAIC3t	Alb.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	421.569037244706	335	0.000908846711680565
+Pulit WHRadjBMI EU sex combined 346 SNPs	lAIC3t	Alb.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	421.423189360904	335	0.000923889834386397
+Pulit WHRadjBMI EU sex combined 346 SNPs	lAIC3t	Alb.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0460925831251576	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	lcf2Dd	M-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	980.001543345917	335	1.68777109904192e-64
+Pulit WHRadjBMI EU sex combined 346 SNPs	lcf2Dd	M-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	983.192723150842	334	3.41417340744485e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	lcf2Dd	M-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	986.078697371446	335	2.25598160769461e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	lcf2Dd	M-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	977.782226024866	335	3.51395104608426e-64
+Pulit WHRadjBMI EU sex combined 346 SNPs	lcf2Dd	M-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0939077537280542	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	lhGRW0	S-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	569.417538458887	335	2.0971950609899e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	lhGRW0	S-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	564.262427057314	334	4.70795115784296e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	lhGRW0	S-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	570.466897783309	335	1.6820027497544e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	lhGRW0	S-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	569.034698041831	335	2.27266141295449e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	lhGRW0	S-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0511371443782034	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	LiTe9H	S-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1102.50771086424	335	1.31453083568317e-82
+Pulit WHRadjBMI EU sex combined 346 SNPs	LiTe9H	S-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1101.81444259331	334	9.20191008433245e-83
+Pulit WHRadjBMI EU sex combined 346 SNPs	LiTe9H	S-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1102.50805479442	335	1.31437289247412e-82
+Pulit WHRadjBMI EU sex combined 346 SNPs	LiTe9H	S-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1102.50686593449	335	1.31491893364056e-82
+Pulit WHRadjBMI EU sex combined 346 SNPs	LiTe9H	S-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.109205650725991	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	lKh2yY	L-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1002.232543561	335	1.03998594469252e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	lKh2yY	L-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1000.24091001234	334	1.16665903592268e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	lKh2yY	L-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1002.23254961228	335	1.03998384046466e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	lKh2yY	L-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1002.23247824073	335	1.04000865893987e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	lKh2yY	L-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0874980515487234	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	lp01WE	M-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	670.779834875415	335	1.19153407071411e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	lp01WE	M-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	667.79185156101	334	1.78626432835522e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	lp01WE	M-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	671.875378304925	335	9.02679329188158e-25
+Pulit WHRadjBMI EU sex combined 346 SNPs	lp01WE	M-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	670.393722534347	335	1.31388069666174e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	lp01WE	M-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0636030350058048	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	LRRLI1	L-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	657.20714992319	335	3.58066705567062e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	LRRLI1	L-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	654.068662464221	334	5.54420727724265e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	LRRLI1	L-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	657.881810110171	335	3.02837230317271e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	LRRLI1	L-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	656.830356317671	335	3.93155558364834e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	LRRLI1	L-HDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0864469062162536	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	Lu10rh	Gly.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	579.347999798657	335	2.54377427444659e-15
+Pulit WHRadjBMI EU sex combined 346 SNPs	Lu10rh	Gly.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	580.700631263862	334	1.43529378790476e-15
+Pulit WHRadjBMI EU sex combined 346 SNPs	Lu10rh	Gly.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	581.148683418527	335	1.72628983088255e-15
+Pulit WHRadjBMI EU sex combined 346 SNPs	Lu10rh	Gly.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	578.494723709489	335	3.05508154015667e-15
+Pulit WHRadjBMI EU sex combined 346 SNPs	Lu10rh	Gly.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0662468253277933	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	lUcdKD	L-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1254.68210643915	335	2.5221459940033e-106
+Pulit WHRadjBMI EU sex combined 346 SNPs	lUcdKD	L-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1255.0361715164	334	1.14023833180942e-106
+Pulit WHRadjBMI EU sex combined 346 SNPs	lUcdKD	L-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1255.05369632467	335	2.20012155266252e-106
+Pulit WHRadjBMI EU sex combined 346 SNPs	lUcdKD	L-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1254.54595405233	335	2.65158214431884e-106
+Pulit WHRadjBMI EU sex combined 346 SNPs	lUcdKD	L-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.113454118408331	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	LVaq3Q	PC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	586.650925502003	335	5.22966941985639e-16
+Pulit WHRadjBMI EU sex combined 346 SNPs	LVaq3Q	PC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	584.133349711947	334	6.81035810368089e-16
+Pulit WHRadjBMI EU sex combined 346 SNPs	LVaq3Q	PC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	586.714222834761	335	5.15788348538382e-16
+Pulit WHRadjBMI EU sex combined 346 SNPs	LVaq3Q	PC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	586.598241165749	335	5.29017272747362e-16
+Pulit WHRadjBMI EU sex combined 346 SNPs	LVaq3Q	PC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0813922238521609	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	lVrfZW	XXL-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	505.633937903845	335	4.59669150174375e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	lVrfZW	XXL-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	505.510747759442	334	3.793717032353e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	lVrfZW	XXL-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	506.867751202484	335	3.70547184345926e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	lVrfZW	XXL-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	505.103836066087	335	5.04120174743963e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	lVrfZW	XXL-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0584826161187237	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	MbSw5X	XS-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	633.967738218704	335	1.03118918591354e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	MbSw5X	XS-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	634.1612005482	334	7.11682694900342e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	MbSw5X	XS-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	635.904293050594	335	6.48551198971724e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	MbSw5X	XS-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	633.424679397715	335	1.17407471559379e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	MbSw5X	XS-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0669326066053097	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	MKMQ3R	IDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	652.697815169354	335	1.09223672963638e-22
+Pulit WHRadjBMI EU sex combined 346 SNPs	MKMQ3R	IDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	652.96124740125	334	7.29269487344279e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	MKMQ3R	IDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	656.044999012888	335	4.77654126207391e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	MKMQ3R	IDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	651.427277166417	335	1.49340207978502e-22
+Pulit WHRadjBMI EU sex combined 346 SNPs	MKMQ3R	IDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0565001914599871	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ml820G	S-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	724.009779165375	335	1.02206249010184e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	ml820G	S-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	718.768279423297	334	2.86456922016367e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	ml820G	S-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	726.653376872397	335	4.98488654583635e-31
+Pulit WHRadjBMI EU sex combined 346 SNPs	ml820G	S-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	723.070751510004	335	1.31828961471261e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	ml820G	S-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0684964128618985	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	mn5fUN	L-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1254.68210643915	335	2.5221459940033e-106
+Pulit WHRadjBMI EU sex combined 346 SNPs	mn5fUN	L-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1255.0361715164	334	1.14023833180942e-106
+Pulit WHRadjBMI EU sex combined 346 SNPs	mn5fUN	L-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1255.05369632467	335	2.20012155266252e-106
+Pulit WHRadjBMI EU sex combined 346 SNPs	mn5fUN	L-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1254.54595405233	335	2.65158214431884e-106
+Pulit WHRadjBMI EU sex combined 346 SNPs	mn5fUN	L-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.113454118408331	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	mnwflz	L-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1002.232543561	335	1.03998594469252e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	mnwflz	L-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1000.24091001234	334	1.16665903592268e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	mnwflz	L-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1002.23254961228	335	1.03998384046466e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	mnwflz	L-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1002.23247824073	335	1.04000865893987e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	mnwflz	L-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0874980515487234	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	MotQBp	XL-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	680.857554800185	335	9.11805411023803e-26
+Pulit WHRadjBMI EU sex combined 346 SNPs	MotQBp	XL-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	683.654668472442	334	3.09189726164754e-26
+Pulit WHRadjBMI EU sex combined 346 SNPs	MotQBp	XL-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	683.77398601233	335	4.30478691940719e-26
+Pulit WHRadjBMI EU sex combined 346 SNPs	MotQBp	XL-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	679.876061220383	335	1.17301704694112e-25
+Pulit WHRadjBMI EU sex combined 346 SNPs	MotQBp	XL-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0701388795161662	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	mqPSiw	M-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	539.227679576155	335	9.38213541562768e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	mqPSiw	M-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	538.767796706533	334	8.03265966398666e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	mqPSiw	M-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	540.113254445716	335	7.89884232542673e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	mqPSiw	M-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	538.863740382536	335	1.00684285949108e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	mqPSiw	M-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0567871583538856	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	mR3bZJ	L-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	564.861830575297	335	5.43021269806655e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	mR3bZJ	L-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	559.356148411235	334	1.29984226828705e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	mR3bZJ	L-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	565.863292228469	335	4.40940076851277e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	mR3bZJ	L-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	564.521721966333	335	5.82747189589499e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	mR3bZJ	L-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0525431941972199	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	mRSHSv	XS-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	500.182878181277	335	1.17763452131419e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	mRSHSv	XS-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	494.650473490136	334	2.44974952292153e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	mRSHSv	XS-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	500.654435901859	335	1.08639928164503e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	mRSHSv	XS-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	499.929273700769	335	1.22975739187804e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	mRSHSv	XS-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0645346172503607	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	MVgk5K	FreeC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	834.77365722065	335	1.60464279488178e-44
+Pulit WHRadjBMI EU sex combined 346 SNPs	MVgk5K	FreeC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	832.833030682935	334	1.81783836769717e-44
+Pulit WHRadjBMI EU sex combined 346 SNPs	MVgk5K	FreeC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	834.77393084864	335	1.60451049403881e-44
+Pulit WHRadjBMI EU sex combined 346 SNPs	MVgk5K	FreeC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	834.773425544812	335	1.6047548201038e-44
+Pulit WHRadjBMI EU sex combined 346 SNPs	MVgk5K	FreeC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0891372339989652	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	MZLORm	L-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	694.588928244229	335	2.59430904088046e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	MZLORm	L-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	694.551145969869	334	1.81062499736315e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	MZLORm	L-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	695.383196918211	335	2.10737148009242e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	MZLORm	L-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	694.18731500003	335	2.88161322917603e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	MZLORm	L-HDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0815371780235931	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	N6baQE	UnsatDeg.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	524.956059631301	335	1.41351086185559e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	N6baQE	UnsatDeg.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	524.619341161864	334	1.19382141881026e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	N6baQE	UnsatDeg.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	525.554235531666	335	1.26456943194086e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	N6baQE	UnsatDeg.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	524.756365431214	335	1.46697340165636e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	N6baQE	UnsatDeg.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0573721586021044	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	na905l	IDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	564.953879766273	335	5.32737819675397e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	na905l	IDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	561.240630199337	334	8.81281401083858e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	na905l	IDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	566.113991629101	335	4.18509753300683e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	na905l	IDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	564.458182945264	335	5.90480933208334e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	na905l	IDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0726114243009513	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	NaSW5n	M-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1116.64236334477	335	9.29544343490231e-85
+Pulit WHRadjBMI EU sex combined 346 SNPs	NaSW5n	M-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1116.22084979397	334	5.8842401156126e-85
+Pulit WHRadjBMI EU sex combined 346 SNPs	NaSW5n	M-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1116.76732074871	335	8.89624690391156e-85
+Pulit WHRadjBMI EU sex combined 346 SNPs	NaSW5n	M-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1116.59647313192	335	9.44649758186165e-85
+Pulit WHRadjBMI EU sex combined 346 SNPs	NaSW5n	M-LDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.105818162317792	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	nDptwR	XXL-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	505.633937903845	335	4.59669150174375e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	nDptwR	XXL-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	505.510747759442	334	3.793717032353e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	nDptwR	XXL-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	506.867751202484	335	3.70547184345926e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	nDptwR	XXL-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	505.103836066087	335	5.04120174743963e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	nDptwR	XXL-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0584826161187237	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	nKhmjN	XS-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	660.948134823779	335	1.41124002780504e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	nKhmjN	XS-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	653.939897002293	334	5.72390420074094e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	nKhmjN	XS-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	663.328137472609	335	7.78323730910479e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	nKhmjN	XS-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	660.038165588793	335	1.77080154004713e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	nKhmjN	XS-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0718957633480623	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	nP3ZIa	S-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	695.390115737118	335	2.10355688984174e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	nP3ZIa	S-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	693.818205427627	334	2.19421166668818e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	nP3ZIa	S-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	695.990346487471	335	1.79749110565939e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	nP3ZIa	S-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	695.219409593147	335	2.19971089434218e-27
+Pulit WHRadjBMI EU sex combined 346 SNPs	nP3ZIa	S-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0917145168718367	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	NqQXiW	ApoBbyApoA1.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1189.90306384267	335	4.40303197177403e-96
+Pulit WHRadjBMI EU sex combined 346 SNPs	NqQXiW	ApoBbyApoA1.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1190.75618726426	334	1.71134106305871e-96
+Pulit WHRadjBMI EU sex combined 346 SNPs	NqQXiW	ApoBbyApoA1.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1193.01721284052	335	1.43246528317782e-96
+Pulit WHRadjBMI EU sex combined 346 SNPs	NqQXiW	ApoBbyApoA1.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1188.98191881906	335	6.13629887239544e-96
+Pulit WHRadjBMI EU sex combined 346 SNPs	NqQXiW	ApoBbyApoA1.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.120090086446034	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	NREA39	XL-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	511.152251241683	335	1.74028649659506e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	NREA39	XL-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	511.110782877083	334	1.40862107771066e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	NREA39	XL-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	511.158300168015	335	1.73841671206213e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	NREA39	XL-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	511.145983643783	335	1.74222595499057e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	NREA39	XL-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0886751636970631	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	o9n7ux	S-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	569.417538458887	335	2.0971950609899e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	o9n7ux	S-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	564.262427057314	334	4.70795115784296e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	o9n7ux	S-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	570.466897783309	335	1.6820027497544e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	o9n7ux	S-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	569.034698041831	335	2.27266141295449e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	o9n7ux	S-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0511371443782034	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	oEhzzO	ApoA1.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	550.986683023764	335	9.21995002967463e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	oEhzzO	ApoA1.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	546.031982488881	334	1.9240778161888e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	oEhzzO	ApoA1.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	551.132526323213	335	8.95423661322388e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	oEhzzO	ApoA1.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	550.896414414597	335	9.38829383879731e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	oEhzzO	ApoA1.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0872229660061821	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ohefmO	FAw6byFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	622.606366472375	335	1.51852161331078e-19
+Pulit WHRadjBMI EU sex combined 346 SNPs	ohefmO	FAw6byFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	623.906380167817	334	8.15593106403954e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	ohefmO	FAw6byFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	625.089955470787	335	8.47353141347849e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	ohefmO	FAw6byFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	621.515438774363	335	1.96043865074881e-19
+Pulit WHRadjBMI EU sex combined 346 SNPs	ohefmO	FAw6byFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.061980908156379	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	OqwVaX	S-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	716.717235711451	335	7.32338205518274e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	OqwVaX	S-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	716.127747915496	334	5.8406345206207e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	OqwVaX	S-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	717.743816195277	335	5.55599885226993e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	OqwVaX	S-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	716.287922593015	335	8.21922604105096e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	OqwVaX	S-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0724061278757941	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	OsJJVz	M-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	476.508420614771	335	5.59430709913475e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	OsJJVz	M-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	473.582335941395	334	7.31970053543046e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	OsJJVz	M-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	476.751460311713	335	5.38727585774702e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	OsJJVz	M-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	476.383530290743	335	5.70367824236725e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	OsJJVz	M-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.06221316209516	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	oT5H8J	S-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	597.851946149513	335	4.40159999860796e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	oT5H8J	S-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	591.750402510643	334	1.27673895716144e-16
+Pulit WHRadjBMI EU sex combined 346 SNPs	oT5H8J	S-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	599.515569150205	335	3.03270527684807e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	oT5H8J	S-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	597.239298831507	335	5.04719747144755e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	oT5H8J	S-VLDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0590696202068549	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	oWtjGN	HDL3-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	536.985265790266	335	1.44778734536364e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	oWtjGN	HDL3-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	536.275748297719	334	1.30276787979224e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	oWtjGN	HDL3-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	537.104106279569	335	1.41498090178334e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	oWtjGN	HDL3-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	536.90329483518	335	1.47085122989691e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	oWtjGN	HDL3-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.074972769712159	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	P0coCz	L-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	799.741852845547	335	5.30917700719263e-40
+Pulit WHRadjBMI EU sex combined 346 SNPs	P0coCz	L-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	802.764803331329	334	1.40800081172275e-40
+Pulit WHRadjBMI EU sex combined 346 SNPs	P0coCz	L-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	803.134778029395	335	1.96382438260928e-40
+Pulit WHRadjBMI EU sex combined 346 SNPs	P0coCz	L-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	798.10975261548	335	8.55733144540944e-40
+Pulit WHRadjBMI EU sex combined 346 SNPs	P0coCz	L-HDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0827532327010085	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	p0ZypG	S-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	569.780013735739	335	1.94343434678188e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	p0ZypG	S-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	566.910521661875	334	2.70749637580125e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	p0ZypG	S-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	571.187399148474	335	1.44511729296781e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	p0ZypG	S-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	569.173518842457	335	2.20741962187643e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	p0ZypG	S-LDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0545682298784823	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	P1h6EX	M-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1021.36874399413	335	1.67996648312502e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	P1h6EX	M-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1021.18455393206	334	1.02014574059285e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	P1h6EX	M-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1021.74162333507	335	1.4813199528657e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	P1h6EX	M-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1021.25725940596	335	1.7443703756403e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	P1h6EX	M-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0900130158973125	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	paQHlu	TotCho.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	567.959768869287	335	2.84671587020914e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	paQHlu	TotCho.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	565.248089940737	334	3.83337734756962e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	paQHlu	TotCho.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	567.978197624737	335	2.83575942400558e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	paQHlu	TotCho.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	567.950280190088	335	2.85237348299963e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	paQHlu	TotCho.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0740690810025882	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	PIXWAC	L-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	861.994493299852	335	4.03512697729938e-48
+Pulit WHRadjBMI EU sex combined 346 SNPs	PIXWAC	L-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	859.21844638862	334	5.88803914425576e-48
+Pulit WHRadjBMI EU sex combined 346 SNPs	PIXWAC	L-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	862.571598676965	335	3.3787422884102e-48
+Pulit WHRadjBMI EU sex combined 346 SNPs	PIXWAC	L-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	861.82975907891	335	4.24482759821429e-48
+Pulit WHRadjBMI EU sex combined 346 SNPs	PIXWAC	L-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0731958432513911	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	pqkLfO	M-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	959.358404017867	335	1.49715613370287e-61
+Pulit WHRadjBMI EU sex combined 346 SNPs	pqkLfO	M-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	958.714742161168	334	1.08811114125701e-61
+Pulit WHRadjBMI EU sex combined 346 SNPs	pqkLfO	M-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	959.688755645168	335	1.34384399575606e-61
+Pulit WHRadjBMI EU sex combined 346 SNPs	pqkLfO	M-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	959.27045897237	335	1.54083476484559e-61
+Pulit WHRadjBMI EU sex combined 346 SNPs	pqkLfO	M-LDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0848133532478242	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	PUX0jb	XL-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	829.722523121599	335	7.32965214791719e-44
+Pulit WHRadjBMI EU sex combined 346 SNPs	PUX0jb	XL-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	833.251081664739	334	1.60255502985009e-44
+Pulit WHRadjBMI EU sex combined 346 SNPs	PUX0jb	XL-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	833.757828394406	335	2.1790264977953e-44
+Pulit WHRadjBMI EU sex combined 346 SNPs	PUX0jb	XL-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	828.063771501176	335	1.2054475452026e-43
+Pulit WHRadjBMI EU sex combined 346 SNPs	PUX0jb	XL-VLDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0748347418644875	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	PxnmKb	LDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	631.417960855167	335	1.89450442038908e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	PxnmKb	LDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	630.82102597495	334	1.58248901955746e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	PxnmKb	LDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	631.430987673146	335	1.88863908315653e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	PxnmKb	LDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	631.406314318424	335	1.89976359376851e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	PxnmKb	LDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0695740160095542	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	q3lvJZ	IDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	605.504764497949	335	7.85093773565668e-18
+Pulit WHRadjBMI EU sex combined 346 SNPs	q3lvJZ	IDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	597.609956484097	334	3.45811409677589e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	q3lvJZ	IDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	606.903525322914	335	5.71280241391917e-18
+Pulit WHRadjBMI EU sex combined 346 SNPs	q3lvJZ	IDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	604.95338099274	335	8.89703431487179e-18
+Pulit WHRadjBMI EU sex combined 346 SNPs	q3lvJZ	IDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0601305999807882	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	q5A7Nh	S-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1088.24772449091	335	1.8895996053623e-80
+Pulit WHRadjBMI EU sex combined 346 SNPs	q5A7Nh	S-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1088.17628154364	334	1.07096500809975e-80
+Pulit WHRadjBMI EU sex combined 346 SNPs	q5A7Nh	S-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1088.361865776	335	1.81613555988132e-80
+Pulit WHRadjBMI EU sex combined 346 SNPs	q5A7Nh	S-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1088.21468731072	335	1.91141178836643e-80
+Pulit WHRadjBMI EU sex combined 346 SNPs	q5A7Nh	S-LDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.100676991334077	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	Q5SHha	LAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	417.407168808398	335	0.00144153722879101
+Pulit WHRadjBMI EU sex combined 346 SNPs	Q5SHha	LAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	416.643111323497	334	0.00138724313258494
+Pulit WHRadjBMI EU sex combined 346 SNPs	Q5SHha	LAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	417.409130434887	335	0.00144122890709284
+Pulit WHRadjBMI EU sex combined 346 SNPs	Q5SHha	LAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	417.405980126874	335	0.0014417240914184
+Pulit WHRadjBMI EU sex combined 346 SNPs	Q5SHha	LAbyFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0979199342888121	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	QDmXGh	M-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	543.233586070648	335	4.292656202626e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	QDmXGh	M-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	541.186404690035	334	5.00739852387113e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	QDmXGh	M-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	543.31547257792	335	4.22420289183685e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	QDmXGh	M-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	543.17315743275	335	4.34387186907352e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	QDmXGh	M-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.054415799845711	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	qfXPth	IDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	460.206775820549	335	6.37693042271273e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	qfXPth	IDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	456.773815369284	334	8.80950820884317e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	qfXPth	IDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	460.210504152478	335	6.37352266321546e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	qfXPth	IDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	460.202064073846	335	6.38123955275144e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	qfXPth	IDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0562229252256392	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	qgWYaH	XL-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	570.208868329096	335	1.77585821515736e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	qgWYaH	XL-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	569.086152297035	334	1.71405515725753e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	qgWYaH	XL-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	570.242880389396	335	1.76319649846464e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	qgWYaH	XL-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	570.180381378551	335	1.78653224096457e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	qgWYaH	XL-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.067296331626962	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	qJmATt	FAw6.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	622.606366472375	335	1.51852161331078e-19
+Pulit WHRadjBMI EU sex combined 346 SNPs	qJmATt	FAw6.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	623.906380167817	334	8.15593106403954e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	qJmATt	FAw6.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	625.089955470787	335	8.47353141347849e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	qJmATt	FAw6.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	621.515438774363	335	1.96043865074881e-19
+Pulit WHRadjBMI EU sex combined 346 SNPs	qJmATt	FAw6.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.061980908156379	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	qRvvZy	IDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	564.953879766273	335	5.32737819675397e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	qRvvZy	IDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	561.240630199337	334	8.81281401083858e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	qRvvZy	IDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	566.113991629101	335	4.18509753300683e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	qRvvZy	IDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	564.458182945264	335	5.90480933208334e-14
+Pulit WHRadjBMI EU sex combined 346 SNPs	qRvvZy	IDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0726114243009513	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	QuAggJ	LA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	417.407168808398	335	0.00144153722879101
+Pulit WHRadjBMI EU sex combined 346 SNPs	QuAggJ	LA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	416.643111323497	334	0.00138724313258494
+Pulit WHRadjBMI EU sex combined 346 SNPs	QuAggJ	LA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	417.409130434887	335	0.00144122890709284
+Pulit WHRadjBMI EU sex combined 346 SNPs	QuAggJ	LA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	417.405980126874	335	0.0014417240914184
+Pulit WHRadjBMI EU sex combined 346 SNPs	QuAggJ	LA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0979199342888121	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	r0QUWU	L-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	438.292096565672	335	0.000122962680713548
+Pulit WHRadjBMI EU sex combined 346 SNPs	r0QUWU	L-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	438.474241584353	334	0.000103913151329494
+Pulit WHRadjBMI EU sex combined 346 SNPs	r0QUWU	L-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	438.538922405227	335	0.000119180753251296
+Pulit WHRadjBMI EU sex combined 346 SNPs	r0QUWU	L-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	438.155970946699	335	0.000125096916975974
+Pulit WHRadjBMI EU sex combined 346 SNPs	r0QUWU	L-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0502585172941463	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	raCy29	DAGbyTG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	441.550041509793	335	8.10945250650791e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	raCy29	DAGbyTG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	440.841376842034	334	7.66359460895672e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	raCy29	DAGbyTG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	442.418279209548	335	7.24760229247394e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	raCy29	DAGbyTG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	441.234396516605	335	8.44631449812881e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	raCy29	DAGbyTG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0437498842197893	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	raPMiI	TotFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	877.096744717365	335	3.78206626318115e-50
+Pulit WHRadjBMI EU sex combined 346 SNPs	raPMiI	TotFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	879.155550619084	334	1.22549525512346e-50
+Pulit WHRadjBMI EU sex combined 346 SNPs	raPMiI	TotFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	879.258353692288	335	1.93056962058256e-50
+Pulit WHRadjBMI EU sex combined 346 SNPs	raPMiI	TotFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	876.205105521586	335	4.98961702164124e-50
+Pulit WHRadjBMI EU sex combined 346 SNPs	raPMiI	TotFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0900597898328834	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	RGDjdC	XXL-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	441.50712647658	335	8.15448876831518e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	RGDjdC	XXL-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	441.380084675307	334	7.14607537406677e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	RGDjdC	XXL-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	441.7359470205	335	7.91707933788835e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	RGDjdC	XXL-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	441.391926924711	335	8.2765633249589e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	RGDjdC	XXL-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0519973002680195	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	RNcC01	M-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	483.76275340426	335	1.78360047170141e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	RNcC01	M-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	477.963701818646	334	3.70233315551766e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	RNcC01	M-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	483.764930556509	335	1.78297904619595e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	RNcC01	M-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	483.760798590223	335	1.78415861476711e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	RNcC01	M-HDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0640106597764019	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	RPc2G0	M-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	701.41750883478	335	4.31352376157213e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	RPc2G0	M-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	698.948325887393	334	5.69544107348421e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	RPc2G0	M-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	702.615998284545	335	3.1432295303059e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	RPc2G0	M-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	700.994145918661	335	4.82323590732231e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	RPc2G0	M-HDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0681837486526236	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	rQweXz	S-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	404.626873005175	335	0.00540667706357158
+Pulit WHRadjBMI EU sex combined 346 SNPs	rQweXz	S-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	404.54991379582	334	0.00488992053541133
+Pulit WHRadjBMI EU sex combined 346 SNPs	rQweXz	S-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	404.643349817186	335	0.0053979758321067
+Pulit WHRadjBMI EU sex combined 346 SNPs	rQweXz	S-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	404.609779441445	335	0.00541571741603165
+Pulit WHRadjBMI EU sex combined 346 SNPs	rQweXz	S-VLDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0546063948897264	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	rrl8ir	L-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1135.7769037663	335	1.09338633714885e-87
+Pulit WHRadjBMI EU sex combined 346 SNPs	rrl8ir	L-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1135.23132109097	334	7.17886106441465e-88
+Pulit WHRadjBMI EU sex combined 346 SNPs	rrl8ir	L-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1135.92205732743	335	1.03865615819642e-87
+Pulit WHRadjBMI EU sex combined 346 SNPs	rrl8ir	L-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1135.71968913742	335	1.11574243974336e-87
+Pulit WHRadjBMI EU sex combined 346 SNPs	rrl8ir	L-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.104481540668484	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	S00tBt	IDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	652.697815169354	335	1.09223672963638e-22
+Pulit WHRadjBMI EU sex combined 346 SNPs	S00tBt	IDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	652.96124740125	334	7.29269487344279e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	S00tBt	IDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	656.044999012888	335	4.77654126207391e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	S00tBt	IDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	651.427277166417	335	1.49340207978502e-22
+Pulit WHRadjBMI EU sex combined 346 SNPs	S00tBt	IDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0565001914599871	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	s349bd	M-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1196.30950906397	335	4.36501942180801e-97
+Pulit WHRadjBMI EU sex combined 346 SNPs	s349bd	M-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1195.93959876642	334	2.63143629887928e-97
+Pulit WHRadjBMI EU sex combined 346 SNPs	s349bd	M-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1196.53224965617	335	4.02763239119333e-97
+Pulit WHRadjBMI EU sex combined 346 SNPs	s349bd	M-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1196.22928545707	335	4.4933314987314e-97
+Pulit WHRadjBMI EU sex combined 346 SNPs	s349bd	M-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.110393898046691	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	S6finP	S-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	702.523403583482	335	3.22109312748299e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	S6finP	S-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	702.521620355956	334	2.21446920400021e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	S6finP	S-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	703.502431553194	335	2.48643277647582e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	S6finP	S-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	702.273389729432	335	3.44105359581106e-28
+Pulit WHRadjBMI EU sex combined 346 SNPs	S6finP	S-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0849867728213905	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	SaL5Mz	M-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	543.233586070648	335	4.292656202626e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	SaL5Mz	M-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	541.186404690035	334	5.00739852387113e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	SaL5Mz	M-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	543.31547257792	335	4.22420289183685e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	SaL5Mz	M-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	543.17315743275	335	4.34387186907352e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	SaL5Mz	M-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.054415799845711	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	sIZzqP	L-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1002.232543561	335	1.03998594469252e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	sIZzqP	L-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1000.24091001234	334	1.16665903592268e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	sIZzqP	L-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1002.23254961228	335	1.03998384046466e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	sIZzqP	L-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1002.23247824073	335	1.04000865893987e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	sIZzqP	L-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0874980515487234	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	t21cyv	FAw3byFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	370.593724918643	335	0.0877478775778736
+Pulit WHRadjBMI EU sex combined 346 SNPs	t21cyv	FAw3byFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	370.500409708096	334	0.0823527324994271
+Pulit WHRadjBMI EU sex combined 346 SNPs	t21cyv	FAw3byFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	370.594726176208	335	0.0877421141738926
+Pulit WHRadjBMI EU sex combined 346 SNPs	t21cyv	FAw3byFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	370.592152223709	335	0.0877569308607192
+Pulit WHRadjBMI EU sex combined 346 SNPs	t21cyv	FAw3byFA.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0411354639892434	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	TBrVcJ	S-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	724.009779165375	335	1.02206249010184e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	TBrVcJ	S-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	718.768279423297	334	2.86456922016367e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	TBrVcJ	S-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	726.653376872397	335	4.98488654583635e-31
+Pulit WHRadjBMI EU sex combined 346 SNPs	TBrVcJ	S-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	723.070751510004	335	1.31828961471261e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	TBrVcJ	S-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0684964128618985	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	TlWsUN	XL-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	511.152251241683	335	1.74028649659506e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	TlWsUN	XL-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	511.110782877083	334	1.40862107771066e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	TlWsUN	XL-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	511.158300168015	335	1.73841671206213e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	TlWsUN	XL-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	511.145983643783	335	1.74222595499057e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	TlWsUN	XL-HDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0886751636970631	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	tOqQW8	XS-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	633.967738218704	335	1.03118918591354e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	tOqQW8	XS-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	634.1612005482	334	7.11682694900342e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	tOqQW8	XS-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	635.904293050594	335	6.48551198971724e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	tOqQW8	XS-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	633.424679397715	335	1.17407471559379e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	tOqQW8	XS-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0669326066053097	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	TsitP0	XS-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	415.576593836108	335	0.00175746387090564
+Pulit WHRadjBMI EU sex combined 346 SNPs	TsitP0	XS-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	411.067293697459	334	0.00252000380318233
+Pulit WHRadjBMI EU sex combined 346 SNPs	TsitP0	XS-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	415.669711605629	335	0.00173995974365672
+Pulit WHRadjBMI EU sex combined 346 SNPs	TsitP0	XS-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	415.50954915335	335	0.00177016748000937
+Pulit WHRadjBMI EU sex combined 346 SNPs	TsitP0	XS-VLDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0559748074643329	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	TtPppj	Lac.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	316.94384805501	335	0.753212973191104
+Pulit WHRadjBMI EU sex combined 346 SNPs	TtPppj	Lac.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	316.956487388576	334	0.740564571387703
+Pulit WHRadjBMI EU sex combined 346 SNPs	TtPppj	Lac.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	316.959615546821	335	0.753013471551688
+Pulit WHRadjBMI EU sex combined 346 SNPs	TtPppj	Lac.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	316.931733518464	335	0.753366200901326
+Pulit WHRadjBMI EU sex combined 346 SNPs	TtPppj	Lac.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0572549656737092	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	tUQP67	S-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	899.805842483231	335	3.0782046166963e-53
+Pulit WHRadjBMI EU sex combined 346 SNPs	tUQP67	S-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	899.759125479681	334	1.89856679378426e-53
+Pulit WHRadjBMI EU sex combined 346 SNPs	tUQP67	S-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	900.71036982289	335	2.31356374952705e-53
+Pulit WHRadjBMI EU sex combined 346 SNPs	tUQP67	S-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	899.585887046535	335	3.29946653448523e-53
+Pulit WHRadjBMI EU sex combined 346 SNPs	tUQP67	S-LDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0804951237845754	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	u2YlWc	VLDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	776.26840869847	335	4.75762519244229e-37
+Pulit WHRadjBMI EU sex combined 346 SNPs	u2YlWc	VLDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	778.378607379864	334	1.69662411616934e-37
+Pulit WHRadjBMI EU sex combined 346 SNPs	u2YlWc	VLDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	781.102867505907	335	1.18728269962398e-37
+Pulit WHRadjBMI EU sex combined 346 SNPs	u2YlWc	VLDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	774.39984298657	335	8.12178903717934e-37
+Pulit WHRadjBMI EU sex combined 346 SNPs	u2YlWc	VLDL-D.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.070573043526788	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	uFEk0E	M-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	558.436876386046	335	2.04048092421116e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	uFEk0E	M-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	557.450466739067	334	1.92201380732961e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	uFEk0E	M-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	559.301343992443	335	1.70968295632759e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	uFEk0E	M-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	558.105080240183	335	2.18359151145054e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	uFEk0E	M-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0536368306839181	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	UNovz4	Tyr.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	446.649969402046	335	4.15595945732441e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	UNovz4	Tyr.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	446.02256436911	334	3.87499404649438e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	UNovz4	Tyr.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	446.779737740517	335	4.08477946936073e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	UNovz4	Tyr.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	446.585431400473	335	4.19179960065199e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	UNovz4	Tyr.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0691993057230963	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	unZKf9	L-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1254.68210643915	335	2.5221459940033e-106
+Pulit WHRadjBMI EU sex combined 346 SNPs	unZKf9	L-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1255.0361715164	334	1.14023833180942e-106
+Pulit WHRadjBMI EU sex combined 346 SNPs	unZKf9	L-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1255.05369632467	335	2.20012155266252e-106
+Pulit WHRadjBMI EU sex combined 346 SNPs	unZKf9	L-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1254.54595405233	335	2.65158214431884e-106
+Pulit WHRadjBMI EU sex combined 346 SNPs	unZKf9	L-LDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.113454118408331	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	V2UeGh	XS-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	633.967738218704	335	1.03118918591354e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	V2UeGh	XS-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	634.1612005482	334	7.11682694900342e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	V2UeGh	XS-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	635.904293050594	335	6.48551198971724e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	V2UeGh	XS-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	633.424679397715	335	1.17407471559379e-20
+Pulit WHRadjBMI EU sex combined 346 SNPs	V2UeGh	XS-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0669326066053097	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	VaG3Jm	S-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1088.24772449091	335	1.8895996053623e-80
+Pulit WHRadjBMI EU sex combined 346 SNPs	VaG3Jm	S-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1088.17628154364	334	1.07096500809975e-80
+Pulit WHRadjBMI EU sex combined 346 SNPs	VaG3Jm	S-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1088.361865776	335	1.81613555988132e-80
+Pulit WHRadjBMI EU sex combined 346 SNPs	VaG3Jm	S-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1088.21468731072	335	1.91141178836643e-80
+Pulit WHRadjBMI EU sex combined 346 SNPs	VaG3Jm	S-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.100676991334077	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	VEQvNL	M-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1021.36874399413	335	1.67996648312502e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	VEQvNL	M-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1021.18455393206	334	1.02014574059285e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	VEQvNL	M-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1021.74162333507	335	1.4813199528657e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	VEQvNL	M-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1021.25725940596	335	1.7443703756403e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	VEQvNL	M-LDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0900130158973125	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	VgcY2u	Val.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	369.342829770705	335	0.0951793619619904
+Pulit WHRadjBMI EU sex combined 346 SNPs	VgcY2u	Val.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	366.794992735884	334	0.104709029080556
+Pulit WHRadjBMI EU sex combined 346 SNPs	VgcY2u	Val.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	369.620717329853	335	0.0934882093219082
+Pulit WHRadjBMI EU sex combined 346 SNPs	VgcY2u	Val.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	369.162115821464	335	0.096291623193952
+Pulit WHRadjBMI EU sex combined 346 SNPs	VgcY2u	Val.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0395538012375465	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	VHnrSo	M-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	596.084754796189	335	6.52924991758823e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	VHnrSo	M-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	595.857034402771	334	5.11982719403288e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	VHnrSo	M-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	598.107964423133	335	4.15670696178841e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	VHnrSo	M-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	595.323884594926	335	7.73402823730392e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	VHnrSo	M-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0648010485270354	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	vJGW0h	S-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	987.705925397375	335	1.31478231681906e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	vJGW0h	S-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	987.683937280714	334	7.68429344501304e-66
+Pulit WHRadjBMI EU sex combined 346 SNPs	vJGW0h	S-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	988.261834481507	335	1.09320930456673e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	vJGW0h	S-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	987.55053956902	335	1.38437324354818e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	vJGW0h	S-LDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0905146860879292	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	VnHknm	XL-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	734.944882577689	335	5.17071593801375e-32
+Pulit WHRadjBMI EU sex combined 346 SNPs	VnHknm	XL-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	735.095228906111	334	3.3337520686989e-32
+Pulit WHRadjBMI EU sex combined 346 SNPs	VnHknm	XL-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	737.168941614538	335	2.80561665954522e-32
+Pulit WHRadjBMI EU sex combined 346 SNPs	VnHknm	XL-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	734.106881580173	335	6.50769767774703e-32
+Pulit WHRadjBMI EU sex combined 346 SNPs	VnHknm	XL-HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0727465431633992	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	VOipgL	S-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	987.705925397375	335	1.31478231681906e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	VOipgL	S-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	987.683937280714	334	7.68429344501304e-66
+Pulit WHRadjBMI EU sex combined 346 SNPs	VOipgL	S-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	988.261834481507	335	1.09320930456673e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	VOipgL	S-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	987.55053956902	335	1.38437324354818e-65
+Pulit WHRadjBMI EU sex combined 346 SNPs	VOipgL	S-LDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0905146860879292	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	vwoCIe	L-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	636.882834665522	335	5.12778073310544e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	vwoCIe	L-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	636.963966045662	334	3.62707458940089e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	vwoCIe	L-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	636.977586137382	335	5.01236314343728e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	vwoCIe	L-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	636.820275261373	335	5.20542744118736e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	vwoCIe	L-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0786369351119143	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	w3eMo8	S-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1197.96494681695	335	2.40035239524783e-97
+Pulit WHRadjBMI EU sex combined 346 SNPs	w3eMo8	S-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1197.31754250164	334	1.59882855461671e-97
+Pulit WHRadjBMI EU sex combined 346 SNPs	w3eMo8	S-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1198.18290780962	335	2.21855521715366e-97
+Pulit WHRadjBMI EU sex combined 346 SNPs	w3eMo8	S-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1197.88384542468	335	2.4717337780967e-97
+Pulit WHRadjBMI EU sex combined 346 SNPs	w3eMo8	S-LDL-L.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.110739563428541	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	w7hpa6	M-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	596.084754796189	335	6.52924991758823e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	w7hpa6	M-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	595.857034402771	334	5.11982719403288e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	w7hpa6	M-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	598.107964423133	335	4.15670696178841e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	w7hpa6	M-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	595.323884594926	335	7.73402823730392e-17
+Pulit WHRadjBMI EU sex combined 346 SNPs	w7hpa6	M-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0648010485270354	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	WhRPSS	L-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	715.234383928997	335	1.09072547969134e-29
+Pulit WHRadjBMI EU sex combined 346 SNPs	WhRPSS	L-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	713.948755464702	334	1.04967124035744e-29
+Pulit WHRadjBMI EU sex combined 346 SNPs	WhRPSS	L-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	717.242478176166	335	6.3585577109683e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	WhRPSS	L-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	714.421373751577	335	1.35656036169388e-29
+Pulit WHRadjBMI EU sex combined 346 SNPs	WhRPSS	L-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0701561709203684	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	Wl32M9	L-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	1017.44889514075	335	6.29854270971641e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	Wl32M9	L-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	1021.19344377628	334	1.01708583516223e-70
+Pulit WHRadjBMI EU sex combined 346 SNPs	Wl32M9	L-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	1023.04850149079	335	9.52858554383931e-71
+Pulit WHRadjBMI EU sex combined 346 SNPs	Wl32M9	L-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	1015.52354171827	335	1.20436528075415e-69
+Pulit WHRadjBMI EU sex combined 346 SNPs	Wl32M9	L-LDL-FC_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.104573239112893	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	WmKXPX	L-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	636.882834665522	335	5.12778073310544e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	WmKXPX	L-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	636.963966045662	334	3.62707458940089e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	WmKXPX	L-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	636.977586137382	335	5.01236314343728e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	WmKXPX	L-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	636.820275261373	335	5.20542744118736e-21
+Pulit WHRadjBMI EU sex combined 346 SNPs	WmKXPX	L-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0786369351119143	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	Wn4wOr	L-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	657.20714992319	335	3.58066705567062e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	Wn4wOr	L-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	654.068662464221	334	5.54420727724265e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	Wn4wOr	L-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	657.881810110171	335	3.02837230317271e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	Wn4wOr	L-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	656.830356317671	335	3.93155558364834e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	Wn4wOr	L-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0864469062162536	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	wVdTpj	M-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	656.421098176838	335	4.35147564393731e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	wVdTpj	M-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	654.392766107279	334	5.11634081519937e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	wVdTpj	M-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	659.054958535199	335	2.26214447804265e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	wVdTpj	M-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	655.420113643568	335	5.57588807686096e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	wVdTpj	M-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0676452803725128	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	wXnYLy	L-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	524.885360067802	335	1.43221596357334e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	wXnYLy	L-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	526.381586734629	334	8.58342531779591e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	wXnYLy	L-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	526.38823402087	335	1.08235929380614e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	wXnYLy	L-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	524.268116875532	335	1.60620254841553e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	wXnYLy	L-VLDL-CE_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.076608549575066	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	WY8WsV	XL-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	494.946349536465	335	2.85591951055653e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	WY8WsV	XL-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	495.894968398468	334	1.985905136722e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	WY8WsV	XL-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	495.954821467895	335	2.41129057629906e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	WY8WsV	XL-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	494.531549347753	335	3.0612082679532e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	WY8WsV	XL-VLDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0632354611802638	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	xMgXAo	S-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	716.717235711451	335	7.32338205518274e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	xMgXAo	S-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	716.127747915496	334	5.8406345206207e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	xMgXAo	S-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	717.743816195277	335	5.55599885226993e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	xMgXAo	S-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	716.287922593015	335	8.21922604105096e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	xMgXAo	S-VLDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0724061278757941	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	XsVzue	L-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	526.284336905443	335	1.10356735739278e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	XsVzue	L-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	527.191534675541	334	7.37133334358109e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	XsVzue	L-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	527.284156007986	335	9.15351466445310e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	XsVzue	L-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	525.915830849999	335	1.18213612723517e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	XsVzue	L-VLDL-FC.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0603602604290188	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	Y3bfa3	M-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	539.227679576155	335	9.38213541562768e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	Y3bfa3	M-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	538.767796706533	334	8.03265966398666e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	Y3bfa3	M-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	540.113254445716	335	7.89884232542673e-12
+Pulit WHRadjBMI EU sex combined 346 SNPs	Y3bfa3	M-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	538.863740382536	335	1.00684285949108e-11
+Pulit WHRadjBMI EU sex combined 346 SNPs	Y3bfa3	M-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0567871583538856	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	YegleL	XL-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	472.495430795158	335	1.03648859066894e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	YegleL	XL-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	473.191561364891	334	7.77342134116302e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	YegleL	XL-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	473.389295162948	335	9.04347436219848e-07
+Pulit WHRadjBMI EU sex combined 346 SNPs	YegleL	XL-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	472.104839146008	335	1.09993985307384e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	YegleL	XL-VLDL-CE.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0665518878228626	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	yeOl8j	S-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	848.176822055116	335	2.76844617724602e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	yeOl8j	S-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	848.420914691929	334	1.60829995812235e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	yeOl8j	S-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	848.421183373509	335	2.56994315088529e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	yeOl8j	S-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	848.111738643182	335	2.82384751147006e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	yeOl8j	S-HDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.100997705683223	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ysAv3Q	M-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	782.684619559997	335	7.52871079763572e-38
+Pulit WHRadjBMI EU sex combined 346 SNPs	ysAv3Q	M-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	780.446047218415	334	9.35482919633161e-38
+Pulit WHRadjBMI EU sex combined 346 SNPs	ysAv3Q	M-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	785.172844562385	335	3.67216493961291e-38
+Pulit WHRadjBMI EU sex combined 346 SNPs	ysAv3Q	M-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	781.669328357794	335	1.00864684955091e-37
+Pulit WHRadjBMI EU sex combined 346 SNPs	ysAv3Q	M-HDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0728068454203604	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ytgfoJ	M-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	516.954632338554	335	6.1424657910862e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	ytgfoJ	M-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	512.543164389363	334	1.08992155894276e-09
+Pulit WHRadjBMI EU sex combined 346 SNPs	ytgfoJ	M-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	517.559252117373	335	5.50435545870035e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	ytgfoJ	M-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	516.722435919533	335	6.40636284261228e-10
+Pulit WHRadjBMI EU sex combined 346 SNPs	ytgfoJ	M-LDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0477678628623951	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ywWosx	XL-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	677.715312528733	335	2.03999518484421e-25
+Pulit WHRadjBMI EU sex combined 346 SNPs	ywWosx	XL-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	680.069589386431	334	7.79446840848778e-26
+Pulit WHRadjBMI EU sex combined 346 SNPs	ywWosx	XL-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	680.255376060245	335	1.06424484510412e-25
+Pulit WHRadjBMI EU sex combined 346 SNPs	ywWosx	XL-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	676.919876793762	335	2.49987347936264e-25
+Pulit WHRadjBMI EU sex combined 346 SNPs	ywWosx	XL-HDL-C_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0632303155360705	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	Z2Fmyo	S-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	716.717235711451	335	7.32338205518274e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	Z2Fmyo	S-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	716.127747915496	334	5.8406345206207e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	Z2Fmyo	S-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	717.743816195277	335	5.55599885226993e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	Z2Fmyo	S-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	716.287922593015	335	8.21922604105096e-30
+Pulit WHRadjBMI EU sex combined 346 SNPs	Z2Fmyo	S-VLDL-PL.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0724061278757941	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	Z6kpMc	HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	666.518838891113	335	3.49343929438743e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	Z6kpMc	HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	667.385523076375	334	1.97949775210155e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	Z6kpMc	HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	668.300564713218	335	2.22981126843141e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	Z6kpMc	HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	665.843137387997	335	4.14063217801851e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	Z6kpMc	HDL-TG.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0732704843978162	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	z8KYCp	XXL-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	443.647578408721	335	6.17535508242219e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	z8KYCp	XXL-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	443.805793283881	334	5.20122023424485e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	z8KYCp	XXL-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	443.89302610533	335	5.98021504477493e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	z8KYCp	XXL-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	443.518214297222	335	6.28063391115097e-05
+Pulit WHRadjBMI EU sex combined 346 SNPs	z8KYCp	XXL-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0515542621147668	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	zAHqpA	Remnant-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	993.409846109735	335	1.97420169763819e-66
+Pulit WHRadjBMI EU sex combined 346 SNPs	zAHqpA	Remnant-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	994.987383383577	334	6.74861825237586e-67
+Pulit WHRadjBMI EU sex combined 346 SNPs	zAHqpA	Remnant-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	995.028795760168	335	1.15142350218319e-66
+Pulit WHRadjBMI EU sex combined 346 SNPs	zAHqpA	Remnant-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	992.852328321573	335	2.37675213669827e-66
+Pulit WHRadjBMI EU sex combined 346 SNPs	zAHqpA	Remnant-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0936756713503025	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	zduftp	IDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	460.206775820549	335	6.37693042271273e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	zduftp	IDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	456.773815369284	334	8.80950820884317e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	zduftp	IDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	460.210504152478	335	6.37352266321546e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	zduftp	IDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	460.202064073846	335	6.38123955275144e-06
+Pulit WHRadjBMI EU sex combined 346 SNPs	zduftp	IDL-C.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0562229252256392	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	Zea295	Gln.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	493.155973793048	335	3.85051189195746e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	Zea295	Gln.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	487.281635212483	334	8.31563445509359e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	Zea295	Gln.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	493.293639100878	335	3.76332984337969e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	Zea295	Gln.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	492.995051105872	335	3.95492403849233e-08
+Pulit WHRadjBMI EU sex combined 346 SNPs	Zea295	Gln.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0559765090608723	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZgCeFB	XS-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	660.948134823779	335	1.41124002780504e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZgCeFB	XS-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	653.939897002293	334	5.72390420074094e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZgCeFB	XS-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	663.328137472609	335	7.78323730910479e-24
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZgCeFB	XS-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	660.038165588793	335	1.77080154004713e-23
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZgCeFB	XS-VLDL-TG_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0718957633480623	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZVXmYF	XL-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	741.183553886905	335	9.27037008830985e-33
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZVXmYF	XL-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	744.190743941266	334	2.69241411545281e-33
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZVXmYF	XL-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	744.623944437058	335	3.57510231041338e-33
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZVXmYF	XL-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	740.113228842865	335	1.246012585903e-32
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZVXmYF	XL-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0679108294887383	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	zwfTe5	His.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	396.819129742704	335	0.0112803861417409
+Pulit WHRadjBMI EU sex combined 346 SNPs	zwfTe5	His.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	393.613557363444	334	0.0136412681810158
+Pulit WHRadjBMI EU sex combined 346 SNPs	zwfTe5	His.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	396.854353553391	335	0.0112444333974326
+Pulit WHRadjBMI EU sex combined 346 SNPs	zwfTe5	His.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	396.801603469028	335	0.0112983130896589
+Pulit WHRadjBMI EU sex combined 346 SNPs	zwfTe5	His.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0637633763602438	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZYiy9B	S-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	848.176822055116	335	2.76844617724602e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZYiy9B	S-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	848.420914691929	334	1.60829995812235e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZYiy9B	S-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	848.421183373509	335	2.56994315088529e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZYiy9B	S-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	848.111738643182	335	2.82384751147006e-46
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZYiy9B	S-HDL-PL_percent.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.100997705683223	335	1
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZzKPjc	M-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Maximum likelihood	558.436876386046	335	2.04048092421116e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZzKPjc	M-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	MR Egger	557.450466739067	334	1.92201380732961e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZzKPjc	M-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Inverse variance weighted	559.301343992443	335	1.70968295632759e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZzKPjc	M-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	IVW radial	558.105080240183	335	2.18359151145054e-13
+Pulit WHRadjBMI EU sex combined 346 SNPs	ZzKPjc	M-VLDL-P.txt	Pulit WHRadjBMI EU sex combined 346 SNPs	Unweighted regression	0.0536368306839181	335	1

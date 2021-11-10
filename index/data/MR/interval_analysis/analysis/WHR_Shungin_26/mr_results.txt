@@ -1,0 +1,921 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+Shungin WHR EU sex combined 26 SNPs	05Ser7	L-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.00928439914667503	0.313313644356657	0.976604854073923
+Shungin WHR EU sex combined 26 SNPs	05Ser7	L-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0680456533213387	0.100194734145574	0.497052943900175
+Shungin WHR EU sex combined 26 SNPs	05Ser7	L-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.191532795140682	0.0994752059078139	0.0541752720243867
+Shungin WHR EU sex combined 26 SNPs	05Ser7	L-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.000245645802112726	0.156396179078656	0.99875925853877
+Shungin WHR EU sex combined 26 SNPs	0LG9TO	XXL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.332753749450735	0.346613859099409	0.346621377610271
+Shungin WHR EU sex combined 26 SNPs	0LG9TO	XXL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.477545118501715	0.0915525552028633	1.82752866051553e-07
+Shungin WHR EU sex combined 26 SNPs	0LG9TO	XXL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.483244653249338	0.109772226708421	1.0713459848462e-05
+Shungin WHR EU sex combined 26 SNPs	0LG9TO	XXL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.513776628671855	0.121840338031841	0.000283436270106958
+Shungin WHR EU sex combined 26 SNPs	16WSXb	FAw6byFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.01946857055094	0.435399178495238	0.964704998675863
+Shungin WHR EU sex combined 26 SNPs	16WSXb	FAw6byFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.326525230040208	0.0979145323277398	0.000853612466859848
+Shungin WHR EU sex combined 26 SNPs	16WSXb	FAw6byFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.443416293977399	0.140367801334483	0.00158333126172557
+Shungin WHR EU sex combined 26 SNPs	16WSXb	FAw6byFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.299279858748548	0.123310429156816	0.0227628795311218
+Shungin WHR EU sex combined 26 SNPs	1dkASa	XL-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.430176498700894	0.368043578417999	0.253955231002409
+Shungin WHR EU sex combined 26 SNPs	1dkASa	XL-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.316542655939781	0.0981006829003329	0.0012522140635578
+Shungin WHR EU sex combined 26 SNPs	1dkASa	XL-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.403083864945999	0.116068889280489	0.000515061890699862
+Shungin WHR EU sex combined 26 SNPs	1dkASa	XL-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.208065844670573	0.142561542952674	0.156885060928561
+Shungin WHR EU sex combined 26 SNPs	1DV86v	XXL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.111147303545872	0.302607597414877	0.716615402764899
+Shungin WHR EU sex combined 26 SNPs	1DV86v	XXL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.219141203351675	0.0982880746765546	0.0257752862231358
+Shungin WHR EU sex combined 26 SNPs	1DV86v	XXL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.216999833804444	0.0958649506288948	0.0235987718065834
+Shungin WHR EU sex combined 26 SNPs	1DV86v	XXL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.164906725904723	0.129674389162338	0.215183889727694
+Shungin WHR EU sex combined 26 SNPs	1H9E17	M-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.146647242002086	0.189211938511028	0.445884310230311
+Shungin WHR EU sex combined 26 SNPs	1H9E17	M-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0560892231504431	0.0869948939606146	0.519094682636755
+Shungin WHR EU sex combined 26 SNPs	1H9E17	M-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.103266333751191	0.0619754109286467	0.0956642564415668
+Shungin WHR EU sex combined 26 SNPs	1H9E17	M-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.114966063702053	0.143002504628226	0.429007784216421
+Shungin WHR EU sex combined 26 SNPs	1iSQoY	L-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0806526469865548	0.336505822217835	0.812615972263949
+Shungin WHR EU sex combined 26 SNPs	1iSQoY	L-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.210641027421741	0.0915842271823006	0.0214498872892523
+Shungin WHR EU sex combined 26 SNPs	1iSQoY	L-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.271757587445982	0.10688819200276	0.0110079222626775
+Shungin WHR EU sex combined 26 SNPs	1iSQoY	L-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.237833347599318	0.123525616762765	0.0656302932969204
+Shungin WHR EU sex combined 26 SNPs	1yrh6M	L-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0516887597257788	0.239594615376853	0.831017887210283
+Shungin WHR EU sex combined 26 SNPs	1yrh6M	L-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.13899816158112	0.0875401181074869	0.11232650177149
+Shungin WHR EU sex combined 26 SNPs	1yrh6M	L-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.146461810555594	0.0767272976239565	0.0562799167946374
+Shungin WHR EU sex combined 26 SNPs	1yrh6M	L-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.108967730521967	0.125835448307836	0.394750009474145
+Shungin WHR EU sex combined 26 SNPs	21svuV	S-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.144384545632955	0.22855287486319	0.533532703791017
+Shungin WHR EU sex combined 26 SNPs	21svuV	S-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.354136606205104	0.0827172789864056	1.85813557704058e-05
+Shungin WHR EU sex combined 26 SNPs	21svuV	S-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.282086577738272	0.0726519315080287	0.000103297587006625
+Shungin WHR EU sex combined 26 SNPs	21svuV	S-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.365782983899209	0.1117807591192	0.00311065743692808
+Shungin WHR EU sex combined 26 SNPs	2gDwIS	M-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0728728889048979	0.345162888416937	0.834571329902125
+Shungin WHR EU sex combined 26 SNPs	2gDwIS	M-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.21303935538125	0.0941541096410575	0.0236562516850401
+Shungin WHR EU sex combined 26 SNPs	2gDwIS	M-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.218691607240891	0.109283324811303	0.0453769354238075
+Shungin WHR EU sex combined 26 SNPs	2gDwIS	M-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.172872287802868	0.119035939641261	0.158862706497891
+Shungin WHR EU sex combined 26 SNPs	2pK5Ww	L-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.343059944661795	0.46192730455234	0.464888627353873
+Shungin WHR EU sex combined 26 SNPs	2pK5Ww	L-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.460229586725921	0.104740180644217	1.11277786090149e-05
+Shungin WHR EU sex combined 26 SNPs	2pK5Ww	L-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.443814447479613	0.145650346899461	0.00231043539556883
+Shungin WHR EU sex combined 26 SNPs	2pK5Ww	L-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.526473988059221	0.168318151532197	0.00443207394355165
+Shungin WHR EU sex combined 26 SNPs	2rcF8r	M-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.09134156910143	0.270200830578035	0.738264284891108
+Shungin WHR EU sex combined 26 SNPs	2rcF8r	M-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.295831641941675	0.0862026993997441	0.000599558319613183
+Shungin WHR EU sex combined 26 SNPs	2rcF8r	M-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.411052286452207	0.0879287932401802	2.94195163737293e-06
+Shungin WHR EU sex combined 26 SNPs	2rcF8r	M-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.26160052902175	0.114688242798843	0.0313368426967141
+Shungin WHR EU sex combined 26 SNPs	2tN1Ym	L-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.388442655685712	0.33969500648673	0.264107616501559
+Shungin WHR EU sex combined 26 SNPs	2tN1Ym	L-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.441388053582135	0.0995815599764034	9.31780009966607e-06
+Shungin WHR EU sex combined 26 SNPs	2tN1Ym	L-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.403453853613733	0.107004154743118	0.000162953215208336
+Shungin WHR EU sex combined 26 SNPs	2tN1Ym	L-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.455858886985309	0.139018827300699	0.00305898269717282
+Shungin WHR EU sex combined 26 SNPs	2U538i	XXL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.337418198427035	0.211534412803923	0.123775770798636
+Shungin WHR EU sex combined 26 SNPs	2U538i	XXL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.161351036338746	0.0933500113325966	0.0839071763110105
+Shungin WHR EU sex combined 26 SNPs	2U538i	XXL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.122117627790499	0.0684117515700866	0.0742550310450902
+Shungin WHR EU sex combined 26 SNPs	2U538i	XXL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.209838203681726	0.139367938202569	0.144690616475303
+Shungin WHR EU sex combined 26 SNPs	2Wom9R	S-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.198808688063469	0.339197443773824	0.563270487295005
+Shungin WHR EU sex combined 26 SNPs	2Wom9R	S-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.187816835994879	0.0926858204673671	0.0427257007451493
+Shungin WHR EU sex combined 26 SNPs	2Wom9R	S-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.312153385602542	0.107217806412888	0.00359818819945377
+Shungin WHR EU sex combined 26 SNPs	2Wom9R	S-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.16603225979955	0.13204436433451	0.220229566292881
+Shungin WHR EU sex combined 26 SNPs	39iA0K	EstC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.103733034887715	0.176542142034657	0.562300861136786
+Shungin WHR EU sex combined 26 SNPs	39iA0K	EstC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.020784100266599	0.0830316082864839	0.802343354636232
+Shungin WHR EU sex combined 26 SNPs	39iA0K	EstC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0536414988368897	0.0512787665828488	0.295525838635525
+Shungin WHR EU sex combined 26 SNPs	39iA0K	EstC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0362951001973167	0.127801364661676	0.778752190379928
+Shungin WHR EU sex combined 26 SNPs	3lXGnL	IDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.587198553118006	0.205035638025192	0.00855500727192897
+Shungin WHR EU sex combined 26 SNPs	3lXGnL	IDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.352311954703255	0.0855466320230543	3.81575810974667e-05
+Shungin WHR EU sex combined 26 SNPs	3lXGnL	IDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.34868170480708	0.066633896682195	1.66963393804891e-07
+Shungin WHR EU sex combined 26 SNPs	3lXGnL	IDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.418085834506185	0.134706549441707	0.0047003597899484
+Shungin WHR EU sex combined 26 SNPs	3U0vOm	XS-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.195576159964669	0.310835289159085	0.535164881830021
+Shungin WHR EU sex combined 26 SNPs	3U0vOm	XS-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.168850099605498	0.102535832302925	0.0996110111146679
+Shungin WHR EU sex combined 26 SNPs	3U0vOm	XS-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.211726896651698	0.098000816984071	0.0307370362346112
+Shungin WHR EU sex combined 26 SNPs	3U0vOm	XS-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0262215214304891	0.16156945735542	0.872380098978929
+Shungin WHR EU sex combined 26 SNPs	3UxZJo	S-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.128248573235551	0.175800272307906	0.472748339471757
+Shungin WHR EU sex combined 26 SNPs	3UxZJo	S-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0542760126680992	0.0773437361675954	0.482834715900804
+Shungin WHR EU sex combined 26 SNPs	3UxZJo	S-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0766729520191924	0.0519946838521926	0.140311882557776
+Shungin WHR EU sex combined 26 SNPs	3UxZJo	S-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0541728085282539	0.126920478439129	0.673160255880771
+Shungin WHR EU sex combined 26 SNPs	4rA0mR	Glc.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0551779254148101	0.286994050353984	0.849154867350143
+Shungin WHR EU sex combined 26 SNPs	4rA0mR	Glc.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.275131273969989	0.111624927476647	0.0137096079423678
+Shungin WHR EU sex combined 26 SNPs	4rA0mR	Glc.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0740885796820535	0.0904403860394001	0.412673479026015
+Shungin WHR EU sex combined 26 SNPs	4rA0mR	Glc.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.347042607028052	0.176870858086136	0.060971370202082
+Shungin WHR EU sex combined 26 SNPs	57Dbdn	XXL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.363153711041827	0.263720248204107	0.181209021150326
+Shungin WHR EU sex combined 26 SNPs	57Dbdn	XXL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.369814937850051	0.094927882542646	9.78968603993065e-05
+Shungin WHR EU sex combined 26 SNPs	57Dbdn	XXL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.332329632508465	0.0833490501421851	6.68566502495419e-05
+Shungin WHR EU sex combined 26 SNPs	57Dbdn	XXL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.41163628165292	0.1197804136019	0.00206911250067973
+Shungin WHR EU sex combined 26 SNPs	5bTa4Z	S-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.144384545632955	0.22855287486319	0.533532703791017
+Shungin WHR EU sex combined 26 SNPs	5bTa4Z	S-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.354136606205104	0.0845139641541844	2.78618679383281e-05
+Shungin WHR EU sex combined 26 SNPs	5bTa4Z	S-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.282086577738272	0.0726519315080287	0.000103297587006625
+Shungin WHR EU sex combined 26 SNPs	5bTa4Z	S-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.365782983899209	0.124317316293577	0.00693245400607988
+Shungin WHR EU sex combined 26 SNPs	5Z0tMb	XL-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.430176498700894	0.368043578417999	0.253955231002409
+Shungin WHR EU sex combined 26 SNPs	5Z0tMb	XL-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.316542655939781	0.0958658184296885	0.000960204801176718
+Shungin WHR EU sex combined 26 SNPs	5Z0tMb	XL-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.403083864945999	0.116068889280489	0.000515061890699862
+Shungin WHR EU sex combined 26 SNPs	5Z0tMb	XL-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.208065844670573	0.15368690736297	0.187904240192741
+Shungin WHR EU sex combined 26 SNPs	68jjR2	S-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.129919419075892	0.176536021055711	0.468901221159692
+Shungin WHR EU sex combined 26 SNPs	68jjR2	S-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0981583119674748	0.0823808185145858	0.233449895263743
+Shungin WHR EU sex combined 26 SNPs	68jjR2	S-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0682457632000236	0.0521714280158779	0.190837324965491
+Shungin WHR EU sex combined 26 SNPs	68jjR2	S-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.18661204469905	0.139567561882367	0.193238672660722
+Shungin WHR EU sex combined 26 SNPs	6EkIgu	AcAce.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0435498131856787	0.220898657712924	0.845371531766106
+Shungin WHR EU sex combined 26 SNPs	6EkIgu	AcAce.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0534732161784122	0.0836512811732451	0.522667038091212
+Shungin WHR EU sex combined 26 SNPs	6EkIgu	AcAce.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0531606361428585	0.0696445904996149	0.445276623950771
+Shungin WHR EU sex combined 26 SNPs	6EkIgu	AcAce.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.090373653671842	0.11331477377742	0.432644820513009
+Shungin WHR EU sex combined 26 SNPs	6mZc9x	TotCho.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0848830603917157	0.200270479185268	0.675455658049353
+Shungin WHR EU sex combined 26 SNPs	6mZc9x	TotCho.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0523918669237296	0.085552098898755	0.540274985363051
+Shungin WHR EU sex combined 26 SNPs	6mZc9x	TotCho.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0210204230054936	0.0633281406056355	0.739943150583986
+Shungin WHR EU sex combined 26 SNPs	6mZc9x	TotCho.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0384759003420729	0.133440221750379	0.775465068939492
+Shungin WHR EU sex combined 26 SNPs	6pLCK0	IDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.148500467259966	0.196312255220857	0.456741068830499
+Shungin WHR EU sex combined 26 SNPs	6pLCK0	IDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0819293391861812	0.0837335155929719	0.327850150983258
+Shungin WHR EU sex combined 26 SNPs	6pLCK0	IDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0406320525372781	0.0623184497580662	0.51439679056854
+Shungin WHR EU sex combined 26 SNPs	6pLCK0	IDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.117277638026029	0.121656125154175	0.344274169872759
+Shungin WHR EU sex combined 26 SNPs	7arLzb	XS-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.175168103523308	0.226653384930376	0.447158752421263
+Shungin WHR EU sex combined 26 SNPs	7arLzb	XS-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0296793589580596	0.0956851361214077	0.756426117604802
+Shungin WHR EU sex combined 26 SNPs	7arLzb	XS-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0739514772647978	0.0717841039606626	0.302919442180936
+Shungin WHR EU sex combined 26 SNPs	7arLzb	XS-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.108777318362598	0.154715130298405	0.488501374362147
+Shungin WHR EU sex combined 26 SNPs	7hGEUK	XXL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.40273587161588	0.356702363883647	0.270034956471337
+Shungin WHR EU sex combined 26 SNPs	7hGEUK	XXL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.440649793090385	0.0943654686121371	3.01774303078502e-06
+Shungin WHR EU sex combined 26 SNPs	7hGEUK	XXL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.371129707185851	0.112697613276029	0.000990729737260498
+Shungin WHR EU sex combined 26 SNPs	7hGEUK	XXL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.428368850159075	0.115671243151222	0.00105694125690547
+Shungin WHR EU sex combined 26 SNPs	7k1xA8	L-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.135442510375372	0.311666685953157	0.667753415697011
+Shungin WHR EU sex combined 26 SNPs	7k1xA8	L-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0117834775254026	0.0961230216564161	0.902433781279072
+Shungin WHR EU sex combined 26 SNPs	7k1xA8	L-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.196370740784226	0.101186006496181	0.0522958062878943
+Shungin WHR EU sex combined 26 SNPs	7k1xA8	L-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0133458943439477	0.129108384907383	0.918494326445317
+Shungin WHR EU sex combined 26 SNPs	7v0WcZ	XS-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.175168103523308	0.226653384930376	0.447158752421263
+Shungin WHR EU sex combined 26 SNPs	7v0WcZ	XS-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0296793589580596	0.0964489000864834	0.758294583893392
+Shungin WHR EU sex combined 26 SNPs	7v0WcZ	XS-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0739514772647978	0.0717841039606626	0.302919442180936
+Shungin WHR EU sex combined 26 SNPs	7v0WcZ	XS-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.108777318362598	0.161551355866165	0.506915102296501
+Shungin WHR EU sex combined 26 SNPs	8qbNkd	M-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.146647242002086	0.189211938511028	0.445884310230311
+Shungin WHR EU sex combined 26 SNPs	8qbNkd	M-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0560892231504431	0.0898597465241206	0.532505239742099
+Shungin WHR EU sex combined 26 SNPs	8qbNkd	M-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.103266333751191	0.0619754109286467	0.0956642564415668
+Shungin WHR EU sex combined 26 SNPs	8qbNkd	M-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.114966063702053	0.143463078460374	0.430472430404691
+Shungin WHR EU sex combined 26 SNPs	8r7TEM	IDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.587198553118006	0.205035638025192	0.00855500727192897
+Shungin WHR EU sex combined 26 SNPs	8r7TEM	IDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.352311954703255	0.0871664883633992	5.30361263552134e-05
+Shungin WHR EU sex combined 26 SNPs	8r7TEM	IDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.34868170480708	0.066633896682195	1.66963393804891e-07
+Shungin WHR EU sex combined 26 SNPs	8r7TEM	IDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.418085834506185	0.138980656595552	0.005919897906303
+Shungin WHR EU sex combined 26 SNPs	8tc9OX	HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.453951158448722	0.350047405076568	0.207020451868064
+Shungin WHR EU sex combined 26 SNPs	8tc9OX	HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.281402722415886	0.0971276796048422	0.00376455164943148
+Shungin WHR EU sex combined 26 SNPs	8tc9OX	HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.338747082874152	0.110622852533496	0.00219731300640271
+Shungin WHR EU sex combined 26 SNPs	8tc9OX	HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.362205585886048	0.147504817775012	0.0213651619293398
+Shungin WHR EU sex combined 26 SNPs	8TkJRN	LA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.134302634344466	0.205291047568778	0.519199429659851
+Shungin WHR EU sex combined 26 SNPs	8TkJRN	LA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0208635431970218	0.0861729819233987	0.80869310859762
+Shungin WHR EU sex combined 26 SNPs	8TkJRN	LA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0120336146359312	0.0655865029918819	0.854423765853194
+Shungin WHR EU sex combined 26 SNPs	8TkJRN	LA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.040283588909233	0.128743951094302	0.756954317782425
+Shungin WHR EU sex combined 26 SNPs	8VZs5n	M-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.146647242002086	0.189211938511028	0.445884310230311
+Shungin WHR EU sex combined 26 SNPs	8VZs5n	M-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0560892231504431	0.0829074088448402	0.498705171265465
+Shungin WHR EU sex combined 26 SNPs	8VZs5n	M-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.103266333751191	0.0619754109286467	0.0956642564415668
+Shungin WHR EU sex combined 26 SNPs	8VZs5n	M-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.114966063702053	0.147233385909186	0.442226808534067
+Shungin WHR EU sex combined 26 SNPs	8ybVoY	XS-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.3159683835078	0.418367977041815	0.457453057889061
+Shungin WHR EU sex combined 26 SNPs	8ybVoY	XS-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.373123514545063	0.0929444603932586	5.95774374206013e-05
+Shungin WHR EU sex combined 26 SNPs	8ybVoY	XS-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.414299766004129	0.132059209969507	0.00170553816801972
+Shungin WHR EU sex combined 26 SNPs	8ybVoY	XS-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.327612309381055	0.117839298814027	0.0101717646493338
+Shungin WHR EU sex combined 26 SNPs	97sZkl	XXL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.111147303545872	0.302607597414877	0.716615402764899
+Shungin WHR EU sex combined 26 SNPs	97sZkl	XXL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.219141203351675	0.0981873722077681	0.0256237225249836
+Shungin WHR EU sex combined 26 SNPs	97sZkl	XXL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.216999833804444	0.0958649506288948	0.0235987718065834
+Shungin WHR EU sex combined 26 SNPs	97sZkl	XXL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.164906725904723	0.126158734516802	0.203061843434058
+Shungin WHR EU sex combined 26 SNPs	9aDhQI	XL-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.463306648488654	0.372458581915302	0.225543896498531
+Shungin WHR EU sex combined 26 SNPs	9aDhQI	XL-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.194367308803762	0.10060334245955	0.0533574801366209
+Shungin WHR EU sex combined 26 SNPs	9aDhQI	XL-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.41673026750488	0.117497311753644	0.000390056369503248
+Shungin WHR EU sex combined 26 SNPs	9aDhQI	XL-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.12244054076404	0.149855460664644	0.421613970713104
+Shungin WHR EU sex combined 26 SNPs	9KBhPp	L-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.55981996918643	0.408855207123808	0.183603172580547
+Shungin WHR EU sex combined 26 SNPs	9KBhPp	L-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.503178576899294	0.102194485783552	8.49077567670117e-07
+Shungin WHR EU sex combined 26 SNPs	9KBhPp	L-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.528889223763215	0.128919849313601	4.08770963290055e-05
+Shungin WHR EU sex combined 26 SNPs	9KBhPp	L-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.537938219161071	0.133342665125705	0.000453699030141767
+Shungin WHR EU sex combined 26 SNPs	9Kxd9q	S-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.375520859494513	0.197359221077996	0.0691402775991442
+Shungin WHR EU sex combined 26 SNPs	9Kxd9q	S-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.268008417672906	0.0808657090709718	0.000918923927323676
+Shungin WHR EU sex combined 26 SNPs	9Kxd9q	S-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.30246186885054	0.0624204527843936	1.26256885101316e-06
+Shungin WHR EU sex combined 26 SNPs	9Kxd9q	S-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.296915039983418	0.128724696828863	0.0296469700610041
+Shungin WHR EU sex combined 26 SNPs	9ml8p3	XS-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.293017733101699	0.304728642431614	0.34585455632621
+Shungin WHR EU sex combined 26 SNPs	9ml8p3	XS-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.323761121422394	0.0940025693888561	0.000572808833386793
+Shungin WHR EU sex combined 26 SNPs	9ml8p3	XS-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.383893186698784	0.0962692875061754	6.67165196323646e-05
+Shungin WHR EU sex combined 26 SNPs	9ml8p3	XS-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.365445033372246	0.16989284923	0.0413315767113503
+Shungin WHR EU sex combined 26 SNPs	aeFIFP	IDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.148500467259966	0.196312255220857	0.456741068830499
+Shungin WHR EU sex combined 26 SNPs	aeFIFP	IDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0819293391861812	0.0859644392455843	0.340559254597572
+Shungin WHR EU sex combined 26 SNPs	aeFIFP	IDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0406320525372781	0.0623184497580662	0.51439679056854
+Shungin WHR EU sex combined 26 SNPs	aeFIFP	IDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.117277638026029	0.119601574520101	0.336199840106308
+Shungin WHR EU sex combined 26 SNPs	aEhJ1h	S-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.00131709067823908	0.182832424760663	0.994311784896335
+Shungin WHR EU sex combined 26 SNPs	aEhJ1h	S-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.141948793958912	0.0832254397654883	0.0880837347753939
+Shungin WHR EU sex combined 26 SNPs	aEhJ1h	S-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.151778431860505	0.0585373572303832	0.00951850069894442
+Shungin WHR EU sex combined 26 SNPs	aEhJ1h	S-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.108921884153428	0.12700954566293	0.399266940050779
+Shungin WHR EU sex combined 26 SNPs	AfSh7V	Ala.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0120659556252618	0.211915551233404	0.95506631933263
+Shungin WHR EU sex combined 26 SNPs	AfSh7V	Ala.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0096881374716174	0.0872554683982446	0.911591077570099
+Shungin WHR EU sex combined 26 SNPs	AfSh7V	Ala.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0888351906916488	0.0671703389280444	0.185989733150372
+Shungin WHR EU sex combined 26 SNPs	AfSh7V	Ala.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.00297583487916087	0.116632883172325	0.979847121425601
+Shungin WHR EU sex combined 26 SNPs	aIR6Zh	FreeC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.00938080296208821	0.197326547630715	0.962476650861093
+Shungin WHR EU sex combined 26 SNPs	aIR6Zh	FreeC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.087726960398379	0.0881565339554883	0.319674427392688
+Shungin WHR EU sex combined 26 SNPs	aIR6Zh	FreeC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0585256619259641	0.06242581438685	0.348489391399189
+Shungin WHR EU sex combined 26 SNPs	aIR6Zh	FreeC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0850925030827807	0.139303813891904	0.546818803742723
+Shungin WHR EU sex combined 26 SNPs	AjMbw1	Pyr.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0551376064689754	0.249659932288174	0.827076657679901
+Shungin WHR EU sex combined 26 SNPs	AjMbw1	Pyr.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0772282820691232	0.114758067817363	0.500968898378926
+Shungin WHR EU sex combined 26 SNPs	AjMbw1	Pyr.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.105213491514655	0.0786740799445116	0.181113764039097
+Shungin WHR EU sex combined 26 SNPs	AjMbw1	Pyr.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0791925507248052	0.194192875046122	0.686889241316718
+Shungin WHR EU sex combined 26 SNPs	aR67Id	Ile.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.194466868147077	0.281500003936634	0.496304186755634
+Shungin WHR EU sex combined 26 SNPs	aR67Id	Ile.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.341948953999519	0.0877147707254496	9.68226619549291e-05
+Shungin WHR EU sex combined 26 SNPs	aR67Id	Ile.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.314817621583935	0.0891336929133425	0.000412474533111476
+Shungin WHR EU sex combined 26 SNPs	aR67Id	Ile.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.30526551522047	0.118084253492131	0.0159561381501363
+Shungin WHR EU sex combined 26 SNPs	aSQdQO	S-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.00131709067823908	0.182832424760663	0.994311784896335
+Shungin WHR EU sex combined 26 SNPs	aSQdQO	S-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.141948793958912	0.085054832048503	0.0951353708179433
+Shungin WHR EU sex combined 26 SNPs	aSQdQO	S-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.151778431860505	0.0585373572303832	0.00951850069894442
+Shungin WHR EU sex combined 26 SNPs	aSQdQO	S-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.108921884153428	0.125621893872735	0.394154708398163
+Shungin WHR EU sex combined 26 SNPs	b2m5Ej	SM.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.114685099154969	0.253299267656495	0.65478430067089
+Shungin WHR EU sex combined 26 SNPs	b2m5Ej	SM.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.129179194023489	0.0899656852074288	0.151038812586337
+Shungin WHR EU sex combined 26 SNPs	b2m5Ej	SM.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.222667840018853	0.0802505789728953	0.00552599348095626
+Shungin WHR EU sex combined 26 SNPs	b2m5Ej	SM.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0944343935609491	0.117818423930902	0.430380739408422
+Shungin WHR EU sex combined 26 SNPs	b2Nvey	XS-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.116032669277432	0.349638877763773	0.742872484552697
+Shungin WHR EU sex combined 26 SNPs	b2Nvey	XS-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.303493214382349	0.0876603344213801	0.000535878684552885
+Shungin WHR EU sex combined 26 SNPs	b2Nvey	XS-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.370619310004734	0.11157154335804	0.000894360272938132
+Shungin WHR EU sex combined 26 SNPs	b2Nvey	XS-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.328600460211434	0.118348655794201	0.0102581817429637
+Shungin WHR EU sex combined 26 SNPs	b5Zguc	XL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0425009650025387	0.333453516426036	0.899640678020061
+Shungin WHR EU sex combined 26 SNPs	b5Zguc	XL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.171520251215493	0.100234697478859	0.0870467083072206
+Shungin WHR EU sex combined 26 SNPs	b5Zguc	XL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.249748894431259	0.106642380036528	0.0191843582759613
+Shungin WHR EU sex combined 26 SNPs	b5Zguc	XL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.106665708208137	0.121539799932716	0.388506636191371
+Shungin WHR EU sex combined 26 SNPs	BJEuVh	VLDL-D.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.490024592455557	0.459872230272095	0.297222532905958
+Shungin WHR EU sex combined 26 SNPs	BJEuVh	VLDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.659970051940812	0.104156944482456	2.3534240277657e-10
+Shungin WHR EU sex combined 26 SNPs	BJEuVh	VLDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.634344728155808	0.145328378839109	1.27177373581156e-05
+Shungin WHR EU sex combined 26 SNPs	BJEuVh	VLDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.647165551756985	0.124414511883687	2.21355576768898e-05
+Shungin WHR EU sex combined 26 SNPs	bqHRPA	DAGbyTG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.103740088263666	0.277214585527006	0.711524365965834
+Shungin WHR EU sex combined 26 SNPs	bqHRPA	DAGbyTG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.205905428021562	0.0883360508240456	0.0197568856602699
+Shungin WHR EU sex combined 26 SNPs	bqHRPA	DAGbyTG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.235886046804206	0.0879155107297335	0.00729433245556821
+Shungin WHR EU sex combined 26 SNPs	bqHRPA	DAGbyTG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.183329349943105	0.112025437065013	0.114264258070478
+Shungin WHR EU sex combined 26 SNPs	BuZWJt	S-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.599630404013518	0.368580849053398	0.116825977854396
+Shungin WHR EU sex combined 26 SNPs	BuZWJt	S-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.587534200015619	0.0913863589726632	1.28341714150553e-10
+Shungin WHR EU sex combined 26 SNPs	BuZWJt	S-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.540752777554564	0.116275061320155	3.30915817232046e-06
+Shungin WHR EU sex combined 26 SNPs	BuZWJt	S-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.599652693525208	0.134079242776204	0.000146298243891129
+Shungin WHR EU sex combined 26 SNPs	c9PHCZ	HDL3-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0984589489906047	0.193168743732159	0.614913892390501
+Shungin WHR EU sex combined 26 SNPs	c9PHCZ	HDL3-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0618372688415178	0.0849079056468914	0.466438315268316
+Shungin WHR EU sex combined 26 SNPs	c9PHCZ	HDL3-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.000359284540220375	0.0612626629917446	0.99532070709463
+Shungin WHR EU sex combined 26 SNPs	c9PHCZ	HDL3-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0285862101474672	0.126392563700089	0.822908127143168
+Shungin WHR EU sex combined 26 SNPs	CbwUTe	XXL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.111147303545872	0.302607597414877	0.716615402764899
+Shungin WHR EU sex combined 26 SNPs	CbwUTe	XXL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.219141203351675	0.0959753726167547	0.0224123135328816
+Shungin WHR EU sex combined 26 SNPs	CbwUTe	XXL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.216999833804444	0.0958649506288948	0.0235987718065834
+Shungin WHR EU sex combined 26 SNPs	CbwUTe	XXL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.164906725904723	0.131148109509501	0.220225726678285
+Shungin WHR EU sex combined 26 SNPs	cCX0ao	LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.216080881767403	0.327426173128914	0.515577732980362
+Shungin WHR EU sex combined 26 SNPs	cCX0ao	LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.287957321770073	0.0864954388940953	0.000871077454151233
+Shungin WHR EU sex combined 26 SNPs	cCX0ao	LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.31591399659776	0.103458453204055	0.00226162420630866
+Shungin WHR EU sex combined 26 SNPs	cCX0ao	LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.277078589643142	0.112060247465686	0.0205681810221148
+Shungin WHR EU sex combined 26 SNPs	cdtRF4	S-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0627293875625921	0.273868420945755	0.820771183002578
+Shungin WHR EU sex combined 26 SNPs	cdtRF4	S-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.263311778569352	0.0947572907308967	0.0054559718054302
+Shungin WHR EU sex combined 26 SNPs	cdtRF4	S-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.161495010905141	0.0876773969698271	0.0654864190381071
+Shungin WHR EU sex combined 26 SNPs	cdtRF4	S-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.32729361775513	0.155752044011501	0.0458529226888397
+Shungin WHR EU sex combined 26 SNPs	CkPdAR	XL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0745045540059146	0.218468802383827	0.736048056192001
+Shungin WHR EU sex combined 26 SNPs	CkPdAR	XL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0483905774808778	0.0958024318968768	0.613482962892623
+Shungin WHR EU sex combined 26 SNPs	CkPdAR	XL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.00886549368476181	0.069399565698849	0.898350250515625
+Shungin WHR EU sex combined 26 SNPs	CkPdAR	XL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.11635246311569	0.146364307993499	0.434124591452962
+Shungin WHR EU sex combined 26 SNPs	CMRoZ0	Lac.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.131438378659768	0.247186008627291	0.599794887364696
+Shungin WHR EU sex combined 26 SNPs	CMRoZ0	Lac.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.143808274214915	0.112190885506711	0.199906567989227
+Shungin WHR EU sex combined 26 SNPs	CMRoZ0	Lac.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.14389423024068	0.0778808571310062	0.0646573325185942
+Shungin WHR EU sex combined 26 SNPs	CMRoZ0	Lac.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.274149855090295	0.194531069865592	0.171069082895914
+Shungin WHR EU sex combined 26 SNPs	COe8LK	M-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0353209505820755	0.261446985860444	0.893661106502746
+Shungin WHR EU sex combined 26 SNPs	COe8LK	M-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0172427124992761	0.0866119774094565	0.842200165446398
+Shungin WHR EU sex combined 26 SNPs	COe8LK	M-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.149110851746964	0.08279350153206	0.0717033454465919
+Shungin WHR EU sex combined 26 SNPs	COe8LK	M-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0103127194661223	0.123542957166516	0.934138860067995
+Shungin WHR EU sex combined 26 SNPs	cqjDYz	M-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.139706641571991	0.175785869876813	0.434545611537101
+Shungin WHR EU sex combined 26 SNPs	cqjDYz	M-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0585681455175381	0.0808534248381024	0.468835954397395
+Shungin WHR EU sex combined 26 SNPs	cqjDYz	M-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0829437971883968	0.0528081085066378	0.116260705565393
+Shungin WHR EU sex combined 26 SNPs	cqjDYz	M-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0657612067180483	0.125916404939692	0.606086079957747
+Shungin WHR EU sex combined 26 SNPs	cRcQlM	LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.124025195055601	0.175786749835301	0.487264336068639
+Shungin WHR EU sex combined 26 SNPs	cRcQlM	LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0168435294360306	0.0820671937683447	0.837384061365993
+Shungin WHR EU sex combined 26 SNPs	cRcQlM	LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0338589265624164	0.0490877770887178	0.490343314783938
+Shungin WHR EU sex combined 26 SNPs	cRcQlM	LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.00777918092062824	0.138775248904144	0.955742829255561
+Shungin WHR EU sex combined 26 SNPs	Crr2Ru	FAw6.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.01946857055094	0.435399178495238	0.964704998675863
+Shungin WHR EU sex combined 26 SNPs	Crr2Ru	FAw6.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.326525230040208	0.0969074655908011	0.000753173108401996
+Shungin WHR EU sex combined 26 SNPs	Crr2Ru	FAw6.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.443416293977399	0.140367801334483	0.00158333126172557
+Shungin WHR EU sex combined 26 SNPs	Crr2Ru	FAw6.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.299279858748548	0.118604043944578	0.0183532429451418
+Shungin WHR EU sex combined 26 SNPs	Cs6teW	M-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.474516928144801	0.368052450349769	0.209593971063628
+Shungin WHR EU sex combined 26 SNPs	Cs6teW	M-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.510730286136909	0.0933225774075756	4.4312777442434e-08
+Shungin WHR EU sex combined 26 SNPs	Cs6teW	M-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.501926404820482	0.116047147808656	1.5239781791507e-05
+Shungin WHR EU sex combined 26 SNPs	Cs6teW	M-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.576203869167518	0.125368762398964	0.000106162957661871
+Shungin WHR EU sex combined 26 SNPs	CvWPmv	S-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.375520859494513	0.197359221077996	0.0691402775991442
+Shungin WHR EU sex combined 26 SNPs	CvWPmv	S-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.268008417672906	0.0862067852594471	0.00187784210203392
+Shungin WHR EU sex combined 26 SNPs	CvWPmv	S-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.30246186885054	0.0624204527843936	1.26256885101316e-06
+Shungin WHR EU sex combined 26 SNPs	CvWPmv	S-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.296915039983418	0.117652564261044	0.0183405552315134
+Shungin WHR EU sex combined 26 SNPs	CZk18h	L-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.232277153922505	0.394891241537121	0.561889374962
+Shungin WHR EU sex combined 26 SNPs	CZk18h	L-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.267743288043148	0.107892443205936	0.0130802846205225
+Shungin WHR EU sex combined 26 SNPs	CZk18h	L-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.365004920908753	0.124705679684639	0.00342324808816239
+Shungin WHR EU sex combined 26 SNPs	CZk18h	L-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.194527209882898	0.153550160981575	0.216879538444376
+Shungin WHR EU sex combined 26 SNPs	d2itEw	XL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0361873882316604	0.337301922186621	0.915454816624554
+Shungin WHR EU sex combined 26 SNPs	d2itEw	XL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.210506536886177	0.0941351067853052	0.0253375526623963
+Shungin WHR EU sex combined 26 SNPs	d2itEw	XL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.284852326378238	0.10826368679791	0.00851095903824502
+Shungin WHR EU sex combined 26 SNPs	d2itEw	XL-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.191286751628548	0.125544076174443	0.140144111976678
+Shungin WHR EU sex combined 26 SNPs	DFGzFL	XS-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.397458864702866	0.214270350858908	0.0759303745026782
+Shungin WHR EU sex combined 26 SNPs	DFGzFL	XS-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.36045193792975	0.0871641392610318	3.54454522323079e-05
+Shungin WHR EU sex combined 26 SNPs	DFGzFL	XS-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.287333624660105	0.0679714842726763	2.36546726909738e-05
+Shungin WHR EU sex combined 26 SNPs	DFGzFL	XS-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.373194274297139	0.111128042175695	0.00251490756517938
+Shungin WHR EU sex combined 26 SNPs	DjAuS0	MUFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.215939407008633	0.371686143731761	0.566675411977994
+Shungin WHR EU sex combined 26 SNPs	DjAuS0	MUFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.338676370125762	0.0962290453616071	0.000432390763312936
+Shungin WHR EU sex combined 26 SNPs	DjAuS0	MUFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.364939875714506	0.117717783724739	0.00193438813529826
+Shungin WHR EU sex combined 26 SNPs	DjAuS0	MUFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.328230655679813	0.134621668615795	0.022207578334061
+Shungin WHR EU sex combined 26 SNPs	dPCnT7	L-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0458388777087166	0.38878829376458	0.907126598025995
+Shungin WHR EU sex combined 26 SNPs	dPCnT7	L-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.202598944296246	0.102775826298727	0.0486929550864816
+Shungin WHR EU sex combined 26 SNPs	dPCnT7	L-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.330958815363248	0.124609501449654	0.00790811802157536
+Shungin WHR EU sex combined 26 SNPs	dPCnT7	L-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.193178008616218	0.160846874214247	0.24100464086795
+Shungin WHR EU sex combined 26 SNPs	dprlex	S-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.129919419075892	0.176536021055711	0.468901221159692
+Shungin WHR EU sex combined 26 SNPs	dprlex	S-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0981583119674748	0.0813832045183594	0.22776932314005
+Shungin WHR EU sex combined 26 SNPs	dprlex	S-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0682457632000236	0.0521714280158779	0.190837324965491
+Shungin WHR EU sex combined 26 SNPs	dprlex	S-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.18661204469905	0.139088537760903	0.19176103789161
+Shungin WHR EU sex combined 26 SNPs	DRB5um	L-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0458388777087166	0.38878829376458	0.907126598025995
+Shungin WHR EU sex combined 26 SNPs	DRB5um	L-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.202598944296246	0.109693633052018	0.0647540056695895
+Shungin WHR EU sex combined 26 SNPs	DRB5um	L-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.330958815363248	0.124609501449654	0.00790811802157536
+Shungin WHR EU sex combined 26 SNPs	DRB5um	L-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.193178008616218	0.156604248802712	0.228845663472857
+Shungin WHR EU sex combined 26 SNPs	dZb9WX	L-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.118212836099017	0.317761827722893	0.713144729117244
+Shungin WHR EU sex combined 26 SNPs	dZb9WX	L-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.110648347878371	0.0993424987297911	0.265362090935603
+Shungin WHR EU sex combined 26 SNPs	dZb9WX	L-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.21122399477518	0.103079180004363	0.0404481199580463
+Shungin WHR EU sex combined 26 SNPs	dZb9WX	L-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0499174616098261	0.152795233085653	0.746617925245946
+Shungin WHR EU sex combined 26 SNPs	dzVX3a	S-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.129919419075892	0.176536021055711	0.468901221159692
+Shungin WHR EU sex combined 26 SNPs	dzVX3a	S-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0981583119674748	0.0822328103826175	0.232609586989968
+Shungin WHR EU sex combined 26 SNPs	dzVX3a	S-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0682457632000236	0.0521714280158779	0.190837324965491
+Shungin WHR EU sex combined 26 SNPs	dzVX3a	S-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.18661204469905	0.126955873705277	0.154063499318741
+Shungin WHR EU sex combined 26 SNPs	eCevEI	L-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.463795020975911	0.408277030938064	0.267181265489962
+Shungin WHR EU sex combined 26 SNPs	eCevEI	L-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.306606863684579	0.100190031726508	0.00221149953546396
+Shungin WHR EU sex combined 26 SNPs	eCevEI	L-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.405250016478118	0.12875966127776	0.00164765071672934
+Shungin WHR EU sex combined 26 SNPs	eCevEI	L-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.436816273634488	0.146150015888035	0.00620245136778799
+Shungin WHR EU sex combined 26 SNPs	ef51P0	L-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.55981996918643	0.408855207123808	0.183603172580547
+Shungin WHR EU sex combined 26 SNPs	ef51P0	L-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.503178576899294	0.100578750497022	5.64942140037216e-07
+Shungin WHR EU sex combined 26 SNPs	ef51P0	L-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.528889223763215	0.128919849313601	4.08770963290055e-05
+Shungin WHR EU sex combined 26 SNPs	ef51P0	L-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.537938219161071	0.134302802245515	0.000488602898534668
+Shungin WHR EU sex combined 26 SNPs	EI2Oeq	L-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.370157561669586	0.249471658802782	0.15088620842739
+Shungin WHR EU sex combined 26 SNPs	EI2Oeq	L-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.358321855362477	0.0867095880931856	3.58938152398312e-05
+Shungin WHR EU sex combined 26 SNPs	EI2Oeq	L-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.287574350802743	0.0791805185879921	0.000281361082140688
+Shungin WHR EU sex combined 26 SNPs	EI2Oeq	L-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.388695531523218	0.129452681179796	0.0060004708726631
+Shungin WHR EU sex combined 26 SNPs	EXplhK	M-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0695780845188904	0.317705800235571	0.828500551064827
+Shungin WHR EU sex combined 26 SNPs	EXplhK	M-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.156981289065197	0.0911776282166697	0.0851223535768633
+Shungin WHR EU sex combined 26 SNPs	EXplhK	M-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.224976314479138	0.102079270649835	0.0275287522846503
+Shungin WHR EU sex combined 26 SNPs	EXplhK	M-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.190247733400982	0.111583011210605	0.100594438263415
+Shungin WHR EU sex combined 26 SNPs	fkolGR	L-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.135442510375372	0.311666685953157	0.667753415697011
+Shungin WHR EU sex combined 26 SNPs	fkolGR	L-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0117834775254026	0.0957723445218353	0.902078331481558
+Shungin WHR EU sex combined 26 SNPs	fkolGR	L-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.196370740784226	0.101186006496181	0.0522958062878943
+Shungin WHR EU sex combined 26 SNPs	fkolGR	L-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0133458943439477	0.118872438087842	0.911505373092711
+Shungin WHR EU sex combined 26 SNPs	fKYgfW	XL-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.463306648488654	0.372458581915302	0.225543896498531
+Shungin WHR EU sex combined 26 SNPs	fKYgfW	XL-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.194367308803762	0.094322178699246	0.0393341035957065
+Shungin WHR EU sex combined 26 SNPs	fKYgfW	XL-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.41673026750488	0.117497311753644	0.000390056369503248
+Shungin WHR EU sex combined 26 SNPs	fKYgfW	XL-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.12244054076404	0.16590136970619	0.467366789964667
+Shungin WHR EU sex combined 26 SNPs	FlOFLg	S-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.144384545632955	0.22855287486319	0.533532703791017
+Shungin WHR EU sex combined 26 SNPs	FlOFLg	S-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.354136606205104	0.0804775153609707	1.08030801705323e-05
+Shungin WHR EU sex combined 26 SNPs	FlOFLg	S-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.282086577738272	0.0726519315080287	0.000103297587006625
+Shungin WHR EU sex combined 26 SNPs	FlOFLg	S-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.365782983899209	0.125301490088554	0.00732512835668304
+Shungin WHR EU sex combined 26 SNPs	flYu3v	S-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0523324980769807	0.180168872298768	0.77395670231519
+Shungin WHR EU sex combined 26 SNPs	flYu3v	S-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0143434599306793	0.0854313537087169	0.866666226284278
+Shungin WHR EU sex combined 26 SNPs	flYu3v	S-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0132757494565582	0.0568107297851547	0.815230434702311
+Shungin WHR EU sex combined 26 SNPs	flYu3v	S-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0178335648205346	0.130880629361128	0.892708444564062
+Shungin WHR EU sex combined 26 SNPs	fPiwXa	Crea.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.5418817721675	0.195750771751746	0.010688173943041
+Shungin WHR EU sex combined 26 SNPs	fPiwXa	Crea.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0456484750015912	0.0881542421780846	0.604580337935897
+Shungin WHR EU sex combined 26 SNPs	fPiwXa	Crea.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.00261899382542609	0.0720697754719673	0.971011496959154
+Shungin WHR EU sex combined 26 SNPs	fPiwXa	Crea.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.195932927365402	0.129240531088322	0.14205447899377
+Shungin WHR EU sex combined 26 SNPs	g1yRa3	XS-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.293017733101699	0.304728642431614	0.34585455632621
+Shungin WHR EU sex combined 26 SNPs	g1yRa3	XS-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.323761121422394	0.0923862724480519	0.00045758776999048
+Shungin WHR EU sex combined 26 SNPs	g1yRa3	XS-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.383893186698784	0.0962692875061754	6.67165196323646e-05
+Shungin WHR EU sex combined 26 SNPs	g1yRa3	XS-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.365445033372246	0.159136110795484	0.0303068850183656
+Shungin WHR EU sex combined 26 SNPs	G2MVWM	L-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.150992913919593	0.177119805856884	0.402369494018664
+Shungin WHR EU sex combined 26 SNPs	G2MVWM	L-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.098672941032037	0.0796368802972756	0.215332262081647
+Shungin WHR EU sex combined 26 SNPs	G2MVWM	L-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0896588998270124	0.0560056050491212	0.109400941677503
+Shungin WHR EU sex combined 26 SNPs	G2MVWM	L-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.121301799288368	0.112345442901949	0.290573204749598
+Shungin WHR EU sex combined 26 SNPs	g2ULeA	M-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0601318948492965	0.184921335992595	0.747866001208715
+Shungin WHR EU sex combined 26 SNPs	g2ULeA	M-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.176527265967595	0.0887553623320849	0.0467100951410073
+Shungin WHR EU sex combined 26 SNPs	g2ULeA	M-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.13398200729151	0.0597484735923801	0.0249333378863759
+Shungin WHR EU sex combined 26 SNPs	g2ULeA	M-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.221147124663465	0.143560645366196	0.136015540247101
+Shungin WHR EU sex combined 26 SNPs	g4qDn3	Remnant-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.407976776967815	0.208388887857904	0.061982225565188
+Shungin WHR EU sex combined 26 SNPs	g4qDn3	Remnant-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.345142608378393	0.0839980394385967	3.97485378278739e-05
+Shungin WHR EU sex combined 26 SNPs	g4qDn3	Remnant-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.310165609467383	0.0660400254258459	2.64488046414448e-06
+Shungin WHR EU sex combined 26 SNPs	g4qDn3	Remnant-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.382297032207241	0.127708661974908	0.00613305173964028
+Shungin WHR EU sex combined 26 SNPs	gcTfob	PC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0699409443233995	0.192159807670819	0.719065244429504
+Shungin WHR EU sex combined 26 SNPs	gcTfob	PC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0440317415056374	0.0835607254028553	0.598233153784521
+Shungin WHR EU sex combined 26 SNPs	gcTfob	PC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0417523702899142	0.061080128064058	0.494248521382695
+Shungin WHR EU sex combined 26 SNPs	gcTfob	PC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0672024800051522	0.125593110138863	0.597321736791824
+Shungin WHR EU sex combined 26 SNPs	h7NyGV	ApoBbyApoA1.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.533965875198749	0.316501773687792	0.104543432108225
+Shungin WHR EU sex combined 26 SNPs	h7NyGV	ApoBbyApoA1.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.366596372540918	0.0936987727385011	9.13458443006303e-05
+Shungin WHR EU sex combined 26 SNPs	h7NyGV	ApoBbyApoA1.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.40919133207894	0.100141646086483	4.38636611344507e-05
+Shungin WHR EU sex combined 26 SNPs	h7NyGV	ApoBbyApoA1.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.51153832333335	0.161312331765243	0.00398827305310822
+Shungin WHR EU sex combined 26 SNPs	hBJHrK	S-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.07458044561509	0.196275963373985	0.707304021325451
+Shungin WHR EU sex combined 26 SNPs	hBJHrK	S-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.144355986773928	0.0894207244326165	0.106452402549165
+Shungin WHR EU sex combined 26 SNPs	hBJHrK	S-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.128279976643423	0.0633417269455082	0.0428463273521635
+Shungin WHR EU sex combined 26 SNPs	hBJHrK	S-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.1815435356999	0.126386272664279	0.163280290033968
+Shungin WHR EU sex combined 26 SNPs	HCGzK3	IDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.587198553118006	0.205035638025192	0.00855500727192897
+Shungin WHR EU sex combined 26 SNPs	HCGzK3	IDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.352311954703255	0.0837458991150432	2.58879423910927e-05
+Shungin WHR EU sex combined 26 SNPs	HCGzK3	IDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.34868170480708	0.066633896682195	1.66963393804891e-07
+Shungin WHR EU sex combined 26 SNPs	HCGzK3	IDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.418085834506185	0.134455081341801	0.00463454491181123
+Shungin WHR EU sex combined 26 SNPs	hLfE0T	S-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.198808688063469	0.339197443773824	0.563270487295005
+Shungin WHR EU sex combined 26 SNPs	hLfE0T	S-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.187816835994879	0.0944260439626246	0.046697188368696
+Shungin WHR EU sex combined 26 SNPs	hLfE0T	S-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.312153385602542	0.107217806412888	0.00359818819945377
+Shungin WHR EU sex combined 26 SNPs	hLfE0T	S-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.16603225979955	0.122976042473751	0.189075490756829
+Shungin WHR EU sex combined 26 SNPs	HRj3yI	DAG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.103740088263666	0.277214585527006	0.711524365965834
+Shungin WHR EU sex combined 26 SNPs	HRj3yI	DAG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.205905428021562	0.0926856453183546	0.0263140002154433
+Shungin WHR EU sex combined 26 SNPs	HRj3yI	DAG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.235886046804206	0.0879155107297335	0.00729433245556821
+Shungin WHR EU sex combined 26 SNPs	HRj3yI	DAG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.183329349943105	0.116605095451872	0.128470243253856
+Shungin WHR EU sex combined 26 SNPs	HrN9g3	XL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0361873882316604	0.337301922186621	0.915454816624554
+Shungin WHR EU sex combined 26 SNPs	HrN9g3	XL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.210506536886177	0.0987476427703636	0.0330263633401462
+Shungin WHR EU sex combined 26 SNPs	HrN9g3	XL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.284852326378238	0.10826368679791	0.00851095903824502
+Shungin WHR EU sex combined 26 SNPs	HrN9g3	XL-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.191286751628548	0.120557759026431	0.125153762976268
+Shungin WHR EU sex combined 26 SNPs	hS8q3T	L-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0806526469865548	0.336505822217835	0.812615972263949
+Shungin WHR EU sex combined 26 SNPs	hS8q3T	L-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.210641027421741	0.0914967229640484	0.0213255767824253
+Shungin WHR EU sex combined 26 SNPs	hS8q3T	L-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.271757587445982	0.10688819200276	0.0110079222626775
+Shungin WHR EU sex combined 26 SNPs	hS8q3T	L-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.237833347599318	0.111370927665246	0.042700299649576
+Shungin WHR EU sex combined 26 SNPs	iAm2LK	S-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.475172850104295	0.388770618227903	0.233483633565162
+Shungin WHR EU sex combined 26 SNPs	iAm2LK	S-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.490066397192949	0.0898645228740724	4.94181901632704e-08
+Shungin WHR EU sex combined 26 SNPs	iAm2LK	S-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.511765529493009	0.12258356871214	2.98208984492891e-05
+Shungin WHR EU sex combined 26 SNPs	iAm2LK	S-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.509725027329803	0.117555858943971	0.000208255812000125
+Shungin WHR EU sex combined 26 SNPs	Ib32uV	IDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.39266829942914	0.44364128893761	0.384883153204703
+Shungin WHR EU sex combined 26 SNPs	Ib32uV	IDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.446780118141039	0.0978442626374765	4.96556715813431e-06
+Shungin WHR EU sex combined 26 SNPs	Ib32uV	IDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.53808162436249	0.140219918870827	0.000124337678632954
+Shungin WHR EU sex combined 26 SNPs	Ib32uV	IDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.460016209972111	0.118807530496092	0.000687877253242008
+Shungin WHR EU sex combined 26 SNPs	ICMs7B	XL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0745045540059146	0.218468802383827	0.736048056192001
+Shungin WHR EU sex combined 26 SNPs	ICMs7B	XL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0483905774808778	0.0929300061870325	0.602561355080667
+Shungin WHR EU sex combined 26 SNPs	ICMs7B	XL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.00886549368476181	0.069399565698849	0.898350250515625
+Shungin WHR EU sex combined 26 SNPs	ICMs7B	XL-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.11635246311569	0.140781109349776	0.416351654080087
+Shungin WHR EU sex combined 26 SNPs	in5Pfc	XS-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.293017733101699	0.304728642431614	0.34585455632621
+Shungin WHR EU sex combined 26 SNPs	in5Pfc	XS-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.323761121422394	0.0918593582786826	0.000424233773195718
+Shungin WHR EU sex combined 26 SNPs	in5Pfc	XS-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.383893186698784	0.0962692875061754	6.67165196323646e-05
+Shungin WHR EU sex combined 26 SNPs	in5Pfc	XS-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.365445033372246	0.178574437616849	0.0513634039424658
+Shungin WHR EU sex combined 26 SNPs	IU8QbP	IDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.184442885600517	0.36686395351373	0.619718608676563
+Shungin WHR EU sex combined 26 SNPs	IU8QbP	IDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.305881310428212	0.0895787777938574	0.000638610426947283
+Shungin WHR EU sex combined 26 SNPs	IU8QbP	IDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.309237737592043	0.115965032889496	0.00766122304306835
+Shungin WHR EU sex combined 26 SNPs	IU8QbP	IDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.272332773090433	0.114602477063862	0.0254596725731641
+Shungin WHR EU sex combined 26 SNPs	IXNjyR	S-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.286783983301451	0.392266640492748	0.471799517475809
+Shungin WHR EU sex combined 26 SNPs	IXNjyR	S-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.329013843047632	0.0992491064319499	0.000916330331527702
+Shungin WHR EU sex combined 26 SNPs	IXNjyR	S-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.413380712130747	0.123976170984454	0.000854971003642089
+Shungin WHR EU sex combined 26 SNPs	IXNjyR	S-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.230606983719736	0.131085763971277	0.0907774516530107
+Shungin WHR EU sex combined 26 SNPs	J1cy19	M-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.517429371807337	0.34013506064013	0.141265068726543
+Shungin WHR EU sex combined 26 SNPs	J1cy19	M-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.55598570594097	0.0872132214261398	1.82943523814571e-10
+Shungin WHR EU sex combined 26 SNPs	J1cy19	M-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.454974636670244	0.107330422290782	2.24508559976917e-05
+Shungin WHR EU sex combined 26 SNPs	J1cy19	M-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.558108380933538	0.104059861112379	1.4599587589052e-05
+Shungin WHR EU sex combined 26 SNPs	JfvcBi	HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.257098094344223	0.298231612570815	0.397178337567897
+Shungin WHR EU sex combined 26 SNPs	JfvcBi	HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.341821617067954	0.0880596035379943	0.000103725623989161
+Shungin WHR EU sex combined 26 SNPs	JfvcBi	HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.386607979640292	0.0944386721105642	4.24458442103421e-05
+Shungin WHR EU sex combined 26 SNPs	JfvcBi	HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.389866033652643	0.122254021905222	0.00381760755015066
+Shungin WHR EU sex combined 26 SNPs	jIdM2C	IDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.190851989272934	0.175805814439317	0.288447317476295
+Shungin WHR EU sex combined 26 SNPs	jIdM2C	IDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.128933976547242	0.0819342726504523	0.115573727525801
+Shungin WHR EU sex combined 26 SNPs	jIdM2C	IDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.107692109213539	0.0531624971707307	0.0427939190848435
+Shungin WHR EU sex combined 26 SNPs	jIdM2C	IDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.130281238116881	0.128617483602193	0.320794619963542
+Shungin WHR EU sex combined 26 SNPs	jlLU1E	XL-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.447204132112868	0.360779940896414	0.227127004717921
+Shungin WHR EU sex combined 26 SNPs	jlLU1E	XL-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.201179441399111	0.0968664738520514	0.0378132087176848
+Shungin WHR EU sex combined 26 SNPs	jlLU1E	XL-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.38222233995407	0.113846046783867	0.000786901419179785
+Shungin WHR EU sex combined 26 SNPs	jlLU1E	XL-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0736239015234414	0.167150195115914	0.663385074832976
+Shungin WHR EU sex combined 26 SNPs	k2X2oA	M-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.202057634630291	0.278015831154576	0.474387746145045
+Shungin WHR EU sex combined 26 SNPs	k2X2oA	M-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.173785907833432	0.0897712366429416	0.0528829917307484
+Shungin WHR EU sex combined 26 SNPs	k2X2oA	M-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.225055187777573	0.0876370042452419	0.0102275840421739
+Shungin WHR EU sex combined 26 SNPs	k2X2oA	M-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.202059769503737	0.118461768336112	0.100460730862664
+Shungin WHR EU sex combined 26 SNPs	K5LehO	Alb.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0290198772261011	0.226762640797406	0.899235315529962
+Shungin WHR EU sex combined 26 SNPs	K5LehO	Alb.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0656744156281509	0.0852048893685308	0.440836014900529
+Shungin WHR EU sex combined 26 SNPs	K5LehO	Alb.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.00505316857685483	0.0715179065091301	0.943671547143372
+Shungin WHR EU sex combined 26 SNPs	K5LehO	Alb.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0965785916670381	0.140421411841717	0.497925492748624
+Shungin WHR EU sex combined 26 SNPs	KEgdLF	S-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.175356074673084	0.17628892538918	0.329801908526351
+Shungin WHR EU sex combined 26 SNPs	KEgdLF	S-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.183521360135893	0.083197117084115	0.0273936627165399
+Shungin WHR EU sex combined 26 SNPs	KEgdLF	S-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.150021925372895	0.054231478191058	0.00566919027961412
+Shungin WHR EU sex combined 26 SNPs	KEgdLF	S-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.231501592823209	0.133987573780744	0.0963625253028979
+Shungin WHR EU sex combined 26 SNPs	kiCzCm	DHAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.199457738086035	0.237338740261015	0.408982943805977
+Shungin WHR EU sex combined 26 SNPs	kiCzCm	DHAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0815118394733745	0.086834230773152	0.347881558027156
+Shungin WHR EU sex combined 26 SNPs	kiCzCm	DHAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0664716393235312	0.0770412711092127	0.388244365547369
+Shungin WHR EU sex combined 26 SNPs	kiCzCm	DHAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.152993349481767	0.112360303136252	0.185459964767084
+Shungin WHR EU sex combined 26 SNPs	kiYOiT	His.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0930594547291395	0.176675865756601	0.603219893433755
+Shungin WHR EU sex combined 26 SNPs	kiYOiT	His.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0711313693047978	0.0799010374009207	0.373335218160285
+Shungin WHR EU sex combined 26 SNPs	kiYOiT	His.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0476101055041121	0.0488294899830573	0.329546517940565
+Shungin WHR EU sex combined 26 SNPs	kiYOiT	His.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0670068338219261	0.120882330084864	0.584288718107459
+Shungin WHR EU sex combined 26 SNPs	KsImFA	HDL-D.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.447558799873003	0.485034714867906	0.365329120119762
+Shungin WHR EU sex combined 26 SNPs	KsImFA	HDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.434045161724192	0.105952102264879	4.19232018133147e-05
+Shungin WHR EU sex combined 26 SNPs	KsImFA	HDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.434062909611961	0.152902684595534	0.00452809604369059
+Shungin WHR EU sex combined 26 SNPs	KsImFA	HDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.512051690687673	0.164155162696659	0.00452508291334109
+Shungin WHR EU sex combined 26 SNPs	kVbHZr	LDL-D.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0354775158169253	0.225010763233938	0.876035654502983
+Shungin WHR EU sex combined 26 SNPs	kVbHZr	LDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0792186346771637	0.0863634745086773	0.359001110537026
+Shungin WHR EU sex combined 26 SNPs	kVbHZr	LDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0376011717784946	0.0709333507428545	0.596048438542451
+Shungin WHR EU sex combined 26 SNPs	kVbHZr	LDL-D.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.147841153023089	0.136899914579847	0.290485916747701
+Shungin WHR EU sex combined 26 SNPs	l0C3at	Gly.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.272563723069131	0.273215279955815	0.32841868940214
+Shungin WHR EU sex combined 26 SNPs	l0C3at	Gly.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.262105796871913	0.0944222755972545	0.00550509267281914
+Shungin WHR EU sex combined 26 SNPs	l0C3at	Gly.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.259326181974193	0.0861553010040018	0.00261260409479575
+Shungin WHR EU sex combined 26 SNPs	l0C3at	Gly.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.264762228334887	0.141505723701184	0.0730893407718583
+Shungin WHR EU sex combined 26 SNPs	L3PJbn	Phe.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.109689930789839	0.20488161283006	0.597312368256265
+Shungin WHR EU sex combined 26 SNPs	L3PJbn	Phe.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.026760759764152	0.0851765495764366	0.753384408381107
+Shungin WHR EU sex combined 26 SNPs	L3PJbn	Phe.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0237239546718798	0.0652236882672665	0.71605800678944
+Shungin WHR EU sex combined 26 SNPs	L3PJbn	Phe.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.00150703932095397	0.108130821010089	0.988990724650792
+Shungin WHR EU sex combined 26 SNPs	leZSEv	XL-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.463306648488654	0.372458581915302	0.225543896498531
+Shungin WHR EU sex combined 26 SNPs	leZSEv	XL-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.194367308803762	0.0970782045946403	0.0452661853262276
+Shungin WHR EU sex combined 26 SNPs	leZSEv	XL-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.41673026750488	0.117497311753644	0.000390056369503248
+Shungin WHR EU sex combined 26 SNPs	leZSEv	XL-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.12244054076404	0.159255893087149	0.449197605418051
+Shungin WHR EU sex combined 26 SNPs	LH2wLz	L-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.179115862557348	0.176018913199568	0.319019895873064
+Shungin WHR EU sex combined 26 SNPs	LH2wLz	L-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0100131767635994	0.085115868680641	0.90635155064861
+Shungin WHR EU sex combined 26 SNPs	LH2wLz	L-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0281500755304537	0.0508170726600471	0.579613628846583
+Shungin WHR EU sex combined 26 SNPs	LH2wLz	L-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0271407177374835	0.153436257302679	0.861023218407976
+Shungin WHR EU sex combined 26 SNPs	lHfQnC	GlycA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.272563723069131	0.273215279955815	0.32841868940214
+Shungin WHR EU sex combined 26 SNPs	lHfQnC	GlycA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.262105796871913	0.0979398403908501	0.00744640195017048
+Shungin WHR EU sex combined 26 SNPs	lHfQnC	GlycA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.259326181974193	0.0861553010040018	0.00261260409479575
+Shungin WHR EU sex combined 26 SNPs	lHfQnC	GlycA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.264762228334887	0.139573616829867	0.0694468843563415
+Shungin WHR EU sex combined 26 SNPs	MdyjCs	S-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.07458044561509	0.196275963373985	0.707304021325451
+Shungin WHR EU sex combined 26 SNPs	MdyjCs	S-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.144355986773928	0.0866043152780533	0.0955451908851353
+Shungin WHR EU sex combined 26 SNPs	MdyjCs	S-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.128279976643423	0.0633417269455082	0.0428463273521635
+Shungin WHR EU sex combined 26 SNPs	MdyjCs	S-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.1815435356999	0.148326288155116	0.232382356958159
+Shungin WHR EU sex combined 26 SNPs	mfOW1Y	FAw3.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.273214095558051	0.229541829314231	0.245585697477426
+Shungin WHR EU sex combined 26 SNPs	mfOW1Y	FAw3.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0877475862672552	0.0902710437559025	0.331027778858621
+Shungin WHR EU sex combined 26 SNPs	mfOW1Y	FAw3.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0164890617516056	0.074500621193334	0.824837172340908
+Shungin WHR EU sex combined 26 SNPs	mfOW1Y	FAw3.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.218203268267284	0.123580175073421	0.0896615581625601
+Shungin WHR EU sex combined 26 SNPs	mI36gC	XL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0126814831185092	0.37062194091852	0.972987292136886
+Shungin WHR EU sex combined 26 SNPs	mI36gC	XL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.188157316607731	0.102548673108316	0.0665338670821247
+Shungin WHR EU sex combined 26 SNPs	mI36gC	XL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.300000069621955	0.119375924643545	0.0119685542399647
+Shungin WHR EU sex combined 26 SNPs	mI36gC	XL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.147417637327755	0.137519813828213	0.293971461343336
+Shungin WHR EU sex combined 26 SNPs	MKedW7	M-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0860400216251155	0.348646785688168	0.807175038917637
+Shungin WHR EU sex combined 26 SNPs	MKedW7	M-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.191086984706425	0.0943238927594998	0.0427791514059299
+Shungin WHR EU sex combined 26 SNPs	MKedW7	M-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.254289232323874	0.110535739978542	0.0214190069887149
+Shungin WHR EU sex combined 26 SNPs	MKedW7	M-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.14328965980025	0.116552543151748	0.230367637014016
+Shungin WHR EU sex combined 26 SNPs	mkycip	M-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.312104753865413	0.331008440023918	0.35513234462054
+Shungin WHR EU sex combined 26 SNPs	mkycip	M-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.404578580826035	0.0904453998019864	7.70647430852868e-06
+Shungin WHR EU sex combined 26 SNPs	mkycip	M-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.378956200293518	0.104466494539062	0.000286136443427618
+Shungin WHR EU sex combined 26 SNPs	mkycip	M-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.360483038121695	0.11856542345409	0.00547883573116256
+Shungin WHR EU sex combined 26 SNPs	MLJhbl	XXL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.363153711041827	0.263720248204107	0.181209021150326
+Shungin WHR EU sex combined 26 SNPs	MLJhbl	XXL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.369814937850051	0.0932608071937863	7.32777994539477e-05
+Shungin WHR EU sex combined 26 SNPs	MLJhbl	XXL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.332329632508465	0.0833490501421851	6.68566502495419e-05
+Shungin WHR EU sex combined 26 SNPs	MLJhbl	XXL-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.41163628165292	0.11850617468436	0.00188650418766228
+Shungin WHR EU sex combined 26 SNPs	mMl6Zf	S-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0523324980769807	0.180168872298768	0.77395670231519
+Shungin WHR EU sex combined 26 SNPs	mMl6Zf	S-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0143434599306793	0.0856106186866547	0.866942816140982
+Shungin WHR EU sex combined 26 SNPs	mMl6Zf	S-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0132757494565582	0.0568107297851547	0.815230434702311
+Shungin WHR EU sex combined 26 SNPs	mMl6Zf	S-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0178335648205346	0.134889720162097	0.895877720616886
+Shungin WHR EU sex combined 26 SNPs	mocWoT	XL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.333189431978171	0.381790085565397	0.391472774432414
+Shungin WHR EU sex combined 26 SNPs	mocWoT	XL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.471324839982152	0.0894923597681056	1.38936546820334e-07
+Shungin WHR EU sex combined 26 SNPs	mocWoT	XL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.520552127576242	0.121053650853188	1.70661731383114e-05
+Shungin WHR EU sex combined 26 SNPs	mocWoT	XL-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.530308950132347	0.124052296833047	0.000243937648433584
+Shungin WHR EU sex combined 26 SNPs	mP595r	L-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.10012909925185	0.200184859951549	0.621501661450134
+Shungin WHR EU sex combined 26 SNPs	mP595r	L-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0104274504482723	0.0917831208162978	0.909547218147876
+Shungin WHR EU sex combined 26 SNPs	mP595r	L-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0447002342269403	0.0634852830554679	0.481368082980733
+Shungin WHR EU sex combined 26 SNPs	mP595r	L-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0112365343528561	0.14467975099589	0.938712901102866
+Shungin WHR EU sex combined 26 SNPs	mynshu	TotFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.274688674406428	0.271343363287746	0.321478692620717
+Shungin WHR EU sex combined 26 SNPs	mynshu	TotFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.338715969463966	0.086455199308034	8.93531273308859e-05
+Shungin WHR EU sex combined 26 SNPs	mynshu	TotFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.351842664257162	0.085778626081941	4.10033345977104e-05
+Shungin WHR EU sex combined 26 SNPs	mynshu	TotFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.367985228078728	0.112584181431494	0.00313987026843454
+Shungin WHR EU sex combined 26 SNPs	NDCmNX	TotPG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0919649361548154	0.192717542896845	0.637536153937003
+Shungin WHR EU sex combined 26 SNPs	NDCmNX	TotPG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0414771187816552	0.0821812222293741	0.61376737348319
+Shungin WHR EU sex combined 26 SNPs	NDCmNX	TotPG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0568153061594546	0.0616353060359287	0.356633914260772
+Shungin WHR EU sex combined 26 SNPs	NDCmNX	TotPG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0742868134651764	0.1203380643801	0.542607519160326
+Shungin WHR EU sex combined 26 SNPs	Nejk7Z	L-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.10012909925185	0.200184859951549	0.621501661450134
+Shungin WHR EU sex combined 26 SNPs	Nejk7Z	L-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0104274504482723	0.0910343556419171	0.908806471285894
+Shungin WHR EU sex combined 26 SNPs	Nejk7Z	L-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0447002342269403	0.0634852830554679	0.481368082980733
+Shungin WHR EU sex combined 26 SNPs	Nejk7Z	L-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0112365343528561	0.135443427567331	0.934543179101718
+Shungin WHR EU sex combined 26 SNPs	NIgr0i	Tyr.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.166198769049412	0.176610359813403	0.35605671598089
+Shungin WHR EU sex combined 26 SNPs	NIgr0i	Tyr.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0314035025398526	0.0809441051691918	0.698041726610615
+Shungin WHR EU sex combined 26 SNPs	NIgr0i	Tyr.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0159611351209659	0.0425002533935084	0.707248582237815
+Shungin WHR EU sex combined 26 SNPs	NIgr0i	Tyr.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0613406459419379	0.1208794493665	0.616284599464844
+Shungin WHR EU sex combined 26 SNPs	NNMPqH	Ace.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.286318983489603	0.418043386888324	0.499967188899849
+Shungin WHR EU sex combined 26 SNPs	NNMPqH	Ace.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.126005277746811	0.185356368192343	0.49663104296436
+Shungin WHR EU sex combined 26 SNPs	NNMPqH	Ace.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.155493629227127	0.108489880555858	0.151785067866369
+Shungin WHR EU sex combined 26 SNPs	NNMPqH	Ace.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.184615693076307	0.325241837720562	0.575351645573701
+Shungin WHR EU sex combined 26 SNPs	nqqhvg	S-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.07458044561509	0.196275963373985	0.707304021325451
+Shungin WHR EU sex combined 26 SNPs	nqqhvg	S-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.144355986773928	0.0896320224026645	0.107279948807574
+Shungin WHR EU sex combined 26 SNPs	nqqhvg	S-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.128279976643423	0.0633417269455082	0.0428463273521635
+Shungin WHR EU sex combined 26 SNPs	nqqhvg	S-LDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.1815435356999	0.138321424928365	0.201282159793304
+Shungin WHR EU sex combined 26 SNPs	NRnQUS	S-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0203221820136024	0.191989555185738	0.916580767610693
+Shungin WHR EU sex combined 26 SNPs	NRnQUS	S-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.110258021279899	0.0834546085774954	0.186443504261363
+Shungin WHR EU sex combined 26 SNPs	NRnQUS	S-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.117079201066867	0.0608867185057945	0.0544923414731433
+Shungin WHR EU sex combined 26 SNPs	NRnQUS	S-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.133853813028527	0.124898877262226	0.294093174447086
+Shungin WHR EU sex combined 26 SNPs	Nupl5e	M-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.166313405150518	0.187251105182602	0.383257245076708
+Shungin WHR EU sex combined 26 SNPs	Nupl5e	M-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0632226390310217	0.0833602942925733	0.448195822097284
+Shungin WHR EU sex combined 26 SNPs	Nupl5e	M-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0650554625944854	0.0594098935646303	0.273504623010162
+Shungin WHR EU sex combined 26 SNPs	Nupl5e	M-LDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.061703664768382	0.136994983723485	0.656297985131689
+Shungin WHR EU sex combined 26 SNPs	OA1pwr	XXL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.40273587161588	0.356702363883647	0.270034956471337
+Shungin WHR EU sex combined 26 SNPs	OA1pwr	XXL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.440649793090385	0.0974358123616854	6.11243612229177e-06
+Shungin WHR EU sex combined 26 SNPs	OA1pwr	XXL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.371129707185851	0.112697613276029	0.000990729737260498
+Shungin WHR EU sex combined 26 SNPs	OA1pwr	XXL-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.428368850159075	0.122385464344772	0.00176478184157343
+Shungin WHR EU sex combined 26 SNPs	od0yLA	M-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.517429371807337	0.34013506064013	0.141265068726543
+Shungin WHR EU sex combined 26 SNPs	od0yLA	M-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.55598570594097	0.0872385163558547	1.85163064021532e-10
+Shungin WHR EU sex combined 26 SNPs	od0yLA	M-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.454974636670244	0.107330422290782	2.24508559976917e-05
+Shungin WHR EU sex combined 26 SNPs	od0yLA	M-VLDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.558108380933538	0.110892776285662	3.42335481874585e-05
+Shungin WHR EU sex combined 26 SNPs	oEBsPp	M-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.186371405997837	0.421452094164433	0.662294844987867
+Shungin WHR EU sex combined 26 SNPs	oEBsPp	M-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.287370867490062	0.100620855544001	0.00429045967096279
+Shungin WHR EU sex combined 26 SNPs	oEBsPp	M-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.368798373502894	0.133443124162905	0.00571479420432896
+Shungin WHR EU sex combined 26 SNPs	oEBsPp	M-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.311949294254316	0.126461173941334	0.0208376271577477
+Shungin WHR EU sex combined 26 SNPs	OldXAu	XL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0361873882316604	0.337301922186621	0.915454816624554
+Shungin WHR EU sex combined 26 SNPs	OldXAu	XL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.210506536886177	0.0962235658499064	0.0286927938872085
+Shungin WHR EU sex combined 26 SNPs	OldXAu	XL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.284852326378238	0.10826368679791	0.00851095903824502
+Shungin WHR EU sex combined 26 SNPs	OldXAu	XL-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.191286751628548	0.117090585294403	0.114861584918654
+Shungin WHR EU sex combined 26 SNPs	pEoVjh	S-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.103454865023863	0.229722484260681	0.656502052474155
+Shungin WHR EU sex combined 26 SNPs	pEoVjh	S-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.189706041333465	0.0889072847397047	0.0328631379099873
+Shungin WHR EU sex combined 26 SNPs	pEoVjh	S-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.179916936152448	0.0748687082674195	0.0162567748708349
+Shungin WHR EU sex combined 26 SNPs	pEoVjh	S-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.20653430872807	0.132840759102493	0.132574921279242
+Shungin WHR EU sex combined 26 SNPs	piaYQ0	L-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.150992913919593	0.177119805856884	0.402369494018664
+Shungin WHR EU sex combined 26 SNPs	piaYQ0	L-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.098672941032037	0.0808366000414861	0.222219760471182
+Shungin WHR EU sex combined 26 SNPs	piaYQ0	L-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0896588998270124	0.0560056050491212	0.109400941677503
+Shungin WHR EU sex combined 26 SNPs	piaYQ0	L-LDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.121301799288368	0.118186816131176	0.314552490024235
+Shungin WHR EU sex combined 26 SNPs	pQ0kkB	M-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0601318948492965	0.184921335992595	0.747866001208715
+Shungin WHR EU sex combined 26 SNPs	pQ0kkB	M-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.176527265967595	0.0865238462633649	0.0413288968715017
+Shungin WHR EU sex combined 26 SNPs	pQ0kkB	M-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.13398200729151	0.0597484735923801	0.0249333378863759
+Shungin WHR EU sex combined 26 SNPs	pQ0kkB	M-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.221147124663465	0.13812536728791	0.121925640946398
+Shungin WHR EU sex combined 26 SNPs	q2je9x	VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.135442510375372	0.311666685953157	0.667753415697011
+Shungin WHR EU sex combined 26 SNPs	q2je9x	VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0117834775254026	0.0971031068118292	0.903413691790066
+Shungin WHR EU sex combined 26 SNPs	q2je9x	VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.196370740784226	0.101186006496181	0.0522958062878943
+Shungin WHR EU sex combined 26 SNPs	q2je9x	VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0133458943439477	0.121239631615073	0.913225907203434
+Shungin WHR EU sex combined 26 SNPs	Q3oE8p	IDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.184442885600517	0.36686395351373	0.619718608676563
+Shungin WHR EU sex combined 26 SNPs	Q3oE8p	IDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.305881310428212	0.090234850494777	0.000699345445686431
+Shungin WHR EU sex combined 26 SNPs	Q3oE8p	IDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.309237737592043	0.115965032889496	0.00766122304306835
+Shungin WHR EU sex combined 26 SNPs	Q3oE8p	IDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.272332773090433	0.116187358248848	0.0273336260165887
+Shungin WHR EU sex combined 26 SNPs	q55OOg	ApoA1.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.287340907021653	0.276565413478141	0.309177052428584
+Shungin WHR EU sex combined 26 SNPs	q55OOg	ApoA1.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.160829188124712	0.0941308283041752	0.0875304744544521
+Shungin WHR EU sex combined 26 SNPs	q55OOg	ApoA1.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.202995146795646	0.0873759871120858	0.0201664114500205
+Shungin WHR EU sex combined 26 SNPs	q55OOg	ApoA1.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.212449630373738	0.137061078180576	0.133700784341835
+Shungin WHR EU sex combined 26 SNPs	qb1kOB	S-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0408134503236143	0.377862086876845	0.914884497793498
+Shungin WHR EU sex combined 26 SNPs	qb1kOB	S-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.2718409718301	0.0905672564847125	0.00268620387837465
+Shungin WHR EU sex combined 26 SNPs	qb1kOB	S-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.347316718334632	0.12081053401007	0.00404171222138188
+Shungin WHR EU sex combined 26 SNPs	qb1kOB	S-LDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.321165689409919	0.107272048941235	0.00612676207037327
+Shungin WHR EU sex combined 26 SNPs	qi2S4j	XL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0126814831185092	0.37062194091852	0.972987292136886
+Shungin WHR EU sex combined 26 SNPs	qi2S4j	XL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.188157316607731	0.104895567029648	0.0728517209931003
+Shungin WHR EU sex combined 26 SNPs	qi2S4j	XL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.300000069621955	0.119375924643545	0.0119685542399647
+Shungin WHR EU sex combined 26 SNPs	qi2S4j	XL-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.147417637327755	0.133279032135407	0.279221296391101
+Shungin WHR EU sex combined 26 SNPs	Qnn8jF	FALen.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.196771106599455	0.231134851243438	0.403003002713478
+Shungin WHR EU sex combined 26 SNPs	Qnn8jF	FALen.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.298680556522619	0.0877627483013051	0.000665838130423331
+Shungin WHR EU sex combined 26 SNPs	Qnn8jF	FALen.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.322117432170725	0.0734184228504697	1.14703338946492e-05
+Shungin WHR EU sex combined 26 SNPs	Qnn8jF	FALen.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.297310950670985	0.11463087278265	0.0156506773223705
+Shungin WHR EU sex combined 26 SNPs	QuH2ha	XL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0745045540059146	0.218468802383827	0.736048056192001
+Shungin WHR EU sex combined 26 SNPs	QuH2ha	XL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0483905774808778	0.0962578380329013	0.615162335872699
+Shungin WHR EU sex combined 26 SNPs	QuH2ha	XL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.00886549368476181	0.069399565698849	0.898350250515625
+Shungin WHR EU sex combined 26 SNPs	QuH2ha	XL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.11635246311569	0.136247926502781	0.401227353774832
+Shungin WHR EU sex combined 26 SNPs	qy8stt	XL-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.391862586457531	0.410201877754751	0.348954052624972
+Shungin WHR EU sex combined 26 SNPs	qy8stt	XL-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.421825356149211	0.0976557767402441	1.56374195082532e-05
+Shungin WHR EU sex combined 26 SNPs	qy8stt	XL-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.368401836447058	0.129319793643579	0.0043889142021045
+Shungin WHR EU sex combined 26 SNPs	qy8stt	XL-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.436119040769372	0.14411327195498	0.00566896793044262
+Shungin WHR EU sex combined 26 SNPs	QYAiMS	XL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0763008614904605	0.372321790917575	0.839352936484791
+Shungin WHR EU sex combined 26 SNPs	QYAiMS	XL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.250767252104926	0.107016205222017	0.0191158367073585
+Shungin WHR EU sex combined 26 SNPs	QYAiMS	XL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.339328718058439	0.119383727979371	0.00447842064571103
+Shungin WHR EU sex combined 26 SNPs	QYAiMS	XL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.289875773212672	0.135896621247115	0.0429195683662683
+Shungin WHR EU sex combined 26 SNPs	qYgl1G	S-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.475172850104295	0.388770618227903	0.233483633565162
+Shungin WHR EU sex combined 26 SNPs	qYgl1G	S-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.490066397192949	0.0946578722460272	2.25194048228358e-07
+Shungin WHR EU sex combined 26 SNPs	qYgl1G	S-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.511765529493009	0.12258356871214	2.98208984492891e-05
+Shungin WHR EU sex combined 26 SNPs	qYgl1G	S-HDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.509725027329803	0.116459297326825	0.000187370792110602
+Shungin WHR EU sex combined 26 SNPs	R0j1K9	Serum-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.467264810546173	0.428483406237178	0.286317253348228
+Shungin WHR EU sex combined 26 SNPs	R0j1K9	Serum-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.539778886190544	0.0928228011689729	6.05780799239177e-09
+Shungin WHR EU sex combined 26 SNPs	R0j1K9	Serum-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.587421461861032	0.135341926746556	1.42303169603096e-05
+Shungin WHR EU sex combined 26 SNPs	R0j1K9	Serum-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.586525276705142	0.12809027075074	0.000110968285254846
+Shungin WHR EU sex combined 26 SNPs	r8OA9y	L-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0926635705484376	0.293663483826045	0.755076647824531
+Shungin WHR EU sex combined 26 SNPs	r8OA9y	L-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.133940790150744	0.0956900377475478	0.161592390826086
+Shungin WHR EU sex combined 26 SNPs	r8OA9y	L-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.250533805284664	0.0931235912228756	0.00713799827460843
+Shungin WHR EU sex combined 26 SNPs	r8OA9y	L-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.102984322203153	0.155118594834954	0.512826681352426
+Shungin WHR EU sex combined 26 SNPs	rba7kj	DHA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.199457738086035	0.237338740261015	0.408982943805977
+Shungin WHR EU sex combined 26 SNPs	rba7kj	DHA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0815118394733745	0.0876827229509884	0.352566530155208
+Shungin WHR EU sex combined 26 SNPs	rba7kj	DHA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0664716393235312	0.0770412711092127	0.388244365547369
+Shungin WHR EU sex combined 26 SNPs	rba7kj	DHA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.152993349481767	0.113584163298471	0.190076970036848
+Shungin WHR EU sex combined 26 SNPs	RcncOj	XXL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.126503362301971	0.205463694737889	0.543889900424749
+Shungin WHR EU sex combined 26 SNPs	RcncOj	XXL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.013768153399269	0.0901657686891275	0.878636255655615
+Shungin WHR EU sex combined 26 SNPs	RcncOj	XXL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0407441655423715	0.0658941821775131	0.536359671785557
+Shungin WHR EU sex combined 26 SNPs	RcncOj	XXL-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0667192505244769	0.126202514898739	0.601698142048499
+Shungin WHR EU sex combined 26 SNPs	rd7FPI	L-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.370157561669586	0.249471658802782	0.15088620842739
+Shungin WHR EU sex combined 26 SNPs	rd7FPI	L-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.358321855362477	0.0947004177757372	0.000154488576808353
+Shungin WHR EU sex combined 26 SNPs	rd7FPI	L-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.287574350802743	0.0791805185879921	0.000281361082140688
+Shungin WHR EU sex combined 26 SNPs	rd7FPI	L-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.388695531523218	0.120505238406399	0.00349019330082703
+Shungin WHR EU sex combined 26 SNPs	Rdjtbu	XL-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.412362590631507	0.337353646609845	0.233446373634745
+Shungin WHR EU sex combined 26 SNPs	Rdjtbu	XL-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.163457224359806	0.0947320795365546	0.0844430659816923
+Shungin WHR EU sex combined 26 SNPs	Rdjtbu	XL-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.363020148773762	0.106432927357408	0.000647754407786946
+Shungin WHR EU sex combined 26 SNPs	Rdjtbu	XL-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.125920295050196	0.170287968687039	0.466517896962749
+Shungin WHR EU sex combined 26 SNPs	RFEq2O	XL-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.447204132112868	0.360779940896414	0.227127004717921
+Shungin WHR EU sex combined 26 SNPs	RFEq2O	XL-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.201179441399111	0.102777047605913	0.0502962883466913
+Shungin WHR EU sex combined 26 SNPs	RFEq2O	XL-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.38222233995407	0.113846046783867	0.000786901419179785
+Shungin WHR EU sex combined 26 SNPs	RFEq2O	XL-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0736239015234414	0.167446084140419	0.663941230192719
+Shungin WHR EU sex combined 26 SNPs	RgOHY1	L-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0926635705484376	0.293663483826045	0.755076647824531
+Shungin WHR EU sex combined 26 SNPs	RgOHY1	L-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.133940790150744	0.0930951354347062	0.150220867931702
+Shungin WHR EU sex combined 26 SNPs	RgOHY1	L-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.250533805284664	0.0931235912228756	0.00713799827460843
+Shungin WHR EU sex combined 26 SNPs	RgOHY1	L-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.102984322203153	0.152324130059871	0.505192580069664
+Shungin WHR EU sex combined 26 SNPs	rrkdJg	M-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.09134156910143	0.270200830578035	0.738264284891108
+Shungin WHR EU sex combined 26 SNPs	rrkdJg	M-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.295831641941675	0.0887322903809073	0.000856129505612615
+Shungin WHR EU sex combined 26 SNPs	rrkdJg	M-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.411052286452207	0.0879287932401802	2.94195163737293e-06
+Shungin WHR EU sex combined 26 SNPs	rrkdJg	M-VLDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.26160052902175	0.10688815929381	0.0217553924749379
+Shungin WHR EU sex combined 26 SNPs	S1YLFO	M-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0353209505820755	0.261446985860444	0.893661106502746
+Shungin WHR EU sex combined 26 SNPs	S1YLFO	M-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0172427124992761	0.086680117428906	0.842322585074836
+Shungin WHR EU sex combined 26 SNPs	S1YLFO	M-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.149110851746964	0.08279350153206	0.0717033454465919
+Shungin WHR EU sex combined 26 SNPs	S1YLFO	M-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0103127194661223	0.116363523928454	0.930086067904131
+Shungin WHR EU sex combined 26 SNPs	S63Jlg	HDL2-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.485587915903606	0.368546858821451	0.200086239538741
+Shungin WHR EU sex combined 26 SNPs	S63Jlg	HDL2-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.298206038372528	0.0996377966783521	0.0027633958166418
+Shungin WHR EU sex combined 26 SNPs	S63Jlg	HDL2-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.363457625562593	0.116477120096841	0.0018059286828223
+Shungin WHR EU sex combined 26 SNPs	S63Jlg	HDL2-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.404954980930058	0.154450303654873	0.0146720481277311
+Shungin WHR EU sex combined 26 SNPs	SbNV2Q	L-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.388442655685712	0.33969500648673	0.264107616501559
+Shungin WHR EU sex combined 26 SNPs	SbNV2Q	L-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.441388053582135	0.0961989720799996	4.46907745425158e-06
+Shungin WHR EU sex combined 26 SNPs	SbNV2Q	L-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.403453853613733	0.107004154743118	0.000162953215208336
+Shungin WHR EU sex combined 26 SNPs	SbNV2Q	L-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.455858886985309	0.141602567357574	0.00354429903610019
+Shungin WHR EU sex combined 26 SNPs	SgyU7o	XL-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0609155984683838	0.189565450889013	0.750732011917604
+Shungin WHR EU sex combined 26 SNPs	SgyU7o	XL-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0518643851297957	0.0821338886063153	0.527738841780479
+Shungin WHR EU sex combined 26 SNPs	SgyU7o	XL-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0144387818318563	0.0598669772683631	0.809414779315719
+Shungin WHR EU sex combined 26 SNPs	SgyU7o	XL-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0975663177481023	0.157122151621274	0.540247731196253
+Shungin WHR EU sex combined 26 SNPs	SWLPSl	ApoB.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.533965875198749	0.316501773687792	0.104543432108225
+Shungin WHR EU sex combined 26 SNPs	SWLPSl	ApoB.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.366596372540918	0.0974481149239262	0.000168583817151935
+Shungin WHR EU sex combined 26 SNPs	SWLPSl	ApoB.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.40919133207894	0.100141646086483	4.38636611344507e-05
+Shungin WHR EU sex combined 26 SNPs	SWLPSl	ApoB.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.51153832333335	0.151402769236933	0.00239046797576551
+Shungin WHR EU sex combined 26 SNPs	SZoJuf	S-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.175356074673084	0.17628892538918	0.329801908526351
+Shungin WHR EU sex combined 26 SNPs	SZoJuf	S-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.183521360135893	0.0826911664027657	0.0264623305714204
+Shungin WHR EU sex combined 26 SNPs	SZoJuf	S-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.150021925372895	0.054231478191058	0.00566919027961412
+Shungin WHR EU sex combined 26 SNPs	SZoJuf	S-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.231501592823209	0.134039253649446	0.0964840186343617
+Shungin WHR EU sex combined 26 SNPs	tBy73q	L-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0458388777087166	0.38878829376458	0.907126598025995
+Shungin WHR EU sex combined 26 SNPs	tBy73q	L-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.202598944296246	0.105278050405026	0.0543022467788133
+Shungin WHR EU sex combined 26 SNPs	tBy73q	L-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.330958815363248	0.124609501449654	0.00790811802157536
+Shungin WHR EU sex combined 26 SNPs	tBy73q	L-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.193178008616218	0.156926927065638	0.229776575000571
+Shungin WHR EU sex combined 26 SNPs	thIfQO	IDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.39266829942914	0.44364128893761	0.384883153204703
+Shungin WHR EU sex combined 26 SNPs	thIfQO	IDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.446780118141039	0.0966753937083597	3.81074405899192e-06
+Shungin WHR EU sex combined 26 SNPs	thIfQO	IDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.53808162436249	0.140219918870827	0.000124337678632954
+Shungin WHR EU sex combined 26 SNPs	thIfQO	IDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.460016209972111	0.115816256661251	0.000532436581234589
+Shungin WHR EU sex combined 26 SNPs	TkbsEG	SFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.146839817594058	0.243412042702708	0.551997321374391
+Shungin WHR EU sex combined 26 SNPs	TkbsEG	SFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.00358201889575945	0.0859970857261202	0.966775486210345
+Shungin WHR EU sex combined 26 SNPs	TkbsEG	SFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0962432550218052	0.0785494904992849	0.220478682661402
+Shungin WHR EU sex combined 26 SNPs	TkbsEG	SFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0206617478411895	0.117518363401052	0.861853949357734
+Shungin WHR EU sex combined 26 SNPs	tlALmo	XXL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.363153711041827	0.263720248204107	0.181209021150326
+Shungin WHR EU sex combined 26 SNPs	tlALmo	XXL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.369814937850051	0.0946311869275163	9.30785298358019e-05
+Shungin WHR EU sex combined 26 SNPs	tlALmo	XXL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.332329632508465	0.0833490501421851	6.68566502495419e-05
+Shungin WHR EU sex combined 26 SNPs	tlALmo	XXL-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.41163628165292	0.124505114483417	0.00286117225845936
+Shungin WHR EU sex combined 26 SNPs	tnTwW2	XS-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.116032669277432	0.349638877763773	0.742872484552697
+Shungin WHR EU sex combined 26 SNPs	tnTwW2	XS-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.303493214382349	0.0922364730886885	0.00100051518608771
+Shungin WHR EU sex combined 26 SNPs	tnTwW2	XS-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.370619310004734	0.11157154335804	0.000894360272938132
+Shungin WHR EU sex combined 26 SNPs	tnTwW2	XS-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.328600460211434	0.123777913908782	0.0136070057706579
+Shungin WHR EU sex combined 26 SNPs	TOLnwf	M-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0601318948492965	0.184921335992595	0.747866001208715
+Shungin WHR EU sex combined 26 SNPs	TOLnwf	M-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.176527265967595	0.0905990303192565	0.051361689198066
+Shungin WHR EU sex combined 26 SNPs	TOLnwf	M-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.13398200729151	0.0597484735923801	0.0249333378863759
+Shungin WHR EU sex combined 26 SNPs	TOLnwf	M-LDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.221147124663465	0.143038495695097	0.134654613737104
+Shungin WHR EU sex combined 26 SNPs	tTLptP	UnsatDeg.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0806546624822361	0.389165749507204	0.837562930528198
+Shungin WHR EU sex combined 26 SNPs	tTLptP	UnsatDeg.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.257024469279789	0.0932616187442026	0.00585217290477104
+Shungin WHR EU sex combined 26 SNPs	tTLptP	UnsatDeg.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.223121860224176	0.123152871229358	0.0700252786687019
+Shungin WHR EU sex combined 26 SNPs	tTLptP	UnsatDeg.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.270795706195567	0.120716554978678	0.0339857820460027
+Shungin WHR EU sex combined 26 SNPs	TVhlrt	S-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0203221820136024	0.191989555185738	0.916580767610693
+Shungin WHR EU sex combined 26 SNPs	TVhlrt	S-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.110258021279899	0.0840836483593366	0.189759909933175
+Shungin WHR EU sex combined 26 SNPs	TVhlrt	S-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.117079201066867	0.0608867185057945	0.0544923414731433
+Shungin WHR EU sex combined 26 SNPs	TVhlrt	S-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.133853813028527	0.120925294566683	0.27886891511438
+Shungin WHR EU sex combined 26 SNPs	TzGjsX	L-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.179115862557348	0.176018913199568	0.319019895873064
+Shungin WHR EU sex combined 26 SNPs	TzGjsX	L-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0100131767635994	0.0857496176006128	0.907040525515842
+Shungin WHR EU sex combined 26 SNPs	TzGjsX	L-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0281500755304537	0.0508170726600471	0.579613628846583
+Shungin WHR EU sex combined 26 SNPs	TzGjsX	L-LDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0271407177374835	0.14209745258186	0.850067696964843
+Shungin WHR EU sex combined 26 SNPs	u2y8My	S-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.00131709067823908	0.182832424760663	0.994311784896335
+Shungin WHR EU sex combined 26 SNPs	u2y8My	S-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.141948793958912	0.0833881030830132	0.0887053776828029
+Shungin WHR EU sex combined 26 SNPs	u2y8My	S-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.151778431860505	0.0585373572303832	0.00951850069894442
+Shungin WHR EU sex combined 26 SNPs	u2y8My	S-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.108921884153428	0.127758577490851	0.401997409400772
+Shungin WHR EU sex combined 26 SNPs	u7MBi8	M-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.474516928144801	0.368052450349769	0.209593971063628
+Shungin WHR EU sex combined 26 SNPs	u7MBi8	M-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.510730286136909	0.095173697753765	8.03697605304229e-08
+Shungin WHR EU sex combined 26 SNPs	u7MBi8	M-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.501926404820482	0.116047147808656	1.5239781791507e-05
+Shungin WHR EU sex combined 26 SNPs	u7MBi8	M-HDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.576203869167518	0.130327618949884	0.000167042917228744
+Shungin WHR EU sex combined 26 SNPs	UJHadq	S-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.14871952505329	0.236912503264585	0.536101845285842
+Shungin WHR EU sex combined 26 SNPs	UJHadq	S-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.37392608783469	0.0804740673907637	3.37546374161682e-06
+Shungin WHR EU sex combined 26 SNPs	UJHadq	S-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.305171298309327	0.0754400917511366	5.22753997921658e-05
+Shungin WHR EU sex combined 26 SNPs	UJHadq	S-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.393536044010409	0.119097532633914	0.00287437828733916
+Shungin WHR EU sex combined 26 SNPs	uR1FsJ	M-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.186371405997837	0.421452094164433	0.662294844987867
+Shungin WHR EU sex combined 26 SNPs	uR1FsJ	M-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.287370867490062	0.0968546260246901	0.00300688725764593
+Shungin WHR EU sex combined 26 SNPs	uR1FsJ	M-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.368798373502894	0.133443124162905	0.00571479420432896
+Shungin WHR EU sex combined 26 SNPs	uR1FsJ	M-VLDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.311949294254316	0.121973340766607	0.0169894161846263
+Shungin WHR EU sex combined 26 SNPs	uUpNZS	FAw3byFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.273214095558051	0.229541829314231	0.245585697477426
+Shungin WHR EU sex combined 26 SNPs	uUpNZS	FAw3byFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0877475862672552	0.087379883200547	0.315278319893868
+Shungin WHR EU sex combined 26 SNPs	uUpNZS	FAw3byFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0164890617516056	0.074500621193334	0.824837172340908
+Shungin WHR EU sex combined 26 SNPs	uUpNZS	FAw3byFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.218203268267284	0.123879693037107	0.0903959762256219
+Shungin WHR EU sex combined 26 SNPs	V1rnmC	XXL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.337418198427035	0.211534412803923	0.123775770798636
+Shungin WHR EU sex combined 26 SNPs	V1rnmC	XXL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.161351036338746	0.0924750177875056	0.081018511393302
+Shungin WHR EU sex combined 26 SNPs	V1rnmC	XXL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.122117627790499	0.0684117515700866	0.0742550310450902
+Shungin WHR EU sex combined 26 SNPs	V1rnmC	XXL-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.209838203681726	0.153071624502165	0.182604394254296
+Shungin WHR EU sex combined 26 SNPs	V9DrWT	MUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.215939407008633	0.371686143731761	0.566675411977994
+Shungin WHR EU sex combined 26 SNPs	V9DrWT	MUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.338676370125762	0.0918853449167425	0.000227933066577869
+Shungin WHR EU sex combined 26 SNPs	V9DrWT	MUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.364939875714506	0.117717783724739	0.00193438813529826
+Shungin WHR EU sex combined 26 SNPs	V9DrWT	MUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.328230655679813	0.123228206716686	0.0133329419335367
+Shungin WHR EU sex combined 26 SNPs	VbGOO0	M-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.202057634630291	0.278015831154576	0.474387746145045
+Shungin WHR EU sex combined 26 SNPs	VbGOO0	M-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.173785907833432	0.0881808988053803	0.0487480641474438
+Shungin WHR EU sex combined 26 SNPs	VbGOO0	M-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.225055187777573	0.0876370042452419	0.0102275840421739
+Shungin WHR EU sex combined 26 SNPs	VbGOO0	M-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.202059769503737	0.134577534593266	0.145768430235232
+Shungin WHR EU sex combined 26 SNPs	VeUHgc	IDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.148500467259966	0.196312255220857	0.456741068830499
+Shungin WHR EU sex combined 26 SNPs	VeUHgc	IDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0819293391861812	0.0838503242203742	0.328524445146137
+Shungin WHR EU sex combined 26 SNPs	VeUHgc	IDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0406320525372781	0.0623184497580662	0.51439679056854
+Shungin WHR EU sex combined 26 SNPs	VeUHgc	IDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.117277638026029	0.118308040537895	0.331041883493353
+Shungin WHR EU sex combined 26 SNPs	vi1sa3	L-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.343059944661795	0.46192730455234	0.464888627353873
+Shungin WHR EU sex combined 26 SNPs	vi1sa3	L-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.460229586725921	0.101315224638551	5.55775143289783e-06
+Shungin WHR EU sex combined 26 SNPs	vi1sa3	L-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.443814447479613	0.145650346899461	0.00231043539556883
+Shungin WHR EU sex combined 26 SNPs	vi1sa3	L-HDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.526473988059221	0.143938083393318	0.00118669574620856
+Shungin WHR EU sex combined 26 SNPs	VKsjqH	M-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.312104753865413	0.331008440023918	0.35513234462054
+Shungin WHR EU sex combined 26 SNPs	VKsjqH	M-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.404578580826035	0.0935315107382009	1.52126994783323e-05
+Shungin WHR EU sex combined 26 SNPs	VKsjqH	M-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.378956200293518	0.104466494539062	0.000286136443427618
+Shungin WHR EU sex combined 26 SNPs	VKsjqH	M-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.360483038121695	0.108008940862634	0.00264748571020791
+Shungin WHR EU sex combined 26 SNPs	VUh5Bw	TGbyPG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.499530595550062	0.446477551451468	0.274288029430371
+Shungin WHR EU sex combined 26 SNPs	VUh5Bw	TGbyPG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.565369837474256	0.100000407663682	1.5705275040579e-08
+Shungin WHR EU sex combined 26 SNPs	VUh5Bw	TGbyPG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.601356288956311	0.141029566933495	2.00759818667565e-05
+Shungin WHR EU sex combined 26 SNPs	VUh5Bw	TGbyPG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.563467005713895	0.15451776395585	0.00122027320233575
+Shungin WHR EU sex combined 26 SNPs	VWNKhA	PUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.128768209935077	0.454897804278128	0.779549967507839
+Shungin WHR EU sex combined 26 SNPs	VWNKhA	PUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.396196336605412	0.0923105944232714	1.77077297098533e-05
+Shungin WHR EU sex combined 26 SNPs	VWNKhA	PUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.408491148722087	0.144779841995109	0.0047804965019866
+Shungin WHR EU sex combined 26 SNPs	VWNKhA	PUFAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.389016308962623	0.127493153255334	0.00533653568284632
+Shungin WHR EU sex combined 26 SNPs	vxv0Gu	M-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.09134156910143	0.270200830578035	0.738264284891108
+Shungin WHR EU sex combined 26 SNPs	vxv0Gu	M-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.295831641941675	0.0888128940882339	0.000865489832873943
+Shungin WHR EU sex combined 26 SNPs	vxv0Gu	M-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.411052286452207	0.0879287932401802	2.94195163737293e-06
+Shungin WHR EU sex combined 26 SNPs	vxv0Gu	M-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.26160052902175	0.109852536807056	0.0251783624879129
+Shungin WHR EU sex combined 26 SNPs	w5Ybfv	L-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.00928439914667503	0.313313644356657	0.976604854073923
+Shungin WHR EU sex combined 26 SNPs	w5Ybfv	L-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0680456533213387	0.0966991203101724	0.481629396300095
+Shungin WHR EU sex combined 26 SNPs	w5Ybfv	L-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.191532795140682	0.0994752059078139	0.0541752720243867
+Shungin WHR EU sex combined 26 SNPs	w5Ybfv	L-HDL-PL_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.000245645802112726	0.158608488338044	0.998776564683941
+Shungin WHR EU sex combined 26 SNPs	W8ppGl	S-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.198808688063469	0.339197443773824	0.563270487295005
+Shungin WHR EU sex combined 26 SNPs	W8ppGl	S-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.187816835994879	0.094242741864804	0.0462718454708553
+Shungin WHR EU sex combined 26 SNPs	W8ppGl	S-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.312153385602542	0.107217806412888	0.00359818819945377
+Shungin WHR EU sex combined 26 SNPs	W8ppGl	S-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.16603225979955	0.123143301515352	0.189656432261021
+Shungin WHR EU sex combined 26 SNPs	wF8nyy	VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0458388777087166	0.38878829376458	0.907126598025995
+Shungin WHR EU sex combined 26 SNPs	wF8nyy	VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.202598944296246	0.107196318428845	0.0587605770922984
+Shungin WHR EU sex combined 26 SNPs	wF8nyy	VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.330958815363248	0.124609501449654	0.00790811802157536
+Shungin WHR EU sex combined 26 SNPs	wF8nyy	VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.193178008616218	0.152033874691624	0.215559626452494
+Shungin WHR EU sex combined 26 SNPs	WLCDdw	L-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.00928439914667503	0.313313644356657	0.976604854073923
+Shungin WHR EU sex combined 26 SNPs	WLCDdw	L-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0680456533213387	0.0962817472716314	0.479731351297321
+Shungin WHR EU sex combined 26 SNPs	WLCDdw	L-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.191532795140682	0.0994752059078139	0.0541752720243867
+Shungin WHR EU sex combined 26 SNPs	WLCDdw	L-HDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.000245645802112726	0.154853722189873	0.998746899852613
+Shungin WHR EU sex combined 26 SNPs	wOBeYQ	M-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.312104753865413	0.331008440023918	0.35513234462054
+Shungin WHR EU sex combined 26 SNPs	wOBeYQ	M-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.404578580826035	0.087837356978621	4.10494798509921e-06
+Shungin WHR EU sex combined 26 SNPs	wOBeYQ	M-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.378956200293518	0.104466494539062	0.000286136443427618
+Shungin WHR EU sex combined 26 SNPs	wOBeYQ	M-HDL-CE_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.360483038121695	0.11959912032482	0.00583697798142159
+Shungin WHR EU sex combined 26 SNPs	woPDAJ	Leu.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.12388677499342	0.255696835474076	0.632418908491314
+Shungin WHR EU sex combined 26 SNPs	woPDAJ	Leu.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.263119743450202	0.0864283623736866	0.00233169703815831
+Shungin WHR EU sex combined 26 SNPs	woPDAJ	Leu.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.236506397125006	0.0809842580437436	0.00349582785843801
+Shungin WHR EU sex combined 26 SNPs	woPDAJ	Leu.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.205883805358336	0.111849803162469	0.0775626836336316
+Shungin WHR EU sex combined 26 SNPs	wPqzF4	IDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0418605439533689	0.322581849964447	0.897832095980352
+Shungin WHR EU sex combined 26 SNPs	wPqzF4	IDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.160149260175934	0.0893477551751694	0.0730647158820549
+Shungin WHR EU sex combined 26 SNPs	wPqzF4	IDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.184013857130009	0.102152838710606	0.0716464346765809
+Shungin WHR EU sex combined 26 SNPs	wPqzF4	IDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.134557236772753	0.106842098771596	0.219516694759914
+Shungin WHR EU sex combined 26 SNPs	WQBt8T	XL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0425009650025387	0.333453516426036	0.899640678020061
+Shungin WHR EU sex combined 26 SNPs	WQBt8T	XL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.171520251215493	0.102744194509712	0.0950398821904296
+Shungin WHR EU sex combined 26 SNPs	WQBt8T	XL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.249748894431259	0.106642380036528	0.0191843582759613
+Shungin WHR EU sex combined 26 SNPs	WQBt8T	XL-VLDL-FC.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.106665708208137	0.133105421560581	0.430472891762822
+Shungin WHR EU sex combined 26 SNPs	WRxLHc	L-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.150992913919593	0.177119805856884	0.402369494018664
+Shungin WHR EU sex combined 26 SNPs	WRxLHc	L-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.098672941032037	0.0839063721148958	0.23959941273434
+Shungin WHR EU sex combined 26 SNPs	WRxLHc	L-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0896588998270124	0.0560056050491212	0.109400941677503
+Shungin WHR EU sex combined 26 SNPs	WRxLHc	L-LDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.121301799288368	0.113383138646183	0.294912383843612
+Shungin WHR EU sex combined 26 SNPs	wv9rWr	S-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.375520859494513	0.197359221077996	0.0691402775991442
+Shungin WHR EU sex combined 26 SNPs	wv9rWr	S-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.268008417672906	0.0803267718797993	0.000848474838211044
+Shungin WHR EU sex combined 26 SNPs	wv9rWr	S-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.30246186885054	0.0624204527843936	1.26256885101316e-06
+Shungin WHR EU sex combined 26 SNPs	wv9rWr	S-VLDL-PL.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.296915039983418	0.124088761889383	0.0245550845947048
+Shungin WHR EU sex combined 26 SNPs	wye8wl	M-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.518993522753061	0.412939447871687	0.220911174092781
+Shungin WHR EU sex combined 26 SNPs	wye8wl	M-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.671029145545929	0.0955419272036844	2.16533565615477e-12
+Shungin WHR EU sex combined 26 SNPs	wye8wl	M-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.597069384208197	0.130303844773878	4.60259752660564e-06
+Shungin WHR EU sex combined 26 SNPs	wye8wl	M-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.620631495944547	0.130649606536052	7.11591328455684e-05
+Shungin WHR EU sex combined 26 SNPs	xAlclA	L-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.412571709447544	0.425965427427435	0.342426463592761
+Shungin WHR EU sex combined 26 SNPs	xAlclA	L-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.576030307744358	0.0965729587429372	2.4505934388565e-09
+Shungin WHR EU sex combined 26 SNPs	xAlclA	L-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.58784108876073	0.13483302713026	1.30198767605272e-05
+Shungin WHR EU sex combined 26 SNPs	xAlclA	L-VLDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.614571243052263	0.129842328489276	7.43926291004461e-05
+Shungin WHR EU sex combined 26 SNPs	xC1JNt	M-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0860400216251155	0.348646785688168	0.807175038917637
+Shungin WHR EU sex combined 26 SNPs	xC1JNt	M-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.191086984706425	0.092597632019993	0.0390530841770021
+Shungin WHR EU sex combined 26 SNPs	xC1JNt	M-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.254289232323874	0.110535739978542	0.0214190069887149
+Shungin WHR EU sex combined 26 SNPs	xC1JNt	M-VLDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.14328965980025	0.116164370387547	0.228858398791152
+Shungin WHR EU sex combined 26 SNPs	xEVACG	M-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.251802807863817	0.184826492711521	0.185729463537559
+Shungin WHR EU sex combined 26 SNPs	xEVACG	M-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.094036470571937	0.0843728761971016	0.265050007303685
+Shungin WHR EU sex combined 26 SNPs	xEVACG	M-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0652141071646813	0.0596333943320346	0.274137607589297
+Shungin WHR EU sex combined 26 SNPs	xEVACG	M-HDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.227542562618414	0.163437119550022	0.176113501618682
+Shungin WHR EU sex combined 26 SNPs	xhIw7w	PUFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.128768209935077	0.454897804278128	0.779549967507839
+Shungin WHR EU sex combined 26 SNPs	xhIw7w	PUFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.396196336605412	0.0986274647467699	5.89188581366193e-05
+Shungin WHR EU sex combined 26 SNPs	xhIw7w	PUFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.408491148722087	0.144779841995109	0.0047804965019866
+Shungin WHR EU sex combined 26 SNPs	xhIw7w	PUFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.389016308962623	0.12123810251955	0.00363757901951457
+Shungin WHR EU sex combined 26 SNPs	xlSR5p	Serum-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0957277530093549	0.175965837113425	0.591450944110174
+Shungin WHR EU sex combined 26 SNPs	xlSR5p	Serum-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0116619125151959	0.0850410161128295	0.890925828012434
+Shungin WHR EU sex combined 26 SNPs	xlSR5p	Serum-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0349819312454056	0.0553559968113753	0.527422984241938
+Shungin WHR EU sex combined 26 SNPs	xlSR5p	Serum-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.00333662705781723	0.140367846163868	0.981224315851609
+Shungin WHR EU sex combined 26 SNPs	XS5weX	L-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.152596252658091	0.175788657834904	0.39395541176634
+Shungin WHR EU sex combined 26 SNPs	XS5weX	L-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0713656217956912	0.082348427669792	0.386144744492112
+Shungin WHR EU sex combined 26 SNPs	XS5weX	L-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0820528919291202	0.0508092991826409	0.106328282695412
+Shungin WHR EU sex combined 26 SNPs	XS5weX	L-LDL-L.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0511969537663829	0.119498415003988	0.672005368297303
+Shungin WHR EU sex combined 26 SNPs	Xt60hH	CLA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.134302634344466	0.205291047568778	0.519199429659851
+Shungin WHR EU sex combined 26 SNPs	Xt60hH	CLA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0208635431970218	0.0909113319089345	0.818485513578927
+Shungin WHR EU sex combined 26 SNPs	Xt60hH	CLA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0120336146359312	0.0655865029918819	0.854423765853194
+Shungin WHR EU sex combined 26 SNPs	Xt60hH	CLA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.040283588909233	0.126387554262552	0.752578454610135
+Shungin WHR EU sex combined 26 SNPs	xuwLx5	M-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0695780845188904	0.317705800235571	0.828500551064827
+Shungin WHR EU sex combined 26 SNPs	xuwLx5	M-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.156981289065197	0.0912931812769673	0.0855180592073029
+Shungin WHR EU sex combined 26 SNPs	xuwLx5	M-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.224976314479138	0.102079270649835	0.0275287522846503
+Shungin WHR EU sex combined 26 SNPs	xuwLx5	M-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.190247733400982	0.118043232765384	0.119586623711628
+Shungin WHR EU sex combined 26 SNPs	XVREJ5	S-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.286783983301451	0.392266640492748	0.471799517475809
+Shungin WHR EU sex combined 26 SNPs	XVREJ5	S-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.329013843047632	0.0966642771145402	0.000664856586542507
+Shungin WHR EU sex combined 26 SNPs	XVREJ5	S-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.413380712130747	0.123976170984454	0.000854971003642089
+Shungin WHR EU sex combined 26 SNPs	XVREJ5	S-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.230606983719736	0.130973177523425	0.0905157747747192
+Shungin WHR EU sex combined 26 SNPs	xZdrWG	M-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0353209505820755	0.261446985860444	0.893661106502746
+Shungin WHR EU sex combined 26 SNPs	xZdrWG	M-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0172427124992761	0.0868118512856914	0.842558722564055
+Shungin WHR EU sex combined 26 SNPs	xZdrWG	M-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.149110851746964	0.08279350153206	0.0717033454465919
+Shungin WHR EU sex combined 26 SNPs	xZdrWG	M-HDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0103127194661223	0.133956025383162	0.93924762216438
+Shungin WHR EU sex combined 26 SNPs	Y5AgcV	LAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.134302634344466	0.205291047568778	0.519199429659851
+Shungin WHR EU sex combined 26 SNPs	Y5AgcV	LAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0208635431970218	0.0909178456158467	0.818498291301936
+Shungin WHR EU sex combined 26 SNPs	Y5AgcV	LAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0120336146359312	0.0655865029918819	0.854423765853194
+Shungin WHR EU sex combined 26 SNPs	Y5AgcV	LAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.040283588909233	0.120473201350287	0.740883359905096
+Shungin WHR EU sex combined 26 SNPs	Y7nCfy	XL-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.447204132112868	0.360779940896414	0.227127004717921
+Shungin WHR EU sex combined 26 SNPs	Y7nCfy	XL-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.201179441399111	0.100237153030428	0.044745971467282
+Shungin WHR EU sex combined 26 SNPs	Y7nCfy	XL-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.38222233995407	0.113846046783867	0.000786901419179785
+Shungin WHR EU sex combined 26 SNPs	Y7nCfy	XL-HDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0736239015234414	0.158051439534057	0.645375583606468
+Shungin WHR EU sex combined 26 SNPs	Y9kNuG	M-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.166313405150518	0.187251105182602	0.383257245076708
+Shungin WHR EU sex combined 26 SNPs	Y9kNuG	M-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0632226390310217	0.0836310050683414	0.449666407497015
+Shungin WHR EU sex combined 26 SNPs	Y9kNuG	M-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0650554625944854	0.0594098935646303	0.273504623010162
+Shungin WHR EU sex combined 26 SNPs	Y9kNuG	M-LDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.061703664768382	0.125902670415741	0.628343615158423
+Shungin WHR EU sex combined 26 SNPs	YCL7QN	XS-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.3159683835078	0.418367977041815	0.457453057889061
+Shungin WHR EU sex combined 26 SNPs	YCL7QN	XS-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.373123514545063	0.0968347134448306	0.000116584100825465
+Shungin WHR EU sex combined 26 SNPs	YCL7QN	XS-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.414299766004129	0.132059209969507	0.00170553816801972
+Shungin WHR EU sex combined 26 SNPs	YCL7QN	XS-VLDL-TG.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.327612309381055	0.127379493899331	0.016442660290786
+Shungin WHR EU sex combined 26 SNPs	yEdt0k	Gln.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.539320229322118	0.236581087704826	0.0318094243455547
+Shungin WHR EU sex combined 26 SNPs	yEdt0k	Gln.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.368066414372069	0.0934025136434936	8.12618474294096e-05
+Shungin WHR EU sex combined 26 SNPs	yEdt0k	Gln.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.202523440842593	0.078000535824396	0.00941963059191916
+Shungin WHR EU sex combined 26 SNPs	yEdt0k	Gln.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.44181696681452	0.134183391440425	0.00295857189883093
+Shungin WHR EU sex combined 26 SNPs	YFJ7Mc	S-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0408134503236143	0.377862086876845	0.914884497793498
+Shungin WHR EU sex combined 26 SNPs	YFJ7Mc	S-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.2718409718301	0.0922899231076311	0.00322421817146516
+Shungin WHR EU sex combined 26 SNPs	YFJ7Mc	S-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.347316718334632	0.12081053401007	0.00404171222138188
+Shungin WHR EU sex combined 26 SNPs	YFJ7Mc	S-LDL-TG_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.321165689409919	0.113232091698279	0.00891423901754392
+Shungin WHR EU sex combined 26 SNPs	YgBRII	L-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.10012909925185	0.200184859951549	0.621501661450134
+Shungin WHR EU sex combined 26 SNPs	YgBRII	L-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0104274504482723	0.0896880860301175	0.907443715193717
+Shungin WHR EU sex combined 26 SNPs	YgBRII	L-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0447002342269403	0.0634852830554679	0.481368082980733
+Shungin WHR EU sex combined 26 SNPs	YgBRII	L-VLDL-P.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0112365343528561	0.139812513695539	0.936584029846092
+Shungin WHR EU sex combined 26 SNPs	yKv6Wx	Val.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.03065171769405	0.222541102613869	0.891598849663219
+Shungin WHR EU sex combined 26 SNPs	yKv6Wx	Val.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.154484900530428	0.0876157353538905	0.0778651551739354
+Shungin WHR EU sex combined 26 SNPs	yKv6Wx	Val.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.11238777582363	0.0704655521398904	0.110727405310667
+Shungin WHR EU sex combined 26 SNPs	yKv6Wx	Val.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0732936682739662	0.125396315820245	0.564124526917975
+Shungin WHR EU sex combined 26 SNPs	Yu9Fhj	M-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.186371405997837	0.421452094164433	0.662294844987867
+Shungin WHR EU sex combined 26 SNPs	Yu9Fhj	M-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.287370867490062	0.10043443123884	0.00421936373542887
+Shungin WHR EU sex combined 26 SNPs	Yu9Fhj	M-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.368798373502894	0.133443124162905	0.00571479420432896
+Shungin WHR EU sex combined 26 SNPs	Yu9Fhj	M-VLDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.311949294254316	0.120059176168292	0.0154853507039554
+Shungin WHR EU sex combined 26 SNPs	yVmLWt	SFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.146839817594058	0.243412042702708	0.551997321374391
+Shungin WHR EU sex combined 26 SNPs	yVmLWt	SFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.00358201889575945	0.086503832206965	0.966970006566295
+Shungin WHR EU sex combined 26 SNPs	yVmLWt	SFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0962432550218052	0.0785494904992849	0.220478682661402
+Shungin WHR EU sex combined 26 SNPs	yVmLWt	SFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0206617478411895	0.113871227455603	0.85747877560753
+Shungin WHR EU sex combined 26 SNPs	yxzp4O	S-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.188570646991258	0.344426774156695	0.589097051209823
+Shungin WHR EU sex combined 26 SNPs	yxzp4O	S-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.190599617697671	0.0924822844923469	0.0393096123421115
+Shungin WHR EU sex combined 26 SNPs	yxzp4O	S-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.318825231692346	0.108952459568554	0.00343043774103681
+Shungin WHR EU sex combined 26 SNPs	yxzp4O	S-VLDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.141213115493108	0.122850468003215	0.26123993176709
+Shungin WHR EU sex combined 26 SNPs	Z1INsu	M-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.317428347283897	0.331478421109786	0.347805425651111
+Shungin WHR EU sex combined 26 SNPs	Z1INsu	M-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.37015993068236	0.0935077848660539	7.53903296587267e-05
+Shungin WHR EU sex combined 26 SNPs	Z1INsu	M-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.381028507745805	0.104595302299562	0.000269600809128262
+Shungin WHR EU sex combined 26 SNPs	Z1INsu	M-HDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.379723933734829	0.116562509356903	0.00322494164881581
+Shungin WHR EU sex combined 26 SNPs	ZacNeU	XS-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.175168103523308	0.226653384930376	0.447158752421263
+Shungin WHR EU sex combined 26 SNPs	ZacNeU	XS-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0296793589580596	0.0971937885503065	0.760089917116418
+Shungin WHR EU sex combined 26 SNPs	ZacNeU	XS-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0739514772647978	0.0717841039606626	0.302919442180936
+Shungin WHR EU sex combined 26 SNPs	ZacNeU	XS-VLDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.108777318362598	0.164982915868499	0.515715223498787
+Shungin WHR EU sex combined 26 SNPs	zCuECX	XL-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0609155984683838	0.189565450889013	0.750732011917604
+Shungin WHR EU sex combined 26 SNPs	zCuECX	XL-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0518643851297957	0.0836243791816335	0.535121830048049
+Shungin WHR EU sex combined 26 SNPs	zCuECX	XL-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0144387818318563	0.0598669772683631	0.809414779315719
+Shungin WHR EU sex combined 26 SNPs	zCuECX	XL-HDL-FC_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0975663177481023	0.164059089252822	0.557387123083983
+Shungin WHR EU sex combined 26 SNPs	zDcFVY	L-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0926635705484376	0.293663483826045	0.755076647824531
+Shungin WHR EU sex combined 26 SNPs	zDcFVY	L-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.133940790150744	0.0939368146913688	0.153908623672829
+Shungin WHR EU sex combined 26 SNPs	zDcFVY	L-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.250533805284664	0.0931235912228756	0.00713799827460843
+Shungin WHR EU sex combined 26 SNPs	zDcFVY	L-HDL-C.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.102984322203153	0.153800199962541	0.509251649810131
+Shungin WHR EU sex combined 26 SNPs	ZdPMDV	CLAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.134302634344466	0.205291047568778	0.519199429659851
+Shungin WHR EU sex combined 26 SNPs	ZdPMDV	CLAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0208635431970218	0.0878221098769988	0.8122177603866
+Shungin WHR EU sex combined 26 SNPs	ZdPMDV	CLAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0120336146359312	0.0655865029918819	0.854423765853194
+Shungin WHR EU sex combined 26 SNPs	ZdPMDV	CLAbyFA.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.040283588909233	0.117336961159666	0.734231562577627
+Shungin WHR EU sex combined 26 SNPs	zKjWYy	L-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.179115862557348	0.176018913199568	0.319019895873064
+Shungin WHR EU sex combined 26 SNPs	zKjWYy	L-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0100131767635994	0.0835851461487248	0.904644650242449
+Shungin WHR EU sex combined 26 SNPs	zKjWYy	L-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0281500755304537	0.0508170726600471	0.579613628846583
+Shungin WHR EU sex combined 26 SNPs	zKjWYy	L-LDL-CE.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0271407177374835	0.144965639694161	0.852997947424628
+Shungin WHR EU sex combined 26 SNPs	zydPx8	M-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0993158261012505	0.248883036682596	0.69338775090935
+Shungin WHR EU sex combined 26 SNPs	zydPx8	M-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.184939081621238	0.0887006484041086	0.0370711122137771
+Shungin WHR EU sex combined 26 SNPs	zydPx8	M-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.187229071718013	0.0808047503008905	0.0205007217384312
+Shungin WHR EU sex combined 26 SNPs	zydPx8	M-LDL-C_percent.txt	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.191953950581935	0.140564652456755	0.184228911497469

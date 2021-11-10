@@ -1,0 +1,1151 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+Hubel BF EU sex combined 76 SNPs clumped	09bFuv	S-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	111.372055051419	69	0.000935536326842113
+Hubel BF EU sex combined 76 SNPs clumped	09bFuv	S-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	106.903421894981	68	0.00182009970811023
+Hubel BF EU sex combined 76 SNPs clumped	09bFuv	S-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	111.515255131749	69	0.000907722192476403
+Hubel BF EU sex combined 76 SNPs clumped	09bFuv	S-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	111.310594237967	69	0.000947719624535441
+Hubel BF EU sex combined 76 SNPs clumped	09bFuv	S-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0108064768898345	69	1
+Hubel BF EU sex combined 76 SNPs clumped	0quL16	Tyr.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	116.621134973941	69	0.000299920475879116
+Hubel BF EU sex combined 76 SNPs clumped	0quL16	Tyr.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	107.104931730922	68	0.00174678722966265
+Hubel BF EU sex combined 76 SNPs clumped	0quL16	Tyr.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	116.902222678235	69	0.00028169727990681
+Hubel BF EU sex combined 76 SNPs clumped	0quL16	Tyr.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	116.601038505445	69	0.000301265610212273
+Hubel BF EU sex combined 76 SNPs clumped	0quL16	Tyr.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0137462396193621	69	1
+Hubel BF EU sex combined 76 SNPs clumped	0rX77F	M-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	251.854124016257	69	1.24279636018288e-22
+Hubel BF EU sex combined 76 SNPs clumped	0rX77F	M-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	250.199156166321	68	1.18048336896152e-22
+Hubel BF EU sex combined 76 SNPs clumped	0rX77F	M-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	252.230241774427	69	1.08195687894125e-22
+Hubel BF EU sex combined 76 SNPs clumped	0rX77F	M-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	251.846444626063	69	1.24631715767288e-22
+Hubel BF EU sex combined 76 SNPs clumped	0rX77F	M-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0161419920672764	69	1
+Hubel BF EU sex combined 76 SNPs clumped	0z66LA	XS-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	171.562091625613	69	1.05099239810471e-10
+Hubel BF EU sex combined 76 SNPs clumped	0z66LA	XS-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	169.3725235371	68	1.28757776669328e-10
+Hubel BF EU sex combined 76 SNPs clumped	0z66LA	XS-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	171.834704502156	69	9.66241913023453e-11
+Hubel BF EU sex combined 76 SNPs clumped	0z66LA	XS-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	171.5174175436	69	1.065564809487e-10
+Hubel BF EU sex combined 76 SNPs clumped	0z66LA	XS-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.011120095318103	69	1
+Hubel BF EU sex combined 76 SNPs clumped	24eB21	M-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	118.758340779153	69	0.000185408972386141
+Hubel BF EU sex combined 76 SNPs clumped	24eB21	M-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	117.1218714241	68	0.000200052938126798
+Hubel BF EU sex combined 76 SNPs clumped	24eB21	M-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	118.878244527353	69	0.000180420041265169
+Hubel BF EU sex combined 76 SNPs clumped	24eB21	M-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	118.685106731911	69	0.000188520837469571
+Hubel BF EU sex combined 76 SNPs clumped	24eB21	M-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00840169123947608	69	1
+Hubel BF EU sex combined 76 SNPs clumped	28Z6Bd	M-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	141.771897852308	69	5.94286598072644e-07
+Hubel BF EU sex combined 76 SNPs clumped	28Z6Bd	M-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	139.400819178077	68	7.70076163861149e-07
+Hubel BF EU sex combined 76 SNPs clumped	28Z6Bd	M-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	141.777833515663	69	5.93336737865466e-07
+Hubel BF EU sex combined 76 SNPs clumped	28Z6Bd	M-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	141.771633521264	69	5.9432893249051e-07
+Hubel BF EU sex combined 76 SNPs clumped	28Z6Bd	M-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00927603447440877	69	1
+Hubel BF EU sex combined 76 SNPs clumped	2H2U1N	L-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	77.2824989141254	69	0.231197060567009
+Hubel BF EU sex combined 76 SNPs clumped	2H2U1N	L-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	77.3824432332597	68	0.204166120856369
+Hubel BF EU sex combined 76 SNPs clumped	2H2U1N	L-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	77.3951380109001	69	0.228500986488876
+Hubel BF EU sex combined 76 SNPs clumped	2H2U1N	L-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	77.2305208414038	69	0.232448022521349
+Hubel BF EU sex combined 76 SNPs clumped	2H2U1N	L-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00761658504268117	69	1
+Hubel BF EU sex combined 76 SNPs clumped	33nOfk	XL-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	167.546382248276	69	3.59205240816115e-10
+Hubel BF EU sex combined 76 SNPs clumped	33nOfk	XL-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	158.608306219109	68	3.34345951371921e-09
+Hubel BF EU sex combined 76 SNPs clumped	33nOfk	XL-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	167.548599754776	69	3.58963334760635e-10
+Hubel BF EU sex combined 76 SNPs clumped	33nOfk	XL-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	167.544879089199	69	3.59369310825249e-10
+Hubel BF EU sex combined 76 SNPs clumped	33nOfk	XL-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0126016288874494	69	1
+Hubel BF EU sex combined 76 SNPs clumped	3aeTkU	L-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	227.300726444164	69	8.92380657809089e-19
+Hubel BF EU sex combined 76 SNPs clumped	3aeTkU	L-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	225.650492928016	68	8.69835764339582e-19
+Hubel BF EU sex combined 76 SNPs clumped	3aeTkU	L-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	227.653646847359	69	7.8743444374129e-19
+Hubel BF EU sex combined 76 SNPs clumped	3aeTkU	L-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	227.259007735633	69	9.05671964889209e-19
+Hubel BF EU sex combined 76 SNPs clumped	3aeTkU	L-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.015720476290081	69	1
+Hubel BF EU sex combined 76 SNPs clumped	3li7r1	TotPG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	81.1595775081761	69	0.150132785900975
+Hubel BF EU sex combined 76 SNPs clumped	3li7r1	TotPG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	81.0204742866279	68	0.133798070345705
+Hubel BF EU sex combined 76 SNPs clumped	3li7r1	TotPG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	81.2215173288292	69	0.149031914456593
+Hubel BF EU sex combined 76 SNPs clumped	3li7r1	TotPG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	81.1333164701921	69	0.150601329499597
+Hubel BF EU sex combined 76 SNPs clumped	3li7r1	TotPG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00748822878818265	69	1
+Hubel BF EU sex combined 76 SNPs clumped	3szP8j	L-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	317.828551271158	69	1.32570230007903e-33
+Hubel BF EU sex combined 76 SNPs clumped	3szP8j	L-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	315.401464906114	68	1.59342249332103e-33
+Hubel BF EU sex combined 76 SNPs clumped	3szP8j	L-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	319.709259597633	69	6.29831008522147e-34
+Hubel BF EU sex combined 76 SNPs clumped	3szP8j	L-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	317.728821735458	69	1.37902388091361e-33
+Hubel BF EU sex combined 76 SNPs clumped	3szP8j	L-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0209810422504955	69	1
+Hubel BF EU sex combined 76 SNPs clumped	3XecGc	L-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	105.825817809116	69	0.00289626148511816
+Hubel BF EU sex combined 76 SNPs clumped	3XecGc	L-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	105.960424147756	68	0.0022032005829486
+Hubel BF EU sex combined 76 SNPs clumped	3XecGc	L-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	105.960963987227	69	0.00282021143001883
+Hubel BF EU sex combined 76 SNPs clumped	3XecGc	L-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	105.786551123981	69	0.00291871379185344
+Hubel BF EU sex combined 76 SNPs clumped	3XecGc	L-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00982565028094739	69	1
+Hubel BF EU sex combined 76 SNPs clumped	42NxaU	Ile.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	145.289492586908	69	2.28133824268844e-07
+Hubel BF EU sex combined 76 SNPs clumped	42NxaU	Ile.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	135.194753890736	68	2.35503992026883e-06
+Hubel BF EU sex combined 76 SNPs clumped	42NxaU	Ile.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	145.36936649535	69	2.23179212196403e-07
+Hubel BF EU sex combined 76 SNPs clumped	42NxaU	Ile.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	145.287104177574	69	2.28283626609454e-07
+Hubel BF EU sex combined 76 SNPs clumped	42NxaU	Ile.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0116422469980354	69	1
+Hubel BF EU sex combined 76 SNPs clumped	4aJnPp	L-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	104.026313817715	69	0.00410884184399959
+Hubel BF EU sex combined 76 SNPs clumped	4aJnPp	L-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	99.439980786722	68	0.00773827458096438
+Hubel BF EU sex combined 76 SNPs clumped	4aJnPp	L-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	104.029241401576	69	0.00410653348519695
+Hubel BF EU sex combined 76 SNPs clumped	4aJnPp	L-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	104.026089852922	69	0.00410901848662609
+Hubel BF EU sex combined 76 SNPs clumped	4aJnPp	L-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0113090644004267	69	1
+Hubel BF EU sex combined 76 SNPs clumped	4E3h6r	L-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	140.341670834726	69	8.72343361877856e-07
+Hubel BF EU sex combined 76 SNPs clumped	4E3h6r	L-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	136.454589025995	68	1.69007955145216e-06
+Hubel BF EU sex combined 76 SNPs clumped	4E3h6r	L-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	140.342984727356	69	8.72037117683708e-07
+Hubel BF EU sex combined 76 SNPs clumped	4E3h6r	L-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	140.341345553625	69	8.72419195154938e-07
+Hubel BF EU sex combined 76 SNPs clumped	4E3h6r	L-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0108167488741658	69	1
+Hubel BF EU sex combined 76 SNPs clumped	4YzS3D	EstC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	100.15213508353	69	0.00846751660522913
+Hubel BF EU sex combined 76 SNPs clumped	4YzS3D	EstC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	99.5484265465649	68	0.00758553651348754
+Hubel BF EU sex combined 76 SNPs clumped	4YzS3D	EstC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	100.152173572345	69	0.00846745754065463
+Hubel BF EU sex combined 76 SNPs clumped	4YzS3D	EstC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	100.152120730728	69	0.00846753863100051
+Hubel BF EU sex combined 76 SNPs clumped	4YzS3D	EstC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00904681461611724	69	1
+Hubel BF EU sex combined 76 SNPs clumped	5lmghQ	L-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	255.571238647738	69	3.14902570698801e-23
+Hubel BF EU sex combined 76 SNPs clumped	5lmghQ	L-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	254.100868825222	68	2.78142359752851e-23
+Hubel BF EU sex combined 76 SNPs clumped	5lmghQ	L-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	256.429665322652	69	2.2911562712659e-23
+Hubel BF EU sex combined 76 SNPs clumped	5lmghQ	L-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	255.488496704952	69	3.24699034263082e-23
+Hubel BF EU sex combined 76 SNPs clumped	5lmghQ	L-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.018095652786564	69	1
+Hubel BF EU sex combined 76 SNPs clumped	5mj1qp	SM.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	83.2843270756574	69	0.115693081275226
+Hubel BF EU sex combined 76 SNPs clumped	5mj1qp	SM.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	83.0387751411668	68	0.103588188639015
+Hubel BF EU sex combined 76 SNPs clumped	5mj1qp	SM.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	83.3353002476296	69	0.114948685699101
+Hubel BF EU sex combined 76 SNPs clumped	5mj1qp	SM.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	83.2531351790958	69	0.116150431059465
+Hubel BF EU sex combined 76 SNPs clumped	5mj1qp	SM.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00645659766792653	69	1
+Hubel BF EU sex combined 76 SNPs clumped	5PK4pS	M-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	255.672486449501	69	3.0331484978838e-23
+Hubel BF EU sex combined 76 SNPs clumped	5PK4pS	M-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	252.229261552703	68	5.56967714379974e-23
+Hubel BF EU sex combined 76 SNPs clumped	5PK4pS	M-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	255.677068156142	69	3.02800645531233e-23
+Hubel BF EU sex combined 76 SNPs clumped	5PK4pS	M-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	255.671950370726	69	3.03375070654324e-23
+Hubel BF EU sex combined 76 SNPs clumped	5PK4pS	M-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.016829753951567	69	1
+Hubel BF EU sex combined 76 SNPs clumped	5QEFq6	XXL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	65.8873979085589	69	0.583965803717741
+Hubel BF EU sex combined 76 SNPs clumped	5QEFq6	XXL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	65.8630018537949	68	0.550864122261453
+Hubel BF EU sex combined 76 SNPs clumped	5QEFq6	XXL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	65.8957674734717	69	0.583679407636109
+Hubel BF EU sex combined 76 SNPs clumped	5QEFq6	XXL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	65.8860511472948	69	0.584011886323697
+Hubel BF EU sex combined 76 SNPs clumped	5QEFq6	XXL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00517014333057435	69	1
+Hubel BF EU sex combined 76 SNPs clumped	5qHJtA	FALen.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	144.725783639238	69	2.66300490382255e-07
+Hubel BF EU sex combined 76 SNPs clumped	5qHJtA	FALen.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	137.210972676744	68	1.3830883807357e-06
+Hubel BF EU sex combined 76 SNPs clumped	5qHJtA	FALen.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	144.729863213551	69	2.66002983530691e-07
+Hubel BF EU sex combined 76 SNPs clumped	5qHJtA	FALen.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	144.725734979262	69	2.66304040924723e-07
+Hubel BF EU sex combined 76 SNPs clumped	5qHJtA	FALen.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0105915974163882	69	1
+Hubel BF EU sex combined 76 SNPs clumped	5TXrsh	HDL3-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	80.9900865225814	69	0.15317571149765
+Hubel BF EU sex combined 76 SNPs clumped	5TXrsh	HDL3-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	80.8680949991998	68	0.136324679283703
+Hubel BF EU sex combined 76 SNPs clumped	5TXrsh	HDL3-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	81.0467482053768	69	0.152153463590555
+Hubel BF EU sex combined 76 SNPs clumped	5TXrsh	HDL3-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	80.9756917478526	69	0.153436209854495
+Hubel BF EU sex combined 76 SNPs clumped	5TXrsh	HDL3-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00622687664327627	69	1
+Hubel BF EU sex combined 76 SNPs clumped	62fHB8	S-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	141.176392724893	69	6.97543164179817e-07
+Hubel BF EU sex combined 76 SNPs clumped	62fHB8	S-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	139.02439498361	68	8.52093199068581e-07
+Hubel BF EU sex combined 76 SNPs clumped	62fHB8	S-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	141.26410007959	69	6.81301016281398e-07
+Hubel BF EU sex combined 76 SNPs clumped	62fHB8	S-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	141.109684185491	69	7.10149651217979e-07
+Hubel BF EU sex combined 76 SNPs clumped	62fHB8	S-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.010000155946479	69	1
+Hubel BF EU sex combined 76 SNPs clumped	67LyA5	XL-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	184.934108612367	69	1.55317364809248e-12
+Hubel BF EU sex combined 76 SNPs clumped	67LyA5	XL-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	176.343036267796	68	1.45854519451163e-11
+Hubel BF EU sex combined 76 SNPs clumped	67LyA5	XL-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	185.089414182865	69	1.47744644706795e-12
+Hubel BF EU sex combined 76 SNPs clumped	67LyA5	XL-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	184.922161100514	69	1.55915611406538e-12
+Hubel BF EU sex combined 76 SNPs clumped	67LyA5	XL-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0129243903447271	69	1
+Hubel BF EU sex combined 76 SNPs clumped	6Jaa5O	M-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	118.758340779153	69	0.000185408972386141
+Hubel BF EU sex combined 76 SNPs clumped	6Jaa5O	M-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	117.1218714241	68	0.000200052938126798
+Hubel BF EU sex combined 76 SNPs clumped	6Jaa5O	M-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	118.878244527353	69	0.000180420041265169
+Hubel BF EU sex combined 76 SNPs clumped	6Jaa5O	M-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	118.685106731911	69	0.000188520837469571
+Hubel BF EU sex combined 76 SNPs clumped	6Jaa5O	M-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00840169123947608	69	1
+Hubel BF EU sex combined 76 SNPs clumped	6kObva	XS-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	79.9478259933758	69	0.172881206866915
+Hubel BF EU sex combined 76 SNPs clumped	6kObva	XS-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	79.3991172797826	68	0.162537013903217
+Hubel BF EU sex combined 76 SNPs clumped	6kObva	XS-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	79.9939723973462	69	0.171972265809147
+Hubel BF EU sex combined 76 SNPs clumped	6kObva	XS-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	79.9322739631878	69	0.17318830016373
+Hubel BF EU sex combined 76 SNPs clumped	6kObva	XS-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00890335253603521	69	1
+Hubel BF EU sex combined 76 SNPs clumped	6VL9SR	M-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	111.815250223783	69	0.000851969637467441
+Hubel BF EU sex combined 76 SNPs clumped	6VL9SR	M-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	108.053318603631	68	0.00143750480438994
+Hubel BF EU sex combined 76 SNPs clumped	6VL9SR	M-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	111.942485500818	69	0.000829316529768912
+Hubel BF EU sex combined 76 SNPs clumped	6VL9SR	M-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	111.766917439114	69	0.000860727430679681
+Hubel BF EU sex combined 76 SNPs clumped	6VL9SR	M-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0110130719354688	69	1
+Hubel BF EU sex combined 76 SNPs clumped	78u48U	L-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	105.825817809116	69	0.00289626148511816
+Hubel BF EU sex combined 76 SNPs clumped	78u48U	L-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	105.960424147756	68	0.0022032005829486
+Hubel BF EU sex combined 76 SNPs clumped	78u48U	L-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	105.960963987227	69	0.00282021143001883
+Hubel BF EU sex combined 76 SNPs clumped	78u48U	L-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	105.786551123981	69	0.00291871379185344
+Hubel BF EU sex combined 76 SNPs clumped	78u48U	L-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00982565028094739	69	1
+Hubel BF EU sex combined 76 SNPs clumped	7btY92	S-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	107.898402285474	69	0.00191586140063226
+Hubel BF EU sex combined 76 SNPs clumped	7btY92	S-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	107.454009492873	68	0.00162631154598865
+Hubel BF EU sex combined 76 SNPs clumped	7btY92	S-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	107.916571872073	69	0.00190884043806185
+Hubel BF EU sex combined 76 SNPs clumped	7btY92	S-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	107.892996762455	69	0.00191795483532793
+Hubel BF EU sex combined 76 SNPs clumped	7btY92	S-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00983785662494809	69	1
+Hubel BF EU sex combined 76 SNPs clumped	7GJHcH	S-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	96.6796339627951	69	0.0156125867129534
+Hubel BF EU sex combined 76 SNPs clumped	7GJHcH	S-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	90.1249388105095	68	0.0376045454009871
+Hubel BF EU sex combined 76 SNPs clumped	7GJHcH	S-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	96.9925988010032	69	0.0147965229695725
+Hubel BF EU sex combined 76 SNPs clumped	7GJHcH	S-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	96.4812286745336	69	0.0161506285248512
+Hubel BF EU sex combined 76 SNPs clumped	7GJHcH	S-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0108445875071702	69	1
+Hubel BF EU sex combined 76 SNPs clumped	7JeQg1	XXL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	81.4360710908315	69	0.145264556433236
+Hubel BF EU sex combined 76 SNPs clumped	7JeQg1	XXL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	80.8803592430418	68	0.136120009046358
+Hubel BF EU sex combined 76 SNPs clumped	7JeQg1	XXL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	81.4875400703254	69	0.144371382471331
+Hubel BF EU sex combined 76 SNPs clumped	7JeQg1	XXL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	81.4044408608309	69	0.145815481584544
+Hubel BF EU sex combined 76 SNPs clumped	7JeQg1	XXL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00741761673303647	69	1
+Hubel BF EU sex combined 76 SNPs clumped	7kBrcF	S-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	134.257030419492	69	4.30282814424609e-06
+Hubel BF EU sex combined 76 SNPs clumped	7kBrcF	S-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	126.916500343463	68	1.94576436994792e-05
+Hubel BF EU sex combined 76 SNPs clumped	7kBrcF	S-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	134.385634377292	69	4.16278570644671e-06
+Hubel BF EU sex combined 76 SNPs clumped	7kBrcF	S-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	134.164566874514	69	4.4063404234712e-06
+Hubel BF EU sex combined 76 SNPs clumped	7kBrcF	S-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0136678254563842	69	1
+Hubel BF EU sex combined 76 SNPs clumped	7l6UDL	XL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	111.111765936116	69	0.000988169135485979
+Hubel BF EU sex combined 76 SNPs clumped	7l6UDL	XL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	111.082825025427	68	0.00075999276974487
+Hubel BF EU sex combined 76 SNPs clumped	7l6UDL	XL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	111.148276620004	69	0.000980621137428076
+Hubel BF EU sex combined 76 SNPs clumped	7l6UDL	XL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	111.096367895179	69	0.000991368871832753
+Hubel BF EU sex combined 76 SNPs clumped	7l6UDL	XL-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00839293285066259	69	1
+Hubel BF EU sex combined 76 SNPs clumped	7Sgy21	XXL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	70.1892065373782	69	0.43747865137946
+Hubel BF EU sex combined 76 SNPs clumped	7Sgy21	XXL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	69.8368063366523	68	0.415590350899827
+Hubel BF EU sex combined 76 SNPs clumped	7Sgy21	XXL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	70.2611445668881	69	0.435096872851994
+Hubel BF EU sex combined 76 SNPs clumped	7Sgy21	XXL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	70.1562520111954	69	0.438571040451612
+Hubel BF EU sex combined 76 SNPs clumped	7Sgy21	XXL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00500318422702678	69	1
+Hubel BF EU sex combined 76 SNPs clumped	8HXoxh	XL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	81.6755499044102	69	0.141143325601887
+Hubel BF EU sex combined 76 SNPs clumped	8HXoxh	XL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	81.7080664646546	68	0.122834666643462
+Hubel BF EU sex combined 76 SNPs clumped	8HXoxh	XL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	81.7092514913289	69	0.140570406653961
+Hubel BF EU sex combined 76 SNPs clumped	8HXoxh	XL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	81.6621628719233	69	0.141371383960172
+Hubel BF EU sex combined 76 SNPs clumped	8HXoxh	XL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0102509410224944	69	1
+Hubel BF EU sex combined 76 SNPs clumped	8lQTVl	XXL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	70.1892065373782	69	0.43747865137946
+Hubel BF EU sex combined 76 SNPs clumped	8lQTVl	XXL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	69.8368063366523	68	0.415590350899827
+Hubel BF EU sex combined 76 SNPs clumped	8lQTVl	XXL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	70.2611445668881	69	0.435096872851994
+Hubel BF EU sex combined 76 SNPs clumped	8lQTVl	XXL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	70.1562520111954	69	0.438571040451612
+Hubel BF EU sex combined 76 SNPs clumped	8lQTVl	XXL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00500318422702678	69	1
+Hubel BF EU sex combined 76 SNPs clumped	8Nk8x4	IDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	128.913893606142	69	1.65800223915583e-05
+Hubel BF EU sex combined 76 SNPs clumped	8Nk8x4	IDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	124.959538952885	68	3.14728593376065e-05
+Hubel BF EU sex combined 76 SNPs clumped	8Nk8x4	IDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	128.938253346029	69	1.64803019825902e-05
+Hubel BF EU sex combined 76 SNPs clumped	8Nk8x4	IDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	128.911990728694	69	1.65878367109539e-05
+Hubel BF EU sex combined 76 SNPs clumped	8Nk8x4	IDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0109587029995054	69	1
+Hubel BF EU sex combined 76 SNPs clumped	8Qj2td	IDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	151.55079454495	69	3.96727644760638e-08
+Hubel BF EU sex combined 76 SNPs clumped	8Qj2td	IDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	147.448557015264	68	8.39969432706918e-08
+Hubel BF EU sex combined 76 SNPs clumped	8Qj2td	IDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	151.551006316196	69	3.96703802129835e-08
+Hubel BF EU sex combined 76 SNPs clumped	8Qj2td	IDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	151.550734475043	69	3.96734408091006e-08
+Hubel BF EU sex combined 76 SNPs clumped	8Qj2td	IDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.011730971768965	69	1
+Hubel BF EU sex combined 76 SNPs clumped	9wgVqQ	S-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	115.33464604666	69	0.000398683137644869
+Hubel BF EU sex combined 76 SNPs clumped	9wgVqQ	S-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	110.339121579401	68	0.00089054520513176
+Hubel BF EU sex combined 76 SNPs clumped	9wgVqQ	S-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	115.42616993204	69	0.000390738676453657
+Hubel BF EU sex combined 76 SNPs clumped	9wgVqQ	S-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	115.291489133626	69	0.000402482445766435
+Hubel BF EU sex combined 76 SNPs clumped	9wgVqQ	S-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0111504679813859	69	1
+Hubel BF EU sex combined 76 SNPs clumped	a578WY	CLA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	99.1025232110702	69	0.0102254891456604
+Hubel BF EU sex combined 76 SNPs clumped	a578WY	CLA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	99.0226006265584	68	0.0083527552317679
+Hubel BF EU sex combined 76 SNPs clumped	a578WY	CLA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	99.1035242744844	69	0.0102236649922239
+Hubel BF EU sex combined 76 SNPs clumped	a578WY	CLA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	99.1024102351945	69	0.0102256950306447
+Hubel BF EU sex combined 76 SNPs clumped	a578WY	CLA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0089701244101689	69	1
+Hubel BF EU sex combined 76 SNPs clumped	aFKMlf	S-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	107.715491299021	69	0.00198790266177446
+Hubel BF EU sex combined 76 SNPs clumped	aFKMlf	S-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	104.650332372471	68	0.00286188991265301
+Hubel BF EU sex combined 76 SNPs clumped	aFKMlf	S-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	107.865682731294	69	0.00192856578500034
+Hubel BF EU sex combined 76 SNPs clumped	aFKMlf	S-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	107.630850037546	69	0.0020220921323639
+Hubel BF EU sex combined 76 SNPs clumped	aFKMlf	S-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0114105325920799	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Ai0yt5	PUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	217.160740729007	69	3.13855070613885e-17
+Hubel BF EU sex combined 76 SNPs clumped	Ai0yt5	PUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	216.273004526983	68	2.37134806907637e-17
+Hubel BF EU sex combined 76 SNPs clumped	Ai0yt5	PUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	217.170295285491	69	3.12814076279422e-17
+Hubel BF EU sex combined 76 SNPs clumped	Ai0yt5	PUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	217.160568861447	69	3.13873827544456e-17
+Hubel BF EU sex combined 76 SNPs clumped	Ai0yt5	PUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0140382942419277	69	1
+Hubel BF EU sex combined 76 SNPs clumped	AJv8ZY	S-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	107.715491299021	69	0.00198790266177446
+Hubel BF EU sex combined 76 SNPs clumped	AJv8ZY	S-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	104.650332372471	68	0.00286188991265301
+Hubel BF EU sex combined 76 SNPs clumped	AJv8ZY	S-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	107.865682731294	69	0.00192856578500034
+Hubel BF EU sex combined 76 SNPs clumped	AJv8ZY	S-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	107.630850037546	69	0.0020220921323639
+Hubel BF EU sex combined 76 SNPs clumped	AJv8ZY	S-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0114105325920799	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ApkNlm	S-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	139.659711610104	69	1.04634354614182e-06
+Hubel BF EU sex combined 76 SNPs clumped	ApkNlm	S-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	133.252456169784	68	3.90725730652016e-06
+Hubel BF EU sex combined 76 SNPs clumped	ApkNlm	S-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	139.746515712097	69	1.02244100639163e-06
+Hubel BF EU sex combined 76 SNPs clumped	ApkNlm	S-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	139.589568347095	69	1.06605652845002e-06
+Hubel BF EU sex combined 76 SNPs clumped	ApkNlm	S-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0134005352733369	69	1
+Hubel BF EU sex combined 76 SNPs clumped	aRzDfu	ApoB.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	230.049102644956	69	3.36137210127033e-19
+Hubel BF EU sex combined 76 SNPs clumped	aRzDfu	ApoB.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	229.701995631441	68	2.04952368674414e-19
+Hubel BF EU sex combined 76 SNPs clumped	aRzDfu	ApoB.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	230.55487710061	69	2.80712526524853e-19
+Hubel BF EU sex combined 76 SNPs clumped	aRzDfu	ApoB.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	230.001626486692	69	3.41868216553538e-19
+Hubel BF EU sex combined 76 SNPs clumped	aRzDfu	ApoB.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0159364674982788	69	1
+Hubel BF EU sex combined 76 SNPs clumped	azT7NQ	L-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	223.007159507477	69	4.06283176796531e-18
+Hubel BF EU sex combined 76 SNPs clumped	azT7NQ	L-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	220.224341269263	68	5.93149456801774e-18
+Hubel BF EU sex combined 76 SNPs clumped	azT7NQ	L-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	223.317531334605	69	3.64264318680807e-18
+Hubel BF EU sex combined 76 SNPs clumped	azT7NQ	L-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	222.993510619508	69	4.08237793377199e-18
+Hubel BF EU sex combined 76 SNPs clumped	azT7NQ	L-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0144332847938616	69	1
+Hubel BF EU sex combined 76 SNPs clumped	bcKUcQ	L-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	120.535641342204	69	0.000123361806062566
+Hubel BF EU sex combined 76 SNPs clumped	bcKUcQ	L-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	118.504093644949	68	0.000145719130139664
+Hubel BF EU sex combined 76 SNPs clumped	bcKUcQ	L-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	120.558566970891	69	0.000122709818301403
+Hubel BF EU sex combined 76 SNPs clumped	bcKUcQ	L-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	120.53010739428	69	0.000123519685400575
+Hubel BF EU sex combined 76 SNPs clumped	bcKUcQ	L-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00840133183470138	69	1
+Hubel BF EU sex combined 76 SNPs clumped	bjCQip	XS-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	146.499740074296	69	1.63403634236126e-07
+Hubel BF EU sex combined 76 SNPs clumped	bjCQip	XS-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	136.370543033998	68	1.72804616825986e-06
+Hubel BF EU sex combined 76 SNPs clumped	bjCQip	XS-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	146.499849951106	69	1.6339866766746e-07
+Hubel BF EU sex combined 76 SNPs clumped	bjCQip	XS-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	146.499699554274	69	1.63405465828953e-07
+Hubel BF EU sex combined 76 SNPs clumped	bjCQip	XS-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0118535028576921	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Bm6NOI	XL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	81.6755499044102	69	0.141143325601887
+Hubel BF EU sex combined 76 SNPs clumped	Bm6NOI	XL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	81.7080664646546	68	0.122834666643462
+Hubel BF EU sex combined 76 SNPs clumped	Bm6NOI	XL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	81.7092514913289	69	0.140570406653961
+Hubel BF EU sex combined 76 SNPs clumped	Bm6NOI	XL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	81.6621628719233	69	0.141371383960172
+Hubel BF EU sex combined 76 SNPs clumped	Bm6NOI	XL-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0102509410224944	69	1
+Hubel BF EU sex combined 76 SNPs clumped	BOif1b	TotFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	127.307182911258	69	2.46222307273814e-05
+Hubel BF EU sex combined 76 SNPs clumped	BOif1b	TotFA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	126.777955584624	68	2.01363011540101e-05
+Hubel BF EU sex combined 76 SNPs clumped	BOif1b	TotFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	127.332349851603	69	2.44711037223034e-05
+Hubel BF EU sex combined 76 SNPs clumped	BOif1b	TotFA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	127.295435708124	69	2.46930814534172e-05
+Hubel BF EU sex combined 76 SNPs clumped	BOif1b	TotFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.010354796907425	69	1
+Hubel BF EU sex combined 76 SNPs clumped	bq1axa	S-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	162.788765849861	69	1.50438880144645e-09
+Hubel BF EU sex combined 76 SNPs clumped	bq1axa	S-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	160.714607057038	68	1.78694716327174e-09
+Hubel BF EU sex combined 76 SNPs clumped	bq1axa	S-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	162.966534009236	69	1.42668054254849e-09
+Hubel BF EU sex combined 76 SNPs clumped	bq1axa	S-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	162.765237688272	69	1.51498172025528e-09
+Hubel BF EU sex combined 76 SNPs clumped	bq1axa	S-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0115172076962432	69	1
+Hubel BF EU sex combined 76 SNPs clumped	bUVf1E	S-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	108.920580442378	69	0.00155633439741663
+Hubel BF EU sex combined 76 SNPs clumped	bUVf1E	S-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	107.893229258261	68	0.00148581196150864
+Hubel BF EU sex combined 76 SNPs clumped	bUVf1E	S-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	109.094679467951	69	0.00150181491212292
+Hubel BF EU sex combined 76 SNPs clumped	bUVf1E	S-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	108.833402961378	69	0.00158432853258004
+Hubel BF EU sex combined 76 SNPs clumped	bUVf1E	S-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00875698665644734	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Bya16u	DHAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	71.2068703226543	69	0.404182743027034
+Hubel BF EU sex combined 76 SNPs clumped	Bya16u	DHAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	67.0544050553834	68	0.509649713226268
+Hubel BF EU sex combined 76 SNPs clumped	Bya16u	DHAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	71.2108521686384	69	0.404054272446666
+Hubel BF EU sex combined 76 SNPs clumped	Bya16u	DHAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	71.2062831362745	69	0.404201689331703
+Hubel BF EU sex combined 76 SNPs clumped	Bya16u	DHAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00565694755928645	69	1
+Hubel BF EU sex combined 76 SNPs clumped	bYT40A	S-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	108.920580442378	69	0.00155633439741663
+Hubel BF EU sex combined 76 SNPs clumped	bYT40A	S-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	107.893229258261	68	0.00148581196150864
+Hubel BF EU sex combined 76 SNPs clumped	bYT40A	S-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	109.094679467951	69	0.00150181491212292
+Hubel BF EU sex combined 76 SNPs clumped	bYT40A	S-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	108.833402961378	69	0.00158432853258004
+Hubel BF EU sex combined 76 SNPs clumped	bYT40A	S-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00875698665644734	69	1
+Hubel BF EU sex combined 76 SNPs clumped	C3tFda	M-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	119.511895841458	69	0.000156120936527826
+Hubel BF EU sex combined 76 SNPs clumped	C3tFda	M-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	117.550370712681	68	0.000181413722734554
+Hubel BF EU sex combined 76 SNPs clumped	C3tFda	M-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	119.528293000256	69	0.000155535853129599
+Hubel BF EU sex combined 76 SNPs clumped	C3tFda	M-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	119.511737830523	69	0.000156126584933788
+Hubel BF EU sex combined 76 SNPs clumped	C3tFda	M-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00795995586470279	69	1
+Hubel BF EU sex combined 76 SNPs clumped	c76Swg	XL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	104.227479003482	69	0.00395299423521269
+Hubel BF EU sex combined 76 SNPs clumped	c76Swg	XL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	102.985360460447	68	0.00396451452039087
+Hubel BF EU sex combined 76 SNPs clumped	c76Swg	XL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	104.247112820262	69	0.0039380808781963
+Hubel BF EU sex combined 76 SNPs clumped	c76Swg	XL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	104.223580362556	69	0.00395596177377724
+Hubel BF EU sex combined 76 SNPs clumped	c76Swg	XL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00932660751767097	69	1
+Hubel BF EU sex combined 76 SNPs clumped	cCjdPB	XXL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	67.3833972733776	69	0.532598424828062
+Hubel BF EU sex combined 76 SNPs clumped	cCjdPB	XXL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	67.4118503433387	68	0.497339981910252
+Hubel BF EU sex combined 76 SNPs clumped	cCjdPB	XXL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	67.4299936547602	69	0.530997531801361
+Hubel BF EU sex combined 76 SNPs clumped	cCjdPB	XXL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	67.3676662756516	69	0.533138937549589
+Hubel BF EU sex combined 76 SNPs clumped	cCjdPB	XXL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0048311424748793	69	1
+Hubel BF EU sex combined 76 SNPs clumped	CzF2cl	XS-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	161.59774564456	69	2.14414093515903e-09
+Hubel BF EU sex combined 76 SNPs clumped	CzF2cl	XS-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	159.147541925822	68	2.84947859594731e-09
+Hubel BF EU sex combined 76 SNPs clumped	CzF2cl	XS-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	161.622852704148	69	2.1282219453278e-09
+Hubel BF EU sex combined 76 SNPs clumped	CzF2cl	XS-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	161.591204216708	69	2.14830773715897e-09
+Hubel BF EU sex combined 76 SNPs clumped	CzF2cl	XS-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.011912134099014	69	1
+Hubel BF EU sex combined 76 SNPs clumped	CZXK6V	M-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	251.854124016257	69	1.24279636018288e-22
+Hubel BF EU sex combined 76 SNPs clumped	CZXK6V	M-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	250.199156166321	68	1.18048336896152e-22
+Hubel BF EU sex combined 76 SNPs clumped	CZXK6V	M-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	252.230241774427	69	1.08195687894125e-22
+Hubel BF EU sex combined 76 SNPs clumped	CZXK6V	M-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	251.846444626063	69	1.24631715767288e-22
+Hubel BF EU sex combined 76 SNPs clumped	CZXK6V	M-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0161419920672764	69	1
+Hubel BF EU sex combined 76 SNPs clumped	d1VNX0	M-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	195.127048136329	69	5.57573527243917e-14
+Hubel BF EU sex combined 76 SNPs clumped	d1VNX0	M-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	192.729779059577	68	7.22050788347075e-14
+Hubel BF EU sex combined 76 SNPs clumped	d1VNX0	M-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	195.26302040881	69	5.33039816217388e-14
+Hubel BF EU sex combined 76 SNPs clumped	d1VNX0	M-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	195.116662766184	69	5.59492790145544e-14
+Hubel BF EU sex combined 76 SNPs clumped	d1VNX0	M-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0126592428900114	69	1
+Hubel BF EU sex combined 76 SNPs clumped	D9iXWa	IDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	124.357176674727	69	5.02437502590186e-05
+Hubel BF EU sex combined 76 SNPs clumped	D9iXWa	IDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	122.211324751407	68	6.10613769321608e-05
+Hubel BF EU sex combined 76 SNPs clumped	D9iXWa	IDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	124.357410481442	69	5.0240943935894e-05
+Hubel BF EU sex combined 76 SNPs clumped	D9iXWa	IDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	124.357080690027	69	5.024490238301e-05
+Hubel BF EU sex combined 76 SNPs clumped	D9iXWa	IDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0102629785129923	69	1
+Hubel BF EU sex combined 76 SNPs clumped	DmHUoF	XL-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	200.450734973927	69	9.46597505599848e-15
+Hubel BF EU sex combined 76 SNPs clumped	DmHUoF	XL-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	192.373139742048	68	8.12581697890741e-14
+Hubel BF EU sex combined 76 SNPs clumped	DmHUoF	XL-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	200.467809064254	69	9.41194033457113e-15
+Hubel BF EU sex combined 76 SNPs clumped	DmHUoF	XL-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	200.448771785829	69	9.47220770645712e-15
+Hubel BF EU sex combined 76 SNPs clumped	DmHUoF	XL-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0144457842163116	69	1
+Hubel BF EU sex combined 76 SNPs clumped	dmvfBb	L-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	249.346713699353	69	3.12497566257502e-22
+Hubel BF EU sex combined 76 SNPs clumped	dmvfBb	L-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	245.359010877652	68	7.01633756871289e-22
+Hubel BF EU sex combined 76 SNPs clumped	dmvfBb	L-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	249.347110835938	69	3.12452013329751e-22
+Hubel BF EU sex combined 76 SNPs clumped	dmvfBb	L-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	249.345961485319	69	3.12583865918389e-22
+Hubel BF EU sex combined 76 SNPs clumped	dmvfBb	L-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0160130006459522	69	1
+Hubel BF EU sex combined 76 SNPs clumped	dmytc4	XL-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	108.747318972493	69	0.00161243561945327
+Hubel BF EU sex combined 76 SNPs clumped	dmytc4	XL-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	108.966429194591	68	0.0011890656435888
+Hubel BF EU sex combined 76 SNPs clumped	dmytc4	XL-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	109.217781387868	69	0.00146435537865489
+Hubel BF EU sex combined 76 SNPs clumped	dmytc4	XL-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	108.492563762635	69	0.0016983862915698
+Hubel BF EU sex combined 76 SNPs clumped	dmytc4	XL-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0111757915667706	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Efd0xy	SFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	70.942608435913	69	0.412742116788635
+Hubel BF EU sex combined 76 SNPs clumped	Efd0xy	SFA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	67.1746384781352	68	0.505504670225427
+Hubel BF EU sex combined 76 SNPs clumped	Efd0xy	SFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	70.9795738150902	69	0.411540942509174
+Hubel BF EU sex combined 76 SNPs clumped	Efd0xy	SFA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	70.9141747244785	69	0.413666898611632
+Hubel BF EU sex combined 76 SNPs clumped	Efd0xy	SFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0061375231286806	69	1
+Hubel BF EU sex combined 76 SNPs clumped	eFvq2y	MUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	190.990450563109	69	2.17537104419347e-13
+Hubel BF EU sex combined 76 SNPs clumped	eFvq2y	MUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	191.112141422389	68	1.23273142749946e-13
+Hubel BF EU sex combined 76 SNPs clumped	eFvq2y	MUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	191.112272206239	69	2.09032723513013e-13
+Hubel BF EU sex combined 76 SNPs clumped	eFvq2y	MUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	190.978370736169	69	2.18398871796711e-13
+Hubel BF EU sex combined 76 SNPs clumped	eFvq2y	MUFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0126312206022981	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ekCGqE	IDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	91.7504693597329	69	0.0349475460759443
+Hubel BF EU sex combined 76 SNPs clumped	ekCGqE	IDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	91.664340539099	68	0.0295038649407844
+Hubel BF EU sex combined 76 SNPs clumped	ekCGqE	IDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	91.7569464373905	69	0.034912321756551
+Hubel BF EU sex combined 76 SNPs clumped	ekCGqE	IDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	91.7493254049306	69	0.0349537704485154
+Hubel BF EU sex combined 76 SNPs clumped	ekCGqE	IDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0089741395895086	69	1
+Hubel BF EU sex combined 76 SNPs clumped	eOvOp8	IDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	229.629684465771	69	3.90263805800596e-19
+Hubel BF EU sex combined 76 SNPs clumped	eOvOp8	IDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	220.492851289174	68	5.39638488940934e-18
+Hubel BF EU sex combined 76 SNPs clumped	eOvOp8	IDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	229.726103678626	69	3.77099641324832e-19
+Hubel BF EU sex combined 76 SNPs clumped	eOvOp8	IDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	229.622530685866	69	3.91258544339213e-19
+Hubel BF EU sex combined 76 SNPs clumped	eOvOp8	IDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.015102939397335	69	1
+Hubel BF EU sex combined 76 SNPs clumped	er2614	S-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	109.896667582553	69	0.00127308396931386
+Hubel BF EU sex combined 76 SNPs clumped	er2614	S-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	106.976023276709	68	0.00179335944891633
+Hubel BF EU sex combined 76 SNPs clumped	er2614	S-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	110.1219333521	69	0.00121500307506279
+Hubel BF EU sex combined 76 SNPs clumped	er2614	S-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	109.812502087544	69	0.00129544874190056
+Hubel BF EU sex combined 76 SNPs clumped	er2614	S-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0112964514918043	69	1
+Hubel BF EU sex combined 76 SNPs clumped	eRM1Us	L-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	140.341670834726	69	8.72343361877856e-07
+Hubel BF EU sex combined 76 SNPs clumped	eRM1Us	L-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	136.454589025995	68	1.69007955145216e-06
+Hubel BF EU sex combined 76 SNPs clumped	eRM1Us	L-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	140.342984727356	69	8.72037117683708e-07
+Hubel BF EU sex combined 76 SNPs clumped	eRM1Us	L-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	140.341345553625	69	8.72419195154938e-07
+Hubel BF EU sex combined 76 SNPs clumped	eRM1Us	L-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0108167488741658	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ES6NZm	L-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	116.886712891012	69	0.000282674582553996
+Hubel BF EU sex combined 76 SNPs clumped	ES6NZm	L-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	115.643299345653	68	0.000279492859888427
+Hubel BF EU sex combined 76 SNPs clumped	ES6NZm	L-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	116.999135206677	69	0.000275663372319738
+Hubel BF EU sex combined 76 SNPs clumped	ES6NZm	L-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	116.855757810613	69	0.000284634820346494
+Hubel BF EU sex combined 76 SNPs clumped	ES6NZm	L-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.011285790451964	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Es8kQY	L-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	80.5597266981885	69	0.161104173543501
+Hubel BF EU sex combined 76 SNPs clumped	Es8kQY	L-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	80.1903705729643	68	0.147996530694339
+Hubel BF EU sex combined 76 SNPs clumped	Es8kQY	L-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	80.5874452147478	69	0.160584740057873
+Hubel BF EU sex combined 76 SNPs clumped	Es8kQY	L-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	80.5502806770501	69	0.161281465168497
+Hubel BF EU sex combined 76 SNPs clumped	Es8kQY	L-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00535882770067246	69	1
+Hubel BF EU sex combined 76 SNPs clumped	FedVk8	XS-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	97.4880735109928	69	0.013582756348142
+Hubel BF EU sex combined 76 SNPs clumped	FedVk8	XS-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	97.4408954890747	68	0.0111072460080966
+Hubel BF EU sex combined 76 SNPs clumped	FedVk8	XS-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	97.5013342744043	69	0.0135515413310496
+Hubel BF EU sex combined 76 SNPs clumped	FedVk8	XS-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	97.4866972628619	69	0.013585999660363
+Hubel BF EU sex combined 76 SNPs clumped	FedVk8	XS-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00874705313221084	69	1
+Hubel BF EU sex combined 76 SNPs clumped	FHQSxT	L-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	77.2824989141254	69	0.231197060567009
+Hubel BF EU sex combined 76 SNPs clumped	FHQSxT	L-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	77.3824432332597	68	0.204166120856369
+Hubel BF EU sex combined 76 SNPs clumped	FHQSxT	L-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	77.3951380109001	69	0.228500986488876
+Hubel BF EU sex combined 76 SNPs clumped	FHQSxT	L-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	77.2305208414038	69	0.232448022521349
+Hubel BF EU sex combined 76 SNPs clumped	FHQSxT	L-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00761658504268117	69	1
+Hubel BF EU sex combined 76 SNPs clumped	FiXC2n	M-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	93.0468778668197	69	0.0284832907911479
+Hubel BF EU sex combined 76 SNPs clumped	FiXC2n	M-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	90.4819821162279	68	0.0355715075234848
+Hubel BF EU sex combined 76 SNPs clumped	FiXC2n	M-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	93.1286185114033	69	0.0281132679989601
+Hubel BF EU sex combined 76 SNPs clumped	FiXC2n	M-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	92.9996211091156	69	0.0286991520276497
+Hubel BF EU sex combined 76 SNPs clumped	FiXC2n	M-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00929101232228492	69	1
+Hubel BF EU sex combined 76 SNPs clumped	FL3oaG	XXL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	81.4360710908315	69	0.145264556433236
+Hubel BF EU sex combined 76 SNPs clumped	FL3oaG	XXL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	80.8803592430418	68	0.136120009046358
+Hubel BF EU sex combined 76 SNPs clumped	FL3oaG	XXL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	81.4875400703254	69	0.144371382471331
+Hubel BF EU sex combined 76 SNPs clumped	FL3oaG	XXL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	81.4044408608309	69	0.145815481584544
+Hubel BF EU sex combined 76 SNPs clumped	FL3oaG	XXL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00741761673303647	69	1
+Hubel BF EU sex combined 76 SNPs clumped	flfMeW	M-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	95.1672680504093	69	0.0201525334736293
+Hubel BF EU sex combined 76 SNPs clumped	flfMeW	M-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	93.8605526059858	68	0.0205991399146734
+Hubel BF EU sex combined 76 SNPs clumped	flfMeW	M-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	95.2328202123175	69	0.0199336854400528
+Hubel BF EU sex combined 76 SNPs clumped	flfMeW	M-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	95.1537969886315	69	0.0201977707401364
+Hubel BF EU sex combined 76 SNPs clumped	flfMeW	M-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00633225258385211	69	1
+Hubel BF EU sex combined 76 SNPs clumped	fOQXL6	UnsatDeg.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	128.853148610144	69	1.68312471724729e-05
+Hubel BF EU sex combined 76 SNPs clumped	fOQXL6	UnsatDeg.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	128.291385541075	68	1.3819273831115e-05
+Hubel BF EU sex combined 76 SNPs clumped	fOQXL6	UnsatDeg.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	128.868887226383	69	1.67658044907994e-05
+Hubel BF EU sex combined 76 SNPs clumped	fOQXL6	UnsatDeg.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	128.845352032174	69	1.6863757774887e-05
+Hubel BF EU sex combined 76 SNPs clumped	fOQXL6	UnsatDeg.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00763652503506462	69	1
+Hubel BF EU sex combined 76 SNPs clumped	fYjWdG	LDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	94.8783991783745	69	0.0211425801646682
+Hubel BF EU sex combined 76 SNPs clumped	fYjWdG	LDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	93.2464901537329	68	0.0228108325349606
+Hubel BF EU sex combined 76 SNPs clumped	fYjWdG	LDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	94.9135354096434	69	0.0210198942857688
+Hubel BF EU sex combined 76 SNPs clumped	fYjWdG	LDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	94.8691245940796	69	0.0211750702259773
+Hubel BF EU sex combined 76 SNPs clumped	fYjWdG	LDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00922480209508703	69	1
+Hubel BF EU sex combined 76 SNPs clumped	gaHsn7	S-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	101.279710217055	69	0.00689007520906344
+Hubel BF EU sex combined 76 SNPs clumped	gaHsn7	S-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	98.7525168187043	68	0.00877381053388775
+Hubel BF EU sex combined 76 SNPs clumped	gaHsn7	S-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	101.409741142669	69	0.00672665639062634
+Hubel BF EU sex combined 76 SNPs clumped	gaHsn7	S-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	101.230864218091	69	0.00695239898226125
+Hubel BF EU sex combined 76 SNPs clumped	gaHsn7	S-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0104915567662531	69	1
+Hubel BF EU sex combined 76 SNPs clumped	GcteCJ	L-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	158.01615711453	69	6.15845415003272e-09
+Hubel BF EU sex combined 76 SNPs clumped	GcteCJ	L-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	158.516392136735	68	3.43569861340658e-09
+Hubel BF EU sex combined 76 SNPs clumped	GcteCJ	L-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	158.585358327514	69	5.21332850580813e-09
+Hubel BF EU sex combined 76 SNPs clumped	GcteCJ	L-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	157.876999240551	69	6.4140782120981e-09
+Hubel BF EU sex combined 76 SNPs clumped	GcteCJ	L-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0147957883903024	69	1
+Hubel BF EU sex combined 76 SNPs clumped	gG4mlA	M-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	110.544369099132	69	0.00111276202975207
+Hubel BF EU sex combined 76 SNPs clumped	gG4mlA	M-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	109.71037262758	68	0.00101720849388773
+Hubel BF EU sex combined 76 SNPs clumped	gG4mlA	M-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	110.792466758293	69	0.00105656000287339
+Hubel BF EU sex combined 76 SNPs clumped	gG4mlA	M-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	110.473872679812	69	0.00112923960751077
+Hubel BF EU sex combined 76 SNPs clumped	gG4mlA	M-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.010255479396128	69	1
+Hubel BF EU sex combined 76 SNPs clumped	gKN3jp	HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	235.254840715161	69	5.2222004911352e-20
+Hubel BF EU sex combined 76 SNPs clumped	gKN3jp	HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	233.201667179138	68	5.83283887176863e-20
+Hubel BF EU sex combined 76 SNPs clumped	gKN3jp	HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	235.996514237969	69	4.00009411345585e-20
+Hubel BF EU sex combined 76 SNPs clumped	gKN3jp	HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	235.177647852446	69	5.36903358197052e-20
+Hubel BF EU sex combined 76 SNPs clumped	gKN3jp	HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0169309790077156	69	1
+Hubel BF EU sex combined 76 SNPs clumped	GnMtdO	IDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	229.629684465771	69	3.90263805800596e-19
+Hubel BF EU sex combined 76 SNPs clumped	GnMtdO	IDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	220.492851289174	68	5.39638488940934e-18
+Hubel BF EU sex combined 76 SNPs clumped	GnMtdO	IDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	229.726103678626	69	3.77099641324832e-19
+Hubel BF EU sex combined 76 SNPs clumped	GnMtdO	IDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	229.622530685866	69	3.91258544339213e-19
+Hubel BF EU sex combined 76 SNPs clumped	GnMtdO	IDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.015102939397335	69	1
+Hubel BF EU sex combined 76 SNPs clumped	gq8JG5	M-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	142.345181700758	69	5.09085034744394e-07
+Hubel BF EU sex combined 76 SNPs clumped	gq8JG5	M-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	140.90127289311	68	5.13295750227378e-07
+Hubel BF EU sex combined 76 SNPs clumped	gq8JG5	M-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	142.46347400293	69	4.93055151966937e-07
+Hubel BF EU sex combined 76 SNPs clumped	gq8JG5	M-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	142.266957981652	69	5.19964234093374e-07
+Hubel BF EU sex combined 76 SNPs clumped	gq8JG5	M-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0103155733133466	69	1
+Hubel BF EU sex combined 76 SNPs clumped	gr7bTG	L-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	158.01615711453	69	6.15845415003272e-09
+Hubel BF EU sex combined 76 SNPs clumped	gr7bTG	L-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	158.516392136735	68	3.43569861340658e-09
+Hubel BF EU sex combined 76 SNPs clumped	gr7bTG	L-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	158.585358327514	69	5.21332850580813e-09
+Hubel BF EU sex combined 76 SNPs clumped	gr7bTG	L-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	157.876999240551	69	6.4140782120981e-09
+Hubel BF EU sex combined 76 SNPs clumped	gr7bTG	L-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0147957883903024	69	1
+Hubel BF EU sex combined 76 SNPs clumped	GswnUa	XL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	104.227479003482	69	0.00395299423521269
+Hubel BF EU sex combined 76 SNPs clumped	GswnUa	XL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	102.985360460447	68	0.00396451452039087
+Hubel BF EU sex combined 76 SNPs clumped	GswnUa	XL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	104.247112820262	69	0.0039380808781963
+Hubel BF EU sex combined 76 SNPs clumped	GswnUa	XL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	104.223580362556	69	0.00395596177377724
+Hubel BF EU sex combined 76 SNPs clumped	GswnUa	XL-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00932660751767097	69	1
+Hubel BF EU sex combined 76 SNPs clumped	hdLwGF	S-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	109.896667582553	69	0.00127308396931386
+Hubel BF EU sex combined 76 SNPs clumped	hdLwGF	S-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	106.976023276709	68	0.00179335944891633
+Hubel BF EU sex combined 76 SNPs clumped	hdLwGF	S-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	110.1219333521	69	0.00121500307506279
+Hubel BF EU sex combined 76 SNPs clumped	hdLwGF	S-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	109.812502087544	69	0.00129544874190056
+Hubel BF EU sex combined 76 SNPs clumped	hdLwGF	S-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0112964514918043	69	1
+Hubel BF EU sex combined 76 SNPs clumped	HRJkZd	L-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	227.300726444164	69	8.92380657809089e-19
+Hubel BF EU sex combined 76 SNPs clumped	HRJkZd	L-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	225.650492928016	68	8.69835764339582e-19
+Hubel BF EU sex combined 76 SNPs clumped	HRJkZd	L-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	227.653646847359	69	7.8743444374129e-19
+Hubel BF EU sex combined 76 SNPs clumped	HRJkZd	L-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	227.259007735633	69	9.05671964889209e-19
+Hubel BF EU sex combined 76 SNPs clumped	HRJkZd	L-LDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.015720476290081	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Ht6prJ	S-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	162.788765849861	69	1.50438880144645e-09
+Hubel BF EU sex combined 76 SNPs clumped	Ht6prJ	S-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	160.714607057038	68	1.78694716327174e-09
+Hubel BF EU sex combined 76 SNPs clumped	Ht6prJ	S-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	162.966534009236	69	1.42668054254849e-09
+Hubel BF EU sex combined 76 SNPs clumped	Ht6prJ	S-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	162.765237688272	69	1.51498172025528e-09
+Hubel BF EU sex combined 76 SNPs clumped	Ht6prJ	S-VLDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0115172076962432	69	1
+Hubel BF EU sex combined 76 SNPs clumped	HTNqQh	His.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	92.9306535281741	69	0.0290167544008987
+Hubel BF EU sex combined 76 SNPs clumped	HTNqQh	His.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	89.9869260854745	68	0.0384168667669797
+Hubel BF EU sex combined 76 SNPs clumped	HTNqQh	His.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	92.9325827705027	69	0.0290078284160036
+Hubel BF EU sex combined 76 SNPs clumped	HTNqQh	His.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	92.930521091235	69	0.0290173672322283
+Hubel BF EU sex combined 76 SNPs clumped	HTNqQh	His.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00729078688737137	69	1
+Hubel BF EU sex combined 76 SNPs clumped	HTvBZ1	M-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	140.251515296108	69	8.93610027300304e-07
+Hubel BF EU sex combined 76 SNPs clumped	HTvBZ1	M-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	137.674966160445	68	1.22248875522843e-06
+Hubel BF EU sex combined 76 SNPs clumped	HTvBZ1	M-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	140.397724651091	69	8.59371248625049e-07
+Hubel BF EU sex combined 76 SNPs clumped	HTvBZ1	M-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	140.234780536121	69	8.97612967782366e-07
+Hubel BF EU sex combined 76 SNPs clumped	HTvBZ1	M-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00854996552276652	69	1
+Hubel BF EU sex combined 76 SNPs clumped	HUfYic	S-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	78.3945946126469	69	0.205471733386614
+Hubel BF EU sex combined 76 SNPs clumped	HUfYic	S-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	78.0900194658615	68	0.188804515793022
+Hubel BF EU sex combined 76 SNPs clumped	HUfYic	S-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	78.4452047186609	69	0.204348449660643
+Hubel BF EU sex combined 76 SNPs clumped	HUfYic	S-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	78.3859199743249	69	0.205664681224545
+Hubel BF EU sex combined 76 SNPs clumped	HUfYic	S-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0057103640682181	69	1
+Hubel BF EU sex combined 76 SNPs clumped	I0HUh1	IDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	91.7504693597329	69	0.0349475460759443
+Hubel BF EU sex combined 76 SNPs clumped	I0HUh1	IDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	91.664340539099	68	0.0295038649407844
+Hubel BF EU sex combined 76 SNPs clumped	I0HUh1	IDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	91.7569464373905	69	0.034912321756551
+Hubel BF EU sex combined 76 SNPs clumped	I0HUh1	IDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	91.7493254049306	69	0.0349537704485154
+Hubel BF EU sex combined 76 SNPs clumped	I0HUh1	IDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0089741395895086	69	1
+Hubel BF EU sex combined 76 SNPs clumped	I0jeD7	S-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	154.034810262665	69	1.95213807169428e-08
+Hubel BF EU sex combined 76 SNPs clumped	I0jeD7	S-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	149.903787056604	68	4.19275565105445e-08
+Hubel BF EU sex combined 76 SNPs clumped	I0jeD7	S-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	154.03498183442	69	1.9520418949132e-08
+Hubel BF EU sex combined 76 SNPs clumped	I0jeD7	S-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	154.034766680211	69	1.95216250314907e-08
+Hubel BF EU sex combined 76 SNPs clumped	I0jeD7	S-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0110472382912205	69	1
+Hubel BF EU sex combined 76 SNPs clumped	i2GSNq	M-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	184.323958086654	69	1.88977437997052e-12
+Hubel BF EU sex combined 76 SNPs clumped	i2GSNq	M-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	182.763429008798	68	1.87801307824182e-12
+Hubel BF EU sex combined 76 SNPs clumped	i2GSNq	M-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	184.410565991294	69	1.83792148584402e-12
+Hubel BF EU sex combined 76 SNPs clumped	i2GSNq	M-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	184.314682451386	69	1.89541299444199e-12
+Hubel BF EU sex combined 76 SNPs clumped	i2GSNq	M-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0121370276532602	69	1
+Hubel BF EU sex combined 76 SNPs clumped	iBl3js	VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	80.5597266981885	69	0.161104173543501
+Hubel BF EU sex combined 76 SNPs clumped	iBl3js	VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	80.1903705729643	68	0.147996530694339
+Hubel BF EU sex combined 76 SNPs clumped	iBl3js	VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	80.5874452147478	69	0.160584740057873
+Hubel BF EU sex combined 76 SNPs clumped	iBl3js	VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	80.5502806770501	69	0.161281465168497
+Hubel BF EU sex combined 76 SNPs clumped	iBl3js	VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00535882770067246	69	1
+Hubel BF EU sex combined 76 SNPs clumped	igZjzw	M-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	111.815250223783	69	0.000851969637467441
+Hubel BF EU sex combined 76 SNPs clumped	igZjzw	M-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	108.053318603631	68	0.00143750480438994
+Hubel BF EU sex combined 76 SNPs clumped	igZjzw	M-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	111.942485500818	69	0.000829316529768912
+Hubel BF EU sex combined 76 SNPs clumped	igZjzw	M-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	111.766917439114	69	0.000860727430679681
+Hubel BF EU sex combined 76 SNPs clumped	igZjzw	M-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0110130719354688	69	1
+Hubel BF EU sex combined 76 SNPs clumped	IhVZSW	GlycA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	136.748834353663	69	2.25501036046703e-06
+Hubel BF EU sex combined 76 SNPs clumped	IhVZSW	GlycA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	136.967579546516	68	1.47539435933166e-06
+Hubel BF EU sex combined 76 SNPs clumped	IhVZSW	GlycA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	137.284349547279	69	1.95998193739744e-06
+Hubel BF EU sex combined 76 SNPs clumped	IhVZSW	GlycA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	136.6876009866	69	2.2913875625542e-06
+Hubel BF EU sex combined 76 SNPs clumped	IhVZSW	GlycA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00985124122418596	69	1
+Hubel BF EU sex combined 76 SNPs clumped	inxP7c	XXL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	65.8873979085589	69	0.583965803717741
+Hubel BF EU sex combined 76 SNPs clumped	inxP7c	XXL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	65.8630018537949	68	0.550864122261453
+Hubel BF EU sex combined 76 SNPs clumped	inxP7c	XXL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	65.8957674734717	69	0.583679407636109
+Hubel BF EU sex combined 76 SNPs clumped	inxP7c	XXL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	65.8860511472948	69	0.584011886323697
+Hubel BF EU sex combined 76 SNPs clumped	inxP7c	XXL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00517014333057435	69	1
+Hubel BF EU sex combined 76 SNPs clumped	iRUC5Y	IDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	128.913893606142	69	1.65800223915583e-05
+Hubel BF EU sex combined 76 SNPs clumped	iRUC5Y	IDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	124.959538952885	68	3.14728593376065e-05
+Hubel BF EU sex combined 76 SNPs clumped	iRUC5Y	IDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	128.938253346029	69	1.64803019825902e-05
+Hubel BF EU sex combined 76 SNPs clumped	iRUC5Y	IDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	128.911990728694	69	1.65878367109539e-05
+Hubel BF EU sex combined 76 SNPs clumped	iRUC5Y	IDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0109587029995054	69	1
+Hubel BF EU sex combined 76 SNPs clumped	IVqcAl	Val.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	115.014414957193	69	0.000427709068182982
+Hubel BF EU sex combined 76 SNPs clumped	IVqcAl	Val.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	107.19841907565	68	0.00171372532550485
+Hubel BF EU sex combined 76 SNPs clumped	IVqcAl	Val.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	115.417034751986	69	0.000391524796945802
+Hubel BF EU sex combined 76 SNPs clumped	IVqcAl	Val.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	115.00273785138	69	0.000428804636617003
+Hubel BF EU sex combined 76 SNPs clumped	IVqcAl	Val.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00867640442498661	69	1
+Hubel BF EU sex combined 76 SNPs clumped	j1O7so	S-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	154.034810262665	69	1.95213807169428e-08
+Hubel BF EU sex combined 76 SNPs clumped	j1O7so	S-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	149.903787056604	68	4.19275565105445e-08
+Hubel BF EU sex combined 76 SNPs clumped	j1O7so	S-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	154.03498183442	69	1.9520418949132e-08
+Hubel BF EU sex combined 76 SNPs clumped	j1O7so	S-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	154.034766680211	69	1.95216250314907e-08
+Hubel BF EU sex combined 76 SNPs clumped	j1O7so	S-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0110472382912205	69	1
+Hubel BF EU sex combined 76 SNPs clumped	J4FHDh	XXL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	81.4360710908315	69	0.145264556433236
+Hubel BF EU sex combined 76 SNPs clumped	J4FHDh	XXL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	80.8803592430418	68	0.136120009046358
+Hubel BF EU sex combined 76 SNPs clumped	J4FHDh	XXL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	81.4875400703254	69	0.144371382471331
+Hubel BF EU sex combined 76 SNPs clumped	J4FHDh	XXL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	81.4044408608309	69	0.145815481584544
+Hubel BF EU sex combined 76 SNPs clumped	J4FHDh	XXL-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00741761673303647	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ja3TPn	LAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	99.1025232110702	69	0.0102254891456604
+Hubel BF EU sex combined 76 SNPs clumped	ja3TPn	LAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	99.0226006265584	68	0.0083527552317679
+Hubel BF EU sex combined 76 SNPs clumped	ja3TPn	LAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	99.1035242744844	69	0.0102236649922239
+Hubel BF EU sex combined 76 SNPs clumped	ja3TPn	LAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	99.1024102351945	69	0.0102256950306447
+Hubel BF EU sex combined 76 SNPs clumped	ja3TPn	LAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0089701244101689	69	1
+Hubel BF EU sex combined 76 SNPs clumped	jJ3sIs	M-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	117.670374168518	69	0.000237138239497361
+Hubel BF EU sex combined 76 SNPs clumped	jJ3sIs	M-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	115.215341686315	68	0.00030761919148225
+Hubel BF EU sex combined 76 SNPs clumped	jJ3sIs	M-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	117.670980827756	69	0.000237105872308603
+Hubel BF EU sex combined 76 SNPs clumped	jJ3sIs	M-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	117.669917358191	69	0.000237162614563286
+Hubel BF EU sex combined 76 SNPs clumped	jJ3sIs	M-LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00890666174452783	69	1
+Hubel BF EU sex combined 76 SNPs clumped	JJfyJD	L-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	120.535641342204	69	0.000123361806062566
+Hubel BF EU sex combined 76 SNPs clumped	JJfyJD	L-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	118.504093644949	68	0.000145719130139664
+Hubel BF EU sex combined 76 SNPs clumped	JJfyJD	L-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	120.558566970891	69	0.000122709818301403
+Hubel BF EU sex combined 76 SNPs clumped	JJfyJD	L-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	120.53010739428	69	0.000123519685400575
+Hubel BF EU sex combined 76 SNPs clumped	JJfyJD	L-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00840133183470138	69	1
+Hubel BF EU sex combined 76 SNPs clumped	jmF9v1	L-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	120.535641342204	69	0.000123361806062566
+Hubel BF EU sex combined 76 SNPs clumped	jmF9v1	L-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	118.504093644949	68	0.000145719130139664
+Hubel BF EU sex combined 76 SNPs clumped	jmF9v1	L-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	120.558566970891	69	0.000122709818301403
+Hubel BF EU sex combined 76 SNPs clumped	jmF9v1	L-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	120.53010739428	69	0.000123519685400575
+Hubel BF EU sex combined 76 SNPs clumped	jmF9v1	L-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00840133183470138	69	1
+Hubel BF EU sex combined 76 SNPs clumped	jnj4T6	S-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	134.257030419492	69	4.30282814424609e-06
+Hubel BF EU sex combined 76 SNPs clumped	jnj4T6	S-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	126.916500343463	68	1.94576436994792e-05
+Hubel BF EU sex combined 76 SNPs clumped	jnj4T6	S-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	134.385634377292	69	4.16278570644671e-06
+Hubel BF EU sex combined 76 SNPs clumped	jnj4T6	S-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	134.164566874514	69	4.4063404234712e-06
+Hubel BF EU sex combined 76 SNPs clumped	jnj4T6	S-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0136678254563842	69	1
+Hubel BF EU sex combined 76 SNPs clumped	JOpQ98	XL-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	200.450734973927	69	9.46597505599848e-15
+Hubel BF EU sex combined 76 SNPs clumped	JOpQ98	XL-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	192.373139742048	68	8.12581697890741e-14
+Hubel BF EU sex combined 76 SNPs clumped	JOpQ98	XL-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	200.467809064254	69	9.41194033457113e-15
+Hubel BF EU sex combined 76 SNPs clumped	JOpQ98	XL-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	200.448771785829	69	9.47220770645712e-15
+Hubel BF EU sex combined 76 SNPs clumped	JOpQ98	XL-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0144457842163116	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Jq1tOh	M-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	118.758340779153	69	0.000185408972386141
+Hubel BF EU sex combined 76 SNPs clumped	Jq1tOh	M-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	117.1218714241	68	0.000200052938126798
+Hubel BF EU sex combined 76 SNPs clumped	Jq1tOh	M-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	118.878244527353	69	0.000180420041265169
+Hubel BF EU sex combined 76 SNPs clumped	Jq1tOh	M-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	118.685106731911	69	0.000188520837469571
+Hubel BF EU sex combined 76 SNPs clumped	Jq1tOh	M-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00840169123947608	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ju4QFk	AcAce.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	68.6738633944457	69	0.488430161875442
+Hubel BF EU sex combined 76 SNPs clumped	ju4QFk	AcAce.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	68.5524851109925	68	0.458419957164231
+Hubel BF EU sex combined 76 SNPs clumped	ju4QFk	AcAce.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	68.6740556018469	69	0.488423621828852
+Hubel BF EU sex combined 76 SNPs clumped	ju4QFk	AcAce.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	68.6738080269452	69	0.488432045812149
+Hubel BF EU sex combined 76 SNPs clumped	ju4QFk	AcAce.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00594272895308767	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Jyx305	M-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	113.139778302755	69	0.000642351146971511
+Hubel BF EU sex combined 76 SNPs clumped	Jyx305	M-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	109.35279568452	68	0.00109665354370976
+Hubel BF EU sex combined 76 SNPs clumped	Jyx305	M-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	113.20750172917	69	0.000633072126658272
+Hubel BF EU sex combined 76 SNPs clumped	Jyx305	M-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	113.105221256096	69	0.000647135537776536
+Hubel BF EU sex combined 76 SNPs clumped	Jyx305	M-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0102283876165652	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Kimyxx	L-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	158.01615711453	69	6.15845415003272e-09
+Hubel BF EU sex combined 76 SNPs clumped	Kimyxx	L-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	158.516392136735	68	3.43569861340658e-09
+Hubel BF EU sex combined 76 SNPs clumped	Kimyxx	L-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	158.585358327514	69	5.21332850580813e-09
+Hubel BF EU sex combined 76 SNPs clumped	Kimyxx	L-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	157.876999240551	69	6.4140782120981e-09
+Hubel BF EU sex combined 76 SNPs clumped	Kimyxx	L-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0147957883903024	69	1
+Hubel BF EU sex combined 76 SNPs clumped	KKsLyS	XL-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	223.837564171187	69	3.03330183756334e-18
+Hubel BF EU sex combined 76 SNPs clumped	KKsLyS	XL-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	221.211869919268	68	4.18839248955782e-18
+Hubel BF EU sex combined 76 SNPs clumped	KKsLyS	XL-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	223.935217885743	69	2.93074558065693e-18
+Hubel BF EU sex combined 76 SNPs clumped	KKsLyS	XL-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	223.831976983743	69	3.0392763163493e-18
+Hubel BF EU sex combined 76 SNPs clumped	KKsLyS	XL-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0137229401262539	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ko4eC2	CLAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	99.1025232110702	69	0.0102254891456604
+Hubel BF EU sex combined 76 SNPs clumped	ko4eC2	CLAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	99.0226006265584	68	0.0083527552317679
+Hubel BF EU sex combined 76 SNPs clumped	ko4eC2	CLAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	99.1035242744844	69	0.0102236649922239
+Hubel BF EU sex combined 76 SNPs clumped	ko4eC2	CLAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	99.1024102351945	69	0.0102256950306447
+Hubel BF EU sex combined 76 SNPs clumped	ko4eC2	CLAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0089701244101689	69	1
+Hubel BF EU sex combined 76 SNPs clumped	KpQdNb	S-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	107.715491299021	69	0.00198790266177446
+Hubel BF EU sex combined 76 SNPs clumped	KpQdNb	S-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	104.650332372471	68	0.00286188991265301
+Hubel BF EU sex combined 76 SNPs clumped	KpQdNb	S-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	107.865682731294	69	0.00192856578500034
+Hubel BF EU sex combined 76 SNPs clumped	KpQdNb	S-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	107.630850037546	69	0.0020220921323639
+Hubel BF EU sex combined 76 SNPs clumped	KpQdNb	S-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0114105325920799	69	1
+Hubel BF EU sex combined 76 SNPs clumped	kZXRAt	XL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	95.505360971799	69	0.0190462966189032
+Hubel BF EU sex combined 76 SNPs clumped	kZXRAt	XL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	95.4959456049173	68	0.0156104769552761
+Hubel BF EU sex combined 76 SNPs clumped	kZXRAt	XL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	95.5345179607364	69	0.0189534772616537
+Hubel BF EU sex combined 76 SNPs clumped	kZXRAt	XL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	95.5015400044367	69	0.0190584903826343
+Hubel BF EU sex combined 76 SNPs clumped	kZXRAt	XL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00794604040817732	69	1
+Hubel BF EU sex combined 76 SNPs clumped	l7V4KX	XL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	104.227479003482	69	0.00395299423521269
+Hubel BF EU sex combined 76 SNPs clumped	l7V4KX	XL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	102.985360460447	68	0.00396451452039087
+Hubel BF EU sex combined 76 SNPs clumped	l7V4KX	XL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	104.247112820262	69	0.0039380808781963
+Hubel BF EU sex combined 76 SNPs clumped	l7V4KX	XL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	104.223580362556	69	0.00395596177377724
+Hubel BF EU sex combined 76 SNPs clumped	l7V4KX	XL-VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00932660751767097	69	1
+Hubel BF EU sex combined 76 SNPs clumped	LaJ8Av	DHA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	71.2068703226543	69	0.404182743027034
+Hubel BF EU sex combined 76 SNPs clumped	LaJ8Av	DHA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	67.0544050553834	68	0.509649713226268
+Hubel BF EU sex combined 76 SNPs clumped	LaJ8Av	DHA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	71.2108521686384	69	0.404054272446666
+Hubel BF EU sex combined 76 SNPs clumped	LaJ8Av	DHA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	71.2062831362745	69	0.404201689331703
+Hubel BF EU sex combined 76 SNPs clumped	LaJ8Av	DHA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00565694755928645	69	1
+Hubel BF EU sex combined 76 SNPs clumped	lgEbnA	S-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	238.446621848961	69	1.65421641872588e-20
+Hubel BF EU sex combined 76 SNPs clumped	lgEbnA	S-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	232.806127631553	68	6.72548197404988e-20
+Hubel BF EU sex combined 76 SNPs clumped	lgEbnA	S-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	238.562557402393	69	1.58638798666096e-20
+Hubel BF EU sex combined 76 SNPs clumped	lgEbnA	S-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	238.44117899515	69	1.65747078580735e-20
+Hubel BF EU sex combined 76 SNPs clumped	lgEbnA	S-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0152980298457626	69	1
+Hubel BF EU sex combined 76 SNPs clumped	lGp3RD	M-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	141.771897852308	69	5.94286598072644e-07
+Hubel BF EU sex combined 76 SNPs clumped	lGp3RD	M-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	139.400819178077	68	7.70076163861149e-07
+Hubel BF EU sex combined 76 SNPs clumped	lGp3RD	M-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	141.777833515663	69	5.93336737865466e-07
+Hubel BF EU sex combined 76 SNPs clumped	lGp3RD	M-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	141.771633521264	69	5.9432893249051e-07
+Hubel BF EU sex combined 76 SNPs clumped	lGp3RD	M-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00927603447440877	69	1
+Hubel BF EU sex combined 76 SNPs clumped	LjFyXZ	L-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	104.026313817715	69	0.00410884184399959
+Hubel BF EU sex combined 76 SNPs clumped	LjFyXZ	L-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	99.439980786722	68	0.00773827458096438
+Hubel BF EU sex combined 76 SNPs clumped	LjFyXZ	L-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	104.029241401576	69	0.00410653348519695
+Hubel BF EU sex combined 76 SNPs clumped	LjFyXZ	L-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	104.026089852922	69	0.00410901848662609
+Hubel BF EU sex combined 76 SNPs clumped	LjFyXZ	L-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0113090644004267	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ltWUfD	FreeC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	95.6254077992001	69	0.0186667168206891
+Hubel BF EU sex combined 76 SNPs clumped	ltWUfD	FreeC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	93.6316288599008	68	0.0214003604117962
+Hubel BF EU sex combined 76 SNPs clumped	ltWUfD	FreeC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	95.6264891748289	69	0.0186633284560692
+Hubel BF EU sex combined 76 SNPs clumped	ltWUfD	FreeC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	95.6251143106983	69	0.0186676365273608
+Hubel BF EU sex combined 76 SNPs clumped	ltWUfD	FreeC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00852236792424733	69	1
+Hubel BF EU sex combined 76 SNPs clumped	LVR1Ye	XL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	225.025969589307	69	1.99503382517023e-18
+Hubel BF EU sex combined 76 SNPs clumped	LVR1Ye	XL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	221.001001552422	68	4.51168640030918e-18
+Hubel BF EU sex combined 76 SNPs clumped	LVR1Ye	XL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	225.026717516424	69	1.99450724569383e-18
+Hubel BF EU sex combined 76 SNPs clumped	LVR1Ye	XL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	225.02507962065	69	1.99566058946053e-18
+Hubel BF EU sex combined 76 SNPs clumped	LVR1Ye	XL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0151344481441894	69	1
+Hubel BF EU sex combined 76 SNPs clumped	lxgLof	M-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	110.544369099132	69	0.00111276202975207
+Hubel BF EU sex combined 76 SNPs clumped	lxgLof	M-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	109.71037262758	68	0.00101720849388773
+Hubel BF EU sex combined 76 SNPs clumped	lxgLof	M-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	110.792466758293	69	0.00105656000287339
+Hubel BF EU sex combined 76 SNPs clumped	lxgLof	M-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	110.473872679812	69	0.00112923960751077
+Hubel BF EU sex combined 76 SNPs clumped	lxgLof	M-LDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.010255479396128	69	1
+Hubel BF EU sex combined 76 SNPs clumped	m1AGkZ	IDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	128.913893606142	69	1.65800223915583e-05
+Hubel BF EU sex combined 76 SNPs clumped	m1AGkZ	IDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	124.959538952885	68	3.14728593376065e-05
+Hubel BF EU sex combined 76 SNPs clumped	m1AGkZ	IDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	128.938253346029	69	1.64803019825902e-05
+Hubel BF EU sex combined 76 SNPs clumped	m1AGkZ	IDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	128.911990728694	69	1.65878367109539e-05
+Hubel BF EU sex combined 76 SNPs clumped	m1AGkZ	IDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0109587029995054	69	1
+Hubel BF EU sex combined 76 SNPs clumped	MaEq7x	M-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	117.670374168518	69	0.000237138239497361
+Hubel BF EU sex combined 76 SNPs clumped	MaEq7x	M-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	115.215341686315	68	0.00030761919148225
+Hubel BF EU sex combined 76 SNPs clumped	MaEq7x	M-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	117.670980827756	69	0.000237105872308603
+Hubel BF EU sex combined 76 SNPs clumped	MaEq7x	M-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	117.669917358191	69	0.000237162614563286
+Hubel BF EU sex combined 76 SNPs clumped	MaEq7x	M-LDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00890666174452783	69	1
+Hubel BF EU sex combined 76 SNPs clumped	mg56VE	IDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	97.136984177829	69	0.0144331240026093
+Hubel BF EU sex combined 76 SNPs clumped	mg56VE	IDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	97.0451682510909	68	0.0119145326558352
+Hubel BF EU sex combined 76 SNPs clumped	mg56VE	IDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	97.1800329719365	69	0.0143263404536834
+Hubel BF EU sex combined 76 SNPs clumped	mg56VE	IDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	97.1257771671323	69	0.0144610404697128
+Hubel BF EU sex combined 76 SNPs clumped	mg56VE	IDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00799437299934794	69	1
+Hubel BF EU sex combined 76 SNPs clumped	mH2UCQ	L-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	102.784757180442	69	0.00520373007242594
+Hubel BF EU sex combined 76 SNPs clumped	mH2UCQ	L-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	102.515722225765	68	0.0043403972927373
+Hubel BF EU sex combined 76 SNPs clumped	mH2UCQ	L-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	102.828243290027	69	0.00516121631516407
+Hubel BF EU sex combined 76 SNPs clumped	mH2UCQ	L-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	102.769864026961	69	0.00521836436759226
+Hubel BF EU sex combined 76 SNPs clumped	mH2UCQ	L-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00884349445902716	69	1
+Hubel BF EU sex combined 76 SNPs clumped	MKRZTg	L-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	317.828551271158	69	1.32570230007903e-33
+Hubel BF EU sex combined 76 SNPs clumped	MKRZTg	L-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	315.401464906114	68	1.59342249332103e-33
+Hubel BF EU sex combined 76 SNPs clumped	MKRZTg	L-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	319.709259597633	69	6.29831008522147e-34
+Hubel BF EU sex combined 76 SNPs clumped	MKRZTg	L-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	317.728821735458	69	1.37902388091361e-33
+Hubel BF EU sex combined 76 SNPs clumped	MKRZTg	L-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0209810422504955	69	1
+Hubel BF EU sex combined 76 SNPs clumped	mQvZUp	M-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	142.345181700758	69	5.09085034744394e-07
+Hubel BF EU sex combined 76 SNPs clumped	mQvZUp	M-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	140.90127289311	68	5.13295750227378e-07
+Hubel BF EU sex combined 76 SNPs clumped	mQvZUp	M-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	142.46347400293	69	4.93055151966937e-07
+Hubel BF EU sex combined 76 SNPs clumped	mQvZUp	M-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	142.266957981652	69	5.19964234093374e-07
+Hubel BF EU sex combined 76 SNPs clumped	mQvZUp	M-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0103155733133466	69	1
+Hubel BF EU sex combined 76 SNPs clumped	mqyif6	Glc.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	57.5555483388295	69	0.835557683951305
+Hubel BF EU sex combined 76 SNPs clumped	mqyif6	Glc.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	55.8902528953386	68	0.85297133140892
+Hubel BF EU sex combined 76 SNPs clumped	mqyif6	Glc.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	57.5575712052978	69	0.835509541033521
+Hubel BF EU sex combined 76 SNPs clumped	mqyif6	Glc.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	57.5554814391212	69	0.835559275984752
+Hubel BF EU sex combined 76 SNPs clumped	mqyif6	Glc.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00823549020800522	69	1
+Hubel BF EU sex combined 76 SNPs clumped	mvHuUB	S-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	98.0086167042272	69	0.0124049350925303
+Hubel BF EU sex combined 76 SNPs clumped	mvHuUB	S-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	98.0204602599374	68	0.0100142750759253
+Hubel BF EU sex combined 76 SNPs clumped	mvHuUB	S-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	98.0205433954646	69	0.0123790649444136
+Hubel BF EU sex combined 76 SNPs clumped	mvHuUB	S-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	98.0075517284035	69	0.0124072475030662
+Hubel BF EU sex combined 76 SNPs clumped	mvHuUB	S-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00736682949274303	69	1
+Hubel BF EU sex combined 76 SNPs clumped	n84hSm	ApoBbyApoA1.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	230.049102644956	69	3.36137210127033e-19
+Hubel BF EU sex combined 76 SNPs clumped	n84hSm	ApoBbyApoA1.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	229.701995631441	68	2.04952368674414e-19
+Hubel BF EU sex combined 76 SNPs clumped	n84hSm	ApoBbyApoA1.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	230.55487710061	69	2.80712526524853e-19
+Hubel BF EU sex combined 76 SNPs clumped	n84hSm	ApoBbyApoA1.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	230.001626486692	69	3.41868216553538e-19
+Hubel BF EU sex combined 76 SNPs clumped	n84hSm	ApoBbyApoA1.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0159364674982788	69	1
+Hubel BF EU sex combined 76 SNPs clumped	N8LdDC	L-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	116.886712891012	69	0.000282674582553996
+Hubel BF EU sex combined 76 SNPs clumped	N8LdDC	L-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	115.643299345653	68	0.000279492859888427
+Hubel BF EU sex combined 76 SNPs clumped	N8LdDC	L-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	116.999135206677	69	0.000275663372319738
+Hubel BF EU sex combined 76 SNPs clumped	N8LdDC	L-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	116.855757810613	69	0.000284634820346494
+Hubel BF EU sex combined 76 SNPs clumped	N8LdDC	L-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.011285790451964	69	1
+Hubel BF EU sex combined 76 SNPs clumped	nHAHJP	M-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	93.0468778668197	69	0.0284832907911479
+Hubel BF EU sex combined 76 SNPs clumped	nHAHJP	M-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	90.4819821162279	68	0.0355715075234848
+Hubel BF EU sex combined 76 SNPs clumped	nHAHJP	M-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	93.1286185114033	69	0.0281132679989601
+Hubel BF EU sex combined 76 SNPs clumped	nHAHJP	M-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	92.9996211091156	69	0.0286991520276497
+Hubel BF EU sex combined 76 SNPs clumped	nHAHJP	M-LDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00929101232228492	69	1
+Hubel BF EU sex combined 76 SNPs clumped	NITY3r	XL-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	108.747318972493	69	0.00161243561945327
+Hubel BF EU sex combined 76 SNPs clumped	NITY3r	XL-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	108.966429194591	68	0.0011890656435888
+Hubel BF EU sex combined 76 SNPs clumped	NITY3r	XL-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	109.217781387868	69	0.00146435537865489
+Hubel BF EU sex combined 76 SNPs clumped	NITY3r	XL-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	108.492563762635	69	0.0016983862915698
+Hubel BF EU sex combined 76 SNPs clumped	NITY3r	XL-HDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0111757915667706	69	1
+Hubel BF EU sex combined 76 SNPs clumped	njXyZX	FAw6.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	231.42965718909	69	2.05472134877761e-19
+Hubel BF EU sex combined 76 SNPs clumped	njXyZX	FAw6.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	228.558847001622	68	3.08482487289486e-19
+Hubel BF EU sex combined 76 SNPs clumped	njXyZX	FAw6.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	231.444595906515	69	2.04379378344484e-19
+Hubel BF EU sex combined 76 SNPs clumped	njXyZX	FAw6.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	231.428714930424	69	2.05541255050808e-19
+Hubel BF EU sex combined 76 SNPs clumped	njXyZX	FAw6.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0157131131149328	69	1
+Hubel BF EU sex combined 76 SNPs clumped	NmH3aC	XS-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	79.9478259933758	69	0.172881206866915
+Hubel BF EU sex combined 76 SNPs clumped	NmH3aC	XS-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	79.3991172797826	68	0.162537013903217
+Hubel BF EU sex combined 76 SNPs clumped	NmH3aC	XS-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	79.9939723973462	69	0.171972265809147
+Hubel BF EU sex combined 76 SNPs clumped	NmH3aC	XS-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	79.9322739631878	69	0.17318830016373
+Hubel BF EU sex combined 76 SNPs clumped	NmH3aC	XS-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00890335253603521	69	1
+Hubel BF EU sex combined 76 SNPs clumped	NUIxRf	XL-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	184.934108612367	69	1.55317364809248e-12
+Hubel BF EU sex combined 76 SNPs clumped	NUIxRf	XL-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	176.343036267796	68	1.45854519451163e-11
+Hubel BF EU sex combined 76 SNPs clumped	NUIxRf	XL-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	185.089414182865	69	1.47744644706795e-12
+Hubel BF EU sex combined 76 SNPs clumped	NUIxRf	XL-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	184.922161100514	69	1.55915611406538e-12
+Hubel BF EU sex combined 76 SNPs clumped	NUIxRf	XL-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0129243903447271	69	1
+Hubel BF EU sex combined 76 SNPs clumped	nWwevc	L-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	105.825817809116	69	0.00289626148511816
+Hubel BF EU sex combined 76 SNPs clumped	nWwevc	L-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	105.960424147756	68	0.0022032005829486
+Hubel BF EU sex combined 76 SNPs clumped	nWwevc	L-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	105.960963987227	69	0.00282021143001883
+Hubel BF EU sex combined 76 SNPs clumped	nWwevc	L-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	105.786551123981	69	0.00291871379185344
+Hubel BF EU sex combined 76 SNPs clumped	nWwevc	L-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00982565028094739	69	1
+Hubel BF EU sex combined 76 SNPs clumped	NyJrdi	M-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	140.251515296108	69	8.93610027300304e-07
+Hubel BF EU sex combined 76 SNPs clumped	NyJrdi	M-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	137.674966160445	68	1.22248875522843e-06
+Hubel BF EU sex combined 76 SNPs clumped	NyJrdi	M-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	140.397724651091	69	8.59371248625049e-07
+Hubel BF EU sex combined 76 SNPs clumped	NyJrdi	M-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	140.234780536121	69	8.97612967782366e-07
+Hubel BF EU sex combined 76 SNPs clumped	NyJrdi	M-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00854996552276652	69	1
+Hubel BF EU sex combined 76 SNPs clumped	oDnpir	TotCho.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	83.146180767003	69	0.117729247816232
+Hubel BF EU sex combined 76 SNPs clumped	oDnpir	TotCho.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	82.8439171514631	68	0.106248777099639
+Hubel BF EU sex combined 76 SNPs clumped	oDnpir	TotCho.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	83.1766770724817	69	0.117277397937097
+Hubel BF EU sex combined 76 SNPs clumped	oDnpir	TotCho.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	83.139584664276	69	0.117827155452436
+Hubel BF EU sex combined 76 SNPs clumped	oDnpir	TotCho.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00784384183619011	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Oe1yoT	TGbyPG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	257.209915809428	69	1.71543277716557e-23
+Hubel BF EU sex combined 76 SNPs clumped	Oe1yoT	TGbyPG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	250.49398199951	68	1.05861812615775e-22
+Hubel BF EU sex combined 76 SNPs clumped	Oe1yoT	TGbyPG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	257.210044065423	69	1.71535113422761e-23
+Hubel BF EU sex combined 76 SNPs clumped	Oe1yoT	TGbyPG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	257.209875018688	69	1.715458743826e-23
+Hubel BF EU sex combined 76 SNPs clumped	Oe1yoT	TGbyPG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0167913956794535	69	1
+Hubel BF EU sex combined 76 SNPs clumped	OFFUS2	VLDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	236.26115110779	69	3.63683511442955e-20
+Hubel BF EU sex combined 76 SNPs clumped	OFFUS2	VLDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	231.149442069178	68	1.21986228306617e-19
+Hubel BF EU sex combined 76 SNPs clumped	OFFUS2	VLDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	236.278872868969	69	3.61371706373847e-20
+Hubel BF EU sex combined 76 SNPs clumped	OFFUS2	VLDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	236.257318662269	69	3.64185387189397e-20
+Hubel BF EU sex combined 76 SNPs clumped	OFFUS2	VLDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0151002776686581	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ogTa87	S-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	111.353389160368	69	0.000939220688923073
+Hubel BF EU sex combined 76 SNPs clumped	ogTa87	S-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	110.317775381828	68	0.000894588961368431
+Hubel BF EU sex combined 76 SNPs clumped	ogTa87	S-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	111.479432752708	69	0.000914605747313367
+Hubel BF EU sex combined 76 SNPs clumped	ogTa87	S-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	111.278614478599	69	0.000954118135309927
+Hubel BF EU sex combined 76 SNPs clumped	ogTa87	S-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00850669923026026	69	1
+Hubel BF EU sex combined 76 SNPs clumped	OPcXoH	L-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	165.140158503095	69	7.43654536490391e-10
+Hubel BF EU sex combined 76 SNPs clumped	OPcXoH	L-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	165.891957156793	68	3.74544730800192e-10
+Hubel BF EU sex combined 76 SNPs clumped	OPcXoH	L-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	165.995059090142	69	5.74675473170391e-10
+Hubel BF EU sex combined 76 SNPs clumped	OPcXoH	L-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	164.894947523709	69	8.00595471819711e-10
+Hubel BF EU sex combined 76 SNPs clumped	OPcXoH	L-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0166410232127297	69	1
+Hubel BF EU sex combined 76 SNPs clumped	oqLJJk	M-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	106.718388918848	69	0.00242736126963416
+Hubel BF EU sex combined 76 SNPs clumped	oqLJJk	M-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	105.894981370846	68	0.00223241287195625
+Hubel BF EU sex combined 76 SNPs clumped	oqLJJk	M-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	106.812809286519	69	0.00238214423385749
+Hubel BF EU sex combined 76 SNPs clumped	oqLJJk	M-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	106.656526876461	69	0.00245742021464335
+Hubel BF EU sex combined 76 SNPs clumped	oqLJJk	M-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00769536038737398	69	1
+Hubel BF EU sex combined 76 SNPs clumped	orzqyl	M-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	111.815250223783	69	0.000851969637467441
+Hubel BF EU sex combined 76 SNPs clumped	orzqyl	M-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	108.053318603631	68	0.00143750480438994
+Hubel BF EU sex combined 76 SNPs clumped	orzqyl	M-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	111.942485500818	69	0.000829316529768912
+Hubel BF EU sex combined 76 SNPs clumped	orzqyl	M-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	111.766917439114	69	0.000860727430679681
+Hubel BF EU sex combined 76 SNPs clumped	orzqyl	M-LDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0110130719354688	69	1
+Hubel BF EU sex combined 76 SNPs clumped	OvXvy0	FAw3byFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	71.1247266290704	69	0.406836387818779
+Hubel BF EU sex combined 76 SNPs clumped	OvXvy0	FAw3byFA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	65.8780836236322	68	0.550341784886553
+Hubel BF EU sex combined 76 SNPs clumped	OvXvy0	FAw3byFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	71.1326343206049	69	0.406580653620935
+Hubel BF EU sex combined 76 SNPs clumped	OvXvy0	FAw3byFA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	71.1246037202116	69	0.406840363145862
+Hubel BF EU sex combined 76 SNPs clumped	OvXvy0	FAw3byFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00549008439260702	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Oy9F7z	XS-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	124.473043338253	69	4.88714174673354e-05
+Hubel BF EU sex combined 76 SNPs clumped	Oy9F7z	XS-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	124.282955536599	68	3.71019132069229e-05
+Hubel BF EU sex combined 76 SNPs clumped	Oy9F7z	XS-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	124.60136139976	69	4.73938415484564e-05
+Hubel BF EU sex combined 76 SNPs clumped	Oy9F7z	XS-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	124.460237286411	69	4.90212958102683e-05
+Hubel BF EU sex combined 76 SNPs clumped	Oy9F7z	XS-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00921621191050869	69	1
+Hubel BF EU sex combined 76 SNPs clumped	P3DzIh	XXL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	110.769117429954	69	0.00106173282598649
+Hubel BF EU sex combined 76 SNPs clumped	P3DzIh	XXL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	107.625479116729	68	0.00157003619667935
+Hubel BF EU sex combined 76 SNPs clumped	P3DzIh	XXL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	110.799528594446	69	0.001055000215099
+Hubel BF EU sex combined 76 SNPs clumped	P3DzIh	XXL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	110.752953279127	69	0.00106532784487236
+Hubel BF EU sex combined 76 SNPs clumped	P3DzIh	XXL-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0101192119217415	69	1
+Hubel BF EU sex combined 76 SNPs clumped	p7Bz3V	XL-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	184.934108612367	69	1.55317364809248e-12
+Hubel BF EU sex combined 76 SNPs clumped	p7Bz3V	XL-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	176.343036267796	68	1.45854519451163e-11
+Hubel BF EU sex combined 76 SNPs clumped	p7Bz3V	XL-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	185.089414182865	69	1.47744644706795e-12
+Hubel BF EU sex combined 76 SNPs clumped	p7Bz3V	XL-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	184.922161100514	69	1.55915611406538e-12
+Hubel BF EU sex combined 76 SNPs clumped	p7Bz3V	XL-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0129243903447271	69	1
+Hubel BF EU sex combined 76 SNPs clumped	pItIvx	Ala.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	105.372306056985	69	0.00316566630411041
+Hubel BF EU sex combined 76 SNPs clumped	pItIvx	Ala.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	104.279656570871	68	0.00307921809420379
+Hubel BF EU sex combined 76 SNPs clumped	pItIvx	Ala.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	105.404777563551	69	0.00314562678482012
+Hubel BF EU sex combined 76 SNPs clumped	pItIvx	Ala.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	105.359411919644	69	0.00317365674023602
+Hubel BF EU sex combined 76 SNPs clumped	pItIvx	Ala.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00902452656958341	69	1
+Hubel BF EU sex combined 76 SNPs clumped	PNGEdi	XL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	111.111765936116	69	0.000988169135485979
+Hubel BF EU sex combined 76 SNPs clumped	PNGEdi	XL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	111.082825025427	68	0.00075999276974487
+Hubel BF EU sex combined 76 SNPs clumped	PNGEdi	XL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	111.148276620004	69	0.000980621137428076
+Hubel BF EU sex combined 76 SNPs clumped	PNGEdi	XL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	111.096367895179	69	0.000991368871832753
+Hubel BF EU sex combined 76 SNPs clumped	PNGEdi	XL-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00839293285066259	69	1
+Hubel BF EU sex combined 76 SNPs clumped	pQTwRb	M-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	93.0468778668197	69	0.0284832907911479
+Hubel BF EU sex combined 76 SNPs clumped	pQTwRb	M-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	90.4819821162279	68	0.0355715075234848
+Hubel BF EU sex combined 76 SNPs clumped	pQTwRb	M-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	93.1286185114033	69	0.0281132679989601
+Hubel BF EU sex combined 76 SNPs clumped	pQTwRb	M-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	92.9996211091156	69	0.0286991520276497
+Hubel BF EU sex combined 76 SNPs clumped	pQTwRb	M-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00929101232228492	69	1
+Hubel BF EU sex combined 76 SNPs clumped	pWIrUu	XL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	114.573341204111	69	0.000470999798394458
+Hubel BF EU sex combined 76 SNPs clumped	pWIrUu	XL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	114.381683789898	68	0.000370357829473093
+Hubel BF EU sex combined 76 SNPs clumped	pWIrUu	XL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	114.594344891562	69	0.00046884701428968
+Hubel BF EU sex combined 76 SNPs clumped	pWIrUu	XL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	114.566944269822	69	0.000471657322774689
+Hubel BF EU sex combined 76 SNPs clumped	pWIrUu	XL-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00879131151330263	69	1
+Hubel BF EU sex combined 76 SNPs clumped	q2JX6Q	M-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	106.718388918848	69	0.00242736126963416
+Hubel BF EU sex combined 76 SNPs clumped	q2JX6Q	M-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	105.894981370846	68	0.00223241287195625
+Hubel BF EU sex combined 76 SNPs clumped	q2JX6Q	M-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	106.812809286519	69	0.00238214423385749
+Hubel BF EU sex combined 76 SNPs clumped	q2JX6Q	M-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	106.656526876461	69	0.00245742021464335
+Hubel BF EU sex combined 76 SNPs clumped	q2JX6Q	M-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00769536038737398	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Q8pvFS	L-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	87.1687306025353	69	0.0688806674237823
+Hubel BF EU sex combined 76 SNPs clumped	Q8pvFS	L-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	87.0144304333982	68	0.0599386728835112
+Hubel BF EU sex combined 76 SNPs clumped	Q8pvFS	L-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	87.1743474496783	69	0.0688263895353738
+Hubel BF EU sex combined 76 SNPs clumped	Q8pvFS	L-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	87.1681857048043	69	0.0688859348702612
+Hubel BF EU sex combined 76 SNPs clumped	Q8pvFS	L-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0059792481818874	69	1
+Hubel BF EU sex combined 76 SNPs clumped	QAjUQT	Lac.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	55.7640581839063	69	0.87499643560549
+Hubel BF EU sex combined 76 SNPs clumped	QAjUQT	Lac.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	54.8917785513893	68	0.874404895401523
+Hubel BF EU sex combined 76 SNPs clumped	QAjUQT	Lac.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	55.852280093905	69	0.873205835973734
+Hubel BF EU sex combined 76 SNPs clumped	QAjUQT	Lac.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	55.6974645792218	69	0.87633756207131
+Hubel BF EU sex combined 76 SNPs clumped	QAjUQT	Lac.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00854338430989174	69	1
+Hubel BF EU sex combined 76 SNPs clumped	qcLGj7	LA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	99.1025232110702	69	0.0102254891456604
+Hubel BF EU sex combined 76 SNPs clumped	qcLGj7	LA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	99.0226006265584	68	0.0083527552317679
+Hubel BF EU sex combined 76 SNPs clumped	qcLGj7	LA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	99.1035242744844	69	0.0102236649922239
+Hubel BF EU sex combined 76 SNPs clumped	qcLGj7	LA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	99.1024102351945	69	0.0102256950306447
+Hubel BF EU sex combined 76 SNPs clumped	qcLGj7	LA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0089701244101689	69	1
+Hubel BF EU sex combined 76 SNPs clumped	QkS8qa	L-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	223.007159507477	69	4.06283176796531e-18
+Hubel BF EU sex combined 76 SNPs clumped	QkS8qa	L-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	220.224341269263	68	5.93149456801774e-18
+Hubel BF EU sex combined 76 SNPs clumped	QkS8qa	L-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	223.317531334605	69	3.64264318680807e-18
+Hubel BF EU sex combined 76 SNPs clumped	QkS8qa	L-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	222.993510619508	69	4.08237793377199e-18
+Hubel BF EU sex combined 76 SNPs clumped	QkS8qa	L-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0144332847938616	69	1
+Hubel BF EU sex combined 76 SNPs clumped	qnqIYf	IDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	91.7504693597329	69	0.0349475460759443
+Hubel BF EU sex combined 76 SNPs clumped	qnqIYf	IDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	91.664340539099	68	0.0295038649407844
+Hubel BF EU sex combined 76 SNPs clumped	qnqIYf	IDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	91.7569464373905	69	0.034912321756551
+Hubel BF EU sex combined 76 SNPs clumped	qnqIYf	IDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	91.7493254049306	69	0.0349537704485154
+Hubel BF EU sex combined 76 SNPs clumped	qnqIYf	IDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0089741395895086	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Qv7T2P	L-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	165.140158503095	69	7.43654536490391e-10
+Hubel BF EU sex combined 76 SNPs clumped	Qv7T2P	L-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	165.891957156793	68	3.74544730800192e-10
+Hubel BF EU sex combined 76 SNPs clumped	Qv7T2P	L-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	165.995059090142	69	5.74675473170391e-10
+Hubel BF EU sex combined 76 SNPs clumped	Qv7T2P	L-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	164.894947523709	69	8.00595471819711e-10
+Hubel BF EU sex combined 76 SNPs clumped	Qv7T2P	L-HDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0166410232127297	69	1
+Hubel BF EU sex combined 76 SNPs clumped	QvY2Q9	M-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	184.323958086654	69	1.88977437997052e-12
+Hubel BF EU sex combined 76 SNPs clumped	QvY2Q9	M-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	182.763429008798	68	1.87801307824182e-12
+Hubel BF EU sex combined 76 SNPs clumped	QvY2Q9	M-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	184.410565991294	69	1.83792148584402e-12
+Hubel BF EU sex combined 76 SNPs clumped	QvY2Q9	M-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	184.314682451386	69	1.89541299444199e-12
+Hubel BF EU sex combined 76 SNPs clumped	QvY2Q9	M-HDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0121370276532602	69	1
+Hubel BF EU sex combined 76 SNPs clumped	R4KuMZ	L-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	77.2824989141254	69	0.231197060567009
+Hubel BF EU sex combined 76 SNPs clumped	R4KuMZ	L-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	77.3824432332597	68	0.204166120856369
+Hubel BF EU sex combined 76 SNPs clumped	R4KuMZ	L-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	77.3951380109001	69	0.228500986488876
+Hubel BF EU sex combined 76 SNPs clumped	R4KuMZ	L-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	77.2305208414038	69	0.232448022521349
+Hubel BF EU sex combined 76 SNPs clumped	R4KuMZ	L-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00761658504268117	69	1
+Hubel BF EU sex combined 76 SNPs clumped	RPsgHM	HDL2-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	252.666243282486	69	9.21291905168283e-23
+Hubel BF EU sex combined 76 SNPs clumped	RPsgHM	HDL2-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	249.933433669367	68	1.30224471141022e-22
+Hubel BF EU sex combined 76 SNPs clumped	RPsgHM	HDL2-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	253.475681390124	69	6.83404436593922e-23
+Hubel BF EU sex combined 76 SNPs clumped	RPsgHM	HDL2-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	252.56126864353	69	9.57656357764346e-23
+Hubel BF EU sex combined 76 SNPs clumped	RPsgHM	HDL2-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0180410478164724	69	1
+Hubel BF EU sex combined 76 SNPs clumped	rqFrkX	Crea.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	148.112848979063	69	1.04386461065167e-07
+Hubel BF EU sex combined 76 SNPs clumped	rqFrkX	Crea.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	145.294234605307	68	1.53450818606909e-07
+Hubel BF EU sex combined 76 SNPs clumped	rqFrkX	Crea.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	148.114588065541	69	1.04335830294625e-07
+Hubel BF EU sex combined 76 SNPs clumped	rqFrkX	Crea.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	148.112666266333	69	1.04391781858999e-07
+Hubel BF EU sex combined 76 SNPs clumped	rqFrkX	Crea.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0109372442583801	69	1
+Hubel BF EU sex combined 76 SNPs clumped	RR29yP	Gln.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	112.982054526583	69	0.000664464470377933
+Hubel BF EU sex combined 76 SNPs clumped	RR29yP	Gln.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	113.206454163472	68	0.00047983777898474
+Hubel BF EU sex combined 76 SNPs clumped	RR29yP	Gln.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	113.207832932241	69	0.000633027061691364
+Hubel BF EU sex combined 76 SNPs clumped	RR29yP	Gln.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	112.879621179095	69	0.000679210867037583
+Hubel BF EU sex combined 76 SNPs clumped	RR29yP	Gln.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00914156061678751	69	1
+Hubel BF EU sex combined 76 SNPs clumped	RRfkTf	S-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	220.547904302021	69	9.6278635185651e-18
+Hubel BF EU sex combined 76 SNPs clumped	RRfkTf	S-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	219.122023179634	68	8.74009522842447e-18
+Hubel BF EU sex combined 76 SNPs clumped	RRfkTf	S-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	220.66294969682	69	9.24783398984406e-18
+Hubel BF EU sex combined 76 SNPs clumped	RRfkTf	S-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	220.541492445997	69	9.64949491509819e-18
+Hubel BF EU sex combined 76 SNPs clumped	RRfkTf	S-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0151687434787029	69	1
+Hubel BF EU sex combined 76 SNPs clumped	RTUtj0	XS-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	171.562091625613	69	1.05099239810471e-10
+Hubel BF EU sex combined 76 SNPs clumped	RTUtj0	XS-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	169.3725235371	68	1.28757776669328e-10
+Hubel BF EU sex combined 76 SNPs clumped	RTUtj0	XS-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	171.834704502156	69	9.66241913023453e-11
+Hubel BF EU sex combined 76 SNPs clumped	RTUtj0	XS-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	171.5174175436	69	1.065564809487e-10
+Hubel BF EU sex combined 76 SNPs clumped	RTUtj0	XS-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.011120095318103	69	1
+Hubel BF EU sex combined 76 SNPs clumped	RWYzMM	FAw3.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	71.1247266290704	69	0.406836387818779
+Hubel BF EU sex combined 76 SNPs clumped	RWYzMM	FAw3.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	65.8780836236322	68	0.550341784886553
+Hubel BF EU sex combined 76 SNPs clumped	RWYzMM	FAw3.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	71.1326343206049	69	0.406580653620935
+Hubel BF EU sex combined 76 SNPs clumped	RWYzMM	FAw3.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	71.1246037202116	69	0.406840363145862
+Hubel BF EU sex combined 76 SNPs clumped	RWYzMM	FAw3.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00549008439260702	69	1
+Hubel BF EU sex combined 76 SNPs clumped	S2WACk	LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	104.665924797277	69	0.00363213543147718
+Hubel BF EU sex combined 76 SNPs clumped	S2WACk	LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	103.962645526687	68	0.00327718348889975
+Hubel BF EU sex combined 76 SNPs clumped	S2WACk	LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	104.704889385365	69	0.00360482389746047
+Hubel BF EU sex combined 76 SNPs clumped	S2WACk	LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	104.650170417959	69	0.00364323266762708
+Hubel BF EU sex combined 76 SNPs clumped	S2WACk	LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00944085492145878	69	1
+Hubel BF EU sex combined 76 SNPs clumped	SaTDZJ	M-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	184.323958086654	69	1.88977437997052e-12
+Hubel BF EU sex combined 76 SNPs clumped	SaTDZJ	M-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	182.763429008798	68	1.87801307824182e-12
+Hubel BF EU sex combined 76 SNPs clumped	SaTDZJ	M-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	184.410565991294	69	1.83792148584402e-12
+Hubel BF EU sex combined 76 SNPs clumped	SaTDZJ	M-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	184.314682451386	69	1.89541299444199e-12
+Hubel BF EU sex combined 76 SNPs clumped	SaTDZJ	M-HDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0121370276532602	69	1
+Hubel BF EU sex combined 76 SNPs clumped	scpJZf	M-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	119.511895841458	69	0.000156120936527826
+Hubel BF EU sex combined 76 SNPs clumped	scpJZf	M-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	117.550370712681	68	0.000181413722734554
+Hubel BF EU sex combined 76 SNPs clumped	scpJZf	M-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	119.528293000256	69	0.000155535853129599
+Hubel BF EU sex combined 76 SNPs clumped	scpJZf	M-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	119.511737830523	69	0.000156126584933788
+Hubel BF EU sex combined 76 SNPs clumped	scpJZf	M-HDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00795995586470279	69	1
+Hubel BF EU sex combined 76 SNPs clumped	SczMO8	XL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	81.6755499044102	69	0.141143325601887
+Hubel BF EU sex combined 76 SNPs clumped	SczMO8	XL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	81.7080664646546	68	0.122834666643462
+Hubel BF EU sex combined 76 SNPs clumped	SczMO8	XL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	81.7092514913289	69	0.140570406653961
+Hubel BF EU sex combined 76 SNPs clumped	SczMO8	XL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	81.6621628719233	69	0.141371383960172
+Hubel BF EU sex combined 76 SNPs clumped	SczMO8	XL-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0102509410224944	69	1
+Hubel BF EU sex combined 76 SNPs clumped	SJfs66	S-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	238.446621848961	69	1.65421641872588e-20
+Hubel BF EU sex combined 76 SNPs clumped	SJfs66	S-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	232.806127631553	68	6.72548197404988e-20
+Hubel BF EU sex combined 76 SNPs clumped	SJfs66	S-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	238.562557402393	69	1.58638798666096e-20
+Hubel BF EU sex combined 76 SNPs clumped	SJfs66	S-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	238.44117899515	69	1.65747078580735e-20
+Hubel BF EU sex combined 76 SNPs clumped	SJfs66	S-HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0152980298457626	69	1
+Hubel BF EU sex combined 76 SNPs clumped	SMkNgk	VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	120.535641342204	69	0.000123361806062566
+Hubel BF EU sex combined 76 SNPs clumped	SMkNgk	VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	118.504093644949	68	0.000145719130139664
+Hubel BF EU sex combined 76 SNPs clumped	SMkNgk	VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	120.558566970891	69	0.000122709818301403
+Hubel BF EU sex combined 76 SNPs clumped	SMkNgk	VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	120.53010739428	69	0.000123519685400575
+Hubel BF EU sex combined 76 SNPs clumped	SMkNgk	VLDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00840133183470138	69	1
+Hubel BF EU sex combined 76 SNPs clumped	sQWVEJ	S-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	96.6796339627951	69	0.0156125867129534
+Hubel BF EU sex combined 76 SNPs clumped	sQWVEJ	S-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	90.1249388105095	68	0.0376045454009871
+Hubel BF EU sex combined 76 SNPs clumped	sQWVEJ	S-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	96.9925988010032	69	0.0147965229695725
+Hubel BF EU sex combined 76 SNPs clumped	sQWVEJ	S-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	96.4812286745336	69	0.0161506285248512
+Hubel BF EU sex combined 76 SNPs clumped	sQWVEJ	S-HDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0108445875071702	69	1
+Hubel BF EU sex combined 76 SNPs clumped	su7KTh	S-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	111.372055051419	69	0.000935536326842113
+Hubel BF EU sex combined 76 SNPs clumped	su7KTh	S-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	106.903421894981	68	0.00182009970811023
+Hubel BF EU sex combined 76 SNPs clumped	su7KTh	S-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	111.515255131749	69	0.000907722192476403
+Hubel BF EU sex combined 76 SNPs clumped	su7KTh	S-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	111.310594237967	69	0.000947719624535441
+Hubel BF EU sex combined 76 SNPs clumped	su7KTh	S-LDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0108064768898345	69	1
+Hubel BF EU sex combined 76 SNPs clumped	swLp8X	M-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	119.511895841458	69	0.000156120936527826
+Hubel BF EU sex combined 76 SNPs clumped	swLp8X	M-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	117.550370712681	68	0.000181413722734554
+Hubel BF EU sex combined 76 SNPs clumped	swLp8X	M-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	119.528293000256	69	0.000155535853129599
+Hubel BF EU sex combined 76 SNPs clumped	swLp8X	M-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	119.511737830523	69	0.000156126584933788
+Hubel BF EU sex combined 76 SNPs clumped	swLp8X	M-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00795995586470279	69	1
+Hubel BF EU sex combined 76 SNPs clumped	T13tR5	S-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	101.279710217055	69	0.00689007520906344
+Hubel BF EU sex combined 76 SNPs clumped	T13tR5	S-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	98.7525168187043	68	0.00877381053388775
+Hubel BF EU sex combined 76 SNPs clumped	T13tR5	S-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	101.409741142669	69	0.00672665639062634
+Hubel BF EU sex combined 76 SNPs clumped	T13tR5	S-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	101.230864218091	69	0.00695239898226125
+Hubel BF EU sex combined 76 SNPs clumped	T13tR5	S-LDL-PL.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0104915567662531	69	1
+Hubel BF EU sex combined 76 SNPs clumped	T48FwI	M-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	107.793865842963	69	0.00195672850644212
+Hubel BF EU sex combined 76 SNPs clumped	T48FwI	M-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	107.463018010341	68	0.00162330840698526
+Hubel BF EU sex combined 76 SNPs clumped	T48FwI	M-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	107.835006704444	69	0.00194054843862114
+Hubel BF EU sex combined 76 SNPs clumped	T48FwI	M-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	107.780945619259	69	0.00196183588010046
+Hubel BF EU sex combined 76 SNPs clumped	T48FwI	M-LDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0096969317499324	69	1
+Hubel BF EU sex combined 76 SNPs clumped	t8k0Ob	HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	127.544578203817	69	2.32319048366687e-05
+Hubel BF EU sex combined 76 SNPs clumped	t8k0Ob	HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	125.982481659612	68	2.44998972078796e-05
+Hubel BF EU sex combined 76 SNPs clumped	t8k0Ob	HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	127.545931388373	69	2.32242020527012e-05
+Hubel BF EU sex combined 76 SNPs clumped	t8k0Ob	HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	127.544258857622	69	2.32337230240166e-05
+Hubel BF EU sex combined 76 SNPs clumped	t8k0Ob	HDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00908607070902947	69	1
+Hubel BF EU sex combined 76 SNPs clumped	thaL0z	XL-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	223.837564171187	69	3.03330183756334e-18
+Hubel BF EU sex combined 76 SNPs clumped	thaL0z	XL-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	221.211869919268	68	4.18839248955782e-18
+Hubel BF EU sex combined 76 SNPs clumped	thaL0z	XL-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	223.935217885743	69	2.93074558065693e-18
+Hubel BF EU sex combined 76 SNPs clumped	thaL0z	XL-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	223.831976983743	69	3.0392763163493e-18
+Hubel BF EU sex combined 76 SNPs clumped	thaL0z	XL-HDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0137229401262539	69	1
+Hubel BF EU sex combined 76 SNPs clumped	tjO6ra	XS-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	161.59774564456	69	2.14414093515903e-09
+Hubel BF EU sex combined 76 SNPs clumped	tjO6ra	XS-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	159.147541925822	68	2.84947859594731e-09
+Hubel BF EU sex combined 76 SNPs clumped	tjO6ra	XS-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	161.622852704148	69	2.1282219453278e-09
+Hubel BF EU sex combined 76 SNPs clumped	tjO6ra	XS-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	161.591204216708	69	2.14830773715897e-09
+Hubel BF EU sex combined 76 SNPs clumped	tjO6ra	XS-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.011912134099014	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ts9NhK	S-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	141.176392724893	69	6.97543164179817e-07
+Hubel BF EU sex combined 76 SNPs clumped	ts9NhK	S-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	139.02439498361	68	8.52093199068581e-07
+Hubel BF EU sex combined 76 SNPs clumped	ts9NhK	S-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	141.26410007959	69	6.81301016281398e-07
+Hubel BF EU sex combined 76 SNPs clumped	ts9NhK	S-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	141.109684185491	69	7.10149651217979e-07
+Hubel BF EU sex combined 76 SNPs clumped	ts9NhK	S-VLDL-TG_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.010000155946479	69	1
+Hubel BF EU sex combined 76 SNPs clumped	TuGTzF	S-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	162.788765849861	69	1.50438880144645e-09
+Hubel BF EU sex combined 76 SNPs clumped	TuGTzF	S-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	160.714607057038	68	1.78694716327174e-09
+Hubel BF EU sex combined 76 SNPs clumped	TuGTzF	S-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	162.966534009236	69	1.42668054254849e-09
+Hubel BF EU sex combined 76 SNPs clumped	TuGTzF	S-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	162.765237688272	69	1.51498172025528e-09
+Hubel BF EU sex combined 76 SNPs clumped	TuGTzF	S-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0115172076962432	69	1
+Hubel BF EU sex combined 76 SNPs clumped	tXeugC	Serum-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	98.584818940027	69	0.0112094643279556
+Hubel BF EU sex combined 76 SNPs clumped	tXeugC	Serum-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	97.8483903397142	68	0.0103281011902856
+Hubel BF EU sex combined 76 SNPs clumped	tXeugC	Serum-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	98.5848600465723	69	0.0112093829023156
+Hubel BF EU sex combined 76 SNPs clumped	tXeugC	Serum-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	98.5848058184791	69	0.0112094903198034
+Hubel BF EU sex combined 76 SNPs clumped	tXeugC	Serum-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00857431471002203	69	1
+Hubel BF EU sex combined 76 SNPs clumped	UAK9oM	Remnant-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	134.114040938256	69	4.46392440188736e-06
+Hubel BF EU sex combined 76 SNPs clumped	UAK9oM	Remnant-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	134.012540148112	68	3.20745309944158e-06
+Hubel BF EU sex combined 76 SNPs clumped	UAK9oM	Remnant-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	134.186672067557	69	4.3813754103377e-06
+Hubel BF EU sex combined 76 SNPs clumped	UAK9oM	Remnant-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	134.10248328497	69	4.47719919400815e-06
+Hubel BF EU sex combined 76 SNPs clumped	UAK9oM	Remnant-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0100543474129539	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Uml5Xr	L-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	116.886712891012	69	0.000282674582553996
+Hubel BF EU sex combined 76 SNPs clumped	Uml5Xr	L-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	115.643299345653	68	0.000279492859888427
+Hubel BF EU sex combined 76 SNPs clumped	Uml5Xr	L-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	116.999135206677	69	0.000275663372319738
+Hubel BF EU sex combined 76 SNPs clumped	Uml5Xr	L-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	116.855757810613	69	0.000284634820346494
+Hubel BF EU sex combined 76 SNPs clumped	Uml5Xr	L-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.011285790451964	69	1
+Hubel BF EU sex combined 76 SNPs clumped	UoyGqI	FAw6byFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	231.42965718909	69	2.05472134877761e-19
+Hubel BF EU sex combined 76 SNPs clumped	UoyGqI	FAw6byFA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	228.558847001622	68	3.08482487289486e-19
+Hubel BF EU sex combined 76 SNPs clumped	UoyGqI	FAw6byFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	231.444595906515	69	2.04379378344484e-19
+Hubel BF EU sex combined 76 SNPs clumped	UoyGqI	FAw6byFA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	231.428714930424	69	2.05541255050808e-19
+Hubel BF EU sex combined 76 SNPs clumped	UoyGqI	FAw6byFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0157131131149328	69	1
+Hubel BF EU sex combined 76 SNPs clumped	urPycz	Gly.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	136.748834353663	69	2.25501036046703e-06
+Hubel BF EU sex combined 76 SNPs clumped	urPycz	Gly.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	136.967579546516	68	1.47539435933166e-06
+Hubel BF EU sex combined 76 SNPs clumped	urPycz	Gly.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	137.284349547279	69	1.95998193739744e-06
+Hubel BF EU sex combined 76 SNPs clumped	urPycz	Gly.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	136.6876009866	69	2.2913875625542e-06
+Hubel BF EU sex combined 76 SNPs clumped	urPycz	Gly.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00985124122418596	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Uw62Cg	XXL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	199.209930949595	69	1.43406004171703e-14
+Hubel BF EU sex combined 76 SNPs clumped	Uw62Cg	XXL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	196.142816018079	68	2.31881952688562e-14
+Hubel BF EU sex combined 76 SNPs clumped	Uw62Cg	XXL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	199.210395693137	69	1.43383727638104e-14
+Hubel BF EU sex combined 76 SNPs clumped	Uw62Cg	XXL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	199.209810006646	69	1.43411801888646e-14
+Hubel BF EU sex combined 76 SNPs clumped	Uw62Cg	XXL-VLDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0140343977154729	69	1
+Hubel BF EU sex combined 76 SNPs clumped	uWnvQk	XL-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	276.465373240895	69	1.23929484405584e-26
+Hubel BF EU sex combined 76 SNPs clumped	uWnvQk	XL-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	276.45053413107	68	6.12963863727669e-27
+Hubel BF EU sex combined 76 SNPs clumped	uWnvQk	XL-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	277.680406452548	69	7.80802546460053e-27
+Hubel BF EU sex combined 76 SNPs clumped	uWnvQk	XL-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	276.382880695534	69	1.27875207887726e-26
+Hubel BF EU sex combined 76 SNPs clumped	uWnvQk	XL-HDL-L.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0242319280924116	69	1
+Hubel BF EU sex combined 76 SNPs clumped	UXcHV4	S-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	101.279710217055	69	0.00689007520906344
+Hubel BF EU sex combined 76 SNPs clumped	UXcHV4	S-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	98.7525168187043	68	0.00877381053388775
+Hubel BF EU sex combined 76 SNPs clumped	UXcHV4	S-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	101.409741142669	69	0.00672665639062634
+Hubel BF EU sex combined 76 SNPs clumped	UXcHV4	S-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	101.230864218091	69	0.00695239898226125
+Hubel BF EU sex combined 76 SNPs clumped	UXcHV4	S-LDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0104915567662531	69	1
+Hubel BF EU sex combined 76 SNPs clumped	VEH6VO	Leu.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	135.366842568589	69	3.23102905144488e-06
+Hubel BF EU sex combined 76 SNPs clumped	VEH6VO	Leu.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	122.693798128031	68	5.44134488598783e-05
+Hubel BF EU sex combined 76 SNPs clumped	VEH6VO	Leu.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	135.626265324421	69	3.02083820726071e-06
+Hubel BF EU sex combined 76 SNPs clumped	VEH6VO	Leu.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	135.358290395095	69	3.23819556279573e-06
+Hubel BF EU sex combined 76 SNPs clumped	VEH6VO	Leu.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.010788046494724	69	1
+Hubel BF EU sex combined 76 SNPs clumped	VH5k8J	Phe.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	81.9627428956501	69	0.136316584975593
+Hubel BF EU sex combined 76 SNPs clumped	VH5k8J	Phe.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	79.5489045187872	68	0.159707986071789
+Hubel BF EU sex combined 76 SNPs clumped	VH5k8J	Phe.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	83.2204929315908	69	0.116630539988554
+Hubel BF EU sex combined 76 SNPs clumped	VH5k8J	Phe.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	81.8108001300678	69	0.138854587742572
+Hubel BF EU sex combined 76 SNPs clumped	VH5k8J	Phe.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00795615700749593	69	1
+Hubel BF EU sex combined 76 SNPs clumped	VHz80E	LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	136.936305842528	69	2.14710661279314e-06
+Hubel BF EU sex combined 76 SNPs clumped	VHz80E	LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	136.406780463787	68	1.71157537035334e-06
+Hubel BF EU sex combined 76 SNPs clumped	VHz80E	LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	136.976070890282	69	2.12487519618422e-06
+Hubel BF EU sex combined 76 SNPs clumped	VHz80E	LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	136.924147495806	69	2.15394916065757e-06
+Hubel BF EU sex combined 76 SNPs clumped	VHz80E	LDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00925628840583025	69	1
+Hubel BF EU sex combined 76 SNPs clumped	vM7BlG	XXL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	110.769117429954	69	0.00106173282598649
+Hubel BF EU sex combined 76 SNPs clumped	vM7BlG	XXL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	107.625479116729	68	0.00157003619667935
+Hubel BF EU sex combined 76 SNPs clumped	vM7BlG	XXL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	110.799528594446	69	0.001055000215099
+Hubel BF EU sex combined 76 SNPs clumped	vM7BlG	XXL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	110.752953279127	69	0.00106532784487236
+Hubel BF EU sex combined 76 SNPs clumped	vM7BlG	XXL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0101192119217415	69	1
+Hubel BF EU sex combined 76 SNPs clumped	vSeTz6	L-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	253.149841239315	69	7.70750756289948e-23
+Hubel BF EU sex combined 76 SNPs clumped	vSeTz6	L-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	253.877881568597	68	3.02159337267257e-23
+Hubel BF EU sex combined 76 SNPs clumped	vSeTz6	L-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	254.531502169643	69	4.62653568773034e-23
+Hubel BF EU sex combined 76 SNPs clumped	vSeTz6	L-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	253.007133456268	69	8.12427024439283e-23
+Hubel BF EU sex combined 76 SNPs clumped	vSeTz6	L-HDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0191412172792009	69	1
+Hubel BF EU sex combined 76 SNPs clumped	WbBKdl	XXL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	70.1892065373782	69	0.43747865137946
+Hubel BF EU sex combined 76 SNPs clumped	WbBKdl	XXL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	69.8368063366523	68	0.415590350899827
+Hubel BF EU sex combined 76 SNPs clumped	WbBKdl	XXL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	70.2611445668881	69	0.435096872851994
+Hubel BF EU sex combined 76 SNPs clumped	WbBKdl	XXL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	70.1562520111954	69	0.438571040451612
+Hubel BF EU sex combined 76 SNPs clumped	WbBKdl	XXL-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00500318422702678	69	1
+Hubel BF EU sex combined 76 SNPs clumped	We2aNn	S-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	134.257030419492	69	4.30282814424609e-06
+Hubel BF EU sex combined 76 SNPs clumped	We2aNn	S-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	126.916500343463	68	1.94576436994792e-05
+Hubel BF EU sex combined 76 SNPs clumped	We2aNn	S-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	134.385634377292	69	4.16278570644671e-06
+Hubel BF EU sex combined 76 SNPs clumped	We2aNn	S-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	134.164566874514	69	4.4063404234712e-06
+Hubel BF EU sex combined 76 SNPs clumped	We2aNn	S-HDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0136678254563842	69	1
+Hubel BF EU sex combined 76 SNPs clumped	wQAKUk	PUFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	217.160740729007	69	3.13855070613885e-17
+Hubel BF EU sex combined 76 SNPs clumped	wQAKUk	PUFA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	216.273004526983	68	2.37134806907637e-17
+Hubel BF EU sex combined 76 SNPs clumped	wQAKUk	PUFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	217.170295285491	69	3.12814076279422e-17
+Hubel BF EU sex combined 76 SNPs clumped	wQAKUk	PUFA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	217.160568861447	69	3.13873827544456e-17
+Hubel BF EU sex combined 76 SNPs clumped	wQAKUk	PUFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0140382942419277	69	1
+Hubel BF EU sex combined 76 SNPs clumped	wvggKP	L-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	80.5597266981885	69	0.161104173543501
+Hubel BF EU sex combined 76 SNPs clumped	wvggKP	L-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	80.1903705729643	68	0.147996530694339
+Hubel BF EU sex combined 76 SNPs clumped	wvggKP	L-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	80.5874452147478	69	0.160584740057873
+Hubel BF EU sex combined 76 SNPs clumped	wvggKP	L-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	80.5502806770501	69	0.161281465168497
+Hubel BF EU sex combined 76 SNPs clumped	wvggKP	L-VLDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00535882770067246	69	1
+Hubel BF EU sex combined 76 SNPs clumped	WyyZgm	XS-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	146.499740074296	69	1.63403634236126e-07
+Hubel BF EU sex combined 76 SNPs clumped	WyyZgm	XS-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	136.370543033998	68	1.72804616825986e-06
+Hubel BF EU sex combined 76 SNPs clumped	WyyZgm	XS-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	146.499849951106	69	1.6339866766746e-07
+Hubel BF EU sex combined 76 SNPs clumped	WyyZgm	XS-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	146.499699554274	69	1.63405465828953e-07
+Hubel BF EU sex combined 76 SNPs clumped	WyyZgm	XS-VLDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0118535028576921	69	1
+Hubel BF EU sex combined 76 SNPs clumped	wzizGs	Serum-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	249.193357010787	69	3.30591920481988e-22
+Hubel BF EU sex combined 76 SNPs clumped	wzizGs	Serum-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	245.873243447716	68	5.80934763893017e-22
+Hubel BF EU sex combined 76 SNPs clumped	wzizGs	Serum-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	249.201639933954	69	3.29588496683355e-22
+Hubel BF EU sex combined 76 SNPs clumped	wzizGs	Serum-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	249.193282844192	69	3.3060091902793e-22
+Hubel BF EU sex combined 76 SNPs clumped	wzizGs	Serum-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0162035671214381	69	1
+Hubel BF EU sex combined 76 SNPs clumped	XaOozw	DAG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	145.535092677999	69	2.13233278004216e-07
+Hubel BF EU sex combined 76 SNPs clumped	XaOozw	DAG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	142.152762862082	68	3.64979669105359e-07
+Hubel BF EU sex combined 76 SNPs clumped	XaOozw	DAG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	145.606341213219	69	2.09092144268833e-07
+Hubel BF EU sex combined 76 SNPs clumped	XaOozw	DAG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	145.502959093945	69	2.15127167915949e-07
+Hubel BF EU sex combined 76 SNPs clumped	XaOozw	DAG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0113216505786367	69	1
+Hubel BF EU sex combined 76 SNPs clumped	XBxjn3	S-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	78.3945946126469	69	0.205471733386614
+Hubel BF EU sex combined 76 SNPs clumped	XBxjn3	S-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	78.0900194658615	68	0.188804515793022
+Hubel BF EU sex combined 76 SNPs clumped	XBxjn3	S-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	78.4452047186609	69	0.204348449660643
+Hubel BF EU sex combined 76 SNPs clumped	XBxjn3	S-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	78.3859199743249	69	0.205664681224545
+Hubel BF EU sex combined 76 SNPs clumped	XBxjn3	S-VLDL-FC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0057103640682181	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Xc6lX3	S-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	111.372055051419	69	0.000935536326842113
+Hubel BF EU sex combined 76 SNPs clumped	Xc6lX3	S-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	106.903421894981	68	0.00182009970811023
+Hubel BF EU sex combined 76 SNPs clumped	Xc6lX3	S-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	111.515255131749	69	0.000907722192476403
+Hubel BF EU sex combined 76 SNPs clumped	Xc6lX3	S-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	111.310594237967	69	0.000947719624535441
+Hubel BF EU sex combined 76 SNPs clumped	Xc6lX3	S-LDL-C.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0108064768898345	69	1
+Hubel BF EU sex combined 76 SNPs clumped	XH7hwJ	XL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	95.505360971799	69	0.0190462966189032
+Hubel BF EU sex combined 76 SNPs clumped	XH7hwJ	XL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	95.4959456049173	68	0.0156104769552761
+Hubel BF EU sex combined 76 SNPs clumped	XH7hwJ	XL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	95.5345179607364	69	0.0189534772616537
+Hubel BF EU sex combined 76 SNPs clumped	XH7hwJ	XL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	95.5015400044367	69	0.0190584903826343
+Hubel BF EU sex combined 76 SNPs clumped	XH7hwJ	XL-VLDL-FC_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00794604040817732	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Xkstai	Pyr.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	80.8367031766418	69	0.155968123644729
+Hubel BF EU sex combined 76 SNPs clumped	Xkstai	Pyr.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	76.6390773055761	68	0.221188294279614
+Hubel BF EU sex combined 76 SNPs clumped	Xkstai	Pyr.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	80.8418304927323	69	0.155874183284834
+Hubel BF EU sex combined 76 SNPs clumped	Xkstai	Pyr.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	80.835929896271	69	0.15598229491494
+Hubel BF EU sex combined 76 SNPs clumped	Xkstai	Pyr.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0100497955591325	69	1
+Hubel BF EU sex combined 76 SNPs clumped	xRiVVy	S-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	108.920580442378	69	0.00155633439741663
+Hubel BF EU sex combined 76 SNPs clumped	xRiVVy	S-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	107.893229258261	68	0.00148581196150864
+Hubel BF EU sex combined 76 SNPs clumped	xRiVVy	S-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	109.094679467951	69	0.00150181491212292
+Hubel BF EU sex combined 76 SNPs clumped	xRiVVy	S-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	108.833402961378	69	0.00158432853258004
+Hubel BF EU sex combined 76 SNPs clumped	xRiVVy	S-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00875698665644734	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Xyb77V	XL-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	200.450734973927	69	9.46597505599848e-15
+Hubel BF EU sex combined 76 SNPs clumped	Xyb77V	XL-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	192.373139742048	68	8.12581697890741e-14
+Hubel BF EU sex combined 76 SNPs clumped	Xyb77V	XL-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	200.467809064254	69	9.41194033457113e-15
+Hubel BF EU sex combined 76 SNPs clumped	Xyb77V	XL-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	200.448771785829	69	9.47220770645712e-15
+Hubel BF EU sex combined 76 SNPs clumped	Xyb77V	XL-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0144457842163116	69	1
+Hubel BF EU sex combined 76 SNPs clumped	xYjXJH	MUFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	190.990450563109	69	2.17537104419347e-13
+Hubel BF EU sex combined 76 SNPs clumped	xYjXJH	MUFA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	191.112141422389	68	1.23273142749946e-13
+Hubel BF EU sex combined 76 SNPs clumped	xYjXJH	MUFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	191.112272206239	69	2.09032723513013e-13
+Hubel BF EU sex combined 76 SNPs clumped	xYjXJH	MUFA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	190.978370736169	69	2.18398871796711e-13
+Hubel BF EU sex combined 76 SNPs clumped	xYjXJH	MUFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0126312206022981	69	1
+Hubel BF EU sex combined 76 SNPs clumped	yGaG06	L-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	120.608366428005	69	0.000121304947518147
+Hubel BF EU sex combined 76 SNPs clumped	yGaG06	L-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	117.146274307969	68	0.000198943910354926
+Hubel BF EU sex combined 76 SNPs clumped	yGaG06	L-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	120.671807930393	69	0.000119537602057945
+Hubel BF EU sex combined 76 SNPs clumped	yGaG06	L-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	120.579622830022	69	0.000122113923380434
+Hubel BF EU sex combined 76 SNPs clumped	yGaG06	L-LDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.011359869998235	69	1
+Hubel BF EU sex combined 76 SNPs clumped	YGSrNK	PC.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	84.1802800605829	69	0.103142162125979
+Hubel BF EU sex combined 76 SNPs clumped	YGSrNK	PC.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	83.8581216896327	68	0.0929702620019535
+Hubel BF EU sex combined 76 SNPs clumped	YGSrNK	PC.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	84.2653903037166	69	0.102007770212244
+Hubel BF EU sex combined 76 SNPs clumped	YGSrNK	PC.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	84.1593621689389	69	0.10342247928617
+Hubel BF EU sex combined 76 SNPs clumped	YGSrNK	PC.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00812162993555298	69	1
+Hubel BF EU sex combined 76 SNPs clumped	Ylg5CN	XS-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	79.9478259933758	69	0.172881206866915
+Hubel BF EU sex combined 76 SNPs clumped	Ylg5CN	XS-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	79.3991172797826	68	0.162537013903217
+Hubel BF EU sex combined 76 SNPs clumped	Ylg5CN	XS-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	79.9939723973462	69	0.171972265809147
+Hubel BF EU sex combined 76 SNPs clumped	Ylg5CN	XS-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	79.9322739631878	69	0.17318830016373
+Hubel BF EU sex combined 76 SNPs clumped	Ylg5CN	XS-VLDL-CE.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00890335253603521	69	1
+Hubel BF EU sex combined 76 SNPs clumped	yTFAes	L-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	165.140158503095	69	7.43654536490391e-10
+Hubel BF EU sex combined 76 SNPs clumped	yTFAes	L-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	165.891957156793	68	3.74544730800192e-10
+Hubel BF EU sex combined 76 SNPs clumped	yTFAes	L-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	165.995059090142	69	5.74675473170391e-10
+Hubel BF EU sex combined 76 SNPs clumped	yTFAes	L-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	164.894947523709	69	8.00595471819711e-10
+Hubel BF EU sex combined 76 SNPs clumped	yTFAes	L-HDL-P.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0166410232127297	69	1
+Hubel BF EU sex combined 76 SNPs clumped	YvVEut	Ace.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	50.1825189857871	69	0.95710116254613
+Hubel BF EU sex combined 76 SNPs clumped	YvVEut	Ace.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	49.9780634761489	68	0.950456967266229
+Hubel BF EU sex combined 76 SNPs clumped	YvVEut	Ace.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	50.2022754229245	69	0.956910802540471
+Hubel BF EU sex combined 76 SNPs clumped	YvVEut	Ace.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	50.179310949518	69	0.957132013666653
+Hubel BF EU sex combined 76 SNPs clumped	YvVEut	Ace.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0249994399661775	69	1
+Hubel BF EU sex combined 76 SNPs clumped	YwtHag	IDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	151.55079454495	69	3.96727644760638e-08
+Hubel BF EU sex combined 76 SNPs clumped	YwtHag	IDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	147.448557015264	68	8.39969432706918e-08
+Hubel BF EU sex combined 76 SNPs clumped	YwtHag	IDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	151.551006316196	69	3.96703802129835e-08
+Hubel BF EU sex combined 76 SNPs clumped	YwtHag	IDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	151.550734475043	69	3.96734408091006e-08
+Hubel BF EU sex combined 76 SNPs clumped	YwtHag	IDL-TG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.011730971768965	69	1
+Hubel BF EU sex combined 76 SNPs clumped	z53UjJ	Alb.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	64.3055986771665	69	0.637557234687375
+Hubel BF EU sex combined 76 SNPs clumped	z53UjJ	Alb.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	64.1786942599363	68	0.608934844766365
+Hubel BF EU sex combined 76 SNPs clumped	z53UjJ	Alb.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	64.337952307225	69	0.636475160080128
+Hubel BF EU sex combined 76 SNPs clumped	z53UjJ	Alb.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	64.2972917905303	69	0.637834942479438
+Hubel BF EU sex combined 76 SNPs clumped	z53UjJ	Alb.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00452157456638448	69	1
+Hubel BF EU sex combined 76 SNPs clumped	zc6FfB	M-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	102.317727152173	69	0.00568113745069451
+Hubel BF EU sex combined 76 SNPs clumped	zc6FfB	M-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	101.59666915274	68	0.00517319878143181
+Hubel BF EU sex combined 76 SNPs clumped	zc6FfB	M-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	102.407729346112	69	0.00558610724656872
+Hubel BF EU sex combined 76 SNPs clumped	zc6FfB	M-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	102.261369143677	69	0.00574140004706207
+Hubel BF EU sex combined 76 SNPs clumped	zc6FfB	M-VLDL-C_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.00771785367025366	69	1
+Hubel BF EU sex combined 76 SNPs clumped	zhzFJH	M-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	142.345181700758	69	5.09085034744394e-07
+Hubel BF EU sex combined 76 SNPs clumped	zhzFJH	M-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	140.90127289311	68	5.13295750227378e-07
+Hubel BF EU sex combined 76 SNPs clumped	zhzFJH	M-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	142.46347400293	69	4.93055151966937e-07
+Hubel BF EU sex combined 76 SNPs clumped	zhzFJH	M-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	142.266957981652	69	5.19964234093374e-07
+Hubel BF EU sex combined 76 SNPs clumped	zhzFJH	M-VLDL-CE_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0103155733133466	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ZiGahJ	SFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	70.942608435913	69	0.412742116788635
+Hubel BF EU sex combined 76 SNPs clumped	ZiGahJ	SFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	67.1746384781352	68	0.505504670225427
+Hubel BF EU sex combined 76 SNPs clumped	ZiGahJ	SFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	70.9795738150902	69	0.411540942509174
+Hubel BF EU sex combined 76 SNPs clumped	ZiGahJ	SFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	70.9141747244785	69	0.413666898611632
+Hubel BF EU sex combined 76 SNPs clumped	ZiGahJ	SFAbyFA.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0061375231286806	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ZOfa5e	HDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	321.835976745174	69	2.71098310629098e-34
+Hubel BF EU sex combined 76 SNPs clumped	ZOfa5e	HDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	320.891308942406	68	1.80141127419061e-34
+Hubel BF EU sex combined 76 SNPs clumped	ZOfa5e	HDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	323.483433433963	69	1.40961596694203e-34
+Hubel BF EU sex combined 76 SNPs clumped	ZOfa5e	HDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	321.828960173937	69	2.71853975628284e-34
+Hubel BF EU sex combined 76 SNPs clumped	ZOfa5e	HDL-D.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0248440724581918	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ZOssZq	DAGbyTG.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	145.535092677999	69	2.13233278004216e-07
+Hubel BF EU sex combined 76 SNPs clumped	ZOssZq	DAGbyTG.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	142.152762862082	68	3.64979669105359e-07
+Hubel BF EU sex combined 76 SNPs clumped	ZOssZq	DAGbyTG.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	145.606341213219	69	2.09092144268833e-07
+Hubel BF EU sex combined 76 SNPs clumped	ZOssZq	DAGbyTG.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	145.502959093945	69	2.15127167915949e-07
+Hubel BF EU sex combined 76 SNPs clumped	ZOssZq	DAGbyTG.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0113216505786367	69	1
+Hubel BF EU sex combined 76 SNPs clumped	ZQ0De4	XS-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	146.499740074296	69	1.63403634236126e-07
+Hubel BF EU sex combined 76 SNPs clumped	ZQ0De4	XS-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	136.370543033998	68	1.72804616825986e-06
+Hubel BF EU sex combined 76 SNPs clumped	ZQ0De4	XS-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	146.499849951106	69	1.6339866766746e-07
+Hubel BF EU sex combined 76 SNPs clumped	ZQ0De4	XS-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	146.499699554274	69	1.63405465828953e-07
+Hubel BF EU sex combined 76 SNPs clumped	ZQ0De4	XS-VLDL-PL_percent.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0118535028576921	69	1
+Hubel BF EU sex combined 76 SNPs clumped	zQmayK	ApoA1.txt	Hubel BF EU sex combined 76 SNPs clumped	Maximum likelihood	160.301887397758	69	3.14659083535732e-09
+Hubel BF EU sex combined 76 SNPs clumped	zQmayK	ApoA1.txt	Hubel BF EU sex combined 76 SNPs clumped	MR Egger	158.793779421499	68	3.16470085602383e-09
+Hubel BF EU sex combined 76 SNPs clumped	zQmayK	ApoA1.txt	Hubel BF EU sex combined 76 SNPs clumped	Inverse variance weighted	160.630352612155	69	2.85561555604558e-09
+Hubel BF EU sex combined 76 SNPs clumped	zQmayK	ApoA1.txt	Hubel BF EU sex combined 76 SNPs clumped	IVW radial	160.265225225602	69	3.18082859226914e-09
+Hubel BF EU sex combined 76 SNPs clumped	zQmayK	ApoA1.txt	Hubel BF EU sex combined 76 SNPs clumped	Unweighted regression	0.0124113156143844	69	1

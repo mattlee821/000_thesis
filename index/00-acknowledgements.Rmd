@@ -7,22 +7,34 @@ space_betwee_paragraphs: true
 fig_caption: true
 always_allow_html: yes
 link-citations: true
-toc-depth: 1
+toc-depth: 2
 lot: true
 lof: true
+indent: true
+header-includes: # include other LaTeX packages here
+    \usepackage{booktabs}
+    \usepackage{longtable}
+    \usepackage{siunitx}
+    \usepackage[left]{lineno}
+    \usepackage{float}
+    \floatplacement{figure}{H}
+    \linenumbers
+    \pagestyle{plain}
+    \raggedbottom 
+    \usepackage{indentfirst}
 editor_options: 
   chunk_output_type: console
 ---
 
+\begin{center}
+I will forever be grateful for the love and support that you have selflessly given me
+\end{center}
 
-#### ALSPAC
-We are extremely grateful to all the families who took part in this study, the midwives for their help in recruiting them, and the whole ALSPAC team, which includes interviewers, computer and laboratory technicians, clerical workers, research scientists, volunteers, managers, receptionists and nurses. <br>
+<style>
+body {
+text-align: justify}
+</style>
 
-Ethical approval for the study was obtained from the ALSPAC Ethics and Law Committee and the Local Research Ethics Committees. Consent for biological samples has been collected in accordance with the Human Tissue Act (2004). Informed consent for the use of data collected via questionnaires and clinics was obtained from participants following the recommendations of the ALSPAC Ethics and Law Committee at the time. <br>
+This thesis is a result of the support and effort that has been given to me and is undoubtedly a better piece of work because of this. I can only hope that I am able to support and give as much as has been given to me in the years to come. Nic/Kaitlin/Laura, thanks for putting up with my shit and just being great fun to work with! David/Vanessa/Caroline/Sam, thanks for being patient and helping me with stupid questions. Emma, thanks so much for getting me out of the lab! \par
 
-The following ALSPAC identifiers are associated with the work in the associated chapters:
-
-* Chapter 4: B3473, B3160, B3230
-
-#### Data
-I would like to thank Emma Anderson for providing the diet trajectory data used in this analysis.
+Charlie/Nance/Steph

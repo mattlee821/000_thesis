@@ -1,0 +1,37 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Lu BF EU sex combined 5 SNPs	Maximum likelihood	1.26662949575685	4	0.867011350714284
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Lu BF EU sex combined 5 SNPs	MR Egger	0.765541103461597	3	0.857690124152765
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	1.4313504467672	4	0.838728265504
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000491531933355443	4	0.999999969804493
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Lu BF EU sex combined 5 SNPs	Maximum likelihood	3.1761032297999	4	0.528799310401892
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Lu BF EU sex combined 5 SNPs	MR Egger	0.784620293921094	3	0.853142008589734
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.45008927505224	4	0.485507846932506
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00143207112037142	4	0.999999743768878
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.19218867876272	4	0.185247887230626
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Lu BF EU sex combined 5 SNPs	MR Egger	5.41103342466692	3	0.144057702326964
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	6.24789625566353	4	0.181384327975455
+Lu BF EU sex combined 5 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0216877905797265	4	0.999941628288814
+Pulit WHR EU sex combined 316 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Pulit WHR EU sex combined 316 SNPs	Maximum likelihood	457.785648235165	303	2.12446986312462e-08
+Pulit WHR EU sex combined 316 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Pulit WHR EU sex combined 316 SNPs	MR Egger	457.494191678608	302	1.80402737120611e-08
+Pulit WHR EU sex combined 316 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Pulit WHR EU sex combined 316 SNPs	Inverse variance weighted	457.971257264538	303	2.05648478191126e-08
+Pulit WHR EU sex combined 316 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Pulit WHR EU sex combined 316 SNPs	Unweighted regression	0.177652987378131	303	1
+Pulit WHR EU sex combined 316 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Pulit WHR EU sex combined 316 SNPs	Maximum likelihood	434.866410356486	303	9.77148417565348e-07
+Pulit WHR EU sex combined 316 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Pulit WHR EU sex combined 316 SNPs	MR Egger	434.814431083987	302	8.14744605714238e-07
+Pulit WHR EU sex combined 316 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Pulit WHR EU sex combined 316 SNPs	Inverse variance weighted	435.074689681418	303	9.45368658746423e-07
+Pulit WHR EU sex combined 316 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Pulit WHR EU sex combined 316 SNPs	Unweighted regression	0.232808918314517	303	1
+Pulit WHR EU sex combined 316 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Pulit WHR EU sex combined 316 SNPs	Maximum likelihood	328.246186138939	300	0.125931835024769
+Pulit WHR EU sex combined 316 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Pulit WHR EU sex combined 316 SNPs	MR Egger	323.551540242779	299	0.157487581269263
+Pulit WHR EU sex combined 316 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Pulit WHR EU sex combined 316 SNPs	Inverse variance weighted	328.254202696717	300	0.125868066528945
+Pulit WHR EU sex combined 316 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Pulit WHR EU sex combined 316 SNPs	Unweighted regression	1.14164547323975	300	1
+Yengo BMI EU sex combined 941 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1338.61828993111	913	1.09244178720537e-18
+Yengo BMI EU sex combined 941 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Yengo BMI EU sex combined 941 SNPs	MR Egger	1291.8909933506	912	1.29796654518836e-15
+Yengo BMI EU sex combined 941 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1339.37868249135	913	9.66294794696861e-19
+Yengo BMI EU sex combined 941 SNPs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.522442560273485	913	1
+Yengo BMI EU sex combined 941 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	1287.02116184735	913	3.19365623543573e-15
+Yengo BMI EU sex combined 941 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Yengo BMI EU sex combined 941 SNPs	MR Egger	1249.22984514501	912	5.98464573140537e-13
+Yengo BMI EU sex combined 941 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	1287.72945029796	913	2.87583346321133e-15
+Yengo BMI EU sex combined 941 SNPs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	0.718885296918801	913	1
+Yengo BMI EU sex combined 941 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Yengo BMI EU sex combined 941 SNPs	Maximum likelihood	890.326020372004	909	0.664704795818995
+Yengo BMI EU sex combined 941 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Yengo BMI EU sex combined 941 SNPs	MR Egger	888.462228106756	908	0.67224965335943
+Yengo BMI EU sex combined 941 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Yengo BMI EU sex combined 941 SNPs	Inverse variance weighted	890.342720823875	909	0.664560058921407
+Yengo BMI EU sex combined 941 SNPs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Yengo BMI EU sex combined 941 SNPs	Unweighted regression	3.50246053817712	909	1

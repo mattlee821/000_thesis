@@ -1,0 +1,997 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+Lu BF EU sex combined 5 SNPs	027LBp	Clinical_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	166.198113615852	4	6.84430417208942e-35
+Lu BF EU sex combined 5 SNPs	027LBp	Clinical_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	353.593643977426	3	2.4861718269663e-76
+Lu BF EU sex combined 5 SNPs	027LBp	Clinical_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	495.794182889733	4	5.44102757868316e-106
+Lu BF EU sex combined 5 SNPs	027LBp	Clinical_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0251543094279944	4	0.999921567643963
+Lu BF EU sex combined 5 SNPs	0EUzM0	L_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.4663585743543	4	0.0332635603289769
+Lu BF EU sex combined 5 SNPs	0EUzM0	L_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	10.537514819921	3	0.0145085600481844
+Lu BF EU sex combined 5 SNPs	0EUzM0	L_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	10.9443743232581	4	0.027196334830958
+Lu BF EU sex combined 5 SNPs	0EUzM0	L_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000436892176193026	4	0.999999976144128
+Lu BF EU sex combined 5 SNPs	0SPoEG	M_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	105.192243065095	4	7.70775696104011e-22
+Lu BF EU sex combined 5 SNPs	0SPoEG	M_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	153.527907847025	3	4.56744958766053e-33
+Lu BF EU sex combined 5 SNPs	0SPoEG	M_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	201.840978728017	4	1.51025352639112e-42
+Lu BF EU sex combined 5 SNPs	0SPoEG	M_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00992611319526616	4	0.999987724708752
+Lu BF EU sex combined 5 SNPs	0tH2Tb	ApoB_by_ApoA1_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	158.526057895053	4	3.02704902131677e-33
+Lu BF EU sex combined 5 SNPs	0tH2Tb	ApoB_by_ApoA1_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	285.71531498725	3	1.22779708795491e-61
+Lu BF EU sex combined 5 SNPs	0tH2Tb	ApoB_by_ApoA1_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	393.472129855667	4	7.15646411068471e-84
+Lu BF EU sex combined 5 SNPs	0tH2Tb	ApoB_by_ApoA1_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0200877239233435	4	0.999949896888568
+Lu BF EU sex combined 5 SNPs	10kBYz	Phe_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	5.10079938843058	4	0.277110341555903
+Lu BF EU sex combined 5 SNPs	10kBYz	Phe_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	3.46281058178108	3	0.325617591478566
+Lu BF EU sex combined 5 SNPs	10kBYz	Phe_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	5.18409173926607	4	0.268924677110507
+Lu BF EU sex combined 5 SNPs	10kBYz	Phe_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000198780896471029	4	0.999999995061097
+Lu BF EU sex combined 5 SNPs	13GGiH	L_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	24.2153687834951	4	7.23145113481185e-05
+Lu BF EU sex combined 5 SNPs	13GGiH	L_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	12.6296421556661	3	0.00550998817747213
+Lu BF EU sex combined 5 SNPs	13GGiH	L_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	24.3624553014612	4	6.75640864903643e-05
+Lu BF EU sex combined 5 SNPs	13GGiH	L_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00115026127847005	4	0.999999834675773
+Lu BF EU sex combined 5 SNPs	1hsNYZ	L_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	45.1679997535411	4	3.66868934272211e-09
+Lu BF EU sex combined 5 SNPs	1hsNYZ	L_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	54.7439122235813	3	7.78654722824924e-12
+Lu BF EU sex combined 5 SNPs	1hsNYZ	L_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	58.5096720628833	4	5.96459480799722e-12
+Lu BF EU sex combined 5 SNPs	1hsNYZ	L_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00267406635666299	4	0.99999910696746
+Lu BF EU sex combined 5 SNPs	1nUbq8	L_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	38.7789925349351	4	7.73847280319718e-08
+Lu BF EU sex combined 5 SNPs	1nUbq8	L_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	21.607706193084	3	7.87136797522683e-05
+Lu BF EU sex combined 5 SNPs	1nUbq8	L_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	39.970803390139	4	4.38902052647335e-08
+Lu BF EU sex combined 5 SNPs	1nUbq8	L_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00198073088556838	4	0.999999509911816
+Lu BF EU sex combined 5 SNPs	1ziPL0	S_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	39.9910426993522	4	4.34692431149872e-08
+Lu BF EU sex combined 5 SNPs	1ziPL0	S_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	23.8814466273201	3	2.6444812892301e-05
+Lu BF EU sex combined 5 SNPs	1ziPL0	S_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	40.70965620878	4	3.08678622916942e-08
+Lu BF EU sex combined 5 SNPs	1ziPL0	S_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00204231013002796	4	0.99999947897597
+Lu BF EU sex combined 5 SNPs	2ReUZG	M_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	23.9434352934691	4	8.19872980203298e-05
+Lu BF EU sex combined 5 SNPs	2ReUZG	M_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	25.3444810372694	3	1.30803082768776e-05
+Lu BF EU sex combined 5 SNPs	2ReUZG	M_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	26.6146617696357	4	2.37825407214307e-05
+Lu BF EU sex combined 5 SNPs	2ReUZG	M_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00122231107663162	4	0.999999813320528
+Lu BF EU sex combined 5 SNPs	31STyf	S_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	22.9376468972131	4	0.000130310298004813
+Lu BF EU sex combined 5 SNPs	31STyf	S_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	10.7184023291944	3	0.0133502347560831
+Lu BF EU sex combined 5 SNPs	31STyf	S_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	23.1438305783028	4	0.000118517502450022
+Lu BF EU sex combined 5 SNPs	31STyf	S_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00112295347068809	4	0.999999842430928
+Lu BF EU sex combined 5 SNPs	3fcMTc	M_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	13.9367091280969	4	0.00749981784359031
+Lu BF EU sex combined 5 SNPs	3fcMTc	M_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	14.707849223596	3	0.00208412279948573
+Lu BF EU sex combined 5 SNPs	3fcMTc	M_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	14.7122485496527	4	0.00533679732013853
+Lu BF EU sex combined 5 SNPs	3fcMTc	M_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000628484939801667	4	0.999999950636177
+Lu BF EU sex combined 5 SNPs	3lj7pW	S_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	19.0533875706546	4	0.000767187376142953
+Lu BF EU sex combined 5 SNPs	3lj7pW	S_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	20.6356005859839	3	0.000125307924576081
+Lu BF EU sex combined 5 SNPs	3lj7pW	S_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	20.6474347232516	4	0.000371925142446779
+Lu BF EU sex combined 5 SNPs	3lj7pW	S_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000921255274050872	4	0.999999893943663
+Lu BF EU sex combined 5 SNPs	3oIR0Q	HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	24.9179881209254	4	5.22564894664262e-05
+Lu BF EU sex combined 5 SNPs	3oIR0Q	HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	27.184576005506	3	5.3854349097893e-06
+Lu BF EU sex combined 5 SNPs	3oIR0Q	HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	27.3272491326686	4	1.70688625379652e-05
+Lu BF EU sex combined 5 SNPs	3oIR0Q	HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00120726491499246	4	0.999999817887227
+Lu BF EU sex combined 5 SNPs	3vCY6H	S_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.16377509130106	4	0.187246746766652
+Lu BF EU sex combined 5 SNPs	3vCY6H	S_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	4.47609837949614	3	0.214432191460306
+Lu BF EU sex combined 5 SNPs	3vCY6H	S_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	6.26599437922495	4	0.18014479513052
+Lu BF EU sex combined 5 SNPs	3vCY6H	S_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000222923588562336	4	0.999999993788596
+Lu BF EU sex combined 5 SNPs	3VneR3	TG_by_PG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	3.8430740775138	4	0.427659834832975
+Lu BF EU sex combined 5 SNPs	3VneR3	TG_by_PG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.41288016788564	3	0.702518345127681
+Lu BF EU sex combined 5 SNPs	3VneR3	TG_by_PG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.86211358498602	4	0.424988251290704
+Lu BF EU sex combined 5 SNPs	3VneR3	TG_by_PG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000168747911685171	4	0.999999996440718
+Lu BF EU sex combined 5 SNPs	4MUkhS	L_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	110.190788740515	4	6.62676320741224e-23
+Lu BF EU sex combined 5 SNPs	4MUkhS	L_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	170.683441776686	3	9.05982379567525e-37
+Lu BF EU sex combined 5 SNPs	4MUkhS	L_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	219.382667291411	4	2.54549767713161e-46
+Lu BF EU sex combined 5 SNPs	4MUkhS	L_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0106835743639902	4	0.999985783361965
+Lu BF EU sex combined 5 SNPs	4qQikP	VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	102.333003750629	4	3.13373517563467e-21
+Lu BF EU sex combined 5 SNPs	4qQikP	VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	88.1816658621961	3	5.38353573654052e-19
+Lu BF EU sex combined 5 SNPs	4qQikP	VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	137.645127139197	4	9.0102367268867e-29
+Lu BF EU sex combined 5 SNPs	4qQikP	VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00698390430551635	4	0.99999391730982
+Lu BF EU sex combined 5 SNPs	53GBkS	S_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	128.407895538413	4	8.52812698214981e-27
+Lu BF EU sex combined 5 SNPs	53GBkS	S_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	145.245929732287	3	2.79382323920997e-31
+Lu BF EU sex combined 5 SNPs	53GBkS	S_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	220.735679823286	4	1.30201486620419e-46
+Lu BF EU sex combined 5 SNPs	53GBkS	S_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0112825549970204	4	0.999984147710381
+Lu BF EU sex combined 5 SNPs	58qCUq	Omega_6_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	114.791249264665	4	6.91476213332013e-24
+Lu BF EU sex combined 5 SNPs	58qCUq	Omega_6_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	102.825386418101	3	3.8362326126114e-22
+Lu BF EU sex combined 5 SNPs	58qCUq	Omega_6_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	150.821416466503	4	1.357374740037e-31
+Lu BF EU sex combined 5 SNPs	58qCUq	Omega_6_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00754914268514428	4	0.99999289420617
+Lu BF EU sex combined 5 SNPs	5DkH30	XL_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	8.19194003546384	4	0.0847948912264692
+Lu BF EU sex combined 5 SNPs	5DkH30	XL_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	8.5282699536118	3	0.0362670059525791
+Lu BF EU sex combined 5 SNPs	5DkH30	XL_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	8.53437880926388	4	0.0738519766849417
+Lu BF EU sex combined 5 SNPs	5DkH30	XL_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000345812552068373	4	0.999999985053433
+Lu BF EU sex combined 5 SNPs	5FXM7G	XXL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.58361107815909	4	0.332748167532152
+Lu BF EU sex combined 5 SNPs	5FXM7G	XXL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	3.75600809919677	3	0.289044760456902
+Lu BF EU sex combined 5 SNPs	5FXM7G	XXL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	4.91560345869081	4	0.296067242299007
+Lu BF EU sex combined 5 SNPs	5FXM7G	XXL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000259121055541665	4	0.99999999160776
+Lu BF EU sex combined 5 SNPs	5GXLjO	Remnant_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	150.596015941385	4	1.51706377882954e-31
+Lu BF EU sex combined 5 SNPs	5GXLjO	Remnant_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	224.89674399164	3	1.75445629850763e-48
+Lu BF EU sex combined 5 SNPs	5GXLjO	Remnant_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	330.688026389037	4	2.58830009866555e-70
+Lu BF EU sex combined 5 SNPs	5GXLjO	Remnant_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0168336915973298	4	0.999964776486485
+Lu BF EU sex combined 5 SNPs	5Q33rS	XXL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	2.95895386010215	4	0.564717706379124
+Lu BF EU sex combined 5 SNPs	5Q33rS	XXL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	0.449850779071595	3	0.929762453999698
+Lu BF EU sex combined 5 SNPs	5Q33rS	XXL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	2.98084507625361	4	0.56103603162872
+Lu BF EU sex combined 5 SNPs	5Q33rS	XXL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000115864033397116	4	0.999999998322006
+Lu BF EU sex combined 5 SNPs	5S4KHb	LA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	53.4280321760419	4	6.93345479289338e-11
+Lu BF EU sex combined 5 SNPs	5S4KHb	LA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	55.2713456379299	3	6.00930776093421e-12
+Lu BF EU sex combined 5 SNPs	5S4KHb	LA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	63.4063757032044	4	5.57276264931911e-13
+Lu BF EU sex combined 5 SNPs	5S4KHb	LA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00292476785223223	4	0.999998931758523
+Lu BF EU sex combined 5 SNPs	5x900x	XL_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	5.00442481261802	4	0.286843783026101
+Lu BF EU sex combined 5 SNPs	5x900x	XL_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	4.04424717561705	3	0.256725702986801
+Lu BF EU sex combined 5 SNPs	5x900x	XL_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	5.0631823244765	4	0.280875817291151
+Lu BF EU sex combined 5 SNPs	5x900x	XL_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000191879022958547	4	0.999999995398099
+Lu BF EU sex combined 5 SNPs	5zi3E3	XS_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	22.8990341848237	4	0.000132644855849052
+Lu BF EU sex combined 5 SNPs	5zi3E3	XS_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	17.8991902019366	3	0.00046141596042425
+Lu BF EU sex combined 5 SNPs	5zi3E3	XS_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	26.3692267240623	4	2.66570860147421e-05
+Lu BF EU sex combined 5 SNPs	5zi3E3	XS_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00126597735338975	4	0.999999799747188
+Lu BF EU sex combined 5 SNPs	614stP	M_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	72.7866183981467	4	5.85302713178477e-15
+Lu BF EU sex combined 5 SNPs	614stP	M_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	50.8824763612952	3	5.18240802527826e-11
+Lu BF EU sex combined 5 SNPs	614stP	M_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	77.7500579199372	4	5.21783630657719e-16
+Lu BF EU sex combined 5 SNPs	614stP	M_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00396014570589368	4	0.999998042241578
+Lu BF EU sex combined 5 SNPs	6DAPDO	L_LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	164.493860072624	4	1.58847490586605e-34
+Lu BF EU sex combined 5 SNPs	6DAPDO	L_LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	333.012531351463	3	7.10749035421282e-72
+Lu BF EU sex combined 5 SNPs	6DAPDO	L_LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	470.402126731115	4	1.68561307367147e-100
+Lu BF EU sex combined 5 SNPs	6DAPDO	L_LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0238262991896866	4	0.999929599507412
+Lu BF EU sex combined 5 SNPs	6DVHXY	M_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	39.136215580955	4	6.52939744478733e-08
+Lu BF EU sex combined 5 SNPs	6DVHXY	M_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	39.7109095689323	3	1.2269614057455e-08
+Lu BF EU sex combined 5 SNPs	6DVHXY	M_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	41.7362341505566	4	1.89192230243165e-08
+Lu BF EU sex combined 5 SNPs	6DVHXY	M_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00202259417758935	4	0.999999488983727
+Lu BF EU sex combined 5 SNPs	6FvUmP	Gly_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.64217101780383	4	0.326020890330264
+Lu BF EU sex combined 5 SNPs	6FvUmP	Gly_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	4.23146095224944	3	0.237530862568841
+Lu BF EU sex combined 5 SNPs	6FvUmP	Gly_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	4.8344831839278	4	0.304705994911312
+Lu BF EU sex combined 5 SNPs	6FvUmP	Gly_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000220615364995131	4	0.999999993916555
+Lu BF EU sex combined 5 SNPs	6HPuTk	L_LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	161.853224608328	4	5.85388025180909e-34
+Lu BF EU sex combined 5 SNPs	6HPuTk	L_LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	323.425285973693	3	8.45775630953063e-70
+Lu BF EU sex combined 5 SNPs	6HPuTk	L_LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	452.67972943967	4	1.14425103696948e-96
+Lu BF EU sex combined 5 SNPs	6HPuTk	L_LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0229218770260862	4	0.999934823104049
+Lu BF EU sex combined 5 SNPs	7E2C6J	VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	104.166393810219	4	1.27500548870764e-21
+Lu BF EU sex combined 5 SNPs	7E2C6J	VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	89.3938447103069	3	2.95628525302791e-19
+Lu BF EU sex combined 5 SNPs	7E2C6J	VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	141.045286867305	4	1.68596542814658e-29
+Lu BF EU sex combined 5 SNPs	7E2C6J	VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00716433732560951	4	0.999993599335322
+Lu BF EU sex combined 5 SNPs	7FzMed	XL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	88.5535098351612	4	2.67131409199842e-18
+Lu BF EU sex combined 5 SNPs	7FzMed	XL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	68.1317369757581	3	1.07210092047405e-14
+Lu BF EU sex combined 5 SNPs	7FzMed	XL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	110.853236732282	4	4.78640580898028e-23
+Lu BF EU sex combined 5 SNPs	7FzMed	XL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00563231480973356	4	0.999996042065619
+Lu BF EU sex combined 5 SNPs	7G76s4	M_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	153.707906559205	4	3.26612534944953e-32
+Lu BF EU sex combined 5 SNPs	7G76s4	M_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	228.480584740817	3	2.94662313548247e-49
+Lu BF EU sex combined 5 SNPs	7G76s4	M_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	330.40654779369	4	2.97693483855671e-70
+Lu BF EU sex combined 5 SNPs	7G76s4	M_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0167738516768953	4	0.99996502576732
+Lu BF EU sex combined 5 SNPs	7qHQKi	S_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	118.948629730508	4	8.95785845594888e-25
+Lu BF EU sex combined 5 SNPs	7qHQKi	S_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	186.244390462682	3	3.95220521436719e-40
+Lu BF EU sex combined 5 SNPs	7qHQKi	S_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	258.400229818808	4	1.00858940365222e-54
+Lu BF EU sex combined 5 SNPs	7qHQKi	S_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0131249288123437	4	0.99997856100526
+Lu BF EU sex combined 5 SNPs	7w620d	XS_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	112.003583281492	4	2.72031640184771e-23
+Lu BF EU sex combined 5 SNPs	7w620d	XS_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	123.448030971687	3	1.39559392938122e-26
+Lu BF EU sex combined 5 SNPs	7w620d	XS_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	193.179404068613	4	1.09908021447791e-40
+Lu BF EU sex combined 5 SNPs	7w620d	XS_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00989806539786109	4	0.999987793868212
+Lu BF EU sex combined 5 SNPs	7wO9IL	Phosphatidylc_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	16.1098932241389	4	0.00287519317204677
+Lu BF EU sex combined 5 SNPs	7wO9IL	Phosphatidylc_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5.96890831032314	3	0.113132740668019
+Lu BF EU sex combined 5 SNPs	7wO9IL	Phosphatidylc_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	16.4146077612384	4	0.00251041597753343
+Lu BF EU sex combined 5 SNPs	7wO9IL	Phosphatidylc_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000810178507081249	4	0.999999917973503
+Lu BF EU sex combined 5 SNPs	7zPZZs	S_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	7.64804320152785	4	0.105355633758019
+Lu BF EU sex combined 5 SNPs	7zPZZs	S_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	6.0479731834978	3	0.109299409960729
+Lu BF EU sex combined 5 SNPs	7zPZZs	S_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.79484705392042	4	0.0993889567133326
+Lu BF EU sex combined 5 SNPs	7zPZZs	S_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000290688228659615	4	0.999999989438567
+Lu BF EU sex combined 5 SNPs	83BPet	Gln_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	5.393570880761	4	0.249244285233433
+Lu BF EU sex combined 5 SNPs	83BPet	Gln_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	4.08139375872523	3	0.252808146296932
+Lu BF EU sex combined 5 SNPs	83BPet	Gln_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	5.45287950799059	4	0.243902562929295
+Lu BF EU sex combined 5 SNPs	83BPet	Gln_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000240380555289387	4	0.999999992777727
+Lu BF EU sex combined 5 SNPs	8tO0X4	L_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	162.966813610028	4	3.37732339313724e-34
+Lu BF EU sex combined 5 SNPs	8tO0X4	L_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	327.421235792371	3	1.15397363662837e-70
+Lu BF EU sex combined 5 SNPs	8tO0X4	L_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	462.064000772531	4	1.0705944147241e-98
+Lu BF EU sex combined 5 SNPs	8tO0X4	L_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0233595772191671	4	0.999932320059069
+Lu BF EU sex combined 5 SNPs	8zzXch	M_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	107.346830763726	4	2.67736806759085e-22
+Lu BF EU sex combined 5 SNPs	8zzXch	M_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	166.865867484327	3	6.04283503069259e-36
+Lu BF EU sex combined 5 SNPs	8zzXch	M_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	212.212995854475	4	8.87869782300234e-45
+Lu BF EU sex combined 5 SNPs	8zzXch	M_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.010565416696535	4	0.999986095540568
+Lu BF EU sex combined 5 SNPs	97TzQj	IDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	151.44821868713	4	9.96251574216731e-32
+Lu BF EU sex combined 5 SNPs	97TzQj	IDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	273.730477013797	3	4.81240050575887e-59
+Lu BF EU sex combined 5 SNPs	97TzQj	IDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	384.440869544819	4	6.39409264137606e-82
+Lu BF EU sex combined 5 SNPs	97TzQj	IDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0195509651182252	4	0.99995253021377
+Lu BF EU sex combined 5 SNPs	9IXrzf	XL_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	18.9023935518871	4	0.000821416490892109
+Lu BF EU sex combined 5 SNPs	9IXrzf	XL_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	18.9882372990056	3	0.00027493423537845
+Lu BF EU sex combined 5 SNPs	9IXrzf	XL_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	20.7226425834998	4	0.000359388502721943
+Lu BF EU sex combined 5 SNPs	9IXrzf	XL_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000936885582585909	4	0.999999890314934
+Lu BF EU sex combined 5 SNPs	9VN5E6	Total_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	13.0457686661771	4	0.0110543118580546
+Lu BF EU sex combined 5 SNPs	9VN5E6	Total_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	4.33550182353077	3	0.227440895286806
+Lu BF EU sex combined 5 SNPs	9VN5E6	Total_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	13.048249610501	4	0.0110424283141335
+Lu BF EU sex combined 5 SNPs	9VN5E6	Total_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000611186392397897	4	0.999999953315911
+Lu BF EU sex combined 5 SNPs	9XRDgp	Cholines_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	34.1286864662151	4	7.01248706318212e-07
+Lu BF EU sex combined 5 SNPs	9XRDgp	Cholines_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	19.8606923221983	3	0.000181407888842949
+Lu BF EU sex combined 5 SNPs	9XRDgp	Cholines_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	36.2371123849286	4	2.58622387963273e-07
+Lu BF EU sex combined 5 SNPs	9XRDgp	Cholines_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00182388896134108	4	0.99999958443135
+Lu BF EU sex combined 5 SNPs	ABR5av	Total_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	119.180132052378	4	7.99400792245807e-25
+Lu BF EU sex combined 5 SNPs	ABR5av	Total_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	118.144570503874	3	1.93646572034554e-25
+Lu BF EU sex combined 5 SNPs	ABR5av	Total_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	179.291722555928	4	1.05838847312706e-37
+Lu BF EU sex combined 5 SNPs	ABR5av	Total_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0090364219652905	4	0.999989823577995
+Lu BF EU sex combined 5 SNPs	Ac404Q	LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	165.146618967603	4	1.15062800262649e-34
+Lu BF EU sex combined 5 SNPs	Ac404Q	LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	335.295798137787	3	2.2771212762657e-72
+Lu BF EU sex combined 5 SNPs	Ac404Q	LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	471.826470814538	4	8.29417087544002e-101
+Lu BF EU sex combined 5 SNPs	Ac404Q	LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0238864465874956	4	0.999929245036242
+Lu BF EU sex combined 5 SNPs	AjechM	XS_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	87.0189314127772	4	5.65628799934319e-18
+Lu BF EU sex combined 5 SNPs	AjechM	XS_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	117.986308181942	3	2.09454536986945e-25
+Lu BF EU sex combined 5 SNPs	AjechM	XS_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	152.728268864994	4	5.29684752554409e-32
+Lu BF EU sex combined 5 SNPs	AjechM	XS_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00746841686288738	4	0.999993045176404
+Lu BF EU sex combined 5 SNPs	akjzfo	L_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	7.72312842355735	4	0.102263345792861
+Lu BF EU sex combined 5 SNPs	akjzfo	L_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5.25598710720016	3	0.153983951966213
+Lu BF EU sex combined 5 SNPs	akjzfo	L_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.74177311194595	4	0.101508718148634
+Lu BF EU sex combined 5 SNPs	akjzfo	L_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000374562148935901	4	0.999999982465089
+Lu BF EU sex combined 5 SNPs	atiLaP	LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	171.052460152327	4	6.21695898148968e-36
+Lu BF EU sex combined 5 SNPs	atiLaP	LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	372.630595022519	3	1.87514363541127e-80
+Lu BF EU sex combined 5 SNPs	atiLaP	LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	521.735198073696	4	1.33267115366108e-111
+Lu BF EU sex combined 5 SNPs	atiLaP	LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0264634297758571	4	0.999913229237784
+Lu BF EU sex combined 5 SNPs	aXgtPl	Val_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	8.03928483094973	4	0.0901496946667356
+Lu BF EU sex combined 5 SNPs	aXgtPl	Val_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	2.57674188985422	3	0.461581591195695
+Lu BF EU sex combined 5 SNPs	aXgtPl	Val_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	8.56824939196448	4	0.072845267491775
+Lu BF EU sex combined 5 SNPs	aXgtPl	Val_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000344562145090213	4	0.99999998516132
+Lu BF EU sex combined 5 SNPs	AYDCOO	L_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	24.5593838862293	4	6.16858495348037e-05
+Lu BF EU sex combined 5 SNPs	AYDCOO	L_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	10.4639967767057	3	0.0150071272523385
+Lu BF EU sex combined 5 SNPs	AYDCOO	L_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	25.1632046516007	4	4.66477334076644e-05
+Lu BF EU sex combined 5 SNPs	AYDCOO	L_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00128433638115381	4	0.999999793898259
+Lu BF EU sex combined 5 SNPs	AYeMzb	IDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	167.860697585722	4	3.01006284277677e-35
+Lu BF EU sex combined 5 SNPs	AYeMzb	IDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	328.501212782867	3	6.73585312814617e-71
+Lu BF EU sex combined 5 SNPs	AYeMzb	IDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	467.945940132031	4	5.72595713100852e-100
+Lu BF EU sex combined 5 SNPs	AYeMzb	IDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0238783054281018	4	0.999929293066819
+Lu BF EU sex combined 5 SNPs	BBSetf	XS_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	84.5934905835861	4	1.85017227211636e-17
+Lu BF EU sex combined 5 SNPs	BBSetf	XS_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	113.270346346277	3	2.16989938857394e-24
+Lu BF EU sex combined 5 SNPs	BBSetf	XS_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	146.939464579959	4	9.21468454424392e-31
+Lu BF EU sex combined 5 SNPs	BBSetf	XS_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00717128455094758	4	0.999993586930759
+Lu BF EU sex combined 5 SNPs	bHqHmv	XL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	68.5710405748732	4	4.54552714367488e-14
+Lu BF EU sex combined 5 SNPs	bHqHmv	XL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	46.5542120842957	3	4.32360586691413e-10
+Lu BF EU sex combined 5 SNPs	bHqHmv	XL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	78.0842719270458	4	4.43336027295854e-16
+Lu BF EU sex combined 5 SNPs	bHqHmv	XL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00395354271086236	4	0.999998048760424
+Lu BF EU sex combined 5 SNPs	BmjpyA	XS_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	100.323626402883	4	8.39358034728971e-21
+Lu BF EU sex combined 5 SNPs	BmjpyA	XS_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	92.1775515990609	3	7.46085774473247e-20
+Lu BF EU sex combined 5 SNPs	BmjpyA	XS_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	146.653961294701	4	1.06082420669063e-30
+Lu BF EU sex combined 5 SNPs	BmjpyA	XS_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00753456082280719	4	0.999992921596251
+Lu BF EU sex combined 5 SNPs	bOI93O	XL_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	37.9184697485592	4	1.16480386180193e-07
+Lu BF EU sex combined 5 SNPs	bOI93O	XL_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	39.8847251456205	3	1.12717488862065e-08
+Lu BF EU sex combined 5 SNPs	bOI93O	XL_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	45.3826981727794	4	3.31025992868953e-09
+Lu BF EU sex combined 5 SNPs	bOI93O	XL_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00216912697814632	4	0.999999412286095
+Lu BF EU sex combined 5 SNPs	BspyrA	XS_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	114.29095108272	4	8.84201471616972e-24
+Lu BF EU sex combined 5 SNPs	BspyrA	XS_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	134.366719873227	3	6.19327336290047e-29
+Lu BF EU sex combined 5 SNPs	BspyrA	XS_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	208.762820905094	4	4.90335609652294e-44
+Lu BF EU sex combined 5 SNPs	BspyrA	XS_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0106859872715207	4	0.99998577695096
+Lu BF EU sex combined 5 SNPs	Bu4No7	L_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	15.9057620794763	4	0.00314825906920315
+Lu BF EU sex combined 5 SNPs	Bu4No7	L_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	13.3960808237457	3	0.00385384574873588
+Lu BF EU sex combined 5 SNPs	Bu4No7	L_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	16.3952478356684	4	0.00253216974530553
+Lu BF EU sex combined 5 SNPs	Bu4No7	L_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000795415919534563	4	0.999999920935155
+Lu BF EU sex combined 5 SNPs	BwO9cO	XL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	46.3049989753997	4	2.12793967410996e-09
+Lu BF EU sex combined 5 SNPs	BwO9cO	XL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	52.5792955928357	3	2.25389967144382e-11
+Lu BF EU sex combined 5 SNPs	BwO9cO	XL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	61.7514331527558	4	1.2425292545291e-12
+Lu BF EU sex combined 5 SNPs	BwO9cO	XL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00305501715312202	4	0.99999883454613
+Lu BF EU sex combined 5 SNPs	Bz3EkP	XXL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	3.84418601142403	4	0.427503474385919
+Lu BF EU sex combined 5 SNPs	Bz3EkP	XXL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	0.753512864041126	3	0.860550692582076
+Lu BF EU sex combined 5 SNPs	Bz3EkP	XXL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.86881806155437	4	0.424050405403632
+Lu BF EU sex combined 5 SNPs	Bz3EkP	XXL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000166074526153073	4	0.999999996552597
+Lu BF EU sex combined 5 SNPs	bZaEwp	LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	167.043621900193	4	4.50720362993993e-35
+Lu BF EU sex combined 5 SNPs	bZaEwp	LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	337.0581968539	3	9.4584031373717e-73
+Lu BF EU sex combined 5 SNPs	bZaEwp	LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	474.913307718948	4	1.78358981235594e-101
+Lu BF EU sex combined 5 SNPs	bZaEwp	LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0240628463944516	4	0.99992820035385
+Lu BF EU sex combined 5 SNPs	C1NZb9	L_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	66.2251262733269	4	1.42007375318699e-13
+Lu BF EU sex combined 5 SNPs	C1NZb9	L_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	84.4048884422876	3	3.48250794879492e-18
+Lu BF EU sex combined 5 SNPs	C1NZb9	L_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	101.632481743059	4	4.4182766055505e-21
+Lu BF EU sex combined 5 SNPs	C1NZb9	L_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00489188649713166	4	0.999997013554073
+Lu BF EU sex combined 5 SNPs	C4V0HN	Acetone_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	0.887897010924391	4	0.92629073339438
+Lu BF EU sex combined 5 SNPs	C4V0HN	Acetone_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	0.522149636162561	3	0.913998972281207
+Lu BF EU sex combined 5 SNPs	C4V0HN	Acetone_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	0.88790268374926	4	0.926289925604581
+Lu BF EU sex combined 5 SNPs	C4V0HN	Acetone_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	3.73753451088997e-05	4	0.999999999825388
+Lu BF EU sex combined 5 SNPs	C5AfkM	Sphingomyelins_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	120.959524454226	4	3.33200141481006e-25
+Lu BF EU sex combined 5 SNPs	C5AfkM	Sphingomyelins_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	141.927995103566	3	1.45120847660196e-30
+Lu BF EU sex combined 5 SNPs	C5AfkM	Sphingomyelins_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	199.574997389716	4	4.6371017023226e-42
+Lu BF EU sex combined 5 SNPs	C5AfkM	Sphingomyelins_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0100957154430383	4	0.99998730235976
+Lu BF EU sex combined 5 SNPs	c83TZG	S_LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	158.392898385857	4	3.23276599300628e-33
+Lu BF EU sex combined 5 SNPs	c83TZG	S_LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	278.733711566601	3	3.97949700602639e-60
+Lu BF EU sex combined 5 SNPs	c83TZG	S_LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	387.128937207871	4	1.67912460277206e-82
+Lu BF EU sex combined 5 SNPs	c83TZG	S_LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0196661587145073	4	0.999951971027973
+Lu BF EU sex combined 5 SNPs	cAopms	M_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	109.096102827082	4	1.13436051555664e-22
+Lu BF EU sex combined 5 SNPs	cAopms	M_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	98.3195254492483	3	3.57106654790934e-21
+Lu BF EU sex combined 5 SNPs	cAopms	M_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	151.355358675646	4	1.04296664794859e-31
+Lu BF EU sex combined 5 SNPs	cAopms	M_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0076124614398455	4	0.99999277465843
+Lu BF EU sex combined 5 SNPs	cDQ7vV	XS_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	70.1334608342852	4	2.12725354047546e-14
+Lu BF EU sex combined 5 SNPs	cDQ7vV	XS_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	75.8647119261792	3	2.36462656011921e-16
+Lu BF EU sex combined 5 SNPs	cDQ7vV	XS_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	97.5882208335504	4	3.20748825387243e-20
+Lu BF EU sex combined 5 SNPs	cDQ7vV	XS_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00488868188403685	4	0.999997017462372
+Lu BF EU sex combined 5 SNPs	CHRv8G	XS_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.86531806289229	4	0.143179041325685
+Lu BF EU sex combined 5 SNPs	CHRv8G	XS_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	2.94048201264739	3	0.400893003432096
+Lu BF EU sex combined 5 SNPs	CHRv8G	XS_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	6.88481790014559	4	0.142101716499169
+Lu BF EU sex combined 5 SNPs	CHRv8G	XS_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00032271200971069	4	0.99999998698352
+Lu BF EU sex combined 5 SNPs	COetXv	S_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	141.574445820568	4	1.29881367853942e-29
+Lu BF EU sex combined 5 SNPs	COetXv	S_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	189.24545704761	3	8.88384326712013e-41
+Lu BF EU sex combined 5 SNPs	COetXv	S_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	278.561876285773	4	4.55046514158226e-59
+Lu BF EU sex combined 5 SNPs	COetXv	S_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0141788831486137	4	0.999974988366125
+Lu BF EU sex combined 5 SNPs	CRlyQR	M_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.17602661076291	4	0.186382512583414
+Lu BF EU sex combined 5 SNPs	CRlyQR	M_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	3.24418895812847	3	0.355486344953914
+Lu BF EU sex combined 5 SNPs	CRlyQR	M_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	6.5927271717446	4	0.159040785247602
+Lu BF EU sex combined 5 SNPs	CRlyQR	M_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000305937246604452	4	0.999999988301493
+Lu BF EU sex combined 5 SNPs	CsXWQP	L_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	66.0068407418607	4	1.57877141117022e-13
+Lu BF EU sex combined 5 SNPs	CsXWQP	L_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	73.466976469194	3	7.72022766177298e-16
+Lu BF EU sex combined 5 SNPs	CsXWQP	L_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	87.7563716246614	4	3.94440334251389e-18
+Lu BF EU sex combined 5 SNPs	CsXWQP	L_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00426420188214925	4	0.999997730300947
+Lu BF EU sex combined 5 SNPs	cXKgbD	M_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	43.969795082582	4	6.50912909219283e-09
+Lu BF EU sex combined 5 SNPs	cXKgbD	M_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	38.4353739013836	3	2.28590590355118e-08
+Lu BF EU sex combined 5 SNPs	cXKgbD	M_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	48.48061942842	4	7.49310694621677e-10
+Lu BF EU sex combined 5 SNPs	cXKgbD	M_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0024798932960508	4	0.999999231901319
+Lu BF EU sex combined 5 SNPs	cZMyUi	XL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	96.1128235459193	4	6.6078674930438e-20
+Lu BF EU sex combined 5 SNPs	cZMyUi	XL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	98.4667165847673	3	3.3201234026161e-21
+Lu BF EU sex combined 5 SNPs	cZMyUi	XL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	142.514408376301	4	8.17091285868486e-30
+Lu BF EU sex combined 5 SNPs	cZMyUi	XL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00744570863647386	4	0.999993087353021
+Lu BF EU sex combined 5 SNPs	d5mDkL	Pyruvate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	3.25235872981402	4	0.51651585810095
+Lu BF EU sex combined 5 SNPs	d5mDkL	Pyruvate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.00280388449322	3	0.800573499382775
+Lu BF EU sex combined 5 SNPs	d5mDkL	Pyruvate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.27079654739899	4	0.513572559594874
+Lu BF EU sex combined 5 SNPs	d5mDkL	Pyruvate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000144076981386556	4	0.999999997405353
+Lu BF EU sex combined 5 SNPs	DazDhw	M_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.088374453748	4	0.0389650493318788
+Lu BF EU sex combined 5 SNPs	DazDhw	M_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	10.0166833006856	3	0.0184248523279961
+Lu BF EU sex combined 5 SNPs	DazDhw	M_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	10.475978808256	4	0.0331294890772435
+Lu BF EU sex combined 5 SNPs	DazDhw	M_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000424858140195061	4	0.99999997744014
+Lu BF EU sex combined 5 SNPs	DDMeny	L_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	59.5322293558712	4	3.6375862717788e-12
+Lu BF EU sex combined 5 SNPs	DDMeny	L_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	38.1094843463667	3	2.67957022624059e-08
+Lu BF EU sex combined 5 SNPs	DDMeny	L_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	65.6614476018542	4	1.86684863208857e-13
+Lu BF EU sex combined 5 SNPs	DDMeny	L_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00330872355208394	4	0.999998633051902
+Lu BF EU sex combined 5 SNPs	dEdz7Q	Total_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	143.824688459465	4	4.28219837080977e-30
+Lu BF EU sex combined 5 SNPs	dEdz7Q	Total_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	212.840828603693	3	7.08263915112324e-46
+Lu BF EU sex combined 5 SNPs	dEdz7Q	Total_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	304.380122455251	4	1.2300614219746e-64
+Lu BF EU sex combined 5 SNPs	dEdz7Q	Total_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0153555567489169	4	0.999970676290087
+Lu BF EU sex combined 5 SNPs	DfRYgf	L_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	66.7767072159111	4	1.08650981048753e-13
+Lu BF EU sex combined 5 SNPs	DfRYgf	L_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	74.2568857287899	3	5.22835786295641e-16
+Lu BF EU sex combined 5 SNPs	DfRYgf	L_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	94.6403253034945	4	1.35907325170534e-19
+Lu BF EU sex combined 5 SNPs	DfRYgf	L_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00483532932370594	4	0.999997082155023
+Lu BF EU sex combined 5 SNPs	dR9LGN	M_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	174.346226827534	4	1.22048950756474e-36
+Lu BF EU sex combined 5 SNPs	dR9LGN	M_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	367.964008521278	3	1.92153810752403e-79
+Lu BF EU sex combined 5 SNPs	dR9LGN	M_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	512.958903593653	4	1.05470726827562e-109
+Lu BF EU sex combined 5 SNPs	dR9LGN	M_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0260150219598052	4	0.999916132366472
+Lu BF EU sex combined 5 SNPs	E4KAIl	M_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	161.604764217112	4	6.61816021086756e-34
+Lu BF EU sex combined 5 SNPs	E4KAIl	M_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	279.630380358739	3	2.54572514631952e-60
+Lu BF EU sex combined 5 SNPs	E4KAIl	M_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	397.513031790205	4	9.58611995055378e-85
+Lu BF EU sex combined 5 SNPs	E4KAIl	M_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0201778647220707	4	0.999949447736215
+Lu BF EU sex combined 5 SNPs	E8cNs1	Acetoacetate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	7.24788999104413	4	0.123354030693867
+Lu BF EU sex combined 5 SNPs	E8cNs1	Acetoacetate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	7.06357260929597	3	0.0698988652004516
+Lu BF EU sex combined 5 SNPs	E8cNs1	Acetoacetate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.24806321563802	4	0.123345657556398
+Lu BF EU sex combined 5 SNPs	E8cNs1	Acetoacetate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000317693785247068	4	0.999999987385168
+Lu BF EU sex combined 5 SNPs	eb9KUO	HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	11.3943421340668	4	0.0224719849567771
+Lu BF EU sex combined 5 SNPs	eb9KUO	HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	8.62783578535392	3	0.0346709503446832
+Lu BF EU sex combined 5 SNPs	eb9KUO	HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	11.436678445155	4	0.0220708347170814
+Lu BF EU sex combined 5 SNPs	eb9KUO	HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000592319394357003	4	0.999999956153375
+Lu BF EU sex combined 5 SNPs	EccP2B	M_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	8.5684442397306	4	0.0728395138925646
+Lu BF EU sex combined 5 SNPs	EccP2B	M_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	8.07374072237286	3	0.044512038785738
+Lu BF EU sex combined 5 SNPs	EccP2B	M_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	8.77887302018306	4	0.0668706131136652
+Lu BF EU sex combined 5 SNPs	EccP2B	M_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000347630123911757	4	0.999999984895912
+Lu BF EU sex combined 5 SNPs	Eg4w6q	M_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	65.5431101169724	4	1.97717692589825e-13
+Lu BF EU sex combined 5 SNPs	Eg4w6q	M_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	76.7216606703386	3	1.54901648404486e-16
+Lu BF EU sex combined 5 SNPs	Eg4w6q	M_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	86.655597273393	4	6.75541919293056e-18
+Lu BF EU sex combined 5 SNPs	Eg4w6q	M_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0040886370374114	4	0.999997913226613
+Lu BF EU sex combined 5 SNPs	eSeuvo	LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	162.821734793606	4	3.62822329882318e-34
+Lu BF EU sex combined 5 SNPs	eSeuvo	LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	307.572087933083	3	2.28501165595039e-66
+Lu BF EU sex combined 5 SNPs	eSeuvo	LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	436.077295258742	4	4.44159793299186e-93
+Lu BF EU sex combined 5 SNPs	eSeuvo	LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.022076843785019	4	0.999939523102656
+Lu BF EU sex combined 5 SNPs	F6GkcI	bOHbutyrate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	42.1696885878248	4	1.53837712333381e-08
+Lu BF EU sex combined 5 SNPs	F6GkcI	bOHbutyrate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	38.5618070272178	3	2.14922773081342e-08
+Lu BF EU sex combined 5 SNPs	F6GkcI	bOHbutyrate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	42.3073657542757	4	1.44051634082239e-08
+Lu BF EU sex combined 5 SNPs	F6GkcI	bOHbutyrate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00199906762857335	4	0.99999950079882
+Lu BF EU sex combined 5 SNPs	FBfcre	VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	116.803625900076	4	2.5716662336484e-24
+Lu BF EU sex combined 5 SNPs	FBfcre	VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	117.461906481827	3	2.71650744742234e-25
+Lu BF EU sex combined 5 SNPs	FBfcre	VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	181.174520619982	4	4.17145712906884e-38
+Lu BF EU sex combined 5 SNPs	FBfcre	VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00923176998955668	4	0.999989379528804
+Lu BF EU sex combined 5 SNPs	FdmrOk	L_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	42.9019224238062	4	1.08442832745019e-08
+Lu BF EU sex combined 5 SNPs	FdmrOk	L_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	44.8921661556325	3	9.75405483437124e-10
+Lu BF EU sex combined 5 SNPs	FdmrOk	L_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	54.7362211426677	4	3.68986952619873e-11
+Lu BF EU sex combined 5 SNPs	FdmrOk	L_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00275490861886768	4	0.999999052180548
+Lu BF EU sex combined 5 SNPs	fHCjVC	M_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	126.336813850468	4	2.36390870094357e-26
+Lu BF EU sex combined 5 SNPs	fHCjVC	M_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	137.083233016297	3	1.60812776226385e-29
+Lu BF EU sex combined 5 SNPs	fHCjVC	M_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	205.135054390587	4	2.9560550914705e-43
+Lu BF EU sex combined 5 SNPs	fHCjVC	M_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0103748272692375	4	0.999986591809324
+Lu BF EU sex combined 5 SNPs	fqCWjl	SFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	48.1497551461725	4	8.78319123720443e-10
+Lu BF EU sex combined 5 SNPs	fqCWjl	SFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	26.6507721804477	3	6.96814982735777e-06
+Lu BF EU sex combined 5 SNPs	fqCWjl	SFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	49.8794852787412	4	3.82624746224132e-10
+Lu BF EU sex combined 5 SNPs	fqCWjl	SFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00250003874052129	4	0.999999219376554
+Lu BF EU sex combined 5 SNPs	G9V4YV	VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	14.2227802543941	4	0.00661694917646847
+Lu BF EU sex combined 5 SNPs	G9V4YV	VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5.59701071397429	3	0.132950075151625
+Lu BF EU sex combined 5 SNPs	G9V4YV	VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	14.224283650798	4	0.00661258984135412
+Lu BF EU sex combined 5 SNPs	G9V4YV	VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000663739945785932	4	0.999999944943343
+Lu BF EU sex combined 5 SNPs	gaukwo	SFA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	32.8067141719609	4	1.30841514990524e-06
+Lu BF EU sex combined 5 SNPs	gaukwo	SFA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	33.6252019901765	3	2.3770377958304e-07
+Lu BF EU sex combined 5 SNPs	gaukwo	SFA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	33.6471032798791	4	8.80275481449164e-07
+Lu BF EU sex combined 5 SNPs	gaukwo	SFA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00138710202732064	4	0.999999759604669
+Lu BF EU sex combined 5 SNPs	GG6Hik	HDL_size_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	34.0910981763347	4	7.13809282444715e-07
+Lu BF EU sex combined 5 SNPs	GG6Hik	HDL_size_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	22.9245619875527	3	4.18718154060667e-05
+Lu BF EU sex combined 5 SNPs	GG6Hik	HDL_size_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	34.4636238726257	4	5.98616929887614e-07
+Lu BF EU sex combined 5 SNPs	GG6Hik	HDL_size_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00172839102177248	4	0.999999626798127
+Lu BF EU sex combined 5 SNPs	ggbftB	L_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	9.0212015289127	4	0.0605717227816372
+Lu BF EU sex combined 5 SNPs	ggbftB	L_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5.95014833978315	3	0.114060967336577
+Lu BF EU sex combined 5 SNPs	ggbftB	L_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	9.03645453728188	4	0.0601947218804282
+Lu BF EU sex combined 5 SNPs	ggbftB	L_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000441684023744392	4	0.999999975617993
+Lu BF EU sex combined 5 SNPs	glBfop	M_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	41.8387497661105	4	1.80160296453207e-08
+Lu BF EU sex combined 5 SNPs	glBfop	M_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	47.4002729078254	3	2.85680439076562e-10
+Lu BF EU sex combined 5 SNPs	glBfop	M_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	48.5990254892618	4	7.0789339317184e-10
+Lu BF EU sex combined 5 SNPs	glBfop	M_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00221965421223315	4	0.999999384597372
+Lu BF EU sex combined 5 SNPs	gqo1QV	S_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	80.0313503493825	4	1.7153902884814e-16
+Lu BF EU sex combined 5 SNPs	gqo1QV	S_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	57.6124973833353	3	1.90175529927074e-12
+Lu BF EU sex combined 5 SNPs	gqo1QV	S_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	94.360643439701	4	1.55853413375551e-19
+Lu BF EU sex combined 5 SNPs	gqo1QV	S_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00477531652711015	4	0.999997154077225
+Lu BF EU sex combined 5 SNPs	GzKzqX	Total_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	67.8191087694428	4	6.54955739146698e-14
+Lu BF EU sex combined 5 SNPs	GzKzqX	Total_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	48.8594416579424	3	1.39750035660543e-10
+Lu BF EU sex combined 5 SNPs	GzKzqX	Total_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	79.990735258617	4	1.74971502928388e-16
+Lu BF EU sex combined 5 SNPs	GzKzqX	Total_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00402879156674739	4	0.999997973827422
+Lu BF EU sex combined 5 SNPs	gZUqMM	M_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	115.199781152969	4	5.65694777649877e-24
+Lu BF EU sex combined 5 SNPs	gZUqMM	M_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	138.853753876682	3	6.67734673723589e-30
+Lu BF EU sex combined 5 SNPs	gZUqMM	M_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	162.979097973473	4	3.35689279064823e-34
+Lu BF EU sex combined 5 SNPs	gZUqMM	M_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00812759976667854	4	0.9999917651017
+Lu BF EU sex combined 5 SNPs	H40Wc7	VLDL_size_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.6874510718616	4	0.0303105538236593
+Lu BF EU sex combined 5 SNPs	H40Wc7	VLDL_size_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	6.01342896714914	3	0.110958701398057
+Lu BF EU sex combined 5 SNPs	H40Wc7	VLDL_size_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	10.6880929284979	4	0.030302360784616
+Lu BF EU sex combined 5 SNPs	H40Wc7	VLDL_size_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000500266424627165	4	0.999999968721904
+Lu BF EU sex combined 5 SNPs	H4BfBC	M_LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	165.799389201751	4	8.3345175103414e-35
+Lu BF EU sex combined 5 SNPs	H4BfBC	M_LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	296.723845679235	3	5.09105953911107e-64
+Lu BF EU sex combined 5 SNPs	H4BfBC	M_LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	420.025330298543	4	1.30908220300235e-89
+Lu BF EU sex combined 5 SNPs	H4BfBC	M_LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0213145327448971	4	0.999943613203437
+Lu BF EU sex combined 5 SNPs	h4hfTG	Acetate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	2.53805818781143	4	0.637834096782938
+Lu BF EU sex combined 5 SNPs	h4hfTG	Acetate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.83764118751375	3	0.606778247538716
+Lu BF EU sex combined 5 SNPs	h4hfTG	Acetate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	2.67817217347905	4	0.613039569302003
+Lu BF EU sex combined 5 SNPs	h4hfTG	Acetate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	9.91344680152917e-05	4	0.999999998771585
+Lu BF EU sex combined 5 SNPs	HAY7sm	S_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.85501296761475	4	0.302500163912105
+Lu BF EU sex combined 5 SNPs	HAY7sm	S_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	3.86366640098406	3	0.276567005599239
+Lu BF EU sex combined 5 SNPs	HAY7sm	S_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	4.90617783504686	4	0.297060413429629
+Lu BF EU sex combined 5 SNPs	HAY7sm	S_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000191939815816448	4	0.999999995395183
+Lu BF EU sex combined 5 SNPs	hbeZjH	Albumin_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.97464558924202	4	0.289908924045516
+Lu BF EU sex combined 5 SNPs	hbeZjH	Albumin_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	2.96095338276378	3	0.397684658946711
+Lu BF EU sex combined 5 SNPs	hbeZjH	Albumin_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	5.08252853060916	4	0.278933893854365
+Lu BF EU sex combined 5 SNPs	hbeZjH	Albumin_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00018886832100833	4	0.999999995541375
+Lu BF EU sex combined 5 SNPs	hBSYP3	Omega_3_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	12.6901756980111	4	0.0128931891608333
+Lu BF EU sex combined 5 SNPs	hBSYP3	Omega_3_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	11.5335697141692	3	0.00916435077190819
+Lu BF EU sex combined 5 SNPs	hBSYP3	Omega_3_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	12.7711255264766	4	0.0124499876678584
+Lu BF EU sex combined 5 SNPs	hBSYP3	Omega_3_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000640563621406213	4	0.999999948720731
+Lu BF EU sex combined 5 SNPs	hJbdsS	M_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	97.9787845155483	4	2.64883634955027e-20
+Lu BF EU sex combined 5 SNPs	hJbdsS	M_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	144.602850356751	3	3.84495542302508e-31
+Lu BF EU sex combined 5 SNPs	hJbdsS	M_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	180.800045102846	4	5.02013440647797e-38
+Lu BF EU sex combined 5 SNPs	hJbdsS	M_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00895418185301382	4	0.999990007691705
+Lu BF EU sex combined 5 SNPs	hKipkt	M_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	128.693119265121	4	7.41083168875289e-27
+Lu BF EU sex combined 5 SNPs	hKipkt	M_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	223.304180631365	3	3.87644591405773e-48
+Lu BF EU sex combined 5 SNPs	hKipkt	M_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	296.72707708544	4	5.50526829849906e-63
+Lu BF EU sex combined 5 SNPs	hKipkt	M_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0149738870721712	4	0.999972112338117
+Lu BF EU sex combined 5 SNPs	HTproF	IDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	147.389592980786	4	7.37983900527932e-31
+Lu BF EU sex combined 5 SNPs	HTproF	IDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	244.495716948734	3	1.0145439019187e-52
+Lu BF EU sex combined 5 SNPs	HTproF	IDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	354.293881735202	4	2.07414667303838e-75
+Lu BF EU sex combined 5 SNPs	HTproF	IDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0179842742998229	4	0.999959812283097
+Lu BF EU sex combined 5 SNPs	Hywdyn	M_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	32.0838849407113	4	1.83904349586173e-06
+Lu BF EU sex combined 5 SNPs	Hywdyn	M_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	17.0239478536025	3	0.000698772488272636
+Lu BF EU sex combined 5 SNPs	Hywdyn	M_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	32.5593348432175	4	1.47016355000923e-06
+Lu BF EU sex combined 5 SNPs	Hywdyn	M_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00156889847579889	4	0.999999692480556
+Lu BF EU sex combined 5 SNPs	hzxX2x	XL_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	116.45149907784	4	3.05765749621395e-24
+Lu BF EU sex combined 5 SNPs	hzxX2x	XL_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	124.503101039561	3	8.2693695932351e-27
+Lu BF EU sex combined 5 SNPs	hzxX2x	XL_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	173.040226130486	4	2.32755628643954e-36
+Lu BF EU sex combined 5 SNPs	hzxX2x	XL_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00862454264843181	4	0.999990728844716
+Lu BF EU sex combined 5 SNPs	igmelx	DHA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	7.72798821402858	4	0.102066147202155
+Lu BF EU sex combined 5 SNPs	igmelx	DHA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.41590476751485	3	0.701810836943426
+Lu BF EU sex combined 5 SNPs	igmelx	DHA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.73499965497632	4	0.101782264951412
+Lu BF EU sex combined 5 SNPs	igmelx	DHA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0003273154413621	4	0.999999986609536
+Lu BF EU sex combined 5 SNPs	IZvfpf	Creatinine_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	1.1656027792683	4	0.88372877313259
+Lu BF EU sex combined 5 SNPs	IZvfpf	Creatinine_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	0.750280441862295	3	0.861318486687918
+Lu BF EU sex combined 5 SNPs	IZvfpf	Creatinine_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	1.18289628429351	4	0.88090652543767
+Lu BF EU sex combined 5 SNPs	IZvfpf	Creatinine_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	5.82083788039775e-05	4	0.999999999576481
+Lu BF EU sex combined 5 SNPs	j7ufsW	XXL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	21.7639970936787	4	0.000223304550880953
+Lu BF EU sex combined 5 SNPs	j7ufsW	XXL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	21.1848586811358	3	9.63679817533006e-05
+Lu BF EU sex combined 5 SNPs	j7ufsW	XXL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	24.2871955669836	4	6.99546765137848e-05
+Lu BF EU sex combined 5 SNPs	j7ufsW	XXL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00123481833854282	4	0.999999809481392
+Lu BF EU sex combined 5 SNPs	jBa3FB	Total_FA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	71.1025799681693	4	1.32792529683293e-14
+Lu BF EU sex combined 5 SNPs	jBa3FB	Total_FA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	46.8186253014873	3	3.79847923268669e-10
+Lu BF EU sex combined 5 SNPs	jBa3FB	Total_FA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	76.8837457735123	4	7.95910548067771e-16
+Lu BF EU sex combined 5 SNPs	jBa3FB	Total_FA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00389015280596468	4	0.999998110790055
+Lu BF EU sex combined 5 SNPs	jhGynH	Total_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	5.04914755140028	4	0.282291723729253
+Lu BF EU sex combined 5 SNPs	jhGynH	Total_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.54856721098407	3	0.671107245730126
+Lu BF EU sex combined 5 SNPs	jhGynH	Total_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	5.06420585253708	4	0.280772792907787
+Lu BF EU sex combined 5 SNPs	jhGynH	Total_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00023778273412587	4	0.999999992932982
+Lu BF EU sex combined 5 SNPs	jpYOMs	L_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	164.343830815731	4	1.71067407642786e-34
+Lu BF EU sex combined 5 SNPs	jpYOMs	L_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	330.232546730278	3	2.84166447878198e-71
+Lu BF EU sex combined 5 SNPs	jpYOMs	L_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	468.086194078691	4	5.33976235432258e-100
+Lu BF EU sex combined 5 SNPs	jpYOMs	L_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0237877581277805	4	0.999929826180127
+Lu BF EU sex combined 5 SNPs	JQiIMS	M_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	107.397429340493	4	2.61169017133575e-22
+Lu BF EU sex combined 5 SNPs	JQiIMS	M_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	162.635088671913	3	4.94803266543397e-35
+Lu BF EU sex combined 5 SNPs	JQiIMS	M_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	208.25164057812	4	6.31597238357014e-44
+Lu BF EU sex combined 5 SNPs	JQiIMS	M_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0104517305370752	4	0.999986392645215
+Lu BF EU sex combined 5 SNPs	Ju1syW	LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	167.709929185789	4	3.24286488247091e-35
+Lu BF EU sex combined 5 SNPs	Ju1syW	LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	390.110942466591	3	3.06992888863186e-84
+Lu BF EU sex combined 5 SNPs	Ju1syW	LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	539.004370305462	4	2.44826771172814e-115
+Lu BF EU sex combined 5 SNPs	Ju1syW	LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.027270944745162	4	0.999907877704622
+Lu BF EU sex combined 5 SNPs	jUzFD4	Citrate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	3.38697847211883	4	0.495270218602321
+Lu BF EU sex combined 5 SNPs	jUzFD4	Citrate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	2.3303998066212	3	0.506722140059711
+Lu BF EU sex combined 5 SNPs	jUzFD4	Citrate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.3869805953154	4	0.49526988802769
+Lu BF EU sex combined 5 SNPs	jUzFD4	Citrate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000133389680666678	4	0.999999997775998
+Lu BF EU sex combined 5 SNPs	JXBxh3	L_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	118.043689052665	4	1.397809372092e-24
+Lu BF EU sex combined 5 SNPs	JXBxh3	L_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	190.381382131198	3	5.04921560155137e-41
+Lu BF EU sex combined 5 SNPs	JXBxh3	L_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	243.298953552357	4	1.80704600610471e-51
+Lu BF EU sex combined 5 SNPs	JXBxh3	L_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0118356082404695	4	0.999982558725436
+Lu BF EU sex combined 5 SNPs	k0lL6Z	DHA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.8357620084582	4	0.0284731710238601
+Lu BF EU sex combined 5 SNPs	k0lL6Z	DHA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	10.5091262752982	3	0.014699115988319
+Lu BF EU sex combined 5 SNPs	k0lL6Z	DHA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	11.1618183614726	4	0.0248043491662457
+Lu BF EU sex combined 5 SNPs	k0lL6Z	DHA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000558909805844948	4	0.999999960959753
+Lu BF EU sex combined 5 SNPs	K1PDpQ	IDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	121.621837511431	4	2.40557412597822e-25
+Lu BF EU sex combined 5 SNPs	K1PDpQ	IDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	162.557591440891	3	5.14231433913619e-35
+Lu BF EU sex combined 5 SNPs	K1PDpQ	IDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	211.724818355114	4	1.13074535970218e-44
+Lu BF EU sex combined 5 SNPs	K1PDpQ	IDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0105232964605444	4	0.99998620598942
+Lu BF EU sex combined 5 SNPs	khUC6S	L_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.7477745911196	4	0.0295498160077209
+Lu BF EU sex combined 5 SNPs	khUC6S	L_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	7.59526974672187	3	0.0551604370139225
+Lu BF EU sex combined 5 SNPs	khUC6S	L_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	10.7485388039175	4	0.0295402977878255
+Lu BF EU sex combined 5 SNPs	khUC6S	L_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000536569190270766	4	0.999999964018124
+Lu BF EU sex combined 5 SNPs	kIx6Dt	S_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	180.693365902648	4	5.2920862970134e-38
+Lu BF EU sex combined 5 SNPs	kIx6Dt	S_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	492.459563064817	3	2.0547981568066e-106
+Lu BF EU sex combined 5 SNPs	kIx6Dt	S_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	665.28919024908	4	1.14175256610052e-142
+Lu BF EU sex combined 5 SNPs	kIx6Dt	S_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0335032333824385	4	0.999861248797304
+Lu BF EU sex combined 5 SNPs	kuhDDN	S_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	118.034298745056	4	1.40427787626352e-24
+Lu BF EU sex combined 5 SNPs	kuhDDN	S_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	119.64785703854	3	9.18915987870182e-26
+Lu BF EU sex combined 5 SNPs	kuhDDN	S_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	186.079284634508	4	3.68729353526286e-39
+Lu BF EU sex combined 5 SNPs	kuhDDN	S_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00953506959217301	4	0.999988671362537
+Lu BF EU sex combined 5 SNPs	kZ58dV	XL_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	44.2768088560483	4	5.62013213575647e-09
+Lu BF EU sex combined 5 SNPs	kZ58dV	XL_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	30.360308457991	3	1.15902479092637e-06
+Lu BF EU sex combined 5 SNPs	kZ58dV	XL_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	46.5524425841378	4	1.88993392564116e-09
+Lu BF EU sex combined 5 SNPs	kZ58dV	XL_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00233942168678376	4	0.999999316421513
+Lu BF EU sex combined 5 SNPs	l2luQY	Omega_3_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	3.40353438363783	4	0.492696892063242
+Lu BF EU sex combined 5 SNPs	l2luQY	Omega_3_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	0.726397545752075	3	0.866978110162922
+Lu BF EU sex combined 5 SNPs	l2luQY	Omega_3_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.40755713914294	4	0.492072948242349
+Lu BF EU sex combined 5 SNPs	l2luQY	Omega_3_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000120883787997952	4	0.999999998173462
+Lu BF EU sex combined 5 SNPs	l56bLE	M_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	144.450673570368	4	3.14482264746861e-30
+Lu BF EU sex combined 5 SNPs	l56bLE	M_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	227.890040086934	3	3.9536900554311e-49
+Lu BF EU sex combined 5 SNPs	l56bLE	M_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	328.082396925493	4	9.44941823544073e-70
+Lu BF EU sex combined 5 SNPs	l56bLE	M_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0166886238968567	4	0.999965379289044
+Lu BF EU sex combined 5 SNPs	LCyXSh	L_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	51.8143929602746	4	1.50839810148749e-10
+Lu BF EU sex combined 5 SNPs	LCyXSh	L_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	31.5193457252929	3	6.60793054665457e-07
+Lu BF EU sex combined 5 SNPs	LCyXSh	L_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	55.0871075357213	4	3.11526237496813e-11
+Lu BF EU sex combined 5 SNPs	LCyXSh	L_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00276105760295883	4	0.999999047946692
+Lu BF EU sex combined 5 SNPs	lheg06	S_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	131.530689130552	4	1.83241926691217e-27
+Lu BF EU sex combined 5 SNPs	lheg06	S_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	252.150901697848	3	2.24186752437802e-54
+Lu BF EU sex combined 5 SNPs	lheg06	S_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	331.001405201659	4	2.21500229140313e-70
+Lu BF EU sex combined 5 SNPs	lheg06	S_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.016451001415579	4	0.99996635550743
+Lu BF EU sex combined 5 SNPs	lHN8y0	L_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	66.8917465058498	4	1.02749331040968e-13
+Lu BF EU sex combined 5 SNPs	lHN8y0	L_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	64.8572384142673	3	5.38141717479995e-14
+Lu BF EU sex combined 5 SNPs	lHN8y0	L_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	86.8317252817351	4	6.19824201170613e-18
+Lu BF EU sex combined 5 SNPs	lHN8y0	L_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00423096820563277	4	0.999997765516793
+Lu BF EU sex combined 5 SNPs	lQbM0k	M_LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	144.46211621099	4	3.12712579514372e-30
+Lu BF EU sex combined 5 SNPs	lQbM0k	M_LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	212.366126464698	3	8.97005334524403e-46
+Lu BF EU sex combined 5 SNPs	lQbM0k	M_LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	303.945982283625	4	1.52610110736311e-64
+Lu BF EU sex combined 5 SNPs	lQbM0k	M_LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0154885267181388	4	0.999970167560992
+Lu BF EU sex combined 5 SNPs	LRLL70	Ile_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	14.5719195681485	4	0.00567663135260766
+Lu BF EU sex combined 5 SNPs	LRLL70	Ile_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.15858017270403	3	0.762954655805817
+Lu BF EU sex combined 5 SNPs	LRLL70	Ile_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	15.5105534009325	4	0.00375142267713412
+Lu BF EU sex combined 5 SNPs	LRLL70	Ile_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000686808751331574	4	0.999999941050215
+Lu BF EU sex combined 5 SNPs	LsQA41	XXL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	15.708777412589	4	0.00343590311882582
+Lu BF EU sex combined 5 SNPs	LsQA41	XXL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	13.2895359744136	3	0.00405052361460026
+Lu BF EU sex combined 5 SNPs	LsQA41	XXL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	18.052752372011	4	0.0012051431205855
+Lu BF EU sex combined 5 SNPs	LsQA41	XXL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000934292579432799	4	0.999999890921147
+Lu BF EU sex combined 5 SNPs	LVaad3	IDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	26.7808896655542	4	2.20129333075271e-05
+Lu BF EU sex combined 5 SNPs	LVaad3	IDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	28.8984446252242	3	2.35220873318826e-06
+Lu BF EU sex combined 5 SNPs	LVaad3	IDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	31.4977889772364	4	2.42285918641942e-06
+Lu BF EU sex combined 5 SNPs	LVaad3	IDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00150689567384485	4	0.999999716300712
+Lu BF EU sex combined 5 SNPs	lWX0DH	XXL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	7.69780766007245	4	0.103296564071789
+Lu BF EU sex combined 5 SNPs	lWX0DH	XXL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.81991786680741	3	0.61061020651522
+Lu BF EU sex combined 5 SNPs	lWX0DH	XXL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.7004885088439	4	0.103186712506714
+Lu BF EU sex combined 5 SNPs	lWX0DH	XXL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000344644006698628	4	0.999999985154269
+Lu BF EU sex combined 5 SNPs	LXOaBX	VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	63.836841677219	4	4.52319125823971e-13
+Lu BF EU sex combined 5 SNPs	LXOaBX	VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	41.4326822048155	3	5.29352951334302e-09
+Lu BF EU sex combined 5 SNPs	LXOaBX	VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	70.6556218555536	4	1.65031134381821e-14
+Lu BF EU sex combined 5 SNPs	LXOaBX	VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00355073756026186	4	0.999998425896888
+Lu BF EU sex combined 5 SNPs	lYI7wH	L_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	38.4667720271324	4	8.97666779108965e-08
+Lu BF EU sex combined 5 SNPs	lYI7wH	L_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	39.3318758887951	3	1.47622511244883e-08
+Lu BF EU sex combined 5 SNPs	lYI7wH	L_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	42.8927822588776	4	1.08917384044202e-08
+Lu BF EU sex combined 5 SNPs	lYI7wH	L_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00203128374461481	4	0.999999484584882
+Lu BF EU sex combined 5 SNPs	lzzLNn	XXL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	12.9265363685335	4	0.0116403848841057
+Lu BF EU sex combined 5 SNPs	lzzLNn	XXL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	4.57656368624654	3	0.205561809993017
+Lu BF EU sex combined 5 SNPs	lzzLNn	XXL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	12.9543617949227	4	0.0115009566297125
+Lu BF EU sex combined 5 SNPs	lzzLNn	XXL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00061496814897953	4	0.999999952736461
+Lu BF EU sex combined 5 SNPs	M5VBe8	XS_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	91.74914104688	4	5.59582937342981e-19
+Lu BF EU sex combined 5 SNPs	M5VBe8	XS_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	127.479789290863	3	1.88861646295921e-27
+Lu BF EU sex combined 5 SNPs	M5VBe8	XS_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	164.156214822607	4	1.87679769155394e-34
+Lu BF EU sex combined 5 SNPs	M5VBe8	XS_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00803107027135295	4	0.999991959289184
+Lu BF EU sex combined 5 SNPs	M7jURZ	M_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	31.1110218993423	4	2.90582877607201e-06
+Lu BF EU sex combined 5 SNPs	M7jURZ	M_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	28.4701470878037	3	2.89362680284994e-06
+Lu BF EU sex combined 5 SNPs	M7jURZ	M_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	35.0212141264099	4	4.59897066648793e-07
+Lu BF EU sex combined 5 SNPs	M7jURZ	M_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00168549656763714	4	0.999999645087116
+Lu BF EU sex combined 5 SNPs	MA4eAi	S_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	81.5614640605656	4	8.1307228224688e-17
+Lu BF EU sex combined 5 SNPs	MA4eAi	S_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	59.1752695434182	3	8.81911906539055e-13
+Lu BF EU sex combined 5 SNPs	MA4eAi	S_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	97.2691877266417	4	3.75015076848207e-20
+Lu BF EU sex combined 5 SNPs	MA4eAi	S_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00492292234997748	4	0.999996975571016
+Lu BF EU sex combined 5 SNPs	mfSXkk	M_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	22.3274191566412	4	0.000172475961591091
+Lu BF EU sex combined 5 SNPs	mfSXkk	M_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	19.8448518786655	3	0.000182783875786908
+Lu BF EU sex combined 5 SNPs	mfSXkk	M_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	23.3445381768305	4	0.000108056856673356
+Lu BF EU sex combined 5 SNPs	mfSXkk	M_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0011794209608532	4	0.999999826189118
+Lu BF EU sex combined 5 SNPs	MJpjV8	ApoB_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	160.755737036294	4	1.00656435270836e-33
+Lu BF EU sex combined 5 SNPs	MJpjV8	ApoB_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	291.949499249531	3	5.49598663902333e-63
+Lu BF EU sex combined 5 SNPs	MJpjV8	ApoB_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	413.968968172822	4	2.66570237501365e-88
+Lu BF EU sex combined 5 SNPs	MJpjV8	ApoB_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0210297113744718	4	0.999945104896372
+Lu BF EU sex combined 5 SNPs	mSsIqn	HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	8.24433020609578	4	0.0830271279602496
+Lu BF EU sex combined 5 SNPs	mSsIqn	HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	6.48490295159783	3	0.0902597994753479
+Lu BF EU sex combined 5 SNPs	mSsIqn	HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	8.25681278849533	4	0.0826110832461426
+Lu BF EU sex combined 5 SNPs	mSsIqn	HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000426428817701113	4	0.999999977273039
+Lu BF EU sex combined 5 SNPs	MUu0fX	XL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	26.6558178715309	4	2.33316528775338e-05
+Lu BF EU sex combined 5 SNPs	MUu0fX	XL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	13.580522770604	3	0.00353547650609631
+Lu BF EU sex combined 5 SNPs	MUu0fX	XL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	27.0585688440188	4	1.93441947977439e-05
+Lu BF EU sex combined 5 SNPs	MUu0fX	XL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00133049733847941	4	0.999999778820216
+Lu BF EU sex combined 5 SNPs	N1PAyf	XL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	64.9334167176746	4	2.65766791471725e-13
+Lu BF EU sex combined 5 SNPs	N1PAyf	XL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	77.6074650345024	3	1.00031455523969e-16
+Lu BF EU sex combined 5 SNPs	N1PAyf	XL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	89.4991252366378	4	1.68228213785643e-18
+Lu BF EU sex combined 5 SNPs	N1PAyf	XL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00449473066973976	4	0.999997478454892
+Lu BF EU sex combined 5 SNPs	N6ozDG	XL_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	87.7703636132336	4	3.91751522236404e-18
+Lu BF EU sex combined 5 SNPs	N6ozDG	XL_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	98.0410779746801	3	4.09881554117166e-21
+Lu BF EU sex combined 5 SNPs	N6ozDG	XL_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	127.349674726886	4	1.43583601410156e-26
+Lu BF EU sex combined 5 SNPs	N6ozDG	XL_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00631345779648265	4	0.999995028004464
+Lu BF EU sex combined 5 SNPs	N8WwHL	ApoA1_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	24.5659310020982	4	6.14994038848551e-05
+Lu BF EU sex combined 5 SNPs	N8WwHL	ApoA1_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	22.3010080686616	3	5.64685590225362e-05
+Lu BF EU sex combined 5 SNPs	N8WwHL	ApoA1_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	25.8758954642937	4	3.35211974626337e-05
+Lu BF EU sex combined 5 SNPs	N8WwHL	ApoA1_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00130231056843507	4	0.999999788090406
+Lu BF EU sex combined 5 SNPs	NcfAoe	XXL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	0.681980079489259	4	0.953532410955505
+Lu BF EU sex combined 5 SNPs	NcfAoe	XXL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	0.376594133755219	3	0.945034005667525
+Lu BF EU sex combined 5 SNPs	NcfAoe	XXL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	0.693933742822972	4	0.952074902075527
+Lu BF EU sex combined 5 SNPs	NcfAoe	XXL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	3.16097558818811e-05	4	0.999999999875104
+Lu BF EU sex combined 5 SNPs	NgFkiU	S_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	81.9326811975823	4	6.78336888862023e-17
+Lu BF EU sex combined 5 SNPs	NgFkiU	S_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	109.570916032699	3	1.35730143759875e-23
+Lu BF EU sex combined 5 SNPs	NgFkiU	S_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	127.809900638164	4	1.14474968303282e-26
+Lu BF EU sex combined 5 SNPs	NgFkiU	S_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00607395266182891	4	0.999995397713664
+Lu BF EU sex combined 5 SNPs	nJRaEV	S_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	120.463297494495	4	4.25307720785237e-25
+Lu BF EU sex combined 5 SNPs	nJRaEV	S_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	174.474746523993	3	1.37582952628444e-37
+Lu BF EU sex combined 5 SNPs	nJRaEV	S_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	219.998685180723	4	1.87591392258891e-46
+Lu BF EU sex combined 5 SNPs	nJRaEV	S_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0109436691508829	4	0.99998508401198
+Lu BF EU sex combined 5 SNPs	nKzBq3	XXL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.92378910452583	4	0.295206976149817
+Lu BF EU sex combined 5 SNPs	nKzBq3	XXL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	0.661364605658567	3	0.882251513671034
+Lu BF EU sex combined 5 SNPs	nKzBq3	XXL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	4.93696970824191	4	0.293826154729139
+Lu BF EU sex combined 5 SNPs	nKzBq3	XXL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000210349925347532	4	0.999999994469501
+Lu BF EU sex combined 5 SNPs	nNeLFk	S_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	124.445863220266	4	5.99513247002285e-26
+Lu BF EU sex combined 5 SNPs	nNeLFk	S_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	215.691058095119	3	1.71450064233497e-46
+Lu BF EU sex combined 5 SNPs	nNeLFk	S_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	275.800319094763	4	1.7923565182521e-58
+Lu BF EU sex combined 5 SNPs	nNeLFk	S_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0135656511632252	4	0.999977100392991
+Lu BF EU sex combined 5 SNPs	NVHOb9	PUFA_by_MUFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	7.4985000814184	4	0.111775451076481
+Lu BF EU sex combined 5 SNPs	NVHOb9	PUFA_by_MUFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5.03589866506294	3	0.169187261992028
+Lu BF EU sex combined 5 SNPs	NVHOb9	PUFA_by_MUFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.64472059817958	4	0.105494463904917
+Lu BF EU sex combined 5 SNPs	NVHOb9	PUFA_by_MUFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000273754225676747	4	0.999999990633183
+Lu BF EU sex combined 5 SNPs	Nw692c	Glucose_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.26750210891126	4	0.18004187539645
+Lu BF EU sex combined 5 SNPs	Nw692c	Glucose_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5.39223996200523	3	0.145227821252059
+Lu BF EU sex combined 5 SNPs	Nw692c	Glucose_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	6.26780297517194	4	0.180021344167163
+Lu BF EU sex combined 5 SNPs	Nw692c	Glucose_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000296138830602488	4	0.999999989038806
+Lu BF EU sex combined 5 SNPs	O2Rvfc	S_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	92.5790369226001	4	3.72805622870152e-19
+Lu BF EU sex combined 5 SNPs	O2Rvfc	S_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	129.636782086764	3	6.47659567059926e-28
+Lu BF EU sex combined 5 SNPs	O2Rvfc	S_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	159.533053594452	4	1.8410643932452e-33
+Lu BF EU sex combined 5 SNPs	O2Rvfc	S_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00774734457417297	4	0.999992516678643
+Lu BF EU sex combined 5 SNPs	o5VwZJ	L_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	163.741787181388	4	2.3031631689775e-34
+Lu BF EU sex combined 5 SNPs	o5VwZJ	L_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	340.743390447775	3	1.50638388008311e-73
+Lu BF EU sex combined 5 SNPs	o5VwZJ	L_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	479.038582105859	4	2.28688065837445e-102
+Lu BF EU sex combined 5 SNPs	o5VwZJ	L_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0242198705733348	4	0.999927264030192
+Lu BF EU sex combined 5 SNPs	O6KpJa	M_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	92.2374550263782	4	4.40640774595711e-19
+Lu BF EU sex combined 5 SNPs	O6KpJa	M_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	132.286338299257	3	1.73912472839174e-28
+Lu BF EU sex combined 5 SNPs	O6KpJa	M_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	164.134077882074	4	1.89743353238738e-34
+Lu BF EU sex combined 5 SNPs	O6KpJa	M_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00808494373928603	4	0.999991851197371
+Lu BF EU sex combined 5 SNPs	OdRtZy	XL_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.70734588576271	4	0.318664390695676
+Lu BF EU sex combined 5 SNPs	OdRtZy	XL_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.60607871416406	3	0.658012298799609
+Lu BF EU sex combined 5 SNPs	OdRtZy	XL_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	4.71070774631416	4	0.318288640950777
+Lu BF EU sex combined 5 SNPs	OdRtZy	XL_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000233195311348305	4	0.999999993203022
+Lu BF EU sex combined 5 SNPs	oHLg37	XL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	43.9705872156951	4	6.50666367261172e-09
+Lu BF EU sex combined 5 SNPs	oHLg37	XL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	26.0787756649939	3	9.18197031427351e-06
+Lu BF EU sex combined 5 SNPs	oHLg37	XL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	46.2503182358341	4	2.18444537154728e-09
+Lu BF EU sex combined 5 SNPs	oHLg37	XL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00232445333472615	4	0.99999932513766
+Lu BF EU sex combined 5 SNPs	oSjhqI	S_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	80.5658605197168	4	1.32164917486616e-16
+Lu BF EU sex combined 5 SNPs	oSjhqI	S_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	100.704600218546	3	1.09644970433285e-21
+Lu BF EU sex combined 5 SNPs	oSjhqI	S_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	118.793906776716	4	9.66598092077315e-25
+Lu BF EU sex combined 5 SNPs	oSjhqI	S_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00566948178603784	4	0.999995989707064
+Lu BF EU sex combined 5 SNPs	OTMUvh	XS_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	87.4769409748039	4	4.52173131716707e-18
+Lu BF EU sex combined 5 SNPs	OTMUvh	XS_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	70.57331670425	3	3.21726893056751e-15
+Lu BF EU sex combined 5 SNPs	OTMUvh	XS_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	114.388647053681	4	8.42755353980664e-24
+Lu BF EU sex combined 5 SNPs	OTMUvh	XS_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00588499786757648	4	0.999995679332995
+Lu BF EU sex combined 5 SNPs	OyKgGO	L_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	66.8347942983134	4	1.05629893476378e-13
+Lu BF EU sex combined 5 SNPs	OyKgGO	L_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	44.8179799574608	3	1.01146396075499e-09
+Lu BF EU sex combined 5 SNPs	OyKgGO	L_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	71.1413361785516	4	1.30313084766926e-14
+Lu BF EU sex combined 5 SNPs	OyKgGO	L_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00367674823794155	4	0.999998312259874
+Lu BF EU sex combined 5 SNPs	oZ0Bfp	Omega_6_by_Omega_3_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	2.61079343311494	4	0.624912309672366
+Lu BF EU sex combined 5 SNPs	oZ0Bfp	Omega_6_by_Omega_3_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	0.489528917457075	3	0.921185766694998
+Lu BF EU sex combined 5 SNPs	oZ0Bfp	Omega_6_by_Omega_3_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	2.6259310447907	4	0.622236492633432
+Lu BF EU sex combined 5 SNPs	oZ0Bfp	Omega_6_by_Omega_3_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000105525422930692	4	0.999999998608097
+Lu BF EU sex combined 5 SNPs	Pb82ps	Phosphoglyc_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	19.8350333562556	4	0.000538271141593753
+Lu BF EU sex combined 5 SNPs	Pb82ps	Phosphoglyc_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	9.01747229379851	3	0.029059482577456
+Lu BF EU sex combined 5 SNPs	Pb82ps	Phosphoglyc_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	20.2272060507257	4	0.000450373567504625
+Lu BF EU sex combined 5 SNPs	Pb82ps	Phosphoglyc_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00101393835513928	4	0.999999871534552
+Lu BF EU sex combined 5 SNPs	pcLSRS	Leu_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.382830498347	4	0.034449818368848
+Lu BF EU sex combined 5 SNPs	pcLSRS	Leu_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.98370348607901	3	0.575795987715721
+Lu BF EU sex combined 5 SNPs	pcLSRS	Leu_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	10.83248558901	4	0.0285125743821147
+Lu BF EU sex combined 5 SNPs	pcLSRS	Leu_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000466904795313019	4	0.99999997275423
+Lu BF EU sex combined 5 SNPs	pCNIlH	S_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	8.85503059298048	4	0.0648269507539001
+Lu BF EU sex combined 5 SNPs	pCNIlH	S_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	8.78107153850298	3	0.03234782176109
+Lu BF EU sex combined 5 SNPs	pCNIlH	S_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	8.93838141687692	4	0.0626582417589004
+Lu BF EU sex combined 5 SNPs	pCNIlH	S_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000388287028057336	4	0.999999981156587
+Lu BF EU sex combined 5 SNPs	pGXHX0	IDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	123.763946247185	4	8.38545637273829e-26
+Lu BF EU sex combined 5 SNPs	pGXHX0	IDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	142.862133791686	3	9.1261814827051e-31
+Lu BF EU sex combined 5 SNPs	pGXHX0	IDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	197.855651519748	4	1.08611948218389e-41
+Lu BF EU sex combined 5 SNPs	pGXHX0	IDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00994267802816213	4	0.999987683772197
+Lu BF EU sex combined 5 SNPs	plGMEd	IDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	158.910485621073	4	2.50369163862447e-33
+Lu BF EU sex combined 5 SNPs	plGMEd	IDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	299.04658793108	3	1.59997446122286e-64
+Lu BF EU sex combined 5 SNPs	plGMEd	IDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	424.738467987397	4	1.25413806225027e-90
+Lu BF EU sex combined 5 SNPs	plGMEd	IDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0215764691103253	4	0.999942223842412
+Lu BF EU sex combined 5 SNPs	pLmU4q	S_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	36.4490391246053	4	2.33909151721364e-07
+Lu BF EU sex combined 5 SNPs	pLmU4q	S_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	26.1711891396532	3	8.78180343494935e-06
+Lu BF EU sex combined 5 SNPs	pLmU4q	S_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	43.430969780149	4	8.42183545936117e-09
+Lu BF EU sex combined 5 SNPs	pLmU4q	S_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00217873593302423	4	0.999999407069467
+Lu BF EU sex combined 5 SNPs	pMONiX	HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	1.45708021494015	4	0.834215994676212
+Lu BF EU sex combined 5 SNPs	pMONiX	HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.43189841845056	3	0.69807489321878
+Lu BF EU sex combined 5 SNPs	pMONiX	HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	1.45812192402065	4	0.834032842924118
+Lu BF EU sex combined 5 SNPs	pMONiX	HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	6.8558765216663e-05	4	0.999999999412476
+Lu BF EU sex combined 5 SNPs	pSbbsH	VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	123.418423041465	4	9.93942575792279e-26
+Lu BF EU sex combined 5 SNPs	pSbbsH	VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	137.642686442241	3	1.21817190342259e-29
+Lu BF EU sex combined 5 SNPs	pSbbsH	VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	210.845435747487	4	1.74795281989447e-44
+Lu BF EU sex combined 5 SNPs	pSbbsH	VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0107673388658572	4	0.9999855599601
+Lu BF EU sex combined 5 SNPs	pvsnu8	L_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	15.3925104537987	4	0.00395267494661619
+Lu BF EU sex combined 5 SNPs	pvsnu8	L_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	10.6442601754265	3	0.0138135603999251
+Lu BF EU sex combined 5 SNPs	pvsnu8	L_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	15.4134353462464	4	0.00391624184097
+Lu BF EU sex combined 5 SNPs	pvsnu8	L_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000776628089012988	4	0.999999924625616
+Lu BF EU sex combined 5 SNPs	px7n0N	Lactate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	0.816337001987127	4	0.936244539556641
+Lu BF EU sex combined 5 SNPs	px7n0N	Lactate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	0.400393420757748	3	0.940161211324541
+Lu BF EU sex combined 5 SNPs	px7n0N	Lactate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	0.840725512343226	4	0.932906353000271
+Lu BF EU sex combined 5 SNPs	px7n0N	Lactate_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	2.98393256544148e-05	4	0.999999999888703
+Lu BF EU sex combined 5 SNPs	pxtBt7	S_LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	174.542325957413	4	1.10773107111833e-36
+Lu BF EU sex combined 5 SNPs	pxtBt7	S_LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	389.104668855317	3	5.07083951458012e-84
+Lu BF EU sex combined 5 SNPs	pxtBt7	S_LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	535.634141388063	4	1.31214213724452e-114
+Lu BF EU sex combined 5 SNPs	pxtBt7	S_LDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0270715337544231	4	0.999909213987367
+Lu BF EU sex combined 5 SNPs	Q9HDKI	L_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	65.408347661983	4	2.11077263919118e-13
+Lu BF EU sex combined 5 SNPs	Q9HDKI	L_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	43.9569602251622	3	1.54128959158928e-09
+Lu BF EU sex combined 5 SNPs	Q9HDKI	L_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	75.1412772320332	4	1.86009787684805e-15
+Lu BF EU sex combined 5 SNPs	Q9HDKI	L_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00379991756746002	4	0.999998197362867
+Lu BF EU sex combined 5 SNPs	QlmMLs	XL_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	20.865759771681	4	0.000336677021192149
+Lu BF EU sex combined 5 SNPs	QlmMLs	XL_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	21.7489155185112	3	7.35675294948956e-05
+Lu BF EU sex combined 5 SNPs	QlmMLs	XL_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	23.1937534919045	4	0.000115825264849767
+Lu BF EU sex combined 5 SNPs	QlmMLs	XL_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00104852170477153	4	0.999999862623301
+Lu BF EU sex combined 5 SNPs	qmwr8X	L_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	29.2092601570311	4	7.08831851543731e-06
+Lu BF EU sex combined 5 SNPs	qmwr8X	L_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	34.0245439912648	3	1.95769108627787e-07
+Lu BF EU sex combined 5 SNPs	qmwr8X	L_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	34.7862669422606	4	5.13941671716381e-07
+Lu BF EU sex combined 5 SNPs	qmwr8X	L_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00153332933601595	4	0.999999706262809
+Lu BF EU sex combined 5 SNPs	qoqbQz	XS_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	94.1087050104761	4	1.76314117326207e-19
+Lu BF EU sex combined 5 SNPs	qoqbQz	XS_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	80.1171766831177	3	2.89668805033497e-17
+Lu BF EU sex combined 5 SNPs	qoqbQz	XS_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	130.226607056502	4	3.48289544705133e-27
+Lu BF EU sex combined 5 SNPs	qoqbQz	XS_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00668323536397963	4	0.999994429218018
+Lu BF EU sex combined 5 SNPs	R1em6z	XXL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	3.13413418709785	4	0.535634606294449
+Lu BF EU sex combined 5 SNPs	R1em6z	XXL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	0.588505572254473	3	0.899058644560552
+Lu BF EU sex combined 5 SNPs	R1em6z	XXL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.15108493337501	4	0.532867601515005
+Lu BF EU sex combined 5 SNPs	R1em6z	XXL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000125174424227164	4	0.999999998041502
+Lu BF EU sex combined 5 SNPs	rHbmuJ	S_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	170.545938485811	4	7.9853645533808e-36
+Lu BF EU sex combined 5 SNPs	rHbmuJ	S_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	361.84852745941	3	4.05498601454632e-78
+Lu BF EU sex combined 5 SNPs	rHbmuJ	S_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	501.280344238166	4	3.54108440726068e-107
+Lu BF EU sex combined 5 SNPs	rHbmuJ	S_LDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0253926576639883	4	0.999920080582395
+Lu BF EU sex combined 5 SNPs	RjoQua	L_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	163.712355026724	4	2.33689225882696e-34
+Lu BF EU sex combined 5 SNPs	RjoQua	L_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	359.999720106142	3	1.01940454699707e-77
+Lu BF EU sex combined 5 SNPs	RjoQua	L_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	500.630209383997	4	4.89496833601507e-107
+Lu BF EU sex combined 5 SNPs	RjoQua	L_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0253214312507646	4	0.999920526416718
+Lu BF EU sex combined 5 SNPs	rNQBz1	LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	159.622737042128	4	1.76130885959259e-33
+Lu BF EU sex combined 5 SNPs	rNQBz1	LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	299.179514127755	3	1.49742250278259e-64
+Lu BF EU sex combined 5 SNPs	rNQBz1	LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	420.810565990186	4	8.8565069550162e-90
+Lu BF EU sex combined 5 SNPs	rNQBz1	LDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0213412433015552	4	0.999943472294186
+Lu BF EU sex combined 5 SNPs	rX8WKY	M_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	70.8473005564458	4	1.5034452688198e-14
+Lu BF EU sex combined 5 SNPs	rX8WKY	M_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	76.2707309318826	3	1.93520228575289e-16
+Lu BF EU sex combined 5 SNPs	rX8WKY	M_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	90.2983172723639	4	1.13797659353894e-18
+Lu BF EU sex combined 5 SNPs	rX8WKY	M_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00452367104912612	4	0.999997445903868
+Lu BF EU sex combined 5 SNPs	RxrAJN	XS_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	113.427281606538	4	1.35162813300695e-23
+Lu BF EU sex combined 5 SNPs	RxrAJN	XS_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	113.354069515631	3	2.08169465210984e-24
+Lu BF EU sex combined 5 SNPs	RxrAJN	XS_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	176.65375750924	4	3.90037273889847e-37
+Lu BF EU sex combined 5 SNPs	RxrAJN	XS_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00906124266444614	4	0.999989767681879
+Lu BF EU sex combined 5 SNPs	sblAlg	IDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	156.895135892329	4	6.77227724971399e-33
+Lu BF EU sex combined 5 SNPs	sblAlg	IDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	278.300124672571	3	4.93906490495059e-60
+Lu BF EU sex combined 5 SNPs	sblAlg	IDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	399.940298012671	4	2.86549262929096e-85
+Lu BF EU sex combined 5 SNPs	sblAlg	IDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0203277522994948	4	0.999948696471409
+Lu BF EU sex combined 5 SNPs	Sbr1XF	M_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	48.5443761301593	4	7.26717308991307e-10
+Lu BF EU sex combined 5 SNPs	Sbr1XF	M_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	45.6990558674048	3	6.57172215513283e-10
+Lu BF EU sex combined 5 SNPs	Sbr1XF	M_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	55.1271050712955	4	3.05571927107528e-11
+Lu BF EU sex combined 5 SNPs	Sbr1XF	M_HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00278676545130907	4	0.999999030143577
+Lu BF EU sex combined 5 SNPs	seWjeY	VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	86.8612475689698	4	6.1094505694363e-18
+Lu BF EU sex combined 5 SNPs	seWjeY	VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	65.7759393055135	3	3.42269427201143e-14
+Lu BF EU sex combined 5 SNPs	seWjeY	VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	106.280298887253	4	4.51903577396351e-22
+Lu BF EU sex combined 5 SNPs	seWjeY	VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0053840680431571	4	0.999996382972952
+Lu BF EU sex combined 5 SNPs	sFGas5	S_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	165.385930601004	4	1.02232841817713e-34
+Lu BF EU sex combined 5 SNPs	sFGas5	S_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	299.863942327644	3	1.0646713718962e-64
+Lu BF EU sex combined 5 SNPs	sFGas5	S_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	420.916801638406	4	8.4004547641083e-90
+Lu BF EU sex combined 5 SNPs	sFGas5	S_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0213218863688142	4	0.999943574427441
+Lu BF EU sex combined 5 SNPs	SgudcC	L_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	24.5957864824362	4	6.06562655365903e-05
+Lu BF EU sex combined 5 SNPs	SgudcC	L_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	17.2683896880496	3	0.000622360105993623
+Lu BF EU sex combined 5 SNPs	SgudcC	L_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	24.9462227164319	4	5.15779960177986e-05
+Lu BF EU sex combined 5 SNPs	SgudcC	L_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0012626374139972	4	0.999999800802199
+Lu BF EU sex combined 5 SNPs	sLW69C	M_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	129.100848680602	4	6.06292801548262e-27
+Lu BF EU sex combined 5 SNPs	sLW69C	M_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	144.901830867578	3	3.31444604403411e-31
+Lu BF EU sex combined 5 SNPs	sLW69C	M_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	216.895453648297	4	8.72885765296712e-46
+Lu BF EU sex combined 5 SNPs	sLW69C	M_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0109797165601036	4	0.999984985766769
+Lu BF EU sex combined 5 SNPs	Sn9L9o	S_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	133.545999489148	4	6.79065050951207e-28
+Lu BF EU sex combined 5 SNPs	Sn9L9o	S_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	253.607366287244	3	1.08538439132192e-54
+Lu BF EU sex combined 5 SNPs	Sn9L9o	S_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	321.00260367574	4	3.18673757357973e-68
+Lu BF EU sex combined 5 SNPs	Sn9L9o	S_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0157524868306119	4	0.999969144782933
+Lu BF EU sex combined 5 SNPs	SpF1Rz	LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	65.6247361561643	4	1.90040075167766e-13
+Lu BF EU sex combined 5 SNPs	SpF1Rz	LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	43.9417414127934	3	1.55280522386714e-09
+Lu BF EU sex combined 5 SNPs	SpF1Rz	LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	69.4313090454329	4	2.99255002142841e-14
+Lu BF EU sex combined 5 SNPs	SpF1Rz	LDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00356533006473524	4	0.999998412939803
+Lu BF EU sex combined 5 SNPs	SuxYc9	HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	2.8982618007075	4	0.574992849864831
+Lu BF EU sex combined 5 SNPs	SuxYc9	HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	2.9119226493473	3	0.405405269885449
+Lu BF EU sex combined 5 SNPs	SuxYc9	HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	2.91938439693526	4	0.571405605609768
+Lu BF EU sex combined 5 SNPs	SuxYc9	HDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000135413450031281	4	0.999999997708003
+Lu BF EU sex combined 5 SNPs	sx7dcy	His_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.82600544935735	4	0.305620770888997
+Lu BF EU sex combined 5 SNPs	sx7dcy	His_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	3.33405228511959	3	0.342931252028091
+Lu BF EU sex combined 5 SNPs	sx7dcy	His_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	4.83400998865066	4	0.3047569944093
+Lu BF EU sex combined 5 SNPs	sx7dcy	His_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000256594203486488	4	0.999999991770631
+Lu BF EU sex combined 5 SNPs	t0QDcP	Total_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	144.707978809781	4	2.7700358896171e-30
+Lu BF EU sex combined 5 SNPs	t0QDcP	Total_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	214.515668014498	3	3.07747607620507e-46
+Lu BF EU sex combined 5 SNPs	t0QDcP	Total_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	308.011597128984	4	2.02525376029639e-65
+Lu BF EU sex combined 5 SNPs	t0QDcP	Total_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0155476842831177	4	0.999969939831498
+Lu BF EU sex combined 5 SNPs	T3TT4G	S_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	128.475506102235	4	8.24892423102628e-27
+Lu BF EU sex combined 5 SNPs	T3TT4G	S_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	236.305791139984	3	5.98898189745265e-51
+Lu BF EU sex combined 5 SNPs	T3TT4G	S_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	315.568265846601	4	4.74273480544721e-67
+Lu BF EU sex combined 5 SNPs	T3TT4G	S_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.01578441411441	4	0.9999690199104
+Lu BF EU sex combined 5 SNPs	TfnlSC	S_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	127.431538830398	4	1.37912315977769e-26
+Lu BF EU sex combined 5 SNPs	TfnlSC	S_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	137.529065064077	3	1.28885592979643e-29
+Lu BF EU sex combined 5 SNPs	TfnlSC	S_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	206.76059160698	4	1.32168060894367e-43
+Lu BF EU sex combined 5 SNPs	TfnlSC	S_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.01050818333205	4	0.999986245512497
+Lu BF EU sex combined 5 SNPs	thLILh	L_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	34.6934258666775	4	5.37002811661624e-07
+Lu BF EU sex combined 5 SNPs	thLILh	L_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	17.9111654525162	3	0.000458800039539456
+Lu BF EU sex combined 5 SNPs	thLILh	L_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	35.6470841109184	4	3.42007307885577e-07
+Lu BF EU sex combined 5 SNPs	thLILh	L_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00176534725421333	4	0.999999610672792
+Lu BF EU sex combined 5 SNPs	tkAmzH	L_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	97.697316357899	4	3.04054039095872e-20
+Lu BF EU sex combined 5 SNPs	tkAmzH	L_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	108.903447564097	3	1.88934846119388e-23
+Lu BF EU sex combined 5 SNPs	tkAmzH	L_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	142.699688423933	4	7.4575122323069e-30
+Lu BF EU sex combined 5 SNPs	tkAmzH	L_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00733262262641238	4	0.999993295485436
+Lu BF EU sex combined 5 SNPs	TM5DAo	Ala_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	3.79468399418926	4	0.434504823479583
+Lu BF EU sex combined 5 SNPs	TM5DAo	Ala_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	3.59965130416086	3	0.308065803582703
+Lu BF EU sex combined 5 SNPs	TM5DAo	Ala_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.82456550814932	4	0.430268636703865
+Lu BF EU sex combined 5 SNPs	TM5DAo	Ala_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000182198613156794	4	0.99999999585071
+Lu BF EU sex combined 5 SNPs	tmPWkO	XL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	28.6448516489125	4	9.22947557002416e-06
+Lu BF EU sex combined 5 SNPs	tmPWkO	XL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	14.4187773314595	3	0.00238715376392495
+Lu BF EU sex combined 5 SNPs	tmPWkO	XL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	29.0887335441113	4	7.49954306063242e-06
+Lu BF EU sex combined 5 SNPs	tmPWkO	XL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00143850954081023	4	0.999999741460284
+Lu BF EU sex combined 5 SNPs	TN5CC9	Tyr_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	12.8114110936186	4	0.0122349970421194
+Lu BF EU sex combined 5 SNPs	TN5CC9	Tyr_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	6.52171215037761	3	0.0888101520639355
+Lu BF EU sex combined 5 SNPs	TN5CC9	Tyr_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	14.0080931796615	4	0.00726927038400199
+Lu BF EU sex combined 5 SNPs	TN5CC9	Tyr_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000597910171718351	4	0.999999955321834
+Lu BF EU sex combined 5 SNPs	TQLDG0	S_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	116.09880238556	4	3.63647730967587e-24
+Lu BF EU sex combined 5 SNPs	TQLDG0	S_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	186.590652046416	3	3.32696950941992e-40
+Lu BF EU sex combined 5 SNPs	TQLDG0	S_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	221.180804065388	4	1.0443005049046e-46
+Lu BF EU sex combined 5 SNPs	TQLDG0	S_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0106844847433169	4	0.99998578094329
+Lu BF EU sex combined 5 SNPs	TrZnXJ	XXL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.16486544858564	4	0.384153297614197
+Lu BF EU sex combined 5 SNPs	TrZnXJ	XXL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	0.582393572275252	3	0.900450866571674
+Lu BF EU sex combined 5 SNPs	TrZnXJ	XXL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	4.17924083080784	4	0.38229138432751
+Lu BF EU sex combined 5 SNPs	TrZnXJ	XXL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00018489484806376	4	0.999999995727
+Lu BF EU sex combined 5 SNPs	TS6ieR	XL_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	96.0771994786085	4	6.72417914864512e-20
+Lu BF EU sex combined 5 SNPs	TS6ieR	XL_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	79.4218709099691	3	4.08355546029292e-17
+Lu BF EU sex combined 5 SNPs	TS6ieR	XL_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	115.238104171751	4	5.55139868122736e-24
+Lu BF EU sex combined 5 SNPs	TS6ieR	XL_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00573497601615514	4	0.999995896607112
+Lu BF EU sex combined 5 SNPs	Tv9MVC	M_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	59.2427634769452	4	4.1842935817602e-12
+Lu BF EU sex combined 5 SNPs	Tv9MVC	M_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	59.2418312601318	3	8.53508345383275e-13
+Lu BF EU sex combined 5 SNPs	Tv9MVC	M_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	70.6996051715878	4	1.61539173746688e-14
+Lu BF EU sex combined 5 SNPs	Tv9MVC	M_HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00355976310681763	4	0.999998417889116
+Lu BF EU sex combined 5 SNPs	TXuqnW	IDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	26.3358780061031	4	2.70734393671222e-05
+Lu BF EU sex combined 5 SNPs	TXuqnW	IDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	13.5939774892475	3	0.00351329876609767
+Lu BF EU sex combined 5 SNPs	TXuqnW	IDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	26.5382956528006	4	2.46422498520606e-05
+Lu BF EU sex combined 5 SNPs	TXuqnW	IDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00137724209176174	4	0.999999763009347
+Lu BF EU sex combined 5 SNPs	UjdNwf	L_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	63.9337378653872	4	4.31561724925756e-13
+Lu BF EU sex combined 5 SNPs	UjdNwf	L_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	60.4794377009516	3	4.64313801081327e-13
+Lu BF EU sex combined 5 SNPs	UjdNwf	L_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	86.4532689872945	4	7.4575308800188e-18
+Lu BF EU sex combined 5 SNPs	UjdNwf	L_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00447569360586105	4	0.999997499753391
+Lu BF EU sex combined 5 SNPs	ukelqv	XL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	35.954046345441	4	2.95737313198541e-07
+Lu BF EU sex combined 5 SNPs	ukelqv	XL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	19.8398387021815	3	0.000183221507846061
+Lu BF EU sex combined 5 SNPs	ukelqv	XL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	37.1317129781017	4	1.69219278396159e-07
+Lu BF EU sex combined 5 SNPs	ukelqv	XL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00185416056238591	4	0.999999570526586
+Lu BF EU sex combined 5 SNPs	uoqmI4	S_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	173.581044554972	4	1.78156932365525e-36
+Lu BF EU sex combined 5 SNPs	uoqmI4	S_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	471.251676439676	3	8.09997808404772e-102
+Lu BF EU sex combined 5 SNPs	uoqmI4	S_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	636.260820366639	4	2.1962740094231e-136
+Lu BF EU sex combined 5 SNPs	uoqmI4	S_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0321884406694243	4	0.999871869281165
+Lu BF EU sex combined 5 SNPs	uP7WDc	XL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.4714436355743	4	0.0331926279748999
+Lu BF EU sex combined 5 SNPs	uP7WDc	XL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	3.95819129421864	3	0.266014249119989
+Lu BF EU sex combined 5 SNPs	uP7WDc	XL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	10.4714439046837	4	0.033192624224908
+Lu BF EU sex combined 5 SNPs	uP7WDc	XL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000476982249039485	4	0.999999971565513
+Lu BF EU sex combined 5 SNPs	UTCaAh	XL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	75.4929204144787	4	1.56730187469502e-15
+Lu BF EU sex combined 5 SNPs	UTCaAh	XL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	96.0238845832235	3	1.1124032526174e-20
+Lu BF EU sex combined 5 SNPs	UTCaAh	XL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	119.296213242328	4	7.55046477125079e-25
+Lu BF EU sex combined 5 SNPs	UTCaAh	XL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00602222848499199	4	0.999995475685641
+Lu BF EU sex combined 5 SNPs	uTYf4o	IDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	160.759772782277	4	1.00456019037378e-33
+Lu BF EU sex combined 5 SNPs	uTYf4o	IDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	303.161520991197	3	2.05832895851386e-65
+Lu BF EU sex combined 5 SNPs	uTYf4o	IDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	432.233925699945	4	3.00807973421353e-92
+Lu BF EU sex combined 5 SNPs	uTYf4o	IDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0219509528321269	4	0.999940208356081
+Lu BF EU sex combined 5 SNPs	uuSdQx	L_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.40359283077506	4	0.354132414585218
+Lu BF EU sex combined 5 SNPs	uuSdQx	L_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	3.37581576798918	3	0.337229128969048
+Lu BF EU sex combined 5 SNPs	uuSdQx	L_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	4.42462636522169	4	0.351578632446826
+Lu BF EU sex combined 5 SNPs	uuSdQx	L_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000200957166417439	4	0.999999994952365
+Lu BF EU sex combined 5 SNPs	V9pu3f	Omega_6_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	12.3347854213818	4	0.0150278405595087
+Lu BF EU sex combined 5 SNPs	V9pu3f	Omega_6_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	12.7935198602933	3	0.00510508927489713
+Lu BF EU sex combined 5 SNPs	V9pu3f	Omega_6_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	12.8711536171305	4	0.0119228249676624
+Lu BF EU sex combined 5 SNPs	V9pu3f	Omega_6_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000514817266228262	4	0.999999966876083
+Lu BF EU sex combined 5 SNPs	vA5gMH	M_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	133.858986418791	4	5.82034592423286e-28
+Lu BF EU sex combined 5 SNPs	vA5gMH	M_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	165.605676490151	3	1.13047521882713e-35
+Lu BF EU sex combined 5 SNPs	vA5gMH	M_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	244.04164547065	4	1.25028389177377e-51
+Lu BF EU sex combined 5 SNPs	vA5gMH	M_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0123767788333327	4	0.999980930732383
+Lu BF EU sex combined 5 SNPs	vbgvh4	PUFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	102.437682660032	4	2.97691937085788e-21
+Lu BF EU sex combined 5 SNPs	vbgvh4	PUFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	89.7175633423008	3	2.51895081356613e-19
+Lu BF EU sex combined 5 SNPs	vbgvh4	PUFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	127.514042797005	4	1.32423264076911e-26
+Lu BF EU sex combined 5 SNPs	vbgvh4	PUFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00642167517829666	4	0.999994856281734
+Lu BF EU sex combined 5 SNPs	veoisl	XL_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	16.4539093075012	4	0.00246681952520273
+Lu BF EU sex combined 5 SNPs	veoisl	XL_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	17.1662340843793	3	0.000653227838436429
+Lu BF EU sex combined 5 SNPs	veoisl	XL_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	17.9124136545767	4	0.00128369753145966
+Lu BF EU sex combined 5 SNPs	veoisl	XL_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00079125375754034	4	0.999999921760325
+Lu BF EU sex combined 5 SNPs	VI0bLi	GlycA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	9.10236792052727	4	0.0585910848825794
+Lu BF EU sex combined 5 SNPs	VI0bLi	GlycA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	6.68798040090986	3	0.0825366372899365
+Lu BF EU sex combined 5 SNPs	VI0bLi	GlycA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	9.61774094200566	4	0.0473833522547722
+Lu BF EU sex combined 5 SNPs	VI0bLi	GlycA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00052598999227488	4	0.999999965422879
+Lu BF EU sex combined 5 SNPs	viuOby	S_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	20.7587133212101	4	0.000353525207804012
+Lu BF EU sex combined 5 SNPs	viuOby	S_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	10.000301918437	3	0.0185635692199778
+Lu BF EU sex combined 5 SNPs	viuOby	S_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	20.9848827028434	4	0.000318862109917645
+Lu BF EU sex combined 5 SNPs	viuOby	S_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00101749704583696	4	0.999999870631354
+Lu BF EU sex combined 5 SNPs	Vowc83	IDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	112.314863843212	4	2.33458615861653e-23
+Lu BF EU sex combined 5 SNPs	Vowc83	IDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	167.678221074984	3	4.03536276416357e-36
+Lu BF EU sex combined 5 SNPs	Vowc83	IDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	213.431880869907	4	4.85440398337325e-45
+Lu BF EU sex combined 5 SNPs	Vowc83	IDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0103918859699874	4	0.999986547756981
+Lu BF EU sex combined 5 SNPs	vSMtk1	MUFA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.63035413750228	4	0.327369416345843
+Lu BF EU sex combined 5 SNPs	vSMtk1	MUFA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.77836420108537	3	0.619654407706499
+Lu BF EU sex combined 5 SNPs	vSMtk1	MUFA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	4.70203094546175	4	0.319259174556497
+Lu BF EU sex combined 5 SNPs	vSMtk1	MUFA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00018662441106284	4	0.999999995646687
+Lu BF EU sex combined 5 SNPs	vt3dLA	XL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	49.9091524538527	4	3.77206518134842e-10
+Lu BF EU sex combined 5 SNPs	vt3dLA	XL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	57.9601475350786	3	1.6029749186255e-12
+Lu BF EU sex combined 5 SNPs	vt3dLA	XL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	67.9799160598303	4	6.05748307042485e-14
+Lu BF EU sex combined 5 SNPs	vt3dLA	XL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00337718546177939	4	0.999998575931199
+Lu BF EU sex combined 5 SNPs	VuVN4Q	MUFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	45.9486593158646	4	2.52418904122409e-09
+Lu BF EU sex combined 5 SNPs	VuVN4Q	MUFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	24.892900962091	3	1.62574469564261e-05
+Lu BF EU sex combined 5 SNPs	VuVN4Q	MUFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	46.6511374288679	4	1.80259110059276e-09
+Lu BF EU sex combined 5 SNPs	VuVN4Q	MUFA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00233746411574659	4	0.999999317564592
+Lu BF EU sex combined 5 SNPs	WbqkOo	XL_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.21576797512657	4	0.183603647119384
+Lu BF EU sex combined 5 SNPs	WbqkOo	XL_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	4.22907712899804	3	0.237766789149405
+Lu BF EU sex combined 5 SNPs	WbqkOo	XL_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	6.33298143219724	4	0.17562283094062
+Lu BF EU sex combined 5 SNPs	WbqkOo	XL_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00023828018397001	4	0.999999992903383
+Lu BF EU sex combined 5 SNPs	wct6Ea	S_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	3.44701024651846	4	0.485981158530563
+Lu BF EU sex combined 5 SNPs	wct6Ea	S_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.44581603756016	3	0.694831204116069
+Lu BF EU sex combined 5 SNPs	wct6Ea	S_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.48558587437659	4	0.480073426069655
+Lu BF EU sex combined 5 SNPs	wct6Ea	S_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000125115929644639	4	0.999999998043332
+Lu BF EU sex combined 5 SNPs	WMVTp3	HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	26.2673375427272	4	2.79495638187955e-05
+Lu BF EU sex combined 5 SNPs	WMVTp3	HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	22.4037171482177	3	5.3755432119715e-05
+Lu BF EU sex combined 5 SNPs	WMVTp3	HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	27.3754079276421	4	1.66901257625597e-05
+Lu BF EU sex combined 5 SNPs	WMVTp3	HDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00138313965223639	4	0.999999760975811
+Lu BF EU sex combined 5 SNPs	wtWSK0	L_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	114.752352383078	4	7.04821155849439e-24
+Lu BF EU sex combined 5 SNPs	wtWSK0	L_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	173.665416597024	3	2.05735944357978e-37
+Lu BF EU sex combined 5 SNPs	wtWSK0	L_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	220.184413840332	4	1.71098273969464e-46
+Lu BF EU sex combined 5 SNPs	wtWSK0	L_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0108952564431628	4	0.999985215452576
+Lu BF EU sex combined 5 SNPs	WYSSBZ	XXL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	7.30884846125817	4	0.120439706060116
+Lu BF EU sex combined 5 SNPs	WYSSBZ	XXL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	5.50948513558133	3	0.138072400647906
+Lu BF EU sex combined 5 SNPs	WYSSBZ	XXL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.30996307759473	4	0.12038701581837
+Lu BF EU sex combined 5 SNPs	WYSSBZ	XXL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000364172162935931	4	0.999999983424342
+Lu BF EU sex combined 5 SNPs	WYVAYN	Unsaturation_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	12.5656928617058	4	0.0136049082336828
+Lu BF EU sex combined 5 SNPs	WYVAYN	Unsaturation_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	12.0004460022316	3	0.0073816328462959
+Lu BF EU sex combined 5 SNPs	WYVAYN	Unsaturation_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	12.70012066206	4	0.012837922286134
+Lu BF EU sex combined 5 SNPs	WYVAYN	Unsaturation_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000490571500671435	4	0.999999969922369
+Lu BF EU sex combined 5 SNPs	xegrgx	PUFA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	15.4214014883031	4	0.0039024586410623
+Lu BF EU sex combined 5 SNPs	xegrgx	PUFA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	14.7159147921368	3	0.00207623901335655
+Lu BF EU sex combined 5 SNPs	xegrgx	PUFA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	15.9462709630488	4	0.00309211389200185
+Lu BF EU sex combined 5 SNPs	xegrgx	PUFA_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000589057514629514	4	0.999999956634921
+Lu BF EU sex combined 5 SNPs	XLNpSt	L_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	36.865064032785	4	1.92035910855444e-07
+Lu BF EU sex combined 5 SNPs	XLNpSt	L_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	20.4303232993138	3	0.00013821929461427
+Lu BF EU sex combined 5 SNPs	XLNpSt	L_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	37.9424848474306	4	1.15159344452083e-07
+Lu BF EU sex combined 5 SNPs	XLNpSt	L_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00186297188714903	4	0.999999566436281
+Lu BF EU sex combined 5 SNPs	xmod5o	LDL_size_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	41.8388593623003	4	1.80150874655926e-08
+Lu BF EU sex combined 5 SNPs	xmod5o	LDL_size_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	34.9645602455189	3	1.23943450738e-07
+Lu BF EU sex combined 5 SNPs	xmod5o	LDL_size_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	48.7743048735258	4	6.50741131492607e-10
+Lu BF EU sex combined 5 SNPs	xmod5o	LDL_size_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00247347531724404	4	0.999999235870228
+Lu BF EU sex combined 5 SNPs	XNendg	M_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	39.574323284272	4	5.30078365581733e-08
+Lu BF EU sex combined 5 SNPs	XNendg	M_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	34.5955200677404	3	1.48312524010348e-07
+Lu BF EU sex combined 5 SNPs	XNendg	M_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	43.1182690947155	4	9.77933370321433e-09
+Lu BF EU sex combined 5 SNPs	XNendg	M_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00220153750916898	4	0.999999394598489
+Lu BF EU sex combined 5 SNPs	xVWAg4	S_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	8.10867310587243	4	0.0876775012428683
+Lu BF EU sex combined 5 SNPs	xVWAg4	S_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	8.08598318071147	3	0.0442677174237562
+Lu BF EU sex combined 5 SNPs	xVWAg4	S_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	8.17555952567933	4	0.0853548314927791
+Lu BF EU sex combined 5 SNPs	xVWAg4	S_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000360001683347945	4	0.999999983801792
+Lu BF EU sex combined 5 SNPs	Y5Mx2k	S_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	25.5612073011381	4	3.87902520136922e-05
+Lu BF EU sex combined 5 SNPs	Y5Mx2k	S_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	12.0839259474814	3	0.00710112597787779
+Lu BF EU sex combined 5 SNPs	Y5Mx2k	S_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	25.8791636272761	4	3.34703894245011e-05
+Lu BF EU sex combined 5 SNPs	Y5Mx2k	S_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00127991678745703	4	0.99999979531397
+Lu BF EU sex combined 5 SNPs	ymFqSQ	S_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	16.9946922711522	4	0.0019375446920348
+Lu BF EU sex combined 5 SNPs	ymFqSQ	S_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	8.15648500859059	3	0.0428859514688429
+Lu BF EU sex combined 5 SNPs	ymFqSQ	S_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	17.1514387409662	4	0.00180627474207641
+Lu BF EU sex combined 5 SNPs	ymFqSQ	S_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000822931206327097	4	0.999999915371246
+Lu BF EU sex combined 5 SNPs	YQ1MQz	Total_BCAA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	9.90528460991363	4	0.0420537339305165
+Lu BF EU sex combined 5 SNPs	YQ1MQz	Total_BCAA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	1.64027375751325	3	0.650292880320905
+Lu BF EU sex combined 5 SNPs	YQ1MQz	Total_BCAA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	10.5563712410283	4	0.0320292863684193
+Lu BF EU sex combined 5 SNPs	YQ1MQz	Total_BCAA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00043731152745228	4	0.999999976098313
+Lu BF EU sex combined 5 SNPs	yt4CAb	Total_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	144.81278384526	4	2.63049458182343e-30
+Lu BF EU sex combined 5 SNPs	yt4CAb	Total_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	210.432737602347	3	2.34778130692361e-45
+Lu BF EU sex combined 5 SNPs	yt4CAb	Total_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	304.851922989791	4	9.73071779541381e-65
+Lu BF EU sex combined 5 SNPs	yt4CAb	Total_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.015411920132552	4	0.99997046118117
+Lu BF EU sex combined 5 SNPs	yU2Xyn	LA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	114.66794982429	4	7.34670566129116e-24
+Lu BF EU sex combined 5 SNPs	yU2Xyn	LA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	106.491052502019	3	6.2428178034257e-23
+Lu BF EU sex combined 5 SNPs	yU2Xyn	LA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	154.437870902186	4	2.27800323305311e-32
+Lu BF EU sex combined 5 SNPs	yU2Xyn	LA_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00766195037389645	4	0.999992680529266
+Lu BF EU sex combined 5 SNPs	Yzu6C4	M_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	146.131661572379	4	1.37255821196384e-30
+Lu BF EU sex combined 5 SNPs	Yzu6C4	M_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	261.695573252751	3	1.93204252132773e-56
+Lu BF EU sex combined 5 SNPs	Yzu6C4	M_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	371.790378469641	4	3.45416616327102e-79
+Lu BF EU sex combined 5 SNPs	Yzu6C4	M_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0189290718116467	4	0.999955492882521
+Lu BF EU sex combined 5 SNPs	ZD5wHM	IDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	114.500351207139	4	7.97740950544623e-24
+Lu BF EU sex combined 5 SNPs	ZD5wHM	IDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	101.048625557183	3	9.24721273397115e-22
+Lu BF EU sex combined 5 SNPs	ZD5wHM	IDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	138.307034462207	4	6.50217287651305e-29
+Lu BF EU sex combined 5 SNPs	ZD5wHM	IDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00704930506498536	4	0.999993802988781
+Lu BF EU sex combined 5 SNPs	ze6uvZ	S_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	159.13156775564	4	2.24475915029181e-33
+Lu BF EU sex combined 5 SNPs	ze6uvZ	S_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	358.749831925531	3	1.90110137631112e-77
+Lu BF EU sex combined 5 SNPs	ze6uvZ	S_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	455.161054704696	4	3.3271471783728e-97
+Lu BF EU sex combined 5 SNPs	ze6uvZ	S_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0226380481804317	4	0.999936421200094
+Lu BF EU sex combined 5 SNPs	ZiRJmp	non_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	160.415831757491	4	1.19053753910538e-33
+Lu BF EU sex combined 5 SNPs	ZiRJmp	non_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	287.944271648173	3	4.04380892258309e-62
+Lu BF EU sex combined 5 SNPs	ZiRJmp	non_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	412.926586041171	4	4.4778793984729e-88
+Lu BF EU sex combined 5 SNPs	ZiRJmp	non_HDL_C_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.020964031769683	4	0.999945446062349
+Lu BF EU sex combined 5 SNPs	zoqOgS	HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	43.407627876314	4	8.51632427015585e-09
+Lu BF EU sex combined 5 SNPs	zoqOgS	HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	39.2938280652257	3	1.5038840842327e-08
+Lu BF EU sex combined 5 SNPs	zoqOgS	HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	48.0294447445949	4	9.30538350397115e-10
+Lu BF EU sex combined 5 SNPs	zoqOgS	HDL_PL_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0024108624326594	4	0.999999274051384
+Lu BF EU sex combined 5 SNPs	ZQbwoj	M_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Maximum likelihood	171.629250084784	4	4.67492632911649e-36
+Lu BF EU sex combined 5 SNPs	ZQbwoj	M_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	MR Egger	401.844948502212	3	8.82112967297189e-87
+Lu BF EU sex combined 5 SNPs	ZQbwoj	M_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	552.251510210156	4	3.33261493278589e-118
+Lu BF EU sex combined 5 SNPs	ZQbwoj	M_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0279747473759354	4	0.999903084115892

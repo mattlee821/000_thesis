@@ -1,0 +1,6 @@
+SNP	chr.exposure	gene.exposure	effect_allele.exposure	eaf.exposure	other_allele.exposure	beta.exposure	se.exposure	pval.exposure	samplesize.exposure	units.exposure	exposure	mr_keep.exposure	pval_origin.exposure	units.exposure_dat	id.exposure	data_source.exposure	f_stats	mean_fstat
+rs1558902	16	FTO	A	0.41	T	0.051	0.005	5e-08	87924	SD/allele	Lu BF EU sex combined 5 SNPs	TRUE	reported	SD/allele	Lu BF EU sex combined 5 SNPs	textfile	104.04	47.3371131267322
+rs6857	19	TOMM40-APOE	C	0.83	T	0.053	0.009	5e-08	60210	SD/allele	Lu BF EU sex combined 5 SNPs	TRUE	reported	SD/allele	Lu BF EU sex combined 5 SNPs	textfile	34.679012345679	47.3371131267322
+rs693839	13	SPRY2	C	0.31	T	0.03	0.005	5e-08	88773	SD/allele	Lu BF EU sex combined 5 SNPs	TRUE	reported	SD/allele	Lu BF EU sex combined 5 SNPs	textfile	36	47.3371131267322
+rs9906944	17	IGF2BP1	C	0.66	T	0.035	0.006	5e-08	64032	SD/allele	Lu BF EU sex combined 5 SNPs	TRUE	reported	SD/allele	Lu BF EU sex combined 5 SNPs	textfile	34.0277777777778	47.3371131267322
+rs6728726	2	TMEM18	C	0.84	T	0.037	0.007	5e-08	89287	SD/allele	Lu BF EU sex combined 5 SNPs	TRUE	reported	SD/allele	Lu BF EU sex combined 5 SNPs	textfile	27.9387755102041	47.3371131267322

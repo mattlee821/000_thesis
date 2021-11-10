@@ -1,0 +1,745 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+06a2JU	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XXL_VLDL_C_int_imputed.txt_snps.txt	0.00471393258111044	0.00705516174685775	0.506641009150076
+06a2JU	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XXL_VLDL_C_int_imputed.txt_snps.txt	0.00718600300105506	0.00762271187880601	0.349673791044229
+06a2JU	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XXL_VLDL_C_int_imputed.txt_snps.txt	-0.00275052257187008	0.0194860841515937	0.888229786722628
+0JdT7b	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_LDL_FC_pct_int_imputed.txt_snps.txt	-0.0151004768850933	0.00818595272153313	0.0710115486265925
+0JdT7b	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_LDL_FC_pct_int_imputed.txt_snps.txt	-0.0132358712232865	0.00927328702511682	0.159705829185905
+0JdT7b	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_LDL_FC_pct_int_imputed.txt_snps.txt	-0.0223800228862064	0.023019912510933	0.335823610599975
+0lKFaA	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_VLDL_PL_pct_int_imputed.txt_snps.txt	-0.00612584091129515	0.00867985337227573	0.483319860548254
+0lKFaA	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_VLDL_PL_pct_int_imputed.txt_snps.txt	-0.017307247962599	0.0103373340928942	0.0997602831519364
+0lKFaA	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_VLDL_PL_pct_int_imputed.txt_snps.txt	0.0044876973258137	0.0236844127078406	0.850441252020668
+0WpIkQ	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	HDL_FC_int_imputed.txt_snps.txt	-0.012782977294164	0.00679526535271749	0.0648874215051296
+0WpIkQ	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	HDL_FC_int_imputed.txt_snps.txt	-0.00634729758166088	0.00826079520546362	0.445335640087979
+0WpIkQ	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	HDL_FC_int_imputed.txt_snps.txt	-0.0454217190842481	0.023484408774705	0.0582496701073973
+0ZmzjK	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_VLDL_C_pct_int_imputed.txt_snps.txt	0.00304654508552355	0.01161101352441	0.79448076086899
+0ZmzjK	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_VLDL_C_pct_int_imputed.txt_snps.txt	-0.00532639401016831	0.0125475743439766	0.673730440206339
+0ZmzjK	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_VLDL_C_pct_int_imputed.txt_snps.txt	0.0136153355606256	0.0297700330313396	0.650328340981883
+1jMkPf	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XXL_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.00915337236494319	0.0238843006303394	0.70658733459838
+1jMkPf	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XXL_VLDL_TG_pct_int_imputed.txt_snps.txt	0.00145293194826567	0.0236579674990121	0.951790072132837
+1jMkPf	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XXL_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.0022634571663214	0.0755004681270424	0.976506685201977
+1vdw2q	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_HDL_TG_pct_int_imputed.txt_snps.txt	0.0145036354316085	0.00778322537000187	0.0677415960181892
+1vdw2q	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_HDL_TG_pct_int_imputed.txt_snps.txt	0.00864414466573235	0.00951980105708498	0.367830603792223
+1vdw2q	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_HDL_TG_pct_int_imputed.txt_snps.txt	0.0201563873328661	0.0234727212911629	0.394293364976767
+1WeEPm	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	LDL_P_int_imputed.txt_snps.txt	0.00864484425968796	0.00817246632948756	0.29633890348809
+1WeEPm	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	LDL_P_int_imputed.txt_snps.txt	0.00865009708126682	0.00902717176323191	0.343564076241526
+1WeEPm	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	LDL_P_int_imputed.txt_snps.txt	0.0360365239826277	0.0219773806784597	0.108717130743186
+1zyODx	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	VLDL_PL_int_imputed.txt_snps.txt	0.00109255853091353	0.00821699312951994	0.894756091281233
+1zyODx	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	VLDL_PL_int_imputed.txt_snps.txt	0.000862775200743381	0.00957956149436864	0.928596049478138
+1zyODx	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	VLDL_PL_int_imputed.txt_snps.txt	0.0252258525622817	0.0248689689425204	0.315398157824907
+2gpnAb	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	non_HDL_C_int_imputed.txt_snps.txt	0.00407502096695343	0.0103923497255532	0.697221113989852
+2gpnAb	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	non_HDL_C_int_imputed.txt_snps.txt	0.00598224645419656	0.0123269518199738	0.630326154388603
+2gpnAb	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	non_HDL_C_int_imputed.txt_snps.txt	0.0579642270965666	0.0259049105267427	0.0319098591247477
+2pTJGv	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Total_P_int_imputed.txt_snps.txt	-0.00947708182820823	0.01090759157172	0.38943893526805
+2pTJGv	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Total_P_int_imputed.txt_snps.txt	-0.0142269830974427	0.0122491557322903	0.251443770696755
+2pTJGv	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Total_P_int_imputed.txt_snps.txt	-0.0406569523425061	0.0261517441923527	0.127033786580854
+343Fmr	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_LDL_TG_pct_int_imputed.txt_snps.txt	0.00255125168873993	0.00658153537930069	0.699929439509179
+343Fmr	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_LDL_TG_pct_int_imputed.txt_snps.txt	0.00025125878316834	0.00764857623432032	0.973924675669398
+343Fmr	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_LDL_TG_pct_int_imputed.txt_snps.txt	-0.010975619714541	0.0193580003956714	0.573369094897018
+3hcdMW	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_LDL_PL_pct_int_imputed.txt_snps.txt	0.014517040579032	0.0136246029153708	0.295149531154841
+3hcdMW	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_LDL_PL_pct_int_imputed.txt_snps.txt	0.0151709319520226	0.0156070810472359	0.338796294149873
+3hcdMW	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_LDL_PL_pct_int_imputed.txt_snps.txt	0.0517335877054766	0.0306791898329068	0.102116991430156
+3Jyita	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_VLDL_TG_int_imputed.txt_snps.txt	0.0132814191312803	0.0068949284670411	0.0598832976603425
+3Jyita	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_VLDL_TG_int_imputed.txt_snps.txt	0.0194494093242619	0.00812607273636193	0.0205649961495697
+3Jyita	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_VLDL_TG_int_imputed.txt_snps.txt	0.0158010773024504	0.0209398789371155	0.454104979354193
+3MGhCE	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_HDL_C_pct_int_imputed.txt_snps.txt	-0.00453063176203071	0.00800810012945739	0.573634900090683
+3MGhCE	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_HDL_C_pct_int_imputed.txt_snps.txt	0.00292949081778717	0.00962542793590183	0.761897777220548
+3MGhCE	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_HDL_C_pct_int_imputed.txt_snps.txt	-0.00692112152760678	0.024417774651896	0.777844245558484
+3tgHFt	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XXL_VLDL_CE_pct_int_imputed.txt_snps.txt	0.00371717258425355	0.0163727017433275	0.822493139770274
+3tgHFt	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XXL_VLDL_CE_pct_int_imputed.txt_snps.txt	0.00230164578226442	0.0173337940252206	0.895571465154835
+3tgHFt	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XXL_VLDL_CE_pct_int_imputed.txt_snps.txt	0.0224725716547226	0.0415377107351858	0.59478341486096
+3YbNbv	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_HDL_L_int_imputed.txt_snps.txt	-0.00366119116980943	0.0078369832318332	0.641851314329186
+3YbNbv	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_HDL_L_int_imputed.txt_snps.txt	0.00278927069550264	0.00871974360533154	0.750025965376602
+3YbNbv	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_HDL_L_int_imputed.txt_snps.txt	-0.0385257715196003	0.0204042691357318	0.0634740085571596
+4mE6kL	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_HDL_P_int_imputed.txt_snps.txt	-0.00410237807853186	0.00816024546183181	0.616937158393754
+4mE6kL	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_HDL_P_int_imputed.txt_snps.txt	0.0011800413080156	0.00937937750070094	0.900287574804188
+4mE6kL	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_HDL_P_int_imputed.txt_snps.txt	-0.0274855054197972	0.0245410703588666	0.267260896563941
+4tCYK8	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	IDL_C_int_imputed.txt_snps.txt	-0.00255719442785032	0.00851230504082679	0.765278148502929
+4tCYK8	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	IDL_C_int_imputed.txt_snps.txt	0.000777953862413408	0.00911536379451616	0.932374012807258
+4tCYK8	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	IDL_C_int_imputed.txt_snps.txt	0.0454667604027125	0.0215862527650631	0.041345148515013
+4ZARts	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_LDL_TG_int_imputed.txt_snps.txt	0.0060651041401643	0.00827163443681239	0.467131752500375
+4ZARts	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_LDL_TG_int_imputed.txt_snps.txt	0.0123477900087944	0.0098743341062503	0.217443118147698
+4ZARts	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_LDL_TG_int_imputed.txt_snps.txt	-0.0146853935503824	0.0238744561123347	0.54158101764574
+4ztk6D	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	VLDL_P_int_imputed.txt_snps.txt	0.0114928514740075	0.00830008459254683	0.172182646503613
+4ztk6D	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	VLDL_P_int_imputed.txt_snps.txt	0.017234827469262	0.00981178637800167	0.0849986429904368
+4ztk6D	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	VLDL_P_int_imputed.txt_snps.txt	0.0220144007482774	0.0240874206462893	0.365050337475122
+5Izvo2	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_LDL_PL_pct_int_imputed.txt_snps.txt	-0.00551136272563392	0.0116506357846512	0.638881825706509
+5Izvo2	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_LDL_PL_pct_int_imputed.txt_snps.txt	-0.0144393581774539	0.014087011638403	0.311838529829347
+5Izvo2	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_LDL_PL_pct_int_imputed.txt_snps.txt	0.0300961220872161	0.0380487317400717	0.433991760525721
+5nzBdp	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	IDL_TG_int_imputed.txt_snps.txt	0.00339523560555459	0.0113552280313502	0.766567717822235
+5nzBdp	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	IDL_TG_int_imputed.txt_snps.txt	-0.0034227016435613	0.013166841006759	0.796306762472128
+5nzBdp	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	IDL_TG_int_imputed.txt_snps.txt	0.0406994853781052	0.0298389294114557	0.180601270832851
+6BTS1c	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_VLDL_C_int_imputed.txt_snps.txt	0.00121327710513895	0.00733478701363338	0.869203350490946
+6BTS1c	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_VLDL_C_int_imputed.txt_snps.txt	0.00114191642382543	0.00872652510891372	0.896350133469335
+6BTS1c	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_VLDL_C_int_imputed.txt_snps.txt	0.0159041080723233	0.0240265753731705	0.510825865651718
+6eDpsw	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_HDL_CE_pct_int_imputed.txt_snps.txt	0.00716113314301676	0.00733825582733676	0.335829313367762
+6eDpsw	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_HDL_CE_pct_int_imputed.txt_snps.txt	0.00719053629154184	0.00852320212796106	0.404598394515108
+6eDpsw	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_HDL_CE_pct_int_imputed.txt_snps.txt	0.022818508542934	0.019495357097321	0.250199880127666
+6IAiyy	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.00206634240872832	0.0115244453599784	0.858543730307071
+6IAiyy	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.00107979846876117	0.012298246158669	0.930442461690484
+6IAiyy	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_VLDL_TG_pct_int_imputed.txt_snps.txt	0.00110037404432728	0.030644590840201	0.971534628016811
+6OfnIG	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_VLDL_L_int_imputed.txt_snps.txt	0.000815547475436472	0.00806653891590845	0.919873412251461
+6OfnIG	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_VLDL_L_int_imputed.txt_snps.txt	0.00863885898672639	0.0085755331462891	0.318600492925885
+6OfnIG	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_VLDL_L_int_imputed.txt_snps.txt	-0.0117452066421452	0.0239258800033139	0.625645155691429
+6onLlL	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	HDL_size_int_imputed.txt_snps.txt	-0.00596609434554069	0.00707131992498784	0.40175088578761
+6onLlL	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	HDL_size_int_imputed.txt_snps.txt	-0.00106790747203532	0.00836538951978724	0.898791085028528
+6onLlL	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	HDL_size_int_imputed.txt_snps.txt	-0.0543838675991914	0.0212031084944582	0.0126382860582219
+6RrqZA	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_VLDL_FC_pct_int_imputed.txt_snps.txt	-0.000422382888140686	0.00775664604504379	0.956794622627162
+6RrqZA	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_VLDL_FC_pct_int_imputed.txt_snps.txt	-0.00031972348940139	0.00902688601650728	0.971889513377356
+6RrqZA	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_VLDL_FC_pct_int_imputed.txt_snps.txt	0.0181850317803141	0.0206442305505225	0.38277379399995
+6xtNWf	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Ile_int_imputed.txt_snps.txt	-0.025751528394372	0.025576991095474	0.36022950127905
+6xtNWf	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Ile_int_imputed.txt_snps.txt	-0.0215068058736035	0.0300817411599412	0.506626334667642
+6xtNWf	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Ile_int_imputed.txt_snps.txt	-0.0466899863807341	0.0746262669569795	0.558989182514066
+6YQFPb	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	SFA_pct_int_imputed.txt_snps.txt	0.0129584959083454	0.018379772669238	0.494242673616579
+6YQFPb	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	SFA_pct_int_imputed.txt_snps.txt	0.00564449192969099	0.0214669680160551	0.79705810539699
+6YQFPb	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	SFA_pct_int_imputed.txt_snps.txt	0.0511560682700571	0.066221461796157	0.454764799280132
+7Ehopk	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_HDL_C_int_imputed.txt_snps.txt	-0.00725492032447137	0.00684996969391198	0.29281526828827
+7Ehopk	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_HDL_C_int_imputed.txt_snps.txt	-0.00156702689810977	0.00826024207197909	0.850031440506924
+7Ehopk	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_HDL_C_int_imputed.txt_snps.txt	-0.0255307383935969	0.0177501960472674	0.154612397677253
+7QInXV	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	PUFA_int_imputed.txt_snps.txt	-0.00755460790950271	0.0112579986367852	0.50554850762099
+7QInXV	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	PUFA_int_imputed.txt_snps.txt	-0.00320884713340127	0.0127659151534092	0.802654920654787
+7QInXV	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	PUFA_int_imputed.txt_snps.txt	0.0371929176683757	0.028596432402311	0.200161604836465
+7zlDbT	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_HDL_FC_pct_int_imputed.txt_snps.txt	-0.00131261366228949	0.00733625369427722	0.85870823388922
+7zlDbT	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_HDL_FC_pct_int_imputed.txt_snps.txt	-0.0123654964166069	0.00865690761830707	0.15927367216849
+7zlDbT	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_HDL_FC_pct_int_imputed.txt_snps.txt	0.0326105350368572	0.0201853978989808	0.112484801568849
+8d0KYJ	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_HDL_C_int_imputed.txt_snps.txt	-0.00517216412883147	0.0169399077034698	0.762646939300471
+8d0KYJ	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_HDL_C_int_imputed.txt_snps.txt	-0.00583607054697981	0.0201446762060167	0.774428970811827
+8d0KYJ	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_HDL_C_int_imputed.txt_snps.txt	0.00562943881778264	0.0494321938880559	0.910364207226113
+8gO37n	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	IDL_TG_pct_int_imputed.txt_snps.txt	-0.00063091053846524	0.00656838423524463	0.923834364239251
+8gO37n	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	IDL_TG_pct_int_imputed.txt_snps.txt	-0.00681225580467905	0.00776914408973579	0.384460615917116
+8gO37n	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	IDL_TG_pct_int_imputed.txt_snps.txt	0.00210460009729955	0.0165977448416384	0.899578250897817
+8hPyIP	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_LDL_C_int_imputed.txt_snps.txt	0.000933478283915362	0.00650759651496808	0.886697202286835
+8hPyIP	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_LDL_C_int_imputed.txt_snps.txt	0.00206402858437939	0.00682496785969034	0.763978700294651
+8hPyIP	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_LDL_C_int_imputed.txt_snps.txt	0.0366896278333157	0.0202446839078992	0.0780597036844817
+8IbFZi	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	VLDL_FC_int_imputed.txt_snps.txt	0.000215410345968677	0.00782124055495595	0.978135163244533
+8IbFZi	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	VLDL_FC_int_imputed.txt_snps.txt	0.00690296216591788	0.00941884647250855	0.466981877275324
+8IbFZi	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	VLDL_FC_int_imputed.txt_snps.txt	0.00656539842534215	0.024424238260349	0.789184528067685
+8Lzna4	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XS_VLDL_PL_int_imputed.txt_snps.txt	0.00749596974350245	0.00922823350010366	0.421000389501935
+8Lzna4	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XS_VLDL_PL_int_imputed.txt_snps.txt	0.00236561818996462	0.0111770894017995	0.833358311902123
+8Lzna4	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XS_VLDL_PL_int_imputed.txt_snps.txt	0.0537039830633452	0.0232733073224996	0.0259028327642082
+8tMNWH	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Gln_int_imputed.txt_snps.txt	0.0179206133580479	0.0140427318827971	0.21728286502143
+8tMNWH	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Gln_int_imputed.txt_snps.txt	0.0189908028672386	0.0158298792037539	0.24500999565316
+8tMNWH	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Gln_int_imputed.txt_snps.txt	0.0620288347774088	0.0332298438765945	0.0783260137096583
+9R7MCn	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_LDL_L_int_imputed.txt_snps.txt	-0.0197791678425516	0.0111264077710216	0.0836772275678686
+9R7MCn	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_LDL_L_int_imputed.txt_snps.txt	-0.0149140689623128	0.0132683589969283	0.268239083448929
+9R7MCn	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_LDL_L_int_imputed.txt_snps.txt	0.00713632078604746	0.029873092759723	0.812510764197207
+9rmb2A	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_LDL_FC_int_imputed.txt_snps.txt	-0.00764154904634989	0.00951109496136483	0.42747267691613
+9rmb2A	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_LDL_FC_int_imputed.txt_snps.txt	-0.0013118510230795	0.0111000071918768	0.906637774251181
+9rmb2A	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_LDL_FC_int_imputed.txt_snps.txt	0.015415306318479	0.0204234478853607	0.455897539403854
+9rpVmU	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Glucose_int_imputed.txt_snps.txt	-0.0494270921489234	0.0228615807310894	0.0738711490429962
+9rpVmU	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Glucose_int_imputed.txt_snps.txt	-0.0436953265092604	0.026907649577612	0.155523178973216
+9rpVmU	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Glucose_int_imputed.txt_snps.txt	0.0011779367741687	0.0657471667465234	0.98628665255441
+9TVfOU	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_LDL_PL_int_imputed.txt_snps.txt	-0.00374662826874025	0.00734399997728542	0.613140542905604
+9TVfOU	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_LDL_PL_int_imputed.txt_snps.txt	0.00281745677644637	0.00887753784255943	0.752849109312977
+9TVfOU	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_LDL_PL_int_imputed.txt_snps.txt	0.00825428398897011	0.018634206076351	0.660517580546703
+9u8tYC	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Total_PL_int_imputed.txt_snps.txt	-0.014191381555483	0.00855717998713711	0.103893277788193
+9u8tYC	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Total_PL_int_imputed.txt_snps.txt	-0.0106811684584619	0.00929836537837064	0.256486359628563
+9u8tYC	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Total_PL_int_imputed.txt_snps.txt	-0.000482415281136442	0.0228238090178636	0.983230219044199
+9Y0j4W	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Total_L_int_imputed.txt_snps.txt	-0.00262503786273307	0.0114326619253103	0.819436376908464
+9Y0j4W	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Total_L_int_imputed.txt_snps.txt	-0.00363240168263619	0.0128746133919172	0.779132220665103
+9Y0j4W	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Total_L_int_imputed.txt_snps.txt	0.0399813394812053	0.0292266460590166	0.178265870294879
+A7AkvC	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_HDL_FC_pct_int_imputed.txt_snps.txt	0.00362980681839499	0.00622359132326104	0.56220982341269
+A7AkvC	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_HDL_FC_pct_int_imputed.txt_snps.txt	0.00775549767973835	0.00773484654941655	0.320576126485066
+A7AkvC	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_HDL_FC_pct_int_imputed.txt_snps.txt	0.000611213939469694	0.0181178209728174	0.973214794304791
+a8G6fQ	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_HDL_FC_pct_int_imputed.txt_snps.txt	0.00959739592016467	0.00692488730957521	0.170655216254559
+a8G6fQ	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_HDL_FC_pct_int_imputed.txt_snps.txt	0.00269194919278314	0.00789205468462727	0.734166209705963
+a8G6fQ	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_HDL_FC_pct_int_imputed.txt_snps.txt	0.0638758753302231	0.0217023935510524	0.00466394409649329
+a99v02	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XS_VLDL_TG_int_imputed.txt_snps.txt	-0.00343681587093733	0.00690641473108308	0.621019365036263
+a99v02	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XS_VLDL_TG_int_imputed.txt_snps.txt	-0.00416915873254913	0.00816969516377975	0.612166189340631
+a99v02	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XS_VLDL_TG_int_imputed.txt_snps.txt	-0.0138367068074807	0.0193399586514387	0.477949083384366
+Aba1R4	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_HDL_TG_int_imputed.txt_snps.txt	-0.0083071980824806	0.00807546471550222	0.30888764729807
+Aba1R4	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_HDL_TG_int_imputed.txt_snps.txt	-0.0116166790201281	0.0102249021966522	0.261667858175381
+Aba1R4	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_HDL_TG_int_imputed.txt_snps.txt	-0.0414684256242921	0.0266113352022509	0.126016482778851
+AIec5s	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Creatinine_int_imputed.txt_snps.txt	0.0173062574652787	0.0180661914735958	0.345060960795915
+AIec5s	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Creatinine_int_imputed.txt_snps.txt	0.0197453051446701	0.020587679276249	0.344491259077476
+AIec5s	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Creatinine_int_imputed.txt_snps.txt	0.0369263236778234	0.0465751094717119	0.433537981827054
+AiyRol	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_LDL_P_int_imputed.txt_snps.txt	0.000476797236967548	0.00775672457336547	0.951264163706721
+AiyRol	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_LDL_P_int_imputed.txt_snps.txt	0.00159610148941233	0.0090802171241254	0.861274926874286
+AiyRol	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_LDL_P_int_imputed.txt_snps.txt	0.0250108828913356	0.0218921131367377	0.259441316705515
+ajfx9M	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	IDL_PL_int_imputed.txt_snps.txt	-0.00602867482435679	0.00933548280796562	0.522109041943433
+ajfx9M	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	IDL_PL_int_imputed.txt_snps.txt	-0.00166422626142974	0.0109627874985448	0.880102373660647
+ajfx9M	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	IDL_PL_int_imputed.txt_snps.txt	0.0588393745254283	0.0247118078353735	0.0225244429771778
+AMKEoT	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_VLDL_PL_pct_int_imputed.txt_snps.txt	0.0119146953940922	0.0101890011738768	0.24827904901446
+AMKEoT	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_VLDL_PL_pct_int_imputed.txt_snps.txt	0.0179687421165881	0.0118625867380774	0.136679836427063
+AMKEoT	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_VLDL_PL_pct_int_imputed.txt_snps.txt	0.0188593391518515	0.024210562004556	0.440262516708506
+AwvLfo	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_LDL_P_int_imputed.txt_snps.txt	0.0068621147912134	0.0113416004000814	0.548657413725051
+AwvLfo	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_LDL_P_int_imputed.txt_snps.txt	0.00779408698499655	0.0139003684177525	0.578202048055675
+AwvLfo	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_LDL_P_int_imputed.txt_snps.txt	0.0378148996737366	0.026197645116464	0.157088684896851
+Azkv1t	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_LDL_FC_pct_int_imputed.txt_snps.txt	-0.0152374485527038	0.00618775904745718	0.0167881657482959
+Azkv1t	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_LDL_FC_pct_int_imputed.txt_snps.txt	-0.0147683195591061	0.00737967005769215	0.0500554633720839
+Azkv1t	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_LDL_FC_pct_int_imputed.txt_snps.txt	-0.0181067798544102	0.0191464841234103	0.348439289499492
+B0iA8R	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_VLDL_FC_int_imputed.txt_snps.txt	-0.000653869591948994	0.00807912877527887	0.935811868537748
+B0iA8R	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_VLDL_FC_int_imputed.txt_snps.txt	0.0029517414066614	0.00892051982415172	0.742080675186845
+B0iA8R	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_VLDL_FC_int_imputed.txt_snps.txt	-0.0108367635925976	0.0243155625571409	0.657758094713176
+B44uSQ	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_LDL_CE_int_imputed.txt_snps.txt	-0.00285810113711113	0.00939944006790468	0.762689993419637
+B44uSQ	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_LDL_CE_int_imputed.txt_snps.txt	-0.00119823751366221	0.0106765869833203	0.911216408187649
+B44uSQ	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_LDL_CE_int_imputed.txt_snps.txt	0.0183173645422694	0.0231411896953943	0.433412226661432
+BEzF89	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	PUFA_pct_int_imputed.txt_snps.txt	-0.0120844406348159	0.0141372234041076	0.400781847592422
+BEzF89	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	PUFA_pct_int_imputed.txt_snps.txt	-0.0103196903415742	0.016404732215074	0.535011070696133
+BEzF89	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	PUFA_pct_int_imputed.txt_snps.txt	-0.0188512414615362	0.0403548753861295	0.644448013231674
+bgHYG5	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	IDL_PL_pct_int_imputed.txt_snps.txt	-0.0152825343968894	0.0105572449876854	0.157770835894596
+bgHYG5	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	IDL_PL_pct_int_imputed.txt_snps.txt	-0.00877815238773614	0.0118103602697809	0.462921168892527
+bgHYG5	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	IDL_PL_pct_int_imputed.txt_snps.txt	-0.0259295456656133	0.0289863536953805	0.377924428619072
+Bko7tY	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	VLDL_size_int_imputed.txt_snps.txt	0.00544318464877776	0.00705119735040074	0.443571516161928
+Bko7tY	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	VLDL_size_int_imputed.txt_snps.txt	0.00668409778706692	0.00834523719434193	0.426738068794636
+Bko7tY	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	VLDL_size_int_imputed.txt_snps.txt	0.0250586275090685	0.0220437460197405	0.260748924865546
+BKsMtj	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_VLDL_C_pct_int_imputed.txt_snps.txt	-0.00308374805919636	0.00859138179567706	0.721251146273722
+BKsMtj	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_VLDL_C_pct_int_imputed.txt_snps.txt	-0.0060841190978096	0.00921792102402113	0.512455310001843
+BKsMtj	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_VLDL_C_pct_int_imputed.txt_snps.txt	0.018226990883446	0.0232391995083235	0.437151383415115
+BL2sJ9	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_VLDL_FC_pct_int_imputed.txt_snps.txt	0.00746156031577558	0.00895208367479159	0.408607583510468
+BL2sJ9	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_VLDL_FC_pct_int_imputed.txt_snps.txt	0.0133185413566784	0.0101670767970524	0.196315060069742
+BL2sJ9	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_VLDL_FC_pct_int_imputed.txt_snps.txt	0.0180007019049789	0.0246931823221731	0.469559301919983
+BPj2V1	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_HDL_P_int_imputed.txt_snps.txt	-0.00864891079458671	0.015555900707688	0.582483061857209
+BPj2V1	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_HDL_P_int_imputed.txt_snps.txt	-0.0156648399885327	0.0175615358541008	0.379736369861244
+BPj2V1	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_HDL_P_int_imputed.txt_snps.txt	0.00700749677777704	0.048326297383879	0.885826111942033
+bpL92A	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_LDL_TG_int_imputed.txt_snps.txt	0.00266937411163485	0.0086799744620209	0.759957957139276
+bpL92A	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_LDL_TG_int_imputed.txt_snps.txt	0.0094071450732056	0.00955462113036403	0.330475878775474
+bpL92A	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_LDL_TG_int_imputed.txt_snps.txt	-0.0151687785587106	0.0247992875451188	0.544058446659835
+bre1jo	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_HDL_CE_int_imputed.txt_snps.txt	-0.00592345131012004	0.00842903172431079	0.484481299616142
+bre1jo	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_HDL_CE_int_imputed.txt_snps.txt	-0.0030563176937651	0.0102763906202308	0.767008717191012
+bre1jo	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_HDL_CE_int_imputed.txt_snps.txt	0.0104487751206547	0.0238204118564385	0.662307170741789
+bttlis	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Total_BCAA_int_imputed.txt_snps.txt	0.017926610077431	0.0149826178041623	0.262071320804242
+bttlis	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Total_BCAA_int_imputed.txt_snps.txt	0.0109396598230852	0.0189169021094473	0.577243022856508
+bttlis	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Total_BCAA_int_imputed.txt_snps.txt	0.0255610987767888	0.0431367929285934	0.568063720199362
+bW4QOt	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_VLDL_TG_int_imputed.txt_snps.txt	0.00599473395670133	0.0076181906965962	0.435292039010427
+bW4QOt	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_VLDL_TG_int_imputed.txt_snps.txt	0.0152837217346673	0.00903550000259538	0.0973590033459413
+bW4QOt	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_VLDL_TG_int_imputed.txt_snps.txt	0.0173151695773549	0.0253355056117599	0.497687608157236
+bXVr3z	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_LDL_CE_pct_int_imputed.txt_snps.txt	-0.0128327977180679	0.0139788438598751	0.367744854921207
+bXVr3z	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_LDL_CE_pct_int_imputed.txt_snps.txt	-0.00557403939729512	0.015487895074356	0.72207223837156
+bXVr3z	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_LDL_CE_pct_int_imputed.txt_snps.txt	0.0149124680079859	0.0314813199980425	0.639999877340633
+bzotxZ	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	MUFA_pct_int_imputed.txt_snps.txt	-0.00452634360255481	0.00793703114046256	0.571387476737551
+bzotxZ	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	MUFA_pct_int_imputed.txt_snps.txt	0.00383257682543789	0.00922751147546861	0.679909790010139
+bzotxZ	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	MUFA_pct_int_imputed.txt_snps.txt	-0.0427447708109144	0.0223562661085546	0.0625563067858979
+C3lCx2	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_HDL_FC_int_imputed.txt_snps.txt	-0.00560646725298921	0.0077354480864822	0.471607033449921
+C3lCx2	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_HDL_FC_int_imputed.txt_snps.txt	-0.00122798266875238	0.0097319046530562	0.900040498987205
+C3lCx2	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_HDL_FC_int_imputed.txt_snps.txt	-0.0240889569366881	0.0212310684957071	0.261644840726778
+c5jciv	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_HDL_P_int_imputed.txt_snps.txt	-0.00590322346224016	0.00706764337103105	0.406342095775747
+c5jciv	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_HDL_P_int_imputed.txt_snps.txt	0.000479743544187377	0.00793332481093475	0.951947305135972
+c5jciv	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_HDL_P_int_imputed.txt_snps.txt	-0.0357186560832532	0.0180162216596221	0.0515166841919733
+C8j1J0	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_HDL_PL_pct_int_imputed.txt_snps.txt	-0.0101390206047392	0.0077603471412132	0.198486488900969
+C8j1J0	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_HDL_PL_pct_int_imputed.txt_snps.txt	-0.00221302416273047	0.0108308691262098	0.839085957561145
+C8j1J0	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_HDL_PL_pct_int_imputed.txt_snps.txt	-0.0633853565984937	0.0250319626402628	0.0152613620936091
+CaFyVY	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_VLDL_L_int_imputed.txt_snps.txt	-0.00314574322614619	0.0091188459946661	0.731722943842628
+CaFyVY	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_VLDL_L_int_imputed.txt_snps.txt	0.0055316047074256	0.0107203875552149	0.608388116060997
+CaFyVY	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_VLDL_L_int_imputed.txt_snps.txt	-0.00974057110564057	0.0234204744407829	0.679504876435633
+CUVHFF	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_VLDL_CE_int_imputed.txt_snps.txt	0.0128311987211864	0.00838417739824229	0.131863505972079
+CUVHFF	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_VLDL_CE_int_imputed.txt_snps.txt	0.0131411240865203	0.00967914005264178	0.180319648119303
+CUVHFF	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_VLDL_CE_int_imputed.txt_snps.txt	0.0474342642471704	0.0222586140056561	0.0378323615828764
+czRl5j	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_VLDL_C_pct_int_imputed.txt_snps.txt	0.000953813031291315	0.00723063922748485	0.895543636326257
+czRl5j	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_VLDL_C_pct_int_imputed.txt_snps.txt	0.00254182431870086	0.00863669317666776	0.769653023970129
+czRl5j	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_VLDL_C_pct_int_imputed.txt_snps.txt	0.0103843973113442	0.0192123131094273	0.591154907824501
+dc3tXr	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Omega_3_pct_int_imputed.txt_snps.txt	-0.0029908999432795	0.0126633666025593	0.81557732938016
+dc3tXr	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Omega_3_pct_int_imputed.txt_snps.txt	0.00134997178099367	0.0131807556888429	0.919395092600431
+dc3tXr	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Omega_3_pct_int_imputed.txt_snps.txt	-0.016308608434461	0.0422415899036246	0.70332158296767
+DLffdo	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_HDL_TG_pct_int_imputed.txt_snps.txt	-0.000206389518587539	0.00714791854771204	0.977073477478714
+DLffdo	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_HDL_TG_pct_int_imputed.txt_snps.txt	6.90546081394483e-05	0.00889654995568238	0.993836062530207
+DLffdo	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_HDL_TG_pct_int_imputed.txt_snps.txt	0.00932774299313309	0.022751923461863	0.683507715518492
+do6QtX	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_HDL_FC_int_imputed.txt_snps.txt	-0.00024419895046869	0.0136483215980702	0.985843294024726
+do6QtX	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_HDL_FC_int_imputed.txt_snps.txt	0.00163099406952779	0.013901044361097	0.907381435657576
+do6QtX	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_HDL_FC_int_imputed.txt_snps.txt	0.0351471324240436	0.0440920759235814	0.431853710888448
+dpdh9D	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_HDL_FC_pct_int_imputed.txt_snps.txt	-0.0118056312664163	0.007998974380597	0.144953474693247
+dpdh9D	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_HDL_FC_pct_int_imputed.txt_snps.txt	-0.00764501166406979	0.00967983822950954	0.432614724403737
+dpdh9D	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_HDL_FC_pct_int_imputed.txt_snps.txt	-0.0313515228324721	0.0249275692026185	0.213538885890233
+DQZ4xl	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_HDL_TG_int_imputed.txt_snps.txt	0.0181312903091387	0.0111088226208191	0.110908184520698
+DQZ4xl	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_HDL_TG_int_imputed.txt_snps.txt	0.0150368968236043	0.0140381223458805	0.290859500099034
+DQZ4xl	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_HDL_TG_int_imputed.txt_snps.txt	0.0494501290003924	0.0313907983776886	0.123698678604135
+Du6NI0	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	DHA_pct_int_imputed.txt_snps.txt	-0.0032060811781461	0.0126635925153526	0.803170627636452
+Du6NI0	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	DHA_pct_int_imputed.txt_snps.txt	-0.0128172503477841	0.0154296551892294	0.41766352883402
+Du6NI0	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	DHA_pct_int_imputed.txt_snps.txt	0.0907831663790467	0.041232794979154	0.0437515087771791
+Ed0Ahb	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_VLDL_L_int_imputed.txt_snps.txt	0.00394818937306408	0.00777576653321501	0.613550270979843
+Ed0Ahb	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_VLDL_L_int_imputed.txt_snps.txt	0.00197943234414379	0.00920680235345499	0.830524066121211
+Ed0Ahb	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_VLDL_L_int_imputed.txt_snps.txt	0.00338488979040569	0.0261893386728269	0.897617314210733
+eFOQYB	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_VLDL_P_int_imputed.txt_snps.txt	-0.00470997672649586	0.00757490792746999	0.536907155168753
+eFOQYB	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_VLDL_P_int_imputed.txt_snps.txt	-0.00255506645460417	0.0085334012117147	0.765861148000023
+eFOQYB	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_VLDL_P_int_imputed.txt_snps.txt	0.00705140030714939	0.0218822427526247	0.748639454428897
+EkNBGC	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_LDL_C_pct_int_imputed.txt_snps.txt	-0.0126018771514344	0.0092188675304189	0.178908570806539
+EkNBGC	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_LDL_C_pct_int_imputed.txt_snps.txt	-0.00717002215333046	0.0112665310420262	0.527968910047034
+EkNBGC	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_LDL_C_pct_int_imputed.txt_snps.txt	-0.00722743098327838	0.0257334326721243	0.780267262264987
+ESwctJ	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_HDL_FC_int_imputed.txt_snps.txt	-7.58150288634645e-05	0.00772318375907651	0.99219557476969
+ESwctJ	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_HDL_FC_int_imputed.txt_snps.txt	0.00393721544476643	0.0088630680233266	0.6582486951159
+ESwctJ	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_HDL_FC_int_imputed.txt_snps.txt	-0.0279527186090466	0.0200734634942386	0.168510135429559
+etFAww	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_VLDL_TG_int_imputed.txt_snps.txt	0.0134069093290102	0.007591352699672	0.084166574413669
+etFAww	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_VLDL_TG_int_imputed.txt_snps.txt	0.0204764606988171	0.00901980836324531	0.0280355754137527
+etFAww	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_VLDL_TG_int_imputed.txt_snps.txt	0.0207670347643451	0.0262717570028369	0.433399540426799
+F9FQet	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XS_VLDL_C_int_imputed.txt_snps.txt	-0.00568728558063436	0.0084457272528349	0.504476385798322
+F9FQet	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XS_VLDL_C_int_imputed.txt_snps.txt	-0.00561041628714114	0.00937535971981981	0.552850601919311
+F9FQet	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XS_VLDL_C_int_imputed.txt_snps.txt	0.0151974086040273	0.0229386835758715	0.511634609568704
+fcFCHc	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XXL_VLDL_FC_pct_int_imputed.txt_snps.txt	0.0127679948527841	0.0131421036012696	0.344904054343793
+fcFCHc	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XXL_VLDL_FC_pct_int_imputed.txt_snps.txt	0.0136739298783242	0.0139891388895034	0.342043553399904
+fcFCHc	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XXL_VLDL_FC_pct_int_imputed.txt_snps.txt	-0.0249014121387822	0.0345041206716479	0.480897352994406
+FDlhIx	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XXL_VLDL_CE_int_imputed.txt_snps.txt	0.00109266011272291	0.00813042377733577	0.893611797800121
+FDlhIx	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XXL_VLDL_CE_int_imputed.txt_snps.txt	0.00256956549643717	0.00930263547061111	0.783474669627945
+FDlhIx	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XXL_VLDL_CE_int_imputed.txt_snps.txt	-0.0168402255670431	0.020482536838988	0.414804850731506
+FeQGsv	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Gly_int_imputed.txt_snps.txt	0.0132282962471808	0.00846834028883361	0.129115144639474
+FeQGsv	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Gly_int_imputed.txt_snps.txt	0.0110929509133457	0.0106054452497308	0.304216414475922
+FeQGsv	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Gly_int_imputed.txt_snps.txt	0.000759175132327002	0.0275031258931573	0.978181622022946
+Ff1EG3	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	VLDL_L_int_imputed.txt_snps.txt	0.00800306345054643	0.00833773306734912	0.341837880411672
+Ff1EG3	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	VLDL_L_int_imputed.txt_snps.txt	0.0138021023573235	0.00966231883844582	0.159507060116315
+Ff1EG3	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	VLDL_L_int_imputed.txt_snps.txt	0.00828406600939052	0.0243978796883376	0.735653728003706
+fkasxp	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_HDL_C_pct_int_imputed.txt_snps.txt	0.00475728865259098	0.00777987445051838	0.543887878035734
+fkasxp	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_HDL_C_pct_int_imputed.txt_snps.txt	-0.00184271222338425	0.0100841263275961	0.8558097745715
+fkasxp	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_HDL_C_pct_int_imputed.txt_snps.txt	0.0462296485502857	0.0210492284807413	0.0333879225810605
+fnmMVs	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	ApoB_int_imputed.txt_snps.txt	0.00777544969363531	0.00862672648300829	0.372324999477452
+fnmMVs	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	ApoB_int_imputed.txt_snps.txt	0.00656424010703338	0.00965064131306465	0.499949591839706
+fnmMVs	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	ApoB_int_imputed.txt_snps.txt	0.0365206655967594	0.022442269561622	0.110811101626901
+FsBpAP	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_HDL_CE_int_imputed.txt_snps.txt	0.0174522817584211	0.0110077377915287	0.124506806288119
+FsBpAP	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_HDL_CE_int_imputed.txt_snps.txt	0.0114353995333949	0.0140546531253223	0.422970041142715
+FsBpAP	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_HDL_CE_int_imputed.txt_snps.txt	-0.0128153738805657	0.0303602119106996	0.676414221120142
+ftDhLz	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	SFA_int_imputed.txt_snps.txt	-0.0174062377079847	0.0110343049807709	0.123201030770602
+ftDhLz	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	SFA_int_imputed.txt_snps.txt	-0.0151998883485355	0.0128123060751019	0.243046047212116
+ftDhLz	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	SFA_int_imputed.txt_snps.txt	-0.0347208007002656	0.0323594503987549	0.290625938713213
+FYYiVA	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	IDL_FC_pct_int_imputed.txt_snps.txt	-0.00602651676911167	0.0170459854784407	0.72704566947017
+FYYiVA	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	IDL_FC_pct_int_imputed.txt_snps.txt	-0.00612994664365848	0.0192046939660387	0.752593423739004
+FYYiVA	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	IDL_FC_pct_int_imputed.txt_snps.txt	-0.0147408932863013	0.0430601673191675	0.735503254624922
+g5ofhl	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_HDL_PL_int_imputed.txt_snps.txt	-0.00583542458182844	0.00750328241317572	0.439356975296185
+g5ofhl	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_HDL_PL_int_imputed.txt_snps.txt	0.000782885903079056	0.00864227660346885	0.92807874438638
+g5ofhl	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_HDL_PL_int_imputed.txt_snps.txt	-0.0453606207746873	0.0210665618590602	0.0349611649671503
+g89qew	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XXL_VLDL_TG_int_imputed.txt_snps.txt	-0.00214593172620185	0.00873994072369159	0.807161214572459
+g89qew	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XXL_VLDL_TG_int_imputed.txt_snps.txt	0.000378700725948809	0.00971851746501478	0.969089125319912
+g89qew	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XXL_VLDL_TG_int_imputed.txt_snps.txt	-0.00883358609574163	0.0272616370685619	0.747486292402616
+G8vzRP	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	HDL_P_int_imputed.txt_snps.txt	-0.0139688920950108	0.00889087939837228	0.123478331831024
+G8vzRP	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	HDL_P_int_imputed.txt_snps.txt	-0.0168438266550299	0.0102739345124605	0.108411899960539
+G8vzRP	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	HDL_P_int_imputed.txt_snps.txt	-0.039086547009628	0.0243060312234065	0.115305588683515
+gBgxp3	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	LDL_CE_int_imputed.txt_snps.txt	0.0088406894913888	0.0115062022303566	0.44743797518509
+gBgxp3	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	LDL_CE_int_imputed.txt_snps.txt	0.00858352911565822	0.0134734644084212	0.5282251648041
+gBgxp3	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	LDL_CE_int_imputed.txt_snps.txt	0.0643240526287753	0.026336450685533	0.0201123472673904
+GhT92c	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	LDL_C_int_imputed.txt_snps.txt	0.00597045324352586	0.00994222430438712	0.551925260709158
+GhT92c	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	LDL_C_int_imputed.txt_snps.txt	0.00985614569433334	0.0115336937646518	0.398450245659106
+GhT92c	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	LDL_C_int_imputed.txt_snps.txt	0.0398923602574762	0.0246115662522442	0.114282613930692
+GJ8PlO	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XXL_VLDL_PL_int_imputed.txt_snps.txt	0.00564762860969455	0.00681933762370713	0.411023712082528
+GJ8PlO	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XXL_VLDL_PL_int_imputed.txt_snps.txt	0.00730988751901783	0.00743260085308816	0.329522694894617
+GJ8PlO	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XXL_VLDL_PL_int_imputed.txt_snps.txt	0.00883811327596394	0.0215676973153697	0.683499884919795
+gkZowZ	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XS_VLDL_PL_pct_int_imputed.txt_snps.txt	0.0196228764803073	0.0109646602251174	0.0824214312877492
+gkZowZ	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XS_VLDL_PL_pct_int_imputed.txt_snps.txt	0.0200723790474764	0.0137368274627875	0.153139032154983
+gkZowZ	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XS_VLDL_PL_pct_int_imputed.txt_snps.txt	0.0233604202319194	0.028582656015836	0.419622455232535
+gLNXrT	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	HDL_PL_int_imputed.txt_snps.txt	-0.00718021513630786	0.00633291729771615	0.262183071060584
+gLNXrT	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	HDL_PL_int_imputed.txt_snps.txt	-0.00900911579590295	0.00737174681635339	0.22728296031957
+gLNXrT	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	HDL_PL_int_imputed.txt_snps.txt	-0.025953255385072	0.0208560747058256	0.219272689382567
+goPyEE	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_LDL_P_int_imputed.txt_snps.txt	0.00529487962597631	0.00735560833725848	0.475516618541809
+goPyEE	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_LDL_P_int_imputed.txt_snps.txt	0.00600329577161048	0.00791862312851585	0.452512148020096
+goPyEE	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_LDL_P_int_imputed.txt_snps.txt	0.0703693643089612	0.0218926462850728	0.00251470632331983
+GP1HSy	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_LDL_TG_pct_int_imputed.txt_snps.txt	-0.00499793993864008	0.0086174675098445	0.565103452636342
+GP1HSy	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_LDL_TG_pct_int_imputed.txt_snps.txt	-0.0123268330794145	0.010838167026311	0.261993691905936
+GP1HSy	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_LDL_TG_pct_int_imputed.txt_snps.txt	-0.0276021092478031	0.0211930275742954	0.200613408272841
+gSwldJ	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_VLDL_PL_pct_int_imputed.txt_snps.txt	0.0025283816743011	0.00733902001218073	0.731997974100423
+gSwldJ	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_VLDL_PL_pct_int_imputed.txt_snps.txt	0.00787499398452892	0.0081956993759137	0.341535449479236
+gSwldJ	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_VLDL_PL_pct_int_imputed.txt_snps.txt	0.00749258549269168	0.0192931134611074	0.699506632092268
+Gzx8r1	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	MUFA_int_imputed.txt_snps.txt	0.0110790097241838	0.00947839336695261	0.249551090408736
+Gzx8r1	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	MUFA_int_imputed.txt_snps.txt	0.0133481158669689	0.0111835571780441	0.239864703183304
+Gzx8r1	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	MUFA_int_imputed.txt_snps.txt	0.00382783291888759	0.0294630406026215	0.897333619620848
+HbHwdH	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	bOHbutyrate_int_imputed.txt_snps.txt	-0.0444626131143399	0.0407468639860861	0.311317668851666
+HbHwdH	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	bOHbutyrate_int_imputed.txt_snps.txt	-0.0485989221866931	0.0412179725457463	0.276888223773735
+HbHwdH	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	bOHbutyrate_int_imputed.txt_snps.txt	-0.0796138029511723	0.119661785075922	0.527149533471389
+HGQdTN	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_HDL_PL_int_imputed.txt_snps.txt	-0.0162567934246449	0.0108594636692046	0.143615650243775
+HGQdTN	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_HDL_PL_int_imputed.txt_snps.txt	-0.0132983565399933	0.0139739636953574	0.347989884440374
+HGQdTN	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_HDL_PL_int_imputed.txt_snps.txt	-0.024537644334519	0.0344180666401435	0.480900847306981
+hIqthi	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_HDL_CE_int_imputed.txt_snps.txt	-0.0127117487341279	0.00976355957992847	0.197990848197965
+hIqthi	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_HDL_CE_int_imputed.txt_snps.txt	-0.0210425147177636	0.0105142305651448	0.0499621950894041
+hIqthi	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_HDL_CE_int_imputed.txt_snps.txt	-0.0439532316847885	0.0255025536531256	0.0902220737467039
+hjfnrA	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_VLDL_PL_int_imputed.txt_snps.txt	0.0133050382409382	0.0106310042711261	0.216805643499272
+hjfnrA	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_VLDL_PL_int_imputed.txt_snps.txt	0.0147498802421484	0.0123196147709421	0.237081571102548
+hjfnrA	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_VLDL_PL_int_imputed.txt_snps.txt	0.0526601380975843	0.0262658084200872	0.0507533772669102
+hTphDH	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_HDL_TG_int_imputed.txt_snps.txt	0.00183201732732048	0.00600886941862843	0.761890883472363
+hTphDH	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_HDL_TG_int_imputed.txt_snps.txt	0.00094022087238946	0.00705702981855633	0.894617539496926
+hTphDH	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_HDL_TG_int_imputed.txt_snps.txt	-0.00219397718555936	0.0173440175844337	0.899941673332452
+HuYSkq	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Omega_6_by_Omega_3_int_imputed.txt_snps.txt	0.00125843540946022	0.00981358270029171	0.899128778029589
+HuYSkq	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Omega_6_by_Omega_3_int_imputed.txt_snps.txt	0.00528256960607399	0.0111834755959133	0.641325482568613
+HuYSkq	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Omega_6_by_Omega_3_int_imputed.txt_snps.txt	0.0124500255353757	0.0381319964564634	0.747439527239931
+HwhPZN	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Total_FA_int_imputed.txt_snps.txt	-0.010532183160236	0.0113252166465043	0.357826845166285
+HwhPZN	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Total_FA_int_imputed.txt_snps.txt	-0.00273906305405706	0.0127269263821181	0.830664408676332
+HwhPZN	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Total_FA_int_imputed.txt_snps.txt	-0.0387931508908763	0.0307716248977763	0.214914691135674
+HxkDuv	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_LDL_C_int_imputed.txt_snps.txt	0.00112294116734034	0.0109299347976126	0.918695821650552
+HxkDuv	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_LDL_C_int_imputed.txt_snps.txt	0.00320688557999593	0.012976795213678	0.806108103795638
+HxkDuv	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_LDL_C_int_imputed.txt_snps.txt	0.0279437620509197	0.0236640841508339	0.245000334317142
+iC4PgB	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_VLDL_CE_pct_int_imputed.txt_snps.txt	0.0024588930307666	0.0101412787604743	0.809600937343846
+iC4PgB	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_VLDL_CE_pct_int_imputed.txt_snps.txt	-0.0015302213405817	0.010011541478043	0.879251895347429
+iC4PgB	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_VLDL_CE_pct_int_imputed.txt_snps.txt	0.0313810127667056	0.0253449632880862	0.222876224286967
+if94zD	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_VLDL_PL_int_imputed.txt_snps.txt	-3.90670171580413e-05	0.00821453621983131	0.996224327921404
+if94zD	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_VLDL_PL_int_imputed.txt_snps.txt	0.00538593353280624	0.00877170022277073	0.541990837061241
+if94zD	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_VLDL_PL_int_imputed.txt_snps.txt	0.00632869073509134	0.0244343725623579	0.79669266949718
+igK2xy	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_LDL_CE_int_imputed.txt_snps.txt	0.0122834791465673	0.010518714618331	0.251266309675817
+igK2xy	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_LDL_CE_int_imputed.txt_snps.txt	0.014579106610396	0.0122827743223396	0.243719739900825
+igK2xy	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_LDL_CE_int_imputed.txt_snps.txt	0.0675109878583727	0.0247932176063791	0.0105270004038858
+IKTFeT	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_VLDL_C_int_imputed.txt_snps.txt	0.00874932357635826	0.00757925581411675	0.253944456432576
+IKTFeT	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_VLDL_C_int_imputed.txt_snps.txt	0.00594135798927467	0.00857981394646385	0.491904208460562
+IKTFeT	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_VLDL_C_int_imputed.txt_snps.txt	0.055343157489548	0.0196026869099528	0.00685298769812571
+IMVjGx	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Tyr_int_imputed.txt_snps.txt	0.00545763765754372	0.0135049283168084	0.692692634509366
+IMVjGx	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Tyr_int_imputed.txt_snps.txt	0.00421735810584903	0.0151529266981906	0.785144591311941
+IMVjGx	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Tyr_int_imputed.txt_snps.txt	0.0250287935832507	0.0424622146846341	0.566500543689548
+IpOX8P	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Omega_6_pct_int_imputed.txt_snps.txt	-0.00947630414302241	0.0108070702883847	0.388023374101452
+IpOX8P	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Omega_6_pct_int_imputed.txt_snps.txt	-0.0107610602700133	0.0122893662175035	0.388675930594553
+IpOX8P	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Omega_6_pct_int_imputed.txt_snps.txt	0.000518260180217763	0.0320646713954748	0.987219003402925
+IyeDnd	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Lactate_int_imputed.txt_snps.txt	-0.0721941634310082	0.170118637994154	0.693121714220589
+IyeDnd	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Lactate_int_imputed.txt_snps.txt	-0.0552962232904958	0.190391896085834	0.785919741476838
+IyeDnd	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Lactate_int_imputed.txt_snps.txt	-0.245210850406348	0.209867711752451	0.307529414694568
+J0Db9F	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_VLDL_P_int_imputed.txt_snps.txt	-0.00381071417318843	0.00789140590869699	0.631366083331543
+J0Db9F	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_VLDL_P_int_imputed.txt_snps.txt	2.50418751516512e-05	0.00847216023605896	0.997653879501978
+J0Db9F	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_VLDL_P_int_imputed.txt_snps.txt	0.0039112963176561	0.0219955257737339	0.859626690491739
+J0FTVn	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_VLDL_C_int_imputed.txt_snps.txt	0.000739884248065945	0.00708213505392808	0.917174903261153
+J0FTVn	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_VLDL_C_int_imputed.txt_snps.txt	0.00124539738640676	0.00838513626969143	0.882472146120476
+J0FTVn	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_VLDL_C_int_imputed.txt_snps.txt	0.0139745594320516	0.0234382708968844	0.553560841098244
+J0MTPQ	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.00979961172680152	0.00782056685870666	0.215584008525359
+J0MTPQ	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.0115942058385282	0.0094469934013978	0.225037057238713
+J0MTPQ	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.0237414653341953	0.0202700044413576	0.246732804871108
+j2wk7d	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_HDL_P_int_imputed.txt_snps.txt	-0.0130066179701778	0.00769003075552676	0.0965321235332384
+j2wk7d	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_HDL_P_int_imputed.txt_snps.txt	-0.0161762918455946	0.00856670273400591	0.0643660106485755
+j2wk7d	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_HDL_P_int_imputed.txt_snps.txt	-0.0384622400018265	0.0238618600892507	0.113162145544839
+j7erjv	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_VLDL_CE_int_imputed.txt_snps.txt	0.00837440911043696	0.00786049773073102	0.291626406545704
+j7erjv	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_VLDL_CE_int_imputed.txt_snps.txt	0.0084489831228127	0.00968534498854656	0.387029322061378
+j7erjv	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_VLDL_CE_int_imputed.txt_snps.txt	0.0452831012659522	0.0241647067435394	0.0666736812169213
+JER1wN	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_HDL_PL_int_imputed.txt_snps.txt	-0.00791611090547823	0.00721261463171019	0.276455991030951
+JER1wN	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_HDL_PL_int_imputed.txt_snps.txt	-0.0043336742560113	0.00853539258838107	0.61336135510161
+JER1wN	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_HDL_PL_int_imputed.txt_snps.txt	-0.0452330424132487	0.0207125820325554	0.032645766549056
+jK7opA	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_LDL_FC_int_imputed.txt_snps.txt	-0.00815957765987575	0.00810940990010466	0.322115651578848
+jK7opA	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_LDL_FC_int_imputed.txt_snps.txt	0.00173905096639568	0.00919123502984452	0.851163519806669
+jK7opA	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_LDL_FC_int_imputed.txt_snps.txt	0.0191026945700974	0.0209852007624501	0.369691652534246
+jL30Xv	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_VLDL_CE_int_imputed.txt_snps.txt	-0.00231909468112593	0.0108136828044029	0.831306336681103
+jL30Xv	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_VLDL_CE_int_imputed.txt_snps.txt	0.00309409457466958	0.0125993767784245	0.807298845166145
+jL30Xv	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_VLDL_CE_int_imputed.txt_snps.txt	0.0535951298237727	0.0243254565208246	0.0338815438524304
+jV1FMe	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	VLDL_C_int_imputed.txt_snps.txt	0.0164531890221908	0.00816892847010585	0.0491837571720827
+jV1FMe	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	VLDL_C_int_imputed.txt_snps.txt	0.0169061466459971	0.00954631944566171	0.0824283246050712
+jV1FMe	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	VLDL_C_int_imputed.txt_snps.txt	0.043587763108929	0.0210707141557009	0.0435683519037829
+jYuaZT	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_HDL_FC_int_imputed.txt_snps.txt	-0.00617910627908382	0.00766429763390496	0.42393436958175
+jYuaZT	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_HDL_FC_int_imputed.txt_snps.txt	-0.00816097614932607	0.00864305267666896	0.349595820218369
+jYuaZT	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_HDL_FC_int_imputed.txt_snps.txt	-0.0372708208867355	0.0252374085922197	0.146258167131571
+KCRhA6	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XS_VLDL_CE_int_imputed.txt_snps.txt	-0.00883297429184888	0.00818319379583852	0.28628916195625
+KCRhA6	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XS_VLDL_CE_int_imputed.txt_snps.txt	-0.00736394488099491	0.00959164067934669	0.446738757280793
+KCRhA6	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XS_VLDL_CE_int_imputed.txt_snps.txt	0.00901960584484667	0.0233289086427054	0.700983693400792
+KF70Nn	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	ApoA1_int_imputed.txt_snps.txt	-0.0154355294372161	0.00755954815297393	0.0459730572076653
+KF70Nn	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	ApoA1_int_imputed.txt_snps.txt	-0.0192484000874645	0.00933700895723512	0.0439927254757691
+KF70Nn	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	ApoA1_int_imputed.txt_snps.txt	-0.0522839341591337	0.0258477467139838	0.0482534627319645
+kFW08L	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_VLDL_CE_int_imputed.txt_snps.txt	-0.000169427626666402	0.00794989770340302	0.983076865116883
+kFW08L	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_VLDL_CE_int_imputed.txt_snps.txt	-0.000381614382934135	0.00899058446709502	0.966302662971346
+kFW08L	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_VLDL_CE_int_imputed.txt_snps.txt	0.0287926732341951	0.0257839132107031	0.269359839826709
+l02HdG	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.00655622803467965	0.00875342837404462	0.457760799656072
+l02HdG	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.00702059723316121	0.00991654412823292	0.482616096458883
+l02HdG	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.010657023831868	0.0196772227929082	0.590895071221488
+L1qdVE	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Total_CE_int_imputed.txt_snps.txt	0.000371722896987589	0.0116460984102338	0.974692134935204
+L1qdVE	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Total_CE_int_imputed.txt_snps.txt	0.000235780899230488	0.0129807496038278	0.985596216957642
+L1qdVE	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Total_CE_int_imputed.txt_snps.txt	0.0777504182723429	0.0311711525899521	0.0168519652518006
+L3rIbc	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Albumin_int_imputed.txt_snps.txt	-0.00133138827003179	0.0148898090965876	0.929796248813576
+L3rIbc	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Albumin_int_imputed.txt_snps.txt	4.24082214083135e-05	0.0160061532419266	0.997916854541879
+L3rIbc	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Albumin_int_imputed.txt_snps.txt	0.00439024308347506	0.04213096737331	0.918226464908329
+L92BHO	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_HDL_TG_int_imputed.txt_snps.txt	0.00709180958184639	0.00717417652886347	0.327227545929024
+L92BHO	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_HDL_TG_int_imputed.txt_snps.txt	0.00307723655182981	0.00883131047388503	0.728835401875205
+L92BHO	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_HDL_TG_int_imputed.txt_snps.txt	0.00339469332419275	0.0213919478385371	0.874516071049006
+lBj1VO	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_VLDL_FC_int_imputed.txt_snps.txt	0.0119983281774828	0.00922782101488885	0.200141007002376
+lBj1VO	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_VLDL_FC_int_imputed.txt_snps.txt	0.0116809205442783	0.0101849130978152	0.257490868667076
+lBj1VO	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_VLDL_FC_int_imputed.txt_snps.txt	0.0440330485332172	0.0211597887446514	0.0431569504253114
+LjS5By	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	LDL_TG_int_imputed.txt_snps.txt	0.0137946788939364	0.0109237583557277	0.21396809160253
+LjS5By	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	LDL_TG_int_imputed.txt_snps.txt	0.0230021658159698	0.0121630394189554	0.0658615763677942
+LjS5By	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	LDL_TG_int_imputed.txt_snps.txt	-0.00853681372292711	0.0322269511486627	0.792449338123208
+lkpTZa	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_HDL_CE_pct_int_imputed.txt_snps.txt	-0.0080402924907686	0.00866807637269615	0.357755518985886
+lkpTZa	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_HDL_CE_pct_int_imputed.txt_snps.txt	-0.00279691217048793	0.010270854552886	0.786418065480066
+lkpTZa	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_HDL_CE_pct_int_imputed.txt_snps.txt	-0.0103201238325425	0.0243761517100876	0.673805684203335
+LMjO8R	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_LDL_TG_int_imputed.txt_snps.txt	0.00939027204498576	0.0130612084359492	0.476573720583616
+LMjO8R	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_LDL_TG_int_imputed.txt_snps.txt	0.016492251422856	0.0140866209428976	0.248979357278854
+LMjO8R	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_LDL_TG_int_imputed.txt_snps.txt	-0.00140653953226937	0.0317255275101191	0.964876078964881
+Mcekz7	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	IDL_CE_int_imputed.txt_snps.txt	-0.00333914826441556	0.00881259839933727	0.70653947810929
+Mcekz7	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	IDL_CE_int_imputed.txt_snps.txt	0.000938707026361156	0.00925449112251923	0.919657680962447
+Mcekz7	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	IDL_CE_int_imputed.txt_snps.txt	0.0362417427764123	0.023760027263114	0.134674000036553
+mhIDJ0	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_VLDL_FC_int_imputed.txt_snps.txt	-0.00161595222096178	0.00762323646186833	0.833022387509738
+mhIDJ0	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_VLDL_FC_int_imputed.txt_snps.txt	0.00173167991189201	0.00852363511460589	0.83986710152312
+mhIDJ0	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_VLDL_FC_int_imputed.txt_snps.txt	-0.00486835095296995	0.0218593476841872	0.824724291324286
+mQHx86	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Val_int_imputed.txt_snps.txt	0.00922114245870394	0.0138629718759648	0.519648630940418
+mQHx86	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Val_int_imputed.txt_snps.txt	-0.000882949744111351	0.0163672553240549	0.957945391424436
+mQHx86	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Val_int_imputed.txt_snps.txt	0.0453514026547292	0.0399458161819386	0.2803724744258
+mt79hZ	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_VLDL_PL_int_imputed.txt_snps.txt	-0.00295667318850924	0.00743362919133807	0.692547261944856
+mt79hZ	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_VLDL_PL_int_imputed.txt_snps.txt	-0.00325913043297941	0.00884114461121527	0.713989875059891
+mt79hZ	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_VLDL_PL_int_imputed.txt_snps.txt	0.00129503421912743	0.0213545646830824	0.951894235527196
+MuOEsW	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_HDL_C_int_imputed.txt_snps.txt	-0.00453022657538203	0.0078386116807115	0.565215401682969
+MuOEsW	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_HDL_C_int_imputed.txt_snps.txt	-0.00260927078730413	0.0093615674723132	0.781304376752353
+MuOEsW	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_HDL_C_int_imputed.txt_snps.txt	0.0166380960620113	0.0236096575513446	0.483504679636188
+MZe8gv	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XS_VLDL_P_int_imputed.txt_snps.txt	0.00617014374740092	0.00908566576148134	0.500400524286059
+MZe8gv	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XS_VLDL_P_int_imputed.txt_snps.txt	-0.00262967226722134	0.0103673418883033	0.800872588197185
+MZe8gv	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XS_VLDL_P_int_imputed.txt_snps.txt	0.0468198587105447	0.0238946353145927	0.0561386829173114
+n9JycZ	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_HDL_TG_pct_int_imputed.txt_snps.txt	0.00635794998512339	0.00790566123294356	0.424728215406753
+n9JycZ	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_HDL_TG_pct_int_imputed.txt_snps.txt	0.000194374741951514	0.00972644635010099	0.984128341635999
+n9JycZ	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_HDL_TG_pct_int_imputed.txt_snps.txt	0.00486150280037824	0.0261504506281616	0.853228858736319
+NbgLI2	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Total_FC_int_imputed.txt_snps.txt	0.00131735104817037	0.0117290960438515	0.911121910449839
+NbgLI2	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Total_FC_int_imputed.txt_snps.txt	0.00280057908437939	0.0128900251925757	0.829077760212632
+NbgLI2	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Total_FC_int_imputed.txt_snps.txt	0.0687025825803798	0.0275594272002163	0.017024484874475
+nD87SU	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_HDL_CE_int_imputed.txt_snps.txt	-0.00430708091913534	0.00640050844015807	0.50298200071782
+nD87SU	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_HDL_CE_int_imputed.txt_snps.txt	0.00048848985611095	0.00752644957990049	0.948417213090539
+nD87SU	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_HDL_CE_int_imputed.txt_snps.txt	-0.0336203818597558	0.0161502219599816	0.0408737355339568
+NdeY5x	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	LDL_FC_int_imputed.txt_snps.txt	-0.0120852698985766	0.0142650464505026	0.404334007926023
+NdeY5x	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	LDL_FC_int_imputed.txt_snps.txt	-0.0067858432789323	0.0155711728908325	0.666449741123909
+NdeY5x	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	LDL_FC_int_imputed.txt_snps.txt	0.0523876544308072	0.0310838889599263	0.103443774381409
+NDwSba	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_HDL_PL_pct_int_imputed.txt_snps.txt	-0.00651751442356311	0.00772973407881574	0.402536320278806
+NDwSba	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_HDL_PL_pct_int_imputed.txt_snps.txt	-0.0103980391993894	0.00980378007043047	0.293187315243603
+NDwSba	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_HDL_PL_pct_int_imputed.txt_snps.txt	-0.00202749383590239	0.0273166371646231	0.941098283083574
+NecMdv	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_HDL_CE_pct_int_imputed.txt_snps.txt	-0.000930155787536522	0.00859111911121391	0.914190805351388
+NecMdv	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_HDL_CE_pct_int_imputed.txt_snps.txt	0.00238539820355939	0.00995769288599942	0.81160060018565
+NecMdv	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_HDL_CE_pct_int_imputed.txt_snps.txt	0.0119358843378131	0.0259533766847889	0.647544702647699
+Nfce7P	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Phosphoglyc_int_imputed.txt_snps.txt	-0.0154305778101282	0.0122177879863459	0.212968038053753
+Nfce7P	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Phosphoglyc_int_imputed.txt_snps.txt	-0.0153840496100104	0.0134596120109143	0.258961404755433
+Nfce7P	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Phosphoglyc_int_imputed.txt_snps.txt	-0.00270897467094336	0.0276971606533119	0.922519948322146
+nl3Lu7	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XXL_VLDL_P_int_imputed.txt_snps.txt	-0.000703668188434381	0.00761009374743522	0.926677139385965
+nl3Lu7	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XXL_VLDL_P_int_imputed.txt_snps.txt	0.0018686797907758	0.00829258600184748	0.822578770284816
+nl3Lu7	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XXL_VLDL_P_int_imputed.txt_snps.txt	-0.000220781423795195	0.0249046772337297	0.992960723083399
+nPWYsg	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Phosphatidylc_int_imputed.txt_snps.txt	-0.013862928760472	0.00914029691072823	0.136499216917588
+nPWYsg	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Phosphatidylc_int_imputed.txt_snps.txt	-0.00881084799301509	0.0104833421786346	0.405193665624103
+nPWYsg	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Phosphatidylc_int_imputed.txt_snps.txt	-0.00487381139449631	0.0280377180646646	0.862814438447206
+NsUALj	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XXL_VLDL_PL_pct_int_imputed.txt_snps.txt	-0.00529399600739342	0.0100404525234341	0.601761857694556
+NsUALj	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XXL_VLDL_PL_pct_int_imputed.txt_snps.txt	-0.00659017200908232	0.0120216355934517	0.587485936109536
+NsUALj	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XXL_VLDL_PL_pct_int_imputed.txt_snps.txt	0.0029567736983039	0.0264620666649851	0.911776752823322
+NUwqgO	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	GlycA_int_imputed.txt_snps.txt	-0.026459256176696	0.0156111525968726	0.101600471426923
+NUwqgO	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	GlycA_int_imputed.txt_snps.txt	-0.0229174875890401	0.0168599577426002	0.185302144818745
+NUwqgO	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	GlycA_int_imputed.txt_snps.txt	0.0100383115043988	0.0298312067783574	0.739191999849524
+NuX15n	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XS_VLDL_CE_pct_int_imputed.txt_snps.txt	0.00465992238089623	0.00728766304795827	0.525523995735002
+NuX15n	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XS_VLDL_CE_pct_int_imputed.txt_snps.txt	0.0090722334825577	0.00849549215631559	0.290804107128942
+NuX15n	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XS_VLDL_CE_pct_int_imputed.txt_snps.txt	0.0156581253460741	0.0191868186935777	0.418567000270256
+NvdtSk	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Clinical_LDL_C_int_imputed.txt_snps.txt	-0.002127879899368	0.00985532283851742	0.830346670232559
+NvdtSk	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Clinical_LDL_C_int_imputed.txt_snps.txt	0.00178691998249442	0.0113466123216279	0.875794272739562
+NvdtSk	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Clinical_LDL_C_int_imputed.txt_snps.txt	0.0331103289010348	0.0219732075061107	0.141363038897148
+NzBZQX	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	IDL_P_int_imputed.txt_snps.txt	-0.00233258732023242	0.00981671401679595	0.813566091145499
+NzBZQX	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	IDL_P_int_imputed.txt_snps.txt	-0.000170948581246525	0.0111671485733024	0.98787325794665
+NzBZQX	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	IDL_P_int_imputed.txt_snps.txt	0.0527045085387498	0.0233172717057551	0.0305228118573085
+OcecAq	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XXL_VLDL_C_pct_int_imputed.txt_snps.txt	0.000158796046475896	0.0167416338905621	0.992521631509105
+OcecAq	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XXL_VLDL_C_pct_int_imputed.txt_snps.txt	-0.0026985467542301	0.0165298838596974	0.87188040699976
+OcecAq	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XXL_VLDL_C_pct_int_imputed.txt_snps.txt	-0.0327298649985586	0.0380683079880414	0.400106410596469
+ODSBAD	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Leu_int_imputed.txt_snps.txt	0.00296673392300978	0.0185379923512807	0.876820220043906
+ODSBAD	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Leu_int_imputed.txt_snps.txt	-0.00215075317889438	0.0261827698835222	0.936550382209642
+ODSBAD	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Leu_int_imputed.txt_snps.txt	0.0356308861342465	0.0486907147646856	0.485184568045288
+OEJhWe	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	VLDL_TG_int_imputed.txt_snps.txt	0.00765903993806733	0.0083439280720622	0.363251394313105
+OEJhWe	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	VLDL_TG_int_imputed.txt_snps.txt	0.0160313395401945	0.00914200762694838	0.0858844737913171
+OEJhWe	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	VLDL_TG_int_imputed.txt_snps.txt	-0.0029774481705781	0.0209576596479824	0.887619606615291
+oEjMOt	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_VLDL_P_int_imputed.txt_snps.txt	0.00792558589809411	0.0103265057379096	0.44662342857009
+oEjMOt	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_VLDL_P_int_imputed.txt_snps.txt	0.00824315873223279	0.0116706553478697	0.483479113426009
+oEjMOt	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_VLDL_P_int_imputed.txt_snps.txt	0.0537963159932926	0.0258553321221985	0.0429402838883703
+Oezv7p	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	DHA_int_imputed.txt_snps.txt	-0.0142294278512247	0.00927249721769421	0.137964679509738
+Oezv7p	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	DHA_int_imputed.txt_snps.txt	-0.00285593337638305	0.0100369250784995	0.778435301663627
+Oezv7p	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	DHA_int_imputed.txt_snps.txt	-0.0234594445373359	0.0274542562308226	0.402041872613001
+oUvw12	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_LDL_CE_int_imputed.txt_snps.txt	0.00215151305986578	0.0111183848286175	0.847492794232499
+oUvw12	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_LDL_CE_int_imputed.txt_snps.txt	0.00417949416617142	0.0130091204931925	0.749596008651065
+oUvw12	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_LDL_CE_int_imputed.txt_snps.txt	0.0420727509567196	0.0249135988438733	0.0988608370978533
+peV47A	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_VLDL_FC_pct_int_imputed.txt_snps.txt	-0.0053215653981878	0.0114365455182639	0.643951888315936
+peV47A	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_VLDL_FC_pct_int_imputed.txt_snps.txt	-0.00915773489665182	0.0123560093464327	0.462448993471413
+peV47A	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_VLDL_FC_pct_int_imputed.txt_snps.txt	0.0694953409779086	0.0283851212449857	0.0188341055219725
+pfihiC	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XXL_VLDL_L_int_imputed.txt_snps.txt	-0.00126877552256628	0.00802448479171779	0.874992140881888
+pfihiC	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XXL_VLDL_L_int_imputed.txt_snps.txt	0.00146041011324384	0.00878742321599393	0.868662021096899
+pfihiC	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XXL_VLDL_L_int_imputed.txt_snps.txt	-0.0118128159489718	0.0261708463466055	0.653712124675489
+PfNp5D	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	His_int_imputed.txt_snps.txt	-0.00505711704476535	0.0197361005927366	0.803528779477215
+PfNp5D	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	His_int_imputed.txt_snps.txt	-0.00205966668227292	0.022084269579888	0.927737030998959
+PfNp5D	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	His_int_imputed.txt_snps.txt	-0.0399519531231835	0.0523302077996595	0.464731579459354
+ptxpvR	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_LDL_L_int_imputed.txt_snps.txt	0.00793382654286238	0.0103605763233734	0.448804631620257
+ptxpvR	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_LDL_L_int_imputed.txt_snps.txt	0.0124116752243264	0.0116936125459224	0.295574255086464
+ptxpvR	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_LDL_L_int_imputed.txt_snps.txt	0.0625659443695532	0.0240613774249945	0.0136868755972562
+PVpbRC	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_HDL_L_int_imputed.txt_snps.txt	-0.00338323543560588	0.00769708323056342	0.661722640432799
+PVpbRC	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_HDL_L_int_imputed.txt_snps.txt	0.000825260170976533	0.00921176290332537	0.928890378752852
+PVpbRC	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_HDL_L_int_imputed.txt_snps.txt	-0.0265201928680948	0.0226675928510848	0.246355284468742
+pwME6Q	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Omega_6_int_imputed.txt_snps.txt	-0.00150020660630638	0.0112028336966954	0.894081908813474
+pwME6Q	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Omega_6_int_imputed.txt_snps.txt	-0.00518059637957461	0.0130335395924573	0.692933904459274
+pwME6Q	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Omega_6_int_imputed.txt_snps.txt	0.0801597745990241	0.0265236438874945	0.00426281534032682
+PxdS2D	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_VLDL_PL_int_imputed.txt_snps.txt	0.00701803242659869	0.00776340898302321	0.37009223794086
+PxdS2D	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_VLDL_PL_int_imputed.txt_snps.txt	0.00479306246496544	0.00913969492380466	0.602171227433376
+PxdS2D	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_VLDL_PL_int_imputed.txt_snps.txt	0.048958216439903	0.0216589116538448	0.027927744389846
+pzXyiw	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_HDL_TG_pct_int_imputed.txt_snps.txt	0.00140214583647091	0.0076081731771008	0.85440376565555
+pzXyiw	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_HDL_TG_pct_int_imputed.txt_snps.txt	-0.00870960060774475	0.00923699032968194	0.349510998522847
+pzXyiw	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_HDL_TG_pct_int_imputed.txt_snps.txt	0.000821374161297038	0.0226276144961147	0.971168087578405
+qELpUv	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_VLDL_C_int_imputed.txt_snps.txt	0.00533022896356448	0.0119044128029171	0.656688889353018
+qELpUv	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_VLDL_C_int_imputed.txt_snps.txt	0.00494906530617897	0.0144596846299888	0.733898762405771
+qELpUv	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_VLDL_C_int_imputed.txt_snps.txt	0.0649347004569727	0.0252551635840787	0.0139608659380654
+Qvmzrl	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Cholines_int_imputed.txt_snps.txt	-0.0109175165682078	0.0108787161129592	0.321074907138654
+Qvmzrl	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Cholines_int_imputed.txt_snps.txt	-0.0100663502330556	0.0125709766090491	0.427572767482482
+Qvmzrl	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Cholines_int_imputed.txt_snps.txt	0.0129268744592034	0.0299210457403507	0.667927556694198
+qxNP1b	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	LA_int_imputed.txt_snps.txt	-0.00750138660923082	0.0114397062256486	0.515572464939604
+qxNP1b	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	LA_int_imputed.txt_snps.txt	-0.00932547732109684	0.0131058015773528	0.480675046723377
+qxNP1b	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	LA_int_imputed.txt_snps.txt	0.0542371538328738	0.0301198473751022	0.0792918217406997
+qyMRCz	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	TG_by_PG_int_imputed.txt_snps.txt	0.00697856010908604	0.00660050564805818	0.295570097332666
+qyMRCz	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	TG_by_PG_int_imputed.txt_snps.txt	0.00681585886863872	0.00782067688193199	0.387721739750983
+qyMRCz	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	TG_by_PG_int_imputed.txt_snps.txt	0.0157664882166753	0.0198290439846516	0.430377900282814
+R1X1eY	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_LDL_C_int_imputed.txt_snps.txt	0.00646777076132945	0.0101302945402594	0.527216483207683
+R1X1eY	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_LDL_C_int_imputed.txt_snps.txt	0.0097951635396286	0.0113149120643583	0.39239498224233
+R1X1eY	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_LDL_C_int_imputed.txt_snps.txt	0.0606344106481311	0.0237729044843469	0.0154279199251576
+r90GzU	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Citrate_int_imputed.txt_snps.txt	0.0194089502345624	0.00860217641527941	0.037512685792169
+r90GzU	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Citrate_int_imputed.txt_snps.txt	0.0221709712701352	0.0121173301936587	0.0848896102416095
+r90GzU	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Citrate_int_imputed.txt_snps.txt	0.00539249199461587	0.0250742070940539	0.832278379606675
+RC6KQC	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_VLDL_CE_pct_int_imputed.txt_snps.txt	-0.00752513636903013	0.0080917753947059	0.356523682989116
+RC6KQC	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_VLDL_CE_pct_int_imputed.txt_snps.txt	-0.00656007386363532	0.00889595614802043	0.464058069979243
+RC6KQC	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_VLDL_CE_pct_int_imputed.txt_snps.txt	0.00916142005474748	0.0226620873511611	0.687646853336233
+RCPZNt	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Ala_int_imputed.txt_snps.txt	-0.0306275167256234	0.0172549609939576	0.0938044406577939
+RCPZNt	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Ala_int_imputed.txt_snps.txt	-0.0232402113849478	0.0173498784139036	0.19804084144074
+RCPZNt	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Ala_int_imputed.txt_snps.txt	-0.113575798217305	0.0409937761370357	0.0130909211629355
+RdcPPj	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Acetoacetate_int_imputed.txt_snps.txt	0.00356540443664431	0.0309466602728356	0.918802322065355
+RdcPPj	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Acetoacetate_int_imputed.txt_snps.txt	0.00822488740210677	0.0369781980503679	0.844631449447936
+RdcPPj	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Acetoacetate_int_imputed.txt_snps.txt	0.163896577068655	0.0884191033066681	0.204965777726685
+RJQRZl	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_HDL_C_pct_int_imputed.txt_snps.txt	0.00598399264211687	0.00835390402764523	0.478690937156721
+RJQRZl	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_HDL_C_pct_int_imputed.txt_snps.txt	0.0179728588924052	0.0109300216616633	0.109318753425557
+RJQRZl	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_HDL_C_pct_int_imputed.txt_snps.txt	0.0106393876748624	0.0312374440201597	0.735632790969412
+rWtbTL	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Remnant_C_int_imputed.txt_snps.txt	0.00782584576719376	0.0123432178466311	0.529677140739639
+rWtbTL	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Remnant_C_int_imputed.txt_snps.txt	0.000653779983445484	0.0141176492644708	0.963294076785892
+rWtbTL	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Remnant_C_int_imputed.txt_snps.txt	0.0893538489967747	0.0278521780451952	0.0027126269183507
+s7Xmeb	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	IDL_CE_pct_int_imputed.txt_snps.txt	-0.00979109714329173	0.0090156461160188	0.28431527375233
+s7Xmeb	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	IDL_CE_pct_int_imputed.txt_snps.txt	-0.00791994231939739	0.0111213809670415	0.480729912544529
+s7Xmeb	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	IDL_CE_pct_int_imputed.txt_snps.txt	0.0118514287632607	0.0291992959642934	0.687301115238772
+shNcQN	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_VLDL_CE_pct_int_imputed.txt_snps.txt	-0.00566635829975433	0.00928757965680645	0.544933458904608
+shNcQN	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_VLDL_CE_pct_int_imputed.txt_snps.txt	-0.00607343149832306	0.010104937620887	0.550899941354475
+shNcQN	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_VLDL_CE_pct_int_imputed.txt_snps.txt	0.0106985794299309	0.0270660873772161	0.694739280783595
+siYhOw	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_HDL_CE_pct_int_imputed.txt_snps.txt	0.0013605782628934	0.00789222106710532	0.864462060957657
+siYhOw	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_HDL_CE_pct_int_imputed.txt_snps.txt	-0.000721930750662424	0.00930177063557363	0.938730753457313
+siYhOw	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_HDL_CE_pct_int_imputed.txt_snps.txt	-0.0114555652072933	0.023230538399893	0.626227943375908
+SKETIo	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_LDL_C_pct_int_imputed.txt_snps.txt	-0.00981747895447297	0.0144693766631906	0.504529632725146
+SKETIo	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_LDL_C_pct_int_imputed.txt_snps.txt	-0.0129687505908451	0.0162377037663564	0.433013323633619
+SKETIo	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_LDL_C_pct_int_imputed.txt_snps.txt	0.108697172995688	0.0317406331703985	0.00268493003031644
+smsGCr	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Unsaturation_int_imputed.txt_snps.txt	0.00599043364415829	0.0113545525039142	0.602099952816021
+smsGCr	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Unsaturation_int_imputed.txt_snps.txt	0.000697639249895731	0.0133270253925952	0.95863702513309
+smsGCr	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Unsaturation_int_imputed.txt_snps.txt	0.0600427448547452	0.0415600482115434	0.160480550368342
+Srut0S	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	LDL_L_int_imputed.txt_snps.txt	0.0034711680056517	0.0100489400170606	0.731730138289769
+Srut0S	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	LDL_L_int_imputed.txt_snps.txt	0.00434057647254627	0.011626818240291	0.711037398965272
+Srut0S	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	LDL_L_int_imputed.txt_snps.txt	0.0517389264247049	0.0232239559465024	0.0324171909766399
+SUiUyj	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XS_VLDL_TG_pct_int_imputed.txt_snps.txt	0.00345189255101498	0.00694818988305858	0.621461707632104
+SUiUyj	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XS_VLDL_TG_pct_int_imputed.txt_snps.txt	0.0011381123158974	0.00829801173383138	0.891448459091957
+SUiUyj	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XS_VLDL_TG_pct_int_imputed.txt_snps.txt	0.00172662746740349	0.0175488959631331	0.922016382040715
+SwY2Di	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_VLDL_CE_pct_int_imputed.txt_snps.txt	-0.000610268011258994	0.0103263374738801	0.953147690988745
+SwY2Di	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_VLDL_CE_pct_int_imputed.txt_snps.txt	0.00532372326500272	0.0120857119682756	0.661783562742813
+SwY2Di	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_VLDL_CE_pct_int_imputed.txt_snps.txt	0.0472852069613182	0.0236553024495863	0.0524431191514186
+sxuvQy	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	PUFA_by_MUFA_int_imputed.txt_snps.txt	-0.00760650511854312	0.00998456246529496	0.45099253784456
+sxuvQy	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	PUFA_by_MUFA_int_imputed.txt_snps.txt	-0.0126039160422368	0.0110190395756625	0.260040350552475
+sxuvQy	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	PUFA_by_MUFA_int_imputed.txt_snps.txt	0.00755107112090276	0.0299038692541299	0.802081949441432
+sZrBeX	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	IDL_C_pct_int_imputed.txt_snps.txt	-0.00980363172428039	0.00683744738878708	0.15869389694263
+sZrBeX	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	IDL_C_pct_int_imputed.txt_snps.txt	-0.00858934995341244	0.00814623130316858	0.297457535341023
+sZrBeX	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	IDL_C_pct_int_imputed.txt_snps.txt	-0.0036082351135346	0.0224638683243943	0.873178414152173
+T4v8ix	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	HDL_C_int_imputed.txt_snps.txt	-0.00934918585850664	0.00883764229557878	0.294571847762692
+T4v8ix	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	HDL_C_int_imputed.txt_snps.txt	-0.00623523417786133	0.0094898563965471	0.513798224976775
+T4v8ix	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	HDL_C_int_imputed.txt_snps.txt	-0.0553791772958015	0.0237643269966417	0.023553850463048
+TmNrQL	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_HDL_L_int_imputed.txt_snps.txt	-0.0162464251824673	0.00822451490957231	0.0538734143595218
+TmNrQL	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_HDL_L_int_imputed.txt_snps.txt	-0.0151465828835236	0.00887681222122481	0.0942819327656021
+TmNrQL	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_HDL_L_int_imputed.txt_snps.txt	-0.0486843433621009	0.0295599131383372	0.106234855387313
+tsPuCV	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	HDL_L_int_imputed.txt_snps.txt	-0.00439271308400224	0.00652982902681718	0.503846886118167
+tsPuCV	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	HDL_L_int_imputed.txt_snps.txt	-0.00412890287841045	0.00768005008620831	0.592936372277898
+tsPuCV	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	HDL_L_int_imputed.txt_snps.txt	-0.0463654565728812	0.0243082314122431	0.0616964781573965
+TWp6UC	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	HDL_TG_int_imputed.txt_snps.txt	0.00132227475598297	0.00764658503233662	0.863423836072687
+TWp6UC	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	HDL_TG_int_imputed.txt_snps.txt	0.00553142413082232	0.00914451225614026	0.548043221857219
+TWp6UC	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	HDL_TG_int_imputed.txt_snps.txt	-0.0256684742079206	0.0236700847316004	0.28359250494969
+u28N5z	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_LDL_PL_pct_int_imputed.txt_snps.txt	0.00527859791504081	0.0113768176263876	0.646524553123731
+u28N5z	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_LDL_PL_pct_int_imputed.txt_snps.txt	0.014952246457585	0.0135967310387068	0.28154379751964
+u28N5z	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_LDL_PL_pct_int_imputed.txt_snps.txt	0.00624061906877866	0.032669303703437	0.850113618811674
+u8HUOC	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_LDL_PL_int_imputed.txt_snps.txt	0.000692654562965112	0.0102702284752161	0.946612885196766
+u8HUOC	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_LDL_PL_int_imputed.txt_snps.txt	0.00695951372947248	0.0113837686919051	0.544915823434066
+u8HUOC	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_LDL_PL_int_imputed.txt_snps.txt	0.0467556658728327	0.0235970882578428	0.0559266518606955
+u9nm8o	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XS_VLDL_FC_int_imputed.txt_snps.txt	0.000807773137530818	0.00888302680954167	0.927948257432618
+u9nm8o	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XS_VLDL_FC_int_imputed.txt_snps.txt	-0.00524536430551764	0.0101537435617232	0.607969126168573
+u9nm8o	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XS_VLDL_FC_int_imputed.txt_snps.txt	0.0385275981349983	0.0243919976327562	0.121380333204425
+UJNWn8	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Acetone_int_imputed.txt_snps.txt	0.0105067583302018	0.0400230244762413	0.836563770134705
+UJNWn8	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Acetone_int_imputed.txt_snps.txt	0.00631647307683074	0.0523194306555991	0.923511709736065
+UJNWn8	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Acetone_int_imputed.txt_snps.txt	0.0855752359071571	0.11253063437431	0.586093356663588
+UL133a	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	LDL_PL_int_imputed.txt_snps.txt	-0.000913158404373033	0.00915341696955967	0.921119607620216
+UL133a	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	LDL_PL_int_imputed.txt_snps.txt	0.00426921922516599	0.0104674160649345	0.685934940939894
+UL133a	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	LDL_PL_int_imputed.txt_snps.txt	0.0390237222346572	0.0202384062095275	0.0624711069051691
+UVPj0a	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_VLDL_L_int_imputed.txt_snps.txt	-0.00606895475594911	0.00798702015091975	0.450910956185276
+UVPj0a	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_VLDL_L_int_imputed.txt_snps.txt	-0.00178229246310116	0.00932880155384271	0.849258012777353
+UVPj0a	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_VLDL_L_int_imputed.txt_snps.txt	-0.00585647277224296	0.0233586131808104	0.803058004021822
+uZYkwD	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_LDL_CE_pct_int_imputed.txt_snps.txt	-0.00380751086915659	0.0104445754150484	0.717420842068839
+uZYkwD	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_LDL_CE_pct_int_imputed.txt_snps.txt	0.00387321280196452	0.0122861843594131	0.75425296748334
+uZYkwD	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_LDL_CE_pct_int_imputed.txt_snps.txt	-0.0307252351696309	0.0306124019400951	0.321878799530169
+v3toMn	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	IDL_FC_int_imputed.txt_snps.txt	-0.00503921402700119	0.0100114386926991	0.617482009074763
+v3toMn	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	IDL_FC_int_imputed.txt_snps.txt	-0.000523740006364202	0.0111161837756644	0.962655954058531
+v3toMn	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	IDL_FC_int_imputed.txt_snps.txt	0.0452587173995521	0.0235917042494942	0.0627992820073217
+VCLhUP	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_LDL_CE_pct_int_imputed.txt_snps.txt	-0.00141161892756562	0.00878795417128509	0.87330750475694
+VCLhUP	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_LDL_CE_pct_int_imputed.txt_snps.txt	-0.000528148055074246	0.0103810256771093	0.959713352336096
+VCLhUP	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_LDL_CE_pct_int_imputed.txt_snps.txt	-0.00856914395037018	0.0317443648632377	0.788836451413075
+vmGfBP	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_VLDL_FC_int_imputed.txt_snps.txt	0.010355561717986	0.0116412780589651	0.378771678969999
+vmGfBP	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_VLDL_FC_int_imputed.txt_snps.txt	0.00908361742030339	0.0134361111202319	0.502708534731522
+vmGfBP	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_VLDL_FC_int_imputed.txt_snps.txt	0.065824192591042	0.0249395853650161	0.0117831347403537
+vvZzah	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XXL_VLDL_FC_int_imputed.txt_snps.txt	0.00579397022364119	0.0063887011385393	0.368273055244617
+vvZzah	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XXL_VLDL_FC_int_imputed.txt_snps.txt	0.00782874551132932	0.00727324882599264	0.286294224409214
+vvZzah	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XXL_VLDL_FC_int_imputed.txt_snps.txt	0.00349446170326549	0.0223344582910698	0.876222860245234
+vXuijH	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_VLDL_C_pct_int_imputed.txt_snps.txt	-0.000961651137363595	0.00856324432500105	0.911096428398422
+vXuijH	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_VLDL_C_pct_int_imputed.txt_snps.txt	0.00365030226155547	0.0102993167194904	0.724715831889303
+vXuijH	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_VLDL_C_pct_int_imputed.txt_snps.txt	0.0152880098713884	0.0203197879399993	0.456024441667729
+w2auao	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_LDL_TG_pct_int_imputed.txt_snps.txt	0.00246245103380246	0.010010966804437	0.807025111638604
+w2auao	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_LDL_TG_pct_int_imputed.txt_snps.txt	-0.00492286293544495	0.012321162709218	0.691728340863634
+w2auao	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_LDL_TG_pct_int_imputed.txt_snps.txt	-0.0229422901587229	0.0243149966967044	0.351870336564287
+w3ftDu	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	LA_pct_int_imputed.txt_snps.txt	0.0061908650348677	0.0255041205270405	0.811111478589251
+w3ftDu	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	LA_pct_int_imputed.txt_snps.txt	-0.00548729527710814	0.0304608120156339	0.859170407897316
+w3ftDu	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	LA_pct_int_imputed.txt_snps.txt	0.0616133054384058	0.0648446998798446	0.355341196118396
+WebUn4	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_HDL_C_pct_int_imputed.txt_snps.txt	-0.0123490202028041	0.00875654010246583	0.164092803731314
+WebUn4	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_HDL_C_pct_int_imputed.txt_snps.txt	-0.00441973995161447	0.00964349308668467	0.64853327406857
+WebUn4	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_HDL_C_pct_int_imputed.txt_snps.txt	-0.0244885065438552	0.0261775464939508	0.353866455909984
+Wnw0DN	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_VLDL_PL_pct_int_imputed.txt_snps.txt	0.0145504453182714	0.0108932658907292	0.189381159824002
+Wnw0DN	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_VLDL_PL_pct_int_imputed.txt_snps.txt	0.0141223545171897	0.0124871364631517	0.264982176380285
+Wnw0DN	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_VLDL_PL_pct_int_imputed.txt_snps.txt	0.0377693451095252	0.0263015045989087	0.158971339142735
+WrOylV	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_LDL_FC_int_imputed.txt_snps.txt	-0.00499220346207719	0.00948547710365225	0.601907711635399
+WrOylV	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_LDL_FC_int_imputed.txt_snps.txt	0.00106770753504564	0.0102231828481637	0.917400024465633
+WrOylV	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_LDL_FC_int_imputed.txt_snps.txt	0.0301542217517226	0.0229547561483788	0.198028316506074
+x4V2tq	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_LDL_FC_pct_int_imputed.txt_snps.txt	-0.0107118820334532	0.00652361181775124	0.106739363882155
+x4V2tq	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_LDL_FC_pct_int_imputed.txt_snps.txt	-0.00847607947578758	0.00791701107194928	0.289382791216641
+x4V2tq	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_LDL_FC_pct_int_imputed.txt_snps.txt	-0.0207509406699008	0.019810323654969	0.300123741579256
+X4yBpp	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Sphingomyelins_int_imputed.txt_snps.txt	0.00119562672911382	0.0109161224373379	0.91325973388735
+X4yBpp	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Sphingomyelins_int_imputed.txt_snps.txt	-8.05383070862762e-05	0.0117525297777673	0.994561894679437
+X4yBpp	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Sphingomyelins_int_imputed.txt_snps.txt	0.075793071542651	0.0272424768752914	0.00786245422548223
+XcOMqB	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	HDL_CE_int_imputed.txt_snps.txt	-0.0144646926885118	0.00855586744692288	0.0959320389177916
+XcOMqB	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	HDL_CE_int_imputed.txt_snps.txt	-0.007843863837296	0.00959348859815493	0.416703160656329
+XcOMqB	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	HDL_CE_int_imputed.txt_snps.txt	-0.0483259661635956	0.0235229611058115	0.0442987049146972
+XdOdm4	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_HDL_PL_pct_int_imputed.txt_snps.txt	-0.00182329001495372	0.00935039307712339	0.84608941126216
+XdOdm4	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_HDL_PL_pct_int_imputed.txt_snps.txt	-0.00472425791516158	0.0110419695474937	0.670375746327029
+XdOdm4	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_HDL_PL_pct_int_imputed.txt_snps.txt	-0.00254299650664974	0.0221754189136226	0.90910465479805
+XDQOL3	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Phe_int_imputed.txt_snps.txt	0.0102581809314686	0.0309519354970116	0.756961594306168
+XDQOL3	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Phe_int_imputed.txt_snps.txt	0.0127914070927265	0.0264700540843285	0.654184628124417
+XDQOL3	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Phe_int_imputed.txt_snps.txt	0.012276674855444	0.14502000027554	0.940246801862209
+xDs8F9	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Total_TG_int_imputed.txt_snps.txt	0.0170617570307885	0.00764976285264181	0.0302410887531947
+xDs8F9	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Total_TG_int_imputed.txt_snps.txt	0.0238643683373789	0.00847402878455816	0.00693773930710709
+xDs8F9	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Total_TG_int_imputed.txt_snps.txt	0.00947832245732985	0.0225058803013791	0.675451422913688
+XhlVFe	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Omega_3_int_imputed.txt_snps.txt	-0.022273213623668	0.0122009989376031	0.0775699788501457
+XhlVFe	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Omega_3_int_imputed.txt_snps.txt	-0.0163568910871486	0.015277324838193	0.292585758363569
+XhlVFe	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Omega_3_int_imputed.txt_snps.txt	-0.0395880293400113	0.0340704734026615	0.254418748757188
+xPB4gb	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_VLDL_FC_pct_int_imputed.txt_snps.txt	-0.00659528774678991	0.0104415850777043	0.531406015039222
+xPB4gb	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_VLDL_FC_pct_int_imputed.txt_snps.txt	-0.00984632102604091	0.0106020967782963	0.358899145646009
+xPB4gb	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_VLDL_FC_pct_int_imputed.txt_snps.txt	0.0288670033152939	0.0307297923071738	0.353795338458936
+XSsWqz	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	VLDL_CE_int_imputed.txt_snps.txt	0.00744157553968376	0.0104499385406177	0.479702322443994
+XSsWqz	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	VLDL_CE_int_imputed.txt_snps.txt	0.00478641726439598	0.0122340008224144	0.697282957106021
+XSsWqz	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	VLDL_CE_int_imputed.txt_snps.txt	0.0602452732493483	0.0241969523056111	0.0162236066170538
+xV1Dla	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_HDL_PL_int_imputed.txt_snps.txt	-0.0129668265927365	0.00891878253717235	0.152919319547618
+xV1Dla	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_HDL_PL_int_imputed.txt_snps.txt	-0.00935365719033114	0.0100968503617804	0.359183444241269
+xV1Dla	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_HDL_PL_int_imputed.txt_snps.txt	-0.0623780981256866	0.0234378652083327	0.0108214163890294
+Ydk1AD	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XL_VLDL_TG_int_imputed.txt_snps.txt	0.0095883066493862	0.00711604847372801	0.183577282132315
+Ydk1AD	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XL_VLDL_TG_int_imputed.txt_snps.txt	0.0117423621307767	0.00842803385981036	0.169360112713057
+Ydk1AD	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XL_VLDL_TG_int_imputed.txt_snps.txt	0.0100714298160838	0.0242756973766447	0.679906533749913
+YfyArx	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.00396986227053113	0.00955135585595159	0.679653673206225
+YfyArx	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.000649344786570884	0.0113229452044598	0.954522122562994
+YfyArx	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_VLDL_TG_pct_int_imputed.txt_snps.txt	-0.0397643435069945	0.0267694459214589	0.145267240568708
+yhVy6T	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Total_C_int_imputed.txt_snps.txt	-0.00114877661215865	0.0112164208240789	0.918900103991404
+yhVy6T	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Total_C_int_imputed.txt_snps.txt	-0.000228885011572282	0.0124794386509837	0.985451684517266
+yhVy6T	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Total_C_int_imputed.txt_snps.txt	0.0563978739666304	0.0273031315084313	0.045223869533951
+YiKFa9	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XS_VLDL_FC_pct_int_imputed.txt_snps.txt	-0.00736644865408094	0.0122015241164725	0.549609241835066
+YiKFa9	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XS_VLDL_FC_pct_int_imputed.txt_snps.txt	-0.00188779899684643	0.0127038544456381	0.882654679494964
+YiKFa9	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XS_VLDL_FC_pct_int_imputed.txt_snps.txt	0.0561843610450447	0.0272268923331623	0.0459382044201566
+Yj0Cm9	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_HDL_L_int_imputed.txt_snps.txt	-0.0144904641379666	0.0143361169899263	0.320211572687377
+Yj0Cm9	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_HDL_L_int_imputed.txt_snps.txt	-0.0101347213038529	0.0170667826077036	0.557079170725778
+Yj0Cm9	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_HDL_L_int_imputed.txt_snps.txt	-0.0279881095800886	0.0369328187540598	0.454678257162036
+yRrCfS	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	L_HDL_PL_pct_int_imputed.txt_snps.txt	0.0037360195725523	0.0100319866325286	0.711335286251554
+yRrCfS	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	L_HDL_PL_pct_int_imputed.txt_snps.txt	0.00109380200427664	0.0123005644365341	0.929537756629494
+yRrCfS	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	L_HDL_PL_pct_int_imputed.txt_snps.txt	-0.0306950796995737	0.0275524336979486	0.271168341598729
+yToNj6	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_LDL_C_pct_int_imputed.txt_snps.txt	-0.0262176210138001	0.0139807649274074	0.0716105561181236
+yToNj6	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_LDL_C_pct_int_imputed.txt_snps.txt	-0.0241697814729728	0.0151031715822959	0.121166939140384
+yToNj6	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_LDL_C_pct_int_imputed.txt_snps.txt	0.00918324417635486	0.0475620570872974	0.848521597112786
+yTwcyF	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	ApoB_by_ApoA1_int_imputed.txt_snps.txt	0.00704354720862747	0.0081483032100978	0.391657240379418
+yTwcyF	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	ApoB_by_ApoA1_int_imputed.txt_snps.txt	0.00954269969682891	0.00868680133099397	0.277453534369479
+yTwcyF	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	ApoB_by_ApoA1_int_imputed.txt_snps.txt	0.0601370563656308	0.0182780837884811	0.00190336516027219
+yUC0uN	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_LDL_L_int_imputed.txt_snps.txt	0.00686538767413876	0.00873021288806852	0.436158488542786
+yUC0uN	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_LDL_L_int_imputed.txt_snps.txt	0.0109631386251895	0.00958665271739995	0.259429696820062
+yUC0uN	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_LDL_L_int_imputed.txt_snps.txt	0.0301082245349701	0.0205560710098924	0.150632621847114
+yUrvgd	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	S_VLDL_P_int_imputed.txt_snps.txt	-0.00458213917933798	0.0078181726155379	0.560129960324771
+yUrvgd	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	S_VLDL_P_int_imputed.txt_snps.txt	-0.00835859479454601	0.0087584208268424	0.343936663101915
+yUrvgd	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	S_VLDL_P_int_imputed.txt_snps.txt	0.0196489311416563	0.026329704405526	0.458685489450236
+z9E1hn	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	IDL_L_int_imputed.txt_snps.txt	-0.0035411117621904	0.00998982102262064	0.724894756368295
+z9E1hn	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	IDL_L_int_imputed.txt_snps.txt	0.00157131025692784	0.0109218981996849	0.886345644901545
+z9E1hn	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	IDL_L_int_imputed.txt_snps.txt	0.0517381657282214	0.0249088907837542	0.0449875301590703
+ZbHnC3	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	Pyruvate_int_imputed.txt_snps.txt	-0.00877695202107802	0.0199329502505397	0.667529475703006
+ZbHnC3	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	Pyruvate_int_imputed.txt_snps.txt	-0.0122534593553915	0.0246591476904037	0.62822873001696
+ZbHnC3	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	Pyruvate_int_imputed.txt_snps.txt	-0.0467389036274454	0.0536935256782073	0.401118860336704
+ZGO04t	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	LDL_size_int_imputed.txt_snps.txt	-0.000405313054623194	0.0161534130802248	0.980312759779181
+ZGO04t	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	LDL_size_int_imputed.txt_snps.txt	-0.0195266435352635	0.0167578690991461	0.262125018365084
+ZGO04t	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	LDL_size_int_imputed.txt_snps.txt	0.0635711503040338	0.0502807736543369	0.225407356144725
+zJUFaK	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_LDL_PL_int_imputed.txt_snps.txt	-0.00414964215374389	0.0118714639583789	0.728608029084844
+zJUFaK	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_LDL_PL_int_imputed.txt_snps.txt	0.0023386510330253	0.0133219709470374	0.861580849758516
+zJUFaK	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_LDL_PL_int_imputed.txt_snps.txt	0.0395148775101883	0.0288095406099899	0.178235965337791
+ZOATbn	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	M_HDL_C_int_imputed.txt_snps.txt	-0.0101962323954345	0.00884474368356111	0.254069556616282
+ZOATbn	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	M_HDL_C_int_imputed.txt_snps.txt	-0.0139384528480098	0.00969279941248745	0.156198353244468
+ZOATbn	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	M_HDL_C_int_imputed.txt_snps.txt	-0.0442300341533796	0.0232731863414857	0.0628162766350726
+Zp8v8U	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XS_VLDL_L_int_imputed.txt_snps.txt	0.0136850427761152	0.0102634815739905	0.18959669441566
+Zp8v8U	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XS_VLDL_L_int_imputed.txt_snps.txt	0.00934974602514579	0.0121354574081634	0.445346229984107
+Zp8v8U	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XS_VLDL_L_int_imputed.txt_snps.txt	0.0706947771591983	0.0270659574306302	0.0126175575802454
+ZrLpPb	ebi-a-GCST006464	Endometrial cancer || id:ebi-a-GCST006464	XS_VLDL_C_pct_int_imputed.txt_snps.txt	-0.00725327875282798	0.00775452175682239	0.35392581780041
+ZrLpPb	ebi-a-GCST006465	Endometrial cancer (endometrioid histology) || id:ebi-a-GCST006465	XS_VLDL_C_pct_int_imputed.txt_snps.txt	-0.00621330152343242	0.00914078302695492	0.499687789625319
+ZrLpPb	ebi-a-GCST006466	Endometrial cancer (Non-endometrioid histology) || id:ebi-a-GCST006466	XS_VLDL_C_pct_int_imputed.txt_snps.txt	-0.00148623436976231	0.0182962944942449	0.935582189604721

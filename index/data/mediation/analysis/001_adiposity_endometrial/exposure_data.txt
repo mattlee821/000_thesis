@@ -1,0 +1,109 @@
+SNP	chr.exposure	gene.exposure	effect_allele.exposure	other_allele.exposure	beta.exposure	se.exposure	eaf.exposure	samplesize.exposure	pval.exposure	exposure	mr_keep.exposure	pval_origin.exposure	id.exposure	data_source.exposure	f_stats	mean_fstat	units.exposure	units.exposure_dat
+rs1558902	16	FTO	A	T	0.082	0.003	0.415	320073	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	747.111111111111	66.180843217157	NA	NA
+rs6567160	18	MC4R	C	T	0.056	0.004	0.236	321958	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	196	66.180843217157	NA	NA
+rs13021737	2	TMEM18	G	A	0.06	0.004	0.828	318287	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	225	66.180843217157	NA	NA
+rs10938397	4	GNPDA2	G	A	0.04	0.003	0.434	320955	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	177.777777777778	66.180843217157	NA	NA
+rs543874	1	SEC16B	G	A	0.048	0.004	0.193	322008	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	144	66.180843217157	NA	NA
+rs2207139	6	TFAP2B	G	A	0.045	0.004	0.177	322019	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	126.5625	66.180843217157	NA	NA
+rs11030104	11	BDNF	A	G	0.041	0.004	0.792	322103	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	105.0625	66.180843217157	NA	NA
+rs3101336	1	NEGR1	C	T	0.033	0.003	0.613	316872	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	121	66.180843217157	NA	NA
+rs7138803	12	BCDIN3D	A	G	0.032	0.003	0.384	322092	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	113.777777777778	66.180843217157	NA	NA
+rs10182181	2	ADCY3	G	A	0.031	0.003	0.462	321759	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	106.777777777778	66.180843217157	NA	NA
+rs3888190	16	ATP2A1	A	C	0.031	0.003	0.403	321930	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	106.777777777778	66.180843217157	NA	NA
+rs1516725	3	ETV5	C	T	0.045	0.005	0.872	320644	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	81	66.180843217157	NA	NA
+rs12446632	16	GPRC5B	G	A	0.04	0.005	0.865	316758	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	64	66.180843217157	NA	NA
+rs2287019	19	QPCTL	C	T	0.036	0.004	0.804	300921	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	81	66.180843217157	NA	NA
+rs16951275	15	MAP2K5	T	C	0.031	0.004	0.784	322098	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	60.0625	66.180843217157	NA	NA
+rs3817334	11	MTCH2	T	C	0.026	0.003	0.407	321959	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	75.1111111111111	66.180843217157	NA	NA
+rs2112347	5	POC5	T	G	0.026	0.003	0.629	322019	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	75.1111111111111	66.180843217157	NA	NA
+rs12566985	1	FPGT-TNNI3K	G	A	0.024	0.003	0.446	319282	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	64	66.180843217157	NA	NA
+rs3810291	19	ZC3H4	A	G	0.028	0.004	0.666	296261	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	49	66.180843217157	NA	NA
+rs7141420	14	NRXN3	T	C	0.024	0.003	0.527	321970	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	64	66.180843217157	NA	NA
+rs13078960	3	CADM2	G	T	0.03	0.004	0.196	322135	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	56.25	66.180843217157	NA	NA
+rs10968576	9	LINGO2	G	A	0.025	0.003	0.32	322061	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	69.4444444444445	66.180843217157	NA	NA
+rs17024393	1	GNAT2	C	T	0.066	0.009	0.04	297874	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	53.7777777777778	66.180843217157	NA	NA
+rs657452	1	AGBL4	A	G	0.023	0.003	0.394	313651	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	58.7777777777778	66.180843217157	NA	NA
+rs12429545	13	OLFM4	A	G	0.033	0.005	0.133	312934	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	43.56	66.180843217157	NA	NA
+rs12286929	11	CADM1	G	A	0.022	0.003	0.523	321903	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	53.7777777777778	66.180843217157	NA	NA
+rs13107325	4	SLC39A8	T	C	0.048	0.007	0.072	321461	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	47.0204081632653	66.180843217157	NA	NA
+rs11165643	1	PTBP2	T	C	0.022	0.003	0.583	320730	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	53.7777777777778	66.180843217157	NA	NA
+rs7903146	10	TCF7L2	C	T	0.023	0.003	0.713	322130	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	58.7777777777778	66.180843217157	NA	NA
+rs10132280	14	STXBP6	C	A	0.023	0.003	0.682	321797	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	58.7777777777778	66.180843217157	NA	NA
+rs17405819	8	HNF4G	T	C	0.022	0.003	0.7	322085	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	53.7777777777778	66.180843217157	NA	NA
+rs1016287	2	FLJ30838	T	C	0.023	0.003	0.287	321969	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	58.7777777777778	66.180843217157	NA	NA
+rs4256980	11	TRIM66	G	C	0.021	0.003	0.646	320028	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	49	66.180843217157	NA	NA
+rs17094222	10	HIF1AN	C	T	0.025	0.004	0.211	321770	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	39.0625	66.180843217157	NA	NA
+rs12401738	1	FUBP1	A	G	0.021	0.003	0.352	322070	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	49	66.180843217157	NA	NA
+rs7599312	2	ERBB4	G	A	0.022	0.003	0.724	322024	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	53.7777777777778	66.180843217157	NA	NA
+rs2365389	3	FHIT	C	T	0.02	0.003	0.582	316768	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	44.4444444444444	66.180843217157	NA	NA
+rs205262	6	C6orf106	G	A	0.022	0.004	0.273	315542	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	30.25	66.180843217157	NA	NA
+rs2820292	1	NAV1	C	A	0.02	0.003	0.555	321707	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	44.4444444444444	66.180843217157	NA	NA
+rs12885454	14	PRKD1	C	A	0.021	0.003	0.642	320823	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	49	66.180843217157	NA	NA
+rs12016871	13	MTIF3	T	C	0.03	0.005	0.203	233803	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	36	66.180843217157	NA	NA
+rs16851483	3	RASA2	T	G	0.048	0.008	0.066	233929	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	36	66.180843217157	NA	NA
+rs1167827	7	HIP1	G	A	0.02	0.003	0.553	306238	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	44.4444444444444	66.180843217157	NA	NA
+rs758747	16	NLRC3	T	C	0.023	0.004	0.265	308688	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	33.0625	66.180843217157	NA	NA
+rs1928295	9	TLR4	T	C	0.019	0.003	0.548	321979	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	40.1111111111111	66.180843217157	NA	NA
+rs9925964	16	KAT8	A	G	0.019	0.003	0.62	318385	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	40.1111111111111	66.180843217157	NA	NA
+rs11126666	2	KCNK3	A	G	0.021	0.003	0.283	321979	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	49	66.180843217157	NA	NA
+rs2650492	16	SBK1	A	G	0.021	0.004	0.303	319464	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	27.5625	66.180843217157	NA	NA
+rs6804842	3	RARB	G	A	0.019	0.003	0.575	321463	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	40.1111111111111	66.180843217157	NA	NA
+rs12940622	17	RPTOR	G	A	0.018	0.003	0.575	322032	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	36	66.180843217157	NA	NA
+rs11847697	14	PRKD1	T	C	0.049	0.008	0.042	306243	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	37.515625	66.180843217157	NA	NA
+rs4740619	9	C9orf93	T	C	0.018	0.003	0.542	321887	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	36	66.180843217157	NA	NA
+rs13191362	6	PARK2	A	G	0.028	0.005	0.879	321902	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	31.36	66.180843217157	NA	NA
+rs3736485	15	DMXL2	A	G	0.018	0.003	0.454	321398	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	36	66.180843217157	NA	NA
+rs17001654	4	SCARB2	G	C	0.031	0.005	0.153	233722	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	38.44	66.180843217157	NA	NA
+rs11191560	10	NT5C2	C	T	0.031	0.005	0.089	321893	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	38.44	66.180843217157	NA	NA
+rs1528435	2	UBE2E3	T	C	0.018	0.003	0.631	321924	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	36	66.180843217157	NA	NA
+rs2075650	19	TOMM40	A	G	0.026	0.005	0.848	308408	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	27.04	66.180843217157	NA	NA
+rs1000940	17	RABEP1	G	A	0.019	0.003	0.32	321836	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	40.1111111111111	66.180843217157	NA	NA
+rs2033529	6	TDRG1	G	A	0.019	0.003	0.293	321917	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	40.1111111111111	66.180843217157	NA	NA
+rs11583200	1	ELAVL4	C	T	0.018	0.003	0.396	322095	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	36	66.180843217157	NA	NA
+rs9400239	6	FOXO3	C	T	0.019	0.003	0.688	321988	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	40.1111111111111	66.180843217157	NA	NA
+rs10733682	9	LMX1B	A	G	0.017	0.003	0.478	320727	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	32.1111111111111	66.180843217157	NA	NA
+rs11688816	2	EHBP1	G	A	0.017	0.003	0.525	322051	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	32.1111111111111	66.180843217157	NA	NA
+rs11057405	12	CLIP1	G	A	0.031	0.006	0.901	314111	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	26.6944444444444	66.180843217157	NA	NA
+rs2121279	2	LRP1B	T	C	0.025	0.004	0.152	322065	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	39.0625	66.180843217157	NA	NA
+rs29941	19	KCTD15	G	A	0.018	0.003	0.669	321970	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	36	66.180843217157	NA	NA
+rs11727676	4	HHIP	T	C	0.036	0.006	0.91	296401	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	36	66.180843217157	NA	NA
+rs3849570	3	GBE1	A	C	0.019	0.003	0.359	284339	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	40.1111111111111	66.180843217157	NA	NA
+rs6477694	9	EPB41L4B	C	T	0.017	0.003	0.365	322048	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	32.1111111111111	66.180843217157	NA	NA
+rs7899106	10	GRID1	G	A	0.04	0.007	0.052	321770	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	32.6530612244898	66.180843217157	NA	NA
+rs2176598	11	HSD17B12	T	C	0.02	0.004	0.251	316848	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	25	66.180843217157	NA	NA
+rs2245368	7	PMS2L11	C	T	0.032	0.006	0.18	205675	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	28.4444444444444	66.180843217157	NA	NA
+rs17724992	19	PGPEP1	A	G	0.019	0.004	0.746	319588	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	22.5625	66.180843217157	NA	NA
+rs7243357	18	GRP	T	G	0.022	0.004	0.812	322107	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	30.25	66.180843217157	NA	NA
+rs1808579	18	C18orf8	C	T	0.017	0.003	0.534	322032	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	32.1111111111111	66.180843217157	NA	NA
+rs2033732	8	RALYL	C	T	0.019	0.004	0.747	321406	5e-08	Locke BMI EU sex combined 77 SNPs clumped	TRUE	reported	Locke BMI EU sex combined 77 SNPs clumped	textfile	22.5625	66.180843217157	NA	NA
+rs2645294	NA	NA	T	C	0.023	0.003	0.579	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	58.7777777777778	49.4620299145299	NA	NA
+rs714515	NA	NA	G	A	0.019	0.003	0.428	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	40.1111111111111	49.4620299145299	NA	NA
+rs2820443	NA	NA	T	C	0.026	0.004	0.718	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	42.25	49.4620299145299	NA	NA
+rs10195252	NA	NA	T	C	0.02	0.003	0.592	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	44.4444444444444	49.4620299145299	NA	NA
+rs1569135	NA	NA	A	G	0.024	0.003	0.529	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	64	49.4620299145299	NA	NA
+rs2371767	NA	NA	G	C	0.023	0.004	0.724	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	33.0625	49.4620299145299	NA	NA
+rs17451107	NA	NA	T	C	0.023	0.004	0.613	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	33.0625	49.4620299145299	NA	NA
+rs1294410	NA	NA	C	T	0.025	0.003	0.633	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	69.4444444444445	49.4620299145299	NA	NA
+rs1358980	NA	NA	T	C	0.027	0.004	0.471	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	45.5625	49.4620299145299	NA	NA
+rs1936805	NA	NA	T	C	0.038	0.003	0.511	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	160.444444444444	49.4620299145299	NA	NA
+rs10245353	NA	NA	A	C	0.027	0.004	0.2	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	45.5625	49.4620299145299	NA	NA
+rs7801581	NA	NA	T	C	0.023	0.004	0.244	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	33.0625	49.4620299145299	NA	NA
+rs12679556	NA	NA	G	T	0.024	0.004	0.247	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	36	49.4620299145299	NA	NA
+rs10842707	NA	NA	T	C	0.027	0.004	0.232	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	45.5625	49.4620299145299	NA	NA
+rs1443512	NA	NA	A	C	0.026	0.004	0.237	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	42.25	49.4620299145299	NA	NA
+rs1440372	NA	NA	C	T	0.021	0.004	0.71	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	27.5625	49.4620299145299	NA	NA
+rs4081724	NA	NA	G	A	0.028	0.005	0.851	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	31.36	49.4620299145299	NA	NA
+rs2294239	NA	NA	A	G	0.02	0.003	0.586	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	44.4444444444444	49.4620299145299	NA	NA
+rs1106529	NA	NA	A	G	0.028	0.004	0.753	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	49	49.4620299145299	NA	NA
+rs1128249	NA	NA	G	T	0.021	0.003	0.597	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	49	49.4620299145299	NA	NA
+rs459193	NA	NA	A	G	0.026	0.004	0.264	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	42.25	49.4620299145299	NA	NA
+rs998584	NA	NA	A	C	0.029	0.004	0.485	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	52.5625	49.4620299145299	NA	NA
+rs72959041	NA	NA	A	G	0.104	0.012	0.058	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	75.1111111111111	49.4620299145299	NA	NA
+rs3902751	NA	NA	A	G	0.023	0.004	0.25	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	33.0625	49.4620299145299	NA	NA
+rs10783615	NA	NA	G	A	0.035	0.005	0.145	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	49	49.4620299145299	NA	NA
+rs2071449	NA	NA	A	C	0.025	0.004	0.369	NA	5e-08	Shungin WHR EU sex combined 26 SNPs	TRUE	reported	Shungin WHR EU sex combined 26 SNPs	textfile	39.0625	49.4620299145299	NA	NA
+rs1558902	16	FTO	A	T	0.051	0.005	0.41	87924	5e-08	Lu BF EU sex combined 5 SNPs	TRUE	reported	Lu BF EU sex combined 5 SNPs	textfile	104.04	47.3371131267322	SD/allele	SD/allele
+rs6857	19	TOMM40-APOE	C	T	0.053	0.009	0.83	60210	5e-08	Lu BF EU sex combined 5 SNPs	TRUE	reported	Lu BF EU sex combined 5 SNPs	textfile	34.679012345679	47.3371131267322	SD/allele	SD/allele
+rs693839	13	SPRY2	C	T	0.03	0.005	0.31	88773	5e-08	Lu BF EU sex combined 5 SNPs	TRUE	reported	Lu BF EU sex combined 5 SNPs	textfile	36	47.3371131267322	SD/allele	SD/allele
+rs9906944	17	IGF2BP1	C	T	0.035	0.006	0.66	64032	5e-08	Lu BF EU sex combined 5 SNPs	TRUE	reported	Lu BF EU sex combined 5 SNPs	textfile	34.0277777777778	47.3371131267322	SD/allele	SD/allele
+rs6728726	2	TMEM18	C	T	0.037	0.007	0.84	89287	5e-08	Lu BF EU sex combined 5 SNPs	TRUE	reported	Lu BF EU sex combined 5 SNPs	textfile	27.9387755102041	47.3371131267322	SD/allele	SD/allele

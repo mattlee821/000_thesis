@@ -1,0 +1,997 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+Locke BMI EU sex combined 77 SNPs clumped	0bIYUc	PUFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	234.8866934825	75	2.23813707637255e-18
+Locke BMI EU sex combined 77 SNPs clumped	0bIYUc	PUFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	235.331108434248	74	1.06583575110796e-18
+Locke BMI EU sex combined 77 SNPs clumped	0bIYUc	PUFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	235.43921053198	75	1.84803018366482e-18
+Locke BMI EU sex combined 77 SNPs clumped	0bIYUc	PUFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0130122361037402	75	1
+Locke BMI EU sex combined 77 SNPs clumped	0DE4zj	VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	211.962385057979	75	5.25845760492146e-15
+Locke BMI EU sex combined 77 SNPs clumped	0DE4zj	VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	208.154590552303	74	1.08447155041838e-14
+Locke BMI EU sex combined 77 SNPs clumped	0DE4zj	VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	211.992540022712	75	5.20635980092776e-15
+Locke BMI EU sex combined 77 SNPs clumped	0DE4zj	VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0123440924852835	75	1
+Locke BMI EU sex combined 77 SNPs clumped	18Nq8B	M_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	459.241611483312	75	1.49780370532157e-56
+Locke BMI EU sex combined 77 SNPs clumped	18Nq8B	M_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	455.805084376391	74	2.54605464823702e-56
+Locke BMI EU sex combined 77 SNPs clumped	18Nq8B	M_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	462.250108083671	75	4.21839255445482e-57
+Locke BMI EU sex combined 77 SNPs clumped	18Nq8B	M_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0268129993341741	75	1
+Locke BMI EU sex combined 77 SNPs clumped	1k9APU	DHA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	148.697090312958	75	8.75690563438663e-07
+Locke BMI EU sex combined 77 SNPs clumped	1k9APU	DHA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	148.836471792549	74	5.86204758863724e-07
+Locke BMI EU sex combined 77 SNPs clumped	1k9APU	DHA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	149.038748379497	75	8.0106037545704e-07
+Locke BMI EU sex combined 77 SNPs clumped	1k9APU	DHA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00664505576649966	75	1
+Locke BMI EU sex combined 77 SNPs clumped	1ppPut	M_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	270.5365676965	75	6.67136286466821e-24
+Locke BMI EU sex combined 77 SNPs clumped	1ppPut	M_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	271.9089007107	74	2.08655791695208e-24
+Locke BMI EU sex combined 77 SNPs clumped	1ppPut	M_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	271.912574379673	75	4.02762935284772e-24
+Locke BMI EU sex combined 77 SNPs clumped	1ppPut	M_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0167359589947498	75	1
+Locke BMI EU sex combined 77 SNPs clumped	1QkNYP	XXL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	132.791014441983	75	4.47538288713544e-05
+Locke BMI EU sex combined 77 SNPs clumped	1QkNYP	XXL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	128.165906460612	74	9.60755369540395e-05
+Locke BMI EU sex combined 77 SNPs clumped	1QkNYP	XXL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	132.863370041016	75	4.40046250643109e-05
+Locke BMI EU sex combined 77 SNPs clumped	1QkNYP	XXL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00785040236529947	75	1
+Locke BMI EU sex combined 77 SNPs clumped	2DtUeK	XL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	169.98809618911	75	2.48028186875225e-09
+Locke BMI EU sex combined 77 SNPs clumped	2DtUeK	XL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	163.268924598471	74	1.11984785838395e-08
+Locke BMI EU sex combined 77 SNPs clumped	2DtUeK	XL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	170.226520629371	75	2.31482095597573e-09
+Locke BMI EU sex combined 77 SNPs clumped	2DtUeK	XL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0101062432864951	75	1
+Locke BMI EU sex combined 77 SNPs clumped	2Hr4HL	S_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	529.18329348842	75	1.6762274381285e-69
+Locke BMI EU sex combined 77 SNPs clumped	2Hr4HL	S_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	527.979979848625	74	1.04855566751755e-69
+Locke BMI EU sex combined 77 SNPs clumped	2Hr4HL	S_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	533.390702378252	75	2.72708301810455e-70
+Locke BMI EU sex combined 77 SNPs clumped	2Hr4HL	S_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0313298918856917	75	1
+Locke BMI EU sex combined 77 SNPs clumped	2YTBa6	IDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	616.55958892678	75	4.60921921269206e-86
+Locke BMI EU sex combined 77 SNPs clumped	2YTBa6	IDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	622.07585610424	74	1.38645395514765e-87
+Locke BMI EU sex combined 77 SNPs clumped	2YTBa6	IDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	622.124421980961	75	3.95505166167413e-87
+Locke BMI EU sex combined 77 SNPs clumped	2YTBa6	IDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0380714541963745	75	1
+Locke BMI EU sex combined 77 SNPs clumped	30Jew5	S_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	195.741990994743	75	9.99009409839691e-13
+Locke BMI EU sex combined 77 SNPs clumped	30Jew5	S_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	186.200999427903	74	1.22037343469123e-11
+Locke BMI EU sex combined 77 SNPs clumped	30Jew5	S_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	196.129192204371	75	8.83751449611813e-13
+Locke BMI EU sex combined 77 SNPs clumped	30Jew5	S_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0116121682828079	75	1
+Locke BMI EU sex combined 77 SNPs clumped	3gVk6N	L_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	149.427147605529	75	7.23757158285833e-07
+Locke BMI EU sex combined 77 SNPs clumped	3gVk6N	L_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	149.38770394438	74	5.06729422547655e-07
+Locke BMI EU sex combined 77 SNPs clumped	3gVk6N	L_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	149.807162497785	75	6.55201645738833e-07
+Locke BMI EU sex combined 77 SNPs clumped	3gVk6N	L_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.008167274331867	75	1
+Locke BMI EU sex combined 77 SNPs clumped	3j5yG7	M_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	158.646278853752	75	6.09706374853864e-08
+Locke BMI EU sex combined 77 SNPs clumped	3j5yG7	M_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	153.184680151997	74	1.83484331306207e-07
+Locke BMI EU sex combined 77 SNPs clumped	3j5yG7	M_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	158.719280358989	75	5.97590496101732e-08
+Locke BMI EU sex combined 77 SNPs clumped	3j5yG7	M_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.009414676451679	75	1
+Locke BMI EU sex combined 77 SNPs clumped	3MAdBD	S_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	247.715425297612	75	2.49697732775207e-20
+Locke BMI EU sex combined 77 SNPs clumped	3MAdBD	S_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	245.094305682142	74	3.43448142400962e-20
+Locke BMI EU sex combined 77 SNPs clumped	3MAdBD	S_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	247.824473230411	75	2.40233953909841e-20
+Locke BMI EU sex combined 77 SNPs clumped	3MAdBD	S_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0139903835579007	75	1
+Locke BMI EU sex combined 77 SNPs clumped	3OeG67	IDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	609.974689207867	75	8.39337670388011e-85
+Locke BMI EU sex combined 77 SNPs clumped	3OeG67	IDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	615.243292637559	74	2.84139656774892e-86
+Locke BMI EU sex combined 77 SNPs clumped	3OeG67	IDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	615.251271067842	75	8.20682940108865e-86
+Locke BMI EU sex combined 77 SNPs clumped	3OeG67	IDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0374709102886553	75	1
+Locke BMI EU sex combined 77 SNPs clumped	3sFWY7	Tyr_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	105.111798300191	75	0.0124500042095719
+Locke BMI EU sex combined 77 SNPs clumped	3sFWY7	Tyr_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	105.12518208938	74	0.0101343223624346
+Locke BMI EU sex combined 77 SNPs clumped	3sFWY7	Tyr_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	105.405788524457	75	0.0118441817886029
+Locke BMI EU sex combined 77 SNPs clumped	3sFWY7	Tyr_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00632180563038556	75	1
+Locke BMI EU sex combined 77 SNPs clumped	3wV1Hi	XXL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	134.397406050325	75	3.0693504522387e-05
+Locke BMI EU sex combined 77 SNPs clumped	3wV1Hi	XXL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	128.390718611387	74	9.12732098907329e-05
+Locke BMI EU sex combined 77 SNPs clumped	3wV1Hi	XXL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	134.528319941445	75	2.97581982737422e-05
+Locke BMI EU sex combined 77 SNPs clumped	3wV1Hi	XXL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00759955957887755	75	1
+Locke BMI EU sex combined 77 SNPs clumped	3ZRakZ	XL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	254.565729735956	75	2.17566089712592e-21
+Locke BMI EU sex combined 77 SNPs clumped	3ZRakZ	XL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	245.766219044311	74	2.70571146494144e-20
+Locke BMI EU sex combined 77 SNPs clumped	3ZRakZ	XL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	255.484368168974	75	1.56531871310483e-21
+Locke BMI EU sex combined 77 SNPs clumped	3ZRakZ	XL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0147647951912206	75	1
+Locke BMI EU sex combined 77 SNPs clumped	3zz3RG	Sphingomyelins_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	403.854554230541	75	1.50163160287866e-46
+Locke BMI EU sex combined 77 SNPs clumped	3zz3RG	Sphingomyelins_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	407.371762849044	74	1.50079192796198e-47
+Locke BMI EU sex combined 77 SNPs clumped	3zz3RG	Sphingomyelins_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	407.484845862587	75	3.38276143576904e-47
+Locke BMI EU sex combined 77 SNPs clumped	3zz3RG	Sphingomyelins_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0250071758221128	75	1
+Locke BMI EU sex combined 77 SNPs clumped	4h3C5d	M_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	203.740853830712	75	7.72606081544596e-14
+Locke BMI EU sex combined 77 SNPs clumped	4h3C5d	M_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	194.019013531409	74	1.0508019954305e-12
+Locke BMI EU sex combined 77 SNPs clumped	4h3C5d	M_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	204.479189114099	75	6.08324700136857e-14
+Locke BMI EU sex combined 77 SNPs clumped	4h3C5d	M_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0114133481057953	75	1
+Locke BMI EU sex combined 77 SNPs clumped	4OFXyY	M_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	710.749811193614	75	2.86054585063925e-104
+Locke BMI EU sex combined 77 SNPs clumped	4OFXyY	M_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	713.903836955094	74	2.22425882171095e-105
+Locke BMI EU sex combined 77 SNPs clumped	4OFXyY	M_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	713.93192911232	75	6.85571424210682e-105
+Locke BMI EU sex combined 77 SNPs clumped	4OFXyY	M_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.043834148599626	75	1
+Locke BMI EU sex combined 77 SNPs clumped	4RpI24	Ile_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	89.6418029785668	75	0.11916987895802
+Locke BMI EU sex combined 77 SNPs clumped	4RpI24	Ile_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	89.6366466940902	74	0.104111356154048
+Locke BMI EU sex combined 77 SNPs clumped	4RpI24	Ile_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	89.8438868573893	75	0.116280371634086
+Locke BMI EU sex combined 77 SNPs clumped	4RpI24	Ile_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00475041466477811	75	1
+Locke BMI EU sex combined 77 SNPs clumped	4TdxyD	M_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	301.679667402516	75	5.92780467929474e-29
+Locke BMI EU sex combined 77 SNPs clumped	4TdxyD	M_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	294.218238907754	74	4.97125095132806e-28
+Locke BMI EU sex combined 77 SNPs clumped	4TdxyD	M_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	303.107841687951	75	3.44348170861519e-29
+Locke BMI EU sex combined 77 SNPs clumped	4TdxyD	M_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0177978244522629	75	1
+Locke BMI EU sex combined 77 SNPs clumped	4xtrBp	LA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	258.211221387105	75	5.87475231394898e-22
+Locke BMI EU sex combined 77 SNPs clumped	4xtrBp	LA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	259.126472994276	74	2.23797311439805e-22
+Locke BMI EU sex combined 77 SNPs clumped	4xtrBp	LA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	259.174912363156	75	4.15107244756859e-22
+Locke BMI EU sex combined 77 SNPs clumped	4xtrBp	LA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0150836055257722	75	1
+Locke BMI EU sex combined 77 SNPs clumped	52x1F7	DHA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	122.67680654662	75	0.000427884675307638
+Locke BMI EU sex combined 77 SNPs clumped	52x1F7	DHA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	120.862694275265	74	0.000480226852646972
+Locke BMI EU sex combined 77 SNPs clumped	52x1F7	DHA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	122.863197845451	75	0.00041123688363752
+Locke BMI EU sex combined 77 SNPs clumped	52x1F7	DHA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00550435863081058	75	1
+Locke BMI EU sex combined 77 SNPs clumped	5cJDtz	L_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	189.67185857937	75	6.70283167942585e-12
+Locke BMI EU sex combined 77 SNPs clumped	5cJDtz	L_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	184.407084974195	74	2.1242707804549e-11
+Locke BMI EU sex combined 77 SNPs clumped	5cJDtz	L_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	189.873515201362	75	6.29563649166476e-12
+Locke BMI EU sex combined 77 SNPs clumped	5cJDtz	L_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0112786525373107	75	1
+Locke BMI EU sex combined 77 SNPs clumped	5d4rkM	VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	284.870517167814	75	3.3283145616999e-26
+Locke BMI EU sex combined 77 SNPs clumped	5d4rkM	VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	282.75833266414	74	3.71028524032885e-26
+Locke BMI EU sex combined 77 SNPs clumped	5d4rkM	VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	284.913313652539	75	3.27559762692078e-26
+Locke BMI EU sex combined 77 SNPs clumped	5d4rkM	VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0167058996615826	75	1
+Locke BMI EU sex combined 77 SNPs clumped	5hPM9u	HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	194.222238282464	75	1.61418862153223e-12
+Locke BMI EU sex combined 77 SNPs clumped	5hPM9u	HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	195.341974730991	74	6.8998481734053e-13
+Locke BMI EU sex combined 77 SNPs clumped	5hPM9u	HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	195.44051628687	75	1.09895652567679e-12
+Locke BMI EU sex combined 77 SNPs clumped	5hPM9u	HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0122734785325513	75	1
+Locke BMI EU sex combined 77 SNPs clumped	6bE4xg	M_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	176.345198738199	75	3.84731627462036e-10
+Locke BMI EU sex combined 77 SNPs clumped	6bE4xg	M_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	172.867022959717	74	6.92869351858941e-10
+Locke BMI EU sex combined 77 SNPs clumped	6bE4xg	M_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	176.346466201462	75	3.8458693012209e-10
+Locke BMI EU sex combined 77 SNPs clumped	6bE4xg	M_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0110680026030954	75	1
+Locke BMI EU sex combined 77 SNPs clumped	6DPYZU	Phosphatidylc_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	168.77496619856	75	3.52047024842105e-09
+Locke BMI EU sex combined 77 SNPs clumped	6DPYZU	Phosphatidylc_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	169.825771215437	74	1.69350158561379e-09
+Locke BMI EU sex combined 77 SNPs clumped	6DPYZU	Phosphatidylc_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	169.952172644003	75	2.50620229841666e-09
+Locke BMI EU sex combined 77 SNPs clumped	6DPYZU	Phosphatidylc_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00993271320310552	75	1
+Locke BMI EU sex combined 77 SNPs clumped	6g2nPJ	Acetone_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	84.0845860898073	75	0.221333750034903
+Locke BMI EU sex combined 77 SNPs clumped	6g2nPJ	Acetone_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	81.619130663028	74	0.254505060041539
+Locke BMI EU sex combined 77 SNPs clumped	6g2nPJ	Acetone_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	84.0971889939664	75	0.221050670218791
+Locke BMI EU sex combined 77 SNPs clumped	6g2nPJ	Acetone_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0047024936555348	75	1
+Locke BMI EU sex combined 77 SNPs clumped	6WwQTK	XXL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	136.008774300816	75	2.09250951537089e-05
+Locke BMI EU sex combined 77 SNPs clumped	6WwQTK	XXL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	129.706504529648	74	6.74734807932061e-05
+Locke BMI EU sex combined 77 SNPs clumped	6WwQTK	XXL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	136.21601136192	75	1.99122376882984e-05
+Locke BMI EU sex combined 77 SNPs clumped	6WwQTK	XXL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00756903610879234	75	1
+Locke BMI EU sex combined 77 SNPs clumped	6Z3Z15	non_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	545.36753072694	75	1.53273916814936e-72
+Locke BMI EU sex combined 77 SNPs clumped	6Z3Z15	non_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	547.244300821247	74	2.4849063608029e-73
+Locke BMI EU sex combined 77 SNPs clumped	6Z3Z15	non_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	547.48188837231	75	6.1294591929545e-73
+Locke BMI EU sex combined 77 SNPs clumped	6Z3Z15	non_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0331517294472047	75	1
+Locke BMI EU sex combined 77 SNPs clumped	6ZbKB9	L_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	225.918434182536	75	4.87297027199537e-17
+Locke BMI EU sex combined 77 SNPs clumped	6ZbKB9	L_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	221.402485961359	74	1.28869723222792e-16
+Locke BMI EU sex combined 77 SNPs clumped	6ZbKB9	L_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	226.548357582026	75	3.93178633387036e-17
+Locke BMI EU sex combined 77 SNPs clumped	6ZbKB9	L_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0133733984341525	75	1
+Locke BMI EU sex combined 77 SNPs clumped	74kPfB	HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	282.879598315802	75	6.98877425469596e-26
+Locke BMI EU sex combined 77 SNPs clumped	74kPfB	HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	284.304521442828	74	2.08032349894029e-26
+Locke BMI EU sex combined 77 SNPs clumped	74kPfB	HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	284.737016322211	75	3.49825695222744e-26
+Locke BMI EU sex combined 77 SNPs clumped	74kPfB	HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0173495178665922	75	1
+Locke BMI EU sex combined 77 SNPs clumped	7a9upt	Cholines_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	192.539286978428	75	2.73922506453275e-12
+Locke BMI EU sex combined 77 SNPs clumped	7a9upt	Cholines_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	193.740302018094	74	1.1479369356692e-12
+Locke BMI EU sex combined 77 SNPs clumped	7a9upt	Cholines_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	193.807895751068	75	1.8391058143126e-12
+Locke BMI EU sex combined 77 SNPs clumped	7a9upt	Cholines_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0112984951219938	75	1
+Locke BMI EU sex combined 77 SNPs clumped	7xcsIk	IDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	132.561027110525	75	4.72178746889792e-05
+Locke BMI EU sex combined 77 SNPs clumped	7xcsIk	IDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	128.786049895651	74	8.33828518620114e-05
+Locke BMI EU sex combined 77 SNPs clumped	7xcsIk	IDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	132.614544333929	75	4.66330725601615e-05
+Locke BMI EU sex combined 77 SNPs clumped	7xcsIk	IDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00770875755488772	75	1
+Locke BMI EU sex combined 77 SNPs clumped	8bO0oJ	Lactate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	100.159490597342	75	0.0277960353009853
+Locke BMI EU sex combined 77 SNPs clumped	8bO0oJ	Lactate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	99.0441293148707	74	0.0276151654325276
+Locke BMI EU sex combined 77 SNPs clumped	8bO0oJ	Lactate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	100.174023967389	75	0.0277335108832045
+Locke BMI EU sex combined 77 SNPs clumped	8bO0oJ	Lactate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00462976617940967	75	1
+Locke BMI EU sex combined 77 SNPs clumped	8eVu5g	S_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	816.461876049512	75	4.93192542940162e-125
+Locke BMI EU sex combined 77 SNPs clumped	8eVu5g	S_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	819.505473203445	74	3.68744611831749e-126
+Locke BMI EU sex combined 77 SNPs clumped	8eVu5g	S_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	819.664861301791	75	1.14655874899023e-125
+Locke BMI EU sex combined 77 SNPs clumped	8eVu5g	S_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0501823716425508	75	1
+Locke BMI EU sex combined 77 SNPs clumped	8wKIax	XL_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	301.690388442044	75	5.90370095168316e-29
+Locke BMI EU sex combined 77 SNPs clumped	8wKIax	XL_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	296.783183119841	74	1.87939217518039e-28
+Locke BMI EU sex combined 77 SNPs clumped	8wKIax	XL_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	304.201915105727	75	2.27013961907573e-29
+Locke BMI EU sex combined 77 SNPs clumped	8wKIax	XL_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0171656441710136	75	1
+Locke BMI EU sex combined 77 SNPs clumped	90FYDW	S_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	561.470587615476	75	1.40639925582405e-75
+Locke BMI EU sex combined 77 SNPs clumped	90FYDW	S_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	560.934701101503	74	6.41516335870133e-76
+Locke BMI EU sex combined 77 SNPs clumped	90FYDW	S_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	564.06026285309	75	4.55425896560885e-76
+Locke BMI EU sex combined 77 SNPs clumped	90FYDW	S_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0327841089772195	75	1
+Locke BMI EU sex combined 77 SNPs clumped	9exMDG	SFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	143.530615614262	75	3.29320279763841e-06
+Locke BMI EU sex combined 77 SNPs clumped	9exMDG	SFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	140.500087829321	74	5.00799353435714e-06
+Locke BMI EU sex combined 77 SNPs clumped	9exMDG	SFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	143.587755386935	75	3.24607271285281e-06
+Locke BMI EU sex combined 77 SNPs clumped	9exMDG	SFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00824833165982171	75	1
+Locke BMI EU sex combined 77 SNPs clumped	9gbcq0	L_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	195.474296502323	75	1.08728205973983e-12
+Locke BMI EU sex combined 77 SNPs clumped	9gbcq0	L_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	191.457261862096	74	2.36192611967762e-12
+Locke BMI EU sex combined 77 SNPs clumped	9gbcq0	L_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	195.508517791382	75	1.07558046365098e-12
+Locke BMI EU sex combined 77 SNPs clumped	9gbcq0	L_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0114054860112695	75	1
+Locke BMI EU sex combined 77 SNPs clumped	9OL5sq	IDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	568.365619875568	75	6.97542663637049e-77
+Locke BMI EU sex combined 77 SNPs clumped	9OL5sq	IDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	572.585526314517	74	3.95717954565862e-78
+Locke BMI EU sex combined 77 SNPs clumped	9OL5sq	IDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	572.650836670713	75	1.07557352530275e-77
+Locke BMI EU sex combined 77 SNPs clumped	9OL5sq	IDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0345480213115443	75	1
+Locke BMI EU sex combined 77 SNPs clumped	9oStme	S_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	138.031620266112	75	1.28501913673553e-05
+Locke BMI EU sex combined 77 SNPs clumped	9oStme	S_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	135.725383898869	74	1.62406539699522e-05
+Locke BMI EU sex combined 77 SNPs clumped	9oStme	S_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	138.037904610876	75	1.28305949006627e-05
+Locke BMI EU sex combined 77 SNPs clumped	9oStme	S_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00786967078433741	75	1
+Locke BMI EU sex combined 77 SNPs clumped	9tpcp7	TG_by_PG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	190.230164109544	75	5.63454530701086e-12
+Locke BMI EU sex combined 77 SNPs clumped	9tpcp7	TG_by_PG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	183.88228399708	74	2.49668556986303e-11
+Locke BMI EU sex combined 77 SNPs clumped	9tpcp7	TG_by_PG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	191.021783134876	75	4.40276995066463e-12
+Locke BMI EU sex combined 77 SNPs clumped	9tpcp7	TG_by_PG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0113525774904696	75	1
+Locke BMI EU sex combined 77 SNPs clumped	A8HJFS	M_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	253.821335968333	75	2.83994852343104e-21
+Locke BMI EU sex combined 77 SNPs clumped	A8HJFS	M_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	255.149025790374	74	9.42413469982607e-22
+Locke BMI EU sex combined 77 SNPs clumped	A8HJFS	M_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	255.565097528164	75	1.52064372107066e-21
+Locke BMI EU sex combined 77 SNPs clumped	A8HJFS	M_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0156968002470947	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Ac4CTn	M_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	279.035321255668	75	2.91279637787655e-25
+Locke BMI EU sex combined 77 SNPs clumped	Ac4CTn	M_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	279.998527476379	74	1.03937499579971e-25
+Locke BMI EU sex combined 77 SNPs clumped	Ac4CTn	M_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	280.133451616551	75	1.93877702028939e-25
+Locke BMI EU sex combined 77 SNPs clumped	Ac4CTn	M_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0171649691131956	75	1
+Locke BMI EU sex combined 77 SNPs clumped	b578gt	Omega_3_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	136.400040493668	75	1.90527391958748e-05
+Locke BMI EU sex combined 77 SNPs clumped	b578gt	Omega_3_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	136.055364885419	74	1.49917699046271e-05
+Locke BMI EU sex combined 77 SNPs clumped	b578gt	Omega_3_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	136.40536105036	75	1.90284321784212e-05
+Locke BMI EU sex combined 77 SNPs clumped	b578gt	Omega_3_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00613418006148688	75	1
+Locke BMI EU sex combined 77 SNPs clumped	B9eHpt	ApoB_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	542.032246755943	75	6.49955397243663e-72
+Locke BMI EU sex combined 77 SNPs clumped	B9eHpt	ApoB_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	542.786915791251	74	1.72141974293371e-72
+Locke BMI EU sex combined 77 SNPs clumped	B9eHpt	ApoB_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	543.093804745469	75	4.10443400540208e-72
+Locke BMI EU sex combined 77 SNPs clumped	B9eHpt	ApoB_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0326915136814619	75	1
+Locke BMI EU sex combined 77 SNPs clumped	BarhL3	Remnant_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	451.426281057648	75	3.99809390555825e-55
+Locke BMI EU sex combined 77 SNPs clumped	BarhL3	Remnant_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	452.130748882873	74	1.19632639480431e-55
+Locke BMI EU sex combined 77 SNPs clumped	BarhL3	Remnant_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	452.776658078562	75	2.26841802631658e-55
+Locke BMI EU sex combined 77 SNPs clumped	BarhL3	Remnant_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0270497998726984	75	1
+Locke BMI EU sex combined 77 SNPs clumped	bIOPxj	S_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	534.216599583502	75	1.90887452655481e-70
+Locke BMI EU sex combined 77 SNPs clumped	bIOPxj	S_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	534.804818709187	74	5.47688755265989e-71
+Locke BMI EU sex combined 77 SNPs clumped	bIOPxj	S_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	535.020972348031	75	1.34852143628519e-70
+Locke BMI EU sex combined 77 SNPs clumped	bIOPxj	S_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0326872575922882	75	1
+Locke BMI EU sex combined 77 SNPs clumped	bKk37c	Unsaturation_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	135.487695192327	75	2.36971766248513e-05
+Locke BMI EU sex combined 77 SNPs clumped	bKk37c	Unsaturation_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	131.745830392791	74	4.19642941354993e-05
+Locke BMI EU sex combined 77 SNPs clumped	bKk37c	Unsaturation_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	135.635435004251	75	2.28770342989434e-05
+Locke BMI EU sex combined 77 SNPs clumped	bKk37c	Unsaturation_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00682025884822159	75	1
+Locke BMI EU sex combined 77 SNPs clumped	bTnU0A	Phosphoglyc_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	163.409587210257	75	1.62118010928273e-08
+Locke BMI EU sex combined 77 SNPs clumped	bTnU0A	Phosphoglyc_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	163.873208720787	74	9.4302738098647e-09
+Locke BMI EU sex combined 77 SNPs clumped	bTnU0A	Phosphoglyc_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	164.226043756602	75	1.28802690458111e-08
+Locke BMI EU sex combined 77 SNPs clumped	bTnU0A	Phosphoglyc_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00936573154230081	75	1
+Locke BMI EU sex combined 77 SNPs clumped	C1NIrf	Omega_6_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	256.863152402417	75	9.5415050332021e-22
+Locke BMI EU sex combined 77 SNPs clumped	C1NIrf	Omega_6_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	257.486092065185	74	4.05327881657347e-22
+Locke BMI EU sex combined 77 SNPs clumped	C1NIrf	Omega_6_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	257.586986314253	75	7.35487051064075e-22
+Locke BMI EU sex combined 77 SNPs clumped	C1NIrf	Omega_6_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0149243331475508	75	1
+Locke BMI EU sex combined 77 SNPs clumped	cbdvby	L_LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	621.936941363383	75	4.2963790521488e-87
+Locke BMI EU sex combined 77 SNPs clumped	cbdvby	L_LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	625.703962749832	74	2.78397559390866e-88
+Locke BMI EU sex combined 77 SNPs clumped	cbdvby	L_LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	625.733107691515	75	8.03321971231863e-88
+Locke BMI EU sex combined 77 SNPs clumped	cbdvby	L_LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0380128393426531	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Cjw1TY	XL_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	328.389113779847	75	2.02707553127923e-33
+Locke BMI EU sex combined 77 SNPs clumped	Cjw1TY	XL_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	323.559793618017	74	6.29474320262715e-33
+Locke BMI EU sex combined 77 SNPs clumped	Cjw1TY	XL_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	332.24316984976	75	4.50317910577738e-34
+Locke BMI EU sex combined 77 SNPs clumped	Cjw1TY	XL_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0186971233879047	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Ckf5wB	L_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	311.27525142973	75	1.51853828612253e-30
+Locke BMI EU sex combined 77 SNPs clumped	Ckf5wB	L_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	311.689029061458	74	6.26550067701782e-31
+Locke BMI EU sex combined 77 SNPs clumped	Ckf5wB	L_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	311.708752339246	75	1.28579543122411e-30
+Locke BMI EU sex combined 77 SNPs clumped	Ckf5wB	L_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0184458935180537	75	1
+Locke BMI EU sex combined 77 SNPs clumped	cOCb31	M_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	189.147213216826	75	7.88845397323258e-12
+Locke BMI EU sex combined 77 SNPs clumped	cOCb31	M_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	180.287207582806	74	7.49256806700189e-11
+Locke BMI EU sex combined 77 SNPs clumped	cOCb31	M_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	189.178473593364	75	7.81233015587878e-12
+Locke BMI EU sex combined 77 SNPs clumped	cOCb31	M_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0110072593145057	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Cv9IEF	MUFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	129.841069903312	75	8.83151437999226e-05
+Locke BMI EU sex combined 77 SNPs clumped	Cv9IEF	MUFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	124.690274798839	74	0.000209531124108877
+Locke BMI EU sex combined 77 SNPs clumped	Cv9IEF	MUFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	129.906248430917	75	8.70145941754549e-05
+Locke BMI EU sex combined 77 SNPs clumped	Cv9IEF	MUFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00678236672316107	75	1
+Locke BMI EU sex combined 77 SNPs clumped	CvKE61	LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	614.438627834295	75	1.17425929882303e-85
+Locke BMI EU sex combined 77 SNPs clumped	CvKE61	LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	616.860342710893	74	1.390858460179e-86
+Locke BMI EU sex combined 77 SNPs clumped	CvKE61	LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	616.942866686808	75	3.89237550450922e-86
+Locke BMI EU sex combined 77 SNPs clumped	CvKE61	LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0376473624123081	75	1
+Locke BMI EU sex combined 77 SNPs clumped	d3hNLH	XS_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	320.779976717314	75	3.89443436198933e-32
+Locke BMI EU sex combined 77 SNPs clumped	d3hNLH	XS_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	320.974102310206	74	1.72183791692281e-32
+Locke BMI EU sex combined 77 SNPs clumped	d3hNLH	XS_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	321.934142906156	75	2.49059644221789e-32
+Locke BMI EU sex combined 77 SNPs clumped	d3hNLH	XS_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0182634495588572	75	1
+Locke BMI EU sex combined 77 SNPs clumped	d3qcnC	Gln_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	122.808842796952	75	0.00041602687572632
+Locke BMI EU sex combined 77 SNPs clumped	d3qcnC	Gln_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	117.907942241769	74	0.000891108891244995
+Locke BMI EU sex combined 77 SNPs clumped	d3qcnC	Gln_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	122.937530679933	75	0.000404771317070712
+Locke BMI EU sex combined 77 SNPs clumped	d3qcnC	Gln_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00609609253179054	75	1
+Locke BMI EU sex combined 77 SNPs clumped	dGyKec	L_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	308.514437542603	75	4.37394818121388e-30
+Locke BMI EU sex combined 77 SNPs clumped	dGyKec	L_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	306.185852591616	74	5.19692358472749e-30
+Locke BMI EU sex combined 77 SNPs clumped	dGyKec	L_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	311.891994114168	75	1.19845286999518e-30
+Locke BMI EU sex combined 77 SNPs clumped	dGyKec	L_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0180190049624962	75	1
+Locke BMI EU sex combined 77 SNPs clumped	dkyTzN	PUFA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	144.307054430813	75	2.7061568793531e-06
+Locke BMI EU sex combined 77 SNPs clumped	dkyTzN	PUFA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	133.813732893722	74	2.57178359592292e-05
+Locke BMI EU sex combined 77 SNPs clumped	dkyTzN	PUFA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	144.601010607837	75	2.51165662989403e-06
+Locke BMI EU sex combined 77 SNPs clumped	dkyTzN	PUFA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00755763999347257	75	1
+Locke BMI EU sex combined 77 SNPs clumped	dnfDQX	PUFA_by_MUFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	140.714580536927	75	6.65605931129822e-06
+Locke BMI EU sex combined 77 SNPs clumped	dnfDQX	PUFA_by_MUFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	130.736489340567	74	5.31370265299531e-05
+Locke BMI EU sex combined 77 SNPs clumped	dnfDQX	PUFA_by_MUFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	141.376678912022	75	5.64789098300462e-06
+Locke BMI EU sex combined 77 SNPs clumped	dnfDQX	PUFA_by_MUFA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0072958825870938	75	1
+Locke BMI EU sex combined 77 SNPs clumped	dPI12b	S_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	148.25623049101	75	9.82093840554379e-07
+Locke BMI EU sex combined 77 SNPs clumped	dPI12b	S_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	142.34392883813	74	3.14642146570403e-06
+Locke BMI EU sex combined 77 SNPs clumped	dPI12b	S_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	148.430636076313	75	9.38569926460684e-07
+Locke BMI EU sex combined 77 SNPs clumped	dPI12b	S_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00865488120270697	75	1
+Locke BMI EU sex combined 77 SNPs clumped	DVQgv4	M_LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	424.425642775573	75	3.10885087868252e-50
+Locke BMI EU sex combined 77 SNPs clumped	DVQgv4	M_LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	424.764891964937	74	1.1204138450946e-50
+Locke BMI EU sex combined 77 SNPs clumped	DVQgv4	M_LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	425.097437384549	75	2.35316151730954e-50
+Locke BMI EU sex combined 77 SNPs clumped	DVQgv4	M_LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0261298464797495	75	1
+Locke BMI EU sex combined 77 SNPs clumped	dZIaWE	S_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	576.185748583091	75	2.29725126457139e-78
+Locke BMI EU sex combined 77 SNPs clumped	dZIaWE	S_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	574.244634885822	74	1.9150185682936e-78
+Locke BMI EU sex combined 77 SNPs clumped	dZIaWE	S_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	580.088031544484	75	4.17267453719134e-79
+Locke BMI EU sex combined 77 SNPs clumped	dZIaWE	S_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0340079328789058	75	1
+Locke BMI EU sex combined 77 SNPs clumped	E15eaa	L_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	314.55782894931	75	4.30087143003224e-31
+Locke BMI EU sex combined 77 SNPs clumped	E15eaa	L_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	312.258946018355	74	5.02953997992508e-31
+Locke BMI EU sex combined 77 SNPs clumped	E15eaa	L_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	318.219910239774	75	1.04797027435524e-31
+Locke BMI EU sex combined 77 SNPs clumped	E15eaa	L_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0183848184210085	75	1
+Locke BMI EU sex combined 77 SNPs clumped	EBuvOk	Total_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	228.299501786532	75	2.16205678179065e-17
+Locke BMI EU sex combined 77 SNPs clumped	EBuvOk	Total_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	229.540987207536	74	7.94699574752908e-18
+Locke BMI EU sex combined 77 SNPs clumped	EBuvOk	Total_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	229.721574945142	75	1.32826410920081e-17
+Locke BMI EU sex combined 77 SNPs clumped	EBuvOk	Total_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0135552382502806	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Eevp8C	XXL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	135.990557799004	75	2.10164750346102e-05
+Locke BMI EU sex combined 77 SNPs clumped	Eevp8C	XXL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	129.423546072436	74	7.20235556548208e-05
+Locke BMI EU sex combined 77 SNPs clumped	Eevp8C	XXL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	136.230704008021	75	1.98422594571025e-05
+Locke BMI EU sex combined 77 SNPs clumped	Eevp8C	XXL_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00763180599746709	75	1
+Locke BMI EU sex combined 77 SNPs clumped	efxLcq	S_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	212.171356332142	75	4.90778683427504e-15
+Locke BMI EU sex combined 77 SNPs clumped	efxLcq	S_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	208.545651008095	74	9.53307678517242e-15
+Locke BMI EU sex combined 77 SNPs clumped	efxLcq	S_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	212.199399270884	75	4.86253085043175e-15
+Locke BMI EU sex combined 77 SNPs clumped	efxLcq	S_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0125182747805158	75	1
+Locke BMI EU sex combined 77 SNPs clumped	ejx7rm	IDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	415.279885545744	75	1.36528644182011e-48
+Locke BMI EU sex combined 77 SNPs clumped	ejx7rm	IDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	416.180813533286	74	3.94456046572646e-49
+Locke BMI EU sex combined 77 SNPs clumped	ejx7rm	IDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	418.659174040943	75	3.38184375817092e-49
+Locke BMI EU sex combined 77 SNPs clumped	ejx7rm	IDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0261209713759053	75	1
+Locke BMI EU sex combined 77 SNPs clumped	EkC3YA	L_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	156.240318251165	75	1.17659811781889e-07
+Locke BMI EU sex combined 77 SNPs clumped	EkC3YA	L_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	149.8795791914	74	4.44782757880377e-07
+Locke BMI EU sex combined 77 SNPs clumped	EkC3YA	L_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	156.358616860642	75	1.13938859358067e-07
+Locke BMI EU sex combined 77 SNPs clumped	EkC3YA	L_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00921652116784276	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Eqtfy9	XL_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	317.890444181154	75	1.19015197029171e-31
+Locke BMI EU sex combined 77 SNPs clumped	Eqtfy9	XL_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	313.959415767469	74	2.60913571909493e-31
+Locke BMI EU sex combined 77 SNPs clumped	Eqtfy9	XL_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	320.970602327506	75	3.61737323138415e-32
+Locke BMI EU sex combined 77 SNPs clumped	Eqtfy9	XL_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0181887889916756	75	1
+Locke BMI EU sex combined 77 SNPs clumped	eWrYba	S_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	150.937318475053	75	4.86725347287568e-07
+Locke BMI EU sex combined 77 SNPs clumped	eWrYba	S_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	149.431900957819	74	5.00834594090291e-07
+Locke BMI EU sex combined 77 SNPs clumped	eWrYba	S_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	150.943267755221	75	4.85961877277606e-07
+Locke BMI EU sex combined 77 SNPs clumped	eWrYba	S_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00892232250551218	75	1
+Locke BMI EU sex combined 77 SNPs clumped	eYZq3t	Omega_6_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	160.396401346231	75	3.76075530342753e-08
+Locke BMI EU sex combined 77 SNPs clumped	eYZq3t	Omega_6_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	152.705613664333	74	2.08818330332104e-07
+Locke BMI EU sex combined 77 SNPs clumped	eYZq3t	Omega_6_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	160.710639850943	75	3.44672908510609e-08
+Locke BMI EU sex combined 77 SNPs clumped	eYZq3t	Omega_6_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00839171267928939	75	1
+Locke BMI EU sex combined 77 SNPs clumped	F0xgC4	S_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	131.357749990243	75	6.23980687008959e-05
+Locke BMI EU sex combined 77 SNPs clumped	F0xgC4	S_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	130.228213616482	74	5.9799883885002e-05
+Locke BMI EU sex combined 77 SNPs clumped	F0xgC4	S_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	131.408086868688	75	6.16780785748825e-05
+Locke BMI EU sex combined 77 SNPs clumped	F0xgC4	S_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00776046383498348	75	1
+Locke BMI EU sex combined 77 SNPs clumped	F2GGim	XS_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	258.865903769836	75	4.64031264642506e-22
+Locke BMI EU sex combined 77 SNPs clumped	F2GGim	XS_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	257.221243974338	74	4.46063081874479e-22
+Locke BMI EU sex combined 77 SNPs clumped	F2GGim	XS_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	259.239682820595	75	4.05522794349292e-22
+Locke BMI EU sex combined 77 SNPs clumped	F2GGim	XS_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0141034444979419	75	1
+Locke BMI EU sex combined 77 SNPs clumped	f2QFwQ	M_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	120.942634213636	75	0.000616724124851875
+Locke BMI EU sex combined 77 SNPs clumped	f2QFwQ	M_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	121.510880261487	74	0.000418231037925424
+Locke BMI EU sex combined 77 SNPs clumped	f2QFwQ	M_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	121.544577592058	75	0.000543637403792059
+Locke BMI EU sex combined 77 SNPs clumped	f2QFwQ	M_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00843734109550198	75	1
+Locke BMI EU sex combined 77 SNPs clumped	ffY8nV	LDL_size_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	195.991581515719	75	9.23120012345136e-13
+Locke BMI EU sex combined 77 SNPs clumped	ffY8nV	LDL_size_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	196.147690956571	74	5.33634140965333e-13
+Locke BMI EU sex combined 77 SNPs clumped	ffY8nV	LDL_size_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	196.174815977347	75	8.71069966148938e-13
+Locke BMI EU sex combined 77 SNPs clumped	ffY8nV	LDL_size_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0108460077168505	75	1
+Locke BMI EU sex combined 77 SNPs clumped	FmzjaE	Total_FA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	163.497568892721	75	1.58155117631887e-08
+Locke BMI EU sex combined 77 SNPs clumped	FmzjaE	Total_FA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	161.325725976115	74	1.93990759795065e-08
+Locke BMI EU sex combined 77 SNPs clumped	FmzjaE	Total_FA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	163.536125993475	75	1.56448595635775e-08
+Locke BMI EU sex combined 77 SNPs clumped	FmzjaE	Total_FA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00896985600549372	75	1
+Locke BMI EU sex combined 77 SNPs clumped	FvRJsU	HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	278.161450641126	75	4.02548757882544e-25
+Locke BMI EU sex combined 77 SNPs clumped	FvRJsU	HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	279.025969669914	74	1.49303993473135e-25
+Locke BMI EU sex combined 77 SNPs clumped	FvRJsU	HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	281.131084690331	75	1.33880556352964e-25
+Locke BMI EU sex combined 77 SNPs clumped	FvRJsU	HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0167067958074419	75	1
+Locke BMI EU sex combined 77 SNPs clumped	G261mX	L_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	179.832593482399	75	1.35748877100076e-10
+Locke BMI EU sex combined 77 SNPs clumped	G261mX	L_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	173.399532347003	74	5.91851061367206e-10
+Locke BMI EU sex combined 77 SNPs clumped	G261mX	L_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	180.044945546825	75	1.27350800444697e-10
+Locke BMI EU sex combined 77 SNPs clumped	G261mX	L_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0107971853212583	75	1
+Locke BMI EU sex combined 77 SNPs clumped	G57Vxq	Ala_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	100.080583238383	75	0.0281376623430515
+Locke BMI EU sex combined 77 SNPs clumped	G57Vxq	Ala_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	100.126008053268	74	0.0232877147167205
+Locke BMI EU sex combined 77 SNPs clumped	G57Vxq	Ala_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	100.132011980181	75	0.0279145890013877
+Locke BMI EU sex combined 77 SNPs clumped	G57Vxq	Ala_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00623431401779155	75	1
+Locke BMI EU sex combined 77 SNPs clumped	g6Aj4r	M_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	390.934049901206	75	2.95061642783768e-44
+Locke BMI EU sex combined 77 SNPs clumped	g6Aj4r	M_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	392.488203946409	74	6.75814507420761e-45
+Locke BMI EU sex combined 77 SNPs clumped	g6Aj4r	M_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	393.314530787156	75	1.11849961581687e-44
+Locke BMI EU sex combined 77 SNPs clumped	g6Aj4r	M_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0235330525733103	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Gf6gg2	Total_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	292.35804839935	75	2.01311503906818e-27
+Locke BMI EU sex combined 77 SNPs clumped	Gf6gg2	Total_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	293.141436098571	74	7.47257130518579e-28
+Locke BMI EU sex combined 77 SNPs clumped	Gf6gg2	Total_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	293.631992157191	75	1.24608245299861e-27
+Locke BMI EU sex combined 77 SNPs clumped	Gf6gg2	Total_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0173946539015523	75	1
+Locke BMI EU sex combined 77 SNPs clumped	gffOrD	Total_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	473.851300176703	75	3.14006446400548e-59
+Locke BMI EU sex combined 77 SNPs clumped	gffOrD	Total_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	478.248065775237	74	1.90607720514477e-60
+Locke BMI EU sex combined 77 SNPs clumped	gffOrD	Total_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	478.256009976283	75	4.85756559904907e-60
+Locke BMI EU sex combined 77 SNPs clumped	gffOrD	Total_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0288744864498724	75	1
+Locke BMI EU sex combined 77 SNPs clumped	ggrJks	LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	568.191103043526	75	7.52693335589664e-77
+Locke BMI EU sex combined 77 SNPs clumped	ggrJks	LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	570.352476065289	74	1.05059574429804e-77
+Locke BMI EU sex combined 77 SNPs clumped	ggrJks	LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	570.517078066407	75	2.72922591088526e-77
+Locke BMI EU sex combined 77 SNPs clumped	ggrJks	LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0347835253139484	75	1
+Locke BMI EU sex combined 77 SNPs clumped	gHYVfa	L_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	235.02357814885	75	2.13445776962175e-18
+Locke BMI EU sex combined 77 SNPs clumped	gHYVfa	L_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	232.636068681066	74	2.72255837707071e-18
+Locke BMI EU sex combined 77 SNPs clumped	gHYVfa	L_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	235.159170387782	75	2.03646894858059e-18
+Locke BMI EU sex combined 77 SNPs clumped	gHYVfa	L_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0134662590943518	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Gjo014	SFA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	120.496862444063	75	0.000676758332331945
+Locke BMI EU sex combined 77 SNPs clumped	Gjo014	SFA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	117.439523493447	74	0.000981072145161052
+Locke BMI EU sex combined 77 SNPs clumped	Gjo014	SFA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	120.597875667342	75	0.000662687491604583
+Locke BMI EU sex combined 77 SNPs clumped	Gjo014	SFA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00792414990782509	75	1
+Locke BMI EU sex combined 77 SNPs clumped	GmhPqo	XL_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	211.481494039453	75	6.162768183782e-15
+Locke BMI EU sex combined 77 SNPs clumped	GmhPqo	XL_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	203.122839709916	74	5.6331522482748e-14
+Locke BMI EU sex combined 77 SNPs clumped	GmhPqo	XL_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	212.249920341385	75	4.78204253510292e-15
+Locke BMI EU sex combined 77 SNPs clumped	GmhPqo	XL_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.012304541365726	75	1
+Locke BMI EU sex combined 77 SNPs clumped	gQnngR	S_LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	666.143505276917	75	1.3136082567903e-95
+Locke BMI EU sex combined 77 SNPs clumped	gQnngR	S_LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	667.179376867843	74	2.74395969408765e-96
+Locke BMI EU sex combined 77 SNPs clumped	gQnngR	S_LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	667.230855243517	75	8.0931611358139e-96
+Locke BMI EU sex combined 77 SNPs clumped	gQnngR	S_LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0407442668918881	75	1
+Locke BMI EU sex combined 77 SNPs clumped	gtToTg	MUFA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	133.529694640893	75	3.76510551776472e-05
+Locke BMI EU sex combined 77 SNPs clumped	gtToTg	MUFA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	125.573860674767	74	0.000172258073518992
+Locke BMI EU sex combined 77 SNPs clumped	gtToTg	MUFA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	134.466553550317	75	3.01959985064302e-05
+Locke BMI EU sex combined 77 SNPs clumped	gtToTg	MUFA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00717561281440529	75	1
+Locke BMI EU sex combined 77 SNPs clumped	GYJ3EP	XL_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	258.07181096705	75	6.17719308535881e-22
+Locke BMI EU sex combined 77 SNPs clumped	GYJ3EP	XL_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	258.117674359316	74	3.22524244949028e-22
+Locke BMI EU sex combined 77 SNPs clumped	GYJ3EP	XL_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	258.57600163897	75	5.15136477986473e-22
+Locke BMI EU sex combined 77 SNPs clumped	GYJ3EP	XL_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0158495594552995	75	1
+Locke BMI EU sex combined 77 SNPs clumped	gzfUoq	VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	245.548462428769	75	5.37330399647707e-20
+Locke BMI EU sex combined 77 SNPs clumped	gzfUoq	VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	242.648071033624	74	8.16568663308056e-20
+Locke BMI EU sex combined 77 SNPs clumped	gzfUoq	VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	245.548492634899	75	5.37324669887445e-20
+Locke BMI EU sex combined 77 SNPs clumped	gzfUoq	VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0143176812381566	75	1
+Locke BMI EU sex combined 77 SNPs clumped	hbSzQi	L_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	241.931355842161	75	1.91915544984985e-19
+Locke BMI EU sex combined 77 SNPs clumped	hbSzQi	L_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	234.584504169243	74	1.38268120040203e-18
+Locke BMI EU sex combined 77 SNPs clumped	hbSzQi	L_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	242.816602309483	75	1.40642458026177e-19
+Locke BMI EU sex combined 77 SNPs clumped	hbSzQi	L_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0138522470145748	75	1
+Locke BMI EU sex combined 77 SNPs clumped	HhXJWH	L_LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	587.944718392376	75	1.33900997288724e-80
+Locke BMI EU sex combined 77 SNPs clumped	HhXJWH	L_LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	589.2662010001	74	2.64506410810963e-81
+Locke BMI EU sex combined 77 SNPs clumped	HhXJWH	L_LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	589.393478546445	75	7.09662656363196e-81
+Locke BMI EU sex combined 77 SNPs clumped	HhXJWH	L_LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0351856218240487	75	1
+Locke BMI EU sex combined 77 SNPs clumped	hl88cD	XL_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	102.830082873284	75	0.0181848310961904
+Locke BMI EU sex combined 77 SNPs clumped	hl88cD	XL_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	102.765505535286	74	0.0151436968776193
+Locke BMI EU sex combined 77 SNPs clumped	hl88cD	XL_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	102.94962068829	75	0.0178340254884626
+Locke BMI EU sex combined 77 SNPs clumped	hl88cD	XL_HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00475565973693824	75	1
+Locke BMI EU sex combined 77 SNPs clumped	HNLB0k	M_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	321.142275563486	75	3.38473079868706e-32
+Locke BMI EU sex combined 77 SNPs clumped	HNLB0k	M_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	319.616734137003	74	2.91747140258788e-32
+Locke BMI EU sex combined 77 SNPs clumped	HNLB0k	M_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	321.25266880528	75	3.24307997841001e-32
+Locke BMI EU sex combined 77 SNPs clumped	HNLB0k	M_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0190456200617153	75	1
+Locke BMI EU sex combined 77 SNPs clumped	HVNIwm	XXL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	95.0465764289607	75	0.0589637073446453
+Locke BMI EU sex combined 77 SNPs clumped	HVNIwm	XXL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	94.9107840065855	74	0.0512382707895859
+Locke BMI EU sex combined 77 SNPs clumped	HVNIwm	XXL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	95.1315378469336	75	0.0582704928190935
+Locke BMI EU sex combined 77 SNPs clumped	HVNIwm	XXL_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00536228880331662	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Hzr7SA	HDL_size_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	314.760697762954	75	3.97778456281103e-31
+Locke BMI EU sex combined 77 SNPs clumped	Hzr7SA	HDL_size_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	311.746016214445	74	6.1293736313871e-31
+Locke BMI EU sex combined 77 SNPs clumped	Hzr7SA	HDL_size_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	317.630511179419	75	1.31577903997316e-31
+Locke BMI EU sex combined 77 SNPs clumped	Hzr7SA	HDL_size_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0181822290439135	75	1
+Locke BMI EU sex combined 77 SNPs clumped	I3NOso	Total_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	141.542795716752	75	5.41924926466307e-06
+Locke BMI EU sex combined 77 SNPs clumped	I3NOso	Total_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	134.972688198385	74	1.94783186508833e-05
+Locke BMI EU sex combined 77 SNPs clumped	I3NOso	Total_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	141.669055702805	75	5.25151395740629e-06
+Locke BMI EU sex combined 77 SNPs clumped	I3NOso	Total_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00816599873149782	75	1
+Locke BMI EU sex combined 77 SNPs clumped	IB0cqa	XS_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	284.725381248948	75	3.51347157239149e-26
+Locke BMI EU sex combined 77 SNPs clumped	IB0cqa	XS_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	283.401592962566	74	2.91691764008283e-26
+Locke BMI EU sex combined 77 SNPs clumped	IB0cqa	XS_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	284.952842965341	75	3.22764499739494e-26
+Locke BMI EU sex combined 77 SNPs clumped	IB0cqa	XS_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0162070481355629	75	1
+Locke BMI EU sex combined 77 SNPs clumped	ie5U04	XS_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	136.078521682063	75	2.05787630242416e-05
+Locke BMI EU sex combined 77 SNPs clumped	ie5U04	XS_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	130.63702377689	74	5.43818410833234e-05
+Locke BMI EU sex combined 77 SNPs clumped	ie5U04	XS_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	136.224786334059	75	1.98704155002287e-05
+Locke BMI EU sex combined 77 SNPs clumped	ie5U04	XS_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00791683898946006	75	1
+Locke BMI EU sex combined 77 SNPs clumped	iMQCrx	XL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	231.48246984266	75	7.25227308574319e-18
+Locke BMI EU sex combined 77 SNPs clumped	iMQCrx	XL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	227.606701246626	74	1.54721813222851e-17
+Locke BMI EU sex combined 77 SNPs clumped	iMQCrx	XL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	231.561443676058	75	7.05775352262665e-18
+Locke BMI EU sex combined 77 SNPs clumped	iMQCrx	XL_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0139553615273896	75	1
+Locke BMI EU sex combined 77 SNPs clumped	itC3YN	M_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	219.747587528429	75	3.930195992835e-16
+Locke BMI EU sex combined 77 SNPs clumped	itC3YN	M_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	211.845896394561	74	3.19644387783873e-15
+Locke BMI EU sex combined 77 SNPs clumped	itC3YN	M_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	220.37856511189	75	3.17874427352667e-16
+Locke BMI EU sex combined 77 SNPs clumped	itC3YN	M_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.012773345076428	75	1
+Locke BMI EU sex combined 77 SNPs clumped	J4gbHN	XL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	234.901357943785	75	2.22679453855833e-18
+Locke BMI EU sex combined 77 SNPs clumped	J4gbHN	XL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	234.424932954284	74	1.46170702517166e-18
+Locke BMI EU sex combined 77 SNPs clumped	J4gbHN	XL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	234.901449119742	75	2.22672419573414e-18
+Locke BMI EU sex combined 77 SNPs clumped	J4gbHN	XL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.01292940615647	75	1
+Locke BMI EU sex combined 77 SNPs clumped	J9UlYn	Total_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	448.384682419185	75	1.43127392012186e-54
+Locke BMI EU sex combined 77 SNPs clumped	J9UlYn	Total_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	451.540391157478	74	1.53363733310838e-55
+Locke BMI EU sex combined 77 SNPs clumped	J9UlYn	Total_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	451.574476385651	75	3.75706429833596e-55
+Locke BMI EU sex combined 77 SNPs clumped	J9UlYn	Total_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0270592437049866	75	1
+Locke BMI EU sex combined 77 SNPs clumped	jc2imi	L_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	192.51620462491	75	2.75911461260703e-12
+Locke BMI EU sex combined 77 SNPs clumped	jc2imi	L_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	187.888098043257	74	7.22502683951844e-12
+Locke BMI EU sex combined 77 SNPs clumped	jc2imi	L_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	192.619029662867	75	2.67159899775199e-12
+Locke BMI EU sex combined 77 SNPs clumped	jc2imi	L_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0113590367219049	75	1
+Locke BMI EU sex combined 77 SNPs clumped	jJDaJN	L_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	329.590275602722	75	1.26903425718305e-33
+Locke BMI EU sex combined 77 SNPs clumped	jJDaJN	L_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	323.067363714443	74	7.62572145298549e-33
+Locke BMI EU sex combined 77 SNPs clumped	jJDaJN	L_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	334.605705365001	75	1.78638757075143e-34
+Locke BMI EU sex combined 77 SNPs clumped	jJDaJN	L_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0177544574177134	75	1
+Locke BMI EU sex combined 77 SNPs clumped	jT9hwL	L_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	610.570192747627	75	6.45707445508842e-85
+Locke BMI EU sex combined 77 SNPs clumped	jT9hwL	L_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	614.375646697168	74	4.16826350048145e-86
+Locke BMI EU sex combined 77 SNPs clumped	jT9hwL	L_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	614.425025028062	75	1.18132165774995e-85
+Locke BMI EU sex combined 77 SNPs clumped	jT9hwL	L_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.03725193124846	75	1
+Locke BMI EU sex combined 77 SNPs clumped	JWXL54	M_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	308.579306566283	75	4.26670376805888e-30
+Locke BMI EU sex combined 77 SNPs clumped	JWXL54	M_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	306.963258178736	74	3.85700332893033e-30
+Locke BMI EU sex combined 77 SNPs clumped	JWXL54	M_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	308.640283055742	75	4.16828740734023e-30
+Locke BMI EU sex combined 77 SNPs clumped	JWXL54	M_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.018330387035212	75	1
+Locke BMI EU sex combined 77 SNPs clumped	JYu92A	HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	278.608150163044	75	3.41203433111824e-25
+Locke BMI EU sex combined 77 SNPs clumped	JYu92A	HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	279.83683772168	74	1.10391694868937e-25
+Locke BMI EU sex combined 77 SNPs clumped	JYu92A	HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	280.910514917715	75	1.45307633530433e-25
+Locke BMI EU sex combined 77 SNPs clumped	JYu92A	HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0170392442545374	75	1
+Locke BMI EU sex combined 77 SNPs clumped	jzp8qM	IDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	451.068630807024	75	4.64534065657449e-55
+Locke BMI EU sex combined 77 SNPs clumped	jzp8qM	IDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	452.077743024741	74	1.22330921330217e-55
+Locke BMI EU sex combined 77 SNPs clumped	jzp8qM	IDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	455.847353057496	75	6.24478424399403e-56
+Locke BMI EU sex combined 77 SNPs clumped	jzp8qM	IDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0276334647067972	75	1
+Locke BMI EU sex combined 77 SNPs clumped	k7Jcyr	XS_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	256.657416742721	75	1.02736424904173e-21
+Locke BMI EU sex combined 77 SNPs clumped	k7Jcyr	XS_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	255.393448918174	74	8.6293327340602e-22
+Locke BMI EU sex combined 77 SNPs clumped	k7Jcyr	XS_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	256.913391780863	75	9.37076199127947e-22
+Locke BMI EU sex combined 77 SNPs clumped	k7Jcyr	XS_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0143880251117532	75	1
+Locke BMI EU sex combined 77 SNPs clumped	KbWaLp	S_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	446.900767240554	75	2.66489432890967e-54
+Locke BMI EU sex combined 77 SNPs clumped	KbWaLp	S_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	446.979518181735	74	1.04282485235726e-54
+Locke BMI EU sex combined 77 SNPs clumped	KbWaLp	S_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	447.390902354995	75	2.17036384579189e-54
+Locke BMI EU sex combined 77 SNPs clumped	KbWaLp	S_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0255376438287168	75	1
+Locke BMI EU sex combined 77 SNPs clumped	kCbNqe	L_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	169.810149810207	75	2.61131829727256e-09
+Locke BMI EU sex combined 77 SNPs clumped	kCbNqe	L_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	163.850132528143	74	9.49244595572009e-09
+Locke BMI EU sex combined 77 SNPs clumped	kCbNqe	L_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	169.950916860218	75	2.507113215614e-09
+Locke BMI EU sex combined 77 SNPs clumped	kCbNqe	L_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0100508893463919	75	1
+Locke BMI EU sex combined 77 SNPs clumped	KccFJc	L_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	172.40159144684	75	1.2292267698044e-09
+Locke BMI EU sex combined 77 SNPs clumped	KccFJc	L_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	172.319019662137	74	8.14580665734228e-10
+Locke BMI EU sex combined 77 SNPs clumped	KccFJc	L_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	172.758313106002	75	1.10743674612402e-09
+Locke BMI EU sex combined 77 SNPs clumped	KccFJc	L_LDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00951472767773033	75	1
+Locke BMI EU sex combined 77 SNPs clumped	kEuUXL	Total_BCAA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	102.434219102488	75	0.0193908612207924
+Locke BMI EU sex combined 77 SNPs clumped	kEuUXL	Total_BCAA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	102.781753362829	74	0.0151026876768065
+Locke BMI EU sex combined 77 SNPs clumped	kEuUXL	Total_BCAA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	102.785456729086	75	0.0183173627131873
+Locke BMI EU sex combined 77 SNPs clumped	kEuUXL	Total_BCAA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00580227359814643	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Kf4Rm2	S_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	340.413747449688	75	1.82617746850454e-35
+Locke BMI EU sex combined 77 SNPs clumped	Kf4Rm2	S_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	338.59919487873	74	1.73045977311831e-35
+Locke BMI EU sex combined 77 SNPs clumped	Kf4Rm2	S_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	340.447044247142	75	1.80240223922414e-35
+Locke BMI EU sex combined 77 SNPs clumped	Kf4Rm2	S_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0202900934809188	75	1
+Locke BMI EU sex combined 77 SNPs clumped	kFADDB	S_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	142.845914186851	75	3.9124817528893e-06
+Locke BMI EU sex combined 77 SNPs clumped	kFADDB	S_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	142.155290333939	74	3.30050357459939e-06
+Locke BMI EU sex combined 77 SNPs clumped	kFADDB	S_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	143.169032782629	75	3.60727539839224e-06
+Locke BMI EU sex combined 77 SNPs clumped	kFADDB	S_HDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0089319241641474	75	1
+Locke BMI EU sex combined 77 SNPs clumped	kggOOZ	M_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	266.64714403627	75	2.76392813872691e-23
+Locke BMI EU sex combined 77 SNPs clumped	kggOOZ	M_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	268.048399557374	74	8.63693081371339e-24
+Locke BMI EU sex combined 77 SNPs clumped	kggOOZ	M_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	268.262022627774	75	1.5332566675654e-23
+Locke BMI EU sex combined 77 SNPs clumped	kggOOZ	M_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0165430287785277	75	1
+Locke BMI EU sex combined 77 SNPs clumped	KKS1Ls	M_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	519.826596357505	75	9.43116851339818e-68
+Locke BMI EU sex combined 77 SNPs clumped	KKS1Ls	M_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	520.554793933088	74	2.58513572166355e-68
+Locke BMI EU sex combined 77 SNPs clumped	KKS1Ls	M_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	520.864375387328	75	6.03517060968583e-68
+Locke BMI EU sex combined 77 SNPs clumped	KKS1Ls	M_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0321567350302044	75	1
+Locke BMI EU sex combined 77 SNPs clumped	ksjYAL	LA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	233.932189118967	75	3.11443832814799e-18
+Locke BMI EU sex combined 77 SNPs clumped	ksjYAL	LA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	226.588087233424	74	2.19526065714252e-17
+Locke BMI EU sex combined 77 SNPs clumped	ksjYAL	LA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	235.067288402804	75	2.10236791548408e-18
+Locke BMI EU sex combined 77 SNPs clumped	ksjYAL	LA_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0121365613494123	75	1
+Locke BMI EU sex combined 77 SNPs clumped	kvbPc5	M_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	643.404762107515	75	3.21700035789535e-91
+Locke BMI EU sex combined 77 SNPs clumped	kvbPc5	M_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	644.151812844236	74	7.78860961662908e-92
+Locke BMI EU sex combined 77 SNPs clumped	kvbPc5	M_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	644.386632487185	75	2.08127193829097e-91
+Locke BMI EU sex combined 77 SNPs clumped	kvbPc5	M_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0396534586795316	75	1
+Locke BMI EU sex combined 77 SNPs clumped	KvsFs5	Clinical_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	651.548646136586	75	8.6641186751955e-93
+Locke BMI EU sex combined 77 SNPs clumped	KvsFs5	Clinical_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	654.906729075954	74	6.51709085712127e-94
+Locke BMI EU sex combined 77 SNPs clumped	KvsFs5	Clinical_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	654.918526485275	75	1.9384746702277e-93
+Locke BMI EU sex combined 77 SNPs clumped	KvsFs5	Clinical_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0400074331647435	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Kw1AOv	L_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	469.042510953731	75	2.40030134067814e-58
+Locke BMI EU sex combined 77 SNPs clumped	Kw1AOv	L_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	472.437279702571	74	2.24774628863562e-59
+Locke BMI EU sex combined 77 SNPs clumped	Kw1AOv	L_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	475.534767369946	75	1.53928439036662e-59
+Locke BMI EU sex combined 77 SNPs clumped	Kw1AOv	L_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0281519790234548	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Kw8Ih0	M_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	509.792364501076	75	7.01256469183862e-66
+Locke BMI EU sex combined 77 SNPs clumped	Kw8Ih0	M_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	510.113809418474	74	2.313936663982e-66
+Locke BMI EU sex combined 77 SNPs clumped	Kw8Ih0	M_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	512.596893509056	75	2.10598295247893e-66
+Locke BMI EU sex combined 77 SNPs clumped	Kw8Ih0	M_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0298592139621484	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Kylk4w	VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	318.35693065195	75	9.93950818871268e-32
+Locke BMI EU sex combined 77 SNPs clumped	Kylk4w	VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	316.887932442056	74	8.40558579993567e-32
+Locke BMI EU sex combined 77 SNPs clumped	Kylk4w	VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	318.523911190645	75	9.31861481510095e-32
+Locke BMI EU sex combined 77 SNPs clumped	Kylk4w	VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0186905545877235	75	1
+Locke BMI EU sex combined 77 SNPs clumped	L0KJRj	XS_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	382.903578295827	75	7.70474213175436e-43
+Locke BMI EU sex combined 77 SNPs clumped	L0KJRj	XS_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	384.355573588561	74	1.86414843644787e-43
+Locke BMI EU sex combined 77 SNPs clumped	L0KJRj	XS_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	387.722240373645	75	1.08991080726581e-43
+Locke BMI EU sex combined 77 SNPs clumped	L0KJRj	XS_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0232972708115682	75	1
+Locke BMI EU sex combined 77 SNPs clumped	l8FaFx	Gly_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	117.74156878204	75	0.00118971507617961
+Locke BMI EU sex combined 77 SNPs clumped	l8FaFx	Gly_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	118.095340342948	74	0.000857350511739998
+Locke BMI EU sex combined 77 SNPs clumped	l8FaFx	Gly_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	118.12599572765	75	0.00110081338489731
+Locke BMI EU sex combined 77 SNPs clumped	l8FaFx	Gly_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00687327004429247	75	1
+Locke BMI EU sex combined 77 SNPs clumped	LgyKuA	M_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	443.405101640596	75	1.15062699396732e-53
+Locke BMI EU sex combined 77 SNPs clumped	LgyKuA	M_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	443.288096788434	74	4.90708620616456e-54
+Locke BMI EU sex combined 77 SNPs clumped	LgyKuA	M_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	443.963698340581	75	9.10935849744066e-54
+Locke BMI EU sex combined 77 SNPs clumped	LgyKuA	M_LDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0274545144903606	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Ljdlws	XL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	171.130241147109	75	1.78073937630677e-09
+Locke BMI EU sex combined 77 SNPs clumped	Ljdlws	XL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	165.048670133153	74	6.74168586704362e-09
+Locke BMI EU sex combined 77 SNPs clumped	Ljdlws	XL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	171.330027913577	75	1.68019506521076e-09
+Locke BMI EU sex combined 77 SNPs clumped	Ljdlws	XL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0100995819416673	75	1
+Locke BMI EU sex combined 77 SNPs clumped	LKfLxP	Citrate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	79.7970855371729	75	0.330761327927239
+Locke BMI EU sex combined 77 SNPs clumped	LKfLxP	Citrate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	79.099209118545	74	0.32117281391203
+Locke BMI EU sex combined 77 SNPs clumped	LKfLxP	Citrate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	79.7974175179707	75	0.330751906301767
+Locke BMI EU sex combined 77 SNPs clumped	LKfLxP	Citrate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00498914393091877	75	1
+Locke BMI EU sex combined 77 SNPs clumped	luiefs	M_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	255.21111420513	75	1.7264595226508e-21
+Locke BMI EU sex combined 77 SNPs clumped	luiefs	M_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	245.63179009365	74	2.83800841350757e-20
+Locke BMI EU sex combined 77 SNPs clumped	luiefs	M_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	256.676851973045	75	1.02021514910245e-21
+Locke BMI EU sex combined 77 SNPs clumped	luiefs	M_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0146454948872924	75	1
+Locke BMI EU sex combined 77 SNPs clumped	lWypou	VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	180.219892970538	75	1.20819373701342e-10
+Locke BMI EU sex combined 77 SNPs clumped	lWypou	VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	175.720557058146	74	2.9667544411294e-10
+Locke BMI EU sex combined 77 SNPs clumped	lWypou	VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	180.267449199971	75	1.19101891216058e-10
+Locke BMI EU sex combined 77 SNPs clumped	lWypou	VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0104569433028322	75	1
+Locke BMI EU sex combined 77 SNPs clumped	LZNOps	XL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	170.30374688069	75	2.26359797634776e-09
+Locke BMI EU sex combined 77 SNPs clumped	LZNOps	XL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	165.016188663042	74	6.80465823308638e-09
+Locke BMI EU sex combined 77 SNPs clumped	LZNOps	XL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	170.466943669135	75	2.15899940181923e-09
+Locke BMI EU sex combined 77 SNPs clumped	LZNOps	XL_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00995033090174101	75	1
+Locke BMI EU sex combined 77 SNPs clumped	M0uYTF	S_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	533.304402625206	75	2.83063720103612e-70
+Locke BMI EU sex combined 77 SNPs clumped	M0uYTF	S_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	533.281788920489	74	1.0589087533225e-70
+Locke BMI EU sex combined 77 SNPs clumped	M0uYTF	S_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	535.382309961905	75	1.15358800660222e-70
+Locke BMI EU sex combined 77 SNPs clumped	M0uYTF	S_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0309346370884231	75	1
+Locke BMI EU sex combined 77 SNPs clumped	M3QeGZ	S_LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	510.124144855542	75	6.08272494276931e-66
+Locke BMI EU sex combined 77 SNPs clumped	M3QeGZ	S_LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	510.756189444093	74	1.7556893416376e-66
+Locke BMI EU sex combined 77 SNPs clumped	M3QeGZ	S_LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	510.811174082627	75	4.53053770774929e-66
+Locke BMI EU sex combined 77 SNPs clumped	M3QeGZ	S_LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0308205772242019	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Mc4Atw	Acetate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	89.941539304281	75	0.114903544601845
+Locke BMI EU sex combined 77 SNPs clumped	Mc4Atw	Acetate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	87.9989458836982	74	0.127299350460445
+Locke BMI EU sex combined 77 SNPs clumped	Mc4Atw	Acetate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	89.9946508405677	75	0.114160006971539
+Locke BMI EU sex combined 77 SNPs clumped	Mc4Atw	Acetate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00391712878900752	75	1
+Locke BMI EU sex combined 77 SNPs clumped	MFCkFw	Total_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	188.035620514934	75	1.1129396011973e-11
+Locke BMI EU sex combined 77 SNPs clumped	MFCkFw	Total_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	189.281289627414	74	4.67663213564261e-12
+Locke BMI EU sex combined 77 SNPs clumped	MFCkFw	Total_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	189.318932478837	75	7.47916742540926e-12
+Locke BMI EU sex combined 77 SNPs clumped	MFCkFw	Total_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0119258938908652	75	1
+Locke BMI EU sex combined 77 SNPs clumped	mG9lxB	XL_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	286.308631407699	75	1.94550454067589e-26
+Locke BMI EU sex combined 77 SNPs clumped	mG9lxB	XL_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	281.356321967791	74	6.2640821621744e-26
+Locke BMI EU sex combined 77 SNPs clumped	mG9lxB	XL_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	289.057788001347	75	6.95290892518268e-27
+Locke BMI EU sex combined 77 SNPs clumped	mG9lxB	XL_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0161255139097917	75	1
+Locke BMI EU sex combined 77 SNPs clumped	MHD6PA	GlycA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	131.678068870491	75	5.79509943283405e-05
+Locke BMI EU sex combined 77 SNPs clumped	MHD6PA	GlycA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	127.6137054252	74	0.000108924805666667
+Locke BMI EU sex combined 77 SNPs clumped	MHD6PA	GlycA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	132.648370049081	75	4.62670582479458e-05
+Locke BMI EU sex combined 77 SNPs clumped	MHD6PA	GlycA_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0077827592540317	75	1
+Locke BMI EU sex combined 77 SNPs clumped	MjcxZz	L_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	318.452287078653	75	9.58005325383429e-32
+Locke BMI EU sex combined 77 SNPs clumped	MjcxZz	L_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	315.369987641024	74	1.51257078183254e-31
+Locke BMI EU sex combined 77 SNPs clumped	MjcxZz	L_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	322.055160738057	75	2.37648715440424e-32
+Locke BMI EU sex combined 77 SNPs clumped	MjcxZz	L_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0186955261338012	75	1
+Locke BMI EU sex combined 77 SNPs clumped	MkVsq1	XL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	249.05345826712	75	1.55350657744156e-20
+Locke BMI EU sex combined 77 SNPs clumped	MkVsq1	XL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	240.693735197088	74	1.62697326258215e-19
+Locke BMI EU sex combined 77 SNPs clumped	MkVsq1	XL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	249.916374138909	75	1.14329612310211e-20
+Locke BMI EU sex combined 77 SNPs clumped	MkVsq1	XL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0143378408332409	75	1
+Locke BMI EU sex combined 77 SNPs clumped	MmJgle	XXL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	124.243644159945	75	0.000305798133480657
+Locke BMI EU sex combined 77 SNPs clumped	MmJgle	XXL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	123.933320070964	74	0.000247492354897499
+Locke BMI EU sex combined 77 SNPs clumped	MmJgle	XXL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	124.429474992083	75	0.000293751484128563
+Locke BMI EU sex combined 77 SNPs clumped	MmJgle	XXL_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00749711670189098	75	1
+Locke BMI EU sex combined 77 SNPs clumped	MOvq7o	XS_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	407.871851024804	75	2.88531700896005e-47
+Locke BMI EU sex combined 77 SNPs clumped	MOvq7o	XS_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	408.393122882696	74	9.85042724509548e-48
+Locke BMI EU sex combined 77 SNPs clumped	MOvq7o	XS_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	411.355935793499	75	6.88139671777783e-48
+Locke BMI EU sex combined 77 SNPs clumped	MOvq7o	XS_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.023997916671697	75	1
+Locke BMI EU sex combined 77 SNPs clumped	MpA9JE	S_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	396.032827458256	75	3.68871506086628e-45
+Locke BMI EU sex combined 77 SNPs clumped	MpA9JE	S_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	395.323948180355	74	2.11796650845978e-45
+Locke BMI EU sex combined 77 SNPs clumped	MpA9JE	S_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	396.320844664199	75	3.2793426149875e-45
+Locke BMI EU sex combined 77 SNPs clumped	MpA9JE	S_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0236724845791578	75	1
+Locke BMI EU sex combined 77 SNPs clumped	MYUGlJ	Omega_6_by_Omega_3_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	144.100454533053	75	2.85156191467699e-06
+Locke BMI EU sex combined 77 SNPs clumped	MYUGlJ	Omega_6_by_Omega_3_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	144.096913841854	74	2.01212653789402e-06
+Locke BMI EU sex combined 77 SNPs clumped	MYUGlJ	Omega_6_by_Omega_3_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	144.105615106438	75	2.84783888050086e-06
+Locke BMI EU sex combined 77 SNPs clumped	MYUGlJ	Omega_6_by_Omega_3_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00674039027205239	75	1
+Locke BMI EU sex combined 77 SNPs clumped	nCopv2	L_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	620.487275186062	75	8.14771171455649e-87
+Locke BMI EU sex combined 77 SNPs clumped	nCopv2	L_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	623.666307022986	74	6.85995659169209e-88
+Locke BMI EU sex combined 77 SNPs clumped	nCopv2	L_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	623.721083469373	75	1.95400567608715e-87
+Locke BMI EU sex combined 77 SNPs clumped	nCopv2	L_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0381833598731121	75	1
+Locke BMI EU sex combined 77 SNPs clumped	nE7ZC9	VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	240.14723632421	75	3.58547444887587e-19
+Locke BMI EU sex combined 77 SNPs clumped	nE7ZC9	VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	237.212484743814	74	5.52311575885655e-19
+Locke BMI EU sex combined 77 SNPs clumped	nE7ZC9	VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	240.149580132444	75	3.58253630106097e-19
+Locke BMI EU sex combined 77 SNPs clumped	nE7ZC9	VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0140346554366206	75	1
+Locke BMI EU sex combined 77 SNPs clumped	NksqvL	L_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	313.604209520676	75	6.20717220495373e-31
+Locke BMI EU sex combined 77 SNPs clumped	NksqvL	L_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	312.203751121925	74	5.13774324496021e-31
+Locke BMI EU sex combined 77 SNPs clumped	NksqvL	L_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	316.392375425153	75	2.12141818041307e-31
+Locke BMI EU sex combined 77 SNPs clumped	NksqvL	L_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0186974340297557	75	1
+Locke BMI EU sex combined 77 SNPs clumped	nqxhuj	XS_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	214.272767343205	75	2.44714491551792e-15
+Locke BMI EU sex combined 77 SNPs clumped	nqxhuj	XS_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	211.893020373028	74	3.14676248010412e-15
+Locke BMI EU sex combined 77 SNPs clumped	nqxhuj	XS_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	214.318787137855	75	2.41004138496094e-15
+Locke BMI EU sex combined 77 SNPs clumped	nqxhuj	XS_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0117537475536208	75	1
+Locke BMI EU sex combined 77 SNPs clumped	NZWxH7	Total_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	479.264054541215	75	3.16765823861709e-60
+Locke BMI EU sex combined 77 SNPs clumped	NZWxH7	Total_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	484.007101297215	74	1.64370419597457e-61
+Locke BMI EU sex combined 77 SNPs clumped	NZWxH7	Total_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	484.048304746558	75	4.15475167754437e-61
+Locke BMI EU sex combined 77 SNPs clumped	NZWxH7	Total_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0293086695933682	75	1
+Locke BMI EU sex combined 77 SNPs clumped	o3t7FX	S_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	631.19701700525	75	7.1736701620442e-89
+Locke BMI EU sex combined 77 SNPs clumped	o3t7FX	S_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	632.523009213655	74	1.3576630629308e-89
+Locke BMI EU sex combined 77 SNPs clumped	o3t7FX	S_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	632.567159622556	75	3.91263084496408e-89
+Locke BMI EU sex combined 77 SNPs clumped	o3t7FX	S_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0387592159273542	75	1
+Locke BMI EU sex combined 77 SNPs clumped	odZorx	S_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	823.906963755992	75	1.65899823757571e-126
+Locke BMI EU sex combined 77 SNPs clumped	odZorx	S_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	825.608308701344	74	2.27616400465645e-127
+Locke BMI EU sex combined 77 SNPs clumped	odZorx	S_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	825.608592987856	75	7.63766231328891e-127
+Locke BMI EU sex combined 77 SNPs clumped	odZorx	S_LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0501332550785946	75	1
+Locke BMI EU sex combined 77 SNPs clumped	OFlGK0	S_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	317.542128148256	75	1.36144138875174e-31
+Locke BMI EU sex combined 77 SNPs clumped	OFlGK0	S_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	315.62942601587	74	1.3681459571879e-31
+Locke BMI EU sex combined 77 SNPs clumped	OFlGK0	S_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	317.561818689998	75	1.35113347163764e-31
+Locke BMI EU sex combined 77 SNPs clumped	OFlGK0	S_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0189258871764341	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Ol1uwN	S_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	216.156298688407	75	1.30772254549184e-15
+Locke BMI EU sex combined 77 SNPs clumped	Ol1uwN	S_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	209.301433694493	74	7.42819519660304e-15
+Locke BMI EU sex combined 77 SNPs clumped	Ol1uwN	S_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	216.943067058499	75	1.00575602061901e-15
+Locke BMI EU sex combined 77 SNPs clumped	Ol1uwN	S_HDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0129298600960885	75	1
+Locke BMI EU sex combined 77 SNPs clumped	olrHrW	Val_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	109.853471937489	75	0.00541062245924063
+Locke BMI EU sex combined 77 SNPs clumped	olrHrW	Val_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	110.285635619662	74	0.00399266649477622
+Locke BMI EU sex combined 77 SNPs clumped	olrHrW	Val_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	110.321482419019	75	0.00496721342683365
+Locke BMI EU sex combined 77 SNPs clumped	olrHrW	Val_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00626393286849899	75	1
+Locke BMI EU sex combined 77 SNPs clumped	oNuDiu	M_LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	541.752107101491	75	7.33761485391028e-72
+Locke BMI EU sex combined 77 SNPs clumped	oNuDiu	M_LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	542.301107495362	74	2.12538691750758e-72
+Locke BMI EU sex combined 77 SNPs clumped	oNuDiu	M_LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	542.63947216166	75	4.99688919201881e-72
+Locke BMI EU sex combined 77 SNPs clumped	oNuDiu	M_LDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0334462670127629	75	1
+Locke BMI EU sex combined 77 SNPs clumped	OrHvGn	IDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	372.767495968209	75	4.62648545572893e-41
+Locke BMI EU sex combined 77 SNPs clumped	OrHvGn	IDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	375.471144558334	74	6.86135193505944e-42
+Locke BMI EU sex combined 77 SNPs clumped	OrHvGn	IDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	375.784957341103	75	1.37082640921588e-41
+Locke BMI EU sex combined 77 SNPs clumped	OrHvGn	IDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0245204546585645	75	1
+Locke BMI EU sex combined 77 SNPs clumped	OtkRhK	S_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	366.085878002078	75	6.78171205546984e-40
+Locke BMI EU sex combined 77 SNPs clumped	OtkRhK	S_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	363.468712767639	74	8.67205127468578e-40
+Locke BMI EU sex combined 77 SNPs clumped	OtkRhK	S_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	367.711770644671	75	3.53229856846468e-40
+Locke BMI EU sex combined 77 SNPs clumped	OtkRhK	S_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0214368946933991	75	1
+Locke BMI EU sex combined 77 SNPs clumped	OuHRfY	Glucose_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	113.197400630364	75	0.00290110859626533
+Locke BMI EU sex combined 77 SNPs clumped	OuHRfY	Glucose_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	113.245010471328	74	0.00226833500178797
+Locke BMI EU sex combined 77 SNPs clumped	OuHRfY	Glucose_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	113.286870876193	75	0.00285202169081208
+Locke BMI EU sex combined 77 SNPs clumped	OuHRfY	Glucose_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00499703146127935	75	1
+Locke BMI EU sex combined 77 SNPs clumped	oYimIo	LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	668.201538324613	75	5.25175403508212e-96
+Locke BMI EU sex combined 77 SNPs clumped	oYimIo	LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	670.668097914354	74	5.78204759017408e-97
+Locke BMI EU sex combined 77 SNPs clumped	oYimIo	LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	670.741801727788	75	1.69293946838228e-96
+Locke BMI EU sex combined 77 SNPs clumped	oYimIo	LDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0411047652811421	75	1
+Locke BMI EU sex combined 77 SNPs clumped	pirGUw	Omega_3_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	144.148598408579	75	2.81701258082718e-06
+Locke BMI EU sex combined 77 SNPs clumped	pirGUw	Omega_3_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	144.123852004223	74	1.99827233541564e-06
+Locke BMI EU sex combined 77 SNPs clumped	pirGUw	Omega_3_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	144.174641362458	75	2.79849383227515e-06
+Locke BMI EU sex combined 77 SNPs clumped	pirGUw	Omega_3_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.006401835973383	75	1
+Locke BMI EU sex combined 77 SNPs clumped	PlDD60	L_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	209.705351968646	75	1.10567940483402e-14
+Locke BMI EU sex combined 77 SNPs clumped	PlDD60	L_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	205.719763119833	74	2.41316540232752e-14
+Locke BMI EU sex combined 77 SNPs clumped	PlDD60	L_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	210.101083262713	75	9.70876849583392e-15
+Locke BMI EU sex combined 77 SNPs clumped	PlDD60	L_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0117706019854487	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Pwg1N7	HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	155.944943827226	75	1.27478696309843e-07
+Locke BMI EU sex combined 77 SNPs clumped	Pwg1N7	HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	149.200784002506	74	5.324197194977e-07
+Locke BMI EU sex combined 77 SNPs clumped	Pwg1N7	HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	155.95776420022	75	1.27036306714055e-07
+Locke BMI EU sex combined 77 SNPs clumped	Pwg1N7	HDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00898681308280387	75	1
+Locke BMI EU sex combined 77 SNPs clumped	pWlN2G	XS_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	389.963989679852	75	4.37945192545246e-44
+Locke BMI EU sex combined 77 SNPs clumped	pWlN2G	XS_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	390.966515783152	74	1.25863126556167e-44
+Locke BMI EU sex combined 77 SNPs clumped	pWlN2G	XS_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	394.355978557853	75	7.31389804184748e-45
+Locke BMI EU sex combined 77 SNPs clumped	pWlN2G	XS_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0234917182853805	75	1
+Locke BMI EU sex combined 77 SNPs clumped	PygMs5	VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	148.169463874681	75	1.00447539347409e-06
+Locke BMI EU sex combined 77 SNPs clumped	PygMs5	VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	141.672836337297	74	3.7287830689441e-06
+Locke BMI EU sex combined 77 SNPs clumped	PygMs5	VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	148.320815512367	75	9.6575111748811e-07
+Locke BMI EU sex combined 77 SNPs clumped	PygMs5	VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00858302402416151	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Q0bgsp	L_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	313.750419214152	75	5.86777406336274e-31
+Locke BMI EU sex combined 77 SNPs clumped	Q0bgsp	L_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	311.823579570255	74	5.94882395334096e-31
+Locke BMI EU sex combined 77 SNPs clumped	Q0bgsp	L_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	317.030636797465	75	1.65851154449316e-31
+Locke BMI EU sex combined 77 SNPs clumped	Q0bgsp	L_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0185288799316942	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Q4pQEH	Pyruvate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	77.527677308849	75	0.39803879175686
+Locke BMI EU sex combined 77 SNPs clumped	Q4pQEH	Pyruvate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	73.3848316552443	74	0.498338220755843
+Locke BMI EU sex combined 77 SNPs clumped	Q4pQEH	Pyruvate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	77.5828849504054	75	0.396340136890922
+Locke BMI EU sex combined 77 SNPs clumped	Q4pQEH	Pyruvate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00499623886126164	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Q6pCQE	XS_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	232.482992054182	75	5.13748393584432e-18
+Locke BMI EU sex combined 77 SNPs clumped	Q6pCQE	XS_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	230.546724989418	74	5.61472324023351e-18
+Locke BMI EU sex combined 77 SNPs clumped	Q6pCQE	XS_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	232.661323347577	75	4.83096613304584e-18
+Locke BMI EU sex combined 77 SNPs clumped	Q6pCQE	XS_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0129264865047713	75	1
+Locke BMI EU sex combined 77 SNPs clumped	QbJ3sj	XL_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	318.422916552278	75	9.68936385605772e-32
+Locke BMI EU sex combined 77 SNPs clumped	QbJ3sj	XL_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	317.578690370344	74	6.4319596397412e-32
+Locke BMI EU sex combined 77 SNPs clumped	QbJ3sj	XL_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	318.948207367185	75	7.90951699512231e-32
+Locke BMI EU sex combined 77 SNPs clumped	QbJ3sj	XL_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0184866590903995	75	1
+Locke BMI EU sex combined 77 SNPs clumped	QEH9YL	L_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	172.047775021163	75	1.36305156979293e-09
+Locke BMI EU sex combined 77 SNPs clumped	QEH9YL	L_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	169.98470346887	74	1.61666032209078e-09
+Locke BMI EU sex combined 77 SNPs clumped	QEH9YL	L_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	172.101297383985	75	1.34192197186369e-09
+Locke BMI EU sex combined 77 SNPs clumped	QEH9YL	L_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.010256771117173	75	1
+Locke BMI EU sex combined 77 SNPs clumped	qJlFP5	XXL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	68.2012040351986	75	0.697753703826733
+Locke BMI EU sex combined 77 SNPs clumped	qJlFP5	XXL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	68.1331473119339	74	0.67018204722256
+Locke BMI EU sex combined 77 SNPs clumped	qJlFP5	XXL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	68.2096586055704	75	0.697497214881356
+Locke BMI EU sex combined 77 SNPs clumped	qJlFP5	XXL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00379355317618886	75	1
+Locke BMI EU sex combined 77 SNPs clumped	qMuaV2	XXL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	83.6233784279983	75	0.231854648982712
+Locke BMI EU sex combined 77 SNPs clumped	qMuaV2	XXL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	83.4819466702596	74	0.21107958358084
+Locke BMI EU sex combined 77 SNPs clumped	qMuaV2	XXL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	83.6338471446482	75	0.231612361588602
+Locke BMI EU sex combined 77 SNPs clumped	qMuaV2	XXL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00491224450981815	75	1
+Locke BMI EU sex combined 77 SNPs clumped	qN2bmy	M_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	442.226456796785	75	1.88324414035836e-53
+Locke BMI EU sex combined 77 SNPs clumped	qN2bmy	M_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	439.533477820921	74	2.36511224830048e-53
+Locke BMI EU sex combined 77 SNPs clumped	qN2bmy	M_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	444.726571225818	75	6.62067652580608e-54
+Locke BMI EU sex combined 77 SNPs clumped	qN2bmy	M_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0255701311034792	75	1
+Locke BMI EU sex combined 77 SNPs clumped	QTLfpn	M_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	352.582664118296	75	1.48546670039713e-37
+Locke BMI EU sex combined 77 SNPs clumped	QTLfpn	M_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	352.626124100244	74	6.64237279001023e-38
+Locke BMI EU sex combined 77 SNPs clumped	QTLfpn	M_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	356.803909517688	75	2.77057936140095e-38
+Locke BMI EU sex combined 77 SNPs clumped	QTLfpn	M_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0207611024807939	75	1
+Locke BMI EU sex combined 77 SNPs clumped	qYeIAW	XL_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	299.750214902305	75	1.23320118168873e-28
+Locke BMI EU sex combined 77 SNPs clumped	qYeIAW	XL_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	294.948621392004	74	3.76954417980392e-28
+Locke BMI EU sex combined 77 SNPs clumped	qYeIAW	XL_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	302.989575509812	75	3.60201346468223e-29
+Locke BMI EU sex combined 77 SNPs clumped	qYeIAW	XL_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0168546613012955	75	1
+Locke BMI EU sex combined 77 SNPs clumped	qYwpfa	XXL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	130.634464580579	75	7.36816673051133e-05
+Locke BMI EU sex combined 77 SNPs clumped	qYwpfa	XXL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	123.933881645946	74	0.000247461894909312
+Locke BMI EU sex combined 77 SNPs clumped	qYwpfa	XXL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	130.789043696377	75	7.11162088908279e-05
+Locke BMI EU sex combined 77 SNPs clumped	qYwpfa	XXL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0070818092926545	75	1
+Locke BMI EU sex combined 77 SNPs clumped	rMZvLy	M_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	274.553959714185	75	1.52486521642349e-24
+Locke BMI EU sex combined 77 SNPs clumped	rMZvLy	M_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	275.405862218819	74	5.72710990496716e-25
+Locke BMI EU sex combined 77 SNPs clumped	rMZvLy	M_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	276.184621177322	75	8.35803005155323e-25
+Locke BMI EU sex combined 77 SNPs clumped	rMZvLy	M_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0170565195306467	75	1
+Locke BMI EU sex combined 77 SNPs clumped	rUtlUk	S_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	144.691221732875	75	2.45474939087074e-06
+Locke BMI EU sex combined 77 SNPs clumped	rUtlUk	S_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	141.293464562378	74	4.10312337327486e-06
+Locke BMI EU sex combined 77 SNPs clumped	rUtlUk	S_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	144.770177852041	75	2.40597511120764e-06
+Locke BMI EU sex combined 77 SNPs clumped	rUtlUk	S_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00824151932376601	75	1
+Locke BMI EU sex combined 77 SNPs clumped	RXqBkD	L_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	637.663480121492	75	4.09795267947651e-90
+Locke BMI EU sex combined 77 SNPs clumped	RXqBkD	L_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	642.147370758593	74	1.89741100747978e-91
+Locke BMI EU sex combined 77 SNPs clumped	RXqBkD	L_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	642.150106198225	75	5.61128646369319e-91
+Locke BMI EU sex combined 77 SNPs clumped	RXqBkD	L_LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.03895333033285	75	1
+Locke BMI EU sex combined 77 SNPs clumped	s3nnMr	S_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	211.277660743826	75	6.59118822505741e-15
+Locke BMI EU sex combined 77 SNPs clumped	s3nnMr	S_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	207.713192442569	74	1.25413897110839e-14
+Locke BMI EU sex combined 77 SNPs clumped	s3nnMr	S_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	211.311910324197	75	6.51718944324975e-15
+Locke BMI EU sex combined 77 SNPs clumped	s3nnMr	S_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0123920581633917	75	1
+Locke BMI EU sex combined 77 SNPs clumped	SIJcj1	His_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	89.0863115099586	75	0.12739593331025
+Locke BMI EU sex combined 77 SNPs clumped	SIJcj1	His_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	88.7044482054196	74	0.116869020683626
+Locke BMI EU sex combined 77 SNPs clumped	SIJcj1	His_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	89.1400248875433	75	0.126582186809734
+Locke BMI EU sex combined 77 SNPs clumped	SIJcj1	His_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00437720768229998	75	1
+Locke BMI EU sex combined 77 SNPs clumped	SIYThB	Phe_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	91.5832923472356	75	0.093596301052409
+Locke BMI EU sex combined 77 SNPs clumped	SIYThB	Phe_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	91.7217318414932	74	0.0795356003833813
+Locke BMI EU sex combined 77 SNPs clumped	SIYThB	Phe_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	91.7238553122417	75	0.0919282400031177
+Locke BMI EU sex combined 77 SNPs clumped	SIYThB	Phe_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00542134870943568	75	1
+Locke BMI EU sex combined 77 SNPs clumped	SJof3V	S_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	134.278236650459	75	3.15695661541891e-05
+Locke BMI EU sex combined 77 SNPs clumped	SJof3V	S_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	132.495090204518	74	3.51750471437449e-05
+Locke BMI EU sex combined 77 SNPs clumped	SJof3V	S_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	134.331489539754	75	3.11751360537394e-05
+Locke BMI EU sex combined 77 SNPs clumped	SJof3V	S_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00813222608314561	75	1
+Locke BMI EU sex combined 77 SNPs clumped	t4GVIO	XXL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	119.29120360881	75	0.000868105558346613
+Locke BMI EU sex combined 77 SNPs clumped	t4GVIO	XXL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	113.894973729138	74	0.00199759184360417
+Locke BMI EU sex combined 77 SNPs clumped	t4GVIO	XXL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	119.442851479123	75	0.000841491174457584
+Locke BMI EU sex combined 77 SNPs clumped	t4GVIO	XXL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00671223295693893	75	1
+Locke BMI EU sex combined 77 SNPs clumped	T58stH	S_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	149.020878656488	75	8.04804772967213e-07
+Locke BMI EU sex combined 77 SNPs clumped	T58stH	S_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	144.504508687032	74	1.81217220477879e-06
+Locke BMI EU sex combined 77 SNPs clumped	T58stH	S_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	149.046256127789	75	7.99492296952688e-07
+Locke BMI EU sex combined 77 SNPs clumped	T58stH	S_HDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00870822938961125	75	1
+Locke BMI EU sex combined 77 SNPs clumped	TAuIXf	S_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	390.342180362301	75	3.75462865461023e-44
+Locke BMI EU sex combined 77 SNPs clumped	TAuIXf	S_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	384.649042588315	74	1.6542925790385e-43
+Locke BMI EU sex combined 77 SNPs clumped	TAuIXf	S_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	391.315264673805	75	2.52631480393263e-44
+Locke BMI EU sex combined 77 SNPs clumped	TAuIXf	S_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0227935619563818	75	1
+Locke BMI EU sex combined 77 SNPs clumped	tBhkBx	LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	615.639095334126	75	6.91692280140402e-86
+Locke BMI EU sex combined 77 SNPs clumped	tBhkBx	LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	618.697491950013	74	6.1755584117597e-87
+Locke BMI EU sex combined 77 SNPs clumped	tBhkBx	LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	618.736808892292	75	1.76410439700914e-86
+Locke BMI EU sex combined 77 SNPs clumped	tBhkBx	LDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0377352834990738	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Tc69c6	bOHbutyrate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	124.195265237991	75	0.000309010857476895
+Locke BMI EU sex combined 77 SNPs clumped	Tc69c6	bOHbutyrate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	121.878402901992	74	0.000386546176381495
+Locke BMI EU sex combined 77 SNPs clumped	Tc69c6	bOHbutyrate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	124.273128850443	75	0.00030385578950187
+Locke BMI EU sex combined 77 SNPs clumped	Tc69c6	bOHbutyrate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00676817210813407	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Tnczra	IDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	514.602168056927	75	8.90487689290358e-67
+Locke BMI EU sex combined 77 SNPs clumped	Tnczra	IDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	518.191335365923	74	7.1592866454444e-68
+Locke BMI EU sex combined 77 SNPs clumped	Tnczra	IDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	518.267453796075	75	1.84384290593843e-67
+Locke BMI EU sex combined 77 SNPs clumped	Tnczra	IDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0306854131610342	75	1
+Locke BMI EU sex combined 77 SNPs clumped	TOheWf	XL_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	324.564669375673	75	8.97593797953659e-33
+Locke BMI EU sex combined 77 SNPs clumped	TOheWf	XL_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	322.239220699884	74	1.05267651940984e-32
+Locke BMI EU sex combined 77 SNPs clumped	TOheWf	XL_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	325.90487949723	75	5.33175689977339e-33
+Locke BMI EU sex combined 77 SNPs clumped	TOheWf	XL_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0192946624176918	75	1
+Locke BMI EU sex combined 77 SNPs clumped	tQlrou	Leu_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	98.5903065679111	75	0.0353142387916107
+Locke BMI EU sex combined 77 SNPs clumped	tQlrou	Leu_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	98.8116145694551	74	0.0286322980908149
+Locke BMI EU sex combined 77 SNPs clumped	tQlrou	Leu_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	98.8171272913248	75	0.0341289216595273
+Locke BMI EU sex combined 77 SNPs clumped	tQlrou	Leu_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00549969387952608	75	1
+Locke BMI EU sex combined 77 SNPs clumped	tqv86p	VLDL_size_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	156.80322692948	75	1.00958469025695e-07
+Locke BMI EU sex combined 77 SNPs clumped	tqv86p	VLDL_size_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	152.649704273738	74	2.11989569165033e-07
+Locke BMI EU sex combined 77 SNPs clumped	tqv86p	VLDL_size_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	157.132799647159	75	9.22842246377485e-08
+Locke BMI EU sex combined 77 SNPs clumped	tqv86p	VLDL_size_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0089607715654969	75	1
+Locke BMI EU sex combined 77 SNPs clumped	TtC9FT	IDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	614.942495303359	75	9.40365792974279e-86
+Locke BMI EU sex combined 77 SNPs clumped	TtC9FT	IDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	616.468238968082	74	1.65394926066163e-86
+Locke BMI EU sex combined 77 SNPs clumped	TtC9FT	IDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	616.734022228384	75	4.26793050680951e-86
+Locke BMI EU sex combined 77 SNPs clumped	TtC9FT	IDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0373832765378509	75	1
+Locke BMI EU sex combined 77 SNPs clumped	TUmQlh	S_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	310.719231491258	75	1.8795605667914e-30
+Locke BMI EU sex combined 77 SNPs clumped	TUmQlh	S_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	308.284637339789	74	2.32228676737362e-30
+Locke BMI EU sex combined 77 SNPs clumped	TUmQlh	S_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	310.719231491258	75	1.87956056679145e-30
+Locke BMI EU sex combined 77 SNPs clumped	TUmQlh	S_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0185104079322082	75	1
+Locke BMI EU sex combined 77 SNPs clumped	TvMZ0z	Acetoacetate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	83.5794885248918	75	0.232872188327137
+Locke BMI EU sex combined 77 SNPs clumped	TvMZ0z	Acetoacetate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	83.6705426321251	74	0.206972638043394
+Locke BMI EU sex combined 77 SNPs clumped	TvMZ0z	Acetoacetate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	83.6726688364298	75	0.230715282036258
+Locke BMI EU sex combined 77 SNPs clumped	TvMZ0z	Acetoacetate_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00459924009585593	75	1
+Locke BMI EU sex combined 77 SNPs clumped	TW7NRd	XL_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	312.658953675854	75	8.92671571152551e-31
+Locke BMI EU sex combined 77 SNPs clumped	TW7NRd	XL_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	308.511007769505	74	2.128831220772e-30
+Locke BMI EU sex combined 77 SNPs clumped	TW7NRd	XL_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	316.595675416739	75	1.96146568843004e-31
+Locke BMI EU sex combined 77 SNPs clumped	TW7NRd	XL_HDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0173415204656929	75	1
+Locke BMI EU sex combined 77 SNPs clumped	tZS0y7	S_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	133.985092430979	75	3.38286759076979e-05
+Locke BMI EU sex combined 77 SNPs clumped	tZS0y7	S_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	132.906317551036	74	3.19134130677296e-05
+Locke BMI EU sex combined 77 SNPs clumped	tZS0y7	S_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	134.08744131824	75	3.30227258058219e-05
+Locke BMI EU sex combined 77 SNPs clumped	tZS0y7	S_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00816153996061537	75	1
+Locke BMI EU sex combined 77 SNPs clumped	u6gVpb	LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	717.880744311531	75	1.16343991757543e-105
+Locke BMI EU sex combined 77 SNPs clumped	u6gVpb	LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	722.806671141725	74	4.04698534854757e-107
+Locke BMI EU sex combined 77 SNPs clumped	u6gVpb	LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	722.922983402388	75	1.20627211959103e-106
+Locke BMI EU sex combined 77 SNPs clumped	u6gVpb	LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0440863526032388	75	1
+Locke BMI EU sex combined 77 SNPs clumped	UA7Vf1	M_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	354.368531732896	75	7.30455316865682e-38
+Locke BMI EU sex combined 77 SNPs clumped	UA7Vf1	M_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	353.696190537123	74	4.33513366884443e-38
+Locke BMI EU sex combined 77 SNPs clumped	UA7Vf1	M_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	354.677857828059	75	6.45890137830509e-38
+Locke BMI EU sex combined 77 SNPs clumped	UA7Vf1	M_VLDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0210444834897378	75	1
+Locke BMI EU sex combined 77 SNPs clumped	uD9M3M	L_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	476.361709027638	75	1.08431993937225e-59
+Locke BMI EU sex combined 77 SNPs clumped	uD9M3M	L_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	477.175617714775	74	3.00670954510521e-60
+Locke BMI EU sex combined 77 SNPs clumped	uD9M3M	L_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	481.730821218716	75	1.1119144774466e-60
+Locke BMI EU sex combined 77 SNPs clumped	uD9M3M	L_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0277313849539795	75	1
+Locke BMI EU sex combined 77 SNPs clumped	udsyll	XL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	161.635335832956	75	2.66467220670568e-08
+Locke BMI EU sex combined 77 SNPs clumped	udsyll	XL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	153.798075778212	74	1.55406783238195e-07
+Locke BMI EU sex combined 77 SNPs clumped	udsyll	XL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	161.882201441412	75	2.48727207252498e-08
+Locke BMI EU sex combined 77 SNPs clumped	udsyll	XL_VLDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00952190986657815	75	1
+Locke BMI EU sex combined 77 SNPs clumped	UdVw06	L_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	282.786131862317	75	7.23614470514695e-26
+Locke BMI EU sex combined 77 SNPs clumped	UdVw06	L_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	272.286147840513	74	1.81542240217807e-24
+Locke BMI EU sex combined 77 SNPs clumped	UdVw06	L_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	285.391458848401	75	2.74030217612691e-26
+Locke BMI EU sex combined 77 SNPs clumped	UdVw06	L_HDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0153881264325353	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Uf8Fm2	M_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	284.216247068194	75	4.24799981756111e-26
+Locke BMI EU sex combined 77 SNPs clumped	Uf8Fm2	M_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	274.693998620374	74	7.45484825935779e-25
+Locke BMI EU sex combined 77 SNPs clumped	Uf8Fm2	M_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	287.24489304941	75	1.37089922840496e-26
+Locke BMI EU sex combined 77 SNPs clumped	Uf8Fm2	M_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0159555820017117	75	1
+Locke BMI EU sex combined 77 SNPs clumped	uFHECI	ApoA1_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	246.55603169196	75	3.76387929149304e-20
+Locke BMI EU sex combined 77 SNPs clumped	uFHECI	ApoA1_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	247.868062523133	74	1.28096458445666e-20
+Locke BMI EU sex combined 77 SNPs clumped	uFHECI	ApoA1_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	248.319578745827	75	2.01562804059927e-20
+Locke BMI EU sex combined 77 SNPs clumped	uFHECI	ApoA1_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.015250550024409	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Ur0mdk	HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	294.071567431826	75	1.05583782536387e-27
+Locke BMI EU sex combined 77 SNPs clumped	Ur0mdk	HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	293.858962105863	74	5.69568992117798e-28
+Locke BMI EU sex combined 77 SNPs clumped	Ur0mdk	HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	296.973351737152	75	3.52994585146981e-28
+Locke BMI EU sex combined 77 SNPs clumped	Ur0mdk	HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0180078370428333	75	1
+Locke BMI EU sex combined 77 SNPs clumped	UvEmT9	L_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	429.241401403967	75	4.21427935832348e-51
+Locke BMI EU sex combined 77 SNPs clumped	UvEmT9	L_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	431.376820922274	74	7.14122379956776e-52
+Locke BMI EU sex combined 77 SNPs clumped	UvEmT9	L_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	433.706097520761	75	6.58191022843558e-52
+Locke BMI EU sex combined 77 SNPs clumped	UvEmT9	L_LDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0262181149711001	75	1
+Locke BMI EU sex combined 77 SNPs clumped	uVxtcO	M_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	458.483676508708	75	2.06057788450048e-56
+Locke BMI EU sex combined 77 SNPs clumped	uVxtcO	M_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	459.494839203009	74	5.37099586413645e-57
+Locke BMI EU sex combined 77 SNPs clumped	uVxtcO	M_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	459.703722388519	75	1.23301980512684e-56
+Locke BMI EU sex combined 77 SNPs clumped	uVxtcO	M_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0273655478731271	75	1
+Locke BMI EU sex combined 77 SNPs clumped	uW3YfX	S_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	160.367379611129	75	3.79113722721355e-08
+Locke BMI EU sex combined 77 SNPs clumped	uW3YfX	S_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	160.821109236584	74	2.23562283946372e-08
+Locke BMI EU sex combined 77 SNPs clumped	uW3YfX	S_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	160.823192381048	75	3.34064141191431e-08
+Locke BMI EU sex combined 77 SNPs clumped	uW3YfX	S_LDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00963746131257207	75	1
+Locke BMI EU sex combined 77 SNPs clumped	v5n6BW	XL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	302.161058279336	75	4.9365071843381e-29
+Locke BMI EU sex combined 77 SNPs clumped	v5n6BW	XL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	295.562024683866	74	2.98735678822427e-28
+Locke BMI EU sex combined 77 SNPs clumped	v5n6BW	XL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	303.108146399956	75	3.44308237486602e-29
+Locke BMI EU sex combined 77 SNPs clumped	v5n6BW	XL_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0177071574642168	75	1
+Locke BMI EU sex combined 77 SNPs clumped	VdcvxX	ApoB_by_ApoA1_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	554.233132194779	75	3.27252015874877e-74
+Locke BMI EU sex combined 77 SNPs clumped	VdcvxX	ApoB_by_ApoA1_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	553.765897321893	74	1.45752173917192e-74
+Locke BMI EU sex combined 77 SNPs clumped	VdcvxX	ApoB_by_ApoA1_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	554.430988801302	75	3.00298358717526e-74
+Locke BMI EU sex combined 77 SNPs clumped	VdcvxX	ApoB_by_ApoA1_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0335268187613439	75	1
+Locke BMI EU sex combined 77 SNPs clumped	VoujM6	XL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	200.202181554935	75	2.41404839486252e-13
+Locke BMI EU sex combined 77 SNPs clumped	VoujM6	XL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	195.64688581036	74	6.26091374347957e-13
+Locke BMI EU sex combined 77 SNPs clumped	VoujM6	XL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	200.325493525785	75	2.32050959484694e-13
+Locke BMI EU sex combined 77 SNPs clumped	VoujM6	XL_VLDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0119206434879351	75	1
+Locke BMI EU sex combined 77 SNPs clumped	VR6F95	S_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	126.433539828366	75	0.000189554494486037
+Locke BMI EU sex combined 77 SNPs clumped	VR6F95	S_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	122.561012147368	74	0.000333668173401178
+Locke BMI EU sex combined 77 SNPs clumped	VR6F95	S_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	126.458987431442	75	0.000188492883381647
+Locke BMI EU sex combined 77 SNPs clumped	VR6F95	S_HDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00739731297265693	75	1
+Locke BMI EU sex combined 77 SNPs clumped	vTrK1e	Albumin_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	93.8117765850017	75	0.0698376307364809
+Locke BMI EU sex combined 77 SNPs clumped	vTrK1e	Albumin_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	93.438866462494	74	0.0630271525116244
+Locke BMI EU sex combined 77 SNPs clumped	vTrK1e	Albumin_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	94.2245129456197	75	0.0660326688407672
+Locke BMI EU sex combined 77 SNPs clumped	vTrK1e	Albumin_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00543036881416424	75	1
+Locke BMI EU sex combined 77 SNPs clumped	vx2R90	XXL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	175.438569031843	75	5.03287974449361e-10
+Locke BMI EU sex combined 77 SNPs clumped	vx2R90	XXL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	174.301399100126	74	4.5288014412115e-10
+Locke BMI EU sex combined 77 SNPs clumped	vx2R90	XXL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	176.08698848219	75	4.15358779356605e-10
+Locke BMI EU sex combined 77 SNPs clumped	vx2R90	XXL_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.010568057733572	75	1
+Locke BMI EU sex combined 77 SNPs clumped	vXxWYB	M_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	253.394268174865	75	3.30856808433505e-21
+Locke BMI EU sex combined 77 SNPs clumped	vXxWYB	M_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	250.828129408482	74	4.44980003276256e-21
+Locke BMI EU sex combined 77 SNPs clumped	vXxWYB	M_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	253.400078816107	75	3.30170217860437e-21
+Locke BMI EU sex combined 77 SNPs clumped	vXxWYB	M_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0150356237249584	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Wg1faH	L_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	308.342645597825	75	4.67112936918269e-30
+Locke BMI EU sex combined 77 SNPs clumped	Wg1faH	L_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	300.910265172558	74	3.9074143574127e-29
+Locke BMI EU sex combined 77 SNPs clumped	Wg1faH	L_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	310.700441447017	75	1.89315336640301e-30
+Locke BMI EU sex combined 77 SNPs clumped	Wg1faH	L_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0187209333419623	75	1
+Locke BMI EU sex combined 77 SNPs clumped	WJa49B	M_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	180.363434690304	75	1.15708551298948e-10
+Locke BMI EU sex combined 77 SNPs clumped	WJa49B	M_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	178.412646658153	74	1.32174237671618e-10
+Locke BMI EU sex combined 77 SNPs clumped	WJa49B	M_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	180.467421779448	75	1.12140102441696e-10
+Locke BMI EU sex combined 77 SNPs clumped	WJa49B	M_LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0107195901436939	75	1
+Locke BMI EU sex combined 77 SNPs clumped	wje06k	S_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	316.678443971255	75	1.89984454502395e-31
+Locke BMI EU sex combined 77 SNPs clumped	wje06k	S_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	310.817546432332	74	8.76553672357046e-31
+Locke BMI EU sex combined 77 SNPs clumped	wje06k	S_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	317.753849376509	75	1.25460003789961e-31
+Locke BMI EU sex combined 77 SNPs clumped	wje06k	S_LDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0182477021462966	75	1
+Locke BMI EU sex combined 77 SNPs clumped	WOeBOG	IDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	235.813099751298	75	1.62320914398908e-18
+Locke BMI EU sex combined 77 SNPs clumped	WOeBOG	IDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	236.097805943451	74	8.15562691430345e-19
+Locke BMI EU sex combined 77 SNPs clumped	WOeBOG	IDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	236.206879421594	75	1.41579738812816e-18
+Locke BMI EU sex combined 77 SNPs clumped	WOeBOG	IDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0156582914808794	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Ws0eGW	XL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	165.003793916118	75	1.03373707445717e-08
+Locke BMI EU sex combined 77 SNPs clumped	Ws0eGW	XL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	158.473016235124	74	4.30716486708619e-08
+Locke BMI EU sex combined 77 SNPs clumped	Ws0eGW	XL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	165.216775324149	75	9.73185753956529e-09
+Locke BMI EU sex combined 77 SNPs clumped	Ws0eGW	XL_VLDL_L_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00969247110853213	75	1
+Locke BMI EU sex combined 77 SNPs clumped	WtuY7E	LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	550.857069145542	75	1.41752389526502e-73
+Locke BMI EU sex combined 77 SNPs clumped	WtuY7E	LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	551.891879371208	74	3.29436662023942e-74
+Locke BMI EU sex combined 77 SNPs clumped	WtuY7E	LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	552.056726831803	75	8.42111669821418e-74
+Locke BMI EU sex combined 77 SNPs clumped	WtuY7E	LDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0332131119536985	75	1
+Locke BMI EU sex combined 77 SNPs clumped	WvP1GG	M_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	430.528831616408	75	2.46815314654255e-51
+Locke BMI EU sex combined 77 SNPs clumped	WvP1GG	M_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	425.666452628345	74	7.70142392353268e-51
+Locke BMI EU sex combined 77 SNPs clumped	WvP1GG	M_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	433.277023749793	75	7.8690055349629e-52
+Locke BMI EU sex combined 77 SNPs clumped	WvP1GG	M_VLDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0250762379718015	75	1
+Locke BMI EU sex combined 77 SNPs clumped	wYBiqs	L_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	218.104313437544	75	6.82071652133328e-16
+Locke BMI EU sex combined 77 SNPs clumped	wYBiqs	L_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	218.04360295771	74	4.01447167247419e-16
+Locke BMI EU sex combined 77 SNPs clumped	wYBiqs	L_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	218.110030607774	75	6.80767074508281e-16
+Locke BMI EU sex combined 77 SNPs clumped	wYBiqs	L_VLDL_TG_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0125089349887155	75	1
+Locke BMI EU sex combined 77 SNPs clumped	x4HaG0	L_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	686.344366132167	75	1.59921525932971e-99
+Locke BMI EU sex combined 77 SNPs clumped	x4HaG0	L_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	692.508767101194	74	3.30250089091308e-101
+Locke BMI EU sex combined 77 SNPs clumped	x4HaG0	L_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	692.662954650915	75	9.47634554354015e-101
+Locke BMI EU sex combined 77 SNPs clumped	x4HaG0	L_LDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0420730825145387	75	1
+Locke BMI EU sex combined 77 SNPs clumped	x9T9SI	Creatinine_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	128.445720223677	75	0.000121085320084457
+Locke BMI EU sex combined 77 SNPs clumped	x9T9SI	Creatinine_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	127.759670872195	74	0.00010537623929505
+Locke BMI EU sex combined 77 SNPs clumped	x9T9SI	Creatinine_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	128.504638649827	75	0.000119491895547728
+Locke BMI EU sex combined 77 SNPs clumped	x9T9SI	Creatinine_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00613204898147678	75	1
+Locke BMI EU sex combined 77 SNPs clumped	XDUbPO	XS_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	157.588454893281	75	8.14851170857131e-08
+Locke BMI EU sex combined 77 SNPs clumped	XDUbPO	XS_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	158.190639700617	74	4.65826040736947e-08
+Locke BMI EU sex combined 77 SNPs clumped	XDUbPO	XS_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	159.633164385176	75	4.64526978505736e-08
+Locke BMI EU sex combined 77 SNPs clumped	XDUbPO	XS_VLDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0107131861811756	75	1
+Locke BMI EU sex combined 77 SNPs clumped	xFLFgo	L_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	170.911598120402	75	1.89757848442627e-09
+Locke BMI EU sex combined 77 SNPs clumped	xFLFgo	L_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	165.360069198938	74	6.16636298819286e-09
+Locke BMI EU sex combined 77 SNPs clumped	xFLFgo	L_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	171.080971760662	75	1.80643276756399e-09
+Locke BMI EU sex combined 77 SNPs clumped	xFLFgo	L_VLDL_P_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0101528815888031	75	1
+Locke BMI EU sex combined 77 SNPs clumped	xIwNkh	L_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	337.667594755842	75	5.37543385283813e-35
+Locke BMI EU sex combined 77 SNPs clumped	xIwNkh	L_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	327.567893866863	74	1.31712072927166e-33
+Locke BMI EU sex combined 77 SNPs clumped	xIwNkh	L_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	341.175984320333	75	1.35275818197849e-35
+Locke BMI EU sex combined 77 SNPs clumped	xIwNkh	L_HDL_C_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0187758861980185	75	1
+Locke BMI EU sex combined 77 SNPs clumped	XMyqXN	XS_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	346.139988474671	75	1.90816225621665e-36
+Locke BMI EU sex combined 77 SNPs clumped	XMyqXN	XS_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	347.113049359309	74	5.95452120384706e-37
+Locke BMI EU sex combined 77 SNPs clumped	XMyqXN	XS_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	347.883831488714	75	9.5726842020033e-37
+Locke BMI EU sex combined 77 SNPs clumped	XMyqXN	XS_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0198766545337153	75	1
+Locke BMI EU sex combined 77 SNPs clumped	xoSsHd	LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	171.050745954965	75	1.82237570194193e-09
+Locke BMI EU sex combined 77 SNPs clumped	xoSsHd	LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	168.797018089331	74	2.28563968726615e-09
+Locke BMI EU sex combined 77 SNPs clumped	xoSsHd	LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	171.123030263981	75	1.78447713193894e-09
+Locke BMI EU sex combined 77 SNPs clumped	xoSsHd	LDL_TG_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0101408404299175	75	1
+Locke BMI EU sex combined 77 SNPs clumped	Y9qoty	IDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	171.824569992319	75	1.45476292657196e-09
+Locke BMI EU sex combined 77 SNPs clumped	Y9qoty	IDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	165.422079900685	74	6.05770889944408e-09
+Locke BMI EU sex combined 77 SNPs clumped	Y9qoty	IDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	172.026442862657	75	1.37156424760634e-09
+Locke BMI EU sex combined 77 SNPs clumped	Y9qoty	IDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0089766591306317	75	1
+Locke BMI EU sex combined 77 SNPs clumped	yh7pXc	HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	293.038193677335	75	1.55841915006149e-27
+Locke BMI EU sex combined 77 SNPs clumped	yh7pXc	HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	293.132543438504	74	7.49775044049398e-28
+Locke BMI EU sex combined 77 SNPs clumped	yh7pXc	HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	296.005369245744	75	5.08934969245344e-28
+Locke BMI EU sex combined 77 SNPs clumped	yh7pXc	HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0178948044446295	75	1
+Locke BMI EU sex combined 77 SNPs clumped	YKGLDT	M_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	281.063932002675	75	1.37261304658406e-25
+Locke BMI EU sex combined 77 SNPs clumped	YKGLDT	M_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	280.371490551219	74	9.04484417079494e-26
+Locke BMI EU sex combined 77 SNPs clumped	YKGLDT	M_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	281.192432003346	75	1.30864675168847e-25
+Locke BMI EU sex combined 77 SNPs clumped	YKGLDT	M_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0172796951296446	75	1
+Locke BMI EU sex combined 77 SNPs clumped	YN3Jka	M_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	414.776986370074	75	1.68007932766132e-48
+Locke BMI EU sex combined 77 SNPs clumped	YN3Jka	M_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	409.2442789979	74	6.93408855450203e-48
+Locke BMI EU sex combined 77 SNPs clumped	YN3Jka	M_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	417.461365724895	75	5.5474853428376e-49
+Locke BMI EU sex combined 77 SNPs clumped	YN3Jka	M_VLDL_CE_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0241952427648495	75	1
+Locke BMI EU sex combined 77 SNPs clumped	yPYPXr	XXL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	141.530246522693	75	5.43620271583707e-06
+Locke BMI EU sex combined 77 SNPs clumped	yPYPXr	XXL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	134.022614807503	74	2.4465971928981e-05
+Locke BMI EU sex combined 77 SNPs clumped	yPYPXr	XXL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	141.7888745389	75	5.09701272062623e-06
+Locke BMI EU sex combined 77 SNPs clumped	yPYPXr	XXL_VLDL_PL_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.00822609526609254	75	1
+Locke BMI EU sex combined 77 SNPs clumped	ysDtAJ	M_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	271.418370854356	75	4.82847735785907e-24
+Locke BMI EU sex combined 77 SNPs clumped	ysDtAJ	M_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	272.384648005741	74	1.75060632297629e-24
+Locke BMI EU sex combined 77 SNPs clumped	ysDtAJ	M_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	273.08479558855	75	2.61836093795977e-24
+Locke BMI EU sex combined 77 SNPs clumped	ysDtAJ	M_HDL_C_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0168632912991723	75	1
+Locke BMI EU sex combined 77 SNPs clumped	yVI79R	S_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	636.456293634634	75	6.99474346102716e-90
+Locke BMI EU sex combined 77 SNPs clumped	yVI79R	S_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	635.213908679207	74	4.11726064822078e-90
+Locke BMI EU sex combined 77 SNPs clumped	yVI79R	S_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	636.460636870548	75	6.98130258584332e-90
+Locke BMI EU sex combined 77 SNPs clumped	yVI79R	S_HDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0388147026175313	75	1
+Locke BMI EU sex combined 77 SNPs clumped	YWLSTz	S_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	474.03189414889	75	2.90893193200469e-59
+Locke BMI EU sex combined 77 SNPs clumped	YWLSTz	S_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	473.411431147189	74	1.48682234097487e-59
+Locke BMI EU sex combined 77 SNPs clumped	YWLSTz	S_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	479.07650647336	75	3.42996481762003e-60
+Locke BMI EU sex combined 77 SNPs clumped	YWLSTz	S_HDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0269409270292362	75	1
+Locke BMI EU sex combined 77 SNPs clumped	YwXLzk	L_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	133.781653871556	75	3.54874768117823e-05
+Locke BMI EU sex combined 77 SNPs clumped	YwXLzk	L_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	133.849712873451	74	2.54978706301653e-05
+Locke BMI EU sex combined 77 SNPs clumped	YwXLzk	L_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	133.916611306959	75	3.43785123577511e-05
+Locke BMI EU sex combined 77 SNPs clumped	YwXLzk	L_LDL_PL_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0066797257018483	75	1
+Locke BMI EU sex combined 77 SNPs clumped	z7Uodv	XL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	243.261649661606	75	1.20274181026214e-19
+Locke BMI EU sex combined 77 SNPs clumped	z7Uodv	XL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	234.375287001691	74	1.48719810436194e-18
+Locke BMI EU sex combined 77 SNPs clumped	z7Uodv	XL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	243.827919451356	75	9.85478365435041e-20
+Locke BMI EU sex combined 77 SNPs clumped	z7Uodv	XL_VLDL_FC_pct_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0142662132101094	75	1
+Locke BMI EU sex combined 77 SNPs clumped	ZHSzmK	L_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	319.968448684158	75	5.33126214627031e-32
+Locke BMI EU sex combined 77 SNPs clumped	ZHSzmK	L_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	316.625592040006	74	9.30442265552111e-32
+Locke BMI EU sex combined 77 SNPs clumped	ZHSzmK	L_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	323.563507077221	75	1.32400453941264e-32
+Locke BMI EU sex combined 77 SNPs clumped	ZHSzmK	L_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0188002303011354	75	1
+Locke BMI EU sex combined 77 SNPs clumped	ZJsqtj	IDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	568.300693910309	75	7.1757222886e-77
+Locke BMI EU sex combined 77 SNPs clumped	ZJsqtj	IDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	572.70816726418	74	3.75050493623223e-78
+Locke BMI EU sex combined 77 SNPs clumped	ZJsqtj	IDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	572.784178571536	75	1.01475522147394e-77
+Locke BMI EU sex combined 77 SNPs clumped	ZJsqtj	IDL_FC_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0343653900708031	75	1
+Locke BMI EU sex combined 77 SNPs clumped	zmpQqS	XL_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	329.457106914123	75	1.33669847500663e-33
+Locke BMI EU sex combined 77 SNPs clumped	zmpQqS	XL_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	324.537587722546	74	4.29993715306182e-33
+Locke BMI EU sex combined 77 SNPs clumped	zmpQqS	XL_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	333.412282532404	75	2.85043508873627e-34
+Locke BMI EU sex combined 77 SNPs clumped	zmpQqS	XL_HDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0187420875563226	75	1
+Locke BMI EU sex combined 77 SNPs clumped	ZsTefs	M_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Maximum likelihood	524.549329932962	75	1.23529668531407e-68
+Locke BMI EU sex combined 77 SNPs clumped	ZsTefs	M_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	MR Egger	526.722953454746	74	1.80486934589608e-69
+Locke BMI EU sex combined 77 SNPs clumped	ZsTefs	M_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Inverse variance weighted	526.731502178753	75	4.82434836852396e-69
+Locke BMI EU sex combined 77 SNPs clumped	ZsTefs	M_VLDL_CE_int_imputed.txt_adiposity_instruments.txt	Locke BMI EU sex combined 77 SNPs clumped	Unweighted regression	0.0313661612433584	75	1

@@ -1,0 +1,250 @@
+name	Biomarker name	Unit	Group	Subgroup	Subgroup_unit	derived
+Total_C	Total cholesterol	mmol/l	Cholesterol	Cholesterol		no
+non_HDL_C	Total cholesterol minus HDL-C	mmol/l	Cholesterol	Cholesterol		no
+Remnant_C	"Remnant cholesterol (non-HDL, non-LDL -cholesterol)"	mmol/l	Cholesterol	Cholesterol		no
+VLDL_C	VLDL cholesterol	mmol/l	Cholesterol	Cholesterol		no
+Clinical_LDL_C	Clinical LDL cholesterol	mmol/l	Cholesterol	Cholesterol		no
+LDL_C	LDL cholesterol	mmol/l	Cholesterol	Cholesterol		no
+HDL_C	HDL cholesterol	mmol/l	Cholesterol	Cholesterol		no
+Total_TG	Total triglycerides	mmol/l	Triglycerides	Triglycerides		no
+VLDL_TG	Triglycerides in VLDL	mmol/l	Triglycerides	Triglycerides		no
+LDL_TG	Triglycerides in LDL	mmol/l	Triglycerides	Triglycerides		no
+HDL_TG	Triglycerides in HDL	mmol/l	Triglycerides	Triglycerides		no
+Total_PL	Total phospholipids in lipoprotein particles	mmol/l	Phospholipids	Phospholipids		no
+VLDL_PL	Phospholipids in VLDL	mmol/l	Phospholipids	Phospholipids		no
+LDL_PL	Phospholipids in LDL	mmol/l	Phospholipids	Phospholipids		no
+HDL_PL	Phospholipids in HDL	mmol/l	Phospholipids	Phospholipids		no
+Total_CE	Total esterified cholesterol	mmol/l	Cholesteryl esters	Cholesteryl esters		no
+VLDL_CE	Cholesteryl esters in VLDL	mmol/l	Cholesteryl esters	Cholesteryl esters		no
+LDL_CE	Cholesteryl esters in LDL	mmol/l	Cholesteryl esters	Cholesteryl esters		no
+HDL_CE	Cholesteryl esters in HDL	mmol/l	Cholesteryl esters	Cholesteryl esters		no
+Total_FC	Total free cholesterol	mmol/l	Free cholesterol	Free cholesterol		no
+VLDL_FC	Free cholesterol in VLDL	mmol/l	Free cholesterol	Free cholesterol		no
+LDL_FC	Free cholesterol in LDL	mmol/l	Free cholesterol	Free cholesterol		no
+HDL_FC	Free cholesterol in HDL	mmol/l	Free cholesterol	Free cholesterol		no
+Total_L	Total lipids in lipoprotein particles	mmol/l	Total lipids	Total lipids		no
+VLDL_L	Total lipids in VLDL	mmol/l	Total lipids	Total lipids		no
+LDL_L	Total lipids in LDL	mmol/l	Total lipids	Total lipids		no
+HDL_L	Total lipids in HDL	mmol/l	Total lipids	Total lipids		no
+Total_P	Total concentration of lipoprotein particles	mmol/l	Lipoprotein particle concentrations	Lipoprotein particle concentrations		no
+VLDL_P	Concentration of VLDL particles	mmol/l	Lipoprotein particle concentrations	Lipoprotein particle concentrations		no
+LDL_P	Concentration of LDL particles	mmol/l	Lipoprotein particle concentrations	Lipoprotein particle concentrations		no
+HDL_P	Concentration of HDL particles	mmol/l	Lipoprotein particle concentrations	Lipoprotein particle concentrations		no
+VLDL_size	Average diameter for VLDL particles	nm	Lipoprotein particle sizes	Lipoprotein particle sizes		no
+LDL_size	Average diameter for LDL particles	nm	Lipoprotein particle sizes	Lipoprotein particle sizes		no
+HDL_size	Average diameter for HDL particles	nm	Lipoprotein particle sizes	Lipoprotein particle sizes		no
+Phosphoglyc	Phosphoglycerides	mmol/l	Other lipids	Other lipids		no
+TG_by_PG	Ratio of triglycerides to phosphoglycerides	ratio	Other lipids	Other lipids		no
+Cholines	Total cholines	mmol/l	Other lipids	Other lipids		no
+Phosphatidylc	Phosphatidylcholines	mmol/l	Other lipids	Other lipids		no
+Sphingomyelins	Sphingomyelins	mmol/l	Other lipids	Other lipids		no
+ApoB	Apolipoprotein B	g/l	Apolipoproteins	Apolipoproteins		no
+ApoA1	Apolipoprotein A1	g/l	Apolipoproteins	Apolipoproteins		no
+ApoB_by_ApoA1	Ratio of apolipoprotein B to apolipoprotein A1	ratio	Apolipoproteins	Apolipoproteins		no
+Total_FA	Total fatty acids	mmol/l	Fatty acids	Fatty acids		no
+Unsaturation	Degree of unsaturation	degree	Fatty acids	Fatty acids		no
+Omega_3	Omega-3 fatty acids	mmol/l	Fatty acids	Fatty acids		no
+Omega_6	Omega-6 fatty acids	mmol/l	Fatty acids	Fatty acids		no
+PUFA	Polyunsaturated fatty acids	mmol/l	Fatty acids	Fatty acids		no
+MUFA	Monounsaturated fatty acids	mmol/l	Fatty acids	Fatty acids		no
+SFA	Saturated fatty acids	mmol/l	Fatty acids	Fatty acids		no
+LA	Linoleic acid	mmol/l	Fatty acids	Fatty acids		no
+DHA	Docosahexaenoic acid	mmol/l	Fatty acids	Fatty acids		no
+Omega_3_pct	Ratio of omega-3 fatty acids to total fatty acids	%	Fatty acids	Fatty acid ratios		yes
+Omega_6_pct	Ratio of omega-6 fatty acids to total fatty acids	%	Fatty acids	Fatty acid ratios		yes
+PUFA_pct	Ratio of polyunsaturated fatty acids to total fatty acids	%	Fatty acids	Fatty acid ratios		yes
+MUFA_pct	Ratio of monounsaturated fatty acids to total fatty acids	%	Fatty acids	Fatty acid ratios		yes
+SFA_pct	Ratio of saturated fatty acids to total fatty acids	%	Fatty acids	Fatty acid ratios		yes
+LA_pct	Ratio of linoleic acid to total fatty acids	%	Fatty acids	Fatty acid ratios		yes
+DHA_pct	Ratio of docosahexaenoic acid to total fatty acids	%	Fatty acids	Fatty acid ratios		yes
+PUFA_by_MUFA	Ratio of polyunsaturated fatty acids to monounsaturated fatty acids	ratio	Fatty acids	Fatty acid ratios		yes
+Omega_6_by_Omega_3	Ratio of omega-6 fatty acids to omega-3 fatty acids	ratio	Fatty acids	Fatty acid ratios		yes
+Ala	Alanine	mmol/l	Amino acids	Amino acids		no
+Gln	Glutamine	mmol/l	Amino acids	Amino acids		no
+Gly	Glycine	mmol/l	Amino acids	Amino acids		no
+His	Histidine	mmol/l	Amino acids	Amino acids		no
+Total_BCAA	Total concentration of branched-chain amino acids (leucine + isoleucine + valine)	mmol/l	Amino acids	Branched-chain amino acids		no
+Ile	Isoleucine	mmol/l	Amino acids	Branched-chain amino acids		no
+Leu	Leucine	mmol/l	Amino acids	Branched-chain amino acids		no
+Val	Valine	mmol/l	Amino acids	Branched-chain amino acids		no
+Phe	Phenylalanine	mmol/l	Amino acids	Aromatic amino acids		no
+Tyr	Tyrosine	mmol/l	Amino acids	Aromatic amino acids		no
+Glucose	Glucose	mmol/l	Glycolysis related metabolites	Glycolysis related metabolites		no
+Lactate	Lactate	mmol/l	Glycolysis related metabolites	Glycolysis related metabolites		no
+Pyruvate	Pyruvate	mmol/l	Glycolysis related metabolites	Glycolysis related metabolites		no
+Citrate	Citrate	mmol/l	Glycolysis related metabolites	Glycolysis related metabolites		no
+bOHbutyrate	3-Hydroxybutyrate	mmol/l	Ketone bodies	Ketone bodies		no
+Acetate	Acetate	mmol/l	Ketone bodies	Ketone bodies		no
+Acetoacetate	Acetoacetate	mmol/l	Ketone bodies	Ketone bodies		no
+Acetone	Acetone	mmol/l	Ketone bodies	Ketone bodies		no
+Creatinine	Creatinine	mmol/l	Fluid balance	Fluid balance		no
+Albumin	Albumin	g/l	Fluid balance	Fluid balance		no
+GlycA	Glycoprotein acetyls	mmol/l	Inflammation	Inflammation		no
+XXL_VLDL_P	Concentration of chylomicrons and extremely large VLDL particles	mmol/l	Lipoprotein subclasses	Chylomicrons and extremely large VLDL	particle diameters from 75 nm upwards	no
+XXL_VLDL_L	Total lipids in chylomicrons and extremely large VLDL	mmol/l	Lipoprotein subclasses	Chylomicrons and extremely large VLDL	particle diameters from 75 nm upwards	no
+XXL_VLDL_PL	Phospholipids in chylomicrons and extremely large VLDL	mmol/l	Lipoprotein subclasses	Chylomicrons and extremely large VLDL	particle diameters from 75 nm upwards	no
+XXL_VLDL_C	Cholesterol in chylomicrons and extremely large VLDL	mmol/l	Lipoprotein subclasses	Chylomicrons and extremely large VLDL	particle diameters from 75 nm upwards	no
+XXL_VLDL_CE	Cholesteryl esters in chylomicrons and extremely large VLDL	mmol/l	Lipoprotein subclasses	Chylomicrons and extremely large VLDL	particle diameters from 75 nm upwards	no
+XXL_VLDL_FC	Free cholesterol in chylomicrons and extremely large VLDL	mmol/l	Lipoprotein subclasses	Chylomicrons and extremely large VLDL	particle diameters from 75 nm upwards	no
+XXL_VLDL_TG	Triglycerides in chylomicrons and extremely large VLDL	mmol/l	Lipoprotein subclasses	Chylomicrons and extremely large VLDL	particle diameters from 75 nm upwards	no
+XL_VLDL_P	Concentration of very large VLDL particles	mmol/l	Lipoprotein subclasses	Very large VLDL	average diameter 64 nm	no
+XL_VLDL_L	Total lipids in very large VLDL	mmol/l	Lipoprotein subclasses	Very large VLDL	average diameter 64 nm	no
+XL_VLDL_PL	Phospholipids in very large VLDL	mmol/l	Lipoprotein subclasses	Very large VLDL	average diameter 64 nm	no
+XL_VLDL_C	Cholesterol in very large VLDL	mmol/l	Lipoprotein subclasses	Very large VLDL	average diameter 64 nm	no
+XL_VLDL_CE	Cholesteryl esters in very large VLDL	mmol/l	Lipoprotein subclasses	Very large VLDL	average diameter 64 nm	no
+XL_VLDL_FC	Free cholesterol in very large VLDL	mmol/l	Lipoprotein subclasses	Very large VLDL	average diameter 64 nm	no
+XL_VLDL_TG	Triglycerides in very large VLDL	mmol/l	Lipoprotein subclasses	Very large VLDL	average diameter 64 nm	no
+L_VLDL_P	Concentration of large VLDL particles	mmol/l	Lipoprotein subclasses	Large VLDL	average diameter 53.6 nm	no
+L_VLDL_L	Total lipids in large VLDL	mmol/l	Lipoprotein subclasses	Large VLDL	average diameter 53.6 nm	no
+L_VLDL_PL	Phospholipids in large VLDL	mmol/l	Lipoprotein subclasses	Large VLDL	average diameter 53.6 nm	no
+L_VLDL_C	Cholesterol in large VLDL	mmol/l	Lipoprotein subclasses	Large VLDL	average diameter 53.6 nm	no
+L_VLDL_CE	Cholesteryl esters in large VLDL	mmol/l	Lipoprotein subclasses	Large VLDL	average diameter 53.6 nm	no
+L_VLDL_FC	Free cholesterol in large VLDL	mmol/l	Lipoprotein subclasses	Large VLDL	average diameter 53.6 nm	no
+L_VLDL_TG	Triglycerides in large VLDL	mmol/l	Lipoprotein subclasses	Large VLDL	average diameter 53.6 nm	no
+M_VLDL_P	Concentration of medium VLDL particles	mmol/l	Lipoprotein subclasses	Medium VLDL	average diameter 44.5 nm	no
+M_VLDL_L	Total lipids in medium VLDL	mmol/l	Lipoprotein subclasses	Medium VLDL	average diameter 44.5 nm	no
+M_VLDL_PL	Phospholipids in medium VLDL	mmol/l	Lipoprotein subclasses	Medium VLDL	average diameter 44.5 nm	no
+M_VLDL_C	Cholesterol in medium VLDL	mmol/l	Lipoprotein subclasses	Medium VLDL	average diameter 44.5 nm	no
+M_VLDL_CE	Cholesteryl esters in medium VLDL	mmol/l	Lipoprotein subclasses	Medium VLDL	average diameter 44.5 nm	no
+M_VLDL_FC	Free cholesterol in medium VLDL	mmol/l	Lipoprotein subclasses	Medium VLDL	average diameter 44.5 nm	no
+M_VLDL_TG	Triglycerides in medium VLDL	mmol/l	Lipoprotein subclasses	Medium VLDL	average diameter 44.5 nm	no
+S_VLDL_P	Concentration of small VLDL particles	mmol/l	Lipoprotein subclasses	Small VLDL	average diameter 36.8 nm	no
+S_VLDL_L	Total lipids in small VLDL	mmol/l	Lipoprotein subclasses	Small VLDL	average diameter 36.8 nm	no
+S_VLDL_PL	Phospholipids in small VLDL	mmol/l	Lipoprotein subclasses	Small VLDL	average diameter 36.8 nm	no
+S_VLDL_C	Cholesterol in small VLDL	mmol/l	Lipoprotein subclasses	Small VLDL	average diameter 36.8 nm	no
+S_VLDL_CE	Cholesteryl esters in small VLDL	mmol/l	Lipoprotein subclasses	Small VLDL	average diameter 36.8 nm	no
+S_VLDL_FC	Free cholesterol in small VLDL	mmol/l	Lipoprotein subclasses	Small VLDL	average diameter 36.8 nm	no
+S_VLDL_TG	Triglycerides in small VLDL	mmol/l	Lipoprotein subclasses	Small VLDL	average diameter 36.8 nm	no
+XS_VLDL_P	Concentration of very small VLDL particles	mmol/l	Lipoprotein subclasses	Very small VLDL	average diameter 31.3 nm	no
+XS_VLDL_L	Total lipids in very small VLDL	mmol/l	Lipoprotein subclasses	Very small VLDL	average diameter 31.3 nm	no
+XS_VLDL_PL	Phospholipids in very small VLDL	mmol/l	Lipoprotein subclasses	Very small VLDL	average diameter 31.3 nm	no
+XS_VLDL_C	Cholesterol in very small VLDL	mmol/l	Lipoprotein subclasses	Very small VLDL	average diameter 31.3 nm	no
+XS_VLDL_CE	Cholesteryl esters in very small VLDL	mmol/l	Lipoprotein subclasses	Very small VLDL	average diameter 31.3 nm	no
+XS_VLDL_FC	Free cholesterol in very small VLDL	mmol/l	Lipoprotein subclasses	Very small VLDL	average diameter 31.3 nm	no
+XS_VLDL_TG	Triglycerides in very small VLDL	mmol/l	Lipoprotein subclasses	Very small VLDL	average diameter 31.3 nm	no
+IDL_P	Concentration of IDL particles	mmol/l	Lipoprotein subclasses	IDL	average diameter 28.6 nm	no
+IDL_L	Total lipids in IDL	mmol/l	Lipoprotein subclasses	IDL	average diameter 28.6 nm	no
+IDL_PL	Phospholipids in IDL	mmol/l	Lipoprotein subclasses	IDL	average diameter 28.6 nm	no
+IDL_C	Cholesterol in IDL	mmol/l	Lipoprotein subclasses	IDL	average diameter 28.6 nm	no
+IDL_CE	Cholesteryl esters in IDL	mmol/l	Lipoprotein subclasses	IDL	average diameter 28.6 nm	no
+IDL_FC	Free cholesterol in IDL	mmol/l	Lipoprotein subclasses	IDL	average diameter 28.6 nm	no
+IDL_TG	Triglycerides in IDL	mmol/l	Lipoprotein subclasses	IDL	average diameter 28.6 nm	no
+L_LDL_P	Concentration of large LDL particles	mmol/l	Lipoprotein subclasses	Large LDL	average diameter 25.5 nm	no
+L_LDL_L	Total lipids in large LDL	mmol/l	Lipoprotein subclasses	Large LDL	average diameter 25.5 nm	no
+L_LDL_PL	Phospholipids in large LDL	mmol/l	Lipoprotein subclasses	Large LDL	average diameter 25.5 nm	no
+L_LDL_C	Cholesterol in large LDL	mmol/l	Lipoprotein subclasses	Large LDL	average diameter 25.5 nm	no
+L_LDL_CE	Cholesteryl esters in large LDL	mmol/l	Lipoprotein subclasses	Large LDL	average diameter 25.5 nm	no
+L_LDL_FC	Free cholesterol in large LDL	mmol/l	Lipoprotein subclasses	Large LDL	average diameter 25.5 nm	no
+L_LDL_TG	Triglycerides in large LDL	mmol/l	Lipoprotein subclasses	Large LDL	average diameter 25.5 nm	no
+M_LDL_P	Concentration of medium LDL particles	mmol/l	Lipoprotein subclasses	Medium LDL	average diameter 23 nm	no
+M_LDL_L	Total lipids in medium LDL	mmol/l	Lipoprotein subclasses	Medium LDL	average diameter 23 nm	no
+M_LDL_PL	Phospholipids in medium LDL	mmol/l	Lipoprotein subclasses	Medium LDL	average diameter 23 nm	no
+M_LDL_C	Cholesterol in medium LDL	mmol/l	Lipoprotein subclasses	Medium LDL	average diameter 23 nm	no
+M_LDL_CE	Cholesteryl esters in medium LDL	mmol/l	Lipoprotein subclasses	Medium LDL	average diameter 23 nm	no
+M_LDL_FC	Free cholesterol in medium LDL	mmol/l	Lipoprotein subclasses	Medium LDL	average diameter 23 nm	no
+M_LDL_TG	Triglycerides in medium LDL	mmol/l	Lipoprotein subclasses	Medium LDL	average diameter 23 nm	no
+S_LDL_P	Concentration of small LDL particles	mmol/l	Lipoprotein subclasses	Small LDL	average diameter 18.7 nm	no
+S_LDL_L	Total lipids in small LDL	mmol/l	Lipoprotein subclasses	Small LDL	average diameter 18.7 nm	no
+S_LDL_PL	Phospholipids in small LDL	mmol/l	Lipoprotein subclasses	Small LDL	average diameter 18.7 nm	no
+S_LDL_C	Cholesterol in small LDL	mmol/l	Lipoprotein subclasses	Small LDL	average diameter 18.7 nm	no
+S_LDL_CE	Cholesteryl esters in small LDL	mmol/l	Lipoprotein subclasses	Small LDL	average diameter 18.7 nm	no
+S_LDL_FC	Free cholesterol in small LDL	mmol/l	Lipoprotein subclasses	Small LDL	average diameter 18.7 nm	no
+S_LDL_TG	Triglycerides in small LDL	mmol/l	Lipoprotein subclasses	Small LDL	average diameter 18.7 nm	no
+XL_HDL_P	Concentration of very large HDL particles	mmol/l	Lipoprotein subclasses	Very large HDL	average diameter 14.3 nm	no
+XL_HDL_L	Total lipids in very large HDL	mmol/l	Lipoprotein subclasses	Very large HDL	average diameter 14.3 nm	no
+XL_HDL_PL	Phospholipids in very large HDL	mmol/l	Lipoprotein subclasses	Very large HDL	average diameter 14.3 nm	no
+XL_HDL_C	Cholesterol in very large HDL	mmol/l	Lipoprotein subclasses	Very large HDL	average diameter 14.3 nm	no
+XL_HDL_CE	Cholesteryl esters in very large HDL	mmol/l	Lipoprotein subclasses	Very large HDL	average diameter 14.3 nm	no
+XL_HDL_FC	Free cholesterol in very large HDL	mmol/l	Lipoprotein subclasses	Very large HDL	average diameter 14.3 nm	no
+XL_HDL_TG	Triglycerides in very large HDL	mmol/l	Lipoprotein subclasses	Very large HDL	average diameter 14.3 nm	no
+L_HDL_P	Concentration of large HDL particles	mmol/l	Lipoprotein subclasses	Large HDL	average diameter 12.1 nm	no
+L_HDL_L	Total lipids in large HDL	mmol/l	Lipoprotein subclasses	Large HDL	average diameter 12.1 nm	no
+L_HDL_PL	Phospholipids in large HDL	mmol/l	Lipoprotein subclasses	Large HDL	average diameter 12.1 nm	no
+L_HDL_C	Cholesterol in large HDL	mmol/l	Lipoprotein subclasses	Large HDL	average diameter 12.1 nm	no
+L_HDL_CE	Cholesteryl esters in large HDL	mmol/l	Lipoprotein subclasses	Large HDL	average diameter 12.1 nm	no
+L_HDL_FC	Free cholesterol in large HDL	mmol/l	Lipoprotein subclasses	Large HDL	average diameter 12.1 nm	no
+L_HDL_TG	Triglycerides in large HDL	mmol/l	Lipoprotein subclasses	Large HDL	average diameter 12.1 nm	no
+M_HDL_P	Concentration of medium HDL particles	mmol/l	Lipoprotein subclasses	Medium HDL	average diameter 10.9 nm	no
+M_HDL_L	Total lipids in medium HDL	mmol/l	Lipoprotein subclasses	Medium HDL	average diameter 10.9 nm	no
+M_HDL_PL	Phospholipids in medium HDL	mmol/l	Lipoprotein subclasses	Medium HDL	average diameter 10.9 nm	no
+M_HDL_C	Cholesterol in medium HDL	mmol/l	Lipoprotein subclasses	Medium HDL	average diameter 10.9 nm	no
+M_HDL_CE	Cholesteryl esters in medium HDL	mmol/l	Lipoprotein subclasses	Medium HDL	average diameter 10.9 nm	no
+M_HDL_FC	Free cholesterol in medium HDL	mmol/l	Lipoprotein subclasses	Medium HDL	average diameter 10.9 nm	no
+M_HDL_TG	Triglycerides in medium HDL	mmol/l	Lipoprotein subclasses	Medium HDL	average diameter 10.9 nm	no
+S_HDL_P	Concentration of small HDL particles	mmol/l	Lipoprotein subclasses	Small HDL	average diameter 8.7 nm	no
+S_HDL_L	Total lipids in small HDL	mmol/l	Lipoprotein subclasses	Small HDL	average diameter 8.7 nm	no
+S_HDL_PL	Phospholipids in small HDL	mmol/l	Lipoprotein subclasses	Small HDL	average diameter 8.7 nm	no
+S_HDL_C	Cholesterol in small HDL	mmol/l	Lipoprotein subclasses	Small HDL	average diameter 8.7 nm	no
+S_HDL_CE	Cholesteryl esters in small HDL	mmol/l	Lipoprotein subclasses	Small HDL	average diameter 8.7 nm	no
+S_HDL_FC	Free cholesterol in small HDL	mmol/l	Lipoprotein subclasses	Small HDL	average diameter 8.7 nm	no
+S_HDL_TG	Triglycerides in small HDL	mmol/l	Lipoprotein subclasses	Small HDL	average diameter 8.7 nm	no
+XXL_VLDL_PL_pct	Phospholipids to total lipids ratio in chylomicrons and extremely large VLDL	%	Relative lipoprotein lipid concentrations	Chylomicrons and extremely large VLDL ratios		yes
+XXL_VLDL_C_pct	Cholesterol to total lipids ratio in chylomicrons and extremely large VLDL	%	Relative lipoprotein lipid concentrations	Chylomicrons and extremely large VLDL ratios		yes
+XXL_VLDL_CE_pct	Cholesteryl esters to total lipids ratio in chylomicrons and extremely large VLDL	%	Relative lipoprotein lipid concentrations	Chylomicrons and extremely large VLDL ratios		yes
+XXL_VLDL_FC_pct	Free cholesterol to total lipids ratio in chylomicrons and extremely large VLDL	%	Relative lipoprotein lipid concentrations	Chylomicrons and extremely large VLDL ratios		yes
+XXL_VLDL_TG_pct	Triglycerides to total lipids ratio in chylomicrons and extremely large VLDL	%	Relative lipoprotein lipid concentrations	Chylomicrons and extremely large VLDL ratios		yes
+XL_VLDL_PL_pct	Phospholipids to total lipids ratio in very large VLDL	%	Relative lipoprotein lipid concentrations	Very large VLDL ratios		yes
+XL_VLDL_C_pct	Cholesterol to total lipids ratio in very large VLDL	%	Relative lipoprotein lipid concentrations	Very large VLDL ratios		yes
+XL_VLDL_CE_pct	Cholesteryl esters to total lipids ratio in very large VLDL	%	Relative lipoprotein lipid concentrations	Very large VLDL ratios		yes
+XL_VLDL_FC_pct	Free cholesterol to total lipids ratio in very large VLDL	%	Relative lipoprotein lipid concentrations	Very large VLDL ratios		yes
+XL_VLDL_TG_pct	Triglycerides to total lipids ratio in very large VLDL	%	Relative lipoprotein lipid concentrations	Very large VLDL ratios		yes
+L_VLDL_PL_pct	Phospholipids to total lipids ratio in large VLDL	%	Relative lipoprotein lipid concentrations	Large VLDL ratios		yes
+L_VLDL_C_pct	Cholesterol to total lipids ratio in large VLDL	%	Relative lipoprotein lipid concentrations	Large VLDL ratios		yes
+L_VLDL_CE_pct	Cholesteryl esters to total lipids ratio in large VLDL	%	Relative lipoprotein lipid concentrations	Large VLDL ratios		yes
+L_VLDL_FC_pct	Free cholesterol to total lipids ratio in large VLDL	%	Relative lipoprotein lipid concentrations	Large VLDL ratios		yes
+L_VLDL_TG_pct	Triglycerides to total lipids ratio in large VLDL	%	Relative lipoprotein lipid concentrations	Large VLDL ratios		yes
+M_VLDL_PL_pct	Phospholipids to total lipids ratio in medium VLDL	%	Relative lipoprotein lipid concentrations	Medium VLDL ratios		yes
+M_VLDL_C_pct	Cholesterol to total lipids ratio in medium VLDL	%	Relative lipoprotein lipid concentrations	Medium VLDL ratios		yes
+M_VLDL_CE_pct	Cholesteryl esters to total lipids ratio in medium VLDL	%	Relative lipoprotein lipid concentrations	Medium VLDL ratios		yes
+M_VLDL_FC_pct	Free cholesterol to total lipids ratio in medium VLDL	%	Relative lipoprotein lipid concentrations	Medium VLDL ratios		yes
+M_VLDL_TG_pct	Triglycerides to total lipids ratio in medium VLDL	%	Relative lipoprotein lipid concentrations	Medium VLDL ratios		yes
+S_VLDL_PL_pct	Phospholipids to total lipids ratio in small VLDL	%	Relative lipoprotein lipid concentrations	Small VLDL ratios		yes
+S_VLDL_C_pct	Cholesterol to total lipids ratio in small VLDL	%	Relative lipoprotein lipid concentrations	Small VLDL ratios		yes
+S_VLDL_CE_pct	Cholesteryl esters to total lipids ratio in small VLDL	%	Relative lipoprotein lipid concentrations	Small VLDL ratios		yes
+S_VLDL_FC_pct	Free cholesterol to total lipids ratio in small VLDL	%	Relative lipoprotein lipid concentrations	Small VLDL ratios		yes
+S_VLDL_TG_pct	Triglycerides to total lipids ratio in small VLDL	%	Relative lipoprotein lipid concentrations	Small VLDL ratios		yes
+XS_VLDL_PL_pct	Phospholipids to total lipids ratio in very small VLDL	%	Relative lipoprotein lipid concentrations	Very small VLDL ratios		yes
+XS_VLDL_C_pct	Cholesterol to total lipids ratio in very small VLDL	%	Relative lipoprotein lipid concentrations	Very small VLDL ratios		yes
+XS_VLDL_CE_pct	Cholesteryl esters to total lipids ratio in very small VLDL	%	Relative lipoprotein lipid concentrations	Very small VLDL ratios		yes
+XS_VLDL_FC_pct	Free cholesterol to total lipids ratio in very small VLDL	%	Relative lipoprotein lipid concentrations	Very small VLDL ratios		yes
+XS_VLDL_TG_pct	Triglycerides to total lipids ratio in very small VLDL	%	Relative lipoprotein lipid concentrations	Very small VLDL ratios		yes
+IDL_PL_pct	Phospholipids to total lipids ratio in IDL	%	Relative lipoprotein lipid concentrations	IDL ratios		yes
+IDL_C_pct	Cholesterol to total lipids ratio in IDL	%	Relative lipoprotein lipid concentrations	IDL ratios		yes
+IDL_CE_pct	Cholesteryl esters to total lipids ratio in IDL	%	Relative lipoprotein lipid concentrations	IDL ratios		yes
+IDL_FC_pct	Free cholesterol to total lipids ratio in IDL	%	Relative lipoprotein lipid concentrations	IDL ratios		yes
+IDL_TG_pct	Triglycerides to total lipids ratio in IDL	%	Relative lipoprotein lipid concentrations	IDL ratios		yes
+L_LDL_PL_pct	Phospholipids to total lipids ratio in large LDL	%	Relative lipoprotein lipid concentrations	Large LDL ratios		yes
+L_LDL_C_pct	Cholesterol to total lipids ratio in large LDL	%	Relative lipoprotein lipid concentrations	Large LDL ratios		yes
+L_LDL_CE_pct	Cholesteryl esters to total lipids ratio in large LDL	%	Relative lipoprotein lipid concentrations	Large LDL ratios		yes
+L_LDL_FC_pct	Free cholesterol to total lipids ratio in large LDL	%	Relative lipoprotein lipid concentrations	Large LDL ratios		yes
+L_LDL_TG_pct	Triglycerides to total lipids ratio in large LDL	%	Relative lipoprotein lipid concentrations	Large LDL ratios		yes
+M_LDL_PL_pct	Phospholipids to total lipids ratio in medium LDL	%	Relative lipoprotein lipid concentrations	Medium LDL ratios		yes
+M_LDL_C_pct	Cholesterol to total lipids ratio in medium LDL	%	Relative lipoprotein lipid concentrations	Medium LDL ratios		yes
+M_LDL_CE_pct	Cholesteryl esters to total lipids ratio in medium LDL	%	Relative lipoprotein lipid concentrations	Medium LDL ratios		yes
+M_LDL_FC_pct	Free cholesterol to total lipids ratio in medium LDL	%	Relative lipoprotein lipid concentrations	Medium LDL ratios		yes
+M_LDL_TG_pct	Triglycerides to total lipids ratio in medium LDL	%	Relative lipoprotein lipid concentrations	Medium LDL ratios		yes
+S_LDL_PL_pct	Phospholipids to total lipids ratio in small LDL	%	Relative lipoprotein lipid concentrations	Small LDL ratios		yes
+S_LDL_C_pct	Cholesterol to total lipids ratio in small LDL	%	Relative lipoprotein lipid concentrations	Small LDL ratios		yes
+S_LDL_CE_pct	Cholesteryl esters to total lipids ratio in small LDL	%	Relative lipoprotein lipid concentrations	Small LDL ratios		yes
+S_LDL_FC_pct	Free cholesterol to total lipids ratio in small LDL	%	Relative lipoprotein lipid concentrations	Small LDL ratios		yes
+S_LDL_TG_pct	Triglycerides to total lipids ratio in small LDL	%	Relative lipoprotein lipid concentrations	Small LDL ratios		yes
+XL_HDL_PL_pct	Phospholipids to total lipids ratio in very large HDL	%	Relative lipoprotein lipid concentrations	Very large HDL ratios		yes
+XL_HDL_C_pct	Cholesterol to total lipids ratio in very large HDL	%	Relative lipoprotein lipid concentrations	Very large HDL ratios		yes
+XL_HDL_CE_pct	Cholesteryl esters to total lipids ratio in very large HDL	%	Relative lipoprotein lipid concentrations	Very large HDL ratios		yes
+XL_HDL_FC_pct	Free cholesterol to total lipids ratio in very large HDL	%	Relative lipoprotein lipid concentrations	Very large HDL ratios		yes
+XL_HDL_TG_pct	Triglycerides to total lipids ratio in very large HDL	%	Relative lipoprotein lipid concentrations	Very large HDL ratios		yes
+L_HDL_PL_pct	Phospholipids to total lipids ratio in large HDL	%	Relative lipoprotein lipid concentrations	Large HDL ratios		yes
+L_HDL_C_pct	Cholesterol to total lipids ratio in large HDL	%	Relative lipoprotein lipid concentrations	Large HDL ratios		yes
+L_HDL_CE_pct	Cholesteryl esters to total lipids ratio in large HDL	%	Relative lipoprotein lipid concentrations	Large HDL ratios		yes
+L_HDL_FC_pct	Free cholesterol to total lipids ratio in large HDL	%	Relative lipoprotein lipid concentrations	Large HDL ratios		yes
+L_HDL_TG_pct	Triglycerides to total lipids ratio in large HDL	%	Relative lipoprotein lipid concentrations	Large HDL ratios		yes
+M_HDL_PL_pct	Phospholipids to total lipids ratio in medium HDL	%	Relative lipoprotein lipid concentrations	Medium HDL ratios		yes
+M_HDL_C_pct	Cholesterol to total lipids ratio in medium HDL	%	Relative lipoprotein lipid concentrations	Medium HDL ratios		yes
+M_HDL_CE_pct	Cholesteryl esters to total lipids ratio in medium HDL	%	Relative lipoprotein lipid concentrations	Medium HDL ratios		yes
+M_HDL_FC_pct	Free cholesterol to total lipids ratio in medium HDL	%	Relative lipoprotein lipid concentrations	Medium HDL ratios		yes
+M_HDL_TG_pct	Triglycerides to total lipids ratio in medium HDL	%	Relative lipoprotein lipid concentrations	Medium HDL ratios		yes
+S_HDL_PL_pct	Phospholipids to total lipids ratio in small HDL	%	Relative lipoprotein lipid concentrations	Small HDL ratios		yes
+S_HDL_C_pct	Cholesterol to total lipids ratio in small HDL	%	Relative lipoprotein lipid concentrations	Small HDL ratios		yes
+S_HDL_CE_pct	Cholesteryl esters to total lipids ratio in small HDL	%	Relative lipoprotein lipid concentrations	Small HDL ratios		yes
+S_HDL_FC_pct	Free cholesterol to total lipids ratio in small HDL	%	Relative lipoprotein lipid concentrations	Small HDL ratios		yes
+S_HDL_TG_pct	Triglycerides to total lipids ratio in small HDL	%	Relative lipoprotein lipid concentrations	Small HDL ratios		yes

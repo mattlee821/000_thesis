@@ -316,6 +316,17 @@
   \fontsize{12}{14}\selectfont
 }{\clearpage \if@restonecol\twocolumn\fi}%
 
+%% COVID statement
+\newenvironment{COVID}{%
+  \if@twocolumn
+    \@restonecoltrue\onecolumn
+  \else
+    \@restonecolfalse
+  \fi
+  \chapter*{COVID-19 Statement}
+  \fontsize{12}{14}\selectfont
+}{\clearpage \if@restonecol\twocolumn\fi}%
+
 %% Declaration
 \newenvironment{declaration}{%
   \if@twocolumn

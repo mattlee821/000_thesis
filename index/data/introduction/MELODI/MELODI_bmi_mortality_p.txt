@@ -1,0 +1,27 @@
+name1	name2	name3	name4	name5	mean_cp	mean_odds	uniq_a	uniq_b	shared	score	treeLevel
+Body mass index (clna)	PREDISPOSES	Pancreatitis (dsyn)	CAUSES	Cessation of life (orgf)	4.02e-06	81.57	4	19	0	4.84	11
+Body mass index (clna)	PREDISPOSES	Tuberculosis (dsyn)	CAUSES	Cessation of life (orgf)	1.42e-10	41.81	8	178	0	8.36	11
+Body mass index (clna)	PREDISPOSES	Cerebrovascular accident (dsyn)	CAUSES	Cessation of life (orgf)	2.11e-24	57.66	17	449	0	17.64	11
+Body mass index (clna)	PREDISPOSES	Cerebrovascular accident (dsyn)	AFFECTS	Cessation of life (orgf)	4.46e-07	59.14	17	12	0	20.47	7
+Body mass index (clna)	PREDISPOSES	Cardiovascular Diseases (dsyn)	CAUSES	Cessation of life (orgf)	3.36e-122	61.56	83	1021	0	89.75	11
+Body mass index (clna)	PREDISPOSES	Depressive disorder (mobd)	AFFECTS	Cessation of life (orgf)	1.58e-06	60.2	12	10	0	18.33	7
+Body mass index procedure (diap)	AFFECTS	Atrial Fibrillation (patf)	CAUSES	Cessation of life (orgf)	4.02e-06	85.75	4	16	0	5	7
+Body mass index procedure (diap)	CAUSES	End stage renal failure (dsyn)	CAUSES	Cessation of life (orgf)	2.18e-07	70.39	5	20	0	6.25	11
+Body mass index (clna)	PREDISPOSES	Liver diseases (dsyn)	CAUSES	Cessation of life (orgf)	3.56e-07	60.92	5	67	0	5.37	11
+Body mass index (clna)	PREDISPOSES	Anemia (dsyn)	CAUSES	Cessation of life (orgf)	2.92e-06	39.43	6	12	0	9	11
+Body mass index (clna)	PREDISPOSES	Heart failure (dsyn)	CAUSES	Cessation of life (orgf)	1.73e-18	57.75	13	251	0	13.67	11
+Body mass index procedure (diap)	DIAGNOSES	Kidney Failure, Chronic (dsyn)	CAUSES	Cessation of life (orgf)	1.87e-13	68.1	15	24	0	24.38	11
+Body mass index (clna)	PREDISPOSES	Chronic Disease (dsyn)	CAUSES	Cessation of life (orgf)	1.34e-09	49.65	7	66	0	7.74	11
+Body mass index (clna)	PREDISPOSES	Diabetes Mellitus (dsyn)	CAUSES	Cessation of life (orgf)	1.64e-27	66.94	24	43	0	37.4	11
+Body mass index procedure (diap)	DIAGNOSES	Heart failure (dsyn)	CAUSES	Cessation of life (orgf)	5.38e-34	81.59	22	251	0	23.93	11
+Body mass index procedure (diap)	AFFECTS	Postoperative Complications (patf)	CAUSES	Cessation of life (orgf)	4.17e-06	76.95	20	11	0	17.05	7
+Body mass index (clna)	PREDISPOSES	End stage renal failure (dsyn)	CAUSES	Cessation of life (orgf)	1.49e-13	56.33	11	20	0	17.05	11
+Body mass index procedure (diap)	DIAGNOSES	Diabetes Mellitus (dsyn)	CAUSES	Cessation of life (orgf)	1.95e-10	72.59	7	43	0	8.14	11
+Body mass index (clna)	PREDISPOSES	Coronary Arteriosclerosis (dsyn)	CAUSES	Cessation of life (orgf)	4.28e-11	50.46	8	145	0	8.44	11
+Body mass index (clna)	PREDISPOSES	Pneumonia (dsyn)	CAUSES	Cessation of life (orgf)	9.05e-14	82.89	9	331	0	9.24	11
+Body mass index (clna)	PREDISPOSES	Malnutrition (dsyn)	CAUSES	Cessation of life (orgf)	2.24e-16	71.64	28	28	0	56	11
+Body mass index procedure (diap)	DIAGNOSES	Coronary Arteriosclerosis (dsyn)	CAUSES	Cessation of life (orgf)	3.29e-21	74.46	14	145	0	15.35	11
+Body mass index procedure (diap)	DIAGNOSES	Postoperative Complications (patf)	CAUSES	Cessation of life (orgf)	4.3e-06	80.54	5	11	0	7.27	11
+Body mass index (clna)	PREDISPOSES	Kidney Failure, Chronic (dsyn)	CAUSES	Cessation of life (orgf)	1.87e-13	65.58	12	24	0	18	11
+Body mass index (clna)	PREDISPOSES	Myocardial Infarction (dsyn)	CAUSES	Cessation of life (orgf)	3.51e-17	56.87	12	123	0	13.17	11
+Body mass index procedure (diap)	DIAGNOSES	Chronic Obstructive Airway Disease (dsyn)	CAUSES	Cessation of life (orgf)	1.03e-46	71.06	30	183	1	34.92	11

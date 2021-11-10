@@ -1,0 +1,49 @@
+Source	Source_category	name2	Intermediate	Intermediate_category	name4	Target	Target_category	mean_cp	mean_odds	uniq_a	uniq_b	shared	score	treeLevel
+Body mass index 	clna	PREDISPOSES	Metabolic syndrome 	dsyn	PROCESS_OF	General Population 	humn	2.59e-10	66.01	91	33	0	44.97	1
+Body mass index procedure 	diap	AFFECTS	Pregnancy 	orgf	PROCESS_OF	Survivors 	humn	1.11e-08	72.36	31	15	0	22.26	1
+Body mass index 	clna	PREDISPOSES	Pancreatitis 	dsyn	ISA	Inflammatory disorder 	dsyn	4.02e-06	80.4	4	37	0	4.43	5
+Body mass index 	clna	PREDISPOSES	Hyperglycemia 	dsyn	COEXISTS_WITH	Diabetic 	fndg	8.68e-07	44.17	5	28	0	5.89	9
+Body mass index procedure 	diap	DIAGNOSES	Body Weight decreased 	fndg	PROCESS_OF	Survivors 	humn	1.06e-06	53.17	7	12	0	11.08	1
+Body mass index 	clna	PREDISPOSES	Tuberculosis 	dsyn	ISA	Opportunistic Infections 	dsyn	1.42e-10	41.86	8	53	0	9.21	5
+Body mass index 	clna	PREDISPOSES	Primary carcinoma of the liver cells 	neop	ISA	Common Neoplasm 	neop	3.48e-10	62.06	7	28	0	8.75	5
+Body mass index 	clna	PREDISPOSES	Cerebrovascular accident 	dsyn	PROCESS_OF	Participant 	humn	3.5e-15	54.98	17	84	0	20.44	1
+Body mass index 	clna	PREDISPOSES	Cardiovascular Diseases 	dsyn	PROCESS_OF	Glomerular Filtration Rate 	ortf	2.59e-06	64.05	83	9	0	9.98	1
+Body mass index 	clna	PREDISPOSES	Dyslipidemias 	dsyn	PREDISPOSES	Cardiovascular Diseases 	dsyn	8.01e-26	67.61	23	62	0	31.53	21
+Body mass index 	clna	PREDISPOSES	Sleep Apnea, Obstructive 	dsyn	PREDISPOSES	Cerebrovascular accident 	dsyn	5.01e-07	58.44	16	16	0	32	21
+Body mass index 	clna	PREDISPOSES	Depressive disorder 	mobd	PROCESS_OF	CARDIAC PATIENT 	podg	4.09e-07	58.25	12	13	0	23.08	1
+Body mass index procedure 	diap	AFFECTS	Atrial Fibrillation 	patf	PROCESS_OF	Outpatients 	podg	6.97e-06	78.3	4	17	0	4.94	1
+Body mass index procedure 	diap	CAUSES	End stage renal failure 	dsyn	ISA	Kidney Diseases 	dsyn	2.18e-07	66.92	5	24	0	6.04	5
+Body mass index 	clna	PREDISPOSES	Liver diseases 	dsyn	AFFECTS	American 	popg	3.57e-07	56.27	5	39	0	5.64	7
+Body mass index procedure 	diap	METHOD_OF	Coronary angiography 	diap	DIAGNOSES	Adverse event 	fndg	6.63e-07	74.91	8	10	0	14.4	16
+Body mass index 	clna	PREDISPOSES	Anemia 	dsyn	COEXISTS_WITH	Critical Illness 	dsyn	8.85e-08	42.03	6	14	0	8.57	9
+Body mass index 	clna	PREDISPOSES	Malignant neoplasm of stomach 	neop	PROCESS_OF	cohort 	humn	3.38e-10	63.77	7	31	0	8.58	1
+Body mass index procedure 	diap	AFFECTS	Pancreatic Fistula 	anab	AFFECTS	Gastric Emptying 	ortf	6.52e-08	108.48	4	21	1	4.76	7
+Body mass index 	clna	PREDISPOSES	Heart failure 	dsyn	PROCESS_OF	American 	popg	1.72e-11	59.1	13	17	0	22.94	1
+Body mass index procedure 	diap	DIAGNOSES	Hypertensive 	fndg	PROCESS_OF	Participant 	humn	1.5e-13	49.78	19	53	0	25.81	1
+Body mass index procedure 	diap	DIAGNOSES	Well adult 	fndg	PROCESS_OF	Voluntary Workers 	humn	9.1e-11	69.29	11	15	0	19.07	1
+Body mass index procedure 	diap	AFFECTS	Systolic blood pressure 	ortf	PROCESS_OF	cohort 	humn	3.5e-06	56.59	53	15	0	19.25	1
+Body mass index procedure 	diap	DIAGNOSES	Kidney Failure, Chronic 	dsyn	PROCESS_OF	African American 	popg	2.99e-07	66.07	15	18	0	27.5	1
+Body mass index 	clna	PREDISPOSES	Malignant neoplasm of prostate 	neop	PROCESS_OF	cohort 	humn	5.58e-07	50.76	5	78	0	5.32	1
+Body mass index 	clna	PREDISPOSES	Chronic Disease 	dsyn	CAUSES	Cessation of life 	orgf	1.34e-09	49.65	7	66	0	7.74	11
+Body mass index procedure 	diap	DIAGNOSES	Infertility 	dsyn	PROCESS_OF	Couples 	humn	1.95e-10	66.1	7	16	0	10.06	1
+Body mass index 	clna	PREDISPOSES	Malignant neoplasm of lung 	neop	PROCESS_OF	Workers 	humn	3.6e-07	70.52	6	12	0	9	1
+Body mass index 	clna	PREDISPOSES	Pre-Eclampsia 	dsyn	AFFECTS	Pathogenesis 	patf	1.87e-06	44.43	9	25	0	12.24	7
+Body mass index procedure 	diap	ISA	Procedures 	hlca	METHOD_OF	Aortic valve replacement NOS 	topp	1.18e-13	77.31	14	21	0	23.33	5
+Body mass index 	clna	PREDISPOSES	Diabetes Mellitus 	dsyn	COEXISTS_WITH	Heart failure 	dsyn	3.21e-12	72.12	24	15	0	24.38	9
+Body mass index procedure 	diap	AFFECTS	Postoperative Complications 	patf	PROCESS_OF	Octogenarians 	aggp	3.25e-08	81.31	20	11	0	17.05	1
+Body mass index 	clna	PREDISPOSES	Dementia 	mobd	PROCESS_OF	cohort 	humn	4.2e-09	60.2	34	38	0	64.42	1
+Body mass index 	clna	PREDISPOSES	Carcinoma of the Large Intestine 	neop	PROCESS_OF	Octogenarians 	aggp	6.5e-07	62.96	14	9	0	14.79	1
+Body mass index 	clna	PREDISPOSES	Coronary Arteriosclerosis 	dsyn	PREDISPOSES	CARDIAC EVENT 	dsyn	2.63e-08	51.54	8	15	0	12.27	21
+Body mass index 	clna	PREDISPOSES	Non-alcoholic fatty liver 	dsyn	PREDISPOSES	Cardiovascular Diseases 	dsyn	2.79e-10	61.89	27	23	0	42.59	21
+Body mass index 	clna	PREDISPOSES	Pancreatic carcinoma 	neop	PROCESS_OF	cohort 	humn	1.73e-16	58.65	11	28	1	15.32	1
+Body mass index procedure 	diap	ISA	Intervention regimes 	hlca	TREATS	Atrial Fibrillation 	patf	5.57e-07	65.51	5	21	0	6.19	4
+Body mass index 	clna	PREDISPOSES	Pneumonia 	dsyn	CAUSES	Cessation of life 	orgf	9.05e-14	82.89	9	331	0	9.24	11
+Body mass index procedure 	diap	ISA	Diagnosis 	hlca	TREATS	Caucasoid Race 	popg	3.81e-09	71.28	73	19	0	23.95	4
+Body mass index 	clna	PREDISPOSES	Malnutrition 	dsyn	PROCESS_OF	Critically ill children 	podg	3.47e-06	76.33	28	8	0	10.29	1
+Body mass index procedure 	diap	ADMINISTERED_TO	Participant 	humn	USES	Medicare 	rnlw	4.02e-06	80.3	4	18	0	4.89	6
+Body mass index 	clna	PREDISPOSES	Atherosclerosis 	dsyn	PREDISPOSES	Cardiovascular Diseases 	dsyn	1.71e-11	72.1	19	25	0	33.44	21
+Body mass index procedure 	diap	DIAGNOSES	Systemic arterial pressure 	fndg	PREDISPOSES	Cardiovascular morbidity 	dsyn	4.23e-17	52.7	34	23	0	38.56	18
+Body mass index procedure 	diap	USES	Calcium 	bacs	ASSOCIATED_WITH	Cardiovascular Diseases 	dsyn	5.28e-07	71.29	6	11	0	9.27	6
+Body mass index 	clna	PREDISPOSES	Myocardial Infarction 	dsyn	ISA	Heart Diseases 	dsyn	9.71e-07	55.84	12	20	0	19.2	5
+Body mass index procedure 	diap	DIAGNOSES	Chronic Obstructive Airway Disease 	dsyn	PROCESS_OF	cohort 	humn	1.84e-08	68.39	31	20	0	32.9	1
+Body mass index procedure 	diap	ISA	Assessment procedure 	hlca	TREATS	Survivors 	humn	1.59e-15	67.33	16	34	0	23.53	4

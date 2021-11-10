@@ -1,0 +1,43 @@
+---
+output: 
+    thesisdown::thesis_pdf: default
+bibliography: bib/thesis.bib
+csl: csl/nature.csl
+space_betwee_paragraphs: true
+fig_caption: true
+always_allow_html: yes
+link-citations: true
+toc-depth: 2
+lot: true
+lof: true
+indent: true
+header-includes: # include other LaTeX packages here
+    \usepackage{booktabs}
+    \usepackage{longtable}
+    \usepackage{siunitx}
+    \usepackage[left]{lineno}
+    \usepackage{float}
+    \floatplacement{figure}{H}
+    \linenumbers
+    \pagestyle{plain}
+    \raggedbottom 
+    \usepackage{indentfirst}
+editor_options: 
+  chunk_output_type: console
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+Since the UK went into lockdown as a result of COVID-19 in March 2020 I have worked from home. The practical consequences of this, lack of suitable office space and equipment, have negatively affected my ability to work. Though many of these issues were resolved in time and through my own expense, I have really missed the contact with colleagues and the collaborations that office life fostered. This isolation, particularly from friends and loved ones, and the anxieties I developed as a result of this, have had a negative effect on my mental health over the past two years. \par
+
+The original deadline for this thesis was April 2021. However, as a result of the practical issues caused by COVID-19, including the impact on my health, I was awarded a funded extension and my submission date was changed to November 2021. This award was granted on the basis of a series of changes to my PhD, discussed with my annual reviewers, that would enable completion given available resources and time. One of these changes was the use of an additional dataset that was not directly available to me but was provided by a collaborator. Receipt of this data was however severely delayed due to COVID-19. This delay had a knock-on effect on subsequent analyses. \par
+
+I am really disappointed that I was unable to undertake some of the work that was initially planned for this thesis, particularly investigating different instrumentation practices for metabolites. But, given the practical issues and the impact on my health, I am proud of the work I have done. And I am incredibly fortunate to have had such a supportive team around me! \par
+
+
+
+
+

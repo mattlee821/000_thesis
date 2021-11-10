@@ -44,6 +44,7 @@ text-align: justify}
 
 ## Chapter summary {-}
 The exploration, interpretation, display, and communication of large association analyses is challenging. Previous studies have used Circos plots, however the process of producing Circos plots is cumbersome and, through personal experience[@Taylor2019], has been time consuming and inefficient. This chapter details `EpiViz`, a web application and `R` package that efficiently produces Circos plots. `EpiViz` is used in the following chapters to gain a global overview and identify patterns of association in observational and Mendelian randomization analyses. `EpiViz` considerably improves the speed and efficiency of producing Circos plots and has been used in multiple studies[@Bos2021; @Bell2020; @Taylor2019] since its development. `EpiViz` is available on [GitHub](https://github.com/mattlee821/EpiViz/).\par
+<<<<<<< HEAD
 
 \newpage
 
@@ -52,6 +53,14 @@ Large epidemiological analyses, involving potentially hundreds of exposure-outco
 
 An alternative approach is to compress information into a circular rather than vertical or horizontal form. Circos plots[@Krzywinski2009], as implemented in many genetics studies to condense large genomic information into informative visuals[@Saben2014], provide an efficient visualisation tool for incorporating hundreds to thousands of data points. Circos plots have been used effectively to communicate results from large metabolomic analyses[@Kettunen2012; @Kettunen2016; @Shin2014; @Bos2021; @Taylor2019; @Bell2020]. However, the Circos software is designed for genomic data and written in programming languages unfamiliar to many epidemiologists. The `R` package `Circlize`[@Gu2014] provides most of the functionality of the Circos software and is publicly available. However, it is not designed for association analyses as performed in this thesis. As such, it can be time consuming and inefficient to produce Circos plots.
 
+=======
+
+## Introduction
+Large epidemiological analyses, involving potentially hundreds of exposure-outcome associations, pose a significant challenge for the digestion and interpretation of results. Data visualization is key to improving the exploration, interpretation, communication, and display of data[@Tufte1983]. Traditionally, forest plots have been used to effectively communicate association analyses and, have been used successfully for analyses involving metabolites[@May-Wilson2017; @Taylor2019; @Soares2019; @SantosFerreira2019; @Hartley2020; @Borges2017]. These studies have however been limited to a handful of exposure-outcome associations. When dealing with hundreds of variables forest plots can become cumbersome, requiring many separate plots to be created in order to present all of the analyses. This makes comparison and the ability to gain global overview of large analyses difficult. \par
+
+An alternative approach is to compress information into a circular rather than vertical or horizontal form. Circos plots[@Krzywinski2009], as implemented in many genetics studies to condense large genomic information into informative visuals[@Saben2014], provide an efficient visualisation tool for incorporating hundreds to thousands of data points. Circos plots have been used effectively to communicate results from large metabolomic analyses[@Kettunen2012; @Kettunen2016; @Shin2014; @Bos2021; @Taylor2019; @Bell2020]. However, the Circos software is designed for genomic data and written in programming languages unfamiliar to many epidemiologists. The `R` package `Circlize`[@Gu2014] provides most of the functionality of the Circos software and is publicly available. However, it is not designed for association analyses as performed in this thesis. As such, it can be time consuming and inefficient to produce Circos plots.
+
+>>>>>>> 803e95260cc051f98b33fe86fd1ee08eb1c5db90
 In order to efficiently and reproducibly create Circos plots that enable the exploration, interpretation, communication, and display of large epidemiological analyses as conducted in this thesis, `EpiViz` was developed. `EpiViz` is a web application and `R` package, that builds on the `Circlize`[@Gu2014] and `ComplexHeatmap`[@Gu2016] `R` packages. It enables data to be presented in a compact form that allows for the efficient identification of profile changes in metabolomic data specifically for this thesis, as well as global patterns of associations in high-dimensional epidemiological data. \par
 
 ## Methods
@@ -77,6 +86,7 @@ knitr::include_graphics("data/visualisation/figures/annotated_circos_plot.pdf")
 The [web application](https://mattlee.shinyapps.io/EpiViz/) is publicly accessible and held under an [MIT license](https://github.com/mattlee821/EpiViz/blob/master/LICENSE.txt). The web application has been tested on computers running macOS (version 10.14) and Windows (version 10) using: Internet Explorer (version 11; Windows), Google Chrome (version 79; macOS and Windows), Safari (version 13; macOS). \par
 
 The [`R` package](https://github.com/mattlee821/EpiViz/tree/master/R_package) is publicly accessible through GitHub and held under an [MIT license](https://github.com/mattlee821/EpiViz/blob/master/LICENSE.txt). The `R` package is accessible on all computers with `R` version 3.3.0 or higher and has been tested on macOS (version 10.14) and Windows (version 10) running `R` version 3.3.0 or higher. \par
+<<<<<<< HEAD
 
 A legend function is available for both the web application and `R` package and is implemented using functions from the `ComplexHeatmap`[@Gu2016] `R` package. By default, the colours used for the Circos plot in both the web-application and `R` package are accessible colours identified using [i want hue](https://medialab.github.io/iwanthue/). Data (example data), of the effect of BMI on metabolites from Kettunen et al., (2016)[@Kettunen2016] using male, female, and sex combined instruments, is provided on the web application *Home* tab and with the `R` package using the function `EpiViz::EpiViz_data*()` where `*` is 1-3. Example data can be produced for use with the web-application and `R` package using code on [GitHub](https://github.com/mattlee821/EpiViz/blob/master/R_package/data-raw/example_data_simulation.R). \par
 
@@ -85,6 +95,16 @@ In order to use the [web application](https://mattlee.shinyapps.io/EpiViz/), a w
 
 The *How to* tab provides instructions for using the application. Step 1 deals with the preparation of data to be used with the application, Step 2 deals with how to use the application, and Step 3 provides information on potential next steps. Users are instructed to upload one data frame per track of the Circos plot. Each data frame should be a tab delimited text file and `R` code is provided for users to achieve this. The user is guided through an example utilizing the example data. \par
 
+=======
+
+A legend function is available for both the web application and `R` package and is implemented using functions from the `ComplexHeatmap`[@Gu2016] `R` package. By default, the colours used for the Circos plot in both the web-application and `R` package are accessible colours identified using [i want hue](https://medialab.github.io/iwanthue/). Data (example data), of the effect of BMI on metabolites from Kettunen et al., (2016)[@Kettunen2016] using male, female, and sex combined instruments, is provided on the web application *Home* tab and with the `R` package using the function `EpiViz::EpiViz_data*()` where `*` is 1-3. Example data can be produced for use with the web-application and `R` package using code on [GitHub](https://github.com/mattlee821/EpiViz/blob/master/R_package/data-raw/example_data_simulation.R). \par
+
+#### `Shiny` web application
+In order to use the [web application](https://mattlee.shinyapps.io/EpiViz/), a web-browser and an internet connection of at least 1Mbps is required. No other system requirements are needed. Upon opening the web application, users are shown example Circos plots created using simulated and the example data described above, and are directed towards the *Home* tab. The *Home* tab provides users with a short summary of the application, a link to the `R` package, and example data for use with the app. \par
+
+The *How to* tab provides instructions for using the application. Step 1 deals with the preparation of data to be used with the application, Step 2 deals with how to use the application, and Step 3 provides information on potential next steps. Users are instructed to upload one data frame per track of the Circos plot. Each data frame should be a tab delimited text file and `R` code is provided for users to achieve this. The user is guided through an example utilizing the example data. \par
+
+>>>>>>> 803e95260cc051f98b33fe86fd1ee08eb1c5db90
 Once userse have uploaded their data, descriptive information, including a volcano plot, will be produced automatically. Users then select the *Plot* tab, from which they choose the names of the columns for the: label, group, estimate, p-value, lower confidence interval, and upper confidence interval. A p-value adjustment ($X$) can be provided to indicate a p-value threshold in the format $\displaystyle \frac{0.05} {X}$. On the Circos plot, a solid point is indicated as reaching the p-value threshold. An optional legend function is provided and users can choose the labels for the legend points. The legend is auto-populated using the levels in the `group` column of the uploaded data frame. Finally, an option to use colours accessible to individuals with colour impaired sight is provided. \par
 
 #### `R` package

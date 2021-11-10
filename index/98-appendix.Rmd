@@ -229,8 +229,13 @@ knitr::kable(data, longtable = T, booktabs = T, format = "markdown", escape = T,
 \elandscape
 
 ## Chapter 4: Observational {#appendix-observational}
+<<<<<<< HEAD
 ### Methods
 In Children, a measure for BF was not available. Instead, impedance values were used to calculate estimates of BF using equation \@ref(eq:BF). The calculated BF resulted in negative BF estimates for some children (Figure \@ref(fig:appendix-observational-figure-BF-validation-distribution)). However, the calculated BF was positively correlated with weight, height and BMI in children. In adolescents, the calculated BF did not produce negative estimates and was positively correlated with impedance and DXA derived BF estimates (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)), as well as with weight, height, and BMI (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation)). Child calculated BF positively correlated with adolescent measures of BF (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)). \par
+=======
+### Validation of impedance in children
+The calculated BF resulted in negative BF estimates for some children (Figure \@ref(fig:appendix-observational-figure-BF-validation-distribution)). However, the calculated BF was positively correlated with weight, height and BMI in children. In adolescents, the calculated BF did not produce negative estimates and was positively correlated with impedance and DXA derived BF estimates (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)), as well as with weight, height, and BMI (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation)). Child calculated BF positively correlated with adolescent measures of BF (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)). \par
+>>>>>>> 803e95260cc051f98b33fe86fd1ee08eb1c5db90
 
 Given that equation \@ref(eq:BF) was derived using adult data and the volumetric difference between adults and children (i.e., BMI cubed rather than BMI squared may be more appropriate in children[@Stergiakouli2014]), differences in the range of estimates is unsurprising. There is however strong correlation between calculated BF and impedance derived and DXA derived estimates of BF in adolescents. Given that in a linear model the estimate is based on the per-unit increase, the absolute value of the exposure therefore does not need to be positive. As such, BF calculated using equation \@ref(eq:BF) was used in subsequent analyses as a measure of BF in children. \par 
 
@@ -266,8 +271,12 @@ knitr::include_graphics("data/observational/figures/bf_validation_correlation_ch
 knitr::include_graphics("data/observational/figures/bf_validation_correlation_adolescents.pdf")
 ```
 
+<<<<<<< HEAD
 ### Results
 #### Correlations {#appendix-observational-correlations} 
+=======
+### Correlations {#appendix-observational-correlations} 
+>>>>>>> 803e95260cc051f98b33fe86fd1ee08eb1c5db90
 Due to the large number of tests performed, concordance between models, exposures, and age groups were investigated using Spearman's correlations.
 
 ```{r echo=FALSE, warning=FALSE, error=FALSE}
@@ -460,6 +469,7 @@ bf_m1_cor
 
 \newpage
 
+<<<<<<< HEAD
 #### Figures 
 
 (ref:observational-figure-adiposity-distribution-cap) **Distribution of adiposity measures across all age groups**. Raincloud plots give the distribution of all adiposity measures across age groups by sex. Body fat percentage (BF) in children is derived from equation \@ref(eq:BF). BMI = body mass index; WHR = waist hip ratio. Data is presented for all individuals given in Table \@ref(tab:observational-table-ALSPAC-adiposity). The interquartile range and median are also shown. Raincloud plots produced using the `RainCloudPlots` `R` package[@Allen2019].
@@ -471,6 +481,19 @@ knitr::include_graphics("data/observational/figures/plot_histogram_adiposity_mea
 ```
 
 
+=======
+### Figures 
+
+(ref:observational-figure-adiposity-distribution-cap) **Distribution of adiposity measures across all age groups**. Raincloud plots give the distribution of all adiposity measures across age groups by sex. Body fat percentage (BF) in children is derived from equation \@ref(eq:BF). BMI = body mass index; WHR = waist hip ratio. Data is presented for all individuals given in Table \@ref(tab:observational-table-ALSPAC-adiposity). The interquartile range and median are also shown. Raincloud plots produced using the `RainCloudPlots` `R` package[@Allen2019].
+
+(ref:observational-figure-adiposity-distribution-scap) Distribution of adiposity measures across all age groups
+
+```{r appendix-observational-figure-adiposity-distribution, echo=FALSE, out.width='100%', fig.cap='(ref:observational-figure-adiposity-distribution-cap)', fig.scap='(ref:observational-figure-adiposity-distribution-scap)'}
+knitr::include_graphics("data/observational/figures/plot_histogram_adiposity_measures.pdf")
+```
+
+
+>>>>>>> 803e95260cc051f98b33fe86fd1ee08eb1c5db90
 #### Forestplots {#appendix-observational-figures-forestplots}
 
 (ref:appendix-observational-figure-forestplot-main-cap) **Effect estimates from linear regression of adiposity measures on metabolites**. Forestplot shows effect estimates and 95% confidence intervals from model 2 for all exposures and age groups. Effect estimates are absolute change in metabolite per-standard deviation increase in exposure.

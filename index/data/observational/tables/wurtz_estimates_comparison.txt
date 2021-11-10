@@ -1,0 +1,87 @@
+metabolite	Metabolite measure [unit]	b	lower_ci	upper_ci	p	exposure	group	method
+vldld	VLDL particle size [nm]	0.0888	0.0832	0.0945	4.00E-206	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+ldld	LDL particle size [nm]	-0.00494	-0.00596	-0.00392	2.00E-21	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+hdld	HDL particle size [nm]	-0.0166	-0.0214	-0.0118	1.00E-11	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+vldlc	VLDL cholesterol [mmol/L]	0.0181	0.0165	0.0197	8.00E-110	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+idlc	IDL cholesterol [mmol/L]	0.0089	0.00771	0.0101	7.00E-49	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+ldlc	LDL cholesterol [mmol/L]	0.0335	0.0306	0.0364	1.00E-116	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+hdlc	HDL cholesterol [mmol/L]	-0.0202	-0.0218	-0.0186	3.00E-133	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+apob	Apolipoprotein B [g/l]	0.0175	0.0159	0.0191	4.00E-100	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+apoa1	Apolipoprotein A1 [g/l]	-0.00546	-0.00686	-0.00406	2.00E-14	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+totpg	Phosphoglycerides [mmol/L]	0.0104	0.00742	0.0133	5.00E-12	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+pc	Phosphatidylcholines [mmol/L]	0.00571	0.00333	0.00809	3.00E-06	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+sm	Sphingomyelin [mmol/L]	0.00311	0.00258	0.00365	3.00E-30	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+totfa	Total fatty acids [mmol/L]	0.172	0.154	0.191	1.00E-71	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+dha	Docosahexaenoic acid [mmol/L]	0.0017	0.00105	0.00236	4.00E-07	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+la	Linoleic acid [mmol/L]	0.0181	0.0125	0.0237	3.00E-10	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+faw3	n-__3 fatty acids [mmol/L]	0.00541	0.00392	0.00689	9.00E-13	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+faw3fa	n-__3 fatty acids [%]	-0.00487	-0.0113	0.00152	0.1	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+faw6	n-__6 fatty acids [mmol/L]	0.0288	0.0213	0.0364	5.00E-14	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+faw6fa	n-__6 fatty acids [%]	-0.237	-0.257	-0.217	1.00E-117	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+pufa	PUFA [mmol/L]	0.0349	0.0261	0.0437	6.00E-15	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+pufafa	PUFA [%]	-0.237	-0.262	-0.211	1.00E-71	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+mufa	MUFA [mmol/L]	0.0731	0.0675	0.0787	2.00E-145	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+mufafa	MUFA [%]	0.233	0.216	0.25	2.00E-159	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+sfa	Saturated fatty acids [mmol/L]	0.0651	0.0592	0.071	3.00E-102	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+sfafa	Saturated fatty acids [%]	0.0552	0.0226	0.0878	0.0009	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+falen	Fatty acid chain length	-0.00767	-0.0132	-0.00212	0.007	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+glc	Glucose [mmol/L]	0.0104	0.00562	0.0152	2.00E-05	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+lac	Lactate [mmol/L]	0.00797	0.0055	0.0104	3.00E-10	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+pyr	Pyruvate [µmol/l]	0.000701	0.00046	0.00095	2.00E-08	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+cit	Citrate [µmol/l]	-0.511	-0.747	-0.274	2.00E-05	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+ala	Alanine [µmol/l]	2.84	2.3	3.39	1.00E-24	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+gln	Glutamine [µmol/l]	-2.52	-3.45	-1.59	1.00E-07	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+his	Histidine [µmol/l]	0.143	-0.0276	0.313	0.1	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+ile	Isoleucine [µmol/l]	1.13	1.03	1.24	2.00E-105	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+leu	Leucine [µmol/l]	1.35	1.27	1.43	7.00E-249	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+val	Valine [µmol/l]	2.14	1.99	2.29	4.00E-164	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+phe	Phenylalanine [µmol/l]	1.15	1.09	1.21	2.00E-292	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+tyr	Tyrosine [µmol/l]	0.77	0.678	0.861	1.00E-60	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+ace	Acetate [µmol/l]	-0.213	-0.268	-0.159	2.00E-14	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+crea	Creatinine [µmol/l]	0.0264	-0.155	0.208	0.8	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+alb	Albumin [cu]	-8.20E-05	-2.10E-04	4.30E-05	0.2	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+gp	Glycoprotein acetyls [cu]	0.0189	0.0165	0.0213	5.00E-53	Wurtz et al. 2014	Wurtz et al. 2014	Obs
+vldld	VLDL particle size [nm]	0.0707	0.0319	0.11	0.0004	Wurtz et al. 2014	Wurtz et al. 2014	MR
+ldld	LDL particle size [nm]	-0.0033	-0.00872	0.00212	0.23	Wurtz et al. 2014	Wurtz et al. 2014	MR
+hdld	HDL particle size [nm]	-0.0177	-0.0246	-0.0107	6.00E-07	Wurtz et al. 2014	Wurtz et al. 2014	MR
+vldlc	VLDL cholesterol [mmol/L]	0.0114	0.00398	0.0189	0.003	Wurtz et al. 2014	Wurtz et al. 2014	MR
+idlc	IDL cholesterol [mmol/L]	0.00794	0.00183	0.014	0.01	Wurtz et al. 2014	Wurtz et al. 2014	MR
+ldlc	LDL cholesterol [mmol/L]	0.032	0.0137	0.0503	0.0006	Wurtz et al. 2014	Wurtz et al. 2014	MR
+hdlc	HDL cholesterol [mmol/L]	-0.0196	-0.0305	0.0086	0.0005	Wurtz et al. 2014	Wurtz et al. 2014	MR
+apob	Apolipoprotein B [g/l]	0.0151	0.00812	0.0221	2.00E-05	Wurtz et al. 2014	Wurtz et al. 2014	MR
+apoa1	Apolipoprotein A1 [g/l]	-0.00826	-0.016	-0.000503	0.04	Wurtz et al. 2014	Wurtz et al. 2014	MR
+totpg	Phosphoglycerides [mmol/L]	-0.00246	-0.0186	0.0137	0.77	Wurtz et al. 2014	Wurtz et al. 2014	MR
+pc	Phosphatidylcholines [mmol/L]	-0.00253	-0.0172	0.0121	0.74	Wurtz et al. 2014	Wurtz et al. 2014	MR
+sm	Sphingomyelin [mmol/L]	0.00402	0.000739	0.00729	0.02	Wurtz et al. 2014	Wurtz et al. 2014	MR
+totfa	Total fatty acids [mmol/L]	0.114	0.0291	0.198	0.008	Wurtz et al. 2014	Wurtz et al. 2014	MR
+dha	Docosahexaenoic acid [mmol/L]	0.000986	-0.000991	0.00296	0.33	Wurtz et al. 2014	Wurtz et al. 2014	MR
+la	Linoleic acid [mmol/L]	0.0124	-0.00945	0.0342	0.27	Wurtz et al. 2014	Wurtz et al. 2014	MR
+faw3	n-__3 fatty acids [mmol/L]	0.00364	-0.000428	0.0077	0.08	Wurtz et al. 2014	Wurtz et al. 2014	MR
+faw3fa	n-__3 fatty acids [%]	-0.00441	-0.0319	0.0231	0.75	Wurtz et al. 2014	Wurtz et al. 2014	MR
+faw6	n-__6 fatty acids [mmol/L]	0.0191	-0.00591	0.044	0.14	Wurtz et al. 2014	Wurtz et al. 2014	MR
+faw6fa	n-__6 fatty acids [%]	-0.146	-0.255	0.0369	0.009	Wurtz et al. 2014	Wurtz et al. 2014	MR
+pufa	PUFA [mmol/L]	0.0219	-0.00585	0.0497	0.012	Wurtz et al. 2014	Wurtz et al. 2014	MR
+pufafa	PUFA [%]	-0.149	-0.259	0.0385	0.008	Wurtz et al. 2014	Wurtz et al. 2014	MR
+mufa	MUFA [mmol/L]	0.0422	0.0113	0.073	0.007	Wurtz et al. 2014	Wurtz et al. 2014	MR
+mufafa	MUFA [%]	0.135	0.0179	0.252	0.02	Wurtz et al. 2014	Wurtz et al. 2014	MR
+sfa	Saturated fatty acids [mmol/L]	0.412	0.00756	0.0749	0.02	Wurtz et al. 2014	Wurtz et al. 2014	MR
+sfafa	Saturated fatty acids [%]	0.0271	-0.179	0.234	0.78	Wurtz et al. 2014	Wurtz et al. 2014	MR
+falen	Fatty acid chain length	0.0021	-0.0124	0.0166	0.078	Wurtz et al. 2014	Wurtz et al. 2014	MR
+glc	Glucose [mmol/L]	0.0175	-0.00319	0.0382	0.1	Wurtz et al. 2014	Wurtz et al. 2014	MR
+lac	Lactate [mmol/L]	0.00561	-0.00924	0.0205	0.46	Wurtz et al. 2014	Wurtz et al. 2014	MR
+pyr	Pyruvate [µmol/l]	0.000516	-0.00035	0.00138	0.24	Wurtz et al. 2014	Wurtz et al. 2014	MR
+cit	Citrate [µmol/l]	-0.616	-2.06	0.824	0.4	Wurtz et al. 2014	Wurtz et al. 2014	MR
+ala	Alanine [µmol/l]	1.09	-1.11	3.3	0.33	Wurtz et al. 2014	Wurtz et al. 2014	MR
+gln	Glutamine [µmol/l]	0.309	-2.41	3.03	0.82	Wurtz et al. 2014	Wurtz et al. 2014	MR
+his	Histidine [µmol/l]	0.0927	-0.356	0.542	0.69	Wurtz et al. 2014	Wurtz et al. 2014	MR
+ile	Isoleucine [µmol/l]	1.03	0.594	1.47	4.00E-06	Wurtz et al. 2014	Wurtz et al. 2014	MR
+leu	Leucine [µmol/l]	1.29	0.748	1.82	3.00E-06	Wurtz et al. 2014	Wurtz et al. 2014	MR
+val	Valine [µmol/l]	2.22	1.15	3.29	5.00E-05	Wurtz et al. 2014	Wurtz et al. 2014	MR
+phe	Phenylalanine [µmol/l]	0.974	0.35	1.6	0.002	Wurtz et al. 2014	Wurtz et al. 2014	MR
+tyr	Tyrosine [µmol/l]	0.787	0.423	1.15	2.00E-05	Wurtz et al. 2014	Wurtz et al. 2014	MR
+ace	Acetate [µmol/l]	-0.0188	-0.388	0.351	0.92	Wurtz et al. 2014	Wurtz et al. 2014	MR
+crea	Creatinine [µmol/l]	-0.131	-0.559	0.296	0.55	Wurtz et al. 2014	Wurtz et al. 2014	MR
+alb	Albumin [cu]	-0.00014	-6.30E-04	-3.50E-04	0.58	Wurtz et al. 2014	Wurtz et al. 2014	MR
+gp	Glycoprotein acetyls [cu]	0.0129	0.00579	0.0199	0.0004	Wurtz et al. 2014	Wurtz et al. 2014	MR
+								
+								

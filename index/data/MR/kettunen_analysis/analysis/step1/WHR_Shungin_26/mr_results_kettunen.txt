@@ -1,0 +1,493 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+Shungin WHR EU sex combined 26 SNPs	838	Acetoacetate || id:838	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0548244028114722	0.256556849478425	0.832591475840353
+Shungin WHR EU sex combined 26 SNPs	838	Acetoacetate || id:838	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0685674084270138	0.124048892422175	0.580438016020616
+Shungin WHR EU sex combined 26 SNPs	838	Acetoacetate || id:838	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.106918091335398	0.0760311768489583	0.159652834134985
+Shungin WHR EU sex combined 26 SNPs	838	Acetoacetate || id:838	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0691877848317801	0.171584208674394	0.690207448791542
+Shungin WHR EU sex combined 26 SNPs	839	Acetate || id:839	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.719530093664856	0.243549840054891	0.00691498954063404
+Shungin WHR EU sex combined 26 SNPs	839	Acetate || id:839	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.282560652413636	0.118335100845603	0.0169495244377569
+Shungin WHR EU sex combined 26 SNPs	839	Acetate || id:839	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.15201037768353	0.0840052123103375	0.0703679169961787
+Shungin WHR EU sex combined 26 SNPs	839	Acetate || id:839	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.363339620618677	0.173923485269802	0.0470389500016622
+Shungin WHR EU sex combined 26 SNPs	840	Alanine || id:840	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.145188269258619	0.302343161857343	0.635425922066491
+Shungin WHR EU sex combined 26 SNPs	840	Alanine || id:840	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0388489483347652	0.113102584560727	0.731234241443614
+Shungin WHR EU sex combined 26 SNPs	840	Alanine || id:840	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0258517265646222	0.0936059923737287	0.782412906154227
+Shungin WHR EU sex combined 26 SNPs	840	Alanine || id:840	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0190699743889691	0.182582190646987	0.917648882785588
+Shungin WHR EU sex combined 26 SNPs	841	Albumin || id:841	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.554117425805417	0.258852491802226	0.042666244409834
+Shungin WHR EU sex combined 26 SNPs	841	Albumin || id:841	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0215867548996802	0.120213376016186	0.857489903821611
+Shungin WHR EU sex combined 26 SNPs	841	Albumin || id:841	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0430143808159634	0.0742086428607465	0.562156657671582
+Shungin WHR EU sex combined 26 SNPs	841	Albumin || id:841	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.104137004674272	0.241865745520932	0.670479738678407
+Shungin WHR EU sex combined 26 SNPs	842	Apolipoprotein A-I || id:842	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0286614278363722	0.278687777073953	0.918941124463687
+Shungin WHR EU sex combined 26 SNPs	842	Apolipoprotein A-I || id:842	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.13919310837061	0.123228156641837	0.258663344218641
+Shungin WHR EU sex combined 26 SNPs	842	Apolipoprotein A-I || id:842	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.153122655763543	0.0888551256505046	0.0848370995490125
+Shungin WHR EU sex combined 26 SNPs	842	Apolipoprotein A-I || id:842	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.112202148162994	0.182600793805875	0.544459072365546
+Shungin WHR EU sex combined 26 SNPs	843	Apolipoprotein B || id:843	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.636635784761535	0.357265783702894	0.0874131594476447
+Shungin WHR EU sex combined 26 SNPs	843	Apolipoprotein B || id:843	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.242426252385132	0.133930496300235	0.0702818310940704
+Shungin WHR EU sex combined 26 SNPs	843	Apolipoprotein B || id:843	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.314409876597488	0.11322200704649	0.00548745654773916
+Shungin WHR EU sex combined 26 SNPs	843	Apolipoprotein B || id:843	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.476012230832707	0.210143717052479	0.0324219952868343
+Shungin WHR EU sex combined 26 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0743021702207522	0.365372631662361	0.84056804459195
+Shungin WHR EU sex combined 26 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0563769892162321	0.148573848955123	0.704350517673963
+Shungin WHR EU sex combined 26 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.00814574122930748	0.114737751409307	0.943402188740938
+Shungin WHR EU sex combined 26 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.149602215396765	0.184038076768236	0.423956730985908
+Shungin WHR EU sex combined 26 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0725392438856964	0.348997622574232	0.837099587178633
+Shungin WHR EU sex combined 26 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.144338532098115	0.153783301057239	0.347944416634863
+Shungin WHR EU sex combined 26 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.112749271040853	0.109636965318722	0.303767644545743
+Shungin WHR EU sex combined 26 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.194321743405283	0.214961910964991	0.374633775659303
+Shungin WHR EU sex combined 26 SNPs	846	3-hydroxybutyrate || id:846	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0268745045747405	0.265720306174717	0.920280862916074
+Shungin WHR EU sex combined 26 SNPs	846	3-hydroxybutyrate || id:846	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.125537398242364	0.117405806062724	0.284952275855384
+Shungin WHR EU sex combined 26 SNPs	846	3-hydroxybutyrate || id:846	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0691562326587353	0.0829593349075461	0.404497381170855
+Shungin WHR EU sex combined 26 SNPs	846	3-hydroxybutyrate || id:846	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.273117222948294	0.206004120406531	0.196898293407007
+Shungin WHR EU sex combined 26 SNPs	847	Average number of methylene groups per double bond || id:847	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.177412458018664	0.312558471426083	0.575569230188813
+Shungin WHR EU sex combined 26 SNPs	847	Average number of methylene groups per double bond || id:847	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.186014169577922	0.143233765659499	0.194055345822657
+Shungin WHR EU sex combined 26 SNPs	847	Average number of methylene groups per double bond || id:847	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.118012169027297	0.0975578022803498	0.226407818864286
+Shungin WHR EU sex combined 26 SNPs	847	Average number of methylene groups per double bond || id:847	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.27552974126945	0.199699242061039	0.179888274129747
+Shungin WHR EU sex combined 26 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.00469698158664995	0.2896786516816	0.987197345906253
+Shungin WHR EU sex combined 26 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.216024946291788	0.131275431234135	0.099849126223079
+Shungin WHR EU sex combined 26 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.227424320679935	0.0806836322594216	0.00482160173763791
+Shungin WHR EU sex combined 26 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.149744986000131	0.208762144941949	0.479838314333563
+Shungin WHR EU sex combined 26 SNPs	849	Citrate || id:849	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.244518110258148	0.241192352983107	0.320795583600283
+Shungin WHR EU sex combined 26 SNPs	849	Citrate || id:849	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0208125512302972	0.109801859038572	0.849664562691463
+Shungin WHR EU sex combined 26 SNPs	849	Citrate || id:849	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.019622675486242	0.0757529372350003	0.795608099396676
+Shungin WHR EU sex combined 26 SNPs	849	Citrate || id:849	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0737831797429283	0.164352543273036	0.657347890836859
+Shungin WHR EU sex combined 26 SNPs	850	Creatinine || id:850	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.351028691905063	0.257152499920895	0.184894958806111
+Shungin WHR EU sex combined 26 SNPs	850	Creatinine || id:850	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.132730754106901	0.109097109819753	0.223745241618851
+Shungin WHR EU sex combined 26 SNPs	850	Creatinine || id:850	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0957411295449479	0.081078925393155	0.237666823200526
+Shungin WHR EU sex combined 26 SNPs	850	Creatinine || id:850	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.167459124273377	0.15511385119896	0.290631354059168
+Shungin WHR EU sex combined 26 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.186448314392763	0.343854799623654	0.592659797596437
+Shungin WHR EU sex combined 26 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.259287599899252	0.135911669258198	0.0564215257426612
+Shungin WHR EU sex combined 26 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.107558120190147	0.108197500175652	0.320178750827048
+Shungin WHR EU sex combined 26 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.312092822482479	0.203521065359665	0.137719733094368
+Shungin WHR EU sex combined 26 SNPs	852	22:6, docosahexaenoic acid || id:852	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.197299604844409	0.312853350093383	0.534232023681882
+Shungin WHR EU sex combined 26 SNPs	852	22:6, docosahexaenoic acid || id:852	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.29738187425794	0.144136463973564	0.039093945242409
+Shungin WHR EU sex combined 26 SNPs	852	22:6, docosahexaenoic acid || id:852	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.279116058198676	0.0590855472409355	2.31328741245546e-06
+Shungin WHR EU sex combined 26 SNPs	852	22:6, docosahexaenoic acid || id:852	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.320874991393277	0.225938770310217	0.167905305523047
+Shungin WHR EU sex combined 26 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.341830308681117	0.313215409233525	0.285950736136989
+Shungin WHR EU sex combined 26 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.184875654255406	0.148155185690269	0.21208548533638
+Shungin WHR EU sex combined 26 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.103536853875074	0.0946495667830984	0.274000262549643
+Shungin WHR EU sex combined 26 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.291846351217047	0.225626215118989	0.207664324217505
+Shungin WHR EU sex combined 26 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.398395541142657	0.377346254113099	0.301580262750986
+Shungin WHR EU sex combined 26 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.125372100577367	0.152115052355359	0.409830130767063
+Shungin WHR EU sex combined 26 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0391598754851417	0.120809286752457	0.74582732428933
+Shungin WHR EU sex combined 26 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.190530406934032	0.197631992706073	0.344246005797911
+Shungin WHR EU sex combined 26 SNPs	855	Omega-3 fatty acids || id:855	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.573107480304221	0.378620658503774	0.143168035124927
+Shungin WHR EU sex combined 26 SNPs	855	Omega-3 fatty acids || id:855	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.360158680264942	0.148579016871421	0.0153497112380872
+Shungin WHR EU sex combined 26 SNPs	855	Omega-3 fatty acids || id:855	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.364544338255506	0.084031052230115	1.43647967139533e-05
+Shungin WHR EU sex combined 26 SNPs	855	Omega-3 fatty acids || id:855	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.507091393239292	0.261476084212375	0.0638243422719786
+Shungin WHR EU sex combined 26 SNPs	856	Omega-6 fatty acids || id:856	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.23609233581171	0.348216515180364	0.504253778374921
+Shungin WHR EU sex combined 26 SNPs	856	Omega-6 fatty acids || id:856	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0523363367740602	0.147127102899078	0.722048821265782
+Shungin WHR EU sex combined 26 SNPs	856	Omega-6 fatty acids || id:856	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0595748178910938	0.109774336559712	0.587334583632618
+Shungin WHR EU sex combined 26 SNPs	856	Omega-6 fatty acids || id:856	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.226502047217272	0.236481902149286	0.347335955234834
+Shungin WHR EU sex combined 26 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.263647004497679	0.396160860588051	0.512073379418888
+Shungin WHR EU sex combined 26 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.315537250659202	0.152496715173075	0.0385328296532008
+Shungin WHR EU sex combined 26 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.261103315294226	0.1241881749382	0.0355111361867142
+Shungin WHR EU sex combined 26 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.28492624435273	0.192112153851886	0.150539438288208
+Shungin WHR EU sex combined 26 SNPs	858	Free cholesterol || id:858	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.119478953590581	0.312563726240199	0.705636516419384
+Shungin WHR EU sex combined 26 SNPs	858	Free cholesterol || id:858	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0620075239961213	0.144008788081975	0.666772674923925
+Shungin WHR EU sex combined 26 SNPs	858	Free cholesterol || id:858	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0230938047623002	0.0888807317106804	0.794995566348161
+Shungin WHR EU sex combined 26 SNPs	858	Free cholesterol || id:858	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.117343406845752	0.236440268847442	0.624023971393219
+Shungin WHR EU sex combined 26 SNPs	859	Glucose || id:859	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.464302190972273	0.29018356412964	0.122674930781491
+Shungin WHR EU sex combined 26 SNPs	859	Glucose || id:859	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.136692216095905	0.118106665463243	0.247124321198085
+Shungin WHR EU sex combined 26 SNPs	859	Glucose || id:859	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.139024726929129	0.0927368227350578	0.133839423966907
+Shungin WHR EU sex combined 26 SNPs	859	Glucose || id:859	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.295460630081272	0.199162918510707	0.150437128524157
+Shungin WHR EU sex combined 26 SNPs	860	Glutamine || id:860	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.043582523099161	0.265896224407475	0.871176089671663
+Shungin WHR EU sex combined 26 SNPs	860	Glutamine || id:860	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.220397256022577	0.11429368571647	0.053812664539382
+Shungin WHR EU sex combined 26 SNPs	860	Glutamine || id:860	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.20346829676177	0.082662213646756	0.0138379525928657
+Shungin WHR EU sex combined 26 SNPs	860	Glutamine || id:860	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0417170484919562	0.176937118399205	0.815529409980098
+Shungin WHR EU sex combined 26 SNPs	861	Glycerol || id:861	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.354338797104067	0.271737644879327	0.204611297328737
+Shungin WHR EU sex combined 26 SNPs	861	Glycerol || id:861	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0438373871809568	0.125349235612036	0.72654733062604
+Shungin WHR EU sex combined 26 SNPs	861	Glycerol || id:861	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0762007172027264	0.0857347566616694	0.374112673207476
+Shungin WHR EU sex combined 26 SNPs	861	Glycerol || id:861	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.182921380840375	0.20582053460674	0.382613550198506
+Shungin WHR EU sex combined 26 SNPs	862	Glycoproteins || id:862	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.262392844307305	0.271903128020081	0.344157151452259
+Shungin WHR EU sex combined 26 SNPs	862	Glycoproteins || id:862	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.222710500606669	0.126196240182445	0.0775982160818376
+Shungin WHR EU sex combined 26 SNPs	862	Glycoproteins || id:862	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.242763529649438	0.0764341688030419	0.00149262982292868
+Shungin WHR EU sex combined 26 SNPs	862	Glycoproteins || id:862	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.177441602406529	0.18548173616849	0.347902902695077
+Shungin WHR EU sex combined 26 SNPs	863	Glycoprotein acetyls || id:863	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.443824054716668	0.296959790496677	0.148062578686906
+Shungin WHR EU sex combined 26 SNPs	863	Glycoprotein acetyls || id:863	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.200084965901749	0.127199456539938	0.115718416339098
+Shungin WHR EU sex combined 26 SNPs	863	Glycoprotein acetyls || id:863	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.180058513502724	0.0965031193693202	0.0620650111055129
+Shungin WHR EU sex combined 26 SNPs	863	Glycoprotein acetyls || id:863	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.332159367647698	0.187754140285738	0.0890740073713395
+Shungin WHR EU sex combined 26 SNPs	864	Total cholesterol in HDL || id:864	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.395453314401296	0.428225102764084	0.364953861183901
+Shungin WHR EU sex combined 26 SNPs	864	Total cholesterol in HDL || id:864	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.456714338930193	0.127437758759396	0.000338601909150648
+Shungin WHR EU sex combined 26 SNPs	864	Total cholesterol in HDL || id:864	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.435213155267409	0.133971830760967	0.00115997972468771
+Shungin WHR EU sex combined 26 SNPs	864	Total cholesterol in HDL || id:864	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.454372014215242	0.179055780982616	0.0177726267953105
+Shungin WHR EU sex combined 26 SNPs	865	Mean diameter for HDL particles || id:865	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.565261660821108	0.476513589772439	0.247136819026937
+Shungin WHR EU sex combined 26 SNPs	865	Mean diameter for HDL particles || id:865	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.394617190922302	0.141895646160918	0.00541853860609755
+Shungin WHR EU sex combined 26 SNPs	865	Mean diameter for HDL particles || id:865	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.261606217649391	0.142259769115532	0.0659250065054754
+Shungin WHR EU sex combined 26 SNPs	865	Mean diameter for HDL particles || id:865	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.543623667099526	0.226901139609536	0.0243879428517323
+Shungin WHR EU sex combined 26 SNPs	866	Histidine || id:866	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0647820880095308	0.266924136970336	0.810301120960447
+Shungin WHR EU sex combined 26 SNPs	866	Histidine || id:866	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.226430032876941	0.117554756342126	0.0540835880546676
+Shungin WHR EU sex combined 26 SNPs	866	Histidine || id:866	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0998296297468153	0.0845241323602552	0.237571566932845
+Shungin WHR EU sex combined 26 SNPs	866	Histidine || id:866	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.415043485941853	0.242276540961541	0.0990712230610045
+Shungin WHR EU sex combined 26 SNPs	867	Total cholesterol in IDL || id:867	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.303131120862641	0.25604236347476	0.248042338424614
+Shungin WHR EU sex combined 26 SNPs	867	Total cholesterol in IDL || id:867	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.120715890374365	0.120320458563593	0.315722653349066
+Shungin WHR EU sex combined 26 SNPs	867	Total cholesterol in IDL || id:867	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0480149024436807	0.0780515365817029	0.538442976395503
+Shungin WHR EU sex combined 26 SNPs	867	Total cholesterol in IDL || id:867	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.168688505546227	0.172631000807701	0.337850403356596
+Shungin WHR EU sex combined 26 SNPs	868	Free cholesterol in IDL || id:868	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.289731881296769	0.267211887170271	0.289014294299617
+Shungin WHR EU sex combined 26 SNPs	868	Free cholesterol in IDL || id:868	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0593303153696627	0.119960504555448	0.620895157098521
+Shungin WHR EU sex combined 26 SNPs	868	Free cholesterol in IDL || id:868	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0087570275371871	0.0856805241302517	0.918593499922262
+Shungin WHR EU sex combined 26 SNPs	868	Free cholesterol in IDL || id:868	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.129710064875683	0.168068394831988	0.447485244260222
+Shungin WHR EU sex combined 26 SNPs	869	Total lipids in IDL || id:869	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.329777029157622	0.256157024172294	0.210231502616468
+Shungin WHR EU sex combined 26 SNPs	869	Total lipids in IDL || id:869	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.180979555596879	0.118413578042561	0.12642112787653
+Shungin WHR EU sex combined 26 SNPs	869	Total lipids in IDL || id:869	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0731862863438937	0.077196092370799	0.34310049922112
+Shungin WHR EU sex combined 26 SNPs	869	Total lipids in IDL || id:869	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.224222509108437	0.171606765765229	0.203239287061558
+Shungin WHR EU sex combined 26 SNPs	870	Concentration of IDL particles || id:870	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.364627062591386	0.256154019490803	0.167471569165695
+Shungin WHR EU sex combined 26 SNPs	870	Concentration of IDL particles || id:870	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.166057301805189	0.119325086273045	0.164032103084757
+Shungin WHR EU sex combined 26 SNPs	870	Concentration of IDL particles || id:870	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0890158643400651	0.0790686979970871	0.2602484486111
+Shungin WHR EU sex combined 26 SNPs	870	Concentration of IDL particles || id:870	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.268041986522226	0.167893811342171	0.122942624106054
+Shungin WHR EU sex combined 26 SNPs	871	Phospholipids in IDL || id:871	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.390475876594304	0.275015503821855	0.168516510712666
+Shungin WHR EU sex combined 26 SNPs	871	Phospholipids in IDL || id:871	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0804019426688039	0.116310784991047	0.489397035242127
+Shungin WHR EU sex combined 26 SNPs	871	Phospholipids in IDL || id:871	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0258379066980165	0.0891654802161855	0.771988549227828
+Shungin WHR EU sex combined 26 SNPs	871	Phospholipids in IDL || id:871	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.19183663720681	0.172095175110503	0.275575470017655
+Shungin WHR EU sex combined 26 SNPs	872	Triglycerides in IDL || id:872	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.345346435002292	0.292837085187793	0.249832828466119
+Shungin WHR EU sex combined 26 SNPs	872	Triglycerides in IDL || id:872	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.274698689451859	0.126361060006524	0.0297112306130595
+Shungin WHR EU sex combined 26 SNPs	872	Triglycerides in IDL || id:872	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.201747088934508	0.0939804773731469	0.0318178524697535
+Shungin WHR EU sex combined 26 SNPs	872	Triglycerides in IDL || id:872	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.335266866015003	0.169295041352332	0.0587679356302004
+Shungin WHR EU sex combined 26 SNPs	873	Isoleucine || id:873	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.310309257113476	0.317874215030305	0.338702491924928
+Shungin WHR EU sex combined 26 SNPs	873	Isoleucine || id:873	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.171683111650287	0.113683788930461	0.130997214944781
+Shungin WHR EU sex combined 26 SNPs	873	Isoleucine || id:873	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.3022857211594	0.0980144488705779	0.00204173441550644
+Shungin WHR EU sex combined 26 SNPs	873	Isoleucine || id:873	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0040520431344544	0.290513858262518	0.988982302767869
+Shungin WHR EU sex combined 26 SNPs	874	Total cholesterol in large HDL || id:874	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.529232396807269	0.463794784090697	0.265090419689001
+Shungin WHR EU sex combined 26 SNPs	874	Total cholesterol in large HDL || id:874	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.57910828028063	0.134576518989474	1.68356638189832e-05
+Shungin WHR EU sex combined 26 SNPs	874	Total cholesterol in large HDL || id:874	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.433273076321649	0.145134608283738	0.00283282905959364
+Shungin WHR EU sex combined 26 SNPs	874	Total cholesterol in large HDL || id:874	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.581292434695635	0.18319842538382	0.00396963734167212
+Shungin WHR EU sex combined 26 SNPs	875	Cholesterol esters in large HDL || id:875	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.535540853235419	0.468069606143156	0.263845820738286
+Shungin WHR EU sex combined 26 SNPs	875	Cholesterol esters in large HDL || id:875	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.540795247671876	0.132778475292983	4.64286663297795e-05
+Shungin WHR EU sex combined 26 SNPs	875	Cholesterol esters in large HDL || id:875	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.340324060389108	0.149978028740204	0.0232586315176395
+Shungin WHR EU sex combined 26 SNPs	875	Cholesterol esters in large HDL || id:875	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.504093540812371	0.177539241037805	0.00885167984415438
+Shungin WHR EU sex combined 26 SNPs	876	Free cholesterol in large HDL || id:876	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.529545990629936	0.451366145520465	0.252225351810582
+Shungin WHR EU sex combined 26 SNPs	876	Free cholesterol in large HDL || id:876	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.602303603530674	0.130869342156848	4.17795079909288e-06
+Shungin WHR EU sex combined 26 SNPs	876	Free cholesterol in large HDL || id:876	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.461056135025412	0.140775570646877	0.0010561909646483
+Shungin WHR EU sex combined 26 SNPs	876	Free cholesterol in large HDL || id:876	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.627413007881669	0.169623303324922	0.00106899513184416
+Shungin WHR EU sex combined 26 SNPs	877	Total lipids in large HDL || id:877	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.522496190164546	0.4622264803412	0.269482524896523
+Shungin WHR EU sex combined 26 SNPs	877	Total lipids in large HDL || id:877	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.513511147306489	0.138467388419735	0.000208461902977219
+Shungin WHR EU sex combined 26 SNPs	877	Total lipids in large HDL || id:877	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.405850727363801	0.147741198507088	0.00601361157624918
+Shungin WHR EU sex combined 26 SNPs	877	Total lipids in large HDL || id:877	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.52161005045396	0.171515842598851	0.00546820705648835
+Shungin WHR EU sex combined 26 SNPs	878	Concentration of large HDL particles || id:878	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.515720600442366	0.457337326994384	0.270611770736221
+Shungin WHR EU sex combined 26 SNPs	878	Concentration of large HDL particles || id:878	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.545132087222064	0.141844550450351	0.000121457487795525
+Shungin WHR EU sex combined 26 SNPs	878	Concentration of large HDL particles || id:878	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.418564652759148	0.14620291071696	0.00419779948989788
+Shungin WHR EU sex combined 26 SNPs	878	Concentration of large HDL particles || id:878	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.520073126299479	0.18817523436654	0.0105690790300738
+Shungin WHR EU sex combined 26 SNPs	879	Phospholipids in large HDL || id:879	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.510506510238101	0.449023014072058	0.266793288971628
+Shungin WHR EU sex combined 26 SNPs	879	Phospholipids in large HDL || id:879	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.54345042097199	0.136500563881202	6.8537844084234e-05
+Shungin WHR EU sex combined 26 SNPs	879	Phospholipids in large HDL || id:879	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.443913821896098	0.143393574073355	0.00196301191586006
+Shungin WHR EU sex combined 26 SNPs	879	Phospholipids in large HDL || id:879	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.515613245608507	0.188498848580752	0.0112924415200235
+Shungin WHR EU sex combined 26 SNPs	880	Total cholesterol in large LDL || id:880	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.486589039177109	0.253749571436601	0.0671386811019192
+Shungin WHR EU sex combined 26 SNPs	880	Total cholesterol in large LDL || id:880	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.164110380185487	0.1232213972339	0.182914919252977
+Shungin WHR EU sex combined 26 SNPs	880	Total cholesterol in large LDL || id:880	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0343568408222801	0.0847236595174207	0.685097901573793
+Shungin WHR EU sex combined 26 SNPs	880	Total cholesterol in large LDL || id:880	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.274049278494604	0.157578297509094	0.0943129735415461
+Shungin WHR EU sex combined 26 SNPs	881	Cholesterol esters in large VLDL || id:881	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.465494836395974	0.255797121945988	0.0812889076471757
+Shungin WHR EU sex combined 26 SNPs	881	Cholesterol esters in large VLDL || id:881	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.206630089018123	0.120825507909552	0.0872376084441959
+Shungin WHR EU sex combined 26 SNPs	881	Cholesterol esters in large VLDL || id:881	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0681912529457264	0.0831015001183242	0.411886750554268
+Shungin WHR EU sex combined 26 SNPs	881	Cholesterol esters in large VLDL || id:881	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.285056014973648	0.186236571626345	0.138421978832474
+Shungin WHR EU sex combined 26 SNPs	882	Free cholesterol in large LDL || id:882	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.404198634129924	0.253042081958483	0.123270427203118
+Shungin WHR EU sex combined 26 SNPs	882	Free cholesterol in large LDL || id:882	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0739834487505161	0.111036737754633	0.505221262638213
+Shungin WHR EU sex combined 26 SNPs	882	Free cholesterol in large LDL || id:882	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0205555000157749	0.0797976610750012	0.796719280874794
+Shungin WHR EU sex combined 26 SNPs	882	Free cholesterol in large LDL || id:882	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.169378163597874	0.173647238967972	0.338698912652835
+Shungin WHR EU sex combined 26 SNPs	883	Total lipids in large LDL || id:883	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.442181594744784	0.255925808815125	0.0968775222589618
+Shungin WHR EU sex combined 26 SNPs	883	Total lipids in large LDL || id:883	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.211813363578957	0.119783866039436	0.0770113870826944
+Shungin WHR EU sex combined 26 SNPs	883	Total lipids in large LDL || id:883	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0593117615813879	0.0817609474135031	0.468188892996944
+Shungin WHR EU sex combined 26 SNPs	883	Total lipids in large LDL || id:883	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.261346497370712	0.184983953982334	0.17004206241781
+Shungin WHR EU sex combined 26 SNPs	884	Concentration of large LDL particles || id:884	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.433463241397933	0.255935391225142	0.103274439717842
+Shungin WHR EU sex combined 26 SNPs	884	Concentration of large LDL particles || id:884	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.21738834125017	0.126572114087163	0.0858867939039041
+Shungin WHR EU sex combined 26 SNPs	884	Concentration of large LDL particles || id:884	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0672884854335436	0.0827923807698311	0.416368486925239
+Shungin WHR EU sex combined 26 SNPs	884	Concentration of large LDL particles || id:884	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.277557139781062	0.170941865392182	0.116984901323814
+Shungin WHR EU sex combined 26 SNPs	885	Phospholipids in large LDL || id:885	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.471563365969836	0.253195417948893	0.0748267474072102
+Shungin WHR EU sex combined 26 SNPs	885	Phospholipids in large LDL || id:885	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.155034766055998	0.115044210579539	0.177783747829951
+Shungin WHR EU sex combined 26 SNPs	885	Phospholipids in large LDL || id:885	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0330035117739902	0.083919016080364	0.69411408639115
+Shungin WHR EU sex combined 26 SNPs	885	Phospholipids in large LDL || id:885	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.262328697673793	0.168285130303369	0.131606091768922
+Shungin WHR EU sex combined 26 SNPs	886	Total cholesterol in large VLDL || id:886	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.663390381140356	0.384879000917518	0.097634910803305
+Shungin WHR EU sex combined 26 SNPs	886	Total cholesterol in large VLDL || id:886	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.440682467704834	0.13845110944276	0.00145784572278541
+Shungin WHR EU sex combined 26 SNPs	886	Total cholesterol in large VLDL || id:886	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.425650676427121	0.122112954025177	0.000490827816897784
+Shungin WHR EU sex combined 26 SNPs	886	Total cholesterol in large VLDL || id:886	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.43778519161574	0.213370890773757	0.0508071479415385
+Shungin WHR EU sex combined 26 SNPs	887	Cholesterol esters in large VLDL || id:887	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.639981147101065	0.417177820438024	0.138090055605573
+Shungin WHR EU sex combined 26 SNPs	887	Cholesterol esters in large VLDL || id:887	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.336582183996817	0.13888052082995	0.0153701560081449
+Shungin WHR EU sex combined 26 SNPs	887	Cholesterol esters in large VLDL || id:887	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.464589744419252	0.133828997667909	0.000517525065613084
+Shungin WHR EU sex combined 26 SNPs	887	Cholesterol esters in large VLDL || id:887	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.359554645648184	0.225792545039172	0.123859007744651
+Shungin WHR EU sex combined 26 SNPs	888	Free cholesterol in large VLDL || id:888	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.715251204527946	0.377544410776831	0.0702726389688041
+Shungin WHR EU sex combined 26 SNPs	888	Free cholesterol in large VLDL || id:888	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.455580197623648	0.135237516789063	0.000755122886381107
+Shungin WHR EU sex combined 26 SNPs	888	Free cholesterol in large VLDL || id:888	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.410930930144671	0.119618079774965	0.000591771452279241
+Shungin WHR EU sex combined 26 SNPs	888	Free cholesterol in large VLDL || id:888	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.429987401642914	0.244023652966407	0.0902821169936883
+Shungin WHR EU sex combined 26 SNPs	889	Total lipids in large VLDL || id:889	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.581597110056688	0.408567082033317	0.167461098372562
+Shungin WHR EU sex combined 26 SNPs	889	Total lipids in large VLDL || id:889	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.374721578170041	0.136112333432962	0.00590461660232679
+Shungin WHR EU sex combined 26 SNPs	889	Total lipids in large VLDL || id:889	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.409686405653699	0.131073113569904	0.00177423020522578
+Shungin WHR EU sex combined 26 SNPs	889	Total lipids in large VLDL || id:889	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.480533692828243	0.229480745567998	0.0465605631812487
+Shungin WHR EU sex combined 26 SNPs	890	Concentration of large VLDL particles || id:890	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.611609875636431	0.392030297425497	0.13182482425101
+Shungin WHR EU sex combined 26 SNPs	890	Concentration of large VLDL particles || id:890	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.39482734801199	0.144818712705178	0.00640379127206058
+Shungin WHR EU sex combined 26 SNPs	890	Concentration of large VLDL particles || id:890	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.390550199519666	0.126230262809359	0.00197510359096417
+Shungin WHR EU sex combined 26 SNPs	890	Concentration of large VLDL particles || id:890	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.496572722986955	0.219525795333431	0.0326424489022243
+Shungin WHR EU sex combined 26 SNPs	891	Phospholipids in large VLDL || id:891	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.570866527099355	0.393188066349652	0.159479981972857
+Shungin WHR EU sex combined 26 SNPs	891	Phospholipids in large VLDL || id:891	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.309035016685081	0.134938407973316	0.0220101227485696
+Shungin WHR EU sex combined 26 SNPs	891	Phospholipids in large VLDL || id:891	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.333693502917873	0.123434647857513	0.00686336349071075
+Shungin WHR EU sex combined 26 SNPs	891	Phospholipids in large VLDL || id:891	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.307180676831483	0.196406848852915	0.130388546908234
+Shungin WHR EU sex combined 26 SNPs	892	Triglycerides in large VLDL || id:892	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.571762183876263	0.390796276448052	0.156422440137719
+Shungin WHR EU sex combined 26 SNPs	892	Triglycerides in large VLDL || id:892	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.35984874101364	0.12838880532208	0.00506603440337153
+Shungin WHR EU sex combined 26 SNPs	892	Triglycerides in large VLDL || id:892	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.379737387712706	0.12278892056279	0.00198409347482251
+Shungin WHR EU sex combined 26 SNPs	892	Triglycerides in large VLDL || id:892	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.347918018777802	0.185210004729206	0.0720221607983194
+Shungin WHR EU sex combined 26 SNPs	893	18:2, linoleic acid (LA) || id:893	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.259447272821056	0.338522868412092	0.450905623833052
+Shungin WHR EU sex combined 26 SNPs	893	18:2, linoleic acid (LA) || id:893	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0835417651865286	0.149013344202655	0.575047901338778
+Shungin WHR EU sex combined 26 SNPs	893	18:2, linoleic acid (LA) || id:893	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0125530440496139	0.107734947578077	0.907242143227088
+Shungin WHR EU sex combined 26 SNPs	893	18:2, linoleic acid (LA) || id:893	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.250890119325806	0.233901138977118	0.293681159874584
+Shungin WHR EU sex combined 26 SNPs	894	Lactate || id:894	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.397407247006793	0.315430699697834	0.219823857576454
+Shungin WHR EU sex combined 26 SNPs	894	Lactate || id:894	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.115226984440008	0.121418472863747	0.342617036121476
+Shungin WHR EU sex combined 26 SNPs	894	Lactate || id:894	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.125639336014546	0.0988502913020002	0.203726432522892
+Shungin WHR EU sex combined 26 SNPs	894	Lactate || id:894	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.414650845295047	0.376601863517683	0.281371014737882
+Shungin WHR EU sex combined 26 SNPs	895	Total cholesterol in LDL || id:895	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.517624220199275	0.268156458271417	0.0654678049045673
+Shungin WHR EU sex combined 26 SNPs	895	Total cholesterol in LDL || id:895	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.292590548493803	0.119990976253443	0.0147508914464291
+Shungin WHR EU sex combined 26 SNPs	895	Total cholesterol in LDL || id:895	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0942489223537863	0.0882377688501655	0.28546435760861
+Shungin WHR EU sex combined 26 SNPs	895	Total cholesterol in LDL || id:895	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.353955634633269	0.172712922914209	0.0510552401983951
+Shungin WHR EU sex combined 26 SNPs	896	Mean diameter for LDL particles || id:896	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.382687234107395	0.325002708853389	0.250545493821997
+Shungin WHR EU sex combined 26 SNPs	896	Mean diameter for LDL particles || id:896	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.112188685736715	0.128047740364007	0.380949945779385
+Shungin WHR EU sex combined 26 SNPs	896	Mean diameter for LDL particles || id:896	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.124366276858066	0.105255049654741	0.237376107162268
+Shungin WHR EU sex combined 26 SNPs	896	Mean diameter for LDL particles || id:896	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.058960360007333	0.212751386614171	0.783956884983757
+Shungin WHR EU sex combined 26 SNPs	897	Leucine || id:897	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.207707029545205	0.28859006814818	0.478641951922721
+Shungin WHR EU sex combined 26 SNPs	897	Leucine || id:897	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.311382827507982	0.115434139738591	0.00698636743145036
+Shungin WHR EU sex combined 26 SNPs	897	Leucine || id:897	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.270206057543824	0.0889413771998176	0.0023813481914854
+Shungin WHR EU sex combined 26 SNPs	897	Leucine || id:897	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.406055835007199	0.232454462869627	0.0929454665668321
+Shungin WHR EU sex combined 26 SNPs	898	Total cholesterol in medium HDL || id:898	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.115463801832693	0.32371105215809	0.724442411121743
+Shungin WHR EU sex combined 26 SNPs	898	Total cholesterol in medium HDL || id:898	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.420292614264665	0.120027554140332	0.000462413652541722
+Shungin WHR EU sex combined 26 SNPs	898	Total cholesterol in medium HDL || id:898	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.339093414402597	0.102154141132805	0.000902017522169109
+Shungin WHR EU sex combined 26 SNPs	898	Total cholesterol in medium HDL || id:898	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.374974858535875	0.171217999710447	0.0380648028358706
+Shungin WHR EU sex combined 26 SNPs	899	Cholesterol esters in medium HDL || id:899	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.131476150070037	0.319593833219586	0.684440730105419
+Shungin WHR EU sex combined 26 SNPs	899	Cholesterol esters in medium HDL || id:899	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.281902634245697	0.126546061567129	0.0259026506365537
+Shungin WHR EU sex combined 26 SNPs	899	Cholesterol esters in medium HDL || id:899	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.267317259799292	0.102433771149479	0.00906323950911711
+Shungin WHR EU sex combined 26 SNPs	899	Cholesterol esters in medium HDL || id:899	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.260460444136573	0.179554300023605	0.159325032956309
+Shungin WHR EU sex combined 26 SNPs	900	Free cholesterol in medium HDL || id:900	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0441527681201338	0.304027563342812	0.885745059314331
+Shungin WHR EU sex combined 26 SNPs	900	Free cholesterol in medium HDL || id:900	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.381520917513006	0.12020495349001	0.00150395087194051
+Shungin WHR EU sex combined 26 SNPs	900	Free cholesterol in medium HDL || id:900	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.363407907425168	0.0972284826438993	0.000185734075856286
+Shungin WHR EU sex combined 26 SNPs	900	Free cholesterol in medium HDL || id:900	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.389262109499139	0.166315010649135	0.027537303847506
+Shungin WHR EU sex combined 26 SNPs	901	Total lipids in medium HDL || id:901	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0317316935471135	0.295393911811136	0.91534746884627
+Shungin WHR EU sex combined 26 SNPs	901	Total lipids in medium HDL || id:901	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.229871416165498	0.123270863108462	0.062214095134686
+Shungin WHR EU sex combined 26 SNPs	901	Total lipids in medium HDL || id:901	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.249523233374071	0.095461733741079	0.00895267389670957
+Shungin WHR EU sex combined 26 SNPs	901	Total lipids in medium HDL || id:901	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.203525350118305	0.19596587507359	0.308943411533939
+Shungin WHR EU sex combined 26 SNPs	902	Concentration of medium HDL particles || id:902	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.00906119233906134	0.283697961913276	0.974784377734824
+Shungin WHR EU sex combined 26 SNPs	902	Concentration of medium HDL particles || id:902	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.21868911226626	0.12189008271008	0.0727892035828463
+Shungin WHR EU sex combined 26 SNPs	902	Concentration of medium HDL particles || id:902	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.224206078079823	0.0919630746796933	0.0147687286878963
+Shungin WHR EU sex combined 26 SNPs	902	Concentration of medium HDL particles || id:902	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.180581207237781	0.195771394789318	0.365132510847578
+Shungin WHR EU sex combined 26 SNPs	903	Phospholipids in medium HDL || id:903	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0364420050293349	0.300703635814119	0.904550200043845
+Shungin WHR EU sex combined 26 SNPs	903	Phospholipids in medium HDL || id:903	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.422222392046544	0.116611701585229	0.000293744669818438
+Shungin WHR EU sex combined 26 SNPs	903	Phospholipids in medium HDL || id:903	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.315233415352793	0.0956315343151363	0.000979557123157733
+Shungin WHR EU sex combined 26 SNPs	903	Phospholipids in medium HDL || id:903	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.476392484455661	0.196406641288239	0.0228388388042064
+Shungin WHR EU sex combined 26 SNPs	904	Total cholesterol in medium LDL || id:904	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.520952979721016	0.252825912536857	0.0503471147208017
+Shungin WHR EU sex combined 26 SNPs	904	Total cholesterol in medium LDL || id:904	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.185576477321601	0.123139037180288	0.131798275833242
+Shungin WHR EU sex combined 26 SNPs	904	Total cholesterol in medium LDL || id:904	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0975023706011247	0.079520417761384	0.220149754360814
+Shungin WHR EU sex combined 26 SNPs	904	Total cholesterol in medium LDL || id:904	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.327059203488552	0.203818038132445	0.121127955963466
+Shungin WHR EU sex combined 26 SNPs	905	Cholesterol esters in medium LDL || id:905	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.543928019181587	0.255825138252401	0.0439724352220012
+Shungin WHR EU sex combined 26 SNPs	905	Cholesterol esters in medium LDL || id:905	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.163391160033794	0.119861421695747	0.172829818151343
+Shungin WHR EU sex combined 26 SNPs	905	Cholesterol esters in medium LDL || id:905	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.081018266712337	0.0850244459814088	0.340649845739232
+Shungin WHR EU sex combined 26 SNPs	905	Cholesterol esters in medium LDL || id:905	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.320405625294256	0.179108682591518	0.0857576909983747
+Shungin WHR EU sex combined 26 SNPs	906	Total lipids in medium LDL || id:906	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.541022099297926	0.255746055938802	0.0449598458837908
+Shungin WHR EU sex combined 26 SNPs	906	Total lipids in medium LDL || id:906	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.195997726306515	0.119983966698347	0.102357020989116
+Shungin WHR EU sex combined 26 SNPs	906	Total lipids in medium LDL || id:906	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0899784470837788	0.0865248074087571	0.298379382226518
+Shungin WHR EU sex combined 26 SNPs	906	Total lipids in medium LDL || id:906	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.334653736599298	0.193683371198769	0.09635245833581
+Shungin WHR EU sex combined 26 SNPs	907	Concentration of medium LDL particles || id:907	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.536207141141335	0.257584185404805	0.0482080568232792
+Shungin WHR EU sex combined 26 SNPs	907	Concentration of medium LDL particles || id:907	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.212679691143733	0.120367794300036	0.0772424229601255
+Shungin WHR EU sex combined 26 SNPs	907	Concentration of medium LDL particles || id:907	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.10027710251007	0.0875553785819931	0.252085249257078
+Shungin WHR EU sex combined 26 SNPs	907	Concentration of medium LDL particles || id:907	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.351833590448649	0.201357874290557	0.0928595870308671
+Shungin WHR EU sex combined 26 SNPs	908	Phospholipids in medium LDL || id:908	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.524779523222199	0.252959941877466	0.0489188385568896
+Shungin WHR EU sex combined 26 SNPs	908	Phospholipids in medium LDL || id:908	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.24308769968765	0.117389374380156	0.0383792557464462
+Shungin WHR EU sex combined 26 SNPs	908	Phospholipids in medium LDL || id:908	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.161918274296076	0.0810446769902373	0.0457286879359286
+Shungin WHR EU sex combined 26 SNPs	908	Phospholipids in medium LDL || id:908	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.333778007349149	0.185401851785445	0.0838930998888211
+Shungin WHR EU sex combined 26 SNPs	909	Total cholesterol in medium VLDL || id:909	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.712234635828959	0.387761942581779	0.0786582470137853
+Shungin WHR EU sex combined 26 SNPs	909	Total cholesterol in medium VLDL || id:909	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.313562633848005	0.133319626762102	0.0186747060208395
+Shungin WHR EU sex combined 26 SNPs	909	Total cholesterol in medium VLDL || id:909	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.384605018071923	0.1229835964664	0.00176427532030157
+Shungin WHR EU sex combined 26 SNPs	909	Total cholesterol in medium VLDL || id:909	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.239893823785869	0.247793479762183	0.342257729041555
+Shungin WHR EU sex combined 26 SNPs	910	Cholesterol esters in medium VLDL || id:910	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.678505474377042	0.373802406959041	0.082019368266831
+Shungin WHR EU sex combined 26 SNPs	910	Cholesterol esters in medium VLDL || id:910	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.296926368056249	0.138683151469581	0.0322707000369931
+Shungin WHR EU sex combined 26 SNPs	910	Cholesterol esters in medium VLDL || id:910	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.394636605987608	0.120907855854965	0.00109872445801231
+Shungin WHR EU sex combined 26 SNPs	910	Cholesterol esters in medium VLDL || id:910	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.118902326353248	0.245584648352677	0.632486594857737
+Shungin WHR EU sex combined 26 SNPs	911	Free cholesterol in medium VLDL || id:911	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.632406684276127	0.415390991910992	0.140967908929258
+Shungin WHR EU sex combined 26 SNPs	911	Free cholesterol in medium VLDL || id:911	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.384837126268017	0.140608833322139	0.00620146937526855
+Shungin WHR EU sex combined 26 SNPs	911	Free cholesterol in medium VLDL || id:911	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.391350987646826	0.130628339144046	0.00273625530865689
+Shungin WHR EU sex combined 26 SNPs	911	Free cholesterol in medium VLDL || id:911	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.336888562595976	0.207346434942196	0.116755800391947
+Shungin WHR EU sex combined 26 SNPs	912	Total lipids in medium VLDL || id:912	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.603097995162825	0.437233529977715	0.180505559256716
+Shungin WHR EU sex combined 26 SNPs	912	Total lipids in medium VLDL || id:912	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.430065426254	0.141632434281811	0.00239350295238392
+Shungin WHR EU sex combined 26 SNPs	912	Total lipids in medium VLDL || id:912	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.397278736977371	0.140287330714236	0.00462733024265415
+Shungin WHR EU sex combined 26 SNPs	912	Total lipids in medium VLDL || id:912	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.417717007722905	0.241239804392107	0.0956794695645942
+Shungin WHR EU sex combined 26 SNPs	913	Concentration of medium VLDL particles || id:913	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.622558985403327	0.422576911507099	0.153680616608449
+Shungin WHR EU sex combined 26 SNPs	913	Concentration of medium VLDL particles || id:913	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.39079421027444	0.143767511441367	0.00656307519304518
+Shungin WHR EU sex combined 26 SNPs	913	Concentration of medium VLDL particles || id:913	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.368158043140069	0.136083773324978	0.00682267093918534
+Shungin WHR EU sex combined 26 SNPs	913	Concentration of medium VLDL particles || id:913	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.464967567004872	0.219402471702463	0.0441773310969704
+Shungin WHR EU sex combined 26 SNPs	914	Phospholipids in medium VLDL || id:914	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.609446984564429	0.422022241289905	0.161636526389337
+Shungin WHR EU sex combined 26 SNPs	914	Phospholipids in medium VLDL || id:914	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.297279037962623	0.141499353262322	0.035647854986558
+Shungin WHR EU sex combined 26 SNPs	914	Phospholipids in medium VLDL || id:914	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.371689670460466	0.132694872616642	0.00509310387171574
+Shungin WHR EU sex combined 26 SNPs	914	Phospholipids in medium VLDL || id:914	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.22123744526352	0.235213302354288	0.355919273087427
+Shungin WHR EU sex combined 26 SNPs	915	Triglycerides in medium VLDL || id:915	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.551638854935486	0.429841731646962	0.211622381702593
+Shungin WHR EU sex combined 26 SNPs	915	Triglycerides in medium VLDL || id:915	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.316089784839933	0.139168723079183	0.0231306211248339
+Shungin WHR EU sex combined 26 SNPs	915	Triglycerides in medium VLDL || id:915	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.365914799445311	0.134750744117683	0.00661770314573654
+Shungin WHR EU sex combined 26 SNPs	915	Triglycerides in medium VLDL || id:915	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.299678049398626	0.195554757199762	0.13796937460437
+Shungin WHR EU sex combined 26 SNPs	916	Mono-unsaturated fatty acids || id:916	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.244171221095987	0.379723908114871	0.526305621367796
+Shungin WHR EU sex combined 26 SNPs	916	Mono-unsaturated fatty acids || id:916	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.294669802754785	0.152701045858055	0.0536419135041264
+Shungin WHR EU sex combined 26 SNPs	916	Mono-unsaturated fatty acids || id:916	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.263921637701209	0.119098566975982	0.0266919545408664
+Shungin WHR EU sex combined 26 SNPs	916	Mono-unsaturated fatty acids || id:916	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.214742106938935	0.214563730090165	0.326497667432173
+Shungin WHR EU sex combined 26 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.417661237134622	0.313571066692926	0.195387923730156
+Shungin WHR EU sex combined 26 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.374908468810779	0.144685955742518	0.00956453087443733
+Shungin WHR EU sex combined 26 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.417885826649983	0.0790943307491653	1.26818256676415e-07
+Shungin WHR EU sex combined 26 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.32978846778519	0.226647075149227	0.158091023372338
+Shungin WHR EU sex combined 26 SNPs	918	Phosphatidylcholine and other cholines || id:918	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.150789094838719	0.387015363246639	0.700253252949901
+Shungin WHR EU sex combined 26 SNPs	918	Phosphatidylcholine and other cholines || id:918	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.00611035649741292	0.15029213239539	0.967569717442944
+Shungin WHR EU sex combined 26 SNPs	918	Phosphatidylcholine and other cholines || id:918	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0179045863849071	0.121862398199629	0.883191519909386
+Shungin WHR EU sex combined 26 SNPs	918	Phosphatidylcholine and other cholines || id:918	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0246851441603368	0.179419092547867	0.89167155145981
+Shungin WHR EU sex combined 26 SNPs	919	Phenylalanine || id:919	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.172042576154861	0.243411361700964	0.486498512739135
+Shungin WHR EU sex combined 26 SNPs	919	Phenylalanine || id:919	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.00357131024144097	0.104221386559755	0.972664576334352
+Shungin WHR EU sex combined 26 SNPs	919	Phenylalanine || id:919	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0323178301521526	0.0691770779018268	0.640374380808737
+Shungin WHR EU sex combined 26 SNPs	919	Phenylalanine || id:919	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0235458871732805	0.184462933393769	0.899450639218975
+Shungin WHR EU sex combined 26 SNPs	920	Pyruvate || id:920	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.187175742627841	0.273935336503036	0.500970879830815
+Shungin WHR EU sex combined 26 SNPs	920	Pyruvate || id:920	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.109470068446119	0.113165137503057	0.333370100120306
+Shungin WHR EU sex combined 26 SNPs	920	Pyruvate || id:920	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.099135338881954	0.0864160760314031	0.251304630742712
+Shungin WHR EU sex combined 26 SNPs	920	Pyruvate || id:920	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0525226669609966	0.160615554324548	0.746383671577472
+Shungin WHR EU sex combined 26 SNPs	921	Total lipids in small HDL || id:921	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.380981497172823	0.255877756263113	0.149532500073946
+Shungin WHR EU sex combined 26 SNPs	921	Total lipids in small HDL || id:921	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0353846885258333	0.125205589094875	0.777473750381624
+Shungin WHR EU sex combined 26 SNPs	921	Total lipids in small HDL || id:921	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0892503126764374	0.0825721975246151	0.279752242875273
+Shungin WHR EU sex combined 26 SNPs	921	Total lipids in small HDL || id:921	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.220340447839207	0.202481881198485	0.286887433257419
+Shungin WHR EU sex combined 26 SNPs	922	Concentration of small HDL particles || id:922	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.394991815014279	0.266298025638133	0.151017059937749
+Shungin WHR EU sex combined 26 SNPs	922	Concentration of small HDL particles || id:922	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0395541825301325	0.123832737818641	0.749410928030762
+Shungin WHR EU sex combined 26 SNPs	922	Concentration of small HDL particles || id:922	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0275554751685397	0.0898402280557822	0.759059213121939
+Shungin WHR EU sex combined 26 SNPs	922	Concentration of small HDL particles || id:922	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0269083202284155	0.21086573907143	0.899479500680589
+Shungin WHR EU sex combined 26 SNPs	923	Triglycerides in small HDL || id:923	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.591073812646509	0.397218381972974	0.149764921029453
+Shungin WHR EU sex combined 26 SNPs	923	Triglycerides in small HDL || id:923	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0988846910916697	0.14034551878278	0.481071446798677
+Shungin WHR EU sex combined 26 SNPs	923	Triglycerides in small HDL || id:923	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.248335382206463	0.126046332737792	0.0488164556700467
+Shungin WHR EU sex combined 26 SNPs	923	Triglycerides in small HDL || id:923	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0112870490296157	0.258777090184701	0.965556310112078
+Shungin WHR EU sex combined 26 SNPs	924	Total cholesterol in small LDL || id:924	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.540337190130363	0.26322426146845	0.0511523177126271
+Shungin WHR EU sex combined 26 SNPs	924	Total cholesterol in small LDL || id:924	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.124072528128739	0.120161100788025	0.301813822286734
+Shungin WHR EU sex combined 26 SNPs	924	Total cholesterol in small LDL || id:924	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0896434479710151	0.0874410272552286	0.305274726005484
+Shungin WHR EU sex combined 26 SNPs	924	Total cholesterol in small LDL || id:924	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.285777360221035	0.208833524785007	0.183345744670553
+Shungin WHR EU sex combined 26 SNPs	925	Total lipids in small LDL || id:925	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.558659071602607	0.278455371359208	0.0562220292729886
+Shungin WHR EU sex combined 26 SNPs	925	Total lipids in small LDL || id:925	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.182102434818893	0.122203319194304	0.136182307241594
+Shungin WHR EU sex combined 26 SNPs	925	Total lipids in small LDL || id:925	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.125989850104953	0.0937555673784413	0.17900921016436
+Shungin WHR EU sex combined 26 SNPs	925	Total lipids in small LDL || id:925	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0820486751014662	0.201374951713831	0.68715108355277
+Shungin WHR EU sex combined 26 SNPs	926	Concentration of small LDL particles || id:926	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.545276840036297	0.26970617370131	0.0544879860359854
+Shungin WHR EU sex combined 26 SNPs	926	Concentration of small LDL particles || id:926	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.143303964144415	0.12384918389775	0.247237861391886
+Shungin WHR EU sex combined 26 SNPs	926	Concentration of small LDL particles || id:926	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.147947410313515	0.0903395407746206	0.101488115570143
+Shungin WHR EU sex combined 26 SNPs	926	Concentration of small LDL particles || id:926	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0930222612809741	0.224878090918496	0.682652884387972
+Shungin WHR EU sex combined 26 SNPs	927	Total cholesterol in small VLDL || id:927	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.791901993862353	0.360354329399733	0.0378707522538607
+Shungin WHR EU sex combined 26 SNPs	927	Total cholesterol in small VLDL || id:927	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.377209337734412	0.133357082408096	0.00467570275900257
+Shungin WHR EU sex combined 26 SNPs	927	Total cholesterol in small VLDL || id:927	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.340670794877746	0.116386633949201	0.00342181592056372
+Shungin WHR EU sex combined 26 SNPs	927	Total cholesterol in small VLDL || id:927	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.694881387909652	0.244754488588252	0.00885669711623157
+Shungin WHR EU sex combined 26 SNPs	928	Free cholesterol in small VLDL || id:928	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.765200273863348	0.389723710195495	0.0612823842715016
+Shungin WHR EU sex combined 26 SNPs	928	Free cholesterol in small VLDL || id:928	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.327129911294953	0.138770276710548	0.0184059613294547
+Shungin WHR EU sex combined 26 SNPs	928	Free cholesterol in small VLDL || id:928	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.402565541817501	0.124355170839668	0.00120698635861214
+Shungin WHR EU sex combined 26 SNPs	928	Free cholesterol in small VLDL || id:928	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0331676184901002	0.270726681970189	0.903472068896487
+Shungin WHR EU sex combined 26 SNPs	929	Total lipids in small VLDL || id:929	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.743868689806221	0.410903507990469	0.0827847491944793
+Shungin WHR EU sex combined 26 SNPs	929	Total lipids in small VLDL || id:929	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.208575887586204	0.139953273890265	0.136138755805917
+Shungin WHR EU sex combined 26 SNPs	929	Total lipids in small VLDL || id:929	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.411757584310493	0.133133422672754	0.0019826499346326
+Shungin WHR EU sex combined 26 SNPs	929	Total lipids in small VLDL || id:929	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.0536473926302103	0.276894227470135	0.847939703125649
+Shungin WHR EU sex combined 26 SNPs	930	Concentration of small VLDL particles || id:930	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.722008894021652	0.423614663535188	0.101220744591698
+Shungin WHR EU sex combined 26 SNPs	930	Concentration of small VLDL particles || id:930	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.249674693302419	0.14277805355567	0.0803444513740014
+Shungin WHR EU sex combined 26 SNPs	930	Concentration of small VLDL particles || id:930	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.416316651549713	0.136841922842127	0.00234763699485651
+Shungin WHR EU sex combined 26 SNPs	930	Concentration of small VLDL particles || id:930	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.110924934321507	0.260095113067929	0.673409306489633
+Shungin WHR EU sex combined 26 SNPs	931	Phospholipids in small VLDL || id:931	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.76265235846844	0.401302786245191	0.0694526790702848
+Shungin WHR EU sex combined 26 SNPs	931	Phospholipids in small VLDL || id:931	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.204020284813667	0.140571626255726	0.146679148252226
+Shungin WHR EU sex combined 26 SNPs	931	Phospholipids in small VLDL || id:931	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.367382479161903	0.128168715207654	0.0041517263861506
+Shungin WHR EU sex combined 26 SNPs	931	Phospholipids in small VLDL || id:931	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.064215986519442	0.277252682830364	0.818722078575772
+Shungin WHR EU sex combined 26 SNPs	932	Triglycerides in small VLDL || id:932	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.663183016403129	0.444397001749334	0.148644588917608
+Shungin WHR EU sex combined 26 SNPs	932	Triglycerides in small VLDL || id:932	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.25102285753351	0.142442359284089	0.0780225506702074
+Shungin WHR EU sex combined 26 SNPs	932	Triglycerides in small VLDL || id:932	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.400009507635104	0.139739842131547	0.00420273307417096
+Shungin WHR EU sex combined 26 SNPs	932	Triglycerides in small VLDL || id:932	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.301982792652173	0.22088565122488	0.183747765609603
+Shungin WHR EU sex combined 26 SNPs	933	Serum total cholesterol || id:933	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.363351014787912	0.253461073516328	0.164598946404431
+Shungin WHR EU sex combined 26 SNPs	933	Serum total cholesterol || id:933	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0566243776564673	0.114217893359167	0.620065510987374
+Shungin WHR EU sex combined 26 SNPs	933	Serum total cholesterol || id:933	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0472695749280344	0.0794608039427635	0.551924260126914
+Shungin WHR EU sex combined 26 SNPs	933	Serum total cholesterol || id:933	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.163593980634695	0.184101383345751	0.382684216800246
+Shungin WHR EU sex combined 26 SNPs	934	Serum total triglycerides || id:934	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.589769305906248	0.423010317412618	0.176025678483366
+Shungin WHR EU sex combined 26 SNPs	934	Serum total triglycerides || id:934	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.3177556140548	0.136982631872028	0.0203582962927015
+Shungin WHR EU sex combined 26 SNPs	934	Serum total triglycerides || id:934	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.357222486554331	0.13287267159463	0.00717830438439678
+Shungin WHR EU sex combined 26 SNPs	934	Serum total triglycerides || id:934	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.282048135380599	0.225086282962662	0.221775196191271
+Shungin WHR EU sex combined 26 SNPs	935	Sphingomyelins || id:935	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.00418907443988178	0.413255481555486	0.991995961398969
+Shungin WHR EU sex combined 26 SNPs	935	Sphingomyelins || id:935	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.0548910277987314	0.149274014794267	0.71308209057742
+Shungin WHR EU sex combined 26 SNPs	935	Sphingomyelins || id:935	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0307271324254139	0.129546032804318	0.812508741689674
+Shungin WHR EU sex combined 26 SNPs	935	Sphingomyelins || id:935	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0273568184078044	0.217715642762515	0.901010940342605
+Shungin WHR EU sex combined 26 SNPs	936	Total fatty acids || id:936	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.288503544677479	0.376071443762789	0.450473257092328
+Shungin WHR EU sex combined 26 SNPs	936	Total fatty acids || id:936	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.336473780140628	0.149384054014534	0.0242965252352526
+Shungin WHR EU sex combined 26 SNPs	936	Total fatty acids || id:936	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.237666632865436	0.117908144762772	0.043832078443575
+Shungin WHR EU sex combined 26 SNPs	936	Total fatty acids || id:936	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.397199692962403	0.215118211991297	0.0767027803792489
+Shungin WHR EU sex combined 26 SNPs	937	Total phosphoglycerides || id:937	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.122301477303129	0.378896102688132	0.749654393994092
+Shungin WHR EU sex combined 26 SNPs	937	Total phosphoglycerides || id:937	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0115745785825009	0.14786594773085	0.937607304934461
+Shungin WHR EU sex combined 26 SNPs	937	Total phosphoglycerides || id:937	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0390602532407206	0.119214836332394	0.743179407025726
+Shungin WHR EU sex combined 26 SNPs	937	Total phosphoglycerides || id:937	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0141050024574225	0.20293252432243	0.945139943282267
+Shungin WHR EU sex combined 26 SNPs	938	Tyrosine || id:938	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.450499317759911	0.240969899367806	0.0737991467790373
+Shungin WHR EU sex combined 26 SNPs	938	Tyrosine || id:938	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.0993414736519611	0.11363285620622	0.381991948908453
+Shungin WHR EU sex combined 26 SNPs	938	Tyrosine || id:938	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0159912304271004	0.0801878765385042	0.841932616371788
+Shungin WHR EU sex combined 26 SNPs	938	Tyrosine || id:938	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.0137143816362646	0.174057939354157	0.937825319345629
+Shungin WHR EU sex combined 26 SNPs	939	Urea || id:939	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0352673692765264	0.259330986432062	0.89296056863581
+Shungin WHR EU sex combined 26 SNPs	939	Urea || id:939	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.120272328011985	0.118924598551821	0.31185724978309
+Shungin WHR EU sex combined 26 SNPs	939	Urea || id:939	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.101393908347757	0.0732367931553529	0.166215568424083
+Shungin WHR EU sex combined 26 SNPs	939	Urea || id:939	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.159771230648664	0.16814740274168	0.351114131923908
+Shungin WHR EU sex combined 26 SNPs	940	Valine || id:940	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.0595064452836321	0.270118404600506	0.827502563015373
+Shungin WHR EU sex combined 26 SNPs	940	Valine || id:940	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.182464365785898	0.113329150340823	0.107389315716874
+Shungin WHR EU sex combined 26 SNPs	940	Valine || id:940	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.137602083707399	0.0841620257437802	0.10205609277991
+Shungin WHR EU sex combined 26 SNPs	940	Valine || id:940	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.193900860803133	0.203070732754273	0.348799022055588
+Shungin WHR EU sex combined 26 SNPs	941	Mean diameter for VLDL particles || id:941	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.747343353338979	0.4073888744635	0.0790115286945586
+Shungin WHR EU sex combined 26 SNPs	941	Mean diameter for VLDL particles || id:941	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.394532951582615	0.144376760688615	0.00628246828192531
+Shungin WHR EU sex combined 26 SNPs	941	Mean diameter for VLDL particles || id:941	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.392962158576164	0.132298969221518	0.00297549102024566
+Shungin WHR EU sex combined 26 SNPs	941	Mean diameter for VLDL particles || id:941	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.586710159441206	0.23599948967244	0.0199571233076197
+Shungin WHR EU sex combined 26 SNPs	942	Total cholesterol in very large HDL || id:942	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.249157688859856	0.34651326027975	0.479058077520709
+Shungin WHR EU sex combined 26 SNPs	942	Total cholesterol in very large HDL || id:942	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.201604358865131	0.11826522246785	0.0882541228111458
+Shungin WHR EU sex combined 26 SNPs	942	Total cholesterol in very large HDL || id:942	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.116768961968913	0.108424844532926	0.281499201653397
+Shungin WHR EU sex combined 26 SNPs	942	Total cholesterol in very large HDL || id:942	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.208339401333619	0.202405638022464	0.313187349563252
+Shungin WHR EU sex combined 26 SNPs	943	Cholesterol esters in very large HDL || id:943	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.228485789287711	0.289060929104184	0.437011262651288
+Shungin WHR EU sex combined 26 SNPs	943	Cholesterol esters in very large HDL || id:943	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.217879205070284	0.131185413342894	0.0967437121086236
+Shungin WHR EU sex combined 26 SNPs	943	Cholesterol esters in very large HDL || id:943	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0398580236176504	0.106726561971176	0.708806656016819
+Shungin WHR EU sex combined 26 SNPs	943	Cholesterol esters in very large HDL || id:943	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.210056245937739	0.154584737241068	0.18633099823596
+Shungin WHR EU sex combined 26 SNPs	944	Free cholesterol in very large HDL || id:944	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.351457120628687	0.378857316402411	0.362811483320669
+Shungin WHR EU sex combined 26 SNPs	944	Free cholesterol in very large HDL || id:944	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.245608144964496	0.126976825583436	0.0530792811248431
+Shungin WHR EU sex combined 26 SNPs	944	Free cholesterol in very large HDL || id:944	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.169462192182357	0.11879781758832	0.153731095291499
+Shungin WHR EU sex combined 26 SNPs	944	Free cholesterol in very large HDL || id:944	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.33878878013086	0.182273988630126	0.0748847656953311
+Shungin WHR EU sex combined 26 SNPs	945	Total lipids in very large HDL || id:945	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.39382869592866	0.36547936908227	0.291939097697629
+Shungin WHR EU sex combined 26 SNPs	945	Total lipids in very large HDL || id:945	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.317110514033071	0.131479338928222	0.0158711244010592
+Shungin WHR EU sex combined 26 SNPs	945	Total lipids in very large HDL || id:945	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.13472248897698	0.117991868106897	0.253539368267653
+Shungin WHR EU sex combined 26 SNPs	945	Total lipids in very large HDL || id:945	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.379609428934448	0.177834971564638	0.0427800019972591
+Shungin WHR EU sex combined 26 SNPs	946	Concentration of very large HDL particles || id:946	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.517246708175659	0.327169998945059	0.126974928765313
+Shungin WHR EU sex combined 26 SNPs	946	Concentration of very large HDL particles || id:946	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.2975164017892	0.126578547838517	0.0187507847738804
+Shungin WHR EU sex combined 26 SNPs	946	Concentration of very large HDL particles || id:946	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.162034424138301	0.107308744060447	0.131047655390303
+Shungin WHR EU sex combined 26 SNPs	946	Concentration of very large HDL particles || id:946	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.387337070159051	0.169080614843992	0.030675556115693
+Shungin WHR EU sex combined 26 SNPs	947	Phospholipids in very large HDL || id:947	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	-0.456741272374932	0.395028795882072	0.258970348359581
+Shungin WHR EU sex combined 26 SNPs	947	Phospholipids in very large HDL || id:947	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	-0.444255270785887	0.132180043687649	0.00077664773831256
+Shungin WHR EU sex combined 26 SNPs	947	Phospholipids in very large HDL || id:947	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.249191489648822	0.126877993345227	0.0495272487388153
+Shungin WHR EU sex combined 26 SNPs	947	Phospholipids in very large HDL || id:947	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	-0.51333539613004	0.167250294482942	0.00510934852264156
+Shungin WHR EU sex combined 26 SNPs	948	Triglycerides in very large HDL || id:948	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.0688300618256897	0.252775723050912	0.787722668620597
+Shungin WHR EU sex combined 26 SNPs	948	Triglycerides in very large HDL || id:948	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.00700494462688355	0.112453350839893	0.950330295666326
+Shungin WHR EU sex combined 26 SNPs	948	Triglycerides in very large HDL || id:948	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	-0.0223758693335208	0.0773582282573524	0.772390053902081
+Shungin WHR EU sex combined 26 SNPs	948	Triglycerides in very large HDL || id:948	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.114831299293738	0.18237480988435	0.534639755734266
+Shungin WHR EU sex combined 26 SNPs	949	Total lipids in very large VLDL || id:949	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.734703267469045	0.368053617401615	0.0573799058138584
+Shungin WHR EU sex combined 26 SNPs	949	Total lipids in very large VLDL || id:949	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.52168903724702	0.138971121949862	0.00017407763005661
+Shungin WHR EU sex combined 26 SNPs	949	Total lipids in very large VLDL || id:949	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.434292688075804	0.119314939151759	0.000272759558481713
+Shungin WHR EU sex combined 26 SNPs	949	Total lipids in very large VLDL || id:949	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.702056889490692	0.20658904735117	0.00227628850568833
+Shungin WHR EU sex combined 26 SNPs	950	Concentration of very large VLDL particles || id:950	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.679097947244412	0.340021619473567	0.0572602702320454
+Shungin WHR EU sex combined 26 SNPs	950	Concentration of very large VLDL particles || id:950	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.464517963579764	0.127171962073284	0.000259521683268042
+Shungin WHR EU sex combined 26 SNPs	950	Concentration of very large VLDL particles || id:950	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.385523172517177	0.110718966271698	0.000497688191625416
+Shungin WHR EU sex combined 26 SNPs	950	Concentration of very large VLDL particles || id:950	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.507547706495332	0.182116315873502	0.0100115608879149
+Shungin WHR EU sex combined 26 SNPs	951	Phospholipids in very large VLDL || id:951	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.701118173305362	0.351112938093586	0.0573035827574194
+Shungin WHR EU sex combined 26 SNPs	951	Phospholipids in very large VLDL || id:951	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.428504328338825	0.134058746722591	0.00139157829498006
+Shungin WHR EU sex combined 26 SNPs	951	Phospholipids in very large VLDL || id:951	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.408664347664824	0.110268784286849	0.000210496268992796
+Shungin WHR EU sex combined 26 SNPs	951	Phospholipids in very large VLDL || id:951	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.544581065228881	0.257603694721248	0.0446609039302224
+Shungin WHR EU sex combined 26 SNPs	952	Triglycerides in very large VLDL || id:952	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.718453482328507	0.35560408429328	0.0546395867718931
+Shungin WHR EU sex combined 26 SNPs	952	Triglycerides in very large VLDL || id:952	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.397091391190758	0.130131486230807	0.00227729254511591
+Shungin WHR EU sex combined 26 SNPs	952	Triglycerides in very large VLDL || id:952	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.404469070754155	0.113339168180779	0.000358810316549746
+Shungin WHR EU sex combined 26 SNPs	952	Triglycerides in very large VLDL || id:952	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.399219523446219	0.232989706955758	0.0990029252100825
+Shungin WHR EU sex combined 26 SNPs	953	Total lipids in very small VLDL || id:953	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.431584560951759	0.279083366474149	0.135085191546096
+Shungin WHR EU sex combined 26 SNPs	953	Total lipids in very small VLDL || id:953	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.323484055773223	0.123672704139103	0.00890587491062127
+Shungin WHR EU sex combined 26 SNPs	953	Total lipids in very small VLDL || id:953	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.261699700360925	0.0898345752360887	0.00357826824350655
+Shungin WHR EU sex combined 26 SNPs	953	Total lipids in very small VLDL || id:953	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.435878199268473	0.187997162924802	0.0288877165350167
+Shungin WHR EU sex combined 26 SNPs	954	Concentration of very small VLDL particles || id:954	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.441730796147251	0.29433019484755	0.146449651077408
+Shungin WHR EU sex combined 26 SNPs	954	Concentration of very small VLDL particles || id:954	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.285082612101917	0.127656149556489	0.025535294184675
+Shungin WHR EU sex combined 26 SNPs	954	Concentration of very small VLDL particles || id:954	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.255700934847383	0.095155118864259	0.00720535697398061
+Shungin WHR EU sex combined 26 SNPs	954	Concentration of very small VLDL particles || id:954	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.434764293094545	0.188093965587013	0.0293377605388415
+Shungin WHR EU sex combined 26 SNPs	955	Phospholipids in very small VLDL || id:955	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.335812483851424	0.261599747423176	0.211507129186554
+Shungin WHR EU sex combined 26 SNPs	955	Phospholipids in very small VLDL || id:955	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.116808384698174	0.120425250357318	0.332063496553039
+Shungin WHR EU sex combined 26 SNPs	955	Phospholipids in very small VLDL || id:955	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.0983846761671684	0.0850801208137716	0.247527074991899
+Shungin WHR EU sex combined 26 SNPs	955	Phospholipids in very small VLDL || id:955	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.261558290597376	0.162508519833058	0.120062348477486
+Shungin WHR EU sex combined 26 SNPs	956	Triglycerides in very small VLDL || id:956	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.499180788784658	0.373417529377528	0.193825954539366
+Shungin WHR EU sex combined 26 SNPs	956	Triglycerides in very small VLDL || id:956	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.271856991123719	0.131477889925869	0.0386681287622648
+Shungin WHR EU sex combined 26 SNPs	956	Triglycerides in very small VLDL || id:956	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.337121128028154	0.119699900724044	0.00485672714733412
+Shungin WHR EU sex combined 26 SNPs	956	Triglycerides in very small VLDL || id:956	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.382725750615936	0.206742143908107	0.0759864936413286
+Shungin WHR EU sex combined 26 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.52644689206834	0.335020502824562	0.129184446858292
+Shungin WHR EU sex combined 26 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.420921933953962	0.131373811342484	0.0013553160804563
+Shungin WHR EU sex combined 26 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.404339005418254	0.107348749133252	0.000165490712219817
+Shungin WHR EU sex combined 26 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.676247056082784	0.250677984171875	0.0123244538032819
+Shungin WHR EU sex combined 26 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.696474909481802	0.311836521637776	0.0351014707311183
+Shungin WHR EU sex combined 26 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.225368673347639	0.130209583872753	0.0834848034387234
+Shungin WHR EU sex combined 26 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.230159034617608	0.105382363148788	0.0289594914519577
+Shungin WHR EU sex combined 26 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.239503274390274	0.276506567566549	0.394630837119841
+Shungin WHR EU sex combined 26 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.685039691074606	0.329158325134091	0.0482567932511785
+Shungin WHR EU sex combined 26 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.383073366441543	0.129287621408435	0.00304701400463876
+Shungin WHR EU sex combined 26 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.408737767289684	0.104343932894364	8.95773243865688e-05
+Shungin WHR EU sex combined 26 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.755761310982754	0.26993231003201	0.00971390155630932
+Shungin WHR EU sex combined 26 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Shungin WHR EU sex combined 26 SNPs	MR Egger	26	0.565289841061082	0.347503815239542	0.116857400147064
+Shungin WHR EU sex combined 26 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Shungin WHR EU sex combined 26 SNPs	Weighted median	26	0.347199198864956	0.131765734077063	0.00841438872099925
+Shungin WHR EU sex combined 26 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Shungin WHR EU sex combined 26 SNPs	Inverse variance weighted (multiplicative random effects)	26	0.395446383151867	0.109359530146996	0.000299165846564907
+Shungin WHR EU sex combined 26 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Shungin WHR EU sex combined 26 SNPs	Weighted mode	26	0.376229173794266	0.208352745095664	0.0830165863389222

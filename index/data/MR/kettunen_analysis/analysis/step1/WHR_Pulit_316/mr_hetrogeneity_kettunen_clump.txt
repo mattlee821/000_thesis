@@ -1,0 +1,616 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+Pulit WHR EU sex combined 316 SNPs clumped	838	Acetoacetate || id:838	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	228.069007115429	213	0.227931248400208
+Pulit WHR EU sex combined 316 SNPs clumped	838	Acetoacetate || id:838	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	225.679839883216	212	0.247369789905906
+Pulit WHR EU sex combined 316 SNPs clumped	838	Acetoacetate || id:838	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	228.077573591988	213	0.22781147834248
+Pulit WHR EU sex combined 316 SNPs clumped	838	Acetoacetate || id:838	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	228.066600292553	213	0.227964905704859
+Pulit WHR EU sex combined 316 SNPs clumped	838	Acetoacetate || id:838	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0361981862530742	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	839	Acetate || id:839	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	208.439297176361	213	0.575423218737199
+Pulit WHR EU sex combined 316 SNPs clumped	839	Acetate || id:839	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	208.279951758638	212	0.559340795680158
+Pulit WHR EU sex combined 316 SNPs clumped	839	Acetate || id:839	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	208.527770918507	213	0.573719334184636
+Pulit WHR EU sex combined 316 SNPs clumped	839	Acetate || id:839	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	208.396279184811	213	0.576251354530657
+Pulit WHR EU sex combined 316 SNPs clumped	839	Acetate || id:839	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0331309022863453	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	840	Alanine || id:840	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	299.783978217105	213	8.12173390754949e-05
+Pulit WHR EU sex combined 316 SNPs clumped	840	Alanine || id:840	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	299.777843693709	212	6.7598217920744e-05
+Pulit WHR EU sex combined 316 SNPs clumped	840	Alanine || id:840	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	299.79426842853	213	8.10878308200722e-05
+Pulit WHR EU sex combined 316 SNPs clumped	840	Alanine || id:840	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	299.778857888677	213	8.12818549334146e-05
+Pulit WHR EU sex combined 316 SNPs clumped	840	Alanine || id:840	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0439315799376589	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	841	Albumin || id:841	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	221.622025645472	213	0.328365394649198
+Pulit WHR EU sex combined 316 SNPs clumped	841	Albumin || id:841	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	221.622265091241	212	0.311121853105683
+Pulit WHR EU sex combined 316 SNPs clumped	841	Albumin || id:841	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	221.622274740676	213	0.328361147521341
+Pulit WHR EU sex combined 316 SNPs clumped	841	Albumin || id:841	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	221.621887661463	213	0.328367747317719
+Pulit WHR EU sex combined 316 SNPs clumped	841	Albumin || id:841	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0650420502146469	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	842	Apolipoprotein A-I || id:842	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	270.0672864524	213	0.0049080423151886
+Pulit WHR EU sex combined 316 SNPs clumped	842	Apolipoprotein A-I || id:842	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	269.815753495093	212	0.00441638466630069
+Pulit WHR EU sex combined 316 SNPs clumped	842	Apolipoprotein A-I || id:842	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	270.199332518529	213	0.00483082774716872
+Pulit WHR EU sex combined 316 SNPs clumped	842	Apolipoprotein A-I || id:842	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	269.988988255048	213	0.00495435705280507
+Pulit WHR EU sex combined 316 SNPs clumped	842	Apolipoprotein A-I || id:842	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.049671834803759	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	843	Apolipoprotein B || id:843	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	548.411595235803	213	1.96908167895621e-31
+Pulit WHR EU sex combined 316 SNPs clumped	843	Apolipoprotein B || id:843	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	540.11301792035	212	1.57356517426539e-30
+Pulit WHR EU sex combined 316 SNPs clumped	843	Apolipoprotein B || id:843	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	548.708535256442	213	1.79655907929842e-31
+Pulit WHR EU sex combined 316 SNPs clumped	843	Apolipoprotein B || id:843	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	548.289035411571	213	2.04501363711852e-31
+Pulit WHR EU sex combined 316 SNPs clumped	843	Apolipoprotein B || id:843	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.105158862010933	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	844	Ratio of bisallylic groups to double bonds || id:844	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	260.602417663585	213	0.0144188775019049
+Pulit WHR EU sex combined 316 SNPs clumped	844	Ratio of bisallylic groups to double bonds || id:844	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	256.064518694914	212	0.0207108160309567
+Pulit WHR EU sex combined 316 SNPs clumped	844	Ratio of bisallylic groups to double bonds || id:844	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	260.620982460582	213	0.0143900958538788
+Pulit WHR EU sex combined 316 SNPs clumped	844	Ratio of bisallylic groups to double bonds || id:844	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	260.593885714575	213	0.0144321219437863
+Pulit WHR EU sex combined 316 SNPs clumped	844	Ratio of bisallylic groups to double bonds || id:844	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.110387182751582	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	845	Ratio of bisallylic groups to total fatty acids || id:845	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	247.730680329421	213	0.0514494061896067
+Pulit WHR EU sex combined 316 SNPs clumped	845	Ratio of bisallylic groups to total fatty acids || id:845	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	245.183699171911	212	0.0586309294121184
+Pulit WHR EU sex combined 316 SNPs clumped	845	Ratio of bisallylic groups to total fatty acids || id:845	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	247.78187772406	213	0.0512131202410449
+Pulit WHR EU sex combined 316 SNPs clumped	845	Ratio of bisallylic groups to total fatty acids || id:845	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	247.707493826058	213	0.051556711887328
+Pulit WHR EU sex combined 316 SNPs clumped	845	Ratio of bisallylic groups to total fatty acids || id:845	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.112680998794502	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	846	3-hydroxybutyrate || id:846	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	222.542224960147	213	0.312852143649028
+Pulit WHR EU sex combined 316 SNPs clumped	846	3-hydroxybutyrate || id:846	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	219.386854821957	212	0.349398794796086
+Pulit WHR EU sex combined 316 SNPs clumped	846	3-hydroxybutyrate || id:846	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	222.548190244223	213	0.312752750165649
+Pulit WHR EU sex combined 316 SNPs clumped	846	3-hydroxybutyrate || id:846	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	222.540417625143	213	0.312882260476052
+Pulit WHR EU sex combined 316 SNPs clumped	846	3-hydroxybutyrate || id:846	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0338839498323136	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	847	Average number of methylene groups per double bond || id:847	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	235.33455147203	213	0.140409447823388
+Pulit WHR EU sex combined 316 SNPs clumped	847	Average number of methylene groups per double bond || id:847	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	233.127539674191	212	0.152460841878689
+Pulit WHR EU sex combined 316 SNPs clumped	847	Average number of methylene groups per double bond || id:847	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	235.429942640049	213	0.13944737442921
+Pulit WHR EU sex combined 316 SNPs clumped	847	Average number of methylene groups per double bond || id:847	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	235.307390291282	213	0.140684253259743
+Pulit WHR EU sex combined 316 SNPs clumped	847	Average number of methylene groups per double bond || id:847	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.108752622963284	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	848	Average number of methylene groups in a fatty acid chain || id:848	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	187.573231616295	213	0.894721564009473
+Pulit WHR EU sex combined 316 SNPs clumped	848	Average number of methylene groups in a fatty acid chain || id:848	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	187.591222487387	212	0.885222684049104
+Pulit WHR EU sex combined 316 SNPs clumped	848	Average number of methylene groups in a fatty acid chain || id:848	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	187.634476584101	213	0.894131911644871
+Pulit WHR EU sex combined 316 SNPs clumped	848	Average number of methylene groups in a fatty acid chain || id:848	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	187.554362892793	213	0.894902774065714
+Pulit WHR EU sex combined 316 SNPs clumped	848	Average number of methylene groups in a fatty acid chain || id:848	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.04422507876977	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	849	Citrate || id:849	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	256.480580006762	213	0.0222126570400067
+Pulit WHR EU sex combined 316 SNPs clumped	849	Citrate || id:849	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	256.606805715857	212	0.0195798071990094
+Pulit WHR EU sex combined 316 SNPs clumped	849	Citrate || id:849	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	256.607258853628	213	0.0219271326034988
+Pulit WHR EU sex combined 316 SNPs clumped	849	Citrate || id:849	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	256.444678458523	213	0.0222941616379062
+Pulit WHR EU sex combined 316 SNPs clumped	849	Citrate || id:849	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0359245380646817	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	850	Creatinine || id:850	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	304.305294845336	213	3.98436029064785e-05
+Pulit WHR EU sex combined 316 SNPs clumped	850	Creatinine || id:850	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	304.301366078984	212	3.29179024823364e-05
+Pulit WHR EU sex combined 316 SNPs clumped	850	Creatinine || id:850	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	304.305633072397	213	3.98414477702953e-05
+Pulit WHR EU sex combined 316 SNPs clumped	850	Creatinine || id:850	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	304.305148384081	213	3.98445361720676e-05
+Pulit WHR EU sex combined 316 SNPs clumped	850	Creatinine || id:850	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0402820921198194	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	851	Average number of double bonds in a fatty acid chain || id:851	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	238.937944931768	213	0.107299051814571
+Pulit WHR EU sex combined 316 SNPs clumped	851	Average number of double bonds in a fatty acid chain || id:851	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	236.869357074481	212	0.11592560205747
+Pulit WHR EU sex combined 316 SNPs clumped	851	Average number of double bonds in a fatty acid chain || id:851	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	238.98449811829	213	0.106913659582705
+Pulit WHR EU sex combined 316 SNPs clumped	851	Average number of double bonds in a fatty acid chain || id:851	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	238.921166638117	213	0.107438208944995
+Pulit WHR EU sex combined 316 SNPs clumped	851	Average number of double bonds in a fatty acid chain || id:851	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.100988291184946	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	852	22:6, docosahexaenoic acid || id:852	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	242.388455938917	213	0.0814847691784798
+Pulit WHR EU sex combined 316 SNPs clumped	852	22:6, docosahexaenoic acid || id:852	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	237.513724833505	212	0.110354940093066
+Pulit WHR EU sex combined 316 SNPs clumped	852	22:6, docosahexaenoic acid || id:852	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	242.39519888541	213	0.0814395878593968
+Pulit WHR EU sex combined 316 SNPs clumped	852	22:6, docosahexaenoic acid || id:852	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	242.385543473232	213	0.0815042903449976
+Pulit WHR EU sex combined 316 SNPs clumped	852	22:6, docosahexaenoic acid || id:852	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0563213882615878	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	853	Free cholesterol to esterified cholesterol ratio || id:853	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	357.464189418734	213	2.08168236567813e-09
+Pulit WHR EU sex combined 316 SNPs clumped	853	Free cholesterol to esterified cholesterol ratio || id:853	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	355.039122413234	212	2.64127675596181e-09
+Pulit WHR EU sex combined 316 SNPs clumped	853	Free cholesterol to esterified cholesterol ratio || id:853	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	357.465470986657	213	2.08112577642428e-09
+Pulit WHR EU sex combined 316 SNPs clumped	853	Free cholesterol to esterified cholesterol ratio || id:853	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	357.46365358969	213	2.08191512135727e-09
+Pulit WHR EU sex combined 316 SNPs clumped	853	Free cholesterol to esterified cholesterol ratio || id:853	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.12342032902706	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	854	Description of average fatty acid chain length, not actual carbon number || id:854	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	254.369052368395	213	0.0274694100072476
+Pulit WHR EU sex combined 316 SNPs clumped	854	Description of average fatty acid chain length, not actual carbon number || id:854	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	248.73341502706	212	0.0425218611663158
+Pulit WHR EU sex combined 316 SNPs clumped	854	Description of average fatty acid chain length, not actual carbon number || id:854	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	254.376716312412	213	0.0274485443122717
+Pulit WHR EU sex combined 316 SNPs clumped	854	Description of average fatty acid chain length, not actual carbon number || id:854	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	254.365525588922	213	0.0274790165250262
+Pulit WHR EU sex combined 316 SNPs clumped	854	Description of average fatty acid chain length, not actual carbon number || id:854	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0892148106035937	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	855	Omega-3 fatty acids || id:855	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	251.087913215776	213	0.0377479853239192
+Pulit WHR EU sex combined 316 SNPs clumped	855	Omega-3 fatty acids || id:855	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	247.368704870829	212	0.0482133698369303
+Pulit WHR EU sex combined 316 SNPs clumped	855	Omega-3 fatty acids || id:855	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	251.126867703059	213	0.0376091062190401
+Pulit WHR EU sex combined 316 SNPs clumped	855	Omega-3 fatty acids || id:855	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	251.066432530582	213	0.0378247524297163
+Pulit WHR EU sex combined 316 SNPs clumped	855	Omega-3 fatty acids || id:855	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0717308579941887	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	856	Omega-6 fatty acids || id:856	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	353.743203514661	213	4.49999627703617e-09
+Pulit WHR EU sex combined 316 SNPs clumped	856	Omega-6 fatty acids || id:856	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	351.959826197183	212	4.99400714122547e-09
+Pulit WHR EU sex combined 316 SNPs clumped	856	Omega-6 fatty acids || id:856	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	353.743719631848	213	4.49951859414261e-09
+Pulit WHR EU sex combined 316 SNPs clumped	856	Omega-6 fatty acids || id:856	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	353.7427803914	213	4.50038792819672e-09
+Pulit WHR EU sex combined 316 SNPs clumped	856	Omega-6 fatty acids || id:856	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.107031745895061	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	857	Omega-7, omega-9 and saturated fatty acids || id:857	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	312.453246961896	213	1.04572329742551e-05
+Pulit WHR EU sex combined 316 SNPs clumped	857	Omega-7, omega-9 and saturated fatty acids || id:857	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	312.44262268418	212	8.54183811748424e-06
+Pulit WHR EU sex combined 316 SNPs clumped	857	Omega-7, omega-9 and saturated fatty acids || id:857	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	312.535333564323	213	1.03136767078651e-05
+Pulit WHR EU sex combined 316 SNPs clumped	857	Omega-7, omega-9 and saturated fatty acids || id:857	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	312.414461719874	213	1.05257305933116e-05
+Pulit WHR EU sex combined 316 SNPs clumped	857	Omega-7, omega-9 and saturated fatty acids || id:857	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0912587525067735	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	858	Free cholesterol || id:858	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	326.482514298321	213	8.94462728867236e-07
+Pulit WHR EU sex combined 316 SNPs clumped	858	Free cholesterol || id:858	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	326.260202580376	212	7.43872377917955e-07
+Pulit WHR EU sex combined 316 SNPs clumped	858	Free cholesterol || id:858	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	326.501254854077	213	8.91417025835798e-07
+Pulit WHR EU sex combined 316 SNPs clumped	858	Free cholesterol || id:858	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	326.474033947608	213	8.95844271103448e-07
+Pulit WHR EU sex combined 316 SNPs clumped	858	Free cholesterol || id:858	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0847439916219254	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	859	Glucose || id:859	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	233.795587773853	213	0.156592429237479
+Pulit WHR EU sex combined 316 SNPs clumped	859	Glucose || id:859	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	231.188281811586	212	0.174303709035927
+Pulit WHR EU sex combined 316 SNPs clumped	859	Glucose || id:859	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	233.797617148825	213	0.156570263387936
+Pulit WHR EU sex combined 316 SNPs clumped	859	Glucose || id:859	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	233.794555495418	213	0.156603705140882
+Pulit WHR EU sex combined 316 SNPs clumped	859	Glucose || id:859	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0411697925531752	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	860	Glutamine || id:860	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	229.628695891281	213	0.20676270927494
+Pulit WHR EU sex combined 316 SNPs clumped	860	Glutamine || id:860	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	228.828717921386	212	0.203616322368852
+Pulit WHR EU sex combined 316 SNPs clumped	860	Glutamine || id:860	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	229.816569029925	213	0.204300031993098
+Pulit WHR EU sex combined 316 SNPs clumped	860	Glutamine || id:860	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	229.52924931253	213	0.208073901304782
+Pulit WHR EU sex combined 316 SNPs clumped	860	Glutamine || id:860	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0299792252873669	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	861	Glycerol || id:861	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	268.67059439938	213	0.00579639234120678
+Pulit WHR EU sex combined 316 SNPs clumped	861	Glycerol || id:861	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	268.692383491061	212	0.00505739095743237
+Pulit WHR EU sex combined 316 SNPs clumped	861	Glycerol || id:861	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	268.696793016396	213	0.00577846592263864
+Pulit WHR EU sex combined 316 SNPs clumped	861	Glycerol || id:861	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	268.65940424047	213	0.0058040645908774
+Pulit WHR EU sex combined 316 SNPs clumped	861	Glycerol || id:861	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0587255766503979	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	862	Glycoproteins || id:862	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	264.377781022557	213	0.0095139470622041
+Pulit WHR EU sex combined 316 SNPs clumped	862	Glycoproteins || id:862	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	260.56157263851	212	0.0128443376232694
+Pulit WHR EU sex combined 316 SNPs clumped	862	Glycoproteins || id:862	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	264.497333348642	213	0.00938661292555538
+Pulit WHR EU sex combined 316 SNPs clumped	862	Glycoproteins || id:862	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	264.339751490107	213	0.00955477535128095
+Pulit WHR EU sex combined 316 SNPs clumped	862	Glycoproteins || id:862	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0478642030026425	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	863	Glycoprotein acetyls || id:863	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	345.627808310572	213	2.32505571600725e-08
+Pulit WHR EU sex combined 316 SNPs clumped	863	Glycoprotein acetyls || id:863	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	345.348229040759	212	1.91011226920733e-08
+Pulit WHR EU sex combined 316 SNPs clumped	863	Glycoprotein acetyls || id:863	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	345.841746423076	213	2.22810766737128e-08
+Pulit WHR EU sex combined 316 SNPs clumped	863	Glycoprotein acetyls || id:863	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	345.49995578164	213	2.38495155224295e-08
+Pulit WHR EU sex combined 316 SNPs clumped	863	Glycoprotein acetyls || id:863	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.081613201081089	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	864	Total cholesterol in HDL || id:864	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	393.522113503548	213	6.92842952810738e-13
+Pulit WHR EU sex combined 316 SNPs clumped	864	Total cholesterol in HDL || id:864	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	392.42639880789	212	6.54072418616596e-13
+Pulit WHR EU sex combined 316 SNPs clumped	864	Total cholesterol in HDL || id:864	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	394.076897251512	213	6.08187781320167e-13
+Pulit WHR EU sex combined 316 SNPs clumped	864	Total cholesterol in HDL || id:864	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	393.118720028313	213	7.6160932079411e-13
+Pulit WHR EU sex combined 316 SNPs clumped	864	Total cholesterol in HDL || id:864	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0674049570965822	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	865	Mean diameter for HDL particles || id:865	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	377.550087867845	213	2.69935505997944e-11
+Pulit WHR EU sex combined 316 SNPs clumped	865	Mean diameter for HDL particles || id:865	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	374.102236080592	212	4.34578096351437e-11
+Pulit WHR EU sex combined 316 SNPs clumped	865	Mean diameter for HDL particles || id:865	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	378.140910307265	213	2.36478592882129e-11
+Pulit WHR EU sex combined 316 SNPs clumped	865	Mean diameter for HDL particles || id:865	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	377.022960493312	213	3.03697593240663e-11
+Pulit WHR EU sex combined 316 SNPs clumped	865	Mean diameter for HDL particles || id:865	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0819682087484219	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	866	Histidine || id:866	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	228.609806340647	213	0.220445727576946
+Pulit WHR EU sex combined 316 SNPs clumped	866	Histidine || id:866	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	228.612142288298	212	0.20645721656032
+Pulit WHR EU sex combined 316 SNPs clumped	866	Histidine || id:866	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	228.624271345996	213	0.220247622419959
+Pulit WHR EU sex combined 316 SNPs clumped	866	Histidine || id:866	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	228.60267176937	213	0.220543479594277
+Pulit WHR EU sex combined 316 SNPs clumped	866	Histidine || id:866	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0419066513330236	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	867	Total cholesterol in IDL || id:867	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	440.045489000383	213	6.45275767523616e-18
+Pulit WHR EU sex combined 316 SNPs clumped	867	Total cholesterol in IDL || id:867	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	434.458355876774	212	1.92447112039585e-17
+Pulit WHR EU sex combined 316 SNPs clumped	867	Total cholesterol in IDL || id:867	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	440.051428826623	213	6.44271272330712e-18
+Pulit WHR EU sex combined 316 SNPs clumped	867	Total cholesterol in IDL || id:867	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	440.04405020825	213	6.45519318079548e-18
+Pulit WHR EU sex combined 316 SNPs clumped	867	Total cholesterol in IDL || id:867	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0780557469703376	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	868	Free cholesterol in IDL || id:868	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	429.154507412308	213	1.08737581511956e-16
+Pulit WHR EU sex combined 316 SNPs clumped	868	Free cholesterol in IDL || id:868	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	423.674228010434	212	3.0901588128289e-16
+Pulit WHR EU sex combined 316 SNPs clumped	868	Free cholesterol in IDL || id:868	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	429.161696174968	213	1.0853738206262e-16
+Pulit WHR EU sex combined 316 SNPs clumped	868	Free cholesterol in IDL || id:868	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	429.152854905435	213	1.0878365381458e-16
+Pulit WHR EU sex combined 316 SNPs clumped	868	Free cholesterol in IDL || id:868	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.068247653343056	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	869	Total lipids in IDL || id:869	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	430.857913415647	213	7.02084793729039e-17
+Pulit WHR EU sex combined 316 SNPs clumped	869	Total lipids in IDL || id:869	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	425.268780579883	212	2.05820428926584e-16
+Pulit WHR EU sex combined 316 SNPs clumped	869	Total lipids in IDL || id:869	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	430.887572848123	213	6.96747293860827e-17
+Pulit WHR EU sex combined 316 SNPs clumped	869	Total lipids in IDL || id:869	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	430.849109311974	213	7.03676966774502e-17
+Pulit WHR EU sex combined 316 SNPs clumped	869	Total lipids in IDL || id:869	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0764012148757864	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	870	Concentration of IDL particles || id:870	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	421.579454207164	213	7.45881655340871e-16
+Pulit WHR EU sex combined 316 SNPs clumped	870	Concentration of IDL particles || id:870	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	416.124157197859	212	2.07509049260186e-15
+Pulit WHR EU sex combined 316 SNPs clumped	870	Concentration of IDL particles || id:870	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	421.627142376507	213	7.36969725155404e-16
+Pulit WHR EU sex combined 316 SNPs clumped	870	Concentration of IDL particles || id:870	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	421.565442570768	213	7.48520378759721e-16
+Pulit WHR EU sex combined 316 SNPs clumped	870	Concentration of IDL particles || id:870	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0749774150880961	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	871	Phospholipids in IDL || id:871	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	442.985523879672	213	2.97757219748091e-18
+Pulit WHR EU sex combined 316 SNPs clumped	871	Phospholipids in IDL || id:871	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	436.99595079467	212	9.92142936149855e-18
+Pulit WHR EU sex combined 316 SNPs clumped	871	Phospholipids in IDL || id:871	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	443.028732628538	213	2.94381951188388e-18
+Pulit WHR EU sex combined 316 SNPs clumped	871	Phospholipids in IDL || id:871	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	442.972561859099	213	2.9877722191619e-18
+Pulit WHR EU sex combined 316 SNPs clumped	871	Phospholipids in IDL || id:871	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0702985218768473	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	872	Triglycerides in IDL || id:872	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	372.231381389249	213	8.78393348293312e-11
+Pulit WHR EU sex combined 316 SNPs clumped	872	Triglycerides in IDL || id:872	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	370.554695952776	212	9.52794815848631e-11
+Pulit WHR EU sex combined 316 SNPs clumped	872	Triglycerides in IDL || id:872	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	372.391586282524	213	8.47977921074947e-11
+Pulit WHR EU sex combined 316 SNPs clumped	872	Triglycerides in IDL || id:872	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	372.145292037637	213	8.95178911676509e-11
+Pulit WHR EU sex combined 316 SNPs clumped	872	Triglycerides in IDL || id:872	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0666677533536651	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	873	Isoleucine || id:873	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	331.621766880829	213	3.46771661362541e-07
+Pulit WHR EU sex combined 316 SNPs clumped	873	Isoleucine || id:873	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	331.447205383001	212	2.8397371253895e-07
+Pulit WHR EU sex combined 316 SNPs clumped	873	Isoleucine || id:873	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	331.952391508157	213	3.25993667108745e-07
+Pulit WHR EU sex combined 316 SNPs clumped	873	Isoleucine || id:873	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	331.476220841672	213	3.5632217873184e-07
+Pulit WHR EU sex combined 316 SNPs clumped	873	Isoleucine || id:873	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0621785865510364	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	874	Total cholesterol in large HDL || id:874	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	450.378752104599	213	4.17420481369136e-19
+Pulit WHR EU sex combined 316 SNPs clumped	874	Total cholesterol in large HDL || id:874	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	446.108957584868	212	8.93309393733224e-19
+Pulit WHR EU sex combined 316 SNPs clumped	874	Total cholesterol in large HDL || id:874	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	451.223749151707	213	3.32868603216816e-19
+Pulit WHR EU sex combined 316 SNPs clumped	874	Total cholesterol in large HDL || id:874	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	449.716099391182	213	4.98369891396583e-19
+Pulit WHR EU sex combined 316 SNPs clumped	874	Total cholesterol in large HDL || id:874	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0862058829861491	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	875	Cholesterol esters in large HDL || id:875	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	435.558482443267	213	2.08211416842024e-17
+Pulit WHR EU sex combined 316 SNPs clumped	875	Cholesterol esters in large HDL || id:875	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	431.524014348587	212	4.12232695254495e-17
+Pulit WHR EU sex combined 316 SNPs clumped	875	Cholesterol esters in large HDL || id:875	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	436.37816991927	213	1.68234710284967e-17
+Pulit WHR EU sex combined 316 SNPs clumped	875	Cholesterol esters in large HDL || id:875	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	435.019451436519	213	2.39499879876469e-17
+Pulit WHR EU sex combined 316 SNPs clumped	875	Cholesterol esters in large HDL || id:875	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.085521394759933	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	876	Free cholesterol in large HDL || id:876	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	444.153603857394	213	2.18709218139325e-18
+Pulit WHR EU sex combined 316 SNPs clumped	876	Free cholesterol in large HDL || id:876	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	441.973777881453	212	2.67791563538182e-18
+Pulit WHR EU sex combined 316 SNPs clumped	876	Free cholesterol in large HDL || id:876	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	444.989075133523	213	1.75322176125531e-18
+Pulit WHR EU sex combined 316 SNPs clumped	876	Free cholesterol in large HDL || id:876	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	443.471422352026	213	2.6191513763483e-18
+Pulit WHR EU sex combined 316 SNPs clumped	876	Free cholesterol in large HDL || id:876	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0847467150061234	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	877	Total lipids in large HDL || id:877	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	435.894041040618	213	1.90818358697877e-17
+Pulit WHR EU sex combined 316 SNPs clumped	877	Total lipids in large HDL || id:877	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	433.193893687023	212	2.67376350060348e-17
+Pulit WHR EU sex combined 316 SNPs clumped	877	Total lipids in large HDL || id:877	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	436.686910847216	213	1.55238853219716e-17
+Pulit WHR EU sex combined 316 SNPs clumped	877	Total lipids in large HDL || id:877	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	435.327661792893	213	2.21079599316524e-17
+Pulit WHR EU sex combined 316 SNPs clumped	877	Total lipids in large HDL || id:877	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0867868495405529	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	878	Concentration of large HDL particles || id:878	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	432.703839736165	213	4.36229872140571e-17
+Pulit WHR EU sex combined 316 SNPs clumped	878	Concentration of large HDL particles || id:878	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	430.171324247201	212	5.84736447702658e-17
+Pulit WHR EU sex combined 316 SNPs clumped	878	Concentration of large HDL particles || id:878	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	433.489373553843	213	3.56055927194833e-17
+Pulit WHR EU sex combined 316 SNPs clumped	878	Concentration of large HDL particles || id:878	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	432.166559105855	213	5.01135031486662e-17
+Pulit WHR EU sex combined 316 SNPs clumped	878	Concentration of large HDL particles || id:878	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0870707564207115	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	879	Phospholipids in large HDL || id:879	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	436.354908400844	213	1.69256485444201e-17
+Pulit WHR EU sex combined 316 SNPs clumped	879	Phospholipids in large HDL || id:879	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	434.244051931006	212	2.03489502658922e-17
+Pulit WHR EU sex combined 316 SNPs clumped	879	Phospholipids in large HDL || id:879	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	437.104017561114	213	1.39249870287002e-17
+Pulit WHR EU sex combined 316 SNPs clumped	879	Phospholipids in large HDL || id:879	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	435.796674074545	213	1.95711147406725e-17
+Pulit WHR EU sex combined 316 SNPs clumped	879	Phospholipids in large HDL || id:879	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0867664927668944	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	880	Total cholesterol in large LDL || id:880	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	506.34280137312	213	6.24087639689402e-26
+Pulit WHR EU sex combined 316 SNPs clumped	880	Total cholesterol in large LDL || id:880	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	492.932931311892	212	1.99731654393035e-24
+Pulit WHR EU sex combined 316 SNPs clumped	880	Total cholesterol in large LDL || id:880	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	506.361930864003	213	6.20599134795533e-26
+Pulit WHR EU sex combined 316 SNPs clumped	880	Total cholesterol in large LDL || id:880	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	506.336761006968	213	6.25193226088408e-26
+Pulit WHR EU sex combined 316 SNPs clumped	880	Total cholesterol in large LDL || id:880	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0997349840510031	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	881	Cholesterol esters in large VLDL || id:881	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	517.202312440397	213	2.52973871874547e-27
+Pulit WHR EU sex combined 316 SNPs clumped	881	Cholesterol esters in large VLDL || id:881	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	505.75138517195	212	4.78318217715836e-26
+Pulit WHR EU sex combined 316 SNPs clumped	881	Cholesterol esters in large VLDL || id:881	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	517.234806255795	213	2.50541575869142e-27
+Pulit WHR EU sex combined 316 SNPs clumped	881	Cholesterol esters in large VLDL || id:881	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	517.195214958574	213	2.53508268059171e-27
+Pulit WHR EU sex combined 316 SNPs clumped	881	Cholesterol esters in large VLDL || id:881	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.098336661828002	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	882	Free cholesterol in large LDL || id:882	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	485.679603780456	213	2.43385616688101e-23
+Pulit WHR EU sex combined 316 SNPs clumped	882	Free cholesterol in large LDL || id:882	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	473.264634694505	212	5.34363598544914e-22
+Pulit WHR EU sex combined 316 SNPs clumped	882	Free cholesterol in large LDL || id:882	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	485.682900582785	213	2.43157585128121e-23
+Pulit WHR EU sex combined 316 SNPs clumped	882	Free cholesterol in large LDL || id:882	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	485.67782772107	213	2.43508550406908e-23
+Pulit WHR EU sex combined 316 SNPs clumped	882	Free cholesterol in large LDL || id:882	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0924544438492494	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	883	Total lipids in large LDL || id:883	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	514.915544151305	213	4.98785454947339e-27
+Pulit WHR EU sex combined 316 SNPs clumped	883	Total lipids in large LDL || id:883	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	503.705209887058	212	8.71761740756293e-26
+Pulit WHR EU sex combined 316 SNPs clumped	883	Total lipids in large LDL || id:883	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	514.956273944195	213	4.92799370865311e-27
+Pulit WHR EU sex combined 316 SNPs clumped	883	Total lipids in large LDL || id:883	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	514.907243982913	213	5.00014186553587e-27
+Pulit WHR EU sex combined 316 SNPs clumped	883	Total lipids in large LDL || id:883	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0969458688695971	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	884	Concentration of large LDL particles || id:884	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	508.245482415609	213	3.57105824369138e-26
+Pulit WHR EU sex combined 316 SNPs clumped	884	Concentration of large LDL particles || id:884	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	497.709662594527	212	5.01126116060601e-25
+Pulit WHR EU sex combined 316 SNPs clumped	884	Concentration of large LDL particles || id:884	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	508.293971108488	213	3.52054589712974e-26
+Pulit WHR EU sex combined 316 SNPs clumped	884	Concentration of large LDL particles || id:884	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	508.232591026079	213	3.58460861039804e-26
+Pulit WHR EU sex combined 316 SNPs clumped	884	Concentration of large LDL particles || id:884	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0951924528711721	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	885	Phospholipids in large LDL || id:885	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	483.388369364874	213	4.66351256738087e-23
+Pulit WHR EU sex combined 316 SNPs clumped	885	Phospholipids in large LDL || id:885	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	472.103552542484	212	7.39232329179042e-22
+Pulit WHR EU sex combined 316 SNPs clumped	885	Phospholipids in large LDL || id:885	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	483.419670348385	213	4.62233866952081e-23
+Pulit WHR EU sex combined 316 SNPs clumped	885	Phospholipids in large LDL || id:885	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	483.38304538568	213	4.67055203418732e-23
+Pulit WHR EU sex combined 316 SNPs clumped	885	Phospholipids in large LDL || id:885	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0958147371451246	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	886	Total cholesterol in large VLDL || id:886	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	433.912732621322	213	3.19097912322553e-17
+Pulit WHR EU sex combined 316 SNPs clumped	886	Total cholesterol in large VLDL || id:886	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	433.879037838063	212	2.2376283515149e-17
+Pulit WHR EU sex combined 316 SNPs clumped	886	Total cholesterol in large VLDL || id:886	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	434.152114948914	213	2.99911860367627e-17
+Pulit WHR EU sex combined 316 SNPs clumped	886	Total cholesterol in large VLDL || id:886	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	433.713968471184	213	3.35949840270088e-17
+Pulit WHR EU sex combined 316 SNPs clumped	886	Total cholesterol in large VLDL || id:886	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0667091816018439	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	887	Cholesterol esters in large VLDL || id:887	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	423.367571993687	213	4.7483281241332e-16
+Pulit WHR EU sex combined 316 SNPs clumped	887	Cholesterol esters in large VLDL || id:887	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	421.763811363905	212	5.01886617728212e-16
+Pulit WHR EU sex combined 316 SNPs clumped	887	Cholesterol esters in large VLDL || id:887	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	423.613833392699	213	4.46135839987907e-16
+Pulit WHR EU sex combined 316 SNPs clumped	887	Cholesterol esters in large VLDL || id:887	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	423.177600305065	213	4.98213638862587e-16
+Pulit WHR EU sex combined 316 SNPs clumped	887	Cholesterol esters in large VLDL || id:887	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0718211535812543	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	888	Free cholesterol in large VLDL || id:888	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	425.06265777707	213	3.08944732406728e-16
+Pulit WHR EU sex combined 316 SNPs clumped	888	Free cholesterol in large VLDL || id:888	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	424.615684660551	212	2.43137459601886e-16
+Pulit WHR EU sex combined 316 SNPs clumped	888	Free cholesterol in large VLDL || id:888	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	425.274615534478	213	2.92745576381251e-16
+Pulit WHR EU sex combined 316 SNPs clumped	888	Free cholesterol in large VLDL || id:888	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	424.885634152054	213	3.23152568983466e-16
+Pulit WHR EU sex combined 316 SNPs clumped	888	Free cholesterol in large VLDL || id:888	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0650775417231389	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	889	Total lipids in large VLDL || id:889	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	412.543294423662	213	7.10211702396798e-15
+Pulit WHR EU sex combined 316 SNPs clumped	889	Total lipids in large VLDL || id:889	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	412.506501990616	212	5.10718184464395e-15
+Pulit WHR EU sex combined 316 SNPs clumped	889	Total lipids in large VLDL || id:889	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	412.781032508828	213	6.69742541443079e-15
+Pulit WHR EU sex combined 316 SNPs clumped	889	Total lipids in large VLDL || id:889	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	412.35930159	213	7.43185764905395e-15
+Pulit WHR EU sex combined 316 SNPs clumped	889	Total lipids in large VLDL || id:889	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0814116010445713	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	890	Concentration of large VLDL particles || id:890	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	413.085764021279	213	6.21192529535624e-15
+Pulit WHR EU sex combined 316 SNPs clumped	890	Concentration of large VLDL particles || id:890	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	411.897339029933	212	5.9389647674313e-15
+Pulit WHR EU sex combined 316 SNPs clumped	890	Concentration of large VLDL particles || id:890	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	413.305637868594	213	5.88342567380606e-15
+Pulit WHR EU sex combined 316 SNPs clumped	890	Concentration of large VLDL particles || id:890	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	412.895152733248	213	6.51135883746922e-15
+Pulit WHR EU sex combined 316 SNPs clumped	890	Concentration of large VLDL particles || id:890	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0853323625747576	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	891	Phospholipids in large VLDL || id:891	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	433.297408264227	213	3.74183837122687e-17
+Pulit WHR EU sex combined 316 SNPs clumped	891	Phospholipids in large VLDL || id:891	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	432.931178339627	212	2.86251163849722e-17
+Pulit WHR EU sex combined 316 SNPs clumped	891	Phospholipids in large VLDL || id:891	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	433.526907998818	213	3.52614605866703e-17
+Pulit WHR EU sex combined 316 SNPs clumped	891	Phospholipids in large VLDL || id:891	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	433.112283618152	213	3.92531933719902e-17
+Pulit WHR EU sex combined 316 SNPs clumped	891	Phospholipids in large VLDL || id:891	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0690638282523044	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	892	Triglycerides in large VLDL || id:892	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	448.138609689798	213	7.59296788805759e-19
+Pulit WHR EU sex combined 316 SNPs clumped	892	Triglycerides in large VLDL || id:892	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	448.228035559904	212	5.07200835720733e-19
+Pulit WHR EU sex combined 316 SNPs clumped	892	Triglycerides in large VLDL || id:892	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	448.373575597104	213	7.13197485459577e-19
+Pulit WHR EU sex combined 316 SNPs clumped	892	Triglycerides in large VLDL || id:892	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	447.932146542106	213	8.02238371952251e-19
+Pulit WHR EU sex combined 316 SNPs clumped	892	Triglycerides in large VLDL || id:892	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0721783739803976	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	893	18:2, linoleic acid (LA) || id:893	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	382.464603424583	213	8.91190305454335e-12
+Pulit WHR EU sex combined 316 SNPs clumped	893	18:2, linoleic acid (LA) || id:893	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	379.431732218202	212	1.31363804227509e-11
+Pulit WHR EU sex combined 316 SNPs clumped	893	18:2, linoleic acid (LA) || id:893	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	382.519334144264	213	8.80175100802156e-12
+Pulit WHR EU sex combined 316 SNPs clumped	893	18:2, linoleic acid (LA) || id:893	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	382.445620115856	213	8.9504259663813e-12
+Pulit WHR EU sex combined 316 SNPs clumped	893	18:2, linoleic acid (LA) || id:893	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.114834974275691	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	894	Lactate || id:894	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	247.774566920738	213	0.05124680611906
+Pulit WHR EU sex combined 316 SNPs clumped	894	Lactate || id:894	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	247.583826702055	212	0.047276329843065
+Pulit WHR EU sex combined 316 SNPs clumped	894	Lactate || id:894	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	247.82480722456	213	0.0510156831102165
+Pulit WHR EU sex combined 316 SNPs clumped	894	Lactate || id:894	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	247.742675976199	213	0.0513939634301492
+Pulit WHR EU sex combined 316 SNPs clumped	894	Lactate || id:894	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0333782914783108	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	895	Total cholesterol in LDL || id:895	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	570.00616156344	213	2.31536315447788e-34
+Pulit WHR EU sex combined 316 SNPs clumped	895	Total cholesterol in LDL || id:895	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	554.341683043139	212	1.9320558602486e-32
+Pulit WHR EU sex combined 316 SNPs clumped	895	Total cholesterol in LDL || id:895	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	570.076757400042	213	2.26429299364654e-34
+Pulit WHR EU sex combined 316 SNPs clumped	895	Total cholesterol in LDL || id:895	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	569.988036483742	213	2.3286593317769e-34
+Pulit WHR EU sex combined 316 SNPs clumped	895	Total cholesterol in LDL || id:895	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.107192960778811	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	896	Mean diameter for LDL particles || id:896	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	286.32497056152	213	0.000591998872452052
+Pulit WHR EU sex combined 316 SNPs clumped	896	Mean diameter for LDL particles || id:896	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	281.129201352805	212	0.00103272618725165
+Pulit WHR EU sex combined 316 SNPs clumped	896	Mean diameter for LDL particles || id:896	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	286.340674056399	213	0.000590699605856043
+Pulit WHR EU sex combined 316 SNPs clumped	896	Mean diameter for LDL particles || id:896	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	286.316721327088	213	0.000592682468785076
+Pulit WHR EU sex combined 316 SNPs clumped	896	Mean diameter for LDL particles || id:896	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0527874222072186	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	897	Leucine || id:897	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	284.863124852309	213	0.000725432837378677
+Pulit WHR EU sex combined 316 SNPs clumped	897	Leucine || id:897	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	282.676566495455	212	0.000836348858235329
+Pulit WHR EU sex combined 316 SNPs clumped	897	Leucine || id:897	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	284.984972061411	213	0.000713314330852529
+Pulit WHR EU sex combined 316 SNPs clumped	897	Leucine || id:897	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	284.814912488314	213	0.000730280996819965
+Pulit WHR EU sex combined 316 SNPs clumped	897	Leucine || id:897	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0489978969925991	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	898	Total cholesterol in medium HDL || id:898	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	335.933565929306	213	1.53718449553729e-07
+Pulit WHR EU sex combined 316 SNPs clumped	898	Total cholesterol in medium HDL || id:898	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	334.956644702087	212	1.45980030844062e-07
+Pulit WHR EU sex combined 316 SNPs clumped	898	Total cholesterol in medium HDL || id:898	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	336.057521757452	213	1.5012810026145e-07
+Pulit WHR EU sex combined 316 SNPs clumped	898	Total cholesterol in medium HDL || id:898	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	335.866218919935	213	1.55704117085473e-07
+Pulit WHR EU sex combined 316 SNPs clumped	898	Total cholesterol in medium HDL || id:898	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0755476877688087	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	899	Cholesterol esters in medium HDL || id:899	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	311.340274813383	213	1.2604326456585e-05
+Pulit WHR EU sex combined 316 SNPs clumped	899	Cholesterol esters in medium HDL || id:899	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	309.516216858897	212	1.39815737949224e-05
+Pulit WHR EU sex combined 316 SNPs clumped	899	Cholesterol esters in medium HDL || id:899	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	311.442287901771	213	1.239106473474e-05
+Pulit WHR EU sex combined 316 SNPs clumped	899	Cholesterol esters in medium HDL || id:899	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	311.265749950475	213	1.2762354313702e-05
+Pulit WHR EU sex combined 316 SNPs clumped	899	Cholesterol esters in medium HDL || id:899	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0752363557603591	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	900	Free cholesterol in medium HDL || id:900	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	296.751233277947	213	0.000129337543550664
+Pulit WHR EU sex combined 316 SNPs clumped	900	Free cholesterol in medium HDL || id:900	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	296.6845941855	212	0.000109171663429198
+Pulit WHR EU sex combined 316 SNPs clumped	900	Free cholesterol in medium HDL || id:900	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	296.841646463928	213	0.000127574440297766
+Pulit WHR EU sex combined 316 SNPs clumped	900	Free cholesterol in medium HDL || id:900	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	296.686925169169	213	0.000130605676491008
+Pulit WHR EU sex combined 316 SNPs clumped	900	Free cholesterol in medium HDL || id:900	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0591947876514026	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	901	Total lipids in medium HDL || id:901	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	273.731539589302	213	0.00313497858238149
+Pulit WHR EU sex combined 316 SNPs clumped	901	Total lipids in medium HDL || id:901	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	273.010533879684	212	0.00297758597555881
+Pulit WHR EU sex combined 316 SNPs clumped	901	Total lipids in medium HDL || id:901	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	273.773806388805	213	0.00311850266623392
+Pulit WHR EU sex combined 316 SNPs clumped	901	Total lipids in medium HDL || id:901	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	273.703838780625	213	0.00314581993456971
+Pulit WHR EU sex combined 316 SNPs clumped	901	Total lipids in medium HDL || id:901	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0620904407325807	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	902	Concentration of medium HDL particles || id:902	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	259.379725667092	213	0.0164301247521897
+Pulit WHR EU sex combined 316 SNPs clumped	902	Concentration of medium HDL particles || id:902	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	258.710966217541	212	0.0156867180966678
+Pulit WHR EU sex combined 316 SNPs clumped	902	Concentration of medium HDL particles || id:902	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	259.403271672716	213	0.0163891723810014
+Pulit WHR EU sex combined 316 SNPs clumped	902	Concentration of medium HDL particles || id:902	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	259.364982895054	213	0.0164558119269448
+Pulit WHR EU sex combined 316 SNPs clumped	902	Concentration of medium HDL particles || id:902	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0563862510827387	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	903	Phospholipids in medium HDL || id:903	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	272.363053086374	213	0.00371365912265435
+Pulit WHR EU sex combined 316 SNPs clumped	903	Phospholipids in medium HDL || id:903	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	271.714492642405	212	0.00349939447341929
+Pulit WHR EU sex combined 316 SNPs clumped	903	Phospholipids in medium HDL || id:903	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	272.390375216902	213	0.00370120609788721
+Pulit WHR EU sex combined 316 SNPs clumped	903	Phospholipids in medium HDL || id:903	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	272.34483762853	213	0.00372198278101968
+Pulit WHR EU sex combined 316 SNPs clumped	903	Phospholipids in medium HDL || id:903	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0532569726775996	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	904	Total cholesterol in medium LDL || id:904	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	550.786512597456	213	9.44925723952127e-32
+Pulit WHR EU sex combined 316 SNPs clumped	904	Total cholesterol in medium LDL || id:904	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	535.062218079398	212	7.37529711311832e-30
+Pulit WHR EU sex combined 316 SNPs clumped	904	Total cholesterol in medium LDL || id:904	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	550.868350564981	213	9.21286646140862e-32
+Pulit WHR EU sex combined 316 SNPs clumped	904	Total cholesterol in medium LDL || id:904	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	550.766057938918	213	9.50927901906734e-32
+Pulit WHR EU sex combined 316 SNPs clumped	904	Total cholesterol in medium LDL || id:904	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.11095599191658	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	905	Cholesterol esters in medium LDL || id:905	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	534.668249285196	213	1.32632738521746e-29
+Pulit WHR EU sex combined 316 SNPs clumped	905	Cholesterol esters in medium LDL || id:905	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	521.318133244152	212	4.70898840118836e-28
+Pulit WHR EU sex combined 316 SNPs clumped	905	Cholesterol esters in medium LDL || id:905	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	534.720458094061	213	1.30545054222141e-29
+Pulit WHR EU sex combined 316 SNPs clumped	905	Cholesterol esters in medium LDL || id:905	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	534.65349304253	213	1.33228804193711e-29
+Pulit WHR EU sex combined 316 SNPs clumped	905	Cholesterol esters in medium LDL || id:905	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.104024972373567	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	906	Total lipids in medium LDL || id:906	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	545.869002564857	213	4.31225354326231e-31
+Pulit WHR EU sex combined 316 SNPs clumped	906	Total lipids in medium LDL || id:906	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	532.855816607775	212	1.44412126269222e-29
+Pulit WHR EU sex combined 316 SNPs clumped	906	Total lipids in medium LDL || id:906	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	545.945879498286	213	4.21138702618855e-31
+Pulit WHR EU sex combined 316 SNPs clumped	906	Total lipids in medium LDL || id:906	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	545.844013603543	213	4.34555591425441e-31
+Pulit WHR EU sex combined 316 SNPs clumped	906	Total lipids in medium LDL || id:906	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.10713105221123	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	907	Concentration of medium LDL particles || id:907	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	540.271394569065	213	2.40288706964886e-30
+Pulit WHR EU sex combined 316 SNPs clumped	907	Concentration of medium LDL particles || id:907	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	527.941668547732	212	6.40894273784645e-29
+Pulit WHR EU sex combined 316 SNPs clumped	907	Concentration of medium LDL particles || id:907	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	540.360844205437	213	2.33802765751861e-30
+Pulit WHR EU sex combined 316 SNPs clumped	907	Concentration of medium LDL particles || id:907	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	540.246176483614	213	2.4214943118198e-30
+Pulit WHR EU sex combined 316 SNPs clumped	907	Concentration of medium LDL particles || id:907	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.105592386690167	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	908	Phospholipids in medium LDL || id:908	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	518.127239235734	213	1.92119857940966e-27
+Pulit WHR EU sex combined 316 SNPs clumped	908	Phospholipids in medium LDL || id:908	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	508.247565795241	212	2.29463379699412e-26
+Pulit WHR EU sex combined 316 SNPs clumped	908	Phospholipids in medium LDL || id:908	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	518.24670002423	213	1.85407404335456e-27
+Pulit WHR EU sex combined 316 SNPs clumped	908	Phospholipids in medium LDL || id:908	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	518.094540203537	213	1.93999014616728e-27
+Pulit WHR EU sex combined 316 SNPs clumped	908	Phospholipids in medium LDL || id:908	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.107534948398003	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	909	Total cholesterol in medium VLDL || id:909	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	486.829338220347	213	1.75469193355745e-23
+Pulit WHR EU sex combined 316 SNPs clumped	909	Total cholesterol in medium VLDL || id:909	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	485.187895707004	212	1.84134529482377e-23
+Pulit WHR EU sex combined 316 SNPs clumped	909	Total cholesterol in medium VLDL || id:909	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	487.092530512141	213	1.6279386045926e-23
+Pulit WHR EU sex combined 316 SNPs clumped	909	Total cholesterol in medium VLDL || id:909	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	486.624186598051	213	1.86026014043349e-23
+Pulit WHR EU sex combined 316 SNPs clumped	909	Total cholesterol in medium VLDL || id:909	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0751799096661655	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	910	Cholesterol esters in medium VLDL || id:910	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	472.161918525669	213	1.09073747288239e-21
+Pulit WHR EU sex combined 316 SNPs clumped	910	Cholesterol esters in medium VLDL || id:910	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	469.196809524127	212	1.66128223573556e-21
+Pulit WHR EU sex combined 316 SNPs clumped	910	Cholesterol esters in medium VLDL || id:910	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	472.365314893409	213	1.03071665497898e-21
+Pulit WHR EU sex combined 316 SNPs clumped	910	Cholesterol esters in medium VLDL || id:910	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	472.023468097636	213	1.13356789491428e-21
+Pulit WHR EU sex combined 316 SNPs clumped	910	Cholesterol esters in medium VLDL || id:910	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0927522732179008	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	911	Free cholesterol in medium VLDL || id:911	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	485.981172616579	213	2.23382303829459e-23
+Pulit WHR EU sex combined 316 SNPs clumped	911	Free cholesterol in medium VLDL || id:911	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	484.673862671245	212	2.13187407084818e-23
+Pulit WHR EU sex combined 316 SNPs clumped	911	Free cholesterol in medium VLDL || id:911	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	486.262480251968	213	2.06200370567425e-23
+Pulit WHR EU sex combined 316 SNPs clumped	911	Free cholesterol in medium VLDL || id:911	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	485.751724195683	213	2.3844545087647e-23
+Pulit WHR EU sex combined 316 SNPs clumped	911	Free cholesterol in medium VLDL || id:911	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0747102051768888	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	912	Total lipids in medium VLDL || id:912	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	484.844991445632	213	3.08521734229337e-23
+Pulit WHR EU sex combined 316 SNPs clumped	912	Total lipids in medium VLDL || id:912	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	483.133047384901	212	3.30506303668599e-23
+Pulit WHR EU sex combined 316 SNPs clumped	912	Total lipids in medium VLDL || id:912	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	485.142142553829	213	2.83551968838904e-23
+Pulit WHR EU sex combined 316 SNPs clumped	912	Total lipids in medium VLDL || id:912	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	484.578731909765	213	3.32746962523823e-23
+Pulit WHR EU sex combined 316 SNPs clumped	912	Total lipids in medium VLDL || id:912	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0899141578926768	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	913	Concentration of medium VLDL particles || id:913	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	496.275781165691	213	1.16772971624731e-24
+Pulit WHR EU sex combined 316 SNPs clumped	913	Concentration of medium VLDL particles || id:913	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	494.221981908723	212	1.37659602303565e-24
+Pulit WHR EU sex combined 316 SNPs clumped	913	Concentration of medium VLDL particles || id:913	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	496.682924385685	213	1.03812298356765e-24
+Pulit WHR EU sex combined 316 SNPs clumped	913	Concentration of medium VLDL particles || id:913	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	495.944701792439	213	1.28489631007958e-24
+Pulit WHR EU sex combined 316 SNPs clumped	913	Concentration of medium VLDL particles || id:913	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.100050396494043	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	914	Phospholipids in medium VLDL || id:914	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	491.156919963687	213	5.09475603231243e-24
+Pulit WHR EU sex combined 316 SNPs clumped	914	Phospholipids in medium VLDL || id:914	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	490.004063902405	212	4.64057455205038e-24
+Pulit WHR EU sex combined 316 SNPs clumped	914	Phospholipids in medium VLDL || id:914	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	491.430983580361	213	4.70969069317289e-24
+Pulit WHR EU sex combined 316 SNPs clumped	914	Phospholipids in medium VLDL || id:914	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	490.915440357646	213	5.45990253165335e-24
+Pulit WHR EU sex combined 316 SNPs clumped	914	Phospholipids in medium VLDL || id:914	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0772661035346297	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	915	Triglycerides in medium VLDL || id:915	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	482.40519766218	213	6.16013510678687e-23
+Pulit WHR EU sex combined 316 SNPs clumped	915	Triglycerides in medium VLDL || id:915	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	482.274725130501	212	4.21751367927004e-23
+Pulit WHR EU sex combined 316 SNPs clumped	915	Triglycerides in medium VLDL || id:915	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	482.716783805744	213	5.64029879859761e-23
+Pulit WHR EU sex combined 316 SNPs clumped	915	Triglycerides in medium VLDL || id:915	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	482.10210328546	213	6.71145837466063e-23
+Pulit WHR EU sex combined 316 SNPs clumped	915	Triglycerides in medium VLDL || id:915	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0763084235910561	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	916	Mono-unsaturated fatty acids || id:916	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	309.646908832077	213	1.67057209154708e-05
+Pulit WHR EU sex combined 316 SNPs clumped	916	Mono-unsaturated fatty acids || id:916	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	309.110116642268	212	1.49607802542076e-05
+Pulit WHR EU sex combined 316 SNPs clumped	916	Mono-unsaturated fatty acids || id:916	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	309.698403640884	213	1.65639350376351e-05
+Pulit WHR EU sex combined 316 SNPs clumped	916	Mono-unsaturated fatty acids || id:916	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	309.620458645099	213	1.6779002287146e-05
+Pulit WHR EU sex combined 316 SNPs clumped	916	Mono-unsaturated fatty acids || id:916	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0900881615389763	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	917	Other polyunsaturated fatty acids than 18:2 || id:917	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	254.735023411733	213	0.0264881221658821
+Pulit WHR EU sex combined 316 SNPs clumped	917	Other polyunsaturated fatty acids than 18:2 || id:917	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	252.764006395475	212	0.0288972441716974
+Pulit WHR EU sex combined 316 SNPs clumped	917	Other polyunsaturated fatty acids than 18:2 || id:917	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	254.796251765673	213	0.0263269325625969
+Pulit WHR EU sex combined 316 SNPs clumped	917	Other polyunsaturated fatty acids than 18:2 || id:917	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	254.709612540194	213	0.0265552679855928
+Pulit WHR EU sex combined 316 SNPs clumped	917	Other polyunsaturated fatty acids than 18:2 || id:917	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0586204915440948	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	918	Phosphatidylcholine and other cholines || id:918	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	247.525805421476	213	0.0524039592357394
+Pulit WHR EU sex combined 316 SNPs clumped	918	Phosphatidylcholine and other cholines || id:918	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	247.549046608471	212	0.0474267939657953
+Pulit WHR EU sex combined 316 SNPs clumped	918	Phosphatidylcholine and other cholines || id:918	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	247.554113116885	213	0.0522712058094123
+Pulit WHR EU sex combined 316 SNPs clumped	918	Phosphatidylcholine and other cholines || id:918	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	247.518935931769	213	0.0524362166323221
+Pulit WHR EU sex combined 316 SNPs clumped	918	Phosphatidylcholine and other cholines || id:918	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0720792475915018	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	919	Phenylalanine || id:919	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	282.586971606652	213	0.000990521002588771
+Pulit WHR EU sex combined 316 SNPs clumped	919	Phenylalanine || id:919	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	282.459026680457	212	0.000861668034225187
+Pulit WHR EU sex combined 316 SNPs clumped	919	Phenylalanine || id:919	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	282.750917919865	213	0.000968746598652838
+Pulit WHR EU sex combined 316 SNPs clumped	919	Phenylalanine || id:919	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	282.494513346329	213	0.00100300170625319
+Pulit WHR EU sex combined 316 SNPs clumped	919	Phenylalanine || id:919	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0510263286350216	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	920	Pyruvate || id:920	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	254.859160337521	213	0.0261622007124644
+Pulit WHR EU sex combined 316 SNPs clumped	920	Pyruvate || id:920	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	253.472047522868	212	0.0269384596308864
+Pulit WHR EU sex combined 316 SNPs clumped	920	Pyruvate || id:920	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	254.859177126532	213	0.0261621568677683
+Pulit WHR EU sex combined 316 SNPs clumped	920	Pyruvate || id:920	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	254.859125285311	213	0.0261622922519195
+Pulit WHR EU sex combined 316 SNPs clumped	920	Pyruvate || id:920	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0400117000886337	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	921	Total lipids in small HDL || id:921	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	240.459884931293	213	0.0952358526507963
+Pulit WHR EU sex combined 316 SNPs clumped	921	Total lipids in small HDL || id:921	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	240.056985813723	212	0.09032581755989
+Pulit WHR EU sex combined 316 SNPs clumped	921	Total lipids in small HDL || id:921	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	240.510060379372	213	0.0948567117050626
+Pulit WHR EU sex combined 316 SNPs clumped	921	Total lipids in small HDL || id:921	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	240.432512570233	213	0.0954431784430387
+Pulit WHR EU sex combined 316 SNPs clumped	921	Total lipids in small HDL || id:921	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0676854279350006	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	922	Concentration of small HDL particles || id:922	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	245.564703645962	213	0.0622984851977638
+Pulit WHR EU sex combined 316 SNPs clumped	922	Concentration of small HDL particles || id:922	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	245.617372423436	212	0.0564285673282011
+Pulit WHR EU sex combined 316 SNPs clumped	922	Concentration of small HDL particles || id:922	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	245.632469163942	213	0.0619329226133328
+Pulit WHR EU sex combined 316 SNPs clumped	922	Concentration of small HDL particles || id:922	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	245.52957227431	213	0.062488689666744
+Pulit WHR EU sex combined 316 SNPs clumped	922	Concentration of small HDL particles || id:922	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.072205728076483	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	923	Triglycerides in small HDL || id:923	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	429.610360537237	213	9.67396733857094e-17
+Pulit WHR EU sex combined 316 SNPs clumped	923	Triglycerides in small HDL || id:923	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	428.794542265258	212	8.33739565382208e-17
+Pulit WHR EU sex combined 316 SNPs clumped	923	Triglycerides in small HDL || id:923	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	430.073308249546	213	8.58989547020052e-17
+Pulit WHR EU sex combined 316 SNPs clumped	923	Triglycerides in small HDL || id:923	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	429.176516940062	213	1.08125792094892e-16
+Pulit WHR EU sex combined 316 SNPs clumped	923	Triglycerides in small HDL || id:923	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0734728177475259	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	924	Total cholesterol in small LDL || id:924	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	575.196098192969	213	4.47372083767202e-35
+Pulit WHR EU sex combined 316 SNPs clumped	924	Total cholesterol in small LDL || id:924	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	563.894681267415	212	9.69117134117538e-34
+Pulit WHR EU sex combined 316 SNPs clumped	924	Total cholesterol in small LDL || id:924	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	575.315722116922	213	4.30694439366013e-35
+Pulit WHR EU sex combined 316 SNPs clumped	924	Total cholesterol in small LDL || id:924	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	575.163574266653	213	4.52016759166044e-35
+Pulit WHR EU sex combined 316 SNPs clumped	924	Total cholesterol in small LDL || id:924	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0944732795273801	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	925	Total lipids in small LDL || id:925	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	551.454683786595	213	7.68306884509898e-32
+Pulit WHR EU sex combined 316 SNPs clumped	925	Total lipids in small LDL || id:925	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	537.880347419144	212	3.11844119510994e-30
+Pulit WHR EU sex combined 316 SNPs clumped	925	Total lipids in small LDL || id:925	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	551.562587766941	213	7.4304720008756e-32
+Pulit WHR EU sex combined 316 SNPs clumped	925	Total lipids in small LDL || id:925	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	551.42145109605	213	7.76257459531122e-32
+Pulit WHR EU sex combined 316 SNPs clumped	925	Total lipids in small LDL || id:925	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.109587900802069	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	926	Concentration of small LDL particles || id:926	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	525.573392646829	213	2.071662682398e-28
+Pulit WHR EU sex combined 316 SNPs clumped	926	Concentration of small LDL particles || id:926	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	514.783053552634	212	3.3144148107885e-27
+Pulit WHR EU sex combined 316 SNPs clumped	926	Concentration of small LDL particles || id:926	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	525.666789092073	213	2.0143219851744e-28
+Pulit WHR EU sex combined 316 SNPs clumped	926	Concentration of small LDL particles || id:926	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	525.543812787206	213	2.09015996106303e-28
+Pulit WHR EU sex combined 316 SNPs clumped	926	Concentration of small LDL particles || id:926	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.102362806187038	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	927	Total cholesterol in small VLDL || id:927	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	461.365689852409	213	2.13963150372334e-20
+Pulit WHR EU sex combined 316 SNPs clumped	927	Total cholesterol in small VLDL || id:927	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	459.483141718471	212	2.41581701725408e-20
+Pulit WHR EU sex combined 316 SNPs clumped	927	Total cholesterol in small VLDL || id:927	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	461.626086852114	213	1.99272088642433e-20
+Pulit WHR EU sex combined 316 SNPs clumped	927	Total cholesterol in small VLDL || id:927	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	461.231069007396	213	2.21975115336627e-20
+Pulit WHR EU sex combined 316 SNPs clumped	927	Total cholesterol in small VLDL || id:927	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0790106290319609	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	928	Free cholesterol in small VLDL || id:928	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	525.613127688149	213	2.04707134806681e-28
+Pulit WHR EU sex combined 316 SNPs clumped	928	Free cholesterol in small VLDL || id:928	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	523.399226841795	212	2.52092741724457e-28
+Pulit WHR EU sex combined 316 SNPs clumped	928	Free cholesterol in small VLDL || id:928	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	526.066225124259	213	1.78639813571839e-28
+Pulit WHR EU sex combined 316 SNPs clumped	928	Free cholesterol in small VLDL || id:928	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	525.335884746603	213	2.22490913305007e-28
+Pulit WHR EU sex combined 316 SNPs clumped	928	Free cholesterol in small VLDL || id:928	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0889594283062199	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	929	Total lipids in small VLDL || id:929	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	519.146329712335	213	1.41819649026928e-27
+Pulit WHR EU sex combined 316 SNPs clumped	929	Total lipids in small VLDL || id:929	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	516.978586928433	212	1.7237873287758e-27
+Pulit WHR EU sex combined 316 SNPs clumped	929	Total lipids in small VLDL || id:929	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	519.536744456623	213	1.26236199223667e-27
+Pulit WHR EU sex combined 316 SNPs clumped	929	Total lipids in small VLDL || id:929	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	518.879151960298	213	1.53573750769997e-27
+Pulit WHR EU sex combined 316 SNPs clumped	929	Total lipids in small VLDL || id:929	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.100750820970907	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	930	Concentration of small VLDL particles || id:930	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	521.988150285731	213	6.06996227911868e-28
+Pulit WHR EU sex combined 316 SNPs clumped	930	Concentration of small VLDL particles || id:930	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	520.097572563149	212	6.78816351310637e-28
+Pulit WHR EU sex combined 316 SNPs clumped	930	Concentration of small VLDL particles || id:930	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	522.430583378514	213	5.31725095622798e-28
+Pulit WHR EU sex combined 316 SNPs clumped	930	Concentration of small VLDL particles || id:930	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	521.663719029132	213	6.68849917547368e-28
+Pulit WHR EU sex combined 316 SNPs clumped	930	Concentration of small VLDL particles || id:930	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.099211139044525	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	931	Phospholipids in small VLDL || id:931	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	492.352717541489	213	3.61493157128512e-24
+Pulit WHR EU sex combined 316 SNPs clumped	931	Phospholipids in small VLDL || id:931	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	491.67945722825	212	2.86637281777613e-24
+Pulit WHR EU sex combined 316 SNPs clumped	931	Phospholipids in small VLDL || id:931	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	492.789734047063	213	3.18839220453881e-24
+Pulit WHR EU sex combined 316 SNPs clumped	931	Phospholipids in small VLDL || id:931	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	492.050395487843	213	3.94276886426735e-24
+Pulit WHR EU sex combined 316 SNPs clumped	931	Phospholipids in small VLDL || id:931	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0750967092141594	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	932	Triglycerides in small VLDL || id:932	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	505.636002903615	213	7.67622235677164e-26
+Pulit WHR EU sex combined 316 SNPs clumped	932	Triglycerides in small VLDL || id:932	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	504.331287825444	212	7.25628366774658e-26
+Pulit WHR EU sex combined 316 SNPs clumped	932	Triglycerides in small VLDL || id:932	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	506.181117079803	213	6.54363291306857e-26
+Pulit WHR EU sex combined 316 SNPs clumped	932	Triglycerides in small VLDL || id:932	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	505.235309980808	213	8.63127698347523e-26
+Pulit WHR EU sex combined 316 SNPs clumped	932	Triglycerides in small VLDL || id:932	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0798829108319424	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	933	Serum total cholesterol || id:933	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	462.907779413996	213	1.4034072588204e-20
+Pulit WHR EU sex combined 316 SNPs clumped	933	Serum total cholesterol || id:933	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	456.68450285847	212	5.18043493250666e-20
+Pulit WHR EU sex combined 316 SNPs clumped	933	Serum total cholesterol || id:933	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	462.908685515304	213	1.40305906321395e-20
+Pulit WHR EU sex combined 316 SNPs clumped	933	Serum total cholesterol || id:933	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	462.907283794673	213	1.403597751188e-20
+Pulit WHR EU sex combined 316 SNPs clumped	933	Serum total cholesterol || id:933	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0738889800950522	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	934	Serum total triglycerides || id:934	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	517.579363247104	213	2.2613974518383e-27
+Pulit WHR EU sex combined 316 SNPs clumped	934	Serum total triglycerides || id:934	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	514.764981247251	212	3.33227297439017e-27
+Pulit WHR EU sex combined 316 SNPs clumped	934	Serum total triglycerides || id:934	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	517.973942385107	213	2.01089143146173e-27
+Pulit WHR EU sex combined 316 SNPs clumped	934	Serum total triglycerides || id:934	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	517.257238066924	213	2.4887606123323e-27
+Pulit WHR EU sex combined 316 SNPs clumped	934	Serum total triglycerides || id:934	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0825122307496688	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	935	Sphingomyelins || id:935	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	266.721483531046	213	0.00728046226552169
+Pulit WHR EU sex combined 316 SNPs clumped	935	Sphingomyelins || id:935	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	266.725085260978	212	0.00638714056703754
+Pulit WHR EU sex combined 316 SNPs clumped	935	Sphingomyelins || id:935	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	266.726349366168	213	0.00727636483902224
+Pulit WHR EU sex combined 316 SNPs clumped	935	Sphingomyelins || id:935	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	266.719656350306	213	0.00728200143734262
+Pulit WHR EU sex combined 316 SNPs clumped	935	Sphingomyelins || id:935	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.104753899629525	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	936	Total fatty acids || id:936	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	332.140187135773	213	3.1473710744468e-07
+Pulit WHR EU sex combined 316 SNPs clumped	936	Total fatty acids || id:936	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	331.8459151362	212	2.63444232802085e-07
+Pulit WHR EU sex combined 316 SNPs clumped	936	Total fatty acids || id:936	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	332.185023206263	213	3.12106125149731e-07
+Pulit WHR EU sex combined 316 SNPs clumped	936	Total fatty acids || id:936	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	332.117983695945	213	3.16047992389328e-07
+Pulit WHR EU sex combined 316 SNPs clumped	936	Total fatty acids || id:936	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0996240530361411	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	937	Total phosphoglycerides || id:937	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	263.851339774275	213	0.010093264835811
+Pulit WHR EU sex combined 316 SNPs clumped	937	Total phosphoglycerides || id:937	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	263.74959443536	212	0.00900516050000972
+Pulit WHR EU sex combined 316 SNPs clumped	937	Total phosphoglycerides || id:937	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	263.853765991375	213	0.0100905240658136
+Pulit WHR EU sex combined 316 SNPs clumped	937	Total phosphoglycerides || id:937	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	263.850499001751	213	0.0100942147677575
+Pulit WHR EU sex combined 316 SNPs clumped	937	Total phosphoglycerides || id:937	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0662003385037766	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	938	Tyrosine || id:938	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	253.565183787649	213	0.0297350739656358
+Pulit WHR EU sex combined 316 SNPs clumped	938	Tyrosine || id:938	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	251.880852871444	212	0.0315105680490778
+Pulit WHR EU sex combined 316 SNPs clumped	938	Tyrosine || id:938	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	253.628745178692	213	0.0295502792274707
+Pulit WHR EU sex combined 316 SNPs clumped	938	Tyrosine || id:938	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	253.546734687863	213	0.0297888967387872
+Pulit WHR EU sex combined 316 SNPs clumped	938	Tyrosine || id:938	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.036832879803477	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	939	Urea || id:939	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	228.092838953375	213	0.227598144696377
+Pulit WHR EU sex combined 316 SNPs clumped	939	Urea || id:939	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	228.197240702298	212	0.211969833556932
+Pulit WHR EU sex combined 316 SNPs clumped	939	Urea || id:939	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	228.198008431436	213	0.226131716581405
+Pulit WHR EU sex combined 316 SNPs clumped	939	Urea || id:939	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	228.043080613448	213	0.228293967281965
+Pulit WHR EU sex combined 316 SNPs clumped	939	Urea || id:939	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0693184481332255	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	940	Valine || id:940	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	274.927091376492	213	0.00269854166373853
+Pulit WHR EU sex combined 316 SNPs clumped	940	Valine || id:940	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	274.629654858574	212	0.00242643270293023
+Pulit WHR EU sex combined 316 SNPs clumped	940	Valine || id:940	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	275.071870918142	213	0.00264967355114214
+Pulit WHR EU sex combined 316 SNPs clumped	940	Valine || id:940	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	274.875063019228	213	0.00271630499660724
+Pulit WHR EU sex combined 316 SNPs clumped	940	Valine || id:940	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0389024584918148	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	941	Mean diameter for VLDL particles || id:941	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	428.732585735869	213	1.21151943503105e-16
+Pulit WHR EU sex combined 316 SNPs clumped	941	Mean diameter for VLDL particles || id:941	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	427.353573712905	212	1.20723750112142e-16
+Pulit WHR EU sex combined 316 SNPs clumped	941	Mean diameter for VLDL particles || id:941	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	429.003807700036	213	1.13019721393088e-16
+Pulit WHR EU sex combined 316 SNPs clumped	941	Mean diameter for VLDL particles || id:941	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	428.535355184426	213	1.27427462296039e-16
+Pulit WHR EU sex combined 316 SNPs clumped	941	Mean diameter for VLDL particles || id:941	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0796417105641498	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	942	Total cholesterol in very large HDL || id:942	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	251.941197499558	213	0.0348031936975095
+Pulit WHR EU sex combined 316 SNPs clumped	942	Total cholesterol in very large HDL || id:942	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	251.83628048186	212	0.031647645185413
+Pulit WHR EU sex combined 316 SNPs clumped	942	Total cholesterol in very large HDL || id:942	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	252.064975347159	213	0.034392642624288
+Pulit WHR EU sex combined 316 SNPs clumped	942	Total cholesterol in very large HDL || id:942	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	251.846315828233	213	0.0351207088948533
+Pulit WHR EU sex combined 316 SNPs clumped	942	Total cholesterol in very large HDL || id:942	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0557035951441239	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	943	Cholesterol esters in very large HDL || id:943	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	234.020416814563	213	0.154150061644672
+Pulit WHR EU sex combined 316 SNPs clumped	943	Cholesterol esters in very large HDL || id:943	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	233.743486471082	212	0.145944071907186
+Pulit WHR EU sex combined 316 SNPs clumped	943	Cholesterol esters in very large HDL || id:943	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	234.130242040988	213	0.152966774284639
+Pulit WHR EU sex combined 316 SNPs clumped	943	Cholesterol esters in very large HDL || id:943	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	233.961945131508	213	0.154782665740255
+Pulit WHR EU sex combined 316 SNPs clumped	943	Cholesterol esters in very large HDL || id:943	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.06018286242421	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	944	Free cholesterol in very large HDL || id:944	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	282.87356964522	213	0.000952750291539151
+Pulit WHR EU sex combined 316 SNPs clumped	944	Free cholesterol in very large HDL || id:944	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	282.61659801837	212	0.000843258037049653
+Pulit WHR EU sex combined 316 SNPs clumped	944	Free cholesterol in very large HDL || id:944	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	283.164884577492	213	0.000915741694646345
+Pulit WHR EU sex combined 316 SNPs clumped	944	Free cholesterol in very large HDL || id:944	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	282.657488183867	213	0.000981099908977103
+Pulit WHR EU sex combined 316 SNPs clumped	944	Free cholesterol in very large HDL || id:944	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.060290025140135	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	945	Total lipids in very large HDL || id:945	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	272.315809723571	213	0.00373528258652444
+Pulit WHR EU sex combined 316 SNPs clumped	945	Total lipids in very large HDL || id:945	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	271.806852072196	212	0.00345959914553851
+Pulit WHR EU sex combined 316 SNPs clumped	945	Total lipids in very large HDL || id:945	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	272.563394525575	213	0.00362323094422328
+Pulit WHR EU sex combined 316 SNPs clumped	945	Total lipids in very large HDL || id:945	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	272.13169345401	213	0.00382065875067994
+Pulit WHR EU sex combined 316 SNPs clumped	945	Total lipids in very large HDL || id:945	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0672829519446635	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	946	Concentration of very large HDL particles || id:946	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	295.126083797619	213	0.000165272348577337
+Pulit WHR EU sex combined 316 SNPs clumped	946	Concentration of very large HDL particles || id:946	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	294.814695519762	212	0.000145124336713178
+Pulit WHR EU sex combined 316 SNPs clumped	946	Concentration of very large HDL particles || id:946	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	295.5152111216	213	0.000155891173913209
+Pulit WHR EU sex combined 316 SNPs clumped	946	Concentration of very large HDL particles || id:946	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	294.847305998032	213	0.000172320477187414
+Pulit WHR EU sex combined 316 SNPs clumped	946	Concentration of very large HDL particles || id:946	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0550465410910742	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	947	Phospholipids in very large HDL || id:947	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	330.652726715008	213	4.15379234142341e-07
+Pulit WHR EU sex combined 316 SNPs clumped	947	Phospholipids in very large HDL || id:947	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	329.865922650338	212	3.81865556093201e-07
+Pulit WHR EU sex combined 316 SNPs clumped	947	Phospholipids in very large HDL || id:947	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	331.14604745652	213	3.78947117500693e-07
+Pulit WHR EU sex combined 316 SNPs clumped	947	Phospholipids in very large HDL || id:947	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	330.272492138397	213	4.45765397422488e-07
+Pulit WHR EU sex combined 316 SNPs clumped	947	Phospholipids in very large HDL || id:947	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0732611847066147	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	948	Triglycerides in very large HDL || id:948	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	282.943713555266	213	0.00094371347538981
+Pulit WHR EU sex combined 316 SNPs clumped	948	Triglycerides in very large HDL || id:948	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	282.963698828475	212	0.000803996008289833
+Pulit WHR EU sex combined 316 SNPs clumped	948	Triglycerides in very large HDL || id:948	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	283.024649607277	213	0.000933385933351506
+Pulit WHR EU sex combined 316 SNPs clumped	948	Triglycerides in very large HDL || id:948	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	282.902779021008	213	0.000948977383642757
+Pulit WHR EU sex combined 316 SNPs clumped	948	Triglycerides in very large HDL || id:948	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.06472749989858	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	949	Total lipids in very large VLDL || id:949	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	361.971554501872	213	8.06300047686246e-10
+Pulit WHR EU sex combined 316 SNPs clumped	949	Total lipids in very large VLDL || id:949	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	361.288392545995	212	7.08515791107965e-10
+Pulit WHR EU sex combined 316 SNPs clumped	949	Total lipids in very large VLDL || id:949	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	362.135219209752	213	7.78772207373066e-10
+Pulit WHR EU sex combined 316 SNPs clumped	949	Total lipids in very large VLDL || id:949	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	361.877144786377	213	8.22612054640126e-10
+Pulit WHR EU sex combined 316 SNPs clumped	949	Total lipids in very large VLDL || id:949	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0693931253117228	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	950	Concentration of very large VLDL particles || id:950	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	339.990151256342	213	7.04325082942131e-08
+Pulit WHR EU sex combined 316 SNPs clumped	950	Concentration of very large VLDL particles || id:950	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	340.103277778103	212	5.39411792881894e-08
+Pulit WHR EU sex combined 316 SNPs clumped	950	Concentration of very large VLDL particles || id:950	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	340.174034379738	213	6.79611144376687e-08
+Pulit WHR EU sex combined 316 SNPs clumped	950	Concentration of very large VLDL particles || id:950	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	339.879645412119	213	7.19597198122312e-08
+Pulit WHR EU sex combined 316 SNPs clumped	950	Concentration of very large VLDL particles || id:950	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0694811460984129	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	951	Phospholipids in very large VLDL || id:951	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	379.245755458126	213	1.84516971307274e-11
+Pulit WHR EU sex combined 316 SNPs clumped	951	Phospholipids in very large VLDL || id:951	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	378.790574085894	212	1.51861880370542e-11
+Pulit WHR EU sex combined 316 SNPs clumped	951	Phospholipids in very large VLDL || id:951	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	379.452991308269	213	1.76109487488596e-11
+Pulit WHR EU sex combined 316 SNPs clumped	951	Phospholipids in very large VLDL || id:951	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	379.082948479561	213	1.91398487571808e-11
+Pulit WHR EU sex combined 316 SNPs clumped	951	Phospholipids in very large VLDL || id:951	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0636955411590757	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	952	Triglycerides in very large VLDL || id:952	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	376.871873695283	213	3.14119703124416e-11
+Pulit WHR EU sex combined 316 SNPs clumped	952	Triglycerides in very large VLDL || id:952	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	376.724442217374	212	2.41835152791858e-11
+Pulit WHR EU sex combined 316 SNPs clumped	952	Triglycerides in very large VLDL || id:952	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	377.072918208072	213	3.00327026795758e-11
+Pulit WHR EU sex combined 316 SNPs clumped	952	Triglycerides in very large VLDL || id:952	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	376.731588194218	213	3.24111944413683e-11
+Pulit WHR EU sex combined 316 SNPs clumped	952	Triglycerides in very large VLDL || id:952	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0606349328077277	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	953	Total lipids in very small VLDL || id:953	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	362.797234980456	213	6.765435136369e-10
+Pulit WHR EU sex combined 316 SNPs clumped	953	Total lipids in very small VLDL || id:953	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	362.594474431279	212	5.36099550833779e-10
+Pulit WHR EU sex combined 316 SNPs clumped	953	Total lipids in very small VLDL || id:953	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	362.937186221094	213	6.56685166429741e-10
+Pulit WHR EU sex combined 316 SNPs clumped	953	Total lipids in very small VLDL || id:953	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	362.732720188446	213	6.8589547737313e-10
+Pulit WHR EU sex combined 316 SNPs clumped	953	Total lipids in very small VLDL || id:953	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0616711046305215	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	954	Concentration of very small VLDL particles || id:954	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	367.46069698004	213	2.48691265469979e-10
+Pulit WHR EU sex combined 316 SNPs clumped	954	Concentration of very small VLDL particles || id:954	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	366.9061740715	212	2.11561390511934e-10
+Pulit WHR EU sex combined 316 SNPs clumped	954	Concentration of very small VLDL particles || id:954	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	367.617725843792	213	2.40381448996744e-10
+Pulit WHR EU sex combined 316 SNPs clumped	954	Concentration of very small VLDL particles || id:954	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	367.376732897395	213	2.53249881386215e-10
+Pulit WHR EU sex combined 316 SNPs clumped	954	Concentration of very small VLDL particles || id:954	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0638468978993101	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	955	Phospholipids in very small VLDL || id:955	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	354.939137422757	213	3.51667324980083e-09
+Pulit WHR EU sex combined 316 SNPs clumped	955	Phospholipids in very small VLDL || id:955	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	353.101492103461	212	3.94704331050456e-09
+Pulit WHR EU sex combined 316 SNPs clumped	955	Phospholipids in very small VLDL || id:955	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	354.973883834844	213	3.49151146419883e-09
+Pulit WHR EU sex combined 316 SNPs clumped	955	Phospholipids in very small VLDL || id:955	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	354.923238479515	213	3.5282457984797e-09
+Pulit WHR EU sex combined 316 SNPs clumped	955	Phospholipids in very small VLDL || id:955	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0605239087265635	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	956	Triglycerides in very small VLDL || id:956	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	445.768399874081	213	1.42599490125794e-18
+Pulit WHR EU sex combined 316 SNPs clumped	956	Triglycerides in very small VLDL || id:956	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	444.836552741843	212	1.25349845449243e-18
+Pulit WHR EU sex combined 316 SNPs clumped	956	Triglycerides in very small VLDL || id:956	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	446.092587383629	213	1.30844641216188e-18
+Pulit WHR EU sex combined 316 SNPs clumped	956	Triglycerides in very small VLDL || id:956	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	445.478227323326	213	1.54006754165051e-18
+Pulit WHR EU sex combined 316 SNPs clumped	956	Triglycerides in very small VLDL || id:956	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0790674697220209	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	311.839420757577	213	1.15934874217732e-05
+Pulit WHR EU sex combined 316 SNPs clumped	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	311.97327319814	212	9.24971055257183e-06
+Pulit WHR EU sex combined 316 SNPs clumped	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	311.97467893241	213	1.13333194873586e-05
+Pulit WHR EU sex combined 316 SNPs clumped	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	311.759922834763	213	1.17490772692404e-05
+Pulit WHR EU sex combined 316 SNPs clumped	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0577966574495937	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	958	Concentration of chylomicrons and largest VLDL particles || id:958	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	290.887729015391	212	0.000260528592323525
+Pulit WHR EU sex combined 316 SNPs clumped	958	Concentration of chylomicrons and largest VLDL particles || id:958	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	290.941131924037	211	0.000217491555055893
+Pulit WHR EU sex combined 316 SNPs clumped	958	Concentration of chylomicrons and largest VLDL particles || id:958	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	290.956585790621	212	0.000257907974035644
+Pulit WHR EU sex combined 316 SNPs clumped	958	Concentration of chylomicrons and largest VLDL particles || id:958	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	290.850746523303	212	0.000261946499516904
+Pulit WHR EU sex combined 316 SNPs clumped	958	Concentration of chylomicrons and largest VLDL particles || id:958	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0566048501910316	212	1
+Pulit WHR EU sex combined 316 SNPs clumped	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	325.286185334303	213	1.11129359519464e-06
+Pulit WHR EU sex combined 316 SNPs clumped	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	325.458459769908	212	8.61345575709149e-07
+Pulit WHR EU sex combined 316 SNPs clumped	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	325.482671522703	213	1.07247315991982e-06
+Pulit WHR EU sex combined 316 SNPs clumped	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	325.157203136033	213	1.13751541612485e-06
+Pulit WHR EU sex combined 316 SNPs clumped	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0531494488323558	213	1
+Pulit WHR EU sex combined 316 SNPs clumped	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Pulit WHR EU sex combined 316 SNPs clumped	Maximum likelihood	350.24291059348	213	9.19866706691537e-09
+Pulit WHR EU sex combined 316 SNPs clumped	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Pulit WHR EU sex combined 316 SNPs clumped	MR Egger	348.629533107658	212	9.85987841804855e-09
+Pulit WHR EU sex combined 316 SNPs clumped	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Pulit WHR EU sex combined 316 SNPs clumped	Inverse variance weighted	350.384423145424	213	8.9383129873791e-09
+Pulit WHR EU sex combined 316 SNPs clumped	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Pulit WHR EU sex combined 316 SNPs clumped	IVW radial	350.129797057506	213	9.41210426501314e-09
+Pulit WHR EU sex combined 316 SNPs clumped	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Pulit WHR EU sex combined 316 SNPs clumped	Unweighted regression	0.0588642424297142	213	1

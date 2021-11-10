@@ -1,0 +1,493 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+Lu BF EU sex combined 5 SNPs	838	Acetoacetate || id:838	Lu BF EU sex combined 5 SNPs	Maximum likelihood	2.98954018635903	3	0.393240686836616
+Lu BF EU sex combined 5 SNPs	838	Acetoacetate || id:838	Lu BF EU sex combined 5 SNPs	MR Egger	2.9402169398515	2	0.229900546538989
+Lu BF EU sex combined 5 SNPs	838	Acetoacetate || id:838	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	2.98984187334235	3	0.393194012663354
+Lu BF EU sex combined 5 SNPs	838	Acetoacetate || id:838	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000378046329009837	3	0.999998045268596
+Lu BF EU sex combined 5 SNPs	839	Acetate || id:839	Lu BF EU sex combined 5 SNPs	Maximum likelihood	5.10096863637174	4	0.277093496751917
+Lu BF EU sex combined 5 SNPs	839	Acetate || id:839	Lu BF EU sex combined 5 SNPs	MR Egger	4.96095556077264	3	0.174678597690095
+Lu BF EU sex combined 5 SNPs	839	Acetate || id:839	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	5.10309146743998	4	0.276882290528288
+Lu BF EU sex combined 5 SNPs	839	Acetate || id:839	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000629883858422731	4	0.999999950416202
+Lu BF EU sex combined 5 SNPs	840	Alanine || id:840	Lu BF EU sex combined 5 SNPs	Maximum likelihood	2.88390131840581	4	0.57743841163366
+Lu BF EU sex combined 5 SNPs	840	Alanine || id:840	Lu BF EU sex combined 5 SNPs	MR Egger	2.81798627501837	3	0.420547608391946
+Lu BF EU sex combined 5 SNPs	840	Alanine || id:840	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	2.88776861106393	4	0.576779287199112
+Lu BF EU sex combined 5 SNPs	840	Alanine || id:840	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000392397214665656	4	0.99999998075557
+Lu BF EU sex combined 5 SNPs	841	Albumin || id:841	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.2876000146736	3	0.0162731682216743
+Lu BF EU sex combined 5 SNPs	841	Albumin || id:841	Lu BF EU sex combined 5 SNPs	MR Egger	6.93351799427276	2	0.031218044651435
+Lu BF EU sex combined 5 SNPs	841	Albumin || id:841	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	10.3771888876767	3	0.0156175626720956
+Lu BF EU sex combined 5 SNPs	841	Albumin || id:841	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00154171633101333	3	0.999983907457782
+Lu BF EU sex combined 5 SNPs	842	Apolipoprotein A-I || id:842	Lu BF EU sex combined 5 SNPs	Maximum likelihood	0.440430719829716	3	0.931769456263656
+Lu BF EU sex combined 5 SNPs	842	Apolipoprotein A-I || id:842	Lu BF EU sex combined 5 SNPs	MR Egger	0.323702674066912	2	0.850567643050701
+Lu BF EU sex combined 5 SNPs	842	Apolipoprotein A-I || id:842	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	0.470973474636441	3	0.925220536026895
+Lu BF EU sex combined 5 SNPs	842	Apolipoprotein A-I || id:842	Lu BF EU sex combined 5 SNPs	Unweighted regression	9.25637506666666e-05	3	0.99999976315285
+Lu BF EU sex combined 5 SNPs	843	Apolipoprotein B || id:843	Lu BF EU sex combined 5 SNPs	Maximum likelihood	91.3305910314689	4	6.86765015176166e-19
+Lu BF EU sex combined 5 SNPs	843	Apolipoprotein B || id:843	Lu BF EU sex combined 5 SNPs	MR Egger	94.2193616666017	3	2.71690136925568e-20
+Lu BF EU sex combined 5 SNPs	843	Apolipoprotein B || id:843	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	104.01148068725	4	1.37567817169733e-21
+Lu BF EU sex combined 5 SNPs	843	Apolipoprotein B || id:843	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0158256848022664	4	0.999968858122681
+Lu BF EU sex combined 5 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.61059862801597	4	0.157953806680717
+Lu BF EU sex combined 5 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Lu BF EU sex combined 5 SNPs	MR Egger	4.64485973385696	3	0.199727395899021
+Lu BF EU sex combined 5 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	6.61350892646605	4	0.157777436689128
+Lu BF EU sex combined 5 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00170446828102426	4	0.999999637054746
+Lu BF EU sex combined 5 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Lu BF EU sex combined 5 SNPs	Maximum likelihood	3.51943106530538	4	0.474929965858894
+Lu BF EU sex combined 5 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Lu BF EU sex combined 5 SNPs	MR Egger	2.2098028670344	3	0.53002009405664
+Lu BF EU sex combined 5 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.51956360554039	4	0.474909897158483
+Lu BF EU sex combined 5 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000945747475936208	4	0.999999888230454
+Lu BF EU sex combined 5 SNPs	846	3-hydroxybutyrate || id:846	Lu BF EU sex combined 5 SNPs	Maximum likelihood	5.90761342567026	4	0.206154812955906
+Lu BF EU sex combined 5 SNPs	846	3-hydroxybutyrate || id:846	Lu BF EU sex combined 5 SNPs	MR Egger	5.48020155837889	3	0.139827590575992
+Lu BF EU sex combined 5 SNPs	846	3-hydroxybutyrate || id:846	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	5.90764325381309	4	0.206152515991881
+Lu BF EU sex combined 5 SNPs	846	3-hydroxybutyrate || id:846	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000803327725213837	4	0.999999919354668
+Lu BF EU sex combined 5 SNPs	847	Average number of methylene groups per double bond || id:847	Lu BF EU sex combined 5 SNPs	Maximum likelihood	1.67865350996337	4	0.794591490875673
+Lu BF EU sex combined 5 SNPs	847	Average number of methylene groups per double bond || id:847	Lu BF EU sex combined 5 SNPs	MR Egger	1.38099846474435	3	0.709994778885691
+Lu BF EU sex combined 5 SNPs	847	Average number of methylene groups per double bond || id:847	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	1.68554516884097	4	0.793341658141678
+Lu BF EU sex combined 5 SNPs	847	Average number of methylene groups per double bond || id:847	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000413698660156222	4	0.999999978609627
+Lu BF EU sex combined 5 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Lu BF EU sex combined 5 SNPs	Maximum likelihood	2.02567757493546	4	0.73103588530984
+Lu BF EU sex combined 5 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Lu BF EU sex combined 5 SNPs	MR Egger	1.86684721649495	3	0.60049736677317
+Lu BF EU sex combined 5 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	2.02972325103756	4	0.730291795621298
+Lu BF EU sex combined 5 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000302361003179582	4	0.99999998857338
+Lu BF EU sex combined 5 SNPs	849	Citrate || id:849	Lu BF EU sex combined 5 SNPs	Maximum likelihood	2.45752580810067	4	0.652257260175466
+Lu BF EU sex combined 5 SNPs	849	Citrate || id:849	Lu BF EU sex combined 5 SNPs	MR Egger	1.4804580781821	3	0.686787884362682
+Lu BF EU sex combined 5 SNPs	849	Citrate || id:849	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	2.45848806543687	4	0.652084252681056
+Lu BF EU sex combined 5 SNPs	849	Citrate || id:849	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000253992360638702	4	0.999999991936668
+Lu BF EU sex combined 5 SNPs	850	Creatinine || id:850	Lu BF EU sex combined 5 SNPs	Maximum likelihood	0.908475353025795	4	0.923341755658409
+Lu BF EU sex combined 5 SNPs	850	Creatinine || id:850	Lu BF EU sex combined 5 SNPs	MR Egger	0.831964947752285	3	0.841807144208995
+Lu BF EU sex combined 5 SNPs	850	Creatinine || id:850	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	0.90949114613365	4	0.92319522856656
+Lu BF EU sex combined 5 SNPs	850	Creatinine || id:850	Lu BF EU sex combined 5 SNPs	Unweighted regression	9.80913762065364e-05	4	0.9999999987973
+Lu BF EU sex combined 5 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.49512873683098	4	0.343125476457597
+Lu BF EU sex combined 5 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Lu BF EU sex combined 5 SNPs	MR Egger	3.42985876736321	3	0.32997379042447
+Lu BF EU sex combined 5 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	4.52218488223919	4	0.339925026073032
+Lu BF EU sex combined 5 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00101398674826314	4	0.999999871522291
+Lu BF EU sex combined 5 SNPs	852	22:6, docosahexaenoic acid || id:852	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.0694833982264	4	0.0392733681137612
+Lu BF EU sex combined 5 SNPs	852	22:6, docosahexaenoic acid || id:852	Lu BF EU sex combined 5 SNPs	MR Egger	7.32842036416371	3	0.0621348922144268
+Lu BF EU sex combined 5 SNPs	852	22:6, docosahexaenoic acid || id:852	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	10.0729112424995	4	0.039217249166146
+Lu BF EU sex combined 5 SNPs	852	22:6, docosahexaenoic acid || id:852	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00179252661628291	4	0.999999598595947
+Lu BF EU sex combined 5 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Lu BF EU sex combined 5 SNPs	Maximum likelihood	44.106770693385	4	6.09636760130108e-09
+Lu BF EU sex combined 5 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Lu BF EU sex combined 5 SNPs	MR Egger	44.7892686760132	3	1.02577395211775e-09
+Lu BF EU sex combined 5 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	47.4322425091122	4	1.23936641760387e-09
+Lu BF EU sex combined 5 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0106238742019882	4	0.999985941524471
+Lu BF EU sex combined 5 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.16892462336332	4	0.186883057804523
+Lu BF EU sex combined 5 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Lu BF EU sex combined 5 SNPs	MR Egger	4.7417254849032	3	0.191716040068533
+Lu BF EU sex combined 5 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	6.17183525406969	4	0.186677772407973
+Lu BF EU sex combined 5 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00154594035461983	4	0.999999701412453
+Lu BF EU sex combined 5 SNPs	855	Omega-3 fatty acids || id:855	Lu BF EU sex combined 5 SNPs	Maximum likelihood	11.842829994897	4	0.0185591051011038
+Lu BF EU sex combined 5 SNPs	855	Omega-3 fatty acids || id:855	Lu BF EU sex combined 5 SNPs	MR Egger	11.1917679802197	3	0.0107328474799244
+Lu BF EU sex combined 5 SNPs	855	Omega-3 fatty acids || id:855	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	11.8659750020056	4	0.0183762412734035
+Lu BF EU sex combined 5 SNPs	855	Omega-3 fatty acids || id:855	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00230345603973035	4	0.999999337270311
+Lu BF EU sex combined 5 SNPs	856	Omega-6 fatty acids || id:856	Lu BF EU sex combined 5 SNPs	Maximum likelihood	42.4804045664151	4	1.32628264552527e-08
+Lu BF EU sex combined 5 SNPs	856	Omega-6 fatty acids || id:856	Lu BF EU sex combined 5 SNPs	MR Egger	42.4975369719672	3	3.14615309429741e-09
+Lu BF EU sex combined 5 SNPs	856	Omega-6 fatty acids || id:856	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	45.4716880473313	4	3.1721453481031e-09
+Lu BF EU sex combined 5 SNPs	856	Omega-6 fatty acids || id:856	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0105016942476316	4	0.999986262465079
+Lu BF EU sex combined 5 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Lu BF EU sex combined 5 SNPs	Maximum likelihood	23.0962685726334	4	0.000121140165014151
+Lu BF EU sex combined 5 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Lu BF EU sex combined 5 SNPs	MR Egger	22.6763574049488	3	4.71670893362836e-05
+Lu BF EU sex combined 5 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	23.3679220738426	4	0.000106899357303564
+Lu BF EU sex combined 5 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0054131484302664	4	0.999996343830349
+Lu BF EU sex combined 5 SNPs	858	Free cholesterol || id:858	Lu BF EU sex combined 5 SNPs	Maximum likelihood	34.1164488301213	4	7.05313686436279e-07
+Lu BF EU sex combined 5 SNPs	858	Free cholesterol || id:858	Lu BF EU sex combined 5 SNPs	MR Egger	35.9230413494501	3	7.7742457898954e-08
+Lu BF EU sex combined 5 SNPs	858	Free cholesterol || id:858	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	36.3220631809754	4	2.48418011722761e-07
+Lu BF EU sex combined 5 SNPs	858	Free cholesterol || id:858	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00776431320583289	4	0.999992483904534
+Lu BF EU sex combined 5 SNPs	859	Glucose || id:859	Lu BF EU sex combined 5 SNPs	Maximum likelihood	1.28274840739453	4	0.864295647897017
+Lu BF EU sex combined 5 SNPs	859	Glucose || id:859	Lu BF EU sex combined 5 SNPs	MR Egger	1.31785294374959	3	0.724898147081592
+Lu BF EU sex combined 5 SNPs	859	Glucose || id:859	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	1.31785386342834	4	0.858339161011295
+Lu BF EU sex combined 5 SNPs	859	Glucose || id:859	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000134986377064241	4	0.999999997722437
+Lu BF EU sex combined 5 SNPs	860	Glutamine || id:860	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.18285971377879	4	0.185902051340909
+Lu BF EU sex combined 5 SNPs	860	Glutamine || id:860	Lu BF EU sex combined 5 SNPs	MR Egger	4.58664482016387	3	0.204690754646414
+Lu BF EU sex combined 5 SNPs	860	Glutamine || id:860	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	6.18964092727952	4	0.185426335294856
+Lu BF EU sex combined 5 SNPs	860	Glutamine || id:860	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000777557644148136	4	0.999999924445099
+Lu BF EU sex combined 5 SNPs	861	Glycerol || id:861	Lu BF EU sex combined 5 SNPs	Maximum likelihood	7.39608975969558	4	0.116379550665344
+Lu BF EU sex combined 5 SNPs	861	Glycerol || id:861	Lu BF EU sex combined 5 SNPs	MR Egger	7.10320088878	3	0.0686801483158082
+Lu BF EU sex combined 5 SNPs	861	Glycerol || id:861	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.40174300566988	4	0.11612087724957
+Lu BF EU sex combined 5 SNPs	861	Glycerol || id:861	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00121210252492453	4	0.999999816425117
+Lu BF EU sex combined 5 SNPs	862	Glycoproteins || id:862	Lu BF EU sex combined 5 SNPs	Maximum likelihood	7.34294235631458	4	0.118837635077013
+Lu BF EU sex combined 5 SNPs	862	Glycoproteins || id:862	Lu BF EU sex combined 5 SNPs	MR Egger	1.32274428070316	3	0.723739437996946
+Lu BF EU sex combined 5 SNPs	862	Glycoproteins || id:862	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.35380656136004	4	0.118331285740289
+Lu BF EU sex combined 5 SNPs	862	Glycoproteins || id:862	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00110967243563208	4	0.999999846135308
+Lu BF EU sex combined 5 SNPs	863	Glycoprotein acetyls || id:863	Lu BF EU sex combined 5 SNPs	Maximum likelihood	12.109374789682	3	0.00701772736410962
+Lu BF EU sex combined 5 SNPs	863	Glycoprotein acetyls || id:863	Lu BF EU sex combined 5 SNPs	MR Egger	8.36604943512361	2	0.0152523038140962
+Lu BF EU sex combined 5 SNPs	863	Glycoprotein acetyls || id:863	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	12.2669422490411	3	0.00652248957453569
+Lu BF EU sex combined 5 SNPs	863	Glycoprotein acetyls || id:863	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0021062319430395	3	0.999974307657773
+Lu BF EU sex combined 5 SNPs	864	Total cholesterol in HDL || id:864	Lu BF EU sex combined 5 SNPs	Maximum likelihood	15.2393497717485	4	0.00422968600927117
+Lu BF EU sex combined 5 SNPs	864	Total cholesterol in HDL || id:864	Lu BF EU sex combined 5 SNPs	MR Egger	10.2637134595603	3	0.0164524928443389
+Lu BF EU sex combined 5 SNPs	864	Total cholesterol in HDL || id:864	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	15.2460300684673	4	0.00421721534852868
+Lu BF EU sex combined 5 SNPs	864	Total cholesterol in HDL || id:864	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00241392044080189	4	0.999999272209329
+Lu BF EU sex combined 5 SNPs	865	Mean diameter for HDL particles || id:865	Lu BF EU sex combined 5 SNPs	Maximum likelihood	14.4827335105731	3	0.00231655257141759
+Lu BF EU sex combined 5 SNPs	865	Mean diameter for HDL particles || id:865	Lu BF EU sex combined 5 SNPs	MR Egger	5.8055879738664	2	0.0548697004642833
+Lu BF EU sex combined 5 SNPs	865	Mean diameter for HDL particles || id:865	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	14.7391439848418	3	0.00205369823766634
+Lu BF EU sex combined 5 SNPs	865	Mean diameter for HDL particles || id:865	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0024746622631512	3	0.999967283238095
+Lu BF EU sex combined 5 SNPs	866	Histidine || id:866	Lu BF EU sex combined 5 SNPs	Maximum likelihood	7.02651783400396	3	0.0710573446471748
+Lu BF EU sex combined 5 SNPs	866	Histidine || id:866	Lu BF EU sex combined 5 SNPs	MR Egger	7.03968329754302	2	0.0296041226459377
+Lu BF EU sex combined 5 SNPs	866	Histidine || id:866	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.04837653980687	3	0.0703717280083178
+Lu BF EU sex combined 5 SNPs	866	Histidine || id:866	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000882341193244169	3	0.999993031189038
+Lu BF EU sex combined 5 SNPs	867	Total cholesterol in IDL || id:867	Lu BF EU sex combined 5 SNPs	Maximum likelihood	37.7578149208462	3	3.18064102658778e-08
+Lu BF EU sex combined 5 SNPs	867	Total cholesterol in IDL || id:867	Lu BF EU sex combined 5 SNPs	MR Egger	17.1677831358054	2	0.000187095464148808
+Lu BF EU sex combined 5 SNPs	867	Total cholesterol in IDL || id:867	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	49.9265620909241	3	8.28212730578271e-11
+Lu BF EU sex combined 5 SNPs	867	Total cholesterol in IDL || id:867	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00839283874856814	3	0.999796019384176
+Lu BF EU sex combined 5 SNPs	868	Free cholesterol in IDL || id:868	Lu BF EU sex combined 5 SNPs	Maximum likelihood	63.761503006385	4	4.69145201016684e-13
+Lu BF EU sex combined 5 SNPs	868	Free cholesterol in IDL || id:868	Lu BF EU sex combined 5 SNPs	MR Egger	62.8284453040959	3	1.46133272914427e-13
+Lu BF EU sex combined 5 SNPs	868	Free cholesterol in IDL || id:868	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	69.0627406632962	4	3.57954947619882e-14
+Lu BF EU sex combined 5 SNPs	868	Free cholesterol in IDL || id:868	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0100719169637977	4	0.999987362052905
+Lu BF EU sex combined 5 SNPs	869	Total lipids in IDL || id:869	Lu BF EU sex combined 5 SNPs	Maximum likelihood	38.3526139969001	3	2.38003874907519e-08
+Lu BF EU sex combined 5 SNPs	869	Total lipids in IDL || id:869	Lu BF EU sex combined 5 SNPs	MR Egger	20.3296480987829	2	3.85010883056266e-05
+Lu BF EU sex combined 5 SNPs	869	Total lipids in IDL || id:869	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	50.9940772397402	3	4.90631995189758e-11
+Lu BF EU sex combined 5 SNPs	869	Total lipids in IDL || id:869	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00873103674239917	3	0.999783588536489
+Lu BF EU sex combined 5 SNPs	870	Concentration of IDL particles || id:870	Lu BF EU sex combined 5 SNPs	Maximum likelihood	38.1769742441017	3	2.59283808390748e-08
+Lu BF EU sex combined 5 SNPs	870	Concentration of IDL particles || id:870	Lu BF EU sex combined 5 SNPs	MR Egger	21.6881750394704	2	1.95196770880759e-05
+Lu BF EU sex combined 5 SNPs	870	Concentration of IDL particles || id:870	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	50.3303194512476	3	6.79438556859506e-11
+Lu BF EU sex combined 5 SNPs	870	Concentration of IDL particles || id:870	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00868253791116754	3	0.999785386080403
+Lu BF EU sex combined 5 SNPs	871	Phospholipids in IDL || id:871	Lu BF EU sex combined 5 SNPs	Maximum likelihood	69.1748563355666	4	3.38974795227824e-14
+Lu BF EU sex combined 5 SNPs	871	Phospholipids in IDL || id:871	Lu BF EU sex combined 5 SNPs	MR Egger	69.8276499080795	3	4.64690043360527e-15
+Lu BF EU sex combined 5 SNPs	871	Phospholipids in IDL || id:871	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	75.4859946803343	4	1.57259808116933e-15
+Lu BF EU sex combined 5 SNPs	871	Phospholipids in IDL || id:871	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0110802338241796	4	0.99998471011546
+Lu BF EU sex combined 5 SNPs	872	Triglycerides in IDL || id:872	Lu BF EU sex combined 5 SNPs	Maximum likelihood	37.5005265841165	3	3.60555908183905e-08
+Lu BF EU sex combined 5 SNPs	872	Triglycerides in IDL || id:872	Lu BF EU sex combined 5 SNPs	MR Egger	27.414874829637	2	1.1141292333232e-06
+Lu BF EU sex combined 5 SNPs	872	Triglycerides in IDL || id:872	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	43.4170783121517	3	2.00701094939554e-09
+Lu BF EU sex combined 5 SNPs	872	Triglycerides in IDL || id:872	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00786671361846359	3	0.999814866885849
+Lu BF EU sex combined 5 SNPs	873	Isoleucine || id:873	Lu BF EU sex combined 5 SNPs	Maximum likelihood	16.744058629542	4	0.0021672424796448
+Lu BF EU sex combined 5 SNPs	873	Isoleucine || id:873	Lu BF EU sex combined 5 SNPs	MR Egger	15.710516261909	3	0.00129995255808631
+Lu BF EU sex combined 5 SNPs	873	Isoleucine || id:873	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	16.7440671965271	4	0.00216723418683307
+Lu BF EU sex combined 5 SNPs	873	Isoleucine || id:873	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00192499651115049	4	0.999999537095667
+Lu BF EU sex combined 5 SNPs	874	Total cholesterol in large HDL || id:874	Lu BF EU sex combined 5 SNPs	Maximum likelihood	32.4154041741719	4	1.57328462258384e-06
+Lu BF EU sex combined 5 SNPs	874	Total cholesterol in large HDL || id:874	Lu BF EU sex combined 5 SNPs	MR Egger	28.2810155245582	3	3.17071464883382e-06
+Lu BF EU sex combined 5 SNPs	874	Total cholesterol in large HDL || id:874	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	32.6945418166972	4	1.37943617561501e-06
+Lu BF EU sex combined 5 SNPs	874	Total cholesterol in large HDL || id:874	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00505281967288275	4	0.999996813996725
+Lu BF EU sex combined 5 SNPs	875	Cholesterol esters in large HDL || id:875	Lu BF EU sex combined 5 SNPs	Maximum likelihood	20.9845592472685	3	0.000106056359785113
+Lu BF EU sex combined 5 SNPs	875	Cholesterol esters in large HDL || id:875	Lu BF EU sex combined 5 SNPs	MR Egger	8.56035129223568	2	0.0138402308901448
+Lu BF EU sex combined 5 SNPs	875	Cholesterol esters in large HDL || id:875	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	21.9242348482736	3	6.76422874886498e-05
+Lu BF EU sex combined 5 SNPs	875	Cholesterol esters in large HDL || id:875	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00378517776332318	3	0.999938133561468
+Lu BF EU sex combined 5 SNPs	876	Free cholesterol in large HDL || id:876	Lu BF EU sex combined 5 SNPs	Maximum likelihood	28.8449304867792	4	8.40536794687245e-06
+Lu BF EU sex combined 5 SNPs	876	Free cholesterol in large HDL || id:876	Lu BF EU sex combined 5 SNPs	MR Egger	25.6797232484308	3	1.11294443395691e-05
+Lu BF EU sex combined 5 SNPs	876	Free cholesterol in large HDL || id:876	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	28.8996815028597	4	8.1929047267342e-06
+Lu BF EU sex combined 5 SNPs	876	Free cholesterol in large HDL || id:876	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0044763658918513	4	0.99999749900278
+Lu BF EU sex combined 5 SNPs	877	Total lipids in large HDL || id:877	Lu BF EU sex combined 5 SNPs	Maximum likelihood	20.165544824066	3	0.000156847172562432
+Lu BF EU sex combined 5 SNPs	877	Total lipids in large HDL || id:877	Lu BF EU sex combined 5 SNPs	MR Egger	7.67063719356115	2	0.0215944574494769
+Lu BF EU sex combined 5 SNPs	877	Total lipids in large HDL || id:877	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	20.959518291744	3	0.000107333867385026
+Lu BF EU sex combined 5 SNPs	877	Total lipids in large HDL || id:877	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0036164629561412	3	0.999942220510038
+Lu BF EU sex combined 5 SNPs	878	Concentration of large HDL particles || id:878	Lu BF EU sex combined 5 SNPs	Maximum likelihood	19.5629898350001	3	0.000209080069484706
+Lu BF EU sex combined 5 SNPs	878	Concentration of large HDL particles || id:878	Lu BF EU sex combined 5 SNPs	MR Egger	7.06912659257109	2	0.0291714935077233
+Lu BF EU sex combined 5 SNPs	878	Concentration of large HDL particles || id:878	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	20.3414394947866	3	0.000144212948990009
+Lu BF EU sex combined 5 SNPs	878	Concentration of large HDL particles || id:878	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00349504922575488	3	0.999945103654576
+Lu BF EU sex combined 5 SNPs	879	Phospholipids in large HDL || id:879	Lu BF EU sex combined 5 SNPs	Maximum likelihood	18.5270521981786	3	0.000342396388588473
+Lu BF EU sex combined 5 SNPs	879	Phospholipids in large HDL || id:879	Lu BF EU sex combined 5 SNPs	MR Egger	6.2427833804438	2	0.044095758062185
+Lu BF EU sex combined 5 SNPs	879	Phospholipids in large HDL || id:879	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	19.2638600260979	3	0.000241114066570415
+Lu BF EU sex combined 5 SNPs	879	Phospholipids in large HDL || id:879	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00330312681207187	3	0.999949559851173
+Lu BF EU sex combined 5 SNPs	880	Total cholesterol in large LDL || id:880	Lu BF EU sex combined 5 SNPs	Maximum likelihood	83.2605872428355	4	3.54741112862335e-17
+Lu BF EU sex combined 5 SNPs	880	Total cholesterol in large LDL || id:880	Lu BF EU sex combined 5 SNPs	MR Egger	85.4982907857124	3	2.02858935193094e-18
+Lu BF EU sex combined 5 SNPs	880	Total cholesterol in large LDL || id:880	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	94.0297522156625	4	1.83262898703656e-19
+Lu BF EU sex combined 5 SNPs	880	Total cholesterol in large LDL || id:880	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0136837495565687	4	0.999976700860251
+Lu BF EU sex combined 5 SNPs	881	Cholesterol esters in large VLDL || id:881	Lu BF EU sex combined 5 SNPs	Maximum likelihood	43.5769821109023	3	1.85605548543555e-09
+Lu BF EU sex combined 5 SNPs	881	Cholesterol esters in large VLDL || id:881	Lu BF EU sex combined 5 SNPs	MR Egger	22.9108519857553	2	1.05918471150311e-05
+Lu BF EU sex combined 5 SNPs	881	Cholesterol esters in large VLDL || id:881	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	64.5384530916949	3	6.29624616090076e-14
+Lu BF EU sex combined 5 SNPs	881	Cholesterol esters in large VLDL || id:881	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0107429123748237	3	0.9997048093412
+Lu BF EU sex combined 5 SNPs	882	Free cholesterol in large LDL || id:882	Lu BF EU sex combined 5 SNPs	Maximum likelihood	78.1869194342654	4	4.21696212178823e-16
+Lu BF EU sex combined 5 SNPs	882	Free cholesterol in large LDL || id:882	Lu BF EU sex combined 5 SNPs	MR Egger	80.5875638495354	3	2.29614404379291e-17
+Lu BF EU sex combined 5 SNPs	882	Free cholesterol in large LDL || id:882	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	87.1304985034221	4	5.35610382659709e-18
+Lu BF EU sex combined 5 SNPs	882	Free cholesterol in large LDL || id:882	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0125466043378274	4	0.999980404940524
+Lu BF EU sex combined 5 SNPs	883	Total lipids in large LDL || id:883	Lu BF EU sex combined 5 SNPs	Maximum likelihood	44.2268002144811	3	1.35070850754146e-09
+Lu BF EU sex combined 5 SNPs	883	Total lipids in large LDL || id:883	Lu BF EU sex combined 5 SNPs	MR Egger	24.611711539152	2	4.5251683839774e-06
+Lu BF EU sex combined 5 SNPs	883	Total lipids in large LDL || id:883	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	65.6940537372958	3	3.56358163158803e-14
+Lu BF EU sex combined 5 SNPs	883	Total lipids in large LDL || id:883	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0110495307966767	3	0.999692110136357
+Lu BF EU sex combined 5 SNPs	884	Concentration of large LDL particles || id:884	Lu BF EU sex combined 5 SNPs	Maximum likelihood	44.5067974586481	3	1.17780517722696e-09
+Lu BF EU sex combined 5 SNPs	884	Concentration of large LDL particles || id:884	Lu BF EU sex combined 5 SNPs	MR Egger	25.6186442089685	2	2.73515594759842e-06
+Lu BF EU sex combined 5 SNPs	884	Concentration of large LDL particles || id:884	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	65.5878750534558	3	3.75493230866539e-14
+Lu BF EU sex combined 5 SNPs	884	Concentration of large LDL particles || id:884	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.011112853591403	3	0.999689465554695
+Lu BF EU sex combined 5 SNPs	885	Phospholipids in large LDL || id:885	Lu BF EU sex combined 5 SNPs	Maximum likelihood	81.1137412436063	4	1.01162073380899e-16
+Lu BF EU sex combined 5 SNPs	885	Phospholipids in large LDL || id:885	Lu BF EU sex combined 5 SNPs	MR Egger	83.5441222572688	3	5.32881299181411e-18
+Lu BF EU sex combined 5 SNPs	885	Phospholipids in large LDL || id:885	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	90.6608204619075	4	9.53057536442274e-19
+Lu BF EU sex combined 5 SNPs	885	Phospholipids in large LDL || id:885	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0132467919943638	4	0.999978161927338
+Lu BF EU sex combined 5 SNPs	886	Total cholesterol in large VLDL || id:886	Lu BF EU sex combined 5 SNPs	Maximum likelihood	33.0961669779007	4	1.14153267369767e-06
+Lu BF EU sex combined 5 SNPs	886	Total cholesterol in large VLDL || id:886	Lu BF EU sex combined 5 SNPs	MR Egger	30.2949504149003	3	1.19631418367345e-06
+Lu BF EU sex combined 5 SNPs	886	Total cholesterol in large VLDL || id:886	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	33.6426235424066	4	8.82138521365467e-07
+Lu BF EU sex combined 5 SNPs	886	Total cholesterol in large VLDL || id:886	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00510139612715049	4	0.999996752496072
+Lu BF EU sex combined 5 SNPs	887	Cholesterol esters in large VLDL || id:887	Lu BF EU sex combined 5 SNPs	Maximum likelihood	16.0628725528874	3	0.00110081846489289
+Lu BF EU sex combined 5 SNPs	887	Cholesterol esters in large VLDL || id:887	Lu BF EU sex combined 5 SNPs	MR Egger	3.57821145421298	2	0.167109544402003
+Lu BF EU sex combined 5 SNPs	887	Cholesterol esters in large VLDL || id:887	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	17.6944758962927	3	0.000508498957138225
+Lu BF EU sex combined 5 SNPs	887	Cholesterol esters in large VLDL || id:887	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00303734949470189	3	0.999955519950626
+Lu BF EU sex combined 5 SNPs	888	Free cholesterol in large VLDL || id:888	Lu BF EU sex combined 5 SNPs	Maximum likelihood	35.9523079509501	4	2.95980921683743e-07
+Lu BF EU sex combined 5 SNPs	888	Free cholesterol in large VLDL || id:888	Lu BF EU sex combined 5 SNPs	MR Egger	32.8184094242566	3	3.51760608907895e-07
+Lu BF EU sex combined 5 SNPs	888	Free cholesterol in large VLDL || id:888	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	36.4791427011744	4	2.30595167698059e-07
+Lu BF EU sex combined 5 SNPs	888	Free cholesterol in large VLDL || id:888	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00546665098485041	4	0.999996271265858
+Lu BF EU sex combined 5 SNPs	889	Total lipids in large VLDL || id:889	Lu BF EU sex combined 5 SNPs	Maximum likelihood	21.6936858268431	3	7.55391239434149e-05
+Lu BF EU sex combined 5 SNPs	889	Total lipids in large VLDL || id:889	Lu BF EU sex combined 5 SNPs	MR Egger	14.0027647482341	2	0.000910622274410334
+Lu BF EU sex combined 5 SNPs	889	Total lipids in large VLDL || id:889	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	23.3569410741793	3	3.40233649645834e-05
+Lu BF EU sex combined 5 SNPs	889	Total lipids in large VLDL || id:889	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00435138334969665	3	0.999923758231586
+Lu BF EU sex combined 5 SNPs	890	Concentration of large VLDL particles || id:890	Lu BF EU sex combined 5 SNPs	Maximum likelihood	17.3843203035801	3	0.000589083026267313
+Lu BF EU sex combined 5 SNPs	890	Concentration of large VLDL particles || id:890	Lu BF EU sex combined 5 SNPs	MR Egger	7.45705918775635	2	0.0240281409995061
+Lu BF EU sex combined 5 SNPs	890	Concentration of large VLDL particles || id:890	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	19.2899467325678	3	0.000238136069126955
+Lu BF EU sex combined 5 SNPs	890	Concentration of large VLDL particles || id:890	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00354476648040774	3	0.999943928979903
+Lu BF EU sex combined 5 SNPs	891	Phospholipids in large VLDL || id:891	Lu BF EU sex combined 5 SNPs	Maximum likelihood	40.9626739144176	4	2.73608562895438e-08
+Lu BF EU sex combined 5 SNPs	891	Phospholipids in large VLDL || id:891	Lu BF EU sex combined 5 SNPs	MR Egger	40.3772916568201	3	8.86284793409041e-09
+Lu BF EU sex combined 5 SNPs	891	Phospholipids in large VLDL || id:891	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	41.9674859538659	4	1.6942514004463e-08
+Lu BF EU sex combined 5 SNPs	891	Phospholipids in large VLDL || id:891	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0063741630059909	4	0.999994932033775
+Lu BF EU sex combined 5 SNPs	892	Triglycerides in large VLDL || id:892	Lu BF EU sex combined 5 SNPs	Maximum likelihood	35.6136884818533	4	3.47457534608503e-07
+Lu BF EU sex combined 5 SNPs	892	Triglycerides in large VLDL || id:892	Lu BF EU sex combined 5 SNPs	MR Egger	34.9630184763358	3	1.24036443316784e-07
+Lu BF EU sex combined 5 SNPs	892	Triglycerides in large VLDL || id:892	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	36.1520939428029	4	2.69253234323421e-07
+Lu BF EU sex combined 5 SNPs	892	Triglycerides in large VLDL || id:892	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00553579149198641	4	0.999996176437749
+Lu BF EU sex combined 5 SNPs	893	18:2, linoleic acid (LA) || id:893	Lu BF EU sex combined 5 SNPs	Maximum likelihood	46.5632293209549	4	1.88018587590401e-09
+Lu BF EU sex combined 5 SNPs	893	18:2, linoleic acid (LA) || id:893	Lu BF EU sex combined 5 SNPs	MR Egger	49.3432359499539	3	1.10243920746631e-10
+Lu BF EU sex combined 5 SNPs	893	18:2, linoleic acid (LA) || id:893	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	51.4273626883631	4	1.81728827248727e-10
+Lu BF EU sex combined 5 SNPs	893	18:2, linoleic acid (LA) || id:893	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0116778588948247	4	0.999983019662117
+Lu BF EU sex combined 5 SNPs	894	Lactate || id:894	Lu BF EU sex combined 5 SNPs	Maximum likelihood	1.64732612650259	4	0.800262153788918
+Lu BF EU sex combined 5 SNPs	894	Lactate || id:894	Lu BF EU sex combined 5 SNPs	MR Egger	1.12708249848632	3	0.770540608812505
+Lu BF EU sex combined 5 SNPs	894	Lactate || id:894	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	1.64856166269093	4	0.800038852401808
+Lu BF EU sex combined 5 SNPs	894	Lactate || id:894	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000176084661054807	4	0.999999996124502
+Lu BF EU sex combined 5 SNPs	895	Total cholesterol in LDL || id:895	Lu BF EU sex combined 5 SNPs	Maximum likelihood	98.3818440062026	4	2.17409835797157e-20
+Lu BF EU sex combined 5 SNPs	895	Total cholesterol in LDL || id:895	Lu BF EU sex combined 5 SNPs	MR Egger	107.958916115529	3	3.01687188048533e-23
+Lu BF EU sex combined 5 SNPs	895	Total cholesterol in LDL || id:895	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	118.516152988423	4	1.10805070590344e-24
+Lu BF EU sex combined 5 SNPs	895	Total cholesterol in LDL || id:895	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0171685597723018	4	0.999963365250326
+Lu BF EU sex combined 5 SNPs	896	Mean diameter for LDL particles || id:896	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.27318838478608	3	0.0990496339274463
+Lu BF EU sex combined 5 SNPs	896	Mean diameter for LDL particles || id:896	Lu BF EU sex combined 5 SNPs	MR Egger	1.2601342968383	2	0.532556039510084
+Lu BF EU sex combined 5 SNPs	896	Mean diameter for LDL particles || id:896	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.0111644924256	3	0.0715427722106876
+Lu BF EU sex combined 5 SNPs	896	Mean diameter for LDL particles || id:896	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0010852100343611	3	0.999990495087524
+Lu BF EU sex combined 5 SNPs	897	Leucine || id:897	Lu BF EU sex combined 5 SNPs	Maximum likelihood	11.7809488431857	4	0.0190567390817805
+Lu BF EU sex combined 5 SNPs	897	Leucine || id:897	Lu BF EU sex combined 5 SNPs	MR Egger	5.69550820521847	3	0.127401608847869
+Lu BF EU sex combined 5 SNPs	897	Leucine || id:897	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	11.8098741449769	4	0.018822536087396
+Lu BF EU sex combined 5 SNPs	897	Leucine || id:897	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00117910226066026	4	0.999999826283021
+Lu BF EU sex combined 5 SNPs	898	Total cholesterol in medium HDL || id:898	Lu BF EU sex combined 5 SNPs	Maximum likelihood	20.0794820120821	4	0.000481675732210353
+Lu BF EU sex combined 5 SNPs	898	Total cholesterol in medium HDL || id:898	Lu BF EU sex combined 5 SNPs	MR Egger	18.950632103277	3	0.000279900506339963
+Lu BF EU sex combined 5 SNPs	898	Total cholesterol in medium HDL || id:898	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	20.2882184270101	4	0.000438040942088388
+Lu BF EU sex combined 5 SNPs	898	Total cholesterol in medium HDL || id:898	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00297436872633783	4	0.999998895237134
+Lu BF EU sex combined 5 SNPs	899	Cholesterol esters in medium HDL || id:899	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.8115678640998	3	0.0127896814950495
+Lu BF EU sex combined 5 SNPs	899	Cholesterol esters in medium HDL || id:899	Lu BF EU sex combined 5 SNPs	MR Egger	4.82733992021335	2	0.0894862801284205
+Lu BF EU sex combined 5 SNPs	899	Cholesterol esters in medium HDL || id:899	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	11.348411093912	3	0.00998363218589786
+Lu BF EU sex combined 5 SNPs	899	Cholesterol esters in medium HDL || id:899	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00184487193575329	3	0.999978936633197
+Lu BF EU sex combined 5 SNPs	900	Free cholesterol in medium HDL || id:900	Lu BF EU sex combined 5 SNPs	Maximum likelihood	9.76541034710261	4	0.0445702602055566
+Lu BF EU sex combined 5 SNPs	900	Free cholesterol in medium HDL || id:900	Lu BF EU sex combined 5 SNPs	MR Egger	8.55163363565231	3	0.035886155961417
+Lu BF EU sex combined 5 SNPs	900	Free cholesterol in medium HDL || id:900	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	9.77136707281963	4	0.0444602097150423
+Lu BF EU sex combined 5 SNPs	900	Free cholesterol in medium HDL || id:900	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00142873203108446	4	0.999999744962084
+Lu BF EU sex combined 5 SNPs	901	Total lipids in medium HDL || id:901	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.78573121129355	3	0.079050063604122
+Lu BF EU sex combined 5 SNPs	901	Total lipids in medium HDL || id:901	Lu BF EU sex combined 5 SNPs	MR Egger	1.93720397106842	2	0.379613372295463
+Lu BF EU sex combined 5 SNPs	901	Total lipids in medium HDL || id:901	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	6.89657514924812	3	0.075268361841739
+Lu BF EU sex combined 5 SNPs	901	Total lipids in medium HDL || id:901	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00105247581180803	3	0.999990921797396
+Lu BF EU sex combined 5 SNPs	902	Concentration of medium HDL particles || id:902	Lu BF EU sex combined 5 SNPs	Maximum likelihood	5.84353927030334	3	0.119475527281435
+Lu BF EU sex combined 5 SNPs	902	Concentration of medium HDL particles || id:902	Lu BF EU sex combined 5 SNPs	MR Egger	1.5163970470034	2	0.468509676406144
+Lu BF EU sex combined 5 SNPs	902	Concentration of medium HDL particles || id:902	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	5.9000518961851	3	0.116575474417717
+Lu BF EU sex combined 5 SNPs	902	Concentration of medium HDL particles || id:902	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000874779688816595	3	0.999993120563407
+Lu BF EU sex combined 5 SNPs	903	Phospholipids in medium HDL || id:903	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.4812140368891	4	0.0330567478623562
+Lu BF EU sex combined 5 SNPs	903	Phospholipids in medium HDL || id:903	Lu BF EU sex combined 5 SNPs	MR Egger	8.61983014407962	3	0.0347967023860451
+Lu BF EU sex combined 5 SNPs	903	Phospholipids in medium HDL || id:903	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	10.5140752247664	4	0.0326036587883272
+Lu BF EU sex combined 5 SNPs	903	Phospholipids in medium HDL || id:903	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00150937523732839	4	0.999999715366537
+Lu BF EU sex combined 5 SNPs	904	Total cholesterol in medium LDL || id:904	Lu BF EU sex combined 5 SNPs	Maximum likelihood	90.6900596290829	4	9.39521960247004e-19
+Lu BF EU sex combined 5 SNPs	904	Total cholesterol in medium LDL || id:904	Lu BF EU sex combined 5 SNPs	MR Egger	98.2607840866343	3	3.67642962895488e-21
+Lu BF EU sex combined 5 SNPs	904	Total cholesterol in medium LDL || id:904	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	107.587592770265	4	2.37893436979196e-22
+Lu BF EU sex combined 5 SNPs	904	Total cholesterol in medium LDL || id:904	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0155728406512802	4	0.999969842729984
+Lu BF EU sex combined 5 SNPs	905	Cholesterol esters in medium LDL || id:905	Lu BF EU sex combined 5 SNPs	Maximum likelihood	44.3168422163493	3	1.29250487710539e-09
+Lu BF EU sex combined 5 SNPs	905	Cholesterol esters in medium LDL || id:905	Lu BF EU sex combined 5 SNPs	MR Egger	25.2170444612237	2	3.34340024763244e-06
+Lu BF EU sex combined 5 SNPs	905	Cholesterol esters in medium LDL || id:905	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	68.3429912099695	3	9.6608595346934e-15
+Lu BF EU sex combined 5 SNPs	905	Cholesterol esters in medium LDL || id:905	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0113687063897991	3	0.999678704492025
+Lu BF EU sex combined 5 SNPs	906	Total lipids in medium LDL || id:906	Lu BF EU sex combined 5 SNPs	Maximum likelihood	44.9134196425338	3	9.65313853948608e-10
+Lu BF EU sex combined 5 SNPs	906	Total lipids in medium LDL || id:906	Lu BF EU sex combined 5 SNPs	MR Egger	26.2029465893409	2	2.04221961574076e-06
+Lu BF EU sex combined 5 SNPs	906	Total lipids in medium LDL || id:906	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	70.5420874705862	3	3.26719617037326e-15
+Lu BF EU sex combined 5 SNPs	906	Total lipids in medium LDL || id:906	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0118134948173868	3	0.999659711119264
+Lu BF EU sex combined 5 SNPs	907	Concentration of medium LDL particles || id:907	Lu BF EU sex combined 5 SNPs	Maximum likelihood	44.4945158950885	3	1.18490345138628e-09
+Lu BF EU sex combined 5 SNPs	907	Concentration of medium LDL particles || id:907	Lu BF EU sex combined 5 SNPs	MR Egger	26.5199585235415	2	1.74286671728595e-06
+Lu BF EU sex combined 5 SNPs	907	Concentration of medium LDL particles || id:907	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	69.3727967550325	3	5.81505043147546e-15
+Lu BF EU sex combined 5 SNPs	907	Concentration of medium LDL particles || id:907	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0116956175869023	3	0.999664779744397
+Lu BF EU sex combined 5 SNPs	908	Phospholipids in medium LDL || id:908	Lu BF EU sex combined 5 SNPs	Maximum likelihood	86.7193173911488	4	6.54828672547842e-18
+Lu BF EU sex combined 5 SNPs	908	Phospholipids in medium LDL || id:908	Lu BF EU sex combined 5 SNPs	MR Egger	93.6428601036423	3	3.61371886374983e-20
+Lu BF EU sex combined 5 SNPs	908	Phospholipids in medium LDL || id:908	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	101.318752600929	4	5.15301699203195e-21
+Lu BF EU sex combined 5 SNPs	908	Phospholipids in medium LDL || id:908	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0147385482571293	4	0.999972979930581
+Lu BF EU sex combined 5 SNPs	909	Total cholesterol in medium VLDL || id:909	Lu BF EU sex combined 5 SNPs	Maximum likelihood	56.8899309517011	4	1.30472656617269e-11
+Lu BF EU sex combined 5 SNPs	909	Total cholesterol in medium VLDL || id:909	Lu BF EU sex combined 5 SNPs	MR Egger	52.7902289386929	3	2.03221247861507e-11
+Lu BF EU sex combined 5 SNPs	909	Total cholesterol in medium VLDL || id:909	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	59.0940936251604	4	4.49624370938946e-12
+Lu BF EU sex combined 5 SNPs	909	Total cholesterol in medium VLDL || id:909	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00876527481759973	4	0.999990424258461
+Lu BF EU sex combined 5 SNPs	910	Cholesterol esters in medium VLDL || id:910	Lu BF EU sex combined 5 SNPs	Maximum likelihood	34.2681558402794	3	1.73904211522249e-07
+Lu BF EU sex combined 5 SNPs	910	Cholesterol esters in medium VLDL || id:910	Lu BF EU sex combined 5 SNPs	MR Egger	11.9206464565033	2	0.00257907820634666
+Lu BF EU sex combined 5 SNPs	910	Cholesterol esters in medium VLDL || id:910	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	41.7027484195738	3	4.63925869562313e-09
+Lu BF EU sex combined 5 SNPs	910	Cholesterol esters in medium VLDL || id:910	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00708437027810598	3	0.999841748490511
+Lu BF EU sex combined 5 SNPs	911	Free cholesterol in medium VLDL || id:911	Lu BF EU sex combined 5 SNPs	Maximum likelihood	46.5570940606458	4	1.88572418242798e-09
+Lu BF EU sex combined 5 SNPs	911	Free cholesterol in medium VLDL || id:911	Lu BF EU sex combined 5 SNPs	MR Egger	44.8419824608554	3	9.99654049306033e-10
+Lu BF EU sex combined 5 SNPs	911	Free cholesterol in medium VLDL || id:911	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	47.915487326383	4	9.82854992535894e-10
+Lu BF EU sex combined 5 SNPs	911	Free cholesterol in medium VLDL || id:911	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00713166464655885	4	0.999993657513107
+Lu BF EU sex combined 5 SNPs	912	Total lipids in medium VLDL || id:912	Lu BF EU sex combined 5 SNPs	Maximum likelihood	20.2805895719924	3	0.000148464723261037
+Lu BF EU sex combined 5 SNPs	912	Total lipids in medium VLDL || id:912	Lu BF EU sex combined 5 SNPs	MR Egger	9.76027729555312	2	0.00759596079149026
+Lu BF EU sex combined 5 SNPs	912	Total lipids in medium VLDL || id:912	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	23.4719196146428	3	3.21954992162178e-05
+Lu BF EU sex combined 5 SNPs	912	Total lipids in medium VLDL || id:912	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.004186252325406	3	0.999928053188013
+Lu BF EU sex combined 5 SNPs	913	Concentration of medium VLDL particles || id:913	Lu BF EU sex combined 5 SNPs	Maximum likelihood	16.0273244374476	3	0.00111945022802217
+Lu BF EU sex combined 5 SNPs	913	Concentration of medium VLDL particles || id:913	Lu BF EU sex combined 5 SNPs	MR Egger	9.6374423299895	2	0.00807710982797412
+Lu BF EU sex combined 5 SNPs	913	Concentration of medium VLDL particles || id:913	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	18.4366827325903	3	0.000357429574084617
+Lu BF EU sex combined 5 SNPs	913	Concentration of medium VLDL particles || id:913	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00329193115882374	3	0.999949815908799
+Lu BF EU sex combined 5 SNPs	914	Phospholipids in medium VLDL || id:914	Lu BF EU sex combined 5 SNPs	Maximum likelihood	47.7787901396762	4	1.04949865534912e-09
+Lu BF EU sex combined 5 SNPs	914	Phospholipids in medium VLDL || id:914	Lu BF EU sex combined 5 SNPs	MR Egger	46.9237548381325	3	3.60785151668382e-10
+Lu BF EU sex combined 5 SNPs	914	Phospholipids in medium VLDL || id:914	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	49.227838183658	4	5.23343450865012e-10
+Lu BF EU sex combined 5 SNPs	914	Phospholipids in medium VLDL || id:914	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00731072967611456	4	0.999993335412275
+Lu BF EU sex combined 5 SNPs	915	Triglycerides in medium VLDL || id:915	Lu BF EU sex combined 5 SNPs	Maximum likelihood	33.5796820642181	4	9.08733953276933e-07
+Lu BF EU sex combined 5 SNPs	915	Triglycerides in medium VLDL || id:915	Lu BF EU sex combined 5 SNPs	MR Egger	33.6912731303933	3	2.30192867314726e-07
+Lu BF EU sex combined 5 SNPs	915	Triglycerides in medium VLDL || id:915	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	34.0089894199171	4	7.4203214165345e-07
+Lu BF EU sex combined 5 SNPs	915	Triglycerides in medium VLDL || id:915	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00491335510607266	4	0.999996987305383
+Lu BF EU sex combined 5 SNPs	916	Mono-unsaturated fatty acids || id:916	Lu BF EU sex combined 5 SNPs	Maximum likelihood	24.8798637714299	4	5.31867305404455e-05
+Lu BF EU sex combined 5 SNPs	916	Mono-unsaturated fatty acids || id:916	Lu BF EU sex combined 5 SNPs	MR Egger	25.0281724545216	3	1.52324852505603e-05
+Lu BF EU sex combined 5 SNPs	916	Mono-unsaturated fatty acids || id:916	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	25.4727787058048	4	4.04137338382952e-05
+Lu BF EU sex combined 5 SNPs	916	Mono-unsaturated fatty acids || id:916	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00580804031166027	4	0.999995791488107
+Lu BF EU sex combined 5 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Lu BF EU sex combined 5 SNPs	Maximum likelihood	15.0162610129083	4	0.00466760927948767
+Lu BF EU sex combined 5 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Lu BF EU sex combined 5 SNPs	MR Egger	15.0568232130577	3	0.00176872785583007
+Lu BF EU sex combined 5 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	15.1722756722863	4	0.00435692470720055
+Lu BF EU sex combined 5 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0030954312528777	4	0.999998803523264
+Lu BF EU sex combined 5 SNPs	918	Phosphatidylcholine and other cholines || id:918	Lu BF EU sex combined 5 SNPs	Maximum likelihood	9.20998138538548	4	0.0560599684123835
+Lu BF EU sex combined 5 SNPs	918	Phosphatidylcholine and other cholines || id:918	Lu BF EU sex combined 5 SNPs	MR Egger	9.31581632755312	3	0.0253736885999395
+Lu BF EU sex combined 5 SNPs	918	Phosphatidylcholine and other cholines || id:918	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	9.42644773307584	4	0.051280721220697
+Lu BF EU sex combined 5 SNPs	918	Phosphatidylcholine and other cholines || id:918	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00194752398021283	4	0.999999526201459
+Lu BF EU sex combined 5 SNPs	919	Phenylalanine || id:919	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.20172212447648	4	0.379393548045877
+Lu BF EU sex combined 5 SNPs	919	Phenylalanine || id:919	Lu BF EU sex combined 5 SNPs	MR Egger	2.07729956793352	3	0.55651884919282
+Lu BF EU sex combined 5 SNPs	919	Phenylalanine || id:919	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	4.36214858421206	4	0.359207406024417
+Lu BF EU sex combined 5 SNPs	919	Phenylalanine || id:919	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000477130285734052	4	0.999999971547862
+Lu BF EU sex combined 5 SNPs	920	Pyruvate || id:920	Lu BF EU sex combined 5 SNPs	Maximum likelihood	8.80559915632166	4	0.0661465649122135
+Lu BF EU sex combined 5 SNPs	920	Pyruvate || id:920	Lu BF EU sex combined 5 SNPs	MR Egger	7.5657493365751	3	0.0558929203584195
+Lu BF EU sex combined 5 SNPs	920	Pyruvate || id:920	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	8.84252020167722	4	0.0651585452390306
+Lu BF EU sex combined 5 SNPs	920	Pyruvate || id:920	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00134246955978527	4	0.99999977482272
+Lu BF EU sex combined 5 SNPs	921	Total lipids in small HDL || id:921	Lu BF EU sex combined 5 SNPs	Maximum likelihood	5.25692889234842	3	0.153921753001919
+Lu BF EU sex combined 5 SNPs	921	Total lipids in small HDL || id:921	Lu BF EU sex combined 5 SNPs	MR Egger	4.97855141164759	2	0.0829700395337333
+Lu BF EU sex combined 5 SNPs	921	Total lipids in small HDL || id:921	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	5.55478566281722	3	0.135398302098365
+Lu BF EU sex combined 5 SNPs	921	Total lipids in small HDL || id:921	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000933839766679994	3	0.999992412377991
+Lu BF EU sex combined 5 SNPs	922	Concentration of small HDL particles || id:922	Lu BF EU sex combined 5 SNPs	Maximum likelihood	2.99514563282393	3	0.392374229906571
+Lu BF EU sex combined 5 SNPs	922	Concentration of small HDL particles || id:922	Lu BF EU sex combined 5 SNPs	MR Egger	2.97346874351199	2	0.226109841881932
+Lu BF EU sex combined 5 SNPs	922	Concentration of small HDL particles || id:922	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.10268981462743	3	0.376061819655642
+Lu BF EU sex combined 5 SNPs	922	Concentration of small HDL particles || id:922	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000549497708931778	3	0.999996574720276
+Lu BF EU sex combined 5 SNPs	923	Triglycerides in small HDL || id:923	Lu BF EU sex combined 5 SNPs	Maximum likelihood	33.4413974113228	4	9.70004301502906e-07
+Lu BF EU sex combined 5 SNPs	923	Triglycerides in small HDL || id:923	Lu BF EU sex combined 5 SNPs	MR Egger	33.8569906750343	3	2.12380244994757e-07
+Lu BF EU sex combined 5 SNPs	923	Triglycerides in small HDL || id:923	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	34.6046320435546	4	5.60022759896527e-07
+Lu BF EU sex combined 5 SNPs	923	Triglycerides in small HDL || id:923	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00529908564374124	4	0.99999649615526
+Lu BF EU sex combined 5 SNPs	924	Total cholesterol in small LDL || id:924	Lu BF EU sex combined 5 SNPs	Maximum likelihood	92.9932252105554	4	3.04396991487907e-19
+Lu BF EU sex combined 5 SNPs	924	Total cholesterol in small LDL || id:924	Lu BF EU sex combined 5 SNPs	MR Egger	106.796317409352	3	5.36665237850694e-23
+Lu BF EU sex combined 5 SNPs	924	Total cholesterol in small LDL || id:924	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	113.363866718787	4	1.39440498551075e-23
+Lu BF EU sex combined 5 SNPs	924	Total cholesterol in small LDL || id:924	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0163656258632389	4	0.99996670286315
+Lu BF EU sex combined 5 SNPs	925	Total lipids in small LDL || id:925	Lu BF EU sex combined 5 SNPs	Maximum likelihood	45.1511916537366	3	8.59282034934316e-10
+Lu BF EU sex combined 5 SNPs	925	Total lipids in small LDL || id:925	Lu BF EU sex combined 5 SNPs	MR Egger	24.3392429036217	2	5.18561842316407e-06
+Lu BF EU sex combined 5 SNPs	925	Total lipids in small LDL || id:925	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	72.5036256071493	3	1.24173339554686e-15
+Lu BF EU sex combined 5 SNPs	925	Total lipids in small LDL || id:925	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0122077981234729	3	0.999642575073827
+Lu BF EU sex combined 5 SNPs	926	Concentration of small LDL particles || id:926	Lu BF EU sex combined 5 SNPs	Maximum likelihood	42.9790066779526	3	2.48638959025442e-09
+Lu BF EU sex combined 5 SNPs	926	Concentration of small LDL particles || id:926	Lu BF EU sex combined 5 SNPs	MR Egger	25.6018296693156	2	2.75824807652999e-06
+Lu BF EU sex combined 5 SNPs	926	Concentration of small LDL particles || id:926	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	68.4316256191692	3	9.2478887491766e-15
+Lu BF EU sex combined 5 SNPs	926	Concentration of small LDL particles || id:926	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0116684775629841	3	0.999665943181817
+Lu BF EU sex combined 5 SNPs	927	Total cholesterol in small VLDL || id:927	Lu BF EU sex combined 5 SNPs	Maximum likelihood	63.7894423460076	4	4.62833517567553e-13
+Lu BF EU sex combined 5 SNPs	927	Total cholesterol in small VLDL || id:927	Lu BF EU sex combined 5 SNPs	MR Egger	59.4124144828866	3	7.84820619790057e-13
+Lu BF EU sex combined 5 SNPs	927	Total cholesterol in small VLDL || id:927	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	67.4090125942924	4	7.9929071947653e-14
+Lu BF EU sex combined 5 SNPs	927	Total cholesterol in small VLDL || id:927	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00994809424270339	4	0.99998767037241
+Lu BF EU sex combined 5 SNPs	928	Free cholesterol in small VLDL || id:928	Lu BF EU sex combined 5 SNPs	Maximum likelihood	66.6963006224315	4	1.12975869608688e-13
+Lu BF EU sex combined 5 SNPs	928	Free cholesterol in small VLDL || id:928	Lu BF EU sex combined 5 SNPs	MR Egger	64.6581226502772	3	5.93589407526101e-14
+Lu BF EU sex combined 5 SNPs	928	Free cholesterol in small VLDL || id:928	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	73.7890231907747	4	3.59330031623496e-15
+Lu BF EU sex combined 5 SNPs	928	Free cholesterol in small VLDL || id:928	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.011056327289132	4	0.999984775901441
+Lu BF EU sex combined 5 SNPs	929	Total lipids in small VLDL || id:929	Lu BF EU sex combined 5 SNPs	Maximum likelihood	33.9164531725875	3	2.0632997356478e-07
+Lu BF EU sex combined 5 SNPs	929	Total lipids in small VLDL || id:929	Lu BF EU sex combined 5 SNPs	MR Egger	17.8448973577828	2	0.000133361285680656
+Lu BF EU sex combined 5 SNPs	929	Total lipids in small VLDL || id:929	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	42.8481236749424	3	2.65067620368767e-09
+Lu BF EU sex combined 5 SNPs	929	Total lipids in small VLDL || id:929	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0074664504787828	3	0.999828794581215
+Lu BF EU sex combined 5 SNPs	930	Concentration of small VLDL particles || id:930	Lu BF EU sex combined 5 SNPs	Maximum likelihood	31.2573266155929	3	7.50335102424028e-07
+Lu BF EU sex combined 5 SNPs	930	Concentration of small VLDL particles || id:930	Lu BF EU sex combined 5 SNPs	MR Egger	16.6341091309782	2	0.000244314417597281
+Lu BF EU sex combined 5 SNPs	930	Concentration of small VLDL particles || id:930	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	38.8813377173753	3	1.83909031408689e-08
+Lu BF EU sex combined 5 SNPs	930	Concentration of small VLDL particles || id:930	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00684008116899809	3	0.999849851955236
+Lu BF EU sex combined 5 SNPs	931	Phospholipids in small VLDL || id:931	Lu BF EU sex combined 5 SNPs	Maximum likelihood	53.103391433694	4	8.10762024414592e-11
+Lu BF EU sex combined 5 SNPs	931	Phospholipids in small VLDL || id:931	Lu BF EU sex combined 5 SNPs	MR Egger	49.6095133591029	3	9.67514124201401e-11
+Lu BF EU sex combined 5 SNPs	931	Phospholipids in small VLDL || id:931	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	55.5637100837792	4	2.47521221644918e-11
+Lu BF EU sex combined 5 SNPs	931	Phospholipids in small VLDL || id:931	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00840734374231671	4	0.99999118929324
+Lu BF EU sex combined 5 SNPs	932	Triglycerides in small VLDL || id:932	Lu BF EU sex combined 5 SNPs	Maximum likelihood	47.7856367006343	4	1.04605592399195e-09
+Lu BF EU sex combined 5 SNPs	932	Triglycerides in small VLDL || id:932	Lu BF EU sex combined 5 SNPs	MR Egger	47.153658831441	3	3.22362469708153e-10
+Lu BF EU sex combined 5 SNPs	932	Triglycerides in small VLDL || id:932	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	51.3742779166858	4	1.86431507569049e-10
+Lu BF EU sex combined 5 SNPs	932	Triglycerides in small VLDL || id:932	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00773696565428021	4	0.99999253668983
+Lu BF EU sex combined 5 SNPs	933	Serum total cholesterol || id:933	Lu BF EU sex combined 5 SNPs	Maximum likelihood	70.0233957092181	4	2.24417343587414e-14
+Lu BF EU sex combined 5 SNPs	933	Serum total cholesterol || id:933	Lu BF EU sex combined 5 SNPs	MR Egger	76.6644244856589	3	1.59340703762523e-16
+Lu BF EU sex combined 5 SNPs	933	Serum total cholesterol || id:933	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	80.2571346401635	4	1.53648465643949e-16
+Lu BF EU sex combined 5 SNPs	933	Serum total cholesterol || id:933	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0116110556851481	4	0.999983213004925
+Lu BF EU sex combined 5 SNPs	934	Serum total triglycerides || id:934	Lu BF EU sex combined 5 SNPs	Maximum likelihood	56.1506025124227	4	1.86455762472861e-11
+Lu BF EU sex combined 5 SNPs	934	Serum total triglycerides || id:934	Lu BF EU sex combined 5 SNPs	MR Egger	57.6041718693493	3	1.90955491422874e-12
+Lu BF EU sex combined 5 SNPs	934	Serum total triglycerides || id:934	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	60.8477714233203	4	1.92457218110399e-12
+Lu BF EU sex combined 5 SNPs	934	Serum total triglycerides || id:934	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00910756102019003	4	0.999989662964968
+Lu BF EU sex combined 5 SNPs	935	Sphingomyelins || id:935	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.31480883175096	4	0.176839369601837
+Lu BF EU sex combined 5 SNPs	935	Sphingomyelins || id:935	Lu BF EU sex combined 5 SNPs	MR Egger	6.11712077228573	3	0.106049019898249
+Lu BF EU sex combined 5 SNPs	935	Sphingomyelins || id:935	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	6.32627027103678	4	0.17607121999353
+Lu BF EU sex combined 5 SNPs	935	Sphingomyelins || id:935	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00137238405200528	4	0.999999764677924
+Lu BF EU sex combined 5 SNPs	936	Total fatty acids || id:936	Lu BF EU sex combined 5 SNPs	Maximum likelihood	31.7389763025098	4	2.16307098015814e-06
+Lu BF EU sex combined 5 SNPs	936	Total fatty acids || id:936	Lu BF EU sex combined 5 SNPs	MR Egger	31.3523639366575	3	7.16537378060635e-07
+Lu BF EU sex combined 5 SNPs	936	Total fatty acids || id:936	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	32.7293096957589	4	1.35702190069215e-06
+Lu BF EU sex combined 5 SNPs	936	Total fatty acids || id:936	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00757980001095946	4	0.999992836448422
+Lu BF EU sex combined 5 SNPs	937	Total phosphoglycerides || id:937	Lu BF EU sex combined 5 SNPs	Maximum likelihood	11.0537154029676	4	0.0259669141609736
+Lu BF EU sex combined 5 SNPs	937	Total phosphoglycerides || id:937	Lu BF EU sex combined 5 SNPs	MR Egger	11.2413252654431	3	0.0104900109350609
+Lu BF EU sex combined 5 SNPs	937	Total phosphoglycerides || id:937	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	11.4139994520423	4	0.0222848543196515
+Lu BF EU sex combined 5 SNPs	937	Total phosphoglycerides || id:937	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00254895712625427	4	0.99999918854191
+Lu BF EU sex combined 5 SNPs	938	Tyrosine || id:938	Lu BF EU sex combined 5 SNPs	Maximum likelihood	3.00380839107186	4	0.557188277582242
+Lu BF EU sex combined 5 SNPs	938	Tyrosine || id:938	Lu BF EU sex combined 5 SNPs	MR Egger	1.0779814016965	3	0.782391942508381
+Lu BF EU sex combined 5 SNPs	938	Tyrosine || id:938	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.12921351676938	4	0.53643944052175
+Lu BF EU sex combined 5 SNPs	938	Tyrosine || id:938	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000339126287320642	4	0.999999985625795
+Lu BF EU sex combined 5 SNPs	939	Urea || id:939	Lu BF EU sex combined 5 SNPs	Maximum likelihood	9.52202866002926	3	0.0230981635413448
+Lu BF EU sex combined 5 SNPs	939	Urea || id:939	Lu BF EU sex combined 5 SNPs	MR Egger	4.62143478107848	2	0.0991900680131178
+Lu BF EU sex combined 5 SNPs	939	Urea || id:939	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	9.62310867452475	3	0.0220571202475964
+Lu BF EU sex combined 5 SNPs	939	Urea || id:939	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00152863687901951	3	0.999984111746836
+Lu BF EU sex combined 5 SNPs	940	Valine || id:940	Lu BF EU sex combined 5 SNPs	Maximum likelihood	6.89991924708793	4	0.141272504074007
+Lu BF EU sex combined 5 SNPs	940	Valine || id:940	Lu BF EU sex combined 5 SNPs	MR Egger	1.50426391770211	3	0.681286570588757
+Lu BF EU sex combined 5 SNPs	940	Valine || id:940	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.05733476802133	4	0.132889188992047
+Lu BF EU sex combined 5 SNPs	940	Valine || id:940	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000724056681118599	4	0.999999934483555
+Lu BF EU sex combined 5 SNPs	941	Mean diameter for VLDL particles || id:941	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.6287868889944	3	0.013912234145735
+Lu BF EU sex combined 5 SNPs	941	Mean diameter for VLDL particles || id:941	Lu BF EU sex combined 5 SNPs	MR Egger	2.87282733898266	2	0.237778985409269
+Lu BF EU sex combined 5 SNPs	941	Mean diameter for VLDL particles || id:941	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	11.2985684453996	3	0.0102162515841613
+Lu BF EU sex combined 5 SNPs	941	Mean diameter for VLDL particles || id:941	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0019640241567525	3	0.999976864272021
+Lu BF EU sex combined 5 SNPs	942	Total cholesterol in very large HDL || id:942	Lu BF EU sex combined 5 SNPs	Maximum likelihood	3.4408327671623	4	0.486931689945537
+Lu BF EU sex combined 5 SNPs	942	Total cholesterol in very large HDL || id:942	Lu BF EU sex combined 5 SNPs	MR Egger	1.70918220930468	3	0.63489431349578
+Lu BF EU sex combined 5 SNPs	942	Total cholesterol in very large HDL || id:942	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	3.45982941991774	4	0.484012598317168
+Lu BF EU sex combined 5 SNPs	942	Total cholesterol in very large HDL || id:942	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000371306039584793	4	0.999999982768611
+Lu BF EU sex combined 5 SNPs	943	Cholesterol esters in very large HDL || id:943	Lu BF EU sex combined 5 SNPs	Maximum likelihood	1.09455997330569	3	0.77838748745735
+Lu BF EU sex combined 5 SNPs	943	Cholesterol esters in very large HDL || id:943	Lu BF EU sex combined 5 SNPs	MR Egger	1.03255856021966	2	0.596736712705578
+Lu BF EU sex combined 5 SNPs	943	Cholesterol esters in very large HDL || id:943	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	1.13034837243743	3	0.769753374166655
+Lu BF EU sex combined 5 SNPs	943	Cholesterol esters in very large HDL || id:943	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000165518293223703	3	0.999999433674339
+Lu BF EU sex combined 5 SNPs	944	Free cholesterol in very large HDL || id:944	Lu BF EU sex combined 5 SNPs	Maximum likelihood	4.21551616226931	4	0.377623923824582
+Lu BF EU sex combined 5 SNPs	944	Free cholesterol in very large HDL || id:944	Lu BF EU sex combined 5 SNPs	MR Egger	2.28923197655953	3	0.514586912616252
+Lu BF EU sex combined 5 SNPs	944	Free cholesterol in very large HDL || id:944	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	4.24136789270971	4	0.374324670585303
+Lu BF EU sex combined 5 SNPs	944	Free cholesterol in very large HDL || id:944	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000572192687495957	4	0.999999959082246
+Lu BF EU sex combined 5 SNPs	945	Total lipids in very large HDL || id:945	Lu BF EU sex combined 5 SNPs	Maximum likelihood	1.76886904042809	3	0.621732697576283
+Lu BF EU sex combined 5 SNPs	945	Total lipids in very large HDL || id:945	Lu BF EU sex combined 5 SNPs	MR Egger	1.04013491278281	2	0.594480445112023
+Lu BF EU sex combined 5 SNPs	945	Total lipids in very large HDL || id:945	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	1.80056400055824	3	0.614812210624672
+Lu BF EU sex combined 5 SNPs	945	Total lipids in very large HDL || id:945	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000277701782318737	3	0.999998769304461
+Lu BF EU sex combined 5 SNPs	946	Concentration of very large HDL particles || id:946	Lu BF EU sex combined 5 SNPs	Maximum likelihood	1.96093456792941	3	0.580554341985573
+Lu BF EU sex combined 5 SNPs	946	Concentration of very large HDL particles || id:946	Lu BF EU sex combined 5 SNPs	MR Egger	1.00625454273095	2	0.604636836541157
+Lu BF EU sex combined 5 SNPs	946	Concentration of very large HDL particles || id:946	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	1.98189132504425	3	0.576173722548284
+Lu BF EU sex combined 5 SNPs	946	Concentration of very large HDL particles || id:946	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.000307226719392987	3	0.999998567920084
+Lu BF EU sex combined 5 SNPs	947	Phospholipids in very large HDL || id:947	Lu BF EU sex combined 5 SNPs	Maximum likelihood	7.45337872570458	3	0.0587685301652634
+Lu BF EU sex combined 5 SNPs	947	Phospholipids in very large HDL || id:947	Lu BF EU sex combined 5 SNPs	MR Egger	3.90185922472834	2	0.142141873306564
+Lu BF EU sex combined 5 SNPs	947	Phospholipids in very large HDL || id:947	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	7.45420949685441	3	0.0587467525989525
+Lu BF EU sex combined 5 SNPs	947	Phospholipids in very large HDL || id:947	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00129261494338601	3	0.999987644675426
+Lu BF EU sex combined 5 SNPs	948	Triglycerides in very large HDL || id:948	Lu BF EU sex combined 5 SNPs	Maximum likelihood	14.4779834598624	4	0.00591588746552452
+Lu BF EU sex combined 5 SNPs	948	Triglycerides in very large HDL || id:948	Lu BF EU sex combined 5 SNPs	MR Egger	14.0854715762475	3	0.00279108985472351
+Lu BF EU sex combined 5 SNPs	948	Triglycerides in very large HDL || id:948	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	14.7271485318625	4	0.00530190872516713
+Lu BF EU sex combined 5 SNPs	948	Triglycerides in very large HDL || id:948	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00224791680080952	4	0.99999936883185
+Lu BF EU sex combined 5 SNPs	949	Total lipids in very large VLDL || id:949	Lu BF EU sex combined 5 SNPs	Maximum likelihood	16.3707920871829	3	0.00095179170589477
+Lu BF EU sex combined 5 SNPs	949	Total lipids in very large VLDL || id:949	Lu BF EU sex combined 5 SNPs	MR Egger	3.89489990889603	2	0.142637339928483
+Lu BF EU sex combined 5 SNPs	949	Total lipids in very large VLDL || id:949	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	17.4209062861672	3	0.000578953062285067
+Lu BF EU sex combined 5 SNPs	949	Total lipids in very large VLDL || id:949	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00303870683857338	3	0.999955490149262
+Lu BF EU sex combined 5 SNPs	950	Concentration of very large VLDL particles || id:950	Lu BF EU sex combined 5 SNPs	Maximum likelihood	21.9478345176327	3	6.68818773092208e-05
+Lu BF EU sex combined 5 SNPs	950	Concentration of very large VLDL particles || id:950	Lu BF EU sex combined 5 SNPs	MR Egger	5.55610136637944	2	0.0621595580273762
+Lu BF EU sex combined 5 SNPs	950	Concentration of very large VLDL particles || id:950	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	23.1983604789266	3	3.67152457230648e-05
+Lu BF EU sex combined 5 SNPs	950	Concentration of very large VLDL particles || id:950	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0046363308235967	3	0.999916155138264
+Lu BF EU sex combined 5 SNPs	951	Phospholipids in very large VLDL || id:951	Lu BF EU sex combined 5 SNPs	Maximum likelihood	38.4309690537439	4	9.13072489562441e-08
+Lu BF EU sex combined 5 SNPs	951	Phospholipids in very large VLDL || id:951	Lu BF EU sex combined 5 SNPs	MR Egger	35.2225933900037	3	1.09321350548865e-07
+Lu BF EU sex combined 5 SNPs	951	Phospholipids in very large VLDL || id:951	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	39.0769244000374	4	6.71616882804166e-08
+Lu BF EU sex combined 5 SNPs	951	Phospholipids in very large VLDL || id:951	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00578255691947698	4	0.999995828302245
+Lu BF EU sex combined 5 SNPs	952	Triglycerides in very large VLDL || id:952	Lu BF EU sex combined 5 SNPs	Maximum likelihood	25.4897311026228	4	4.00973539791828e-05
+Lu BF EU sex combined 5 SNPs	952	Triglycerides in very large VLDL || id:952	Lu BF EU sex combined 5 SNPs	MR Egger	23.8997967793809	3	2.62126021725248e-05
+Lu BF EU sex combined 5 SNPs	952	Triglycerides in very large VLDL || id:952	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	25.6021484343284	4	3.8060719717188e-05
+Lu BF EU sex combined 5 SNPs	952	Triglycerides in very large VLDL || id:952	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00414495349725606	4	0.999997855384965
+Lu BF EU sex combined 5 SNPs	953	Total lipids in very small VLDL || id:953	Lu BF EU sex combined 5 SNPs	Maximum likelihood	28.7708510143031	3	2.50197036115243e-06
+Lu BF EU sex combined 5 SNPs	953	Total lipids in very small VLDL || id:953	Lu BF EU sex combined 5 SNPs	MR Egger	17.7748383111204	2	0.000138115653415732
+Lu BF EU sex combined 5 SNPs	953	Total lipids in very small VLDL || id:953	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	33.565647350526	3	2.44683323343054e-07
+Lu BF EU sex combined 5 SNPs	953	Total lipids in very small VLDL || id:953	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00594541457893749	3	0.999878292445605
+Lu BF EU sex combined 5 SNPs	954	Concentration of very small VLDL particles || id:954	Lu BF EU sex combined 5 SNPs	Maximum likelihood	29.6163660624503	3	1.66179821656293e-06
+Lu BF EU sex combined 5 SNPs	954	Concentration of very small VLDL particles || id:954	Lu BF EU sex combined 5 SNPs	MR Egger	19.2755787386032	2	6.5217066359604e-05
+Lu BF EU sex combined 5 SNPs	954	Concentration of very small VLDL particles || id:954	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	34.7839262057317	3	1.35326415022916e-07
+Lu BF EU sex combined 5 SNPs	954	Concentration of very small VLDL particles || id:954	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00620234147341917	3	0.999870328550206
+Lu BF EU sex combined 5 SNPs	955	Phospholipids in very small VLDL || id:955	Lu BF EU sex combined 5 SNPs	Maximum likelihood	31.7245443264407	3	5.98183751827689e-07
+Lu BF EU sex combined 5 SNPs	955	Phospholipids in very small VLDL || id:955	Lu BF EU sex combined 5 SNPs	MR Egger	18.3150693075804	2	0.000105422480851382
+Lu BF EU sex combined 5 SNPs	955	Phospholipids in very small VLDL || id:955	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	37.6904716054059	3	3.28677148487437e-08
+Lu BF EU sex combined 5 SNPs	955	Phospholipids in very small VLDL || id:955	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00670698667235348	3	0.999854207126063
+Lu BF EU sex combined 5 SNPs	956	Triglycerides in very small VLDL || id:956	Lu BF EU sex combined 5 SNPs	Maximum likelihood	32.7951024868797	3	3.55764503947391e-07
+Lu BF EU sex combined 5 SNPs	956	Triglycerides in very small VLDL || id:956	Lu BF EU sex combined 5 SNPs	MR Egger	22.9677714620454	2	1.02946549839056e-05
+Lu BF EU sex combined 5 SNPs	956	Triglycerides in very small VLDL || id:956	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	39.0688060975468	3	1.67837659892417e-08
+Lu BF EU sex combined 5 SNPs	956	Triglycerides in very small VLDL || id:956	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.0071034955827901	3	0.999841108134477
+Lu BF EU sex combined 5 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Lu BF EU sex combined 5 SNPs	Maximum likelihood	12.8050193210725	3	0.00507780863463281
+Lu BF EU sex combined 5 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Lu BF EU sex combined 5 SNPs	MR Egger	4.27570901266558	2	0.117907541727201
+Lu BF EU sex combined 5 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	13.5200836527247	3	0.00363682230002879
+Lu BF EU sex combined 5 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00245661166608551	3	0.999967640371565
+Lu BF EU sex combined 5 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Lu BF EU sex combined 5 SNPs	Maximum likelihood	10.2476099669513	3	0.0165744828568028
+Lu BF EU sex combined 5 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Lu BF EU sex combined 5 SNPs	MR Egger	4.57523590858043	2	0.101507970723274
+Lu BF EU sex combined 5 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	10.8312230585336	3	0.0126744173359087
+Lu BF EU sex combined 5 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00202083113268047	3	0.999975853701388
+Lu BF EU sex combined 5 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Lu BF EU sex combined 5 SNPs	Maximum likelihood	22.4532101923611	4	0.00016279956551485
+Lu BF EU sex combined 5 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Lu BF EU sex combined 5 SNPs	MR Egger	21.5613969881212	3	8.04782211961783e-05
+Lu BF EU sex combined 5 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	22.8064604345652	4	0.000138412351031913
+Lu BF EU sex combined 5 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00327314102184097	4	0.999998662278695
+Lu BF EU sex combined 5 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Lu BF EU sex combined 5 SNPs	Maximum likelihood	37.4550937610653	4	1.45145245509417e-07
+Lu BF EU sex combined 5 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Lu BF EU sex combined 5 SNPs	MR Egger	37.3156273170314	3	3.94550788801109e-08
+Lu BF EU sex combined 5 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Lu BF EU sex combined 5 SNPs	Inverse variance weighted	38.5780422700661	4	8.51423541938053e-08
+Lu BF EU sex combined 5 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Lu BF EU sex combined 5 SNPs	Unweighted regression	0.00554026371808446	4	0.999996170263043

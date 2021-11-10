@@ -1,0 +1,493 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	pval
+Lu BF EU sex combined 5 SNPs	838	Acetoacetate || id:838	Lu BF EU sex combined 5 SNPs	MR Egger	4	0.141796450857175	0.899884175500597	0.889265084040171
+Lu BF EU sex combined 5 SNPs	838	Acetoacetate || id:838	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0672995541515918	0.202825714171189	0.740032904296021
+Lu BF EU sex combined 5 SNPs	838	Acetoacetate || id:838	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.019694678628085	0.158815554065836	0.901307547932215
+Lu BF EU sex combined 5 SNPs	838	Acetoacetate || id:838	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.0911101140081571	0.270356665278479	0.758316261729281
+Lu BF EU sex combined 5 SNPs	839	Acetate || id:839	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.158371344408094	0.664641307946902	0.827011541053051
+Lu BF EU sex combined 5 SNPs	839	Acetate || id:839	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.228981200027686	0.146121437406594	0.117100443283877
+Lu BF EU sex combined 5 SNPs	839	Acetate || id:839	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0317175920023065	0.128360100694329	0.804831972501816
+Lu BF EU sex combined 5 SNPs	839	Acetate || id:839	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.234964873867599	0.206970085954928	0.319677712389728
+Lu BF EU sex combined 5 SNPs	840	Alanine || id:840	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.072955369466969	0.513872028912753	0.896100396522995
+Lu BF EU sex combined 5 SNPs	840	Alanine || id:840	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0633000864465189	0.134652502039402	0.63828386472743
+Lu BF EU sex combined 5 SNPs	840	Alanine || id:840	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0594748958390497	0.0959163830641269	0.535211536134141
+Lu BF EU sex combined 5 SNPs	840	Alanine || id:840	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0780766538352415	0.173674894735519	0.676314489627765
+Lu BF EU sex combined 5 SNPs	841	Albumin || id:841	Lu BF EU sex combined 5 SNPs	MR Egger	4	1.17260932296723	1.39998515554631	0.490407236748887
+Lu BF EU sex combined 5 SNPs	841	Albumin || id:841	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0753612679911653	0.221279901907213	0.733427413136723
+Lu BF EU sex combined 5 SNPs	841	Albumin || id:841	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.188363308967393	0.308353677838519	0.541287154743371
+Lu BF EU sex combined 5 SNPs	841	Albumin || id:841	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.0533620531419405	0.281422811157944	0.861714647844662
+Lu BF EU sex combined 5 SNPs	842	Apolipoprotein A-I || id:842	Lu BF EU sex combined 5 SNPs	MR Egger	4	-0.764568095402934	0.75536568406871	0.417989083803731
+Lu BF EU sex combined 5 SNPs	842	Apolipoprotein A-I || id:842	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.498712854556448	0.199547550073271	0.0124467672269142
+Lu BF EU sex combined 5 SNPs	842	Apolipoprotein A-I || id:842	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.4814478362354	0.0642485907619155	6.70527077904092e-14
+Lu BF EU sex combined 5 SNPs	842	Apolipoprotein A-I || id:842	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.52908343656772	0.264689249475482	0.139476577288865
+Lu BF EU sex combined 5 SNPs	843	Apolipoprotein B || id:843	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.15306287577889	3.12015269983111	0.539752897807331
+Lu BF EU sex combined 5 SNPs	843	Apolipoprotein B || id:843	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.311259777609296	0.174434491940696	0.0743597428025757
+Lu BF EU sex combined 5 SNPs	843	Apolipoprotein B || id:843	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.453351687337955	0.623374535875628	0.467070310169558
+Lu BF EU sex combined 5 SNPs	843	Apolipoprotein B || id:843	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.369140256173385	0.155858798971929	0.0769526564009549
+Lu BF EU sex combined 5 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.982007455245986	0.855843483936321	0.33441837464327
+Lu BF EU sex combined 5 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0448612757469478	0.198472473503383	0.82117596127029
+Lu BF EU sex combined 5 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0405041460874782	0.194202127349381	0.834786310386222
+Lu BF EU sex combined 5 SNPs	844	Ratio of bisallylic groups to double bonds || id:844	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0667347313786205	0.246385788686433	0.799905155855994
+Lu BF EU sex combined 5 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.786516522184413	0.692849286555567	0.338786852390852
+Lu BF EU sex combined 5 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0208030313833001	0.192321293815676	0.913862338893024
+Lu BF EU sex combined 5 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0128375381031361	0.142338916969279	0.928136280016191
+Lu BF EU sex combined 5 SNPs	845	Ratio of bisallylic groups to total fatty acids || id:845	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0135443302576961	0.223352481208089	0.954554017990957
+Lu BF EU sex combined 5 SNPs	846	3-hydroxybutyrate || id:846	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.328634694393703	0.704930949286549	0.67284013948079
+Lu BF EU sex combined 5 SNPs	846	3-hydroxybutyrate || id:846	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.00988284182335065	0.141429341901727	0.944290525886347
+Lu BF EU sex combined 5 SNPs	846	3-hydroxybutyrate || id:846	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.00400203040147536	0.139474654341009	0.977108958099317
+Lu BF EU sex combined 5 SNPs	846	3-hydroxybutyrate || id:846	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0265551172271279	0.150328254293128	0.868368621081534
+Lu BF EU sex combined 5 SNPs	847	Average number of methylene groups per double bond || id:847	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.217655524836767	0.683799293346324	0.771126675397676
+Lu BF EU sex combined 5 SNPs	847	Average number of methylene groups per double bond || id:847	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.109244158594447	0.175329643585974	0.533232835311718
+Lu BF EU sex combined 5 SNPs	847	Average number of methylene groups per double bond || id:847	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.150548321576179	0.0971866704897755	0.121366461900579
+Lu BF EU sex combined 5 SNPs	847	Average number of methylene groups per double bond || id:847	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.124945979475096	0.200124976752127	0.566248345371508
+Lu BF EU sex combined 5 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.317503399382845	0.59452264712961	0.630347893448587
+Lu BF EU sex combined 5 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.146528715055071	0.156870596818324	0.35026582382599
+Lu BF EU sex combined 5 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0834292570507711	0.0930473592107416	0.369915217718574
+Lu BF EU sex combined 5 SNPs	848	Average number of methylene groups in a fatty acid chain || id:848	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.229966985672431	0.207412383360125	0.329712625868749
+Lu BF EU sex combined 5 SNPs	849	Citrate || id:849	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.463816542431935	0.515604160715377	0.434651908670788
+Lu BF EU sex combined 5 SNPs	849	Citrate || id:849	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0424866686592519	0.134313668997293	0.751756417616318
+Lu BF EU sex combined 5 SNPs	849	Citrate || id:849	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.033634136232828	0.0888068189907301	0.704885616283226
+Lu BF EU sex combined 5 SNPs	849	Citrate || id:849	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0642082307773694	0.166308739524538	0.719094604279357
+Lu BF EU sex combined 5 SNPs	850	Creatinine || id:850	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.0772885444239196	0.514554854283016	0.890133632142546
+Lu BF EU sex combined 5 SNPs	850	Creatinine || id:850	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0456642767757937	0.130597756511512	0.726596949666064
+Lu BF EU sex combined 5 SNPs	850	Creatinine || id:850	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0624773076129566	0.0539349971120524	0.246708349403998
+Lu BF EU sex combined 5 SNPs	850	Creatinine || id:850	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0332306990454181	0.168793422380843	0.853526255202664
+Lu BF EU sex combined 5 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.488385060653116	0.68132131701379	0.525252236652153
+Lu BF EU sex combined 5 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0617808960751973	0.168892059282867	0.714513521061093
+Lu BF EU sex combined 5 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.161362112196702	0.148603475142695	0.277542297891543
+Lu BF EU sex combined 5 SNPs	851	Average number of double bonds in a fatty acid chain || id:851	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0417417455466935	0.185172474212735	0.832700564833678
+Lu BF EU sex combined 5 SNPs	852	22:6, docosahexaenoic acid || id:852	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.14981646374337	1.06981199698917	0.361220508415018
+Lu BF EU sex combined 5 SNPs	852	22:6, docosahexaenoic acid || id:852	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0927427967164622	0.216075003609908	0.667766215429511
+Lu BF EU sex combined 5 SNPs	852	22:6, docosahexaenoic acid || id:852	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0433750683657093	0.237799345509271	0.855267282279718
+Lu BF EU sex combined 5 SNPs	852	22:6, docosahexaenoic acid || id:852	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.375282300609375	0.301420568043412	0.281073639008358
+Lu BF EU sex combined 5 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.56444746844218	2.64780642774695	0.596182789627624
+Lu BF EU sex combined 5 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.263626319341769	0.2209288489268	0.232766214086746
+Lu BF EU sex combined 5 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.477426423034549	0.516685058376708	0.355476814446826
+Lu BF EU sex combined 5 SNPs	853	Free cholesterol to esterified cholesterol ratio || id:853	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.212347258310443	0.208560425143071	0.36617630291426
+Lu BF EU sex combined 5 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.845861228385767	0.860656735512116	0.398171892521713
+Lu BF EU sex combined 5 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.149943848181183	0.185056621919068	0.417791164229705
+Lu BF EU sex combined 5 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0470545852949334	0.186166008597325	0.800456730781853
+Lu BF EU sex combined 5 SNPs	854	Description of average fatty acid chain length, not actual carbon number || id:854	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.182681747799861	0.238173071492947	0.485840902635769
+Lu BF EU sex combined 5 SNPs	855	Omega-3 fatty acids || id:855	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.456418989864556	1.3228245933945	0.752843034701048
+Lu BF EU sex combined 5 SNPs	855	Omega-3 fatty acids || id:855	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.119092807284207	0.236026163468596	0.613857652820763
+Lu BF EU sex combined 5 SNPs	855	Omega-3 fatty acids || id:855	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0922932092336514	0.258249182928715	0.720807010272914
+Lu BF EU sex combined 5 SNPs	855	Omega-3 fatty acids || id:855	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.547256812874084	0.36061641533897	0.203729810021262
+Lu BF EU sex combined 5 SNPs	856	Omega-6 fatty acids || id:856	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.61796597845946	2.58261281856672	0.575428473680006
+Lu BF EU sex combined 5 SNPs	856	Omega-6 fatty acids || id:856	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.228277252606255	0.213293916478746	0.284507978438962
+Lu BF EU sex combined 5 SNPs	856	Omega-6 fatty acids || id:856	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.463305989648091	0.506500677855533	0.360338963876038
+Lu BF EU sex combined 5 SNPs	856	Omega-6 fatty acids || id:856	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.231903272469392	0.204145629340641	0.319413013359802
+Lu BF EU sex combined 5 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.756536639309074	1.88368483092279	0.714858351446219
+Lu BF EU sex combined 5 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.211308773468456	0.208161896769244	0.31004984527952
+Lu BF EU sex combined 5 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.200588297898807	0.362525534517233	0.580052487222032
+Lu BF EU sex combined 5 SNPs	857	Omega-7, omega-9 and saturated fatty acids || id:857	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.301944002930281	0.215570733175509	0.233914576398879
+Lu BF EU sex combined 5 SNPs	858	Free cholesterol || id:858	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.887958533936433	2.36687333643554	0.732494182127851
+Lu BF EU sex combined 5 SNPs	858	Free cholesterol || id:858	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.205158665144834	0.248277403427793	0.408617837386199
+Lu BF EU sex combined 5 SNPs	858	Free cholesterol || id:858	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.466379413435304	0.451297687004856	0.301408056619272
+Lu BF EU sex combined 5 SNPs	858	Free cholesterol || id:858	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.158346814351501	0.218473125332766	0.508708439062754
+Lu BF EU sex combined 5 SNPs	859	Glucose || id:859	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.298773319960063	0.516552218269718	0.603557040708248
+Lu BF EU sex combined 5 SNPs	859	Glucose || id:859	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.287641492351567	0.136605950893765	0.0352365657356549
+Lu BF EU sex combined 5 SNPs	859	Glucose || id:859	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.298290058539642	0.0651621897268589	4.70216150781952e-06
+Lu BF EU sex combined 5 SNPs	859	Glucose || id:859	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.275047493075203	0.173841085561714	0.18877233234852
+Lu BF EU sex combined 5 SNPs	860	Glutamine || id:860	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.70156860400148	0.64236286476569	0.354618405874994
+Lu BF EU sex combined 5 SNPs	860	Glutamine || id:860	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.109751519984309	0.144743645926473	0.448302779100926
+Lu BF EU sex combined 5 SNPs	860	Glutamine || id:860	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0598973769104965	0.142008597796466	0.673180513508839
+Lu BF EU sex combined 5 SNPs	860	Glutamine || id:860	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.0851120043731981	0.156483089480061	0.615403338385595
+Lu BF EU sex combined 5 SNPs	861	Glycerol || id:861	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.359058753957599	0.883707933281257	0.711761634907225
+Lu BF EU sex combined 5 SNPs	861	Glycerol || id:861	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0435425872755865	0.157891288709169	0.782720316666504
+Lu BF EU sex combined 5 SNPs	861	Glycerol || id:861	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0529382363817528	0.171714405626277	0.757859892144566
+Lu BF EU sex combined 5 SNPs	861	Glycerol || id:861	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0770774209166019	0.200149902899761	0.719765542795918
+Lu BF EU sex combined 5 SNPs	862	Glycoproteins || id:862	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.49713352263934	0.592497529325451	0.0856627213722818
+Lu BF EU sex combined 5 SNPs	862	Glycoproteins || id:862	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.262530482321262	0.174304618894923	0.132026344289644
+Lu BF EU sex combined 5 SNPs	862	Glycoproteins || id:862	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0774426362932103	0.176073684614983	0.66005963064081
+Lu BF EU sex combined 5 SNPs	862	Glycoproteins || id:862	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.34753813513544	0.205326101981452	0.165783722500209
+Lu BF EU sex combined 5 SNPs	863	Glycoprotein acetyls || id:863	Lu BF EU sex combined 5 SNPs	MR Egger	4	-1.61267895884676	1.51171213388976	0.397787782201613
+Lu BF EU sex combined 5 SNPs	863	Glycoprotein acetyls || id:863	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.246484003445549	0.230763738819459	0.285465136869088
+Lu BF EU sex combined 5 SNPs	863	Glycoprotein acetyls || id:863	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.186771283038574	0.320387290759614	0.559923783129592
+Lu BF EU sex combined 5 SNPs	863	Glycoprotein acetyls || id:863	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.559493828420812	0.404652687386817	0.260718572528249
+Lu BF EU sex combined 5 SNPs	864	Total cholesterol in HDL || id:864	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.15990217292131	1.01109503503387	0.334503793329852
+Lu BF EU sex combined 5 SNPs	864	Total cholesterol in HDL || id:864	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.189398782707857	0.153111098054772	0.216086223274165
+Lu BF EU sex combined 5 SNPs	864	Total cholesterol in HDL || id:864	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.0304989184064418	0.234252468357033	0.89641073762924
+Lu BF EU sex combined 5 SNPs	864	Total cholesterol in HDL || id:864	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.214353245141039	0.182235172758	0.304719926043727
+Lu BF EU sex combined 5 SNPs	865	Mean diameter for HDL particles || id:865	Lu BF EU sex combined 5 SNPs	MR Egger	4	2.36630750300878	1.26050669912904	0.2012809593754
+Lu BF EU sex combined 5 SNPs	865	Mean diameter for HDL particles || id:865	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0430273418824024	0.242068528571781	0.858920416223455
+Lu BF EU sex combined 5 SNPs	865	Mean diameter for HDL particles || id:865	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	0.206401286633128	0.351522698138399	0.557093924846171
+Lu BF EU sex combined 5 SNPs	865	Mean diameter for HDL particles || id:865	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.363633557060627	0.408646777905957	0.439100140650688
+Lu BF EU sex combined 5 SNPs	866	Histidine || id:866	Lu BF EU sex combined 5 SNPs	MR Egger	4	-0.0390150903007977	1.38882668626096	0.980139787096183
+Lu BF EU sex combined 5 SNPs	866	Histidine || id:866	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.18549661340717	0.206949749054009	0.3700730714221
+Lu BF EU sex combined 5 SNPs	866	Histidine || id:866	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.10643180551381	0.243173825790147	0.661619803710303
+Lu BF EU sex combined 5 SNPs	866	Histidine || id:866	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.220345306276513	0.268312964264219	0.471699469448483
+Lu BF EU sex combined 5 SNPs	867	Total cholesterol in IDL || id:867	Lu BF EU sex combined 5 SNPs	MR Egger	4	-4.97165520867025	2.16626272315657	0.148653528580552
+Lu BF EU sex combined 5 SNPs	867	Total cholesterol in IDL || id:867	Lu BF EU sex combined 5 SNPs	Weighted median	4	0.00934934425616873	0.247636175265828	0.96988353724278
+Lu BF EU sex combined 5 SNPs	867	Total cholesterol in IDL || id:867	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.838265312055647	0.646944863244621	0.195068817896776
+Lu BF EU sex combined 5 SNPs	867	Total cholesterol in IDL || id:867	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.196072093781087	0.257158593415683	0.501255449206933
+Lu BF EU sex combined 5 SNPs	868	Free cholesterol in IDL || id:868	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.70373937643081	2.50228269332065	0.544795347080265
+Lu BF EU sex combined 5 SNPs	868	Free cholesterol in IDL || id:868	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.26711800835186	0.172779005074681	0.122102238412213
+Lu BF EU sex combined 5 SNPs	868	Free cholesterol in IDL || id:868	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.371793211250755	0.498779690842389	0.456026515270722
+Lu BF EU sex combined 5 SNPs	868	Free cholesterol in IDL || id:868	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.302772393955765	0.168459726106217	0.146698868253349
+Lu BF EU sex combined 5 SNPs	869	Total lipids in IDL || id:869	Lu BF EU sex combined 5 SNPs	MR Egger	4	-4.85272467960347	2.35832111560168	0.175872577598924
+Lu BF EU sex combined 5 SNPs	869	Total lipids in IDL || id:869	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0752417260500474	0.262616084785988	0.774488726383343
+Lu BF EU sex combined 5 SNPs	869	Total lipids in IDL || id:869	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.851952199333184	0.654104867827872	0.192755645642398
+Lu BF EU sex combined 5 SNPs	869	Total lipids in IDL || id:869	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.152417320833503	0.268045776617961	0.609392773863165
+Lu BF EU sex combined 5 SNPs	870	Concentration of IDL particles || id:870	Lu BF EU sex combined 5 SNPs	MR Egger	4	-4.7068500821372	2.43597361097751	0.193047320881319
+Lu BF EU sex combined 5 SNPs	870	Concentration of IDL particles || id:870	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.11579350406127	0.26290590018232	0.659620582010174
+Lu BF EU sex combined 5 SNPs	870	Concentration of IDL particles || id:870	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.84003842953301	0.649844321561335	0.196122997354024
+Lu BF EU sex combined 5 SNPs	870	Concentration of IDL particles || id:870	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.125007477618572	0.294448936694369	0.699773908958232
+Lu BF EU sex combined 5 SNPs	871	Phospholipids in IDL || id:871	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.65503299058153	2.63854631444618	0.574987294658238
+Lu BF EU sex combined 5 SNPs	871	Phospholipids in IDL || id:871	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.299838011571522	0.168549417739584	0.0752508538591605
+Lu BF EU sex combined 5 SNPs	871	Phospholipids in IDL || id:871	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.385832537334526	0.521576517590775	0.459455998394531
+Lu BF EU sex combined 5 SNPs	871	Phospholipids in IDL || id:871	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.328778863794584	0.174387968892481	0.132462996940937
+Lu BF EU sex combined 5 SNPs	872	Triglycerides in IDL || id:872	Lu BF EU sex combined 5 SNPs	MR Egger	4	-3.4944327187702	2.73927243202062	0.330198232912223
+Lu BF EU sex combined 5 SNPs	872	Triglycerides in IDL || id:872	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.358230334596092	0.258511473441824	0.165825546769747
+Lu BF EU sex combined 5 SNPs	872	Triglycerides in IDL || id:872	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.603570593891502	0.603499504343303	0.317253505077578
+Lu BF EU sex combined 5 SNPs	872	Triglycerides in IDL || id:872	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.310107783286433	0.4849748960042	0.568021829830511
+Lu BF EU sex combined 5 SNPs	873	Isoleucine || id:873	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.508009359312079	1.17480163520039	0.694633953780406
+Lu BF EU sex combined 5 SNPs	873	Isoleucine || id:873	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.138003197562773	0.172728000903185	0.424312149372457
+Lu BF EU sex combined 5 SNPs	873	Isoleucine || id:873	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.00112511834164958	0.230976640086862	0.996113412146794
+Lu BF EU sex combined 5 SNPs	873	Isoleucine || id:873	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.369129703842805	0.217816703128928	0.165382875690891
+Lu BF EU sex combined 5 SNPs	874	Total cholesterol in large HDL || id:874	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.24974844740624	1.67891917668415	0.510652867592201
+Lu BF EU sex combined 5 SNPs	874	Total cholesterol in large HDL || id:874	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.246209168052142	0.172397633847094	0.1532495444164
+Lu BF EU sex combined 5 SNPs	874	Total cholesterol in large HDL || id:874	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.128983709379364	0.343130138580345	0.706988878194381
+Lu BF EU sex combined 5 SNPs	874	Total cholesterol in large HDL || id:874	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.24911930148329	0.158488455670581	0.191086105320392
+Lu BF EU sex combined 5 SNPs	875	Cholesterol esters in large HDL || id:875	Lu BF EU sex combined 5 SNPs	MR Egger	4	2.96627128326251	1.53161878338077	0.192398334280962
+Lu BF EU sex combined 5 SNPs	875	Cholesterol esters in large HDL || id:875	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0246541816732835	0.243247678111377	0.919269266648919
+Lu BF EU sex combined 5 SNPs	875	Cholesterol esters in large HDL || id:875	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	0.322820994878076	0.429020189301664	0.451773826904506
+Lu BF EU sex combined 5 SNPs	875	Cholesterol esters in large HDL || id:875	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.288953380485386	0.306834597153927	0.415807971413774
+Lu BF EU sex combined 5 SNPs	876	Free cholesterol in large HDL || id:876	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.01806436515003	1.59892224405614	0.569567143438553
+Lu BF EU sex combined 5 SNPs	876	Free cholesterol in large HDL || id:876	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.247737948885593	0.170305553679262	0.145761342472843
+Lu BF EU sex combined 5 SNPs	876	Free cholesterol in large HDL || id:876	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0613135516436346	0.322384010656302	0.849161859265603
+Lu BF EU sex combined 5 SNPs	876	Free cholesterol in large HDL || id:876	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.284000406611217	0.171433684674118	0.172937416309588
+Lu BF EU sex combined 5 SNPs	877	Total lipids in large HDL || id:877	Lu BF EU sex combined 5 SNPs	MR Egger	4	2.93699633445928	1.44885774712383	0.179863488657236
+Lu BF EU sex combined 5 SNPs	877	Total lipids in large HDL || id:877	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0507875105397292	0.250150793083303	0.839113474189473
+Lu BF EU sex combined 5 SNPs	877	Total lipids in large HDL || id:877	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	0.302767098316361	0.419202083190939	0.47014314294896
+Lu BF EU sex combined 5 SNPs	877	Total lipids in large HDL || id:877	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.28696653683451	0.311318258767323	0.424626937747939
+Lu BF EU sex combined 5 SNPs	878	Concentration of large HDL particles || id:878	Lu BF EU sex combined 5 SNPs	MR Egger	4	2.93706255869601	1.39078108656353	0.169103091866057
+Lu BF EU sex combined 5 SNPs	878	Concentration of large HDL particles || id:878	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0616952892506424	0.243258364486251	0.799788817291308
+Lu BF EU sex combined 5 SNPs	878	Concentration of large HDL particles || id:878	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	0.304682597632949	0.412941581926928	0.46061494912249
+Lu BF EU sex combined 5 SNPs	878	Concentration of large HDL particles || id:878	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.284239919960521	0.29587427381653	0.407583423906288
+Lu BF EU sex combined 5 SNPs	879	Phospholipids in large HDL || id:879	Lu BF EU sex combined 5 SNPs	MR Egger	4	2.91155682936234	1.30628582676236	0.155624448638546
+Lu BF EU sex combined 5 SNPs	879	Phospholipids in large HDL || id:879	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0689119653055738	0.236870172057321	0.771107032314422
+Lu BF EU sex combined 5 SNPs	879	Phospholipids in large HDL || id:879	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	0.305574287473986	0.401652939469073	0.446781396253981
+Lu BF EU sex combined 5 SNPs	879	Phospholipids in large HDL || id:879	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.262789935382444	0.285744426461816	0.425570254070349
+Lu BF EU sex combined 5 SNPs	880	Total cholesterol in large LDL || id:880	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.9951153018221	2.9129685808218	0.542574225804193
+Lu BF EU sex combined 5 SNPs	880	Total cholesterol in large LDL || id:880	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.319335728800571	0.169764466923929	0.0599648946349432
+Lu BF EU sex combined 5 SNPs	880	Total cholesterol in large LDL || id:880	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.440227795731966	0.580910337329619	0.448556352403996
+Lu BF EU sex combined 5 SNPs	880	Total cholesterol in large LDL || id:880	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.346232664496867	0.168000932948609	0.108342236000261
+Lu BF EU sex combined 5 SNPs	881	Cholesterol esters in large VLDL || id:881	Lu BF EU sex combined 5 SNPs	MR Egger	4	-5.66582715961206	2.49893695647947	0.151523407247099
+Lu BF EU sex combined 5 SNPs	881	Cholesterol esters in large VLDL || id:881	Lu BF EU sex combined 5 SNPs	Weighted median	4	0.195977440861148	0.249856931465607	0.432829704993421
+Lu BF EU sex combined 5 SNPs	881	Cholesterol esters in large VLDL || id:881	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-1.01308201765383	0.73466100040877	0.167901259815379
+Lu BF EU sex combined 5 SNPs	881	Cholesterol esters in large VLDL || id:881	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.185940528777548	0.256610376716699	0.52109558519673
+Lu BF EU sex combined 5 SNPs	882	Free cholesterol in large LDL || id:882	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.78335989563962	2.82953358154629	0.573257280872862
+Lu BF EU sex combined 5 SNPs	882	Free cholesterol in large LDL || id:882	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.367593149459491	0.17224314963171	0.0328302989998502
+Lu BF EU sex combined 5 SNPs	882	Free cholesterol in large LDL || id:882	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.420980060038737	0.559458007817278	0.451763421730837
+Lu BF EU sex combined 5 SNPs	882	Free cholesterol in large LDL || id:882	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.340943280805121	0.155575587823957	0.0935357565418471
+Lu BF EU sex combined 5 SNPs	883	Total lipids in large LDL || id:883	Lu BF EU sex combined 5 SNPs	MR Egger	4	-5.64275966755591	2.59119977653749	0.161333430189314
+Lu BF EU sex combined 5 SNPs	883	Total lipids in large LDL || id:883	Lu BF EU sex combined 5 SNPs	Weighted median	4	0.00766220731396638	0.271968043450839	0.977524020155642
+Lu BF EU sex combined 5 SNPs	883	Total lipids in large LDL || id:883	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-1.01851470752968	0.741565423151443	0.169607602794485
+Lu BF EU sex combined 5 SNPs	883	Total lipids in large LDL || id:883	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.178613032952342	0.269324979217174	0.55461689469791
+Lu BF EU sex combined 5 SNPs	884	Concentration of large LDL particles || id:884	Lu BF EU sex combined 5 SNPs	MR Egger	4	-5.56805278603185	2.6439567672832	0.169818187482028
+Lu BF EU sex combined 5 SNPs	884	Concentration of large LDL particles || id:884	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.022572560425881	0.265833573412075	0.932331052438879
+Lu BF EU sex combined 5 SNPs	884	Concentration of large LDL particles || id:884	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-1.00639012394353	0.741018448160526	0.174426402388415
+Lu BF EU sex combined 5 SNPs	884	Concentration of large LDL particles || id:884	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.169042319208094	0.261927658403442	0.564643362716284
+Lu BF EU sex combined 5 SNPs	885	Phospholipids in large LDL || id:885	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.8446045618836	2.88181138650462	0.567649276334146
+Lu BF EU sex combined 5 SNPs	885	Phospholipids in large LDL || id:885	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.292961818919786	0.172420084276257	0.0892972254695283
+Lu BF EU sex combined 5 SNPs	885	Phospholipids in large LDL || id:885	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.423336396517564	0.570895989655282	0.458372262104806
+Lu BF EU sex combined 5 SNPs	885	Phospholipids in large LDL || id:885	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.348494811021725	0.168522509844238	0.107480450539375
+Lu BF EU sex combined 5 SNPs	886	Total cholesterol in large VLDL || id:886	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.16199851985291	1.74793011761194	0.553724115302292
+Lu BF EU sex combined 5 SNPs	886	Total cholesterol in large VLDL || id:886	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.149879659044544	0.165656460466769	0.365591523693535
+Lu BF EU sex combined 5 SNPs	886	Total cholesterol in large VLDL || id:886	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.180162697213047	0.350298363510421	0.607033782869104
+Lu BF EU sex combined 5 SNPs	886	Total cholesterol in large VLDL || id:886	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.229449620837852	0.167013655401083	0.241453380948757
+Lu BF EU sex combined 5 SNPs	887	Cholesterol esters in large VLDL || id:887	Lu BF EU sex combined 5 SNPs	MR Egger	4	-3.23456455046743	0.99544044477916	0.0830785424044315
+Lu BF EU sex combined 5 SNPs	887	Cholesterol esters in large VLDL || id:887	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0368070023284453	0.241517710651963	0.878872426191737
+Lu BF EU sex combined 5 SNPs	887	Cholesterol esters in large VLDL || id:887	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.503521295292226	0.387696676812641	0.194029529600016
+Lu BF EU sex combined 5 SNPs	887	Cholesterol esters in large VLDL || id:887	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.00283846339603433	0.246920716606735	0.991549887174987
+Lu BF EU sex combined 5 SNPs	888	Free cholesterol in large VLDL || id:888	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.19419215147723	1.81873142077076	0.558305687401084
+Lu BF EU sex combined 5 SNPs	888	Free cholesterol in large VLDL || id:888	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.274285614570363	0.168232415336772	0.103017631739462
+Lu BF EU sex combined 5 SNPs	888	Free cholesterol in large VLDL || id:888	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.167776748655435	0.364643533799343	0.645436061379791
+Lu BF EU sex combined 5 SNPs	888	Free cholesterol in large VLDL || id:888	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.261854316201399	0.178078842720012	0.21539471090716
+Lu BF EU sex combined 5 SNPs	889	Total lipids in large VLDL || id:889	Lu BF EU sex combined 5 SNPs	MR Egger	4	-2.6677536092546	1.96796609096748	0.308014489786915
+Lu BF EU sex combined 5 SNPs	889	Total lipids in large VLDL || id:889	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.311306758771417	0.257562768233165	0.226792087379421
+Lu BF EU sex combined 5 SNPs	889	Total lipids in large VLDL || id:889	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.445975127575831	0.445135052041419	0.316398057261506
+Lu BF EU sex combined 5 SNPs	889	Total lipids in large VLDL || id:889	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.351625054458878	0.410147330248782	0.454299780813496
+Lu BF EU sex combined 5 SNPs	890	Concentration of large VLDL particles || id:890	Lu BF EU sex combined 5 SNPs	MR Egger	4	-3.03834928608162	1.43787503051337	0.168947866119112
+Lu BF EU sex combined 5 SNPs	890	Concentration of large VLDL particles || id:890	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.248357014307398	0.254766732915117	0.329639218545112
+Lu BF EU sex combined 5 SNPs	890	Concentration of large VLDL particles || id:890	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.536471724973293	0.405095490265898	0.185400343269845
+Lu BF EU sex combined 5 SNPs	890	Concentration of large VLDL particles || id:890	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.194177992370005	0.388346386886643	0.651440224714257
+Lu BF EU sex combined 5 SNPs	891	Phospholipids in large VLDL || id:891	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.896694802698213	2.01732869444837	0.686794696064084
+Lu BF EU sex combined 5 SNPs	891	Phospholipids in large VLDL || id:891	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.115436611763427	0.190375174166045	0.544273209155735
+Lu BF EU sex combined 5 SNPs	891	Phospholipids in large VLDL || id:891	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.220201918204288	0.391098459527075	0.573411404510635
+Lu BF EU sex combined 5 SNPs	891	Phospholipids in large VLDL || id:891	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.263681827089424	0.182870163412879	0.222784283532173
+Lu BF EU sex combined 5 SNPs	892	Triglycerides in large VLDL || id:892	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.761228826183892	1.87685785332919	0.712238859414776
+Lu BF EU sex combined 5 SNPs	892	Triglycerides in large VLDL || id:892	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0762647925916592	0.184418094316669	0.679208901906943
+Lu BF EU sex combined 5 SNPs	892	Triglycerides in large VLDL || id:892	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.176355166441368	0.36291752562082	0.627011613725888
+Lu BF EU sex combined 5 SNPs	892	Triglycerides in large VLDL || id:892	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.230340981442973	0.173150266857924	0.254198460228108
+Lu BF EU sex combined 5 SNPs	893	18:2, linoleic acid (LA) || id:893	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.52951638960662	2.77828304786633	0.62030102398781
+Lu BF EU sex combined 5 SNPs	893	18:2, linoleic acid (LA) || id:893	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0674427408579984	0.223495915689957	0.762832933383601
+Lu BF EU sex combined 5 SNPs	893	18:2, linoleic acid (LA) || id:893	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.564535310139594	0.537791782701637	0.293843000354715
+Lu BF EU sex combined 5 SNPs	893	18:2, linoleic acid (LA) || id:893	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.165216213263291	0.194105667213599	0.442632261606437
+Lu BF EU sex combined 5 SNPs	894	Lactate || id:894	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.410239599883184	0.513302072296855	0.482590201775792
+Lu BF EU sex combined 5 SNPs	894	Lactate || id:894	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0312586561481268	0.134171307281403	0.815780264122342
+Lu BF EU sex combined 5 SNPs	894	Lactate || id:894	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0486273545381778	0.0724165341030144	0.501905120781321
+Lu BF EU sex combined 5 SNPs	894	Lactate || id:894	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.019522299706909	0.170792482872884	0.914504394916572
+Lu BF EU sex combined 5 SNPs	895	Total cholesterol in LDL || id:895	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.26678774111195	3.26935575410554	0.537952106758443
+Lu BF EU sex combined 5 SNPs	895	Total cholesterol in LDL || id:895	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.342189515963839	0.167486776560724	0.0410441456256301
+Lu BF EU sex combined 5 SNPs	895	Total cholesterol in LDL || id:895	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.539194629062963	0.651294217900392	0.407737443372536
+Lu BF EU sex combined 5 SNPs	895	Total cholesterol in LDL || id:895	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.343184117460939	0.171936045977523	0.116648360126025
+Lu BF EU sex combined 5 SNPs	896	Mean diameter for LDL particles || id:896	Lu BF EU sex combined 5 SNPs	MR Egger	4	2.28976324172285	0.739727769262888	0.0904330422212922
+Lu BF EU sex combined 5 SNPs	896	Mean diameter for LDL particles || id:896	Lu BF EU sex combined 5 SNPs	Weighted median	4	0.344849715484591	0.223457397215155	0.122771120715071
+Lu BF EU sex combined 5 SNPs	896	Mean diameter for LDL particles || id:896	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	0.55704596554896	0.242439448027383	0.0215805502990654
+Lu BF EU sex combined 5 SNPs	896	Mean diameter for LDL particles || id:896	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.232441606459634	0.364386742241485	0.568894842965505
+Lu BF EU sex combined 5 SNPs	897	Leucine || id:897	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.33389810247922	0.708917040115956	0.156447441909505
+Lu BF EU sex combined 5 SNPs	897	Leucine || id:897	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.250146277159938	0.151293637777266	0.0982530097573812
+Lu BF EU sex combined 5 SNPs	897	Leucine || id:897	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0927975008385434	0.194367963750736	0.633054476400104
+Lu BF EU sex combined 5 SNPs	897	Leucine || id:897	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.232624136554804	0.179535699769243	0.264791636201648
+Lu BF EU sex combined 5 SNPs	898	Total cholesterol in medium HDL || id:898	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.764283927130897	1.37186183232005	0.616314533808681
+Lu BF EU sex combined 5 SNPs	898	Total cholesterol in medium HDL || id:898	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.217339012008124	0.164554851453262	0.186578266531243
+Lu BF EU sex combined 5 SNPs	898	Total cholesterol in medium HDL || id:898	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.148408826571544	0.269885685097161	0.582391297884036
+Lu BF EU sex combined 5 SNPs	898	Total cholesterol in medium HDL || id:898	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.223664724564974	0.172133649292557	0.263648487601551
+Lu BF EU sex combined 5 SNPs	899	Cholesterol esters in medium HDL || id:899	Lu BF EU sex combined 5 SNPs	MR Egger	4	2.19557395374382	1.14735268047704	0.195786425483051
+Lu BF EU sex combined 5 SNPs	899	Cholesterol esters in medium HDL || id:899	Lu BF EU sex combined 5 SNPs	Weighted median	4	0.12901782955054	0.239520626540522	0.590128253223062
+Lu BF EU sex combined 5 SNPs	899	Cholesterol esters in medium HDL || id:899	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	0.353524526298921	0.307924324145386	0.250931828855106
+Lu BF EU sex combined 5 SNPs	899	Cholesterol esters in medium HDL || id:899	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.14030435074431	0.417218915949107	0.758804270100605
+Lu BF EU sex combined 5 SNPs	900	Free cholesterol in medium HDL || id:900	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.624616242692344	0.92165964187404	0.546543498342686
+Lu BF EU sex combined 5 SNPs	900	Free cholesterol in medium HDL || id:900	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.194502744071179	0.151885919207033	0.200339669906251
+Lu BF EU sex combined 5 SNPs	900	Free cholesterol in medium HDL || id:900	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0364333685689308	0.187313826541918	0.845780929393299
+Lu BF EU sex combined 5 SNPs	900	Free cholesterol in medium HDL || id:900	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.199884228636602	0.175213161760742	0.317614718791107
+Lu BF EU sex combined 5 SNPs	901	Total lipids in medium HDL || id:901	Lu BF EU sex combined 5 SNPs	MR Egger	4	1.81174204736826	0.738960682075354	0.133775596563004
+Lu BF EU sex combined 5 SNPs	901	Total lipids in medium HDL || id:901	Lu BF EU sex combined 5 SNPs	Weighted median	4	0.0528233568068509	0.229266917622677	0.817780083447967
+Lu BF EU sex combined 5 SNPs	901	Total lipids in medium HDL || id:901	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	0.20435368926469	0.240163766747502	0.394828744446048
+Lu BF EU sex combined 5 SNPs	901	Total lipids in medium HDL || id:901	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.0212987105154776	0.453617484697295	0.965501489839996
+Lu BF EU sex combined 5 SNPs	902	Concentration of medium HDL particles || id:902	Lu BF EU sex combined 5 SNPs	MR Egger	4	1.67112311819341	0.739174433738859	0.152206638977791
+Lu BF EU sex combined 5 SNPs	902	Concentration of medium HDL particles || id:902	Lu BF EU sex combined 5 SNPs	Weighted median	4	0.0978713479035376	0.226788247465648	0.666065685342645
+Lu BF EU sex combined 5 SNPs	902	Concentration of medium HDL particles || id:902	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	0.1594716327801	0.222196057257287	0.472938057536076
+Lu BF EU sex combined 5 SNPs	902	Concentration of medium HDL particles || id:902	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.0989870315401522	0.405074050344259	0.822705885407798
+Lu BF EU sex combined 5 SNPs	903	Phospholipids in medium HDL || id:903	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.816106453338237	0.925856111735726	0.442974421599592
+Lu BF EU sex combined 5 SNPs	903	Phospholipids in medium HDL || id:903	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.107114133920198	0.163733611721573	0.512984515116474
+Lu BF EU sex combined 5 SNPs	903	Phospholipids in medium HDL || id:903	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.082693206556055	0.194389904787697	0.670546076927685
+Lu BF EU sex combined 5 SNPs	903	Phospholipids in medium HDL || id:903	Lu BF EU sex combined 5 SNPs	Weighted mode	5	-0.149511898880791	0.170176435575374	0.429243394006698
+Lu BF EU sex combined 5 SNPs	904	Total cholesterol in medium LDL || id:904	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.15010715118744	3.12021295302079	0.54027903859536
+Lu BF EU sex combined 5 SNPs	904	Total cholesterol in medium LDL || id:904	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.338219086240382	0.17030487001316	0.0470374874256521
+Lu BF EU sex combined 5 SNPs	904	Total cholesterol in medium LDL || id:904	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.525717318204006	0.620877345327041	0.397143977644673
+Lu BF EU sex combined 5 SNPs	904	Total cholesterol in medium LDL || id:904	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.323343752942601	0.165406123964648	0.122275106634468
+Lu BF EU sex combined 5 SNPs	905	Cholesterol esters in medium LDL || id:905	Lu BF EU sex combined 5 SNPs	MR Egger	4	-5.81317625346983	2.62168641127156	0.15688620029377
+Lu BF EU sex combined 5 SNPs	905	Cholesterol esters in medium LDL || id:905	Lu BF EU sex combined 5 SNPs	Weighted median	4	0.203373066725014	0.275671847634728	0.460674845951953
+Lu BF EU sex combined 5 SNPs	905	Cholesterol esters in medium LDL || id:905	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-1.07746452282134	0.756061208415416	0.154127648823301
+Lu BF EU sex combined 5 SNPs	905	Cholesterol esters in medium LDL || id:905	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.172178998016907	0.26625207429254	0.563907595827728
+Lu BF EU sex combined 5 SNPs	906	Total lipids in medium LDL || id:906	Lu BF EU sex combined 5 SNPs	MR Egger	4	-5.90648863966913	2.67132529587963	0.157577861511051
+Lu BF EU sex combined 5 SNPs	906	Total lipids in medium LDL || id:906	Lu BF EU sex combined 5 SNPs	Weighted median	4	0.00111209459516981	0.270219024898597	0.996716291152612
+Lu BF EU sex combined 5 SNPs	906	Total lipids in medium LDL || id:906	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-1.10665300060676	0.767853657231329	0.149519982594758
+Lu BF EU sex combined 5 SNPs	906	Total lipids in medium LDL || id:906	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.149237989800567	0.23922146413897	0.576944963165486
+Lu BF EU sex combined 5 SNPs	907	Concentration of medium LDL particles || id:907	Lu BF EU sex combined 5 SNPs	MR Egger	4	-5.81719564231644	2.6874287797244	0.162835803773683
+Lu BF EU sex combined 5 SNPs	907	Concentration of medium LDL particles || id:907	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0387248356722363	0.272048436151766	0.886807210207391
+Lu BF EU sex combined 5 SNPs	907	Concentration of medium LDL particles || id:907	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-1.09850211076577	0.76144607118172	0.149118374155872
+Lu BF EU sex combined 5 SNPs	907	Concentration of medium LDL particles || id:907	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.125716051756966	0.232830953738096	0.626739313478533
+Lu BF EU sex combined 5 SNPs	908	Phospholipids in medium LDL || id:908	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.97992840523473	3.04661162929181	0.562096592127336
+Lu BF EU sex combined 5 SNPs	908	Phospholipids in medium LDL || id:908	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.221037218044199	0.175475828625216	0.207797520441097
+Lu BF EU sex combined 5 SNPs	908	Phospholipids in medium LDL || id:908	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.506012792288658	0.602668842440509	0.401121501550894
+Lu BF EU sex combined 5 SNPs	908	Phospholipids in medium LDL || id:908	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.30400971131868	0.169211717290353	0.146814180352003
+Lu BF EU sex combined 5 SNPs	909	Total cholesterol in medium VLDL || id:909	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.592697286132	2.29284619123436	0.537245965827415
+Lu BF EU sex combined 5 SNPs	909	Total cholesterol in medium VLDL || id:909	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.349472567701756	0.162639402706061	0.0316536614825106
+Lu BF EU sex combined 5 SNPs	909	Total cholesterol in medium VLDL || id:909	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.253834919708627	0.461219052123033	0.582074854127062
+Lu BF EU sex combined 5 SNPs	909	Total cholesterol in medium VLDL || id:909	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.344660298799704	0.165951702728441	0.106399045877196
+Lu BF EU sex combined 5 SNPs	910	Cholesterol esters in medium VLDL || id:910	Lu BF EU sex combined 5 SNPs	MR Egger	4	-4.63021488269344	1.80472038560698	0.124235076921796
+Lu BF EU sex combined 5 SNPs	910	Cholesterol esters in medium VLDL || id:910	Lu BF EU sex combined 5 SNPs	Weighted median	4	0.0221765879367595	0.237026082282693	0.92545725218159
+Lu BF EU sex combined 5 SNPs	910	Cholesterol esters in medium VLDL || id:910	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.689911186463291	0.591040445118826	0.243096291119439
+Lu BF EU sex combined 5 SNPs	910	Cholesterol esters in medium VLDL || id:910	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.163434665284811	0.236768761718583	0.539632045352856
+Lu BF EU sex combined 5 SNPs	911	Free cholesterol in medium VLDL || id:911	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.17217566684025	2.12593182472587	0.619789046067297
+Lu BF EU sex combined 5 SNPs	911	Free cholesterol in medium VLDL || id:911	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.323927390619499	0.180184421889804	0.072215889520514
+Lu BF EU sex combined 5 SNPs	911	Free cholesterol in medium VLDL || id:911	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.231689000206934	0.417919066959844	0.579313853324315
+Lu BF EU sex combined 5 SNPs	911	Free cholesterol in medium VLDL || id:911	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.285281113136846	0.172345778209867	0.173209108496624
+Lu BF EU sex combined 5 SNPs	912	Total lipids in medium VLDL || id:912	Lu BF EU sex combined 5 SNPs	MR Egger	4	-3.29948727490037	1.63208967423761	0.180591041016022
+Lu BF EU sex combined 5 SNPs	912	Total lipids in medium VLDL || id:912	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.281416477254083	0.242703503621506	0.246249474308952
+Lu BF EU sex combined 5 SNPs	912	Total lipids in medium VLDL || id:912	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.627378508203061	0.443067305135299	0.156778673654556
+Lu BF EU sex combined 5 SNPs	912	Total lipids in medium VLDL || id:912	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.169667709923151	0.334318513368703	0.646759136083582
+Lu BF EU sex combined 5 SNPs	913	Concentration of medium VLDL particles || id:913	Lu BF EU sex combined 5 SNPs	MR Egger	4	-2.77010392180997	1.62335601727973	0.230052610566365
+Lu BF EU sex combined 5 SNPs	913	Concentration of medium VLDL particles || id:913	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.386457428407727	0.243926642071963	0.113121316921295
+Lu BF EU sex combined 5 SNPs	913	Concentration of medium VLDL particles || id:913	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.627460294696283	0.3930953122077	0.110443263386465
+Lu BF EU sex combined 5 SNPs	913	Concentration of medium VLDL particles || id:913	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.2203585451147	0.408143359124087	0.626764255878989
+Lu BF EU sex combined 5 SNPs	914	Phospholipids in medium VLDL || id:914	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.05286177197125	2.1777150995003	0.661853530539492
+Lu BF EU sex combined 5 SNPs	914	Phospholipids in medium VLDL || id:914	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.341820392866756	0.184286944456716	0.0636209408808284
+Lu BF EU sex combined 5 SNPs	914	Phospholipids in medium VLDL || id:914	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.237435759510665	0.424147951815556	0.575619504771046
+Lu BF EU sex combined 5 SNPs	914	Phospholipids in medium VLDL || id:914	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.27817825386322	0.172171449893111	0.181462018658825
+Lu BF EU sex combined 5 SNPs	915	Triglycerides in medium VLDL || id:915	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.466711481264233	1.84375541706398	0.816521791487198
+Lu BF EU sex combined 5 SNPs	915	Triglycerides in medium VLDL || id:915	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.250844432265214	0.181577921940885	0.167134528897178
+Lu BF EU sex combined 5 SNPs	915	Triglycerides in medium VLDL || id:915	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.16416307884165	0.352252358203866	0.641188109122844
+Lu BF EU sex combined 5 SNPs	915	Triglycerides in medium VLDL || id:915	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.283128355194877	0.187313260000967	0.205187539991178
+Lu BF EU sex combined 5 SNPs	916	Mono-unsaturated fatty acids || id:916	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.731196320020628	1.97497685534287	0.735805045913154
+Lu BF EU sex combined 5 SNPs	916	Mono-unsaturated fatty acids || id:916	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.132197836663253	0.219644185840615	0.547258885312163
+Lu BF EU sex combined 5 SNPs	916	Mono-unsaturated fatty acids || id:916	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.286328472744191	0.377750896138092	0.448461611191174
+Lu BF EU sex combined 5 SNPs	916	Mono-unsaturated fatty acids || id:916	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.242069333936517	0.20052905329189	0.293873888896645
+Lu BF EU sex combined 5 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.0244027062394154	1.5317538803355	0.988289538770183
+Lu BF EU sex combined 5 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0197034196733721	0.227204642045017	0.930893263036504
+Lu BF EU sex combined 5 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.202280247981035	0.291530659796521	0.487772625934915
+Lu BF EU sex combined 5 SNPs	917	Other polyunsaturated fatty acids than 18:2 || id:917	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.218846154646014	0.224581422248738	0.38500535194783
+Lu BF EU sex combined 5 SNPs	918	Phosphatidylcholine and other cholines || id:918	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.0901701163940207	1.20335958937389	0.944985725700877
+Lu BF EU sex combined 5 SNPs	918	Phosphatidylcholine and other cholines || id:918	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.126522878676901	0.209569931419987	0.546025627588006
+Lu BF EU sex combined 5 SNPs	918	Phosphatidylcholine and other cholines || id:918	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.311795195434835	0.229509236537208	0.174295552891317
+Lu BF EU sex combined 5 SNPs	918	Phosphatidylcholine and other cholines || id:918	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0132189718264613	0.237627795922567	0.958305204629157
+Lu BF EU sex combined 5 SNPs	919	Phenylalanine || id:919	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.16065506455853	0.533413424737895	0.117801263616723
+Lu BF EU sex combined 5 SNPs	919	Phenylalanine || id:919	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.415293969158413	0.149898295929901	0.00559694514489808
+Lu BF EU sex combined 5 SNPs	919	Phenylalanine || id:919	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.374008178127277	0.122215267119507	0.0022115891022981
+Lu BF EU sex combined 5 SNPs	919	Phenylalanine || id:919	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.496550334050299	0.205463566743473	0.0730207418729111
+Lu BF EU sex combined 5 SNPs	920	Pyruvate || id:920	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.463750893300779	0.814571624820078	0.608976837450278
+Lu BF EU sex combined 5 SNPs	920	Pyruvate || id:920	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0808575600932471	0.140718668162694	0.565558903480634
+Lu BF EU sex combined 5 SNPs	920	Pyruvate || id:920	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.101656987692368	0.167673608843444	0.544329501869183
+Lu BF EU sex combined 5 SNPs	920	Pyruvate || id:920	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.096199684896157	0.183428165182494	0.627683030844933
+Lu BF EU sex combined 5 SNPs	921	Total lipids in small HDL || id:921	Lu BF EU sex combined 5 SNPs	MR Egger	4	-0.977064290361382	1.16611610859283	0.490275684992994
+Lu BF EU sex combined 5 SNPs	921	Total lipids in small HDL || id:921	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.449665650211186	0.205185777753403	0.028415271013183
+Lu BF EU sex combined 5 SNPs	921	Total lipids in small HDL || id:921	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.429052463749558	0.215591060089915	0.0465775223682218
+Lu BF EU sex combined 5 SNPs	921	Total lipids in small HDL || id:921	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.665205539296319	0.312452220845073	0.123129672555696
+Lu BF EU sex combined 5 SNPs	922	Concentration of small HDL particles || id:922	Lu BF EU sex combined 5 SNPs	MR Egger	4	-0.615484547985083	0.901128250495058	0.565100312536456
+Lu BF EU sex combined 5 SNPs	922	Concentration of small HDL particles || id:922	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.420637174723205	0.192541848278768	0.0289142803459103
+Lu BF EU sex combined 5 SNPs	922	Concentration of small HDL particles || id:922	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.355993320410489	0.161105443693244	0.0271265840045571
+Lu BF EU sex combined 5 SNPs	922	Concentration of small HDL particles || id:922	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.515146734543051	0.252960946669926	0.134503263710663
+Lu BF EU sex combined 5 SNPs	923	Triglycerides in small HDL || id:923	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.739072441873235	1.84046837313265	0.714896964329705
+Lu BF EU sex combined 5 SNPs	923	Triglycerides in small HDL || id:923	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0660122409082187	0.183307885368835	0.718759823275514
+Lu BF EU sex combined 5 SNPs	923	Triglycerides in small HDL || id:923	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.276918736694055	0.353739555636034	0.433725619256962
+Lu BF EU sex combined 5 SNPs	923	Triglycerides in small HDL || id:923	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.138406513388081	0.186462763710296	0.499142734332935
+Lu BF EU sex combined 5 SNPs	924	Total cholesterol in small LDL || id:924	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.93994253192806	3.25020514100472	0.592638843191825
+Lu BF EU sex combined 5 SNPs	924	Total cholesterol in small LDL || id:924	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.210111822538529	0.17050968069555	0.217852932850714
+Lu BF EU sex combined 5 SNPs	924	Total cholesterol in small LDL || id:924	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.578000837807608	0.636952478621103	0.364170280475308
+Lu BF EU sex combined 5 SNPs	924	Total cholesterol in small LDL || id:924	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.298255492020248	0.157840795420171	0.131811862620944
+Lu BF EU sex combined 5 SNPs	925	Total lipids in small LDL || id:925	Lu BF EU sex combined 5 SNPs	MR Egger	4	-6.14284971568859	2.57292409029407	0.139613690933055
+Lu BF EU sex combined 5 SNPs	925	Total lipids in small LDL || id:925	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0580715283400246	0.27474379255793	0.832601594915053
+Lu BF EU sex combined 5 SNPs	925	Total lipids in small LDL || id:925	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-1.1434690533444	0.778004026023332	0.141630298674834
+Lu BF EU sex combined 5 SNPs	925	Total lipids in small LDL || id:925	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.0755879232853456	0.254309206199184	0.785684771255503
+Lu BF EU sex combined 5 SNPs	926	Concentration of small LDL particles || id:926	Lu BF EU sex combined 5 SNPs	MR Egger	4	-5.86058160305615	2.64035828191263	0.1566364813127
+Lu BF EU sex combined 5 SNPs	926	Concentration of small LDL particles || id:926	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.147477228482254	0.262510070596538	0.574254703999929
+Lu BF EU sex combined 5 SNPs	926	Concentration of small LDL particles || id:926	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-1.14341129644643	0.756231487825893	0.130537466477368
+Lu BF EU sex combined 5 SNPs	926	Concentration of small LDL particles || id:926	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.0236193762993597	0.266708445254793	0.93501316686532
+Lu BF EU sex combined 5 SNPs	927	Total cholesterol in small VLDL || id:927	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.80969326577134	2.43187769349805	0.510769183502605
+Lu BF EU sex combined 5 SNPs	927	Total cholesterol in small VLDL || id:927	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.306490227682432	0.169243292316363	0.0701494264986414
+Lu BF EU sex combined 5 SNPs	927	Total cholesterol in small VLDL || id:927	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.302075180641244	0.492464389160927	0.53961520924114
+Lu BF EU sex combined 5 SNPs	927	Total cholesterol in small VLDL || id:927	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.346590276358645	0.170257382534361	0.111489374559392
+Lu BF EU sex combined 5 SNPs	928	Free cholesterol in small VLDL || id:928	Lu BF EU sex combined 5 SNPs	MR Egger	5	-2.02719783194862	2.53469910929192	0.482309568383744
+Lu BF EU sex combined 5 SNPs	928	Free cholesterol in small VLDL || id:928	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.222959252409517	0.161409269661199	0.167177925644195
+Lu BF EU sex combined 5 SNPs	928	Free cholesterol in small VLDL || id:928	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.417639164291232	0.514792373424209	0.417206668813783
+Lu BF EU sex combined 5 SNPs	928	Free cholesterol in small VLDL || id:928	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.250358088317473	0.164843766251718	0.203441153185761
+Lu BF EU sex combined 5 SNPs	929	Total lipids in small VLDL || id:929	Lu BF EU sex combined 5 SNPs	MR Egger	4	-4.3815920307121	2.20664014773378	0.185471734103792
+Lu BF EU sex combined 5 SNPs	929	Total lipids in small VLDL || id:929	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.175055660671859	0.252995697919528	0.488980427297199
+Lu BF EU sex combined 5 SNPs	929	Total lipids in small VLDL || id:929	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.77360583933252	0.598698242430358	0.196306414625128
+Lu BF EU sex combined 5 SNPs	929	Total lipids in small VLDL || id:929	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.036614899483423	0.2924286672472	0.908276878482795
+Lu BF EU sex combined 5 SNPs	930	Concentration of small VLDL particles || id:930	Lu BF EU sex combined 5 SNPs	MR Egger	4	-4.15694128672541	2.13047519836301	0.190312226665438
+Lu BF EU sex combined 5 SNPs	930	Concentration of small VLDL particles || id:930	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.230867404260358	0.261608167688442	0.37751020663678
+Lu BF EU sex combined 5 SNPs	930	Concentration of small VLDL particles || id:930	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.753580853195072	0.570289936704745	0.18636818334764
+Lu BF EU sex combined 5 SNPs	930	Concentration of small VLDL particles || id:930	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.0504482463395335	0.290259068957642	0.873085593726042
+Lu BF EU sex combined 5 SNPs	931	Phospholipids in small VLDL || id:931	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.5850961842713	2.22209648108073	0.527123247623018
+Lu BF EU sex combined 5 SNPs	931	Phospholipids in small VLDL || id:931	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.266167979355194	0.167807556645885	0.112705255291763
+Lu BF EU sex combined 5 SNPs	931	Phospholipids in small VLDL || id:931	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.284244552331284	0.447080116232442	0.524919889036809
+Lu BF EU sex combined 5 SNPs	931	Phospholipids in small VLDL || id:931	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.293352244988509	0.174858104749232	0.168717720759198
+Lu BF EU sex combined 5 SNPs	932	Triglycerides in small VLDL || id:932	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.46960776357571	2.16593787245717	0.546101018125261
+Lu BF EU sex combined 5 SNPs	932	Triglycerides in small VLDL || id:932	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0679583105875543	0.172151054866891	0.693020188486433
+Lu BF EU sex combined 5 SNPs	932	Triglycerides in small VLDL || id:932	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.37461420396191	0.429814950985559	0.383442511196273
+Lu BF EU sex combined 5 SNPs	932	Triglycerides in small VLDL || id:932	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.156126668224296	0.181539227965805	0.438271880315816
+Lu BF EU sex combined 5 SNPs	933	Serum total cholesterol || id:933	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.51350240946306	2.7651278758727	0.62222669581617
+Lu BF EU sex combined 5 SNPs	933	Serum total cholesterol || id:933	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.129712545662345	0.186632504176923	0.487045378206531
+Lu BF EU sex combined 5 SNPs	933	Serum total cholesterol || id:933	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.502009534280098	0.53791625561218	0.350691682860503
+Lu BF EU sex combined 5 SNPs	933	Serum total cholesterol || id:933	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.237470451258897	0.160457246876893	0.212984424151377
+Lu BF EU sex combined 5 SNPs	934	Serum total triglycerides || id:934	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.3504661166153	2.39378692474106	0.612074220975335
+Lu BF EU sex combined 5 SNPs	934	Serum total triglycerides || id:934	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0677791847356257	0.172777466016123	0.694842614917512
+Lu BF EU sex combined 5 SNPs	934	Serum total triglycerides || id:934	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.390607431640763	0.467737041507014	0.403661131922721
+Lu BF EU sex combined 5 SNPs	934	Serum total triglycerides || id:934	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.182084909561165	0.177041552727411	0.361844364047867
+Lu BF EU sex combined 5 SNPs	935	Sphingomyelins || id:935	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.223690103053992	0.977855425311837	0.833765703739335
+Lu BF EU sex combined 5 SNPs	935	Sphingomyelins || id:935	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.272793596804518	0.198282169675605	0.168888266121972
+Lu BF EU sex combined 5 SNPs	935	Sphingomyelins || id:935	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.0818893667862823	0.188546248583432	0.664056236023078
+Lu BF EU sex combined 5 SNPs	935	Sphingomyelins || id:935	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.327537460812559	0.265476542367261	0.284825632670197
+Lu BF EU sex combined 5 SNPs	936	Total fatty acids || id:936	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.10248827240486	2.21563158430522	0.652955174671445
+Lu BF EU sex combined 5 SNPs	936	Total fatty acids || id:936	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.208736257883487	0.215899715759111	0.333633805219812
+Lu BF EU sex combined 5 SNPs	936	Total fatty acids || id:936	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.317763473907635	0.429176111997751	0.459055226166427
+Lu BF EU sex combined 5 SNPs	936	Total fatty acids || id:936	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.284112289347116	0.199750175766836	0.227998975816927
+Lu BF EU sex combined 5 SNPs	937	Total phosphoglycerides || id:937	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.624148891287877	1.32282285412608	0.669243257806579
+Lu BF EU sex combined 5 SNPs	937	Total phosphoglycerides || id:937	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0438100286841588	0.214706703525078	0.838317608051383
+Lu BF EU sex combined 5 SNPs	937	Total phosphoglycerides || id:937	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.347070436170255	0.252711720406457	0.169632751862634
+Lu BF EU sex combined 5 SNPs	937	Total phosphoglycerides || id:937	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0138419174976745	0.234481089867252	0.955758018225236
+Lu BF EU sex combined 5 SNPs	938	Tyrosine || id:938	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.09951366498377	0.527732910966677	0.128576181268977
+Lu BF EU sex combined 5 SNPs	938	Tyrosine || id:938	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.461277091260363	0.145964643202501	0.00157662261341228
+Lu BF EU sex combined 5 SNPs	938	Tyrosine || id:938	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.362406283998493	0.103236272050586	0.000447340572688591
+Lu BF EU sex combined 5 SNPs	938	Tyrosine || id:938	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.484666303874634	0.17641643946858	0.0515179775224134
+Lu BF EU sex combined 5 SNPs	939	Urea || id:939	Lu BF EU sex combined 5 SNPs	MR Egger	4	1.82312193852095	1.13679841590839	0.24996598330066
+Lu BF EU sex combined 5 SNPs	939	Urea || id:939	Lu BF EU sex combined 5 SNPs	Weighted median	4	0.49701345847566	0.218756886869339	0.0230871145819334
+Lu BF EU sex combined 5 SNPs	939	Urea || id:939	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	0.18954058373674	0.28728295300588	0.509401639340484
+Lu BF EU sex combined 5 SNPs	939	Urea || id:939	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.523023512438285	0.279807076986855	0.158374390671165
+Lu BF EU sex combined 5 SNPs	940	Valine || id:940	Lu BF EU sex combined 5 SNPs	MR Egger	5	1.44421430655198	0.511941633969343	0.066680351978926
+Lu BF EU sex combined 5 SNPs	940	Valine || id:940	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.445615330937742	0.143331818705824	0.00187736317908304
+Lu BF EU sex combined 5 SNPs	940	Valine || id:940	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	0.267360764938394	0.149545484476989	0.0738046679197764
+Lu BF EU sex combined 5 SNPs	940	Valine || id:940	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.446326653948	0.161632239273588	0.050778128459935
+Lu BF EU sex combined 5 SNPs	941	Mean diameter for VLDL particles || id:941	Lu BF EU sex combined 5 SNPs	MR Egger	4	-2.49488001241708	0.884394027890275	0.106043704719737
+Lu BF EU sex combined 5 SNPs	941	Mean diameter for VLDL particles || id:941	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0938413579309188	0.236215157834279	0.69116786128109
+Lu BF EU sex combined 5 SNPs	941	Mean diameter for VLDL particles || id:941	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.402720768092607	0.306986319220512	0.189569909466007
+Lu BF EU sex combined 5 SNPs	941	Mean diameter for VLDL particles || id:941	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.0576619539062511	0.326126416118215	0.87092161321244
+Lu BF EU sex combined 5 SNPs	942	Total cholesterol in very large HDL || id:942	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.567441092871832	0.546762207079001	0.375657335627639
+Lu BF EU sex combined 5 SNPs	942	Total cholesterol in very large HDL || id:942	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.154155959163367	0.160217244583149	0.335965053285684
+Lu BF EU sex combined 5 SNPs	942	Total cholesterol in very large HDL || id:942	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.138347153165726	0.111620763665357	0.215182881501847
+Lu BF EU sex combined 5 SNPs	942	Total cholesterol in very large HDL || id:942	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.105064033281596	0.197926434436093	0.623645611129019
+Lu BF EU sex combined 5 SNPs	943	Cholesterol esters in very large HDL || id:943	Lu BF EU sex combined 5 SNPs	MR Egger	4	-0.110869020241862	0.74035768032657	0.894699026925275
+Lu BF EU sex combined 5 SNPs	943	Cholesterol esters in very large HDL || id:943	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.301418256835533	0.194612166718619	0.121426181535056
+Lu BF EU sex combined 5 SNPs	943	Cholesterol esters in very large HDL || id:943	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.33700885128251	0.0974014517562576	0.000540178926143383
+Lu BF EU sex combined 5 SNPs	943	Cholesterol esters in very large HDL || id:943	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.279812030820542	0.24452623739907	0.335525217403932
+Lu BF EU sex combined 5 SNPs	944	Free cholesterol in very large HDL || id:944	Lu BF EU sex combined 5 SNPs	MR Egger	5	0.608869158087744	0.547268007317238	0.347025112056636
+Lu BF EU sex combined 5 SNPs	944	Free cholesterol in very large HDL || id:944	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.00757728803975564	0.150594125441839	0.959870605385208
+Lu BF EU sex combined 5 SNPs	944	Free cholesterol in very large HDL || id:944	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.137120559328576	0.123694298676382	0.267626994124715
+Lu BF EU sex combined 5 SNPs	944	Free cholesterol in very large HDL || id:944	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0139637876414112	0.170166757912607	0.938541611747243
+Lu BF EU sex combined 5 SNPs	945	Total lipids in very large HDL || id:945	Lu BF EU sex combined 5 SNPs	MR Egger	4	0.408291002304422	0.739757631122702	0.636436278459638
+Lu BF EU sex combined 5 SNPs	945	Total lipids in very large HDL || id:945	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.176570156979032	0.202649138055181	0.383585082850356
+Lu BF EU sex combined 5 SNPs	945	Total lipids in very large HDL || id:945	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.221805363537897	0.122834972616075	0.0709623455525884
+Lu BF EU sex combined 5 SNPs	945	Total lipids in very large HDL || id:945	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.0600431735921695	0.272521949195617	0.83976062049674
+Lu BF EU sex combined 5 SNPs	946	Concentration of very large HDL particles || id:946	Lu BF EU sex combined 5 SNPs	MR Egger	4	0.544843874059611	0.740892431076327	0.538648456826278
+Lu BF EU sex combined 5 SNPs	946	Concentration of very large HDL particles || id:946	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.15645957164244	0.191211622693442	0.413212475431283
+Lu BF EU sex combined 5 SNPs	946	Concentration of very large HDL particles || id:946	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.16995488025043	0.129091729047094	0.187991679134639
+Lu BF EU sex combined 5 SNPs	946	Concentration of very large HDL particles || id:946	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.000642725719285031	0.257011798615774	0.998161678333711
+Lu BF EU sex combined 5 SNPs	947	Phospholipids in very large HDL || id:947	Lu BF EU sex combined 5 SNPs	MR Egger	4	1.34577701992352	1.0340004965244	0.322817219129828
+Lu BF EU sex combined 5 SNPs	947	Phospholipids in very large HDL || id:947	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0342704916648363	0.237513838684032	0.885272738237006
+Lu BF EU sex combined 5 SNPs	947	Phospholipids in very large HDL || id:947	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.0170652302568374	0.250113735768187	0.945602641335378
+Lu BF EU sex combined 5 SNPs	947	Phospholipids in very large HDL || id:947	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.347741244669772	0.39937379383029	0.447982754336015
+Lu BF EU sex combined 5 SNPs	948	Triglycerides in very large HDL || id:948	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.628378990266807	1.1839557140448	0.632374378815833
+Lu BF EU sex combined 5 SNPs	948	Triglycerides in very large HDL || id:948	Lu BF EU sex combined 5 SNPs	Weighted median	5	-0.0583339624026316	0.169244580289034	0.730340550932711
+Lu BF EU sex combined 5 SNPs	948	Triglycerides in very large HDL || id:948	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.201370237056288	0.230226710770578	0.381758594418531
+Lu BF EU sex combined 5 SNPs	948	Triglycerides in very large HDL || id:948	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.0795624222868641	0.192346946610728	0.700353273808176
+Lu BF EU sex combined 5 SNPs	949	Total lipids in very large VLDL || id:949	Lu BF EU sex combined 5 SNPs	MR Egger	4	-3.06511924556299	1.03441318707372	0.0975170550071081
+Lu BF EU sex combined 5 SNPs	949	Total lipids in very large VLDL || id:949	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.055085878111519	0.250946181817945	0.82625067494318
+Lu BF EU sex combined 5 SNPs	949	Total lipids in very large VLDL || id:949	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.402244060523403	0.382535742701665	0.293019737065183
+Lu BF EU sex combined 5 SNPs	949	Total lipids in very large VLDL || id:949	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.0625757176299628	0.32388447892934	0.859139937472971
+Lu BF EU sex combined 5 SNPs	950	Concentration of very large VLDL particles || id:950	Lu BF EU sex combined 5 SNPs	MR Egger	4	-3.70994812405905	1.34632050592874	0.110323497417935
+Lu BF EU sex combined 5 SNPs	950	Concentration of very large VLDL particles || id:950	Lu BF EU sex combined 5 SNPs	Weighted median	4	0.07210396928036	0.227274320577532	0.751049937089095
+Lu BF EU sex combined 5 SNPs	950	Concentration of very large VLDL particles || id:950	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.38987132760712	0.46250467458823	0.399252765543502
+Lu BF EU sex combined 5 SNPs	950	Concentration of very large VLDL particles || id:950	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.0983055148395326	0.247896862200217	0.718217547092109
+Lu BF EU sex combined 5 SNPs	951	Phospholipids in very large VLDL || id:951	Lu BF EU sex combined 5 SNPs	MR Egger	5	-1.23217486844044	1.8847998545972	0.559917014501014
+Lu BF EU sex combined 5 SNPs	951	Phospholipids in very large VLDL || id:951	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.193806397871848	0.171174524029791	0.257543971473
+Lu BF EU sex combined 5 SNPs	951	Phospholipids in very large VLDL || id:951	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.178615070320582	0.377516018932821	0.636118703218966
+Lu BF EU sex combined 5 SNPs	951	Phospholipids in very large VLDL || id:951	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.379586829245776	0.172847982727644	0.0930592788151126
+Lu BF EU sex combined 5 SNPs	952	Triglycerides in very large VLDL || id:952	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.843232475217766	1.64147229190719	0.642900069309339
+Lu BF EU sex combined 5 SNPs	952	Triglycerides in very large VLDL || id:952	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.248190851956373	0.179235629550693	0.166138628478799
+Lu BF EU sex combined 5 SNPs	952	Triglycerides in very large VLDL || id:952	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.102382414983605	0.318046143324063	0.747520446095469
+Lu BF EU sex combined 5 SNPs	952	Triglycerides in very large VLDL || id:952	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.362520261097942	0.19178905919164	0.131719663549621
+Lu BF EU sex combined 5 SNPs	953	Total lipids in very small VLDL || id:953	Lu BF EU sex combined 5 SNPs	MR Egger	4	-3.50464620653048	2.20792789433188	0.25335713051005
+Lu BF EU sex combined 5 SNPs	953	Total lipids in very small VLDL || id:953	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.251388290882689	0.25593091417676	0.325976410965104
+Lu BF EU sex combined 5 SNPs	953	Total lipids in very small VLDL || id:953	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.630028675434521	0.531159758892155	0.235567879305464
+Lu BF EU sex combined 5 SNPs	953	Total lipids in very small VLDL || id:953	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.006555981814234	0.365109550914298	0.986801246370278
+Lu BF EU sex combined 5 SNPs	954	Concentration of very small VLDL particles || id:954	Lu BF EU sex combined 5 SNPs	MR Egger	4	-3.49462767456235	2.29871242630771	0.267818888137999
+Lu BF EU sex combined 5 SNPs	954	Concentration of very small VLDL particles || id:954	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.294477001195491	0.261937819943403	0.260917658189507
+Lu BF EU sex combined 5 SNPs	954	Concentration of very small VLDL particles || id:954	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.646501497915062	0.540594739732186	0.231732517841928
+Lu BF EU sex combined 5 SNPs	954	Concentration of very small VLDL particles || id:954	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.0741630780914972	0.412420024104134	0.868751122579242
+Lu BF EU sex combined 5 SNPs	955	Phospholipids in very small VLDL || id:955	Lu BF EU sex combined 5 SNPs	MR Egger	4	-3.86715677469861	2.24755447636862	0.227462783943274
+Lu BF EU sex combined 5 SNPs	955	Phospholipids in very small VLDL || id:955	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.0924826805127767	0.242965131292374	0.703469073593231
+Lu BF EU sex combined 5 SNPs	955	Phospholipids in very small VLDL || id:955	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.677221294426386	0.576311005802081	0.239955938216382
+Lu BF EU sex combined 5 SNPs	955	Phospholipids in very small VLDL || id:955	Lu BF EU sex combined 5 SNPs	Weighted mode	4	0.300508190702451	0.319785802469679	0.416687512279476
+Lu BF EU sex combined 5 SNPs	956	Triglycerides in very small VLDL || id:956	Lu BF EU sex combined 5 SNPs	MR Egger	4	-3.57930265465025	2.50870200946689	0.28977866799358
+Lu BF EU sex combined 5 SNPs	956	Triglycerides in very small VLDL || id:956	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.385446183397786	0.25494152490427	0.130559212347322
+Lu BF EU sex combined 5 SNPs	956	Triglycerides in very small VLDL || id:956	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.677875640307335	0.572815949013935	0.236647029298035
+Lu BF EU sex combined 5 SNPs	956	Triglycerides in very small VLDL || id:956	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.32283548830193	0.431033210092667	0.508246243102623
+Lu BF EU sex combined 5 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Lu BF EU sex combined 5 SNPs	MR Egger	4	-2.60263563907536	1.09008314650631	0.139608118217141
+Lu BF EU sex combined 5 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.179835167518471	0.246901813746264	0.466388873840234
+Lu BF EU sex combined 5 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.388623290851113	0.339508363718504	0.25234801661292
+Lu BF EU sex combined 5 SNPs	957	Total lipids in chylomicrons and largest VLDL particles || id:957	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.0417052485384954	0.418929528723146	0.926979542737206
+Lu BF EU sex combined 5 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Lu BF EU sex combined 5 SNPs	MR Egger	4	-2.22388897362454	1.13010611747226	0.187948496671586
+Lu BF EU sex combined 5 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Lu BF EU sex combined 5 SNPs	Weighted median	4	-0.237590173277748	0.247107810917606	0.336308934080035
+Lu BF EU sex combined 5 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	4	-0.398537162943089	0.30454178590613	0.190654543972542
+Lu BF EU sex combined 5 SNPs	958	Concentration of chylomicrons and largest VLDL particles || id:958	Lu BF EU sex combined 5 SNPs	Weighted mode	4	-0.197923169342499	0.388974289636977	0.645930051306609
+Lu BF EU sex combined 5 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.779704111231319	1.46707535926611	0.631930331338577
+Lu BF EU sex combined 5 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.0806073693917465	0.174302002519964	0.643752857442849
+Lu BF EU sex combined 5 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.183981279862233	0.286864174698899	0.521293178877309
+Lu BF EU sex combined 5 SNPs	959	Phospholipids in chylomicrons and largest VLDL particles || id:959	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.196742979348547	0.163660524208815	0.295607929556848
+Lu BF EU sex combined 5 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Lu BF EU sex combined 5 SNPs	MR Egger	5	-0.842837987741647	1.92616991078032	0.691283689314826
+Lu BF EU sex combined 5 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Lu BF EU sex combined 5 SNPs	Weighted median	5	0.163506621500135	0.189138257406671	0.387323157097586
+Lu BF EU sex combined 5 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Lu BF EU sex combined 5 SNPs	Inverse variance weighted (multiplicative random effects)	5	-0.244171230611098	0.372345591056377	0.51197529766778
+Lu BF EU sex combined 5 SNPs	960	Triglycerides in chylomicrons and largest VLDL particles || id:960	Lu BF EU sex combined 5 SNPs	Weighted mode	5	0.203821528171079	0.183438443900042	0.328802656900937

@@ -1,0 +1,175 @@
+1. Transfer data from project portal rdsf to scratch space 
+
+# Change directory to where the NMR GWAS summary statistics is located. 
+cd /projects/MRC-IEU/research/projects/ieu2/p6/119/working/data/nmr_dat_female
+
+cp *.gz /newhome/vt6347/UKBB_NMR/females
+
+gzip -d *.txt.gz
+
+2. Add phenotype column using R 
+#Create phenotype.r 
+
+nano phenotype.r 
+# Loop through files to add phenotype name
+setwd("/newhome/vt6347/NMR_ukbb/females/")
+files <- list.files(path = "/newhome/vt6347/NMR_ukbb/females/",pattern = ".txt")
+add_col <- function(one_file) {
+  dat <- fread(one_file, header=T)
+  dat$phenotype <- paste(one_file)
+  write.table(dat, 
+              file = one_file,
+              append = FALSE,
+              quote = FALSE,
+              sep = "\t",
+              row.names = FALSE,
+              col.names = TRUE)
+  return(dat)
+}
+res <- lapply(files, add_col) 
+
+#Create Phenotype_script.sh
+nano Phenotype_script.sh
+
+#!/bin/bash
+#################################################
+#only needed for qsub'd runs
+#set time
+#PBS -l nodes=1:ppn=1,walltime=12:00:00
+
+#Define working directory - change this so that it is the directory where you want the analysis to run.
+#Put all the input files and scripts in this folder
+#remember if you rerun the analysis the existing output files will be overwritten (without warning)
+export WORK_DIR=/newhome/vt6347/NMR_ukbb/females/
+
+#Change into the working directory
+cd $WORK_DIR
+module add languages/R-4.0.3-gcc9.1.0
+
+#################################################
+
+# R script to add phenotype
+R --no-save < phenotype.r > ${now}.out 2> ${now}.error
+
+
+2. Extract SNPs with p-value <5e-08 using awk (as MR-base struggled to clump SNPs when I input the full GWAS statistics
+
+#Note that the new files do not have column names. But in the next step, the instruments for the various metabolites are merged together and then the column names is added
+#Create extract.sh script
+
+nano extract.sh
+
+#!/bin/bash
+#################################################
+#only needed for qsub'd runs
+#set time
+#PBS -l nodes=1:ppn=1,walltime=12:00:00
+
+#Define working directory - change this so that it is the directory where you want the analysis to run.
+#Put all the input files and scripts in this folder
+#remember if you rerun the analysis the existing output files will be overwritten (without warning)
+export WORK_DIR=/newhome/vt6347/NMR_ukbb/females
+
+#Change into the working directory
+cd $WORK_DIR
+#################################################
+
+#loop through files in linux to extract GWAS significant SNPs
+
+ls *.txt | while read f; do awk '$14<5e-08' ${f} > /newhome/vt6347/NMR_ukbb/females/instrument/${f}_snps.txt; done;
+
+
+3.Create exposure file (for MR-base) by merging the files together. 
+#Note that there are 17 files that have 15 columns and 201 files that have 17 columns.
+#ls *.txt | while read f; do head -1 ${f} | wc -w; done;
+
+#Move files with 15 columns to another directory 
+mkdir 15_columns 
+mv -t 15_columns Acetate_int_imputed.txt_snps.txt Acetoacetate_int_imputed.txt_snps.txt Acetone_int_imputed.txt_snps.txt Ala_int_imputed.txt_snps.txt Albumin_int_imputed.txt_snps.txt Creatinine_int_imputed.txt_snps.txt Glucose_int_imputed.txt_snps.txt His_int_imputed.txt_snps.txt Ile_int_imputed.txt_snps.txt Phe_int_imputed.txt_snps.txt Pyruvate_int_imputed.txt_snps.txt SFA_pct_int_imputed.txt_snps.txt S_HDL_C_int_imputed.txt_snps.txt Total_BCAA_int_imputed.txt_snps.txt Tyr_int_imputed.txt_snps.txt Val_int_imputed.txt_snps.txt bOHbutyrate_int_imputed.txt_snps.txt  15_columns
+
+
+#Merge files together and add column name 
+cd /newhome/vt6347/NMR_ukbb/females/instrument/
+cat *.txt > nmr_instruments_17_columns.txt
+
+nano instruments_17_columns.txt
+
+#manually added "SNP	CHR	BP	GENPOS	ALLELE1	ALLELE0	A1FREQ	INFO	CHISQ_LINREG	P_LINREG	BETA	SE	CHISQ_BOLT_LMM_INF	P_BOLT_LMM_INF	CHISQ_BOLT_LMM	P_BOLT_LMM phenotype"
+
+cd /newhome/vt6347/NMR_ukbb/females/instrument/15_columns
+cat *.txt > nmr_instruments_15_columns.txt
+
+nano instrument_15_columns.txt
+#manually added "SNP	CHR	BP	GENPOS	ALLELE1	ALLELE0	A1FREQ	INFO	CHISQ_LINREG	P_LINREG	BETA	SE	CHISQ_BOLT_LMM_INF	P_BOLT_LMM_INF	phenotype"
+
+
+4. Run two-sample MR analysis
+
+# Create MR_script.r
+
+nano MR_script.r                                              
+
+module add languages/R-4.0.3-gcc9.1.0
+
+# Load libraries
+library(dplyr)
+library(data.table)
+library(readxl)
+library(MRInstruments) 
+library(TwoSampleMR)
+
+ao <-available_outcomes()
+
+# Loading exposure data (NMR metabolites)
+exposure_data <- read_exposure_data(
+  filename = "/newhome/vt6347/NMR_ukbb/females/instruments/nmr_instruments_17_columns.txt" ,
+  sep = '\t',
+  snp_col = "SNP",
+  beta_col = "BETA",
+  se_col = "SE",
+  effect_allele_col = "ALLELE1",
+  other_allele_col = "ALLELE0",
+  eaf_col = "A1FREQ",
+  phenotype_col = "phenotype"
+)
+
+exposure_data <- clump_data(exposure_data, clump_r2 = 0.001)
+
+# Loading outcome data (Endometrial cancer- all histologies, endometrioid histology and non-endometrioid histology)
+
+outcome_data <- extract_outcome_data(exposure_data$SNP, c('ebi-a-GCST006464', 'ebi-a-GCST006465', 'ebi-a-GCST006466'), proxies = 1, rsq = 0.8, align_alleles = 1, palindromes = 1, maf_threshold = 0.3)
+
+
+## harmonize data ====
+harmonise_data<- harmonise_data(exposure_data, outcome_data, action = 2)
+
+## MR ====
+mr_results<- mr(harmonise_data)
+write.csv(mr_results, "/newhome/vt6347/NMR_ukbb/females/results/result1.csv")
+
+q()
+
+
+#Create MR_script.sh
+
+nano MR_script.sh
+
+#!/bin/bash
+#################################################
+#only needed for qsub'd runs
+#set time
+#PBS -l nodes=1:ppn=1,walltime=12:00:00
+
+#Define working directory - change this so that it is the directory where you want the analysis to run.
+#Put all the input files and scripts in this folder
+#remember if you rerun the analysis the existing output files will be overwritten (without warning)
+export WORK_DIR=/newhome/vt6347/NMR_ukbb/females/results
+
+#Change into the working directory
+cd $WORK_DIR
+module add languages/R-4.0.3-gcc9.1.0
+
+#################################################
+
+# R script to run two sample MR
+R --no-save < MR_script.r > ${now}_rsid.out 2> ${now}_rsid.error

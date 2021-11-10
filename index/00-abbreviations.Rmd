@@ -7,35 +7,122 @@ space_betwee_paragraphs: true
 fig_caption: true
 always_allow_html: yes
 link-citations: true
-toc-depth: 1
+toc-depth: 2
 lot: true
 lof: true
+indent: true
+header-includes: # include other LaTeX packages here
+    \usepackage{booktabs}
+    \usepackage{longtable}
+    \usepackage{siunitx}
+    \usepackage[left]{lineno}
+    \usepackage{float}
+    \floatplacement{figure}{H}
+    \linenumbers
+    \pagestyle{plain}
+    \raggedbottom 
+    \usepackage{indentfirst}
 editor_options: 
   chunk_output_type: console
 ---
 
-# {-}
+# Abbreviations {-}
 
-```{r abbreviations, include=T, echo=FALSE, cache=TRUE, warning=FALSE, message=FALSE, error=FALSE}
+```{r abbreviations, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(knitr)
+library(kableExtra)
 
-x <- tibble(
+table <- tibble(
   
-  Abbreviation = c("MR",
-                   "SNP"
-                   ),
+  Abbreviation = c(
+    "BMI",
+    "MR",
+    "MVMR",
+    "SNP",
+    "PPAR-y",
+    "WHR",
+    "BF",
+    "WHRadjBMI",
+    "DXA",
+    "WC",
+    "WCadjBMI",
+    "HC",
+    "HCadjBMI",
+    "CRP",
+    "HDL",
+    "TG",
+    "FG",
+    "CVD",
+    "CHD",
+    "IL",
+    "CKD",
+    "NAFLD",
+    "TNF-alpha",
+    "PCOS",
+    "RCT",
+    "MS",
+    "NMR",
+    "IV",
+    "LD",
+    "GWAS",
+    "STROBE-MR",
+    "OR",
+    "SD",
+    "SE",
+    "CI",
+    "Apo"
+    
+    
+    ),
   
-  Term = c("Mendelian randomization",
-           "Single nucleotide polymorphism"
+  Term = c(
+    "Body mass index",
+    "Mendelian randomization",
+    "Multivariable Mendelian randomization",
+    "Single nucleotide polymorphism",
+    "Peroxisome proliferator-activated receptor-y",
+    "Waist hip ratio",
+    "Body fat percentage",
+    "Waist hip ratio adjusted for body mass index",
+    "Dual energy x-ray absorptiometry",
+    "Waist circumference",
+    "Waist circumference adjusted for body mass index",
+    "Hip circumference",
+    "Hip circumference adjusted for body mass index",
+    "C reactive protein",
+    "High-density lipoprotein",
+    "Triglycerides",
+    "Fasting glucose",
+    "Cardiovascular disease",
+    "Coronary heart disease",
+    "Interleukin",
+    "Chronic kidney disease",
+    "Non-alcoholic fatty liver disease",
+    "Tumour necrosis factor-alpha",
+    "Polycystic ovary syndrome",
+    "Randomised control trial",
+    "Mass spectrometry",
+    "Nuclear magnetic resonance",
+    "Instrumental variable",
+    "Linkage disequilibrium",
+    "Genome-wide association study",
+    "Strengthening the Reporting of Observational Studies in Epidemiology using Mendelian Randomization",
+    "Odds ratio",
+    "Standard deviation",
+    "Standard error",
+    "Confidence interval",
+    "Apolipoprotein"
+    
            )) %>%
   
   arrange(Term) # i.e. alphabetical order by Term
 
-x <- knitr::kable(
-  (x), longtable = T, booktabs = T, linesep = "",
-  row.names = F, col.names = c("", ""))
+knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F, digits = 2,
+    row.names = F,
+    col.names = c("Abbreviation","Term")) %>%
+  kable_styling(latex_options = c("striped", "HOLD_position", "repeat_header"), position = "center") %>%
+  column_spec(2, width = "30em")
 
-x
 ```
 

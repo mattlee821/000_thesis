@@ -40,7 +40,7 @@ options(tinytex.verbose = TRUE)
 
 # 
 
-The Appendix is split into sections (A.1, A.2...) corresponding to each chapter. All tables and figures presented here are also available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data) within each chapters respective folder. Where tables are too big to be presented in the Appendix (i.e. SNP lists) they are referenced and a GitHub link is provided. \par
+All tables and figures presented here are also available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data) within each chapters respective folder. \par
 
 \newpage
 ## Chapter 1: Introduction {#appendix-introduction}
@@ -179,7 +179,7 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
 ```
 
 ```{r appendix-SR-table-quality-assessment-results, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
-data <- read.csv("../../005_systematic_review/analysis/meta_analysis/results/quality_assessment_results.csv", header = T)
+data <- read.csv("../../005_systematic_review/analysis/quality_assessment/quality_assessment_results.csv", header = T)
 data <- data[,c(3:18)]
 data <- data[order(data$year, data$author),]
 knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
@@ -229,8 +229,8 @@ knitr::kable(data, longtable = T, booktabs = T, format = "markdown", escape = T,
 \elandscape
 
 ## Chapter 4: Observational {#appendix-observational}
-### Validation of impedance in children
-The calculated BF resulted in negative BF estimates for some children (Figure \@ref(fig:appendix-observational-figure-BF-validation-distribution)). However, the calculated BF was positively correlated with weight, height and BMI in children. In adolescents, the calculated BF did not produce negative estimates and was positively correlated with impedance and DXA derived BF estimates (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)), as well as with weight, height, and BMI (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation)). Child calculated BF positively correlated with adolescent measures of BF (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)). \par
+### Methods
+In Children, a measure for BF was not available. Instead, impedance values were used to calculate estimates of BF using equation \@ref(eq:BF). The calculated BF resulted in negative BF estimates for some children (Figure \@ref(fig:appendix-observational-figure-BF-validation-distribution)). However, the calculated BF was positively correlated with weight, height and BMI in children. In adolescents, the calculated BF did not produce negative estimates and was positively correlated with impedance and DXA derived BF estimates (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)), as well as with weight, height, and BMI (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation)). Child calculated BF positively correlated with adolescent measures of BF (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)). \par
 
 Given that equation \@ref(eq:BF) was derived using adult data and the volumetric difference between adults and children (i.e., BMI cubed rather than BMI squared may be more appropriate in children[@Stergiakouli2014]), differences in the range of estimates is unsurprising. There is however strong correlation between calculated BF and impedance derived and DXA derived estimates of BF in adolescents. Given that in a linear model the estimate is based on the per-unit increase, the absolute value of the exposure therefore does not need to be positive. As such, BF calculated using equation \@ref(eq:BF) was used in subsequent analyses as a measure of BF in children. \par 
 
@@ -266,7 +266,8 @@ knitr::include_graphics("data/observational/figures/bf_validation_correlation_ch
 knitr::include_graphics("data/observational/figures/bf_validation_correlation_adolescents.pdf")
 ```
 
-### Correlations {#appendix-observational-correlations} 
+### Results
+#### Correlations {#appendix-observational-correlations} 
 Due to the large number of tests performed, concordance between models, exposures, and age groups were investigated using Spearman's correlations.
 
 ```{r echo=FALSE, warning=FALSE, error=FALSE}
@@ -459,7 +460,7 @@ bf_m1_cor
 
 \newpage
 
-### Figures 
+#### Figures 
 
 (ref:observational-figure-adiposity-distribution-cap) **Distribution of adiposity measures across all age groups**. Raincloud plots give the distribution of all adiposity measures across age groups by sex. Body fat percentage (BF) in children is derived from equation \@ref(eq:BF). BMI = body mass index; WHR = waist hip ratio. Data is presented for all individuals given in Table \@ref(tab:observational-table-ALSPAC-adiposity). The interquartile range and median are also shown. Raincloud plots produced using the `RainCloudPlots` `R` package[@Allen2019].
 
@@ -530,7 +531,7 @@ knitr::include_graphics("data/observational/figures/circosplot_supplement_adults
 ## Chapter 5: MR {#appendix-MR}
 
 ### Methods
-#### Exposure instruments
+#### Exposure instruments {#appendix-MR-exposures}
 In the main analysis BMI, WHR, and BF were instrumented using SNPs from Yengo et al. (2018)[@Yengo2018], Pulit et al. (2019)[@Pulit2019], and Lu et al. (206)[@Lu2016] respectively. Additional instrument lists were obtained for each of the adiposity measures. A list of all instruments used is available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/tables/exposure_SNPs.txt). \par
 
 ```{r appendix-MR-table-exposures, echo=FALSE}

@@ -1,0 +1,19 @@
+---
+output: 
+    thesisdown::thesis_pdf: default
+bibliography: bib/thesis.bib
+csl: csl/nature.csl
+space_betwee_paragraphs: true
+fig_caption: true
+always_allow_html: yes
+link-citations: true
+toc-depth: 1
+lot: true
+lof: true
+editor_options: 
+  chunk_output_type: console
+---
+
+All of the work in Chapter \@ref(introduction), \@ref(observational), and \@ref(MR) was performed by myself. In Chapter \@ref(systematic-review), work was conducted in collaboration with Luke A McGuinness, Charlie Hatcher, Nancy McBride, Thomas Battram, Si Fang, Wenxin Wan, and Kaitlin H Wade. All contributed to data extraction. I also performed data extraction and, in collaboration with Charlie Hatcher, checked all extracted data for all included studies. I performed all analyses in Chapter \@ref(systematic-review). In Chapter \@ref(visualisation), work was conducted in collaboration with Osama Mahmoud and Luke A McGuinness. The original project was started by Osama Mahmoud under the supervision of Nicholas Timpson. I worked with Osama to develop the code that would form the original draft of the visualisation tool. I took over the project and remade the base code for the `R` package and `Shiny` application. Luke McGuinness helped with aspects of the `Shiny` application. The following colleagues provided feedback in the development of `EpiViz`: Caroline Bull, Charlie Hatcher, Kurt Taylor, Nancy Mcbride, Neil Goulding, Steph Suddell. Work from Chapter \@ref(visualisation) is presented in Bos et al. (2020)[@Bos2021]. In Chapter \@ref(mediation), all of the work was performed by myself. Vanessa Tan previously performed a two-sample MR of metabolites on endometrial cancer and Caroline Bull previously performed a multivariable MR analysis to understand the intermediary role of metabolites in the relationship between BMI and colorectal cancer, both shared their scripts with me which I used for reference in my analyses. Eleanor Sanderson provided helpful guidance and feedback on the interpretation of multivariable MR results in Chapter \@ref(mediation). \par
+
+Work in this thesis would not have been possible without the grateful contribution of all the families who took part in ALSPAC, the midwives for their help in recruiting them, and the whole ALSPAC team, which includes interviewers, computer and laboratory technicians, clerical workers, research scientists, volunteers, managers, receptionists and nurses. Thanks to: Adam Butterowtrh for letting me use summary statistics from INTERVAL (which should be publicly available anyway), Carolina for UK Biobank summary statistics, and Emma Anderson for diet trajectory data in ALSPAC. \par

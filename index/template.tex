@@ -9,6 +9,7 @@
 
 \documentclass[11pt,twoside]{bristolthesis}
 
+% Unicode characters that dont work
 \DeclareUnicodeCharacter{2212}{-}
 
 
@@ -24,6 +25,13 @@
 \usepackage{xcolor}
 \usepackage[hyphens]{url}
 \usepackage{hyperref}
+\usepackage{lmodern}
+\usepackage{rotating}
+\usepackage{float}
+\usepackage{lscape}
+\usepackage{afterpage}
+
+%% Package specific settings
 \hypersetup{%
   colorlinks=true,% hyperlinks will be coloured
   linkcolor=red,
@@ -35,27 +43,25 @@
   urlcolor=magenta
 }
 
-\usepackage{lmodern}
-\usepackage{rotating}
-\usepackage{times} % other fonts are available like times, bookman, charter, palatino
-
-\usepackage{afterpage}
 \newcommand\blankpage{%
     \null
     \thispagestyle{empty}%
     \addtocounter{page}{-1}%
     \newpage}
     
-\usepackage{float}
 \floatplacement{figure}{H}
 
-\usepackage{lscape}
 \newcommand{\blandscape}{\begin{landscape}}
 \newcommand{\elandscape}{\end{landscape}}
 \newcommand{\bsmall}{\begin{small}}
 \newcommand{\esmall}{\end{small}}
 % \usepackage{chemarr} %% Useful for one reaction arrow, useless if you're not a chem major
-% \usepackage{times} % other fonts are available like times, bookman, charter, palatino
+
+% Font
+\renewcommand*\familydefault{\sfdefault} 
+\usepackage[scaled]{helvet}
+\renewcommand\familydefault{\sfdefault} 
+\usepackage[T1]{fontenc}
 
 %% Paramaters for global document
 \renewcommand{\UrlBreaks}{\do\/\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X\do\Y\do\Z\do\0\do\1\do\2\do\3\do\4\do\5\do\6\do\7\do\8\do\9\do\%\do\.\do\-}
@@ -129,6 +135,10 @@ $abstract$
 $publications$
 }
 
+\Contributions{
+$contributions$
+}
+
 \Abbreviations{
 $abbreviations$
 }
@@ -168,7 +178,6 @@ $if(title)$
   \maketitle
 $endif$
 
-%%% frontmatter 
 \frontmatter % this stuff will be roman-numbered
 \pagestyle{empty} % this removes page numbers from the frontmatter
 \begingroup
@@ -184,6 +193,11 @@ $if(acknowledgements)$
   \begin{acknowledgements}
     $acknowledgements$
   \end{acknowledgements}
+$endif$
+$if(contributions)$
+  \begin{contributions}
+    $contributions$
+  \end{contributions}
 $endif$
 $if(publications)$
   \begin{publications}
@@ -217,18 +231,13 @@ $if(abbreviations)$
   \end{abbreviations}
 $endif$
 
+
 \spacing{1.5}
 \endgroup
 \setboolean{@twoside}{true} % Move back to two-sided mode
 \mainmatter % here the regular arabic numbering starts
 \pagestyle{plain}
 $body$
-
-$if(abbreviations)$
-  \begin{abbreviations}
-    $abbreviations$
-  \end{abbreviations}
-$endif$
 
 \end{document}
 

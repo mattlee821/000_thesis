@@ -1,7 +1,7 @@
 ---
 author: 'Matthew A Lee'
-date: 'August 2021'
-title: 'What lies behind the causal impact of body mass index (BMI) level and change on human health? Added value from complementary study design and deep metabolomic phenotyping.'
+date: 'November 2021'
+title: 'What lies behind the causal impact of body mass index and change on human health? Added value from complementary study design and deep metabolomic phenotyping.'
 university: 'University of Bristol'
 faculty: 'Health Sciences'
 school: 'Bristol Medical School'
@@ -13,7 +13,7 @@ bibliography: bib/thesis.bib
 csl: csl/nature.csl
 knit: "bookdown::render_book"
 site: "bookdown::bookdown_site"
-toc-depth: 2
+toc-depth: 1
 lot: true
 lof: true
 space_betwee_paragraphs: true
@@ -38,6 +38,10 @@ abstract: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-abstract.Rmd"), collapse = '\n  ')`
 acknowledgements: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-acknowledgements.Rmd"), collapse = '\n  ')`
+publications: |
+  `r if(knitr:::is_latex_output()) paste(readLines("00-publications.Rmd"), collapse = '\n  ')`
+contributions: |
+  `r if(knitr:::is_latex_output()) paste(readLines("00-contributions.Rmd"), collapse = '\n  ')`
 declaration: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-declaration.Rmd"), collapse = '\n  ')`
 editor_options: 

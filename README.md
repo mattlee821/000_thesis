@@ -1,4 +1,9 @@
 
+<style>
+body {
+text-align: justify}
+</style>
+
 # PhD thesis in Population Health Science
 
 ## What lies behind the causal impact of body mass index and change on human health? Added value from complementary study design and deep metabolomic phenotyping
@@ -80,7 +85,8 @@ and overall mortality. Studies have suggested that metabolites may play
 a role in these relationships. Within this thesis, I aimed to identify
 whether metabolites play an intermediary role in the relationship
 between adiposity and diseases using a variety of resources and methods
-to strengthen causal inference.
+to strengthen causal inference. <br>
+
 In a comprehensive systematic review and meta-analysis, the causal
 effects of adiposity were observed across a broad spectrum of diseases.
 Meta-analyses highlighted an increasing effect of adiposity on many
@@ -89,7 +95,8 @@ cardiovascular traits such as blood pressure. Evidence from a narrative
 synthesis of over 2,000 MR analyses supported results from the
 meta-analyses and many findings from the observational literature. There
 was evidence from the narrative synthesis that many metabolites,
-predominantly lipids, are associated with adiposity.
+predominantly lipids, are associated with adiposity. <br>
+
 Within the Avon Longitudinal Study of Parents and Children (ALSPAC),
 evidence for an effect of body mass index (BMI), waist hip ratio (WHR),
 and body fat percentage (BF) on up-to 230 predominantly lipid based
@@ -98,7 +105,8 @@ of adiposity. In these linear models, the effect of adiposity persisted
 after adjustment for age, sex, education, smoking status, alcohol
 consumption, diet, and physical activity. In addition, not only did
 effects persist across multiple time points (\~9, \~18, \~24, \~50 years
-old), but the effect size tended to increase with age.
+old), but the effect size tended to increase with age. <br>
+
 Observational studies are limited by the potential for unmeasured
 confounding and reverse causation. In two independent datasets,
 Mendelian randomization (MR), which can overcome limitations in
@@ -115,7 +123,8 @@ in MR analyses and were taken forward. For BMI and WHR, meta-analysis
 across the two datasets identified 46 and 48 metabolites respectively.
 These metabolites had consistent directions of effect in observational
 analysis of adults. A total of 56 unique metabolites were taken forward
-for investigation with adiposity-associated diseases.
+for investigation with adiposity-associated diseases. <br>
+
 Endometrial cancer, identified in the systematic review and
 meta-analysis as associated with adiposity, was selected to investigate
 the potential intermediary role of metabolites. MR analyses provided

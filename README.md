@@ -1,8 +1,5 @@
 
-<style>
-body {
-text-align: justify}
-</style>
+<div style="text-align: justify">
 
 # PhD thesis in Population Health Science
 
@@ -155,3 +152,5 @@ file is used to compile the individual `.Rmd` files alongside
 [`index.Rmd`](https://github.com/mattlee821/000_thesis/blob/master/index/index.Rmd).
 
 ### Change log
+
+</div>

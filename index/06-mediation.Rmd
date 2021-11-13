@@ -54,7 +54,7 @@ body {
 text-align: justify}
 </style>
 
-### Chapter summary {-}
+## Chapter summary {-}
 This Chapter pulls together information from previous Chapters to investigate the effects of adiposity associated metabolites on endometrial cancer. In Chapter \@ref(systematic-review), a systematic review and meta-analysis showed that adiposity was likely causally implicated in 13 diseases as well as other traits including systolic blood pressure and fasting glucose. Of these, endometrial cancer, with which body mass index (BMI) was most strongly related (OR = 1.57; 95% CI = 1.11 -- 2.22; p-value = 0.01), was selected for further investigation in this Chapter. Here, two-sample Mendelian randomization (MR) was used to estimate the association between adiposity (BMI, waist-hip ratio (WHR), and body fat percentage (BF)) and endometrial cancer. Next, two-sample MR was performed to estimate the effect of adiposity-related metabolites, identified in Chapter \@ref(MR), and endometrial cancer. To understand whether metabolites, with evidence of association on endometrial cancer, play an intermediary role in the relationship between adiposity and endometrial cancer, multivariable MR was performed. \par
 
 \newpage
@@ -205,7 +205,7 @@ An IVW MVMR model was used to obtain the direct causal effect of each adiposity 
 ## Results
 For this section, results are presented first for the two-sample MR analyses of the effect of adiposity on endometrial cancer, the effect of adiposity on metabolites in UK Biobank, and the effect of those metabolites for which there was evidence for a causal effect of adiposity (consistent across analyses conducted in Chapter \@ref(MR) and UK Biobank here) and endometrial cancer. Finally, results from the two-sample MVMR analyses unpicking the potential intermediary role of these metabolites in the relationship between adiposity and endometrial cancer are presented. \par
 
-### Two-Sample Mendelian randomization: effect of adiposity measures on endometrial cancer
+### Two-sample Mendelian randomization: effect of adiposity measures on endometrial cancer
 ```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 # data 
 data <- read.table("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/001_MR_results.txt", header = T, sep = "\t")
@@ -288,9 +288,9 @@ freq_one_SNP <- subset(freq_SNP, count == 1)
 ```
 Two-sample MR analysis was used to investigate the causal effect of `r nrow(n_metabolites)` metabolites (i.e., 41, 46, and 8 metabolites driven by BMI, WHR, and BF, respectively) on endometrial cancer. A total of 7 and 5 metabolites were only found to be associated with WHR and BF respectively. Two metabolites were found to be associated with BMI and BF and 38 metabolites were associated with BMI and WHR. One metabolite, valine, was associated with all three measures. Instruments for metabolites were obtained from an unpublished GWAS of 249 circulating metabolites performed in UK Biobank (Borges, unpublished). Using a genome wide p-value threshold of 5x10^-8^ and an LD R^2^ clumping threshold for SNPs within a 10,000 base window, to ensure independance of SNPs, identified `r nrow(SNPS)` total associations with 53 metabolites (unique number of SNPs = `r nrow(n_SNPS)`; minimum number of SNPs associated with a metabolite = `r min(table(SNPS$exposure))`, maximum number of SNPs associated with a metabolite = `r max(table(SNPS$exposure))`; Figure \@ref(fig:mediation-figure-metabolites-snp-distribution)). The greater the number of SNPs associated with a trait, the larger the variance explained by those SNPs and thus the power afforded by that instrument in an MR analysis. Of the `r nrow(n_SNPS)` unique SNPs identified, `r round(nrow(freq_one_SNP)/nrow(freq_SNP)*100,0)`% of SNPs were associated with just one metabolite each (Figure \@ref(fig:mediation-figure-metabolites-snp-numbers)). The remaining `r 100-round(nrow(freq_one_SNP)/nrow(freq_SNP)*100,0)`% of SNPs were associated with 2 or more metabolites, with one SNP (rs12154627) associated with `r max(freq_SNP$count)` metabolites. \par
 
-(ref:mediation-figure-metabolites-snp-distribution-cap) **Distribution of the number of SNPs individual metabolites were associated with**. A total of `r nrow(n_SNPS)` unique SNPs were identified across 53 metabolites. The number of SNPs associated with each metabolite varied between `r min(table(SNPS$exposure))` and `r max(table(SNPS$exposure))` with a mean of `r round(mean(table(SNPS$exposure)))`. Bin size = 10.
+(ref:mediation-figure-metabolites-snp-distribution-cap) **Number of SNPs associated with individual metabolites**. A total of `r nrow(n_SNPS)` unique SNPs were identified across 53 metabolites. The number of SNPs associated with each metabolite varied between `r min(table(SNPS$exposure))` and `r max(table(SNPS$exposure))` with a mean of `r round(mean(table(SNPS$exposure)))`. Bin size = 10.
 
-(ref:mediation-figure-metabolites-snp-distribution-scap) Distribution of the number of SNPs individual metabolites were associated with
+(ref:mediation-figure-metabolites-snp-distribution-scap) Number of SNPs associated with individual metabolites
 
 ```{r mediation-figure-metabolites-snp-distribution, echo=FALSE, out.width='100%', fig.cap='(ref:mediation-figure-metabolites-snp-distribution-cap)', fig.scap='(ref:mediation-figure-metabolites-snp-distribution-scap)'}
 data <- SNPS %>% 
@@ -307,9 +307,9 @@ ggplot(data,
   theme_cowplot()
 ```
 
-(ref:mediation-figure-metabolites-snp-numbers-cap) **Distribution of the number of metabolites individual SNPs were associated with**. The majority of the `r nrow(n_SNPS)` identified SNPs were associated with 1 metabolite. One SNP was associated with 33 out of a total 53 metabolites. Bin size = 1.
+(ref:mediation-figure-metabolites-snp-numbers-cap) **Number of metabolites individual SNPs are associated with**. The majority of the `r nrow(n_SNPS)` identified SNPs were associated with 1 metabolite. One SNP was associated with 33 out of a total 53 metabolites. Bin size = 1.
 
-(ref:mediation-figure-metabolites-snp-numbers-scap) Distribution of the number of metabolites individual SNPs were associated with
+(ref:mediation-figure-metabolites-snp-numbers-scap) Number of metabolites individual SNPs are associated with
 
 ```{r mediation-figure-metabolites-snp-numbers, echo=FALSE, out.width='100%', fig.cap='(ref:mediation-figure-metabolites-snp-numbers-cap)', fig.scap='(ref:mediation-figure-metabolites-snp-numbers-scap)'}
 ggplot(freq_SNP, 

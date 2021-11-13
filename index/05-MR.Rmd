@@ -169,7 +169,7 @@ The chi-squared statistic will follow a chi-squared distribution with $2k$  degr
 Given a null hypothesis for $i$, the p-value $p_i$ follows a uniform distribution on the interval [0,1]. The negative natural logarithm of a uniformly distributed value follows an exponential distribution. Scaling a value that follows an exponential distribution by a factor of two yields a quantity that follows a chi-squared distribution with two degrees of freedom. Finally, the sum of $k$ independent chi-squared values, each with two degrees of freedom, follows a chi-squared distribution with $2k$ degrees of freedom. \par
 -->
 
-### Comparison of two-sample Mendelian randomization and observational results from Chapter \@ref(systematic-review)
+### Comparison of two-sample Mendelian randomization and observational results from Chapter \@ref(observational)
 Metabolites included in the meta-analysis, which showed consistent directions of effect across the Kettunen and INTERVAL data and which reached a Bonferroni corrected meta-analysis p-value threshold, were compared with observational results from Chapter \@ref(observational). Direction of effect in the meta-analysis was compared with direction of effect in the observational analysis to triangulate evidence, where consistency across methods improved confidence in causal effects. \par
 
 ## Results {#MR-results}
@@ -1015,19 +1015,19 @@ data <- read.table("../../002_adiposity_metabolites/analysis/step1/BF_Lu_7/singl
 bf_high_kettunen <- subset(data, median_b >= quantile(abs(data$median_b), probs = 0.95)[[1]])
 bf_low_kettunen <- subset(data, median_b <= quantile(abs(data$median_b), probs = 0.05)[[1]])
 ```
-In single SNP MR using Kettunen data, visual inspection of forest plots showed $S$ shaped distributions of effect estimates for all tests (Schematic representative Figure \@ref(fig:MR-figure-kettunen-singlesnp-representative-figure)). Effect estimates for some SNPs in the single SNP MR analysis appeared to be outliers. For example, for BMI on glycoproteins, rs4673553 showed a disproportionately larger effect estimate of 22 SD units increase per normalised SD higher BMI (Figure \@ref(fig:MR-figure-kettunen-singlesnp-outlier); standard error = 0.85; p-value = 5.66 x 10^-148^) when compared to other SNPs. \par
+In single SNP MR using Kettunen data, visual inspection of forest plots showed $S$ shaped distributions of effect estimates for all tests (Schematic illustration \@ref(fig:MR-figure-kettunen-singlesnp-representative-figure)). Effect estimates for some SNPs in the single SNP MR analysis appeared to be outliers. For example, for BMI on glycoproteins, rs4673553 showed a disproportionately larger effect estimate of 22 SD units increase per normalised SD higher BMI (Figure \@ref(fig:MR-figure-kettunen-singlesnp-outlier); standard error = 0.85; p-value = 5.66 x 10^-148^) when compared to other SNPs. \par
 
-(ref:MR-figure-kettunen-singlesnp-representative-figure-cap) **Schematic representative figure: Single-SNP MR analysis of the effect of adiposity on a metabolite**. In single-SNP MR analysis, the effect of each SNP on the outcome is investigated. In these analyses, SNP effects are organised from largest to smallest. Here, the figure shows an $S$ shaped distribution of effects which is representative of the single-SNP MR analyses performed for Kettunen and INTERVAL data.
+(ref:MR-figure-kettunen-singlesnp-representative-figure-cap) **Schematic illustration: Single-SNP MR analysis of the effect of adiposity on a metabolite**. In single-SNP MR analysis, the effect of each SNP on the outcome is investigated. In these analyses, SNP effects are organised from largest to smallest. Here, the figure shows an $S$ shaped distribution of effects which is representative of the single-SNP MR analyses performed for Kettunen and INTERVAL data.
 
-(ref:MR-figure-kettunen-singlesnp-representative-figure-scap) Schematic representative figure: Single-SNP MR analysis of the effect of adiposity on a metabolite
+(ref:MR-figure-kettunen-singlesnp-representative-figure-scap) Schematic illustration: Single-SNP MR analysis of the effect of adiposity on a metabolite
 
 ```{r MR-figure-kettunen-singlesnp-representative-figure, echo=FALSE, out.width='50%', fig.align='center',  fig.cap='(ref:MR-figure-kettunen-singlesnp-representative-figure-cap)', fig.scap='(ref:MR-figure-kettunen-singlesnp-representative-figure-scap)'}
 knitr::include_graphics("data/MR/figures/schemeatic_single_snp.pdf")
 ```
 
-(ref:MR-figure-kettunen-singlesnp-outlier-cap) **Schematic representative figure: Single-SNP MR analysis of the effect of adiposity on a metabolite**. In single-SNP MR analysis, the effect of each SNP on the outcome is investigated. In these analyses, SNP effects are organised from largest to smallest. Here, the figure shows an $S$ shaped distribution of effects which is representative of the single-SNP MR analyses performed for Kettunen and INTERVAL data. In addition, a single SNP is shown to have a much larger effect than the others.
+(ref:MR-figure-kettunen-singlesnp-outlier-cap) **Schematic illustration: Single-SNP MR analysis of the effect of adiposity on a metabolite**. In single-SNP MR analysis, the effect of each SNP on the outcome is investigated. In these analyses, SNP effects are organised from largest to smallest. Here, the figure shows an $S$ shaped distribution of effects which is representative of the single-SNP MR analyses performed for Kettunen and INTERVAL data. In addition, a single SNP is shown to have a much larger effect than the others.
 
-(ref:MR-figure-kettunen-singlesnp-outlier-scap) Schematic representative figure: Leave-one-out MR analysis of the effect of adiposity on a metabolite
+(ref:MR-figure-kettunen-singlesnp-outlier-scap) Schematic illustration: Leave-one-out MR analysis of the effect of adiposity on a metabolite
 
 ```{r MR-figure-kettunen-singlesnp-outlier, echo=FALSE, out.width='50%', fig.align='center', fig.cap='(ref:MR-figure-kettunen-singlesnp-outlier-cap)', fig.scap='(ref:MR-figure-kettunen-singlesnp-outlier-scap)'}
 knitr::include_graphics("data/MR/figures/schemeatic_loo.pdf")
@@ -1317,7 +1317,7 @@ knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F,
   kableExtra::footnote(general = "", threeparttable = T, general_title = "", footnote_as_chunk = T)
 ```
 
-### Comparison of two-sample Mendelian randomization and observational results from Chapter \@ref(systematic-review)
+### Comparison of two-sample Mendelian randomization and observational results from Chapter \@ref(observational)
 ```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 # meta-analysis associated metabolites 
 data <- read.table("../../006_interval_metabolites/data/meta_analysis_p_results.txt", header = T, sep = "\t")

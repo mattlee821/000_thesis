@@ -51,7 +51,7 @@ load("index/data/introduction/melodi_data.RData")
 ```
 
 #### Literature search {-}
-Manual literature searching is prone to bias. Literature mining tools, though susceptible to publication and other biases, provide an alternative approach enabling a large number of articles to be assessed in a semi-systematic way. MELODI[@Elsworth2018], a literature mining tool, was used to identify intermediate diseases between BMI and mortality. \par
+Manual literature searching is prone to bias. Literature mining tools, though susceptible to publication and other biases, provide an alternative approach enabling a large number of articles to be assessed in a semi-systematic way. MELODI (Mining Enriched Literature Objects to Derive Intermediates)[@Elsworth2018], a literature mining tool, was used to identify intermediate diseases between BMI and mortality. \par
 
 Briefly, MELODI creates individual article sets based on search terms ('body mass index' and 'mortality') and looks for enriched overlapping terms. MELODI uses PubMed and SemMedDB to identify enriched terms. PubMed is a data base of health and biomedical research literature, and SemMedDB is a semantic predications repository built from PubMed citations. Identifying enriched overlapping terms is a two-step process. First, overlapping terms are identified. Second, the degree of overlap given the observed and expected frequency of terms across all articles not just those included in the article sets is quantified. \par
 
@@ -65,7 +65,7 @@ It should be noted that the search did not include articles prior to the year 20
 data <- MELODI_final_table
 data <- data[order(data$Category),]
 knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
-    caption = 'MELDOI analysis: intermediates between "body mass index" and "mortality"', 
+    caption = 'Mining enriched literature objects to derive intermediates for "body mass index" and "mortality"', 
     row.names = F,
     col.names = c("Intermediate", "Category")) %>%
   kable_styling(full_width = F, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center") %>%
@@ -76,7 +76,7 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
 
 \newpage
 
-## Chapter 2: Systematic Review {#appendix-SR}
+## Chapter 2: Systematic review: What has the application of Mendelian randomization told us about the causal relevance of adiposity and health outcomes? {#appendix-SR}
 
 ```{r appendix-SR-table-rob, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 data <- data.frame(title = c("Weak instrument bias",
@@ -228,7 +228,7 @@ knitr::kable(data, longtable = T, booktabs = T, format = "markdown", escape = T,
 ```
 \elandscape
 
-## Chapter 4: Observational {#appendix-observational}
+## Chapter 4: Associations between multiple measures of adiposity and metabolites: observational analysis {#appendix-observational}
 ### Methods
 In Children, a measure for BF was not available. Instead, impedance values were used to calculate estimates of BF using equation \@ref(eq:BF). The calculated BF resulted in negative BF estimates for some children (Figure \@ref(fig:appendix-observational-figure-BF-validation-distribution)). However, the calculated BF was positively correlated with weight, height and BMI in children. In adolescents, the calculated BF did not produce negative estimates and was positively correlated with impedance and DXA derived BF estimates (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)), as well as with weight, height, and BMI (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation)). Child calculated BF positively correlated with adolescent measures of BF (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)). \par
 
@@ -480,7 +480,7 @@ knitr::include_graphics("data/observational/figures/plot_histogram_adiposity_mea
 
 \blandscape
 ```{r appendix-observational-figure-forestplot-main, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-observational-figure-forestplot-main-cap)', fig.scap='(ref:appendix-observational-figure-forestplot-main-scap)'}
-knitr::include_graphics("data/observational/Supplement/forestplot_main.pdf")
+knitr::include_graphics("data/observational/appendix/forestplot_main.pdf")
 ```
 \elandscape
 
@@ -490,7 +490,7 @@ knitr::include_graphics("data/observational/Supplement/forestplot_main.pdf")
 
 \blandscape
 ```{r appendix-observational-figure-forestplot-derived, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-observational-figure-forestplot-derived-cap)', fig.scap='(ref:appendix-observational-figure-forestplot-derived-scap)'}
-knitr::include_graphics("data/observational/Supplement/forestplot_supplement.pdf")
+knitr::include_graphics("data/observational/appendix/forestplot_supplement.pdf")
 ```
 \elandscape
 
@@ -529,7 +529,7 @@ knitr::include_graphics("data/observational/figures/circosplot_supplement_young_
 knitr::include_graphics("data/observational/figures/circosplot_supplement_adults.pdf")
 ```
 
-## Chapter 5: MR {#appendix-MR}
+## Chapter 5: Associations between multiple measures of adiposity and metabolites: Mendelian randomization analysis {#appendix-MR}
 
 ### Methods
 #### Exposure instruments {#appendix-MR-exposures}
@@ -686,9 +686,9 @@ knitr::include_graphics("data/MR/figures/funnelplot_BMI_representative_figure_ke
 
 \newpage
 
-(ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of BF on Acetoacetate from Kettunen et al. (2016)[@Kettunen2016]**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on acetoacetate Effect estimates represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the exposure.
+(ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of BF on acetoacetate from Kettunen et al. (2016)[@Kettunen2016]**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on acetoacetate Effect estimates represent the change in the inverse rank position of each metabolite per change in the inverse rank position of the exposure.
 
-(ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-scap) Representative figure: Leave-one-out MR analysis of BF on Acetoacetate from Kettunen et al. (2016)[@Kettunen2016]
+(ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-scap) Representative figure: Leave-one-out MR analysis of BF on acetoacetate from Kettunen et al. (2016)[@Kettunen2016]
 
 ```{r appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-scap)'}
 knitr::include_graphics("data/MR/figures/leaveoneout_BF_representative_figure_kettunen.pdf")
@@ -696,9 +696,9 @@ knitr::include_graphics("data/MR/figures/leaveoneout_BF_representative_figure_ke
 
 \newpage
 
-(ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of BMI on Acetate from Kettunen et al. (2016)[@Kettunen2016]**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on acetate Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure.
+(ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of BMI on acetate from Kettunen et al. (2016)[@Kettunen2016]**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on acetate Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure.
 
-(ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-scap) Representative figure: Leave-one-out MR analysis of BMI on Acetate from Kettunen et al. (2016)[@Kettunen2016]
+(ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-scap) Representative figure: Leave-one-out MR analysis of BMI on acetate from Kettunen et al. (2016)[@Kettunen2016]
 
 ```{r appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-scap)'}
 knitr::include_graphics("data/MR/figures/leaveoneout_BMI_representative_figure_kettunen.pdf")
@@ -715,7 +715,7 @@ Funnel plots did not highlight outlying SNPs, but did reflect some SNPs having l
 
 (ref:appendix-MR-figure-interval-singlesnp-representative-figure-cap) **Representative figure: Single SNP MR analysis of BMI on glycine from INTERVAL**. Forest plot shows the effect estimate and 95% confidence interval for each individual SNPs effect on glycine. Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure.
 
-(ref:appendix-MR-figure-interval-singlesnp-representative-figure-scap) Single SNP MR analysis of BMI on 123 NMR derived metabolites from Kettunen et al. (2016)[@Kettunen2016]: additional sensitivity analysis - representative figure
+(ref:appendix-MR-figure-interval-singlesnp-representative-figure-scap) Representative figure: Single SNP MR analysis of BMI on glycine from INTERVAL
 
 ```{r appendix-MR-figure-interval-singlesnp-representative-figure, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-singlesnp-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-interval-singlesnp-representative-figure-scap)'}
 knitr::include_graphics("data/MR/figures/singlesnp_representative_figure_interval.pdf")
@@ -733,9 +733,9 @@ knitr::include_graphics("data/MR/figures/funnelplot_BMI_representative_figure_in
 
 \newpage
 
-(ref:appendix-MR-figure-interval-leaveoneout-BF-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of BF on Acetoacetate from Kettunen et al. (2016)[@Kettunen2016]**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on acetoacetate Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure.
+(ref:appendix-MR-figure-interval-leaveoneout-BF-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of BF on acetoacetate from Kettunen et al. (2016)[@Kettunen2016]**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on acetoacetate Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure.
 
-(ref:appendix-MR-figure-interval-leaveoneout-BF-representative-figure-scap) Representative figure: Leave-one-out MR analysis of BF on Acetoacetate from Kettunen et al. (2016)[@Kettunen2016]
+(ref:appendix-MR-figure-interval-leaveoneout-BF-representative-figure-scap) Representative figure: Leave-one-out MR analysis of BF on acetoacetate from Kettunen et al. (2016)[@Kettunen2016]
 
 ```{r appendix-MR-figure-interval-leaveoneout-BF-representative-figure, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-leaveoneout-BF-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-interval-leaveoneout-BF-representative-figure-scap)'}
 knitr::include_graphics("data/MR/figures/leaveoneout_BF_representative_figure_interval.pdf")
@@ -743,9 +743,9 @@ knitr::include_graphics("data/MR/figures/leaveoneout_BF_representative_figure_in
 
 \newpage
 
-(ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of BMI on Glycine from INTERVAL**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on glycine Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure.
+(ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of BMI on glycine from INTERVAL**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on glycine Effect estimates represent the change in the inverse rank position of each log transformed metabolite per change in the inverse rank position of the exposure.
 
-(ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-scap) Representative figure: Leave-one-out MR analysis of BMI on Glycine from INTERVAL
+(ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-scap) Representative figure: Leave-one-out MR analysis of BMI on glycine from INTERVAL
 
 ```{r appendix-MR-figure-interval-leaveoneout-BMI-representative-figure, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-scap)'}
 knitr::include_graphics("data/MR/figures/leaveoneout_BMI_representative_figure_interval.pdf")
@@ -859,7 +859,7 @@ knitr::include_graphics("data/MR/figures/circosplot_interval_additional_BMI.pdf"
 \newpage
 
 
-## Chapter 6: Mediation {#appendix-mediation}
+## Chapter 6: Associations between adiposity associated metabolites and endometrial cancer: Mendelian randomization analysis {#appendix-mediation}
 
 ### Methods
 ```{r appendix-mediation-table-metabolites, echo=FALSE}
@@ -888,33 +888,33 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/figures/forestplot.pdf")
 ```
 
-(ref:appendix-mediation-figure-representative-scatter-adiposity-endometrial-cap) **Representativ figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**. 
+(ref:appendix-mediation-figure-representative-scatter-adiposity-endometrial-cap) **Representative figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**. 
 
-(ref:appendix-mediation-figure-representative-scatter-adiposity-endometrial-scap) Representativ figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer
+(ref:appendix-mediation-figure-representative-scatter-adiposity-endometrial-scap) Representative figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer
 
 ```{r appendix-mediation-figure-representative-scatter-adiposity-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-scatter-adiposity-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-scatter-adiposity-endometrial-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/figures/representative_plot_mr_scatter.png")
 ```
 
-(ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-cap) **Representativ figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**. 
+(ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-cap) **Representative figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**. 
 
-(ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-scap) Representativ figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer
+(ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-scap) Representative figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer
 
 ```{r appendix-mediation-figure-representative-funnel-adiposity-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/figures/representative_plot_mr_funnel.png")
 ```
 
-(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-endometrial-cap) **Representativ figure: Leave one out plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**.
+(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-endometrial-cap) **Representative figure: Leave-one-out plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**.
 
-(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-endometrial-scap) Representativ figure: Leave one out plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer
+(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-endometrial-scap) Representative figure: Leave-one-out plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer
 
 ```{r appendix-mediation-figure-representative-leaveoneout-adiposity-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-endometrial-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/figures/representative_plot_leaveoneout_forest.png")
 ```
 
-(ref:appendix-mediation-figure-representative-singlesnp-adiposity-endometrial-cap) **Representativ figure: Single SNP plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**. 
+(ref:appendix-mediation-figure-representative-singlesnp-adiposity-endometrial-cap) **Representative figure: Single SNP plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer**. 
 
-(ref:appendix-mediation-figure-representative-singlesnp-adiposity-endometrial-scap) Representativ figure: Single SNP plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer
+(ref:appendix-mediation-figure-representative-singlesnp-adiposity-endometrial-scap) Representative figure: Single SNP plot of MR effect estimates from two-sample MR of adiposity on endometrial cancer
 
 ```{r appendix-mediation-figure-representative-singlesnp-adiposity-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-singlesnp-adiposity-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-singlesnp-adiposity-endometrial-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/figures/representative_plot_singlesnp_forest.png")
@@ -930,33 +930,33 @@ knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_e
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_metabolite/figures/forestplot.pdf")
 ```
 
-(ref:appendix-mediation-figure-representative-scatter-adiposity-metabolites-cap) **Representativ figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on metabolites**. 
+(ref:appendix-mediation-figure-representative-scatter-adiposity-metabolites-cap) **Representative figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on metabolites**. 
 
-(ref:appendix-mediation-figure-representative-scatter-adiposity-metabolites-scap) Representativ figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on metabolites
+(ref:appendix-mediation-figure-representative-scatter-adiposity-metabolites-scap) Representative figure: Scatter plot of MR effect estimates from two-sample MR of adiposity on metabolites
 
 ```{r appendix-mediation-figure-representative-scatter-adiposity-metabolites, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-scatter-adiposity-metabolites-cap)', fig.scap='(ref:appendix-mediation-figure-representative-scatter-adiposity-metabolites-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_metabolite/figures/representative_plot_mr_scatter.png")
 ```
 
-(ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-cap) **Representativ figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on metabolites**. 
+(ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-cap) **Representative figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on metabolites**. 
 
-(ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-scap) Representativ figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on metabolites
+(ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-scap) Representative figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on metabolites
 
 ```{r appendix-mediation-figure-representative-funnel-adiposity-metabolites, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-cap)', fig.scap='(ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_metabolite/figures/representative_plot_mr_funnel.png")
 ```
 
-(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-metabolites-cap) **Representativ figure: Leave one out plot of MR effect estimates from two-sample MR of adiposity on metabolites**.
+(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-metabolites-cap) **Representative figure: Leave-one-out plot of MR effect estimates from two-sample MR of adiposity on metabolites**.
 
-(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-metabolites-scap) Representativ figure: Leave one out plot of MR effect estimates from two-sample MR of adiposity on metabolites
+(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-metabolites-scap) Representative figure: Leave-one-out plot of MR effect estimates from two-sample MR of adiposity on metabolites
 
 ```{r appendix-mediation-figure-representative-leaveoneout-adiposity-metabolites, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-metabolites-cap)', fig.scap='(ref:appendix-mediation-figure-representative-leaveoneout-adiposity-metabolites-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_metabolite/figures/representative_plot_leaveoneout_forest.png")
 ```
 
-(ref:appendix-mediation-figure-representative-singlesnp-adiposity-metabolites-cap) **Representativ figure: Single SNP plot of MR effect estimates from two-sample MR of adiposity on metabolites**. 
+(ref:appendix-mediation-figure-representative-singlesnp-adiposity-metabolites-cap) **Representative figure: Single SNP plot of MR effect estimates from two-sample MR of adiposity on metabolites**. 
 
-(ref:appendix-mediation-figure-representative-singlesnp-adiposity-metabolites-scap) Representativ figure: Single SNP plot of MR effect estimates from two-sample MR of adiposity on metabolites
+(ref:appendix-mediation-figure-representative-singlesnp-adiposity-metabolites-scap) Representative figure: Single SNP plot of MR effect estimates from two-sample MR of adiposity on metabolites
 
 ```{r appendix-mediation-figure-representative-singlesnp-adiposity-metabolites, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-singlesnp-adiposity-metabolites-cap)', fig.scap='(ref:appendix-mediation-figure-representative-singlesnp-adiposity-metabolites-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_metabolite/figures/representative_plot_singlesnp_forest.png")
@@ -967,33 +967,33 @@ knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_m
 
 
 #### Two Sample MR: metabolites-endometrial cancer
-(ref:appendix-mediation-figure-representative-scatter-metabolites-endometrial-cap) **Representativ figure: Scatter plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer**. 
+(ref:appendix-mediation-figure-representative-scatter-metabolites-endometrial-cap) **Representative figure: Scatter plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer**. 
 
-(ref:appendix-mediation-figure-representative-scatter-metabolites-endometrial-scap) Representativ figure: Scatter plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
+(ref:appendix-mediation-figure-representative-scatter-metabolites-endometrial-scap) Representative figure: Scatter plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
 
 ```{r appendix-mediation-figure-representative-scatter-metabolites-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-scatter-metabolites-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-scatter-metabolites-endometrial-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/figures/representative_plot_mr_scatter.png")
 ```
 
-(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-cap) **Representativ figure: Funnel plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer**. 
+(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-cap) **Representative figure: Funnel plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer**. 
 
-(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-scap) Representativ figure: Funnel plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
+(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-scap) Representative figure: Funnel plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
 
 ```{r appendix-mediation-figure-representative-funnel-metabolites-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/figures/representative_plot_mr_funnel.png")
 ```
 
-(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-cap) **Representativ figure: Leave one out plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer**.
+(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-cap) **Representative figure: Leave-one-out plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer**.
 
-(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-scap) Representativ figure: Leave one out plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
+(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-scap) Representative figure: Leave-one-out plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
 
 ```{r appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/figures/representative_plot_leaveoneout_forest.png")
 ```
 
-(ref:appendix-mediation-figure-representative-singlesnp-metabolites-endometrial-cap) **Representativ figure: Single SNP plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer**. 
+(ref:appendix-mediation-figure-representative-singlesnp-metabolites-endometrial-cap) **Representative figure: Single SNP plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer**. 
 
-(ref:appendix-mediation-figure-representative-singlesnp-metabolites-endometrial-scap) Representativ figure: Single SNP plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
+(ref:appendix-mediation-figure-representative-singlesnp-metabolites-endometrial-scap) Representative figure: Single SNP plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
 
 ```{r appendix-mediation-figure-representative-singlesnp-metabolites-endometrial, echo=FALSE, out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-singlesnp-metabolites-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-singlesnp-metabolites-endometrial-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/figures/representative_plot_singlesnp_forest.png")

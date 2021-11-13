@@ -41,7 +41,7 @@ options(tinytex.verbose = TRUE)
 load("../005_systematic_review/analysis/data_extraction.RData")
 ```
 
-# Systematic review: What has the application of Mendelian randomization informed us about the causal relevance of adiposity and health outcomes? {#systematic-review}
+# Systematic review: What has the application of Mendelian randomization told us about the causal relevance of adiposity and health outcomes? {#systematic-review}
 
 <style>
 body {
@@ -113,7 +113,7 @@ Following this and considerations in the [Cochrane handbook](https://training.co
 (ref:SR-figure-meta-analysis-flowchart-scap) Inclusion criteria for meta-analysis: flowchart
 
 ```{r SR-figure-meta-analysis-flowchart, echo=FALSE, out.width='50%', fig.cap='(ref:SR-figure-meta-analysis-flowchart-cap)', fig.scap='(ref:SR-figure-meta-analysis-flowchart-scap)'}
-knitr::include_graphics("data/SR/figures/meta_analysis_flowchart.png")
+knitr::include_graphics("data/SR/figures/meta_analysis_flowchart.pdf")
 ```
 
 ### Narrative synthesis

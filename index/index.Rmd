@@ -1,11 +1,11 @@
 ---
 author: 'Matthew A Lee'
 date: 'November 2021'
-title: 'What lies behind the causal impact of body mass index and change on human health? Added value from complementary study design and deep metabolomic phenotyping.'
+title: 'What lies behind the causal impact of body mass index level and change on human health? Added value from complementary study design and deep metabolomic phenotyping.'
 university: 'University of Bristol'
 faculty: 'Health Sciences'
 school: 'Bristol Medical School'
-group: 'MRC Integrative Epidemiology Unit, Population Health Sciences'
+group: 'Population Health Sciences'
 degree: 'PhD Population Health Sciences'
 logo: data/index/figures/UoBcrest.pdf
 wordcount: '9999999'
@@ -38,8 +38,6 @@ abstract: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-abstract.Rmd"), collapse = '\n  ')`
 acknowledgements: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-acknowledgements.Rmd"), collapse = '\n  ')`
-COVID: |
-  `r if(knitr:::is_latex_output()) paste(readLines("00-covid-statement.Rmd"), collapse = '\n  ')`
 publications: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-publications.Rmd"), collapse = '\n  ')`
 contributions: |

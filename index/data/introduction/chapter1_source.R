@@ -89,14 +89,14 @@ dag <- dagify(Y ~ X,
               coords = coords)
 mr_dag <- ggdag(dag, text = TRUE, edge_type = "link_arc", stylized = FALSE)
 
-pdf("index/data/introduction/figures/mrdag1.pdf")
+pdf("index/data/introduction/figures/mrdag1.pdf", height = 4, width = 4)
 mr_dag
 dev.off()
 
 ## mr dag 2
 # set coordinates
 coords <- tibble::tribble(~name, ~x, ~y,
-                          "Z", 0, 0,
+                          "Z1", 0, 0,
                           "X", 1, 0,
                           "M", 3, 0,
                           "U", 2, 1,
@@ -108,7 +108,7 @@ coords <- tibble::tribble(~name, ~x, ~y,
 
 # make dag ====
 dag <- dagify(Y ~ X,
-              X ~ Z,
+              X ~ Z1,
               X ~ U,
               M ~ U,
               Y ~ U,
@@ -117,29 +117,39 @@ dag <- dagify(Y ~ X,
               coords = coords)
 mr_dag2 <- ggdag(dag, text = TRUE, edge_type = "link_arc",stylized = FALSE)
 
-pdf("index/data/introduction/figures/mrdag2.pdf")
+pdf("index/data/introduction/figures/mrdag2.pdf", height = 4, width = 4)
 mr_dag2
 dev.off()
 
 ## mr dag 3
 # set coordinates
 coords <- tibble::tribble(~name, ~x, ~y,
-                          "Z", 0, 0,
-                          "X", 1, 1,
-                          "X2", 1, -1,
-                          "Y", 2, 0
-)
-
+                          "Z1", 0,0,
+                          "Z2", 0,-0.5,
+                          "Zn", 0,-1,
+                          "X1", 1,0,
+                          "X2", 1,-1,
+                          "Y", 2,0,
+                          "U", 1.5,1)
 # make dag ====
-dag <- dagify(X ~ Z,
-              X2 ~ Z,
-              Y ~ X,
+dag <- dagify(X1 ~ Z1,
+              X2 ~ Z1,
+              X1 ~ Z2,
+              X2 ~ Z2,
+              X1 ~ Zn,
+              X2 ~ Zn,
+              X2 ~ X1,
+              Y ~ X1,
               Y ~ X2,
-              X ~~ X2,
+              X1 ~U, 
+              X2 ~ U,
+              Y ~ U,
               coords = coords)
-mr_dag3 <- ggdag(dag, text = TRUE, edge_type = "link_arc",stylized = FALSE)
+mr_dag3 <- ggdag(dag, text = TRUE, edge_type = "link_arc", stylized = FALSE)
 
-pdf("index/data/introduction/figures/mrdag3.pdf")
+
+
+pdf("index/data/introduction/figures/mrdag3.pdf", height = 4, width = 4)
 mr_dag3
 dev.off()
 

@@ -1,33 +1,65 @@
----
-output: 
-    thesisdown::thesis_pdf: default
-bibliography: bib/thesis.bib
-csl: csl/nature.csl
-space_betwee_paragraphs: true
-fig_caption: true
-always_allow_html: yes
-link-citations: true
-toc-depth: 2
-lot: true
-lof: true
-indent: true
-header-includes: # include other LaTeX packages here
-    \usepackage{booktabs}
-    \usepackage{longtable}
-    \usepackage{siunitx}
-    \usepackage[left]{lineno}
-    \usepackage{float}
-    \floatplacement{figure}{H}
-    \linenumbers
-    \pagestyle{plain}
-    \raggedbottom 
-    \usepackage{indentfirst}
-editor_options: 
-  chunk_output_type: console
----
+\begin{longtable}{l>{\raggedright\arraybackslash}p{30em}}
+\toprule
+Abbreviation & Term\\
+\midrule
+\endfirsthead
+\multicolumn{2}{@{}l}{\textit{(continued)}}\\
+\toprule
+Abbreviation & Term\\
+\midrule
+\endhead
 
-# Abbreviations {-}
+\endfoot
+\bottomrule
+\endlastfoot
+\cellcolor{gray!6}{Apo} & \cellcolor{gray!6}{Apolipoprotein}\\
+BF & Body fat percentage\\
+\cellcolor{gray!6}{BMI} & \cellcolor{gray!6}{Body mass index}\\
+CRP & C reactive protein\\
+\cellcolor{gray!6}{CVD} & \cellcolor{gray!6}{Cardiovascular disease}\\
+\addlinespace
+CKD & Chronic kidney disease\\
+\cellcolor{gray!6}{CI} & \cellcolor{gray!6}{Confidence interval}\\
+CHD & Coronary heart disease\\
+\cellcolor{gray!6}{DXA} & \cellcolor{gray!6}{Dual energy x-ray absorptiometry}\\
+FG & Fasting glucose\\
+\addlinespace
+\cellcolor{gray!6}{GWAS} & \cellcolor{gray!6}{Genome-wide association study}\\
+HDL & High-density lipoprotein\\
+\cellcolor{gray!6}{HC} & \cellcolor{gray!6}{Hip circumference}\\
+HCadjBMI & Hip circumference adjusted for body mass index\\
+\cellcolor{gray!6}{IV} & \cellcolor{gray!6}{Instrumental variable}\\
+\addlinespace
+IL & Interleukin\\
+\cellcolor{gray!6}{LD} & \cellcolor{gray!6}{Linkage disequilibrium}\\
+MS & Mass spectrometry\\
+\cellcolor{gray!6}{MR} & \cellcolor{gray!6}{Mendelian randomization}\\
+MVMR & Multivariable Mendelian randomization\\
+\addlinespace
+\cellcolor{gray!6}{NAFLD} & \cellcolor{gray!6}{Non-alcoholic fatty liver disease}\\
+NMR & Nuclear magnetic resonance\\
+\cellcolor{gray!6}{OR} & \cellcolor{gray!6}{Odds ratio}\\
+PPAR-y & Peroxisome proliferator-activated receptor-y\\
+\cellcolor{gray!6}{PCOS} & \cellcolor{gray!6}{Polycystic ovary syndrome}\\
+\addlinespace
+RCT & Randomised controlled trial\\
+\cellcolor{gray!6}{SNP} & \cellcolor{gray!6}{Single nucleotide polymorphism}\\
+SD & Standard deviation\\
+\cellcolor{gray!6}{SE} & \cellcolor{gray!6}{Standard error}\\
+STROBE-MR & Strengthening the Reporting of Observational Studies in Epidemiology using Mendelian Randomization\\
+\addlinespace
+\cellcolor{gray!6}{TG} & \cellcolor{gray!6}{Triglycerides}\\
+TNF-alpha & Tumour necrosis factor-alpha\\
+\cellcolor{gray!6}{WC} & \cellcolor{gray!6}{Waist circumference}\\
+WCadjBMI & Waist circumference adjusted for body mass index\\
+\cellcolor{gray!6}{WHR} & \cellcolor{gray!6}{Waist hip ratio}\\
+\addlinespace
+WHRadjBMI & Waist hip ratio adjusted for body mass index\\*
+\end{longtable}
 
+
+
+<!--
 ```{r abbreviations, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(knitr)
@@ -125,4 +157,4 @@ knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F, d
   column_spec(2, width = "30em")
 
 ```
-
+-->

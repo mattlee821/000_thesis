@@ -14,19 +14,29 @@ editor_options:
   chunk_output_type: console
 ---
 
-### Peer-reviews or pre-print articles relevant to the work conducted in this thesis {-}
-Bos, M.M., Goulding, N.J., **Lee, M.A.** et al. Investigating the relationships between unfavourable habitual sleep and metabolomic traits: evidence from multi-cohort multivariable regression and Mendelian randomization analyses. [BMC Med 19, 69, 2021](https://doi.org/10.1186/s12916-021-01939-0). *This paper is a use case for the `EpiViz` `R` package and is referenced in Chapter \@ref(visualisation).* 
+#### Peer-reviews or pre-print articles relevant to the work conducted in this thesis {-}
 
+\noindent 
+Bos, M.M., Goulding, N.J., **Lee, M.A.** et al. Investigating the relationships between unfavourable habitual sleep and metabolomic traits: evidence from multi-cohort multivariable regression and Mendelian randomization analyses. [BMC Med 19, 69, 2021](https://doi.org/10.1186/s12916-021-01939-0). *This paper is a use case for the `EpiViz` `R` package presented in Chapter \@ref(visualisation).* 
+
+\noindent 
 David A Hughes, Kurt Taylor, Nancy McBride, **Matthew A Lee**, Dan Mason, Deborah A Lawlor, Nicholas J Timpson, Laura J Corbin. *metaboprep*:  an `R` package for pre-analysis data description and processing. bioRxiv 2021.07.07.451488; doi: [https://doi.org/10.1101/2021.07.07.451488](https://www.biorxiv.org/content/10.1101/2021.07.07.451488v1). *Currently under review at bioinformatics. The `R` package discussed in this pre-print was used in Chapter \@ref(observational) to process metabolomics data.*
 
+\noindent 
 **Matthew A Lee** and Luke A McGuinness. A systematic review of Mendelian randomization studies using adiposity as an exposure. PROSPERO 2018 CRD42018096684 Available from: [PROSPERO](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42018096684). *This is the pre-registration protocol for the systematic review and meta-analyses presented in Chapter \@ref(systematic-review).*
 
-### Additional peer-reviewed articles published during my PhD {-}
+#### Additional peer-reviewed articles published during my PhD {-}
+
+\noindent 
 **Matthew A Lee**, George McMahon, Ville Karhunen, Kaitlin H Wade, Laura J Corbin, David A Hughes, George Davey Smith, Debbie A Lawlor, Marjo-Riitta Jarvelin, Nicholas J Timpson, Common variation at 16p11.2 is associated with glycosuria in pregnancy: findings from a genome-wide association study in European women, [Human Molecular Genetics, Volume 29, Issue 12, 15 June 2020, Pages 2098–2106](https://doi.org/10.1093/hmg/ddaa054).
 
+\noindent 
 Linda M. O’Keeffe, Joshua A. Bell, Kate N. O’Neill, **Matthew A Lee**, Mark Woodward, Sanne Peters, George Davey Smith, Patricia M. Kearney, Sex-specific associations of adiposity with cardiometabolic traits: multi-life-stage cohort study with repeat metabolomics, [medRxiv, 2020](https://doi.org/10.1101/2020.11.30.20240895). *This paper is referenced within the thesis.*
 
-### Resources produced during this thesis {-}
+#### Resources produced during this thesis {-}
+
+\noindent 
 `metaboprep`:  an `R` package for pre-analysis data description and processing, 2020, [github.com/MRCIEU/metaboprep](https://github.com/MRCIEU/metaboprep).
 
+\noindent 
 `EpiViz`: an implementation of Circos plots for epidemiologists, 2020, [github.com/mattlee821/EpiViz](https://github.com/mattlee821/EpiViz)

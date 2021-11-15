@@ -3,7 +3,6 @@ chapter_name: "Chapter "
 delete_merged_file: true
 
 rmd_files: ["index.Rmd",
-            "00-abbreviations.Rmd",
             "01-introduction.Rmd", 
             "02-systematic_review.Rmd", 
             "03-visualisation.Rmd",
@@ -11,7 +10,6 @@ rmd_files: ["index.Rmd",
             "05-MR.Rmd", 
             "06-mediation.Rmd", 
             "07-discussion.Rmd", 
-            "08-conclusion.Rmd", 
             "98-appendix.Rmd", 
             "99-references.Rmd"]
 

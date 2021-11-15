@@ -37,10 +37,13 @@ library(tidyverse)
 options(tinytex.verbose = TRUE)
 ```
 
-
 # 
 
 All tables and figures presented here are also available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data) within each chapters respective folder. \par
+
+#### Acknowledgements {-}
+Work in this thesis would not have been possible without the contribution of all the families who took part in ALSPAC, the midwives for their help in recruiting them, and the whole ALSPAC team, which includes interviewers, computer and laboratory technicians, clerical workers, research scientists, volunteers, managers, receptionists and nurses. Thanks to: Adam Butterowtrh (Univeristy of Cambridge) for letting me use summary statistics from INTERVAL, Carolina Borges (University of Bristol) for UK Biobank nuclear magnetic resonance genome-wide association study summary statistics, and Emma Anderson (University of Bristol) for diet trajectory data in ALSPAC. \par
+
 
 \newpage
 ## Chapter 1: Introduction {#appendix-introduction}

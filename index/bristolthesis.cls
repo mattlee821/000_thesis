@@ -1,75 +1,10 @@
-%
 % University of Bristol thesis templats
-% Date: 08/11/2019
+% Date: 15/11/2021
 % Author: Matthew Lee, matthew.lee@bristol.ac.uk
 %
-% This template is adapted from thesidown and similar university specific adaptations
+% This template is adapted from thesidown: https://github.com/ismayc/thesisdown
+% Bristol Uni thesis regulations: http://www.bristol.ac.uk/academic-quality/pg/pgrcode/annex4/
 %
-%
-% Bristol Uni thesis regulations: http://www.bris.ac.uk/esu/pg/pgrcop11-12topic.pdf#page=49
-% Format of dissertations for research degrees:
-%
-% Preliminary pages:
-% The five preliminary pages must be single sided and as follows:
-% 1. Title Page
-% 2. Abstract
-% 3. Dedication and Acknowledgements
-% 4. Author's Declaration
-% 5. Table of Contents
-%
-% 1. Title Page
-% a) At the top should be the title (if necessary the sub-title and volume number). If thesis in another language give the original language title followed by the English language title
-% b) The full name of the author should be in the centre of the page
-% c) At the bottom centre should be the words "“A dissertation submitted to the University of Bristol in accordance with the requirements for award of the degree of...in the Faculty of...”
-% d) the name of the school and month and year of submission should follow below this declaration
-% e) the word count (text) should be entered at the bottom right of the page
-%
-% 2. Abstract
-% a) One side of A4
-% b) single spaced
-% c) font size 10-12
-% e) if theiss in different language to english give it in original and english
-%
-% 3. Dedication and Acknowledgments
-% The uni provides no information on the content of this section
-%
-% 4. Author's Declaration
-% I declare that the work in this dissertation was carried out in accordance with the requirements of the University's Regulations and Code of Practice for Research Degree Programmes and that it has not been submitted for any other academic award. Except where indicated by specific reference in the text, the work is the candidate's own work. Work done in collaboration with, or with the assistance of, others, is indicated as such. Any views expressed in the dissertation are those of the author.
-% SIGNED: ............................................................. DATE:..........................
-%
-% 5. Table of Contents
-% a) must list (with page numebrs):
-%   (i) all chapters
-%   (ii) all sections
-%   (iii) all subsections
-%   (iv) references
-%   (v) bibliography
-%   (vi) list of abbreviations
-%   (vii) appendices
-%
-% 6. Table of Tables and Table of Figures
-% a) this should follow the ToC
-% b) must inclde the page numbers
-%
-%
-% Other formalitis
-% 1. A4
-% 2. Double sided (except for the 5 pages above)
-% 3. Text should be 2 or 1.5 line spaced
-% 4. Font size should be chosen to ensure clarity and legibility for the main text and for any quotes and footnotes
-% - my interpretation of this is that we will go with 11 for font size just because
-% 5. Margins should allow for eventual hard binding
-%  - my interpretation of this is ? so i asked print services who do the printing and they said "Thank you for your message. For binding purposes, a margin of 20mm is fine."
-%
-%
-% Thats it for guidance from the university. This file will (hopefully) conform to this and wont be rejected!
-%
-%
-%
-%
-%
-%
-
 
 %%% Probably best to leave this bit as is
 \NeedsTeXFormat{LaTeX2e}
@@ -151,24 +86,16 @@
 \AtBeginDocument{%
   \fancyhf{}
   \fancyhead[LE,RO]{\thepage}
-%  \fancyhead[RE]{\slshape \leftmark}
-%  \fancyhead[LO]{\slshape \rightmark}
-%	The above makes your headers in all caps. If you would like different headers, choose one of the following options (be sure to remove the % symbol from both the right and left headers):
-	 \fancyhead[RE]{\slshape \nouppercase \leftmark} % This makes the headers on the RIGHT side pages be italic and use lowercase With Capitals When Specified.
+	 \fancyhead[RE]{\slshape \nouppercase \leftmark} % This makes the headers on the RIGHT side pages be italic and use lowercase With Capitals When Specified. I dont think this works.
 	\fancyhead[LO]{\slshape \nouppercase \rightmark} % This does the same thing to the LEFT side pages
-%	or
-%	\fancyhead[RE]{\scshape \leftmark} % The RIGHT headers will be in small caps.
-%	\fancyhead[LO]{\scshape \rightmark} %  And so will the LEFT headers
   \pagestyle{fancy}
 
-% Psych majors: You do not need the following six lines, as it conflicts with apacite, so comment them out.
   \let\oldthebibliography=\thebibliography
   \let\endoldthebibliography=\endthebibliography
   \renewenvironment{thebibliography}[1]{
     \oldthebibliography{#1}
     \addcontentsline{toc}{chapter}{\bibname}
   }{\endoldthebibliography}
- %%%%%% end of things for psych majors to comment out
 
   \let\oldtheindex=\theindex
   \let\endoldtheindex=\endtheindex
@@ -187,7 +114,6 @@
 		    \@afterindentfalse
 		    \secdef\@chapter\@schapter}
 
-% Stolen from book.cls PBC 5/12/05
 % Using this to actually show "Chapter 1" in TOC instead of "1"
 \def\@chapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
                        \if@mainmatter
@@ -313,17 +239,6 @@
     \@restonecolfalse
   \fi
   \chapter*{Acknowledgements}
-  \fontsize{12}{14}\selectfont
-}{\clearpage \if@restonecol\twocolumn\fi}%
-
-%% COVID statement
-\newenvironment{COVID}{%
-  \if@twocolumn
-    \@restonecoltrue\onecolumn
-  \else
-    \@restonecolfalse
-  \fi
-  \chapter*{COVID-19 Statement}
   \fontsize{12}{14}\selectfont
 }{\clearpage \if@restonecol\twocolumn\fi}%
 

@@ -22,18 +22,16 @@ always_allow_html: yes
 link-citations: true
 indent: true
 header-includes: # include other LaTeX packages here
-    \usepackage{booktabs}
-    \usepackage{longtable}
-    \usepackage{siunitx}
     \usepackage[left]{lineno}
     \usepackage{float}
     \floatplacement{figure}{H}
     \linenumbers
-    \pagestyle{plain}
     \raggedbottom 
-    \usepackage{indentfirst}
 output: 
-    thesisdown::thesis_pdf: default
+    thesisdown::thesis_pdf: 
+      toc: true
+      toc-depth: 1
+      latex_enging: pdflatex
 abstract: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-abstract.Rmd"), collapse = '\n  ')`
 acknowledgements: |
@@ -44,6 +42,8 @@ contributions: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-contributions.Rmd"), collapse = '\n  ')`
 declaration: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-declaration.Rmd"), collapse = '\n  ')`
+abbreviations: |
+  `r if(knitr:::is_latex_output()) paste(readLines("00-abbreviations.Rmd"), collapse = '\n  ')`
 editor_options: 
   chunk_output_type: console
 ---
@@ -53,4 +53,3 @@ doc.type <- knitr::opts_knit$get('rmarkdown.pandoc.to')
 setwd(Sys.getenv("main"))
 source("index/data/index/packages.R")
 ```
-

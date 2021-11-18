@@ -318,11 +318,11 @@ dev.off()
 
 # directional consistency: results/wurtz ====
 # plot
-wurtz <- read.table("index/data/observational/wurtz_estimates_comparison.txt", header = T, sep ="\t")
+wurtz <- read.table("index/data/observational/tables/wurtz_estimates_comparison.txt", header = T, sep ="\t")
 metabolites <- wurtz$metabolite
 data <- read.table("index/data/observational/data/analysis/results/combined/combined.txt", header = T, sep ="\t")
 data <- subset(data, model == "model2")
-metabolite_class <- unique(data[,c(1,10)])
+metabolite_class <- unique(data[,c(1,8,10)])
 data <- data[,c(1,3,14,15)]
 data$label <- paste(data$group, data$exposure, sep = " ")
 data <- data[data$metabolite %in% metabolites, ]
@@ -360,7 +360,7 @@ adults_bf <- subset(adults, exposure == "bf")
 adults_bf <- adults_bf[,c(1,2,5)]
 
 # wurtz format
-wurtz <- read.table("index/data/observational/wurtz_estimates_comparison.txt", header = T, sep ="\t")
+wurtz <- read.table("index/data/observational/tables/wurtz_estimates_comparison.txt", header = T, sep ="\t")
 wurtz <- subset(wurtz, method == "Obs")
 wurtz <- wurtz[,c(1,3,7)]
 wurtz$exposure <- "Wurtz bmi"
@@ -385,7 +385,7 @@ plot_data$subclass <- factor(plot_data$subclass, levels = c("Amino acids", "Arom
                                                             "Glycerides and phospholipids", "Glycolysis related metabolites",
                                                             "Fluid balance", "Inflammation", "Ketone bodies"))
 
-p1 <- ggplot(plot_data, aes(label, metabolite)) +
+p1 <- ggplot(plot_data, aes(label, raw.label)) +
   geom_tile(aes(fill = b), color = "white") +
   scale_fill_gradient(low=discrete_wes_pal[16], high=discrete_wes_pal[18], na.value = "white",) +
   theme_cowplot() +
@@ -401,4 +401,4 @@ p1 <- ggplot(plot_data, aes(label, metabolite)) +
     facets = ~subclass,
     scales = "free_y",
     space = "free")
-ggsave("index/data/observational/figures/wurtz_comparison.pdf",p1, width=5, height=10, units="in", scale=1)
+ggsave("index/data/observational/figures/wurtz_comparison.pdf",p1, width=10, height=12, units="in", scale=1)

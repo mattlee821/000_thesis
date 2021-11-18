@@ -9,10 +9,11 @@ library(MetaboQC)
 
 # source
 source("index/data/index/colour_palette.R")
+source("index/data/observational/scripts/my_forestplot.R")
 data(ng_anno)
 
 # data ====
-data <- read.table("index/data/chapter4/data/analysis/results/combined/combined.txt", header = T, sep = "\t")
+data <- read.table("index/data/observational/data/analysis/results/combined/combined.txt", header = T, sep = "\t", stringsAsFactors = T)
 data <- subset(data, subclass != "NA")
 
 # reorder classes
@@ -36,7 +37,116 @@ levels(data$exposure) <- c("BF", "BMI", "WHR")
 data$exposure <- factor(data$exposure, levels(data$exposure)[c(2,3,1)])
 levels(data$group) <- c("Adolescents", "Adults", "Children", "Young adults")
 data$group <- factor(data$group, levels(data$group)[c(3,1,4,2)])
+levels(data$model) <- c("Model 1", "Model 2", "Model 3")
+data$model <- factor(data$model, levels(data$model)[c(3,2,1)])
 
+# all plot ====
+plot_data <- data
+
+psignif <- 1
+ci <- 0.95
+xmin <- min(data$lower_ci)
+xmax <- max(data$upper_ci)
+
+## children
+plot_data1 <- subset(plot_data, group == "Children")
+p1 <- my_forestplot(
+  df = plot_data1,
+  name = raw.label,
+  estimate = b,
+  pvalue = p,
+  psignif = psignif,
+  ci = ci,
+  xlab = "linear regression of z-score",
+  colour = exposure,
+  shape = model) +
+  scale_color_manual(values = c(discrete_wes_pal[[16]],discrete_wes_pal[[14]],discrete_wes_pal[[18]])) +
+  ggforce::facet_col(
+    facets = ~subclass,
+    scales = "free",
+    space = "free"
+  ) + 
+  theme(legend.position = "bottom") +
+  theme(axis.title.x = element_blank())
+pdf("index/data/observational/appendix/forestplot_main_children.pdf",
+    width = 20, height = 100)
+p1
+dev.off()
+
+## adolescents
+plot_data1 <- subset(plot_data, group == "Adolescents")
+p1 <- my_forestplot(
+  df = plot_data1,
+  name = raw.label,
+  estimate = b,
+  pvalue = p,
+  psignif = psignif,
+  ci = ci,
+  xlab = "linear regression of z-score",
+  colour = exposure,
+  shape = model) +
+  scale_color_manual(values = c(discrete_wes_pal[[16]],discrete_wes_pal[[14]],discrete_wes_pal[[18]])) +
+  ggforce::facet_col(
+    facets = ~subclass,
+    scales = "free",
+    space = "free"
+  ) + 
+  theme(legend.position = "bottom") +
+  theme(axis.title.x = element_blank())
+pdf("index/data/observational/appendix/forestplot_main_adolescents.pdf",
+    width = 20, height = 100)
+p1
+dev.off()
+
+## young adults
+plot_data1 <- subset(plot_data, group == "Young adults")
+p1 <- my_forestplot(
+  df = plot_data1,
+  name = raw.label,
+  estimate = b,
+  pvalue = p,
+  psignif = psignif,
+  ci = ci,
+  xlab = "linear regression of z-score",
+  colour = exposure,
+  shape = model) +
+  scale_color_manual(values = c(discrete_wes_pal[[16]],discrete_wes_pal[[14]],discrete_wes_pal[[18]])) +
+  ggforce::facet_col(
+    facets = ~subclass,
+    scales = "free",
+    space = "free"
+  ) + 
+  theme(legend.position = "bottom") +
+  theme(axis.title.x = element_blank())
+pdf("index/data/observational/appendix/forestplot_main_young_adults.pdf",
+    width = 20, height = 100)
+p1
+dev.off()
+
+## adults
+plot_data1 <- subset(plot_data, group == "Adults")
+p1 <- my_forestplot(
+  df = plot_data1,
+  name = raw.label,
+  estimate = b,
+  pvalue = p,
+  psignif = psignif,
+  ci = ci,
+  xlab = "linear regression of z-score",
+  colour = exposure,
+  shape = model) +
+  scale_color_manual(values = c(discrete_wes_pal[[16]],discrete_wes_pal[[14]],discrete_wes_pal[[18]])) +
+  ggforce::facet_col(
+    facets = ~subclass,
+    scales = "free",
+    space = "free"
+  ) + 
+  theme(legend.position = "bottom") +
+  theme(axis.title.x = element_blank())
+pdf("index/data/observational/appendix/forestplot_main_adults.pdf",
+    width = 20, height = 100)
+p1
+dev.off()
 
 # combined plot ====
 ## main ====
@@ -114,12 +224,12 @@ p3 <- forestplot(
   ) +
   theme(axis.title.x = element_blank())
 
-pdf("index/data/chapter4/Supplement/forestplot_main.pdf",
+pdf("index/data/observational/appendix/forestplot_main.pdf",
     width = 28, height = 14)
 plot_grid(p1,p2,p3, nrow = 1)
 dev.off()
 
-## supplement ====
+## appendix ====
 plot_data <- subset(data, model == "model2")
 a <- subset(plot_data, derived_features == "yes")
 b <- subset(plot_data, subclass == "Fatty acids ratios")
@@ -196,7 +306,7 @@ p3 <- forestplot(
   ) +
   theme(axis.title.x = element_blank())
 
-pdf("index/data/chapter4/Supplement/forestplot_supplement.pdf",
+pdf("index/data/observational/appendix/forestplot_appendix.pdf",
     width = 28, height = 14)
 plot_grid(p1,p2,p3, nrow = 1)
 dev.off()
@@ -211,7 +321,7 @@ dev.off()
 
 
 # Wurtz comparison ====
-wurtz <- read.table("index/data/chapter4/wurtz_estimates_comparison.txt", header = T, sep = "\t")
+wurtz <- read.table("index/data/observational/wurtz_estimates_comparison.txt", header = T, sep = "\t")
 metabolite_list <- wurtz[,1]
 plot_data <- data[data$metabolite %in% metabolite_list, ]
 plot_data <- subset(plot_data, model == "model2")
@@ -273,7 +383,7 @@ p2 <- forestplot(
   ) +
   theme(axis.title.x = element_blank())
 
-pdf("index/data/chapter4/figures/forestplot_wurtz_comparison.pdf",
+pdf("index/data/observational/figures/forestplot_wurtz_comparison.pdf",
     width = 14, height = 12)
 plot_grid(p1,p2, nrow = 1)
 dev.off()
@@ -282,7 +392,7 @@ dev.off()
 
 
 # LDL subclasses ====
-plot_data <- subset(data, model == "model2")
+plot_data <- subset(data, model == "Model 2")
 a <- c("Small LDL","Medium LDL","Large LDL")
 plot_data <- plot_data[plot_data$subclass %in% a,]
 plot_data$subclass <- droplevels(plot_data$subclass)
@@ -292,11 +402,11 @@ xmin <- min(plot_data$lower_ci)
 xmax <- max(plot_data$upper_ci)
 
 # forestplot
-pdf("index/data/chapter4/Supplement/forestplot_subclass_LDL.pdf",
-    width = 8, height = 10)
-forestplot(
+pdf("index/data/observational/figures/forestplot_subclass_LDL.pdf",
+    width = 12, height = 10)
+my_forestplot(
   df = plot_data,
-  name = metabolite,
+  name = raw.label,
   estimate = b,
   pvalue = p,
   psignif = psignif,
@@ -309,7 +419,8 @@ forestplot(
     facets = ~subclass,
     scales = "free",
     space = "free"
-  )
+  ) +
+  theme(legend.title = element_blank())
 dev.off()
 
 

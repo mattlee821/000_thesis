@@ -48,7 +48,7 @@ The exploration, interpretation, display, and communication of analyses which us
 \newpage
 
 ## Introduction
-Large epidemiological analyses, involving potentially hundreds of associations between exposures and outcomes, pose a challenge for the digestion and interpretation of results. Data visualization is key to improving the exploration, interpretation, communication, and display of data[@Tufte1983]. This is particularly relevant for metabolite measures, where looking at a single metabolite may not provide a complete picture given they are highly inter-correlated. That is, a change in one metabolite is unlikely to occur in isolation. In addition, a key aim of this thesis is the use of complimentary assessment of adiposity (discussed in Chapter \@ref(introduction)). The ability therefore to provide overview of metabolic profiles and to compare these across adiposity measures is key to interpreting the effects of adiposity. \par
+Large epidemiological analyses, involving potentially hundreds of associations between exposures and outcomes, pose a challenge for the digestion and interpretation of results. Data visualization is key to improving the exploration, interpretation, communication, and display of data[@Tufte1983]. This is particularly relevant for metabolite measures, where looking at a single metabolite may not provide a complete picture given they are highly inter-correlated. That is, a change in one metabolite is unlikely to occur in isolation. In addition, a key aim of this thesis is the use of complimentary measurements of adiposity (discussed in Chapter \@ref(introduction)). The ability therefore to provide overview of metabolic profiles and to compare these across adiposity measures is key to interpreting the effects of adiposity. \par
 
 Traditionally, forest plots have been used to effectively communicate association analyses and, have been used successfully for analyses involving metabolites[@May-Wilson2017; @Taylor2019; @Soares2019; @SantosFerreira2019; @Hartley2020; @Borges2017]. These studies have however been limited to a relatively small number of associations between exposures and outcomes, and have therefore been unable to present a global picture (profile) of metabolic effects. When dealing with hundreds of variables, forest plots can become cumbersome, requiring many separate plots to be created in order to present all of the analyses. This makes comparison and the ability to gain global overview of large analyses difficult. \par
 
@@ -101,6 +101,8 @@ library(devtools)
 devtools::install_github("mattlee821/EpiViz/R_package")
 library(EpiViz)
 ```
+
+\newpage
 
 Once installed, users can use the example data provided with the package to produce Figure \@ref(fig:epiviz-figure-example-circos1), which illustrates the three different types of track available (point, line, bar), using the following `R` code:
 

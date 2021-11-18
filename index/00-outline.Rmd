@@ -1,0 +1,24 @@
+---
+output: 
+    thesisdown::thesis_pdf: default
+bibliography: bib/thesis.bib
+csl: csl/nature.csl
+space_betwee_paragraphs: true
+fig_caption: true
+always_allow_html: yes
+link-citations: true
+toc-depth: 1
+lot: true
+lof: true
+editor_options: 
+  chunk_output_type: console
+---
+
+This thesis aimed to investigate whether metabolites played an intermediary role in the relationship between adiposity and disease. In Chapter \@ref(introduction), I present an introduction of the literature. In Chapter \@ref(systematic-review), I detail a systematic review and meta-analyses of all Mendelian randomization analyses (MR) which use adiposity measures as an exposure. In Chapter \@ref(visualisation), I present a visualisation tool for summarising large association analyses. In Chapter \@ref(observational), linear regression analyses of the effect of adiposity measures on metabolites in the Avon Longitudinal Study of Parents and Children (ALSPAC) is presented. In Chapter \@ref(MR), MR analyses of the effect of adiposity measures on metabolites using multiple independent datasets, and comparison with results from ALSAPC is presented. In Chapter \@ref(mediation), multivariable MR (MVMR) is used to investigate whether metabolites identified in Chapters 4 and 5 as associated with adiposity are intermediates in the relationship between adiposity and endometrial cancer. In Chapter 7(discussion), I discuss the overarching themes and strengths and limitations of the thesis. \par
+
+Throughout the thesis I reference my GitHub account where all data, scripts, results, tables, and figures used throughout the thesis are available. This is particularly important for the presentation of tables and figures, as many of these were too large to be presented in th thesis document given it is limited to A4 sized paper. The GitHub repository for this thesis is available at the following link: [github.com/mattlee821/000_thesis](https://github.com/mattlee821/000_thesis). A detailed README accompanies the GitHub repository, but briefly, all data, scripts, results, tables, and figures mentioned in the thesis are within the `index/` directory. Within this directory, a PDF copy of the thesis and each individual chapter is available in the `_book/` directory. Within the `data/` directory are the data, scripts, results, tables, and figures for each chapter in their respective directories: Chapter 1 = `introduction/`, Chapter 2 = `SR/`, Chapter 3 = `visualisation/`, Chapter 4 = `observational/`, Chapter 5 = `MR/`, Chapter 6 = `mediation/`. The only data not available on GitHub are the individual level data from ALSPAC used in Chapter 4. \par
+
+
+
+
+

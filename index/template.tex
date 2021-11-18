@@ -26,6 +26,7 @@
 \usepackage{afterpage}
 \usepackage{indentfirst}
 \usepackage{tocloft}
+\usepackage{breakcites}
 
 % Package specific settings
 %% link colours
@@ -37,7 +38,8 @@
   filecolor=cyan,
   menucolor=magenta,
   runcolor=cyan,
-  urlcolor=magenta
+  urlcolor=magenta,
+  breaklinks=true
 }
 
 %% force a blank page - \afterpage{\blankpage}
@@ -135,6 +137,10 @@ $abstract$
 $publications$
 }
 
+\Outline{
+$outline$
+}
+
 \Contributions{
 $contributions$
 }
@@ -205,6 +211,13 @@ $if(declaration)$
   \end{declaration}
 $endif$
 
+$if(outline)$
+  \begin{outline}
+    $outline$
+    \addcontentsline{toc}{chapter}{Outline}
+  \end{outline}
+$endif$
+
 $if(contributions)$
   \begin{contributions}
     $contributions$
@@ -227,24 +240,22 @@ $if(toc)$
   \setcounter{secnumdepth}{$toc-depth$}
   \tableofcontents
   }
-  \afterpage{\blankpage}
 $endif$
 
 $if(lot)$
   \listoftables
   \addcontentsline{toc}{chapter}{List of tables}
-  \afterpage{\blankpage}
 $endif$
 
 $if(lof)$
   \listoffigures
   \addcontentsline{toc}{chapter}{List of figures}
-  \afterpage{\blankpage}
 $endif$
 
 $if(abbreviations)$
   \begin{abbreviations}
     $abbreviations$
+    \afterpage{\blankpage}
     \addcontentsline{toc}{chapter}{List of abbreviations}
   \end{abbreviations}
 $endif$

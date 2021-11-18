@@ -275,6 +275,17 @@
   \fontsize{12}{14}\selectfont
 }{\clearpage \if@restonecol\twocolumn\fi}%
 
+%% Outline
+\newenvironment{outline}{%
+  \if@twocolumn
+    \@restonecoltrue\onecolumn
+  \else
+    \@restonecolfalse
+  \fi
+  \chapter*{Outline}
+  \fontsize{12}{14}\selectfont
+}{\clearpage \if@restonecol\twocolumn\fi}%
+
 %% Contributions
 \newenvironment{contributions}{%
   \if@twocolumn
@@ -295,3 +306,5 @@
 \newcommand{\Contributions}[1]{\def\@Contributions{#1}}
 \newcommand{\Declaration}[1]{\def\@Declaration{#1}}
 \newcommand{\Abbreviations}[1]{\def\@Abbreviations{#1}}
+\newcommand{\Outline}[1]{\def\@Outline{#1}}
+

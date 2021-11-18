@@ -91,9 +91,6 @@ The thesis is split into the following chapters:
     7](https://github.com/mattlee821/000_thesis/blob/master/index/07-discussion.Rmd) -
     Discussion: This chapter draws together all of the work in the
     preceding chapters to discuss the overarching themes of the thesis.
--   [Chapter
-    8](https://github.com/mattlee821/000_thesis/blob/master/index/08-conclusion.Rmd) -
-    Conclusion
 -   [Appendix](https://github.com/mattlee821/000_thesis/blob/master/index/98-appendix.Rmd):
     The appendix is split by each chapter
 -   References: a `.bibtex` file of the reference library is available
@@ -105,71 +102,51 @@ The thesis is split into the following chapters:
 ### Abstract
 
 Increased adipose tissue, adiposity, is associated with many diseases
-and overall mortality. Studies have suggested that metabolites may play
-a role in these relationships. Within this thesis, I aimed to identify
-whether metabolites play an intermediary role in the relationship
-between adiposity and diseases using a variety of resources and methods
-to strengthen causal inference. <br>
+and overall mortality. This thesis aimed to identify whether metabolites
+are intermediates in these associations using a variety of resources and
+methods to strengthen causal inference. <br>
 
-In a comprehensive systematic review and meta-analysis, the causal
-effects of adiposity were observed across a broad spectrum of diseases.
-Meta-analyses highlighted an increasing effect of adiposity on many
-cancers, including endometrial cancer, as well as metabolic and
-cardiovascular traits such as blood pressure. Evidence from a narrative
-synthesis of over 2,000 MR analyses supported results from the
-meta-analyses and many findings from the observational literature. There
-was evidence from the narrative synthesis that many metabolites,
-predominantly lipids, are associated with adiposity. <br>
+In a comprehensive systematic review and meta-analysis (Chapter
+@ref(systematic-review)), the causal effects of adiposity were observed
+across a broad spectrum of diseases, including endometrial cancer which
+was selected for subsequent analysis. These results were supported by a
+narrative synthesis of over 2,000 MR analyses, which also highlighted
+evidence of an association between adiposity and many, predominantly
+lipid, metabolites. <br>
 
 Within the Avon Longitudinal Study of Parents and Children (ALSPAC),
-evidence for an effect of body mass index (BMI), waist hip ratio (WHR),
-and body fat percentage (BF) on up-to 230 predominantly lipid based
-metabolites was found. There was broad consistency across the measures
-of adiposity. In these linear models, the effect of adiposity persisted
-after adjustment for age, sex, education, smoking status, alcohol
-consumption, diet, and physical activity. In addition, not only did
-effects persist across multiple time points (\~9, \~18, \~24, \~50 years
-old), but the effect size tended to increase with age. <br>
+evidence for a consistent effect of body mass index (BMI), waist hip
+ratio (WHR), and body fat percentage (BF) on up-to 230, predominantly
+lipid, metabolites was found (Chapter @ref(observational)). In these
+linear models, the effect of adiposity persisted after adjustment for
+covariates and across multiple time points (\~9, \~18, \~24, \~50 years
+old). <br>
 
-Observational studies are limited by the potential for unmeasured
-confounding and reverse causation. In two independent datasets,
-Mendelian randomization (MR), which can overcome limitations in
-observational analyses, provided further evidence for an effect of BMI
-and WHR on a large number of predominantly lipid based metabolites.
-These effects were consistent in sensitivity analyses. However, the
-effect of BF on metabolites in MR analyses was not clear. Broadly
-speaking, directions of effect were opposite to those for BMI and WHR
-(in observational analyses directions of effect were highly consistent).
-Additional analyses suggested this may be due to the complexity in
-instrumenting BF. Nine metabolites, associated with BF in observational
-analyses of adults (\~50 years old) had consistent direction of effect
-in MR analyses and were taken forward. For BMI and WHR, meta-analysis
-across the two datasets identified 46 and 48 metabolites respectively.
-These metabolites had consistent directions of effect in observational
-analysis of adults. A total of 56 unique metabolites were taken forward
-for investigation with adiposity-associated diseases. <br>
+In two independent datasets, Mendelian randomization (MR), which can
+overcome limitations in observational analyses, provided further
+evidence for an effect of BMI and WHR on up-to 230, predominantly lipid,
+metabolites (Chapter @ref(MR)). These effects were consistent in
+sensitivity analyses. The effect of BF on metabolites was, unlike in
+observational analyses, broadly opposite to the effects of BMI and WHR.
+<br>
 
-Endometrial cancer, identified in the systematic review and
-meta-analysis as associated with adiposity, was selected to investigate
-the potential intermediary role of metabolites. MR analyses provided
-evidence for an increasing effect of BMI and BF on overall endometrial
-and endometrioid cancer. A weaker effect was observed for
-non-endometrioid cancer. WHR was associated with an increase in
-non-endometrioid cancer. Five of the 56 adiposity associated metabolites
-were associated with endometrial cancer in MR analyses, two of which,
-triglycerides in small and very small VLDL, were taken forward for
-multivariable MR (MVMR) analysis. In MVMR, the direct effect of the
-exposure controlling for the intermediate is estimated. When comparing
-MVMR and MR estimates, there was evidence for a potential intermediary
-role of both metabolites on the effect of WHR and BF on non-endometrioid
-cancer. Weak instruments may have biased these results however.
+Evidence from observational and MR analyses identified 56
+adiposity-associated metabolites. Two of these (triglycerides in small
+and very small VLDL) were associated with endometrial cancer in MR
+analysis and selected for intermediate analysis (Chapter
+@ref(mediation)). When comparing multivariable and univariable MR
+estimates, there was evidence for a potential intermediary role of both
+metabolites on the effect of WHR and BF, but not BMI, on
+non-endometrioid cancer. Weak instruments may have biased these results
+however. <br>
+
 ### How
 
 Thesis written in `R Markdown` using
 [bristolthesis](https://github.com/mattlee821/bristolthesis), an altered
 version of [thesisdown](https://github.com/ismayc/thesisdown) that
 complies with the University of Bristol’s regulations. All formatting is
-controlled by the
+controlled by
 [`template.tex`](https://github.com/mattlee821/000_thesis/blob/master/index/template.tex)
 and
 [`bristolthesis.cls`](https://github.com/mattlee821/000_thesis/blob/master/index/bristolthesis.cls).

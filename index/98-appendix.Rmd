@@ -56,11 +56,11 @@ load("index/data/introduction/melodi_data.RData")
 #### Literature search {-}
 Manual literature searching is prone to bias. Literature mining tools, though susceptible to publication and other biases, provide an alternative approach enabling a large number of articles to be assessed in a semi-systematic way. MELODI (Mining Enriched Literature Objects to Derive Intermediates)[@Elsworth2018], a literature mining tool, was used to identify intermediate diseases between BMI and mortality. \par
 
-Briefly, MELODI creates individual article sets based on search terms ('body mass index' and 'mortality') and looks for enriched overlapping terms. MELODI uses PubMed and SemMedDB to identify enriched terms. PubMed is a data base of health and biomedical research literature, and SemMedDB is a semantic predications repository built from PubMed citations. Identifying enriched overlapping terms is a two-step process. First, overlapping terms are identified. Second, the degree of overlap given the observed and expected frequency of terms across all articles not just those included in the article sets is quantified. \par
+Briefly, MELODI creates individual article sets based on search terms ('body mass index' and 'mortality') and looks for enriched overlapping terms. MELODI uses PubMed and SemMedDB to identify enriched terms. PubMed is a data base of health and biomedical research literature, and SemMedDB is a semantic predications repository built from PubMed citations. Identifying enriched overlapping terms is a two-step process. First, overlapping terms are identified. Second, the degree of overlap given the observed and expected frequency of terms across all articles (not just those included in the article sets) is quantified. \par
 
-All articles published from 01/01/2000--09/12/2019 (maximum number of articles per article set is 1,000,000) using the terms 'body mass index' as the source and 'mortality' as the outcome were included. Raw results are available on [GitHub](https://github.com/mattlee821/000_thesis/index/data/chapter1). A total of 187,951 and 787,451 articles were retrieved and included in the source and outcome article sets. Using the SemMedDB Triple results a total of `r nrow(MELODI)` enriched overlapping terms were identified. This included similar terms to 'body mass index' as the source, which were removed (n = `r nrow(MELODI_bmi_clna)`). A Bonferroni corrected p-value (`r signif(0.05/nrow(MELODI_bmi_clna), 2)`) removed `r nrow(MELODI_bmi_clna) - nrow(MELODI_bmi_clna_p)` terms. Terms were filtered for uniqueness (n = `r nrow(MELODI_bmi_clna_p_unique)`) and presence in the following categories: Age Group (n = `r nrow(MELODI_intermediates_unique_aggp)`), Bacterium (included because of confounding with pneumonia; n = `r nrow(MELODI_intermediates_unique_bact)`), finding (not an official MELODI category; n = `r nrow(MELODI_intermediates_unique_finding)`), general (not an official MELODI category; n = `r nrow(MELODI_intermediates_unique_general)`), Fungus (included because of confounding with pneumonia; n = `r nrow(MELODI_intermediates_unique_fngs)`), Health Care Activity (n = `r nrow(MELODI_intermediates_unique_hlca)`), Human (n = `r nrow(MELODI_intermediates_unique_humn)`), Injury or Poisoning (n = `r nrow(MELODI_intermediates_unique_inpo)`), Mammal (animal studies; n = `r nrow(MELODI_intermediates_unique_mamm)`), Patient or Disabled Group (n = `r nrow(MELODI_intermediates_unique_podg)`), Population Group (n = `r nrow(MELODI_intermediates_unique_popg)`), Sign or Symptom (n = `r nrow(MELODI_intermediates_unique_sosy)`), Virus (included because of confounding; n = `r nrow(MELODI_intermediates_unique_virs)`). \par
+All articles published from 01/01/2000--09/12/2019 (maximum number of articles per article set is 1,000,000) using the terms 'body mass index' as the source and 'mortality' as the outcome were included. Raw results are available on [GitHub](https://github.com/mattlee821/000_thesis/index/data/chapter1). A total of 187,951 and 787,451 articles were retrieved and included in the source and outcome article sets. Using the SemMedDB Triple results a total of 10,828 enriched overlapping terms were identified. This included similar terms to 'body mass index' as the source, which were removed (n = `r nrow(MELODI_bmi_clna)`). A Bonferroni corrected p-value (`r signif(0.05/nrow(MELODI_bmi_clna), 2)`) removed `r nrow(MELODI_bmi_clna) - nrow(MELODI_bmi_clna_p)` terms. Terms were filtered for uniqueness (n = `r nrow(MELODI_bmi_clna_p_unique)`) and presence in the following categories: Age Group (n = `r nrow(MELODI_intermediates_unique_aggp)`), Bacterium (included because of confounding with pneumonia; n = `r nrow(MELODI_intermediates_unique_bact)`), finding (not an official MELODI category; n = `r nrow(MELODI_intermediates_unique_finding)`), general (not an official MELODI category; n = `r nrow(MELODI_intermediates_unique_general)`), Fungus (included because of confounding with pneumonia; n = `r nrow(MELODI_intermediates_unique_fngs)`), Health Care Activity (n = `r nrow(MELODI_intermediates_unique_hlca)`), Human (n = `r nrow(MELODI_intermediates_unique_humn)`), Injury or Poisoning (n = `r nrow(MELODI_intermediates_unique_inpo)`), Mammal (animal studies; n = `r nrow(MELODI_intermediates_unique_mamm)`), Patient or Disabled Group (n = `r nrow(MELODI_intermediates_unique_podg)`), Population Group (n = `r nrow(MELODI_intermediates_unique_popg)`), Sign or Symptom (n = `r nrow(MELODI_intermediates_unique_sosy)`), Virus (included because of confounding; n = `r nrow(MELODI_intermediates_unique_virs)`). \par
 
-The following terms were removed and merged into immunocompromised host: infections, hospital and opportunistic infections. The following terms were removed because of duplication under different names: cardiac death, sudden death, and sudden cardiac death (merged into cessation of life); coronary arteriosclerosis (atherosclerosis);  cardiovascular morbidity, cardiac event, heart diseases, vascular diseases (cardiovascular diseases); depressed mood (depressive disorder); diabetes mellitus and insulin-dependent (diabetic); metabolic diseases (metabolic syndrome). The following terms were removed because they were top-level categories that could either include a wide variety of terms already included or were duplicated by other terms: chronic disease, critical illness, disability, pregnancy complications and perinatal morbidity (included in pregnancy category), pathogenesis. As a result of filtering a total of `r nrow(MELODI_intermediates_unique_final)` terms remained. These terms were combined into `r nlevels(MELODI_final_table$Category)` categories: `r levels(MELODI_final_table$Category)`. The 'other' category included traits that did not fit into one of any of the other categories and which did not have aligned traits to form a separate category (Table \@ref(tab:appendix-observational-table-MELODI)). The majority of intermediates were cardiovascular related. \par
+The following terms were removed and merged into immunocompromised host: infections, hospital and opportunistic infections. The following terms were removed because of duplication under different names: cardiac death, sudden death, and sudden cardiac death (merged into cessation of life); coronary arteriosclerosis (atherosclerosis);  cardiovascular morbidity, cardiac event, heart diseases, vascular diseases (cardiovascular diseases); depressed mood (depressive disorder); diabetes mellitus and insulin-dependent (diabetic); metabolic diseases (metabolic syndrome). The following terms were removed because they were top-level categories that could either include a wide variety of terms already included or were duplicated by other terms: chronic disease, critical illness, disability, pregnancy complications and perinatal morbidity (included in pregnancy category), pathogenesis. As a result of filtering a total of `r nrow(MELODI_intermediates_unique_final)` terms remained. These terms were combined into 9 categories: cancer, cardiovascular, immune, kidney, liver, neurological/behavioural, pregnancy, respiratory, other. The 'other' category included traits that did not fit into one of any of the other categories and which did not have aligned traits to form a separate category (Table \@ref(tab:appendix-observational-table-MELODI)). The majority of intermediates were cardiovascular related. \par
 
 It should be noted that the search did not include articles prior to the year 2000 and focussed only on those archived by PubMed. Enrichment aims to reduce the noise introduced when searching hundreds of thousands of articles, however manual curation, which will hold its own biases, is needed in order to obtain an informative list of enriched terms. \par
 
@@ -90,10 +90,10 @@ data <- data.frame(title = c("Weak instrument bias",
                              "Bias due to selection of participants (outcome)",
                              "IV association",
                              "Sample overlap",
-                             "Senisitivity analyses",
+                             "Sensitivity analyses",
                              "Descriptive data",
                              "Data availability",
-                             "Statistical paramaters"),
+                             "Statistical parameters"),
                    Question = c("Strength of association between instrument and exposure",
                                 "Reported test on association between confounders and IV",
                                 "Included confounders in the IV analysis",
@@ -105,7 +105,7 @@ data <- data.frame(title = c("Weak instrument bias",
                                 "Have they performed sensitivity analyses.",
                                 "Is information on the methodology missing/incorrect.",
                                 "Is the  methodology reproducible?",
-                                "Are the statistical paramaters for the analysis given"),
+                                "Are the statistical parameters for the analysis given"),
                    High = c("F less than 10",
                             "Yes AND there is an obvious association",
                             "Yes (lifestyle factors)",
@@ -163,7 +163,7 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
                   "Senisitivity analyses",
                   "Descriptive data",
                   "Data availability",
-                  "Statistical paramaters")) %>%
+                  "Statistical parameters")) %>%
   kable_styling(full_width = F, latex_options = c("striped", "HOLD_poistion"), position = "center", font_size = 5) %>%
   column_spec(1, width = "3em") %>%
   column_spec(2, width = "7em") %>%
@@ -207,13 +207,13 @@ data$tau <- round(data$tau, 2)
 data$h <- round(data$h, 2)
 data$i1 <- round(data$i1, 2)
 knitr::kable(data, longtable = T, booktabs = T, format = "markdown", escape = T,
-    caption = 'Meta-analyses results from MR analyses using adiposity as an exposure', 
+    caption = 'Meta-analyses results from Mendelian randomization analyses using adiposity as an exposure', 
     row.names = F,
-    col.names = c("Exposure on outcome", "Studies", "B/OR", "Lower CI", "Upper CI", "p-value", "q", "q_df", "q_p", "tau2", "tau2_se", "tau", "h","i1")) %>%
+    col.names = c("Meta-analysis", "Studies", "B/OR", "Lower CI", "Upper CI", "p-value", "q", "q_df", "q_p", "tau2", "se", "tau", "h","i2")) %>%
     kable_styling(full_width = F, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center", font_size = 8) %>%
   column_spec(1, width = "10em") %>%
   column_spec(2, width = "1em") %>%
-  column_spec(3, width = "2em") %>%
+  column_spec(3, width = "em") %>%
   column_spec(4, width = "2em") %>%
   column_spec(5, width = "1em") %>%
   column_spec(6, width = "1em") %>%
@@ -221,19 +221,22 @@ knitr::kable(data, longtable = T, booktabs = T, format = "markdown", escape = T,
   column_spec(8, width = "1em") %>%
   column_spec(9, width = "1em") %>%
   column_spec(10, width = "1em") %>%
-  column_spec(11, width = "1em") %>%
+  column_spec(11, width = "2em") %>%
   column_spec(12, width = "1em") %>%
   column_spec(13, width = "1em") %>%
   column_spec(14, width = "1em") %>%
   kableExtra::footnote(general = "Column 1 gives the exposure and outcome with units. Column 2 gives the studies used in the meta-analysis. B/OR = beta is the change in outcome per unit increase in exposure, OR is the odds ratio of the outcome per unit change in the exposure; CI = 95% confidence interval", threeparttable = T, general_title = "", footnote_as_chunk = T)
 
-
 ```
+
+\noindent Column 1 gives the exposure and outcome with units. Column 2 gives the studies used in the meta-analysis. B/OR = beta is the change in outcome per unit increase in exposure, OR is the odds ratio of the outcome per unit change in the exposure; CI = 95% confidence interval; q = heterogeneity statistic; q_df = degrees of freedom of Q; tau_2 = between study variance; se = standard error of tau_2; h = heterogeneity statistic within subgroups; i1 = heterogeneity statistic within subgroups.
+
 \elandscape
 
 ## Chapter 4: Associations between multiple measures of adiposity and metabolites: observational analysis {#appendix-observational}
 ### Methods
-In Children, a measure for BF was not available. Instead, impedance values were used to calculate estimates of BF using equation \@ref(eq:BF). The calculated BF resulted in negative BF estimates for some children (Figure \@ref(fig:appendix-observational-figure-BF-validation-distribution)). However, the calculated BF was positively correlated with weight, height and BMI in children. In adolescents, the calculated BF did not produce negative estimates and was positively correlated with impedance and DXA derived BF estimates (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)), as well as with weight, height, and BMI (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation)). Child calculated BF positively correlated with adolescent measures of BF (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2)). \par
+#### Validation of raw impedance as a measure of body fat percentage 
+In Children, a measure for BF was not available. Instead, impedance values were used to calculate estimates of BF using equation \@ref(eq:BF). The calculated BF resulted in negative BF estimates for some children (Figure \@ref(fig:appendix-observational-figure-BF-validation-distribution)). However, the calculated BF was positively correlated with weight, height and BMI in children. In adolescents, the calculated BF did not produce negative estimates and was positively correlated with impedance and DXA derived BF estimates (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2-adolescents)), as well as with weight, height, and BMI (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation)). Child calculated BF positively correlated with adolescent measures of BF (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2-children)). \par
 
 Given that equation \@ref(eq:BF) was derived using adult data and the volumetric difference between adults and children (i.e., BMI cubed rather than BMI squared may be more appropriate in children[@Stergiakouli2014]), differences in the range of estimates is unsurprising. There is however strong correlation between calculated BF and impedance derived and DXA derived estimates of BF in adolescents. Given that in a linear model the estimate is based on the per-unit increase, the absolute value of the exposure therefore does not need to be positive. As such, BF calculated using equation \@ref(eq:BF) was used in subsequent analyses as a measure of BF in children. \par 
 
@@ -269,7 +272,22 @@ knitr::include_graphics("data/observational/figures/bf_validation_correlation_ch
 knitr::include_graphics("data/observational/figures/bf_validation_correlation_adolescents.pdf")
 ```
 
-<<<<<<< HEAD
+<!-- #### Metabolites {#appendix-observational-metabolites} -->
+
+<!-- ```{r appendix-observational-table-metabolites, echo=FALSE} -->
+<!-- data <- read.table("data/observational/tables/metabolites.txt", header = T, sep = "\t") -->
+<!-- data <- data[order(data$subclass, data$raw.label),] -->
+
+<!-- knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T, digits = 3, -->
+<!--     caption = 'List of metabolites available in the Avon Longitudinal Study of Parents and Children', -->
+<!--     row.names = F, -->
+<!--     col.names = c("Abbreviation", "Metabolite", "Class", "Subclass", "Derived")) %>% -->
+<!--   kable_styling(full_width = T, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center", font_size = 8) %>% -->
+<!--   kableExtra::footnote(general = "Metabolites are given with the originally measured units along with the Class and Subclass provided by the metabolomics platform and whether the metabolite is directly measured (no) or a derived metabolite measure.", threeparttable = T, general_title = "", footnote_as_chunk = T) -->
+<!-- ``` -->
+
+
+
 ### Results
 #### Correlations {#appendix-observational-correlations} 
 Due to the large number of tests performed, concordance between models, exposures, and age groups were investigated using Spearman's correlations.
@@ -464,10 +482,9 @@ bf_m1_cor
 
 \newpage
 
-<<<<<<< HEAD
 #### Figures 
 
-(ref:observational-figure-adiposity-distribution-cap) **Distribution of adiposity measures across all age groups**. Raincloud plots give the distribution of all adiposity measures across age groups by sex. Body fat percentage (BF) in children is derived from equation \@ref(eq:BF). BMI = body mass index; WHR = waist hip ratio. Data is presented for all individuals given in Table \@ref(tab:observational-table-ALSPAC-adiposity). The interquartile range and median are also shown. Raincloud plots produced using the `RainCloudPlots` `R` package[@Allen2019].
+(ref:observational-figure-adiposity-distribution-cap) **Distribution of adiposity measures across all age groups**. Plots give the distribution of all adiposity measures across age groups by sex. Body fat percentage (BF) in children is derived from equation \@ref(eq:BF). BMI = body mass index; WHR = waist hip ratio. Data is presented for all individuals given in Table \@ref(tab:observational-table-ALSPAC-adiposity). The interquartile range and median are also shown. Raincloud plots produced using the `RainCloudPlots` `R` package[@Allen2019].
 
 (ref:observational-figure-adiposity-distribution-scap) Distribution of adiposity measures across all age groups
 
@@ -475,7 +492,7 @@ bf_m1_cor
 knitr::include_graphics("data/observational/figures/plot_histogram_adiposity_measures.pdf")
 ```
 
-#### Forestplots {#appendix-observational-figures-forestplots}
+##### Forestplots {#appendix-observational-figures-forestplots}
 
 (ref:appendix-observational-figure-forestplot-main-cap) **Effect estimates from linear regression of adiposity measures on metabolites**. Forestplot shows effect estimates and 95% confidence intervals from model 2 for all exposures and age groups. Effect estimates are absolute change in metabolite per-standard deviation increase in exposure.
 
@@ -497,7 +514,7 @@ knitr::include_graphics("data/observational/appendix/forestplot_supplement.pdf")
 ```
 \elandscape
 
-#### Circos plots {#appendix-observational-figures-circosplots}
+##### Circos plots {#appendix-observational-figures-circosplots}
 
 (ref:appendix-observational-figure-circos-children-cap) **Effect estimates from linear regression of adiposity measures on derived supplementary metabolites in children**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in children. Effect estimates are absolute change in metabolite per-standard deviation increase in exposure. The outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/54) set as the number of independent metabolite features as calculated by `metaboprep`.
 

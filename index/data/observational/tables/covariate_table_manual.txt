@@ -1,0 +1,30 @@
+group	subgroup	children	adolescents	young_adults	adults
+Metabolomics	N	5650	4484	3265	6399
+Age (years)	N	5634	4474	3264	6381
+Age (years)	Mean	7.56	16.06	24.03	49.53
+Age (years)	SD	0.36	1.11	0.85	5.32
+Sex	N	5634	4474	3265	6390
+Sex	Female N	2727	2340	1966	4557
+Sex	Male N	2907	2134	1299	1833
+Education	1 (low)	483	344	201	412
+Education	2	434	308	202	392
+Education	3	1798	1370	978	1785
+Education	4	1369	1168	856	1717
+Education	5 (high)	866	745	612	1366
+Smoking	N	-	2499	3219	5854
+Smoking	Yes	-	1538	2053	2416
+Smoking	No	-	961	1166	3438
+Alcohol frequency	1 (low)	-	394	88	364
+Alcohol frequency	2	-	336	668	587
+Alcohol frequency	3	-	2037	1223	1042
+Alcohol frequency	4	-	759	998	1731
+Alcohol frequency	5 (high)	-	153	172	1209
+Diet (kcal/day)	N	5577	4338	-	-
+Diet (kcal/day)	Mean	1672.32	2252.32	-	-
+Diet (kcal/day)	SD	134.94	190.62	-	-
+Physical activity	N	-	1768	672	-
+Physical activity	Mean	-	483.67	50.23	-
+Physical activity	SD	-	179.39	30.24	-
+Physical activity	1 (none)	-	-	-	1563
+Physical activity	2 (occasionally)	-	-	-	659
+Physical activity	3 (frequently)	-	-	-	2330

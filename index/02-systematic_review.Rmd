@@ -55,7 +55,10 @@ This chapter details a systematic review and meta-analysis of 173 Mendelian rand
 \newpage
 
 ## Introduction {#SR-intro}
-Observational studies have indicated that adiposity is strongly associated with all-cause and cause specific mortality[@Flegal2013; @Lee2015; @Elagizi2018; @Jenkins2018; @Pischon2008; @Rost2018; @Mørkedal2011; @Dong2018; @Lee2018; @Bigaard2004], and numerous risk factors and diseases[@Bhaskaran2014; @Choi2020; @Kyrgiou2017; @Hu2014; @Hajiebrahimi2013; @Munsell2014; @Harvie2003; @Gaudet2014; @Barrington2015; @Heo2021; @Lauby-Secretan2016; @Barberio2019; @Suzuki2009; @Freisling2017; @Parra-Soto2021; @Dobbelsteyn2001; @Yusuf2005; @Paul2006; @Koliaki2019; @Eckel1998; @Cepeda-Lopez2010; @Blokhin2013; @Thomsen2014; @McGill2002; @Ades2017; @Mathew2008; @Plourde2014; @Pathak2015; @Lavie2017; @Kurth2002; @Kernan2013; @Rost2001; @Romero-Corral2010;  @Elsayed2008; @Oh2014;  @Sahlman2020; @Wiltink2013; @Dye2017; @Basraon2016; @Price2006; @Lee2018; @Klop2013; @Martyn2008; @Ye2013; @Wilkin2001; @Corbin2018; @Al-Goblan2014; @Kahn2001; @Wurtz2014; @Cirulli2019; @Turnbaugh2006; @Castaner2018; @Durack2019; @Cominetti2018; @Figarska2020; @Qiao2010; @Jo2018; @Festa2001; @Park2005; @Bastard2006; @Lapice2009; @Hermsdorff2011; @Warnberg2007; @Quijada2008; @Marti2001; @Tilg2006; @Fernandez-Real2005; @Stryjecki2011; @Kovesdy2017; @Foster2008; @Pinto-Sietsma2003; @Kramer2005; @Lu2015; @Hsu2006; @Munkhaugen2009; @Thoenes2009; @Kramer2016; @Sarwar2018; @Browning2004; @Petersen2006; @Romeo2008; @Cornier2008; @Donnelly2005; @Fabbrini2010; @OBrien2017; @Qizilbash2015; @Elias2005; @Anstey2011; @Pedditizi2016; @Mrak2009; @Gustafson2004; @Jagust2005; @Ward2005; @Taki2008; @Gazdzinski2008; @Raji2010; @Yau2012; @Alosco2014; @Thaler2010; @MyersJr2010; @Zammit2010; @Gibson2000; @KRESS1999; @Laghi2003; @Beuther2007; @Rodrigo2007; @Aaron2008; @Sin2008; @Crummy2008; @MORTIMORE1998; @Eisner2007; @Franssen2008; @McClean2008; @Nakajima2008; @Jones2006; @Peppard2009; @Chen2007; @Stang2016; @Sharp2019; @Robker2009; @Wise2010; @Chandra2013; @Alvarez-Blasco2006; @BeatrizMotta2012; @Ehrmann2006; @OrioJr2004; @Hammoud2008; @Chen2006; @Heidler2007; @Schummers2015; @Bautista-Castano2013; @Lo2013; @Gaillard2013; @Feig2013; @Athukorala2010; @Belbasis2016; @Stothard2009; @Carmichael2010; @Aune2014a]. This includes the most common diseases, such as cardiovascular disease (CVD)[@Hubert1983; @Kenchaiah2002; @Yusuf2004; @Cuilin2008; @Gelber2008; @Litwin2008; @Dobbelsteyn2001; @Yusuf2005; @Paul2006; @Koliaki2019; @Eckel1998; @Cepeda-Lopez2010; @Blokhin2013; @Thomsen2014; @Klop2013; @McGill2002; @Ades2017; @Mathew2008; @Plourde2014; @Pathak2015; @Lavie2017; @Kurth2002; @Kernan2013; @Rost2001; @Romero-Corral2010; @Lee2018] and many cancers[@Bhaskaran2014; @Choi2020; @Kyrgiou2017; @Hu2014; @Hajiebrahimi2013; @Munsell2014; @Harvie2003; @Gaudet2014; @Barrington2015; @Heo2021; @Lauby-Secretan2016; @Barberio2019; @Suzuki2009; @Freisling2017; @Lee2018; @Parra-Soto2021], along with common risk factors such as high blood pressure[@Mathew2008; @Wurtz2014]. See Chapter \@ref(introduction) Section \@ref(introduction-morbidities) for more detail. \par
+Observational studies have indicated that adiposity is strongly associated with all-cause and cause specific mortality[@Flegal2013; @Lee2015; @Elagizi2018; @Jenkins2018; @Pischon2008; @Rost2018; @Mørkedal2011; @Dong2018; @Lee2018; @Bigaard2004], and numerous risk factors and diseases[@Lee2018;@Bhaskaran2014; @Choi2020; @Kyrgiou2017; @Hu2014; @Hajiebrahimi2013; @Munsell2014; @Harvie2003; @Gaudet2014; @Barrington2015; @Heo2021; @Lauby-Secretan2016; @Barberio2019; @Suzuki2009; @Freisling2017; @Parra-Soto2021; @Dobbelsteyn2001; @Yusuf2005; @Paul2006; @Koliaki2019; @Eckel1998; @Cepeda-Lopez2010; @Blokhin2013; @Thomsen2014; @McGill2002; @Ades2017; @Mathew2008; @Plourde2014; @Pathak2015; @Lavie2017; @Kurth2002; @Kernan2013; @Rost2001; @Romero-Corral2010;  @Elsayed2008; @Oh2014;  @Sahlman2020; @Wiltink2013; @Dye2017; @Basraon2016; @Price2006; @Klop2013; @Wilkin2001; @Corbin2018; @Al-Goblan2014; @Kahn2001; @Wurtz2014; @Cirulli2019; @Turnbaugh2006; @Castaner2018; @Durack2019; @Cominetti2018; @Figarska2020; @Qiao2010; @Jo2018; @Festa2001; @Park2005; @Bastard2006; @Lapice2009; @Hermsdorff2011; @Warnberg2007; @Quijada2008; @Marti2001; @Tilg2006; @Fernandez-Real2005; @Stryjecki2011; @Kovesdy2017; @Foster2008; @Pinto-Sietsma2003; @Kramer2005; @Lu2015; @Hsu2006; @Munkhaugen2009; @Thoenes2009; @Kramer2016; @Sarwar2018; @Browning2004; @Petersen2006; @Romeo2008; @Cornier2008; @Donnelly2005; @Fabbrini2010; @OBrien2017; @Qizilbash2015; @Elias2005; @Anstey2011; @Pedditizi2016; @Mrak2009; @Gustafson2004; @Jagust2005; @Ward2005; @Taki2008; @Gazdzinski2008; @Raji2010; @Yau2012; @Alosco2014; @Thaler2010; @MyersJr2010; @Zammit2010; @Gibson2000; @KRESS1999; @Laghi2003; @Beuther2007]
+
+\vspace*{-1em}
+\noindent^,^[@Rodrigo2007; @Aaron2008; @Sin2008; @Crummy2008; @MORTIMORE1998; @Eisner2007; @Franssen2008; @McClean2008; @Nakajima2008; @Jones2006; @Peppard2009; @Chen2007; @Stang2016; @Sharp2019; @Robker2009; @Wise2010; @Chandra2013; @Alvarez-Blasco2006; @BeatrizMotta2012; @Ehrmann2006; @OrioJr2004; @Hammoud2008; @Chen2006; @Heidler2007; @Schummers2015; @Bautista-Castano2013; @Lo2013; @Gaillard2013; @Feig2013; @Athukorala2010; @Belbasis2016; @Stothard2009; @Carmichael2010; @Aune2014a; @Martyn2008; @Ye2013]. This includes the most common diseases, such as cardiovascular disease (CVD)[@Hubert1983; @Kenchaiah2002; @Yusuf2004; @Cuilin2008; @Gelber2008; @Litwin2008; @Dobbelsteyn2001; @Yusuf2005; @Paul2006; @Koliaki2019; @Eckel1998; @Cepeda-Lopez2010; @Blokhin2013; @Thomsen2014; @Klop2013; @McGill2002; @Ades2017; @Mathew2008; @Plourde2014; @Pathak2015; @Lavie2017; @Kurth2002; @Kernan2013; @Rost2001; @Romero-Corral2010; @Lee2018] and many cancers[@Bhaskaran2014; @Choi2020; @Kyrgiou2017; @Hu2014; @Hajiebrahimi2013; @Munsell2014; @Harvie2003; @Gaudet2014; @Barrington2015; @Heo2021; @Lauby-Secretan2016; @Barberio2019; @Suzuki2009; @Freisling2017; @Lee2018; @Parra-Soto2021], along with common risk factors such as high blood pressure[@Mathew2008; @Wurtz2014]. See Chapter \@ref(introduction) Section \@ref(introduction-morbidities) for more detail. \par
 
 As discussed in Chapter \@ref(introduction) Section \@ref(mendelian-randomization), observational studies hold a number of limitations that can not easily be overcome, e.g., confounding and reverse causation. These limitations can lead to biased results[@Batty1999; @DaveySmith2014c; @DaveySmith2014; @Timpson2005; @CCGC2011; @Yarmolinsky2018] and, although an observational study may identify an association between two traits, this does not mean that one trait causes the other; they may be correlated because of shared causes, for instance. Furthermore, in observational studies, it is difficult to obtain the causal direction of effect as the temporal sequence is generally unknown[@Batty1999]. Ideally randomised controlled trials (RCTs) would be conducted to aid our understanding and identify causal effects, however these are costly, time consuming, and can be unethical given the assumption that adiposity is detrimental to health. Mendelian randomization (MR) analyses provide a method of obtaining causal effects outside of RCTs[@DaveySmith2003]. By using germline genetic variants, which are randomly assigned and fixed at conception, randomization analogous to an RCT can be achieved (See Chapter \@ref(introduction) Section \@ref(mendelian-randomization)). There has been a rise in MR studies published in the years since it was first widely reported on in 2003[@DaveySmith2003]. \par
 
@@ -63,7 +66,7 @@ Systematic reviews enable global overview of the literature and provide avenues 
 
 ## Methods {#SR-methods}
 ### Data sources and search strategy
-EMBASE and MEDLINE were searched from inception (EMBASE = 1974; MEDLINE = 1946) until February 18th 2019 using detailed search strategies including free text and controlled vocabulary terms. The full search strategy is available on my ([GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/SR/data/search_strategy.pdf)), which I will be citing throughout this thesis for data which too large to be presented within this document. The pre-print service, bioRxiv, was also searched from inception (November 2013) until February 18th 2019. However, due to the limited search functionality and inability to include Boolean operators (‘AND’, ‘OR’, ‘NOT’) in bioRxiv searches, a restricted search strategy using four free text terms in four independent searches was used: ‘Mendelian randomization’, ‘Mendelian randomisation’, ‘causal inference’, and ‘causal analysis’. 'Adiposity' and related search terms were not used as this would have identified a much larger body of work, and given Boolean operators could not be used, filtering this larger body for studies which performed MR would have been more time consuming than filtering MR studies which used adiposity as an exposure. \par
+EMBASE and MEDLINE were searched from inception (EMBASE = 1974; MEDLINE = 1946) until February 18th 2019 using detailed search strategies including free text and controlled vocabulary terms. The full search strategy is available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/SR/data/search_strategy.pdf). The pre-print service, bioRxiv, was also searched from inception (November 2013) until February 18th 2019. However, due to the limited search functionality and inability to include Boolean operators (‘AND’, ‘OR’, ‘NOT’) in bioRxiv searches, a restricted search strategy using four free text terms in four independent searches was used: ‘Mendelian randomization’, ‘Mendelian randomisation’, ‘causal inference’, and ‘causal analysis’. 'Adiposity' and related search terms were not used as this would have identified a much larger body of work, and given Boolean operators could not be used, filtering this larger body for studies which performed MR would have been more time consuming than filtering MR studies which used adiposity as an exposure. \par
 
 The search strategy included synonyms for both adiposity and MR terms. For adiposity measures, this was to ensure searches returned all possible instances in which a measure of adiposity was used. For MR, synonyms were used as the term ‘Mendelian randomization’ has only been formalised recently and many early studies would have either been unaware they were performing an instrumental variable (IV) analysis or would have called the method something else. \par
 
@@ -106,11 +109,14 @@ Where, $Y_i$ is the causal effect estimates in the $i$^th^ MR study, $SE_i$ is t
 
 Following this and considerations in the [Cochrane handbook](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-4-1), an inverse variance weighted random-effects model using estimates and standard errors was used. Where standard errors and effect estimates were not available for a study (e.g., confidence intervals (CIs) and odds ratios were available), these were back calculated manually. For binary outcomes, the relevant summary method was used for odds ratios, risk ratios, and hazard ratios, etc. For continuous outcomes, the mean difference was used for the underlying summary method. For completeness, and given this is a hypothesis-generating process, a multiple testing threshold was not used. For both binary and continuous outcomes, the Hartung and Knapp method to adjust CIs to reflect uncertainty in the estimation of between-study heterogeneity[@Hartung2001; @Hartung2001a], which is recommended for random-effects models[@IntHout2014; @Langan2019], was used where $\geq$ 5 studies were included in the meta-analysis[@IntHout2014]. Between study variance was estimated for all meta-analyses using the Paule-Mandel estimator[@RC1982], for which simulation studies have shown good performance compared to other estimators[@Veroniki2016]. When presenting results, "increase" and "positive" refer to, for example, a higher BMI or an increase in the risk of type-2 diabetes; "decrease" and "negative" refer to, for example, a lower BMI or a decreased risk of type-2 diabetes. \par
 
+\newpage
+\thispagestyle{empty}
+
 (ref:SR-figure-meta-analysis-flowchart-cap) **Inclusion criteria for meta-analysis: flowchart**. Mendelian randomization (MR) analyses were included in meta-analyses if they met the conditions set out in the flowchart and in Section \@ref(SR-methods-meta-analysis) in regards to sample overlap. * = MR analyses had to use the same exposure and the same outcome to be compatible, e.g. for the exposure, body mass index (BMI) could not be meta-analysed with any other exposure that was not BMI. This also applies to outcomes, e.g., the outcome oestrogen negative (ER-) breast cancer could not be meta-analysed with breast cancer, it could only be meta-analysed with ER- breast cancer.
 
 (ref:SR-figure-meta-analysis-flowchart-scap) Inclusion criteria for meta-analysis: flowchart
 
-```{r SR-figure-meta-analysis-flowchart, echo=FALSE, out.width='50%', fig.cap='(ref:SR-figure-meta-analysis-flowchart-cap)', fig.scap='(ref:SR-figure-meta-analysis-flowchart-scap)'}
+```{r SR-figure-meta-analysis-flowchart, echo=FALSE, out.width='70%', fig.align='center', fig.cap='(ref:SR-figure-meta-analysis-flowchart-cap)', fig.scap='(ref:SR-figure-meta-analysis-flowchart-scap)'}
 knitr::include_graphics("data/SR/figures/meta_analysis_flowchart.pdf")
 ```
 
@@ -125,6 +131,7 @@ In total, 8,376 articles were returned from the combined search of EMBASE (N = 3
 
 Of the `r full_text_screen` articles included in the full text screening, a total of `r removed` articles were removed for the following reasons (with number of articles removed indicated in brackets): a conference abstract with no response within 6 months from the author or there was no data available from the authors (`r removed_unavailable`), conference abstracts with the full paper included in the search (`r removed_conference_abstract_full_available`), duplicates not excluded by the de-duplication process (`r removed_duplicates`), not using a measure of adiposity as the exposure (`r removed_incorrect_exposure`), a commentary (`r remvoed_commentary`), erratum (`r removed_erratum`, the corrected papers were identified in the search), not MR (i.e., regression of single nucleotide polymorphism (SNP) on trait; `r removed_not_MR`), a conference proceeding (`r removed_conference_proceeding`), not available in English (`r remvoed_language`), and preprint paper in which the published paper did not include an MR of an adiposity measure (`r preprint_published_not_MR`). After full text screening, `r full_text_screen - removed` articles were included in the analysis (data available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/SR/data/qualitative_synthesis.xml)). \par
 
+\newpage
 \thispagestyle{empty}
 
 (ref:SR-prisma-cap) **PRISMA flowchart**. $k$ gives the number of articles at each stage
@@ -199,7 +206,6 @@ design <- as.data.table(design)
 design <- dcast(design, MR_design ~ ., fun.agg = function(x) sum(!is.na(x)), 
             value.var = "ID")
 colnames(design)[2] <- "N"
-table(design$MR_design)
 design$MR_design <- gsub("one-sample meta-analysis", "One-sample meta-analysis", design$MR_design)
 design$MR_design <- gsub("two-sample meta-analysis", "Two-sample meta-analysis", design$MR_design)
 design$MR_design <- gsub("one-sample and Two-sample meta-analysis", "One-sample and two-sample meta-analysis", design$MR_design)
@@ -222,9 +228,9 @@ exposure_percentages$exposure <- gsub("body fat percentage", "BF", exposure_perc
 
 knitr::kable(
     (exposure_percentages[order(-exposure_percentages$n),]),
-    longtable = F, booktabs = T,
+    longtable = T, booktabs = T,
     caption = 'Number and frequency of exposures used across all 2214 MR analyses', row.names = F,
-    digits = 2, format = "latex",
+    digits = 2, format = "latex", 
     col.names = c("Exposure", "N", "%")) %>%
   kable_styling(latex_options = c("striped", "HOLD_position", "repeat_header"), position = "center") %>%
   kableExtra::footnote(general = "BMI = body mass index; WHR = waist hip ratio; WHRadjBMI = WHR adjusted for BMI; WC = waist circumference; WCadjBMI = WC adjusted for BMI; HC = hip circumference; HCadjBMI = HC adjusted for BMI; BF = body fat percentage.",
@@ -253,10 +259,11 @@ knitr::kable(
     caption = 'Number and frequency of outcomes within each outcome category across all 2214 MR analyses', row.names = F,
     digits = 2, format = "latex",
     col.names = c("Group", "N", "%")) %>%
-  kable_styling(latex_options = c("striped", "HOLD_position", "repeat_header"), position = "center") %>%
-  kableExtra::footnote(general = "Outcome groups were assigned based on prior biological knowledge and aimed to collapse the large number of outcomes. This could be achieved differently for some outcomes, for example smoking could go in a 'respiratory' group or a 'behavioural' group. Where there were few outcomes to make a group, they were grouped into an 'other' group. This will include outcomes such as mortality, disease counts, epigenetic markers, etc",
-                         threeparttable = T, general_title = "", footnote_as_chunk = T)
+  kable_styling(latex_options = c("striped", "HOLD_position", "repeat_header"), position = "center") 
 ```
+
+\vspace*{-\baselineskip}
+\noindent Outcome groups were assigned based on prior biological knowledge and aimed to collapse the large number of outcomes. This could be achieved differently for some outcomes, for example smoking could go in a 'respiratory' group or a 'behavioural' group. Where there were few outcomes to make a group, they were grouped into an 'other' group. This will include outcomes such as mortality, disease counts, epigenetic markers, etc. \par
 
 ### Quality assessment
 ```{r echo=FALSE}
@@ -290,7 +297,6 @@ Of the remaining MR analyses six were ranked as low quality (BMI on alzheimers (
 ```{r echo=FALSE}
 studies <- read.table("../../005_systematic_review/analysis/meta_analysis/results/study_freq.txt", header = T, sep = "\t")
 results <- read.csv("../../005_systematic_review/analysis/meta_analysis/results/meta_analysis_results.csv")
-sum(studies$freq)
 ```
 
 In total, `r nrow(results)` meta-analyses were conducted using data from `r nrow(studies)` articles, and 70 studies. A majority of studies were excluded due to a lack of meta-analysable data (i.e., only one MR analysis looked at a given exposure-outcome pair). Additional reasons for exclusion were: population overlap, incompatible units, and incompatible MR models. A majority of the `r nrow(studies)` studies contributed to just one meta-analysis. A number of studies undertook multiple MR analyses which were included in multiple meta-analyses: four studies contributed to two meta-analyses, three studies to three meta-analyses, two studies to four meta-analyses, two studies to seven meta-analyses, and one study to eight meta-analyses (Table \@ref(tab:SR-table-studies-N)). \par
@@ -333,23 +339,39 @@ In the meta-analyses, there were 22 binary outcomes and 9 continuous outcomes. O
 
 For the `r nrow(continuous)` continuous outcomes, `r nrow(continuous_neg)` tests (BMI on high density lipoprotein (HDL; analysed with SD and mmol/L units) and low density lipoprotein (LDL; mmol/L)), had negative effect estimates with CIs which spanned the null. The remaining `r nrow(continuous_pos)` tests had positive effect estimates, `r nrow(continuous_pos_ci)` (BMI on systolic blood pressure (SBP; mmHg) and fasting glucose (mmol/L)) of which had CIs that did not span the null (Figure \@ref(fig:SR-figure-forestplot-meta-analysis-continuous)). Two meta-analyses included MR studies which were ranked low for quality assessment; the study by Shapland et al., (2018)[@Shapland2019] had comparable weight to the other two studies investigating BMI on SBP. The study by Wang et al., (2018)[@Wang2018a] investigating Homoeostatic Model Assessment for Insulin Resistance (HOMA IR) had a much larger weight than the study by Kivimaki et al., (2008)[@Kivimaki2008], a result of a larger population. The remaining studies had a medium quality assessment score, none of which showed estimates that deviated strongly from the effects of the other MR analyses in those meta-analyses. \par
 
-```{r echo=FALSE, out.width='70%', fig.align='center'}
-knitr::include_graphics("../../005_systematic_review/figures/meta_analysis_results_figures/binary_outcomes1.pdf")
-```
+\thispagestyle{empty}
+\vspace*{-3cm}
 
 (ref:SR-figure-forestplot-meta-analysis-binary-cap) **Meta-analysis: effect estimates and 95% confidence intervals for binary outcomes**. Forest plot shows effect estimates and 95% confidence intervals (CIs) from a meta-analysis of 22 different exposure-outcome pairs. MR analyses included based on criteria in Figure \@ref(fig:SR-figure-meta-analysis-flowchart). QA = quality assessment score; OR = odds ratio; CI = confidence interval. 
 
 (ref:SR-figure-forestplot-meta-analysis-binary-scap) Meta-analysis: effect estimates and 95% confidence intervals for binary outcomes
 
-```{r SR-figure-forestplot-meta-analysis-binary, echo=FALSE, out.width='70%', fig.align='center', fig.cap='(ref:SR-figure-forestplot-meta-analysis-binary-cap)', fig.scap='(ref:SR-figure-forestplot-meta-analysis-binary-scap)'}
+
+```{r SR-figure-forestplot-meta-analysis-binary, echo=FALSE, out.width='85%', fig.align='center', fig.cap='(ref:SR-figure-forestplot-meta-analysis-binary-cap)', fig.scap='(ref:SR-figure-forestplot-meta-analysis-binary-scap)'}
+knitr::include_graphics("../../005_systematic_review/figures/meta_analysis_results_figures/binary_outcomes1.pdf")
+```
+
+\newpage
+\thispagestyle{empty}
+\vspace*{-3cm}
+
+(ref:SR-figure-forestplot-meta-analysis-binary2-cap) **Meta-analysis: effect estimates and 95% confidence intervals for binary outcomes continued**. Forest plot shows effect estimates and 95% confidence intervals (CIs) from a meta-analysis of 22 different exposure-outcome pairs. MR analyses included based on criteria in Figure \@ref(fig:SR-figure-meta-analysis-flowchart). QA = quality assessment score; OR = odds ratio; CI = confidence interval. 
+
+(ref:SR-figure-forestplot-meta-analysis-binary2-scap) Meta-analysis: effect estimates and 95% confidence intervals for binary outcomes
+
+```{r SR-figure-forestplot-meta-analysis-binary2, echo=FALSE, out.width='85%', fig.align='center', fig.cap='(ref:SR-figure-forestplot-meta-analysis-binary2-cap)', fig.scap='(ref:SR-figure-forestplot-meta-analysis-binary2-scap)'}
 knitr::include_graphics("../../005_systematic_review/figures/meta_analysis_results_figures/binary_outcomes2.pdf")
 ```
+
+\newpage
+\thispagestyle{empty}
+\vspace*{-3cm}
 
 (ref:SR-figure-forestplot-meta-analysis-continuous-cap) **Meta-analysis: effect estimates and 95% confidence intervals for continuous outcomes**. Forest plot shows effect estimates and 95% confidence intervals (CIs) from a meta-analysis of 9 different exposure-outcome pairs. MR analyses included based on criteria in Figure \@ref(fig:SR-figure-meta-analysis-flowchart). QA = quality assessment score; MD = mean difference; CI = confidence interval.
 
 (ref:SR-figure-forestplot-meta-analysis-continuous-scap) Meta-analysis: effect estimates and 95% confidence intervals for continuous outcomes
 
-```{r SR-figure-forestplot-meta-analysis-continuous, echo=FALSE, out.width='80%', fig.align='center',  fig.cap='(ref:SR-figure-forestplot-meta-analysis-continuous-cap)', fig.scap='(ref:SR-figure-forestplot-meta-analysis-continuous-scap)'}
+```{r SR-figure-forestplot-meta-analysis-continuous, echo=FALSE, out.width='100%', fig.align='center',  fig.cap='(ref:SR-figure-forestplot-meta-analysis-continuous-cap)', fig.scap='(ref:SR-figure-forestplot-meta-analysis-continuous-scap)'}
 knitr::include_graphics("../../005_systematic_review/figures/meta_analysis_results_figures/continuous_outcomes.pdf")
 ```
 

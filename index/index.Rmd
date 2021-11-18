@@ -38,6 +38,8 @@ acknowledgements: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-acknowledgements.Rmd"), collapse = '\n  ')`
 publications: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-publications.Rmd"), collapse = '\n  ')`
+outline: |
+  `r if(knitr:::is_latex_output()) paste(readLines("00-outline.Rmd"), collapse = '\n  ')`
 contributions: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-contributions.Rmd"), collapse = '\n  ')`
 declaration: |

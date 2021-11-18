@@ -1019,7 +1019,7 @@ list2env(list_continuous, envir=.GlobalEnv)
 ## cardiovascular_SBP_BMI.csv ====
 a <- cardiovascular_SBP_BMI.csv
 b <- "16_BMI_on_SBP"
-c <- "BMI on SBP"
+c <- "BMI on Systolic blood pressure"
 ### meta-analyse
 results <- metagen(data = a, TE = formatted_estimate, pval = p, level.ci = 0.95, 
                    studlab = paste(author, year, sep = " et al. "),
@@ -1399,7 +1399,7 @@ write.csv(table, "../meta_analysis_results.csv", row.names = F)
 
 # continuous overall forestplot analysis ====
 data_continuous <- bind_rows(list_continuous, .id = "column_label")
-data_continuous$label_ID <- c("BMI (SD) on SBP (mm/Hg)", "BMI (SD) on SBP (mm/Hg)", "BMI (SD) on SBP (mm/Hg)",
+data_continuous$label_ID <- c("BMI (SD) on Systolic blood pressure (mm/Hg)", "BMI (SD) on Systolic blood pressure (mm/Hg)", "BMI (SD) on Systolic blood pressure (mm/Hg)",
                               "BMI (SD) on total cholesterol (mmol/L)", "BMI (SD) on total cholesterol (mmol/L)",
                               "BMI (SD) on fasting glucose (mmol/L)", "BMI (SD) on fasting glucose (mmol/L)", "BMI (SD) on fasting glucose (mmol/L)", "BMI (SD) on fasting glucose (mmol/L)",
                               "BMI (SD) on haemoglobin A1C (%)", "BMI (SD) on haemoglobin A1C (%)",

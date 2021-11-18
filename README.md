@@ -12,7 +12,12 @@ Wade](https://www.bristol.ac.uk/people/person/Kaitlin-Wade-e0c3b266-f309-442c-bb
 [Laura
 Corbin](https://www.bristol.ac.uk/people/person/Laura-Corbin-15c0325f-9e1d-4f18-bb53-4bb67aa7baf7/)
 
-The structure of this repository is as follows:
+This GitHub repository houses all of the components used in the creation
+of my thesis. Importantly, it makes available all publicly available
+data, scripts, results, and figures used in the thesis. All figures
+presented in the thesis, and those too large to be included, are
+available within this repository. The structure of the repository is as
+follows:
 
 1.  All data, results, figures, and scripts mentioned in the thesis are
     within the `index\` directory

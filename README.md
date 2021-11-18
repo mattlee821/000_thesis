@@ -12,6 +12,23 @@ Wade](https://www.bristol.ac.uk/people/person/Kaitlin-Wade-e0c3b266-f309-442c-bb
 [Laura
 Corbin](https://www.bristol.ac.uk/people/person/Laura-Corbin-15c0325f-9e1d-4f18-bb53-4bb67aa7baf7/)
 
+The structure of this repository is as follows: 1. All data, results,
+figures, and scripts mentioned in the thesis are within the `index\`
+directory 2. Within `index\`: \* `_book\` - contains the thesis as a
+complete PDF (`thesis.pdf`) as well as each individual chapter (all are
+accompanied by the `.tex` files \* `bib/` - contains the `bibtex` file
+used to create the references \* `csl/` - contains the citation style
+language (`csl`) file for references \* `data/` - contains all chapter
+specific scripts, data, results, and figures \* `.Rmd` - these are the
+`R Markdown` files used to write components of the thesis \*
+`_bookdown.yml` - `yml` file used to compile the thesis \*
+`bristolthesis.cls` - class file used by `template.tex` \*
+`template.tex` - LaTeX template file for creating thesis 3. Within
+`data\` each chapter has a separate directory with a similar file
+structure: \* `scripts\` - all scripts used in the chapter \* `data\` -
+all data used in the chapter \* `analysis\` - all products, primarily
+results, from scripts \* `figures\` - all figures used in chapter
+
 The most up to date version of the thesis can be found in
 [`index/_book`](https://github.com/mattlee821/000_thesis/blob/master/index/_book/thesis.pdf).
 The thesis is split into the following chapters:

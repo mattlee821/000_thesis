@@ -158,13 +158,7 @@ circos_plot(...
             track3_height = 0.2)
 ```
 
-In order to minimise the time required to maintain the `R` package, further customisation is achieved by the users themselves. The function is written to aid this customisation with *Default parameters* and *Customisable parameters* located at the top of the `circos_plot()` function. Guidance and code is provided on [GitHub](https://github.com/mattlee821/EpiViz/tree/master/R_package) to aid user customisation, for example, changing track colours requires users to navigate to the *Customisable parameters* section and then to the *Colours* section and replace the following lines with their desired colours:
-
-```{r eval=FALSE}
-discrete_palette <- c("#00378f", # track 1 colour
-                      "#ffc067", # track 2 colour
-                      "#894300") # track 3 colour
-```
+In order to minimise the time required to maintain the `R` package, further customisation is achieved by the users themselves. The function is written to aid this customisation with *Default parameters* and *Customisable parameters* located at the top of the `circos_plot()` function. Guidance and code is provided on [GitHub](https://github.com/mattlee821/EpiViz/tree/master/R_package) to aid user customisation. \par
 
 ## Discussion
 Circos plots have been used to visualise and provide overview of large metabolomic association analyses[@Shin2014; @Kettunen2012; @Kettunen2016; @Bos2021; @Taylor2019]. When creating Circos plots for Taylor et al. (2019)[@Taylor2019], the process was cumbersome and inefficient with each revision requiring me to write bespoke code. `EpiViz` simplifies and streamlines the process of making Circos plots. In Bos et al. (2021)[@Bos2021], `EpiViz` was used to summarise and visually compare observational and Mendelian randomization analyses of multiple sleep traits on over 100 metabolites. `EpiViz` made producing and refining Circos plots for this analysis faster and more efficient. \par

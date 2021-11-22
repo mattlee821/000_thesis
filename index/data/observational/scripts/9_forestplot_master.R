@@ -6,6 +6,7 @@ library(tidyverse)
 library(patchwork)
 library(cowplot)
 library(MetaboQC)
+library(rlang)
 
 # source
 source("index/data/index/colour_palette.R")
@@ -422,5 +423,69 @@ my_forestplot(
   ) +
   theme(legend.title = element_blank())
 dev.off()
+
+
+
+
+# summary of effect estimates for adults ====
+data <- read.table("index/data/observational/data/analysis/results/combined/combined.txt", header = T, sep = "\t", stringsAsFactors = T)
+data <- subset(data, subclass != "NA")
+data$subclass <- factor(data$subclass, levels=c("Amino acids","Aromatic amino acids","Branched-chain amino acids",
+                                                "Apolipoproteins","Cholesterol","Fatty acids","Fatty acids ratios",
+                                                "Fluid balance","Glycerides and phospholipids","Glycolysis related metabolites",
+                                                "Inflammation","Ketone bodies","Lipoprotein particle size",
+                                                "Very large HDL","Large HDL","Medium HDL","Small HDL",
+                                                "Large LDL","Medium LDL","Small LDL","IDL",
+                                                "Extremely large VLDL","Very large VLDL","Large VLDL","Medium VLDL","Small VLDL","Very Small VLDL",
+                                                
+                                                "Very large HDL ratios","Large HDL ratios","Medium HDL ratios","Small HDL ratios",
+                                                "Large LDL ratios","Medium LDL ratios","Small LDL ratios","IDL ratios",
+                                                "Extremely large VLDL ratios","Very large VLDL ratios","Large VLDL ratios","Medium VLDL ratios","Small VLDL ratios","Very Small VLDL ratios"))     
+levels(data$subclass)
+data$subclass <- fct_rev(data$subclass)
+data <- data[order(data$subclass, data$metabolite),]
+a <- subset(data, derived_features == "no")
+a <- subset(a, model == "model2")
+a <- subset(a, group == "adults")
+a <- droplevels(a)
+psignif <- 1
+ci <- 0.95
+
+## plot
+plot_data <- a
+p1 <- my_forestplot(
+  df = plot_data,
+  name = raw.label,
+  estimate = b,
+  pvalue = p,
+  psignif = psignif,
+  ci = ci,
+  xlab = "linear regression of z-score",
+  colour = exposure) +
+  scale_color_manual(values = c(discrete_wes_pal[[16]],discrete_wes_pal[[14]],discrete_wes_pal[[18]])) +
+  ggforce::facet_col(
+    facets = ~subclass,
+    scales = "free",
+    space = "free"
+  ) + 
+  theme(legend.position = "bottom") +
+  theme(axis.title.x = element_blank())
+pdf("index/data/observational/appendix/forestplot_adults_model2.pdf",
+    width = 14, height = 36)
+p1
+dev.off()
+
+
+
+b <- a %>%
+  group_by(exposure) %>%
+  summarise(min = signif(min(b),3),
+            max = signif(max(b),3),
+            mean = signif(mean(b),3),
+            median = signif(median(b),3))
+colnames(b) <- c("Subclass", "Min", "Max", "Mean", "Median")
+write.table(b, "index/data/observational/tables/effect_size_summary_adults.txt", 
+            row.names = FALSE, col.names = TRUE, quote = FALSE, sep = "\t")
+
 
 

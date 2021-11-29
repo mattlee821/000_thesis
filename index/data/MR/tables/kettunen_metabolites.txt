@@ -1,0 +1,124 @@
+metabolite	raw.label	class	subclass
+xxlvldlp	Concentration of chylomicrons and extremely large VLDL particles (mol/l)	Lipoprotein subclasses	Extremely large VLDL
+xxlvldll	Total lipids in chylomicrons and extremely large VLDL (mmol/l)	Lipoprotein subclasses	Extremely large VLDL
+xxlvldlpl	Phospholipids in chylomicrons and extremely large VLDL (mmol/l)	Lipoprotein subclasses	Extremely large VLDL
+xxlvldltg	Triglycerides in chylomicrons and extremely large VLDL (mmol/l)	Lipoprotein subclasses	Extremely large VLDL
+xlvldlp	Concentration of very large VLDL particles (mol/l)	Lipoprotein subclasses	Very large VLDL
+xlvldll	Total lipids in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL
+xlvldlpl	Phospholipids in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL
+xlvldltg	Triglycerides in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL
+lvldlp	Concentration of large VLDL particles (mol/l)	Lipoprotein subclasses	Large VLDL
+lvldll	Total lipids in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL
+lvldlpl	Phospholipids in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL
+lvldlc	Total cholesterol in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL
+lvldlce	Cholesterol esters in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL
+lvldlfc	Free cholesterol in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL
+lvldltg	Triglycerides in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL
+mvldlp	Concentration of medium VLDL particles (mol/l)	Lipoprotein subclasses	Medium VLDL
+mvldll	Total lipids in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL
+mvldlpl	Phospholipids in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL
+mvldlc	Total cholesterol in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL
+mvldlce	Cholesterol esters in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL
+mvldlfc	Free cholesterol in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL
+mvldltg	Triglycerides in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL
+svldlp	Concentration of small VLDL particles (mol/l)	Lipoprotein subclasses	Small VLDL
+svldll	Total lipids in small VLDL (mmol/l)	Lipoprotein subclasses	Small VLDL
+svldlpl	Phospholipids in small VLDL (mmol/l)	Lipoprotein subclasses	Small VLDL
+svldlc	Total cholesterol in small VLDL (mmol/l)	Lipoprotein subclasses	Small VLDL
+svldlfc	Free cholesterol in small VLDL (mmol/l)	Lipoprotein subclasses	Small VLDL
+svldltg	Triglycerides in small VLDL (mmol/l)	Lipoprotein subclasses	Small VLDL
+xsvldlp	Concentration of very small VLDL particles (mol/l)	Lipoprotein subclasses	Very Small VLDL
+xsvldll	Total lipids in very small VLDL (mmol/l)	Lipoprotein subclasses	Very Small VLDL
+xsvldlpl	Phospholipids in very small VLDL (mmol/l)	Lipoprotein subclasses	Very Small VLDL
+xsvldltg	Triglycerides in very small VLDL (mmol/l)	Lipoprotein subclasses	Very Small VLDL
+idlp	Concentration of IDL particles (mol/l)	Lipoprotein subclasses	IDL
+idll	Total lipids in IDL (mmol/l)	Lipoprotein subclasses	IDL
+idlpl	Phospholipids in IDL (mmol/l)	Lipoprotein subclasses	IDL
+idlc	Total cholesterol in IDL (mmol/l)	Lipoprotein subclasses	IDL
+idlfc	Free cholesterol in IDL (mmol/l)	Lipoprotein subclasses	IDL
+idltg	Triglycerides in IDL (mmol/l)	Lipoprotein subclasses	IDL
+lldlp	Concentration of large LDL particles (mol/l)	Lipoprotein subclasses	Large LDL
+lldll	Total lipids in large LDL (mmol/l)	Lipoprotein subclasses	Large LDL
+lldlpl	Phospholipids in large LDL (mmol/l)	Lipoprotein subclasses	Large LDL
+lldlc	Total cholesterol in large LDL (mmol/l)	Lipoprotein subclasses	Large LDL
+lldlce	Cholesterol esters in large LDL (mmol/l)	Lipoprotein subclasses	Large LDL
+lldlfc	Free cholesterol in large LDL (mmol/l)	Lipoprotein subclasses	Large LDL
+mldlp	Concentration of medium LDL particles (mol/l)	Lipoprotein subclasses	Medium LDL
+mldll	Total lipids in medium LDL (mmol/l)	Lipoprotein subclasses	Medium LDL
+mldlpl	Phospholipids in medium LDL (mmol/l)	Lipoprotein subclasses	Medium LDL
+mldlc	Total cholesterol in medium LDL (mmol/l)	Lipoprotein subclasses	Medium LDL
+mldlce	Cholesterol esters in medium LDL (mmol/l)	Lipoprotein subclasses	Medium LDL
+sldlp	Concentration of small LDL particles (mol/l)	Lipoprotein subclasses	Small LDL
+sldll	Total lipids in small LDL (mmol/l)	Lipoprotein subclasses	Small LDL
+sldlc	Total cholesterol in small LDL (mmol/l)	Lipoprotein subclasses	Small LDL
+xlhdlp	Concentration of very large HDL particles (mol/l)	Lipoprotein subclasses	Very large HDL
+xlhdll	Total lipids in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL
+xlhdlpl	Phospholipids in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL
+xlhdlc	Total cholesterol in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL
+xlhdlce	Cholesterol esters in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL
+xlhdlfc	Free cholesterol in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL
+xlhdltg	Triglycerides in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL
+lhdlp	Concentration of large HDL particles (mol/l)	Lipoprotein subclasses	Large HDL
+lhdll	Total lipids in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL
+lhdlpl	Phospholipids in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL
+lhdlc	Total cholesterol in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL
+lhdlce	Cholesterol esters in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL
+lhdlfc	Free cholesterol in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL
+mhdlp	Concentration of medium HDL particles (mol/l)	Lipoprotein subclasses	Medium HDL
+mhdll	Total lipids in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL
+mhdlpl	Phospholipids in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL
+mhdlc	Total cholesterol in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL
+mhdlce	Cholesterol esters in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL
+mhdlfc	Free cholesterol in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL
+shdlp	Concentration of small HDL particles (mol/l)	Lipoprotein subclasses	Small HDL
+shdll	Total lipids in small HDL (mmol/l)	Lipoprotein subclasses	Small HDL
+shdltg	Triglycerides in small HDL (mmol/l)	Lipoprotein subclasses	Small HDL
+vldld	Mean diameter for VLDL particles (nm)	Lipoprotein particle size	Lipoprotein particle size
+ldld	Mean diameter for LDL particles (nm)	Lipoprotein particle size	Lipoprotein particle size
+hdld	Mean diameter for HDL particles (nm)	Lipoprotein particle size	Lipoprotein particle size
+serumc	Serum total cholesterol (mmol/l)	Cholesterol	Cholesterol
+ldlc	Total cholesterol in LDL (mmol/l)	Cholesterol	Cholesterol
+hdlc	Total cholesterol in HDL (mmol/l)	Cholesterol	Cholesterol
+estc	Esterified cholesterol (mmol/l)	Cholesterol	Cholesterol
+freec	Free cholesterol (mmol/l)	Cholesterol	Cholesterol
+serumtg	Serum total triglycerides (mmol/l)	Glycerides and phospholipids	Glycerides and phospholipids
+totpg	Total phosphoglycerides (mmol/l)	Glycerides and phospholipids	Glycerides and phospholipids
+pc	Phosphatidylcholine and other cholines (mmol/l)	Glycerides and phospholipids	Glycerides and phospholipids
+sm	Sphingomyelins (mmol/l)	Glycerides and phospholipids	Glycerides and phospholipids
+apoa1	Apolipoprotein A-I (g/l)	Apolipoproteins	Apolipoproteins
+apob	Apolipoprotein B (g/l)	Apolipoproteins	Apolipoproteins
+totfa	Total fatty acids (mmol/l)	Fatty acids	Fatty acids
+falen	"Estimated description of fatty acid chain length, not actual carbon number"	Fatty acids	Fatty acids
+dha	"22:6, docosahexaenoic acid (mmol/l)"	Fatty acids	Fatty acids
+la	"18:2, linoleic acid (mmol/l)"	Fatty acids	Fatty acids
+faw3	Omega-3 fatty acids (mmol/l)	Fatty acids	Fatty acids
+faw6	Omega-6 fatty acids (mmol/l)	Fatty acids	Fatty acids
+mufa	"Monounsaturated fatty acids; 16:1, 18:1 (mmol/l)"	Fatty acids	Fatty acids
+glc	Glucose (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites
+lac	Lactate (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites
+pyr	Pyruvate (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites
+cit	Citrate (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites
+glol	Glycerol (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites
+ala	Alanine (mmol/l)	Amino acids	Amino acids
+gln	Glutamine (mmol/l)	Amino acids	Amino acids
+his	Histidine (mmol/l)	Amino acids	Amino acids
+ile	Isoleucine (mmol/l)	Amino acids	Branched-chain amino acids
+leu	Leucine (mmol/l)	Amino acids	Branched-chain amino acids
+val	Valine (mmol/l)	Amino acids	Branched-chain amino acids
+phe	Phenylalanine (mmol/l)	Amino acids	Aromatic amino acids
+tyr	Tyrosine (mmol/l)	Amino acids	Aromatic amino acids
+ace	Acetate (mmol/l)	Ketone bodies	Ketone bodies
+acace	Acetoacetate (mmol/l)	Ketone bodies	Ketone bodies
+bohbut	3-hydroxybutyrate (mmol/l)	Ketone bodies	Ketone bodies
+crea	Creatinine (mmol/l)	Fluid balance	Fluid balance
+alb	Albumin (signal area)	Fluid balance	Fluid balance
+gp	"Glycoprotein acetyls, mainly a1-acid glycoprotein (mmol/l)"	Inflammation	Inflammation
+NA	Average number of double bonds in a fatty acid chain	Fatty acids	Fatty acids
+NA	Average number of methylene groups in a fatty acid chain	Fatty acids	Fatty acids
+NA	Average number of methylene groups per double bond	Metabolites ratio	Metabolites ratio
+NA	Glycoproteins	Protein	Protein
+NA	"Omega-7, omega-9 and saturated fatty acids"	Fatty acids	Fatty acids
+NA	Other polyunsaturated fatty acids than 18:2	Fatty acids	Fatty acids
+NA	Ratio of bisallylic groups to double bonds	Metabolites ratio	Metabolites ratio
+NA	Ratio of bisallylic groups to total fatty acids	Fatty acids	Fatty acids
+NA	Urea	Amino acids	Amino acids

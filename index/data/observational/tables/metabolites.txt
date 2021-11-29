@@ -16,16 +16,16 @@ hdl2c	Total cholesterol in HDL2 (mmol/l)	Cholesterol	Cholesterol	no
 hdl3c	Total cholesterol in HDL3 (mmol/l)	Cholesterol	Cholesterol	no
 hdlc	Total cholesterol in HDL (mmol/l)	Cholesterol	Cholesterol	no
 ldlc	Total cholesterol in LDL (mmol/l)	Cholesterol	Cholesterol	no
-remnantc	Remnant cholesterol (non-HDL, non-LDL -cholesterol) (mmol/l)	Cholesterol	Cholesterol	no
+remnantc	"Remnant cholesterol (non-HDL, non-LDL -cholesterol) (mmol/l)"	Cholesterol	Cholesterol	no
 serumc	Serum total cholesterol (mmol/l)	Cholesterol	Cholesterol	no
 vldlc	Total cholesterol in VLDL (mmol/l)	Cholesterol	Cholesterol	no
 cla	Conjugated linoleic acid (mmol/l)	Fatty acids	Fatty acids	no
-dha	22:6, docosahexaenoic acid (mmol/l)	Fatty acids	Fatty acids	no
-falen	Estimated description of fatty acid chain length, not actual carbon number	Fatty acids	Fatty acids	no
+dha	"22:6, docosahexaenoic acid (mmol/l)"	Fatty acids	Fatty acids	no
+falen	"Estimated description of fatty acid chain length, not actual carbon number"	Fatty acids	Fatty acids	no
 faw3	Omega-3 fatty acids (mmol/l)	Fatty acids	Fatty acids	no
 faw6	Omega-6 fatty acids (mmol/l)	Fatty acids	Fatty acids	no
-la	18:2, linoleic acid (mmol/l)	Fatty acids	Fatty acids	no
-mufa	Monounsaturated fatty acids; 16:1, 18:1 (mmol/l)	Fatty acids	Fatty acids	no
+la	"18:2, linoleic acid (mmol/l)"	Fatty acids	Fatty acids	no
+mufa	"Monounsaturated fatty acids; 16:1, 18:1 (mmol/l)"	Fatty acids	Fatty acids	no
 pufa	Polyunsaturated fatty acids (mmol/l)	Fatty acids	Fatty acids	no
 sfa	Saturated fatty acids (mmol/l)	Fatty acids	Fatty acids	no
 totfa	Total fatty acids (mmol/l)	Fatty acids	Fatty acids	no
@@ -49,13 +49,13 @@ sm	Sphingomyelins (mmol/l)	Glycerides and phospholipids	Glycerides and phospholi
 totcho	Total cholines (mmol/l)	Glycerides and phospholipids	Glycerides and phospholipids	no
 totpg	Total phosphoglycerides (mmol/l)	Glycerides and phospholipids	Glycerides and phospholipids	no
 vldltg	Triglycerides in VLDL (mmol/l)	Glycerides and phospholipids	Glycerides and phospholipids	no
-dagtg	Ratio of diacylglycerol to triglycerides (%)	Glycerides and phospholipids ratios	NA	yes
-tgpg	Ratio of triglycerides to phosphoglycerides ratio (%)	Glycerides and phospholipids ratios	NA	yes
+dagtg	Ratio of diacylglycerol to triglycerides (%)	Glycerides and phospholipids ratios	Glycerides and phospholipids ratios	yes
+tgpg	Ratio of triglycerides to phosphoglycerides ratio (%)	Glycerides and phospholipids ratios	Glycerides and phospholipids ratios	yes
 cit	Citrate (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites	no
 glc	Glucose (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites	no
 lac	Lactate (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites	no
 pyr	Pyruvate (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites	no
-gp	Glycoprotein acetyls, mainly a1-acid glycoprotein (mmol/l)	Inflammation	Inflammation	no
+gp	"Glycoprotein acetyls, mainly a1-acid glycoprotein (mmol/l)"	Inflammation	Inflammation	no
 acace	Acetoacetate (mmol/l)	Ketone bodies	Ketone bodies	no
 ace	Acetate (mmol/l)	Ketone bodies	Ketone bodies	no
 bohbut	3-hydroxybutyrate (mmol/l)	Ketone bodies	Ketone bodies	no
@@ -230,4 +230,4 @@ xsvldlcpct	Total cholesterol in very small VLDL to total lipids in very small VL
 xsvldlfcpct	Free cholesterol in very small VLDL to total lipids in very small VLDL ratio (%)	Lipoprotein subclasses ratios	Very Small VLDL ratios	yes
 xsvldlplpct	Phospholipids in very small VLDL to total lipids in very small VLDL ratio (%)	Lipoprotein subclasses ratios	Very Small VLDL ratios	yes
 xsvldltgpct	Triglycerides in very small VLDL to total lipids in very small VLDL ratio (%)	Lipoprotein subclasses ratios	Very Small VLDL ratios	yes
-unsatdeg	NA	NA	NA	NA
+unsatdeg	Estimated degree of unsaturation	Fatty acids	Fatty acids	yes

@@ -10,6 +10,7 @@ associated_metabolites <- read.table("007_metabolites_outcomes/analysis/002_adip
 associated_metabolites <- unique(associated_metabolites$metabolite)
 data <- read.table("007_metabolites_outcomes/analysis/003_metabolite_endometrial/mr_results_formatted.txt", header = T, sep = "\t")
 data <- data[data$UKB_label %in% associated_metabolites,]
+bmi_metabs <- unique(data$exposure)
 # identify differences
 data_metabolites <- unique(data$UKB_label)
 length(data_metabolites) - length(associated_metabolites)
@@ -25,6 +26,7 @@ associated_metabolites <- read.table("007_metabolites_outcomes/analysis/002_adip
 associated_metabolites <- unique(associated_metabolites$metabolite)
 data <- read.table("007_metabolites_outcomes/analysis/003_metabolite_endometrial/mr_results_formatted.txt", header = T, sep = "\t")
 data <- data[data$UKB_label %in% associated_metabolites,]
+whr_metabs <- unique(data$exposure)
 # identify differences
 data_metabolites <- unique(data$UKB_label)
 length(data_metabolites) - length(associated_metabolites)
@@ -40,6 +42,7 @@ associated_metabolites <- read.table("007_metabolites_outcomes/analysis/002_adip
 associated_metabolites <- unique(associated_metabolites$metabolite)
 data <- read.table("007_metabolites_outcomes/analysis/003_metabolite_endometrial/mr_results_formatted.txt", header = T, sep = "\t")
 data <- data[data$UKB_label %in% associated_metabolites,]
+bf_metabs <- unique(data$exposure)
 # identify differences
 data_metabolites <- unique(data$UKB_label)
 length(data_metabolites) - length(associated_metabolites)
@@ -51,6 +54,10 @@ data$adiposity <- "bf"
 bf <- subset(data, pval < 0.05)
 
 # ====
+metabs <- c(bmi_metabs, whr_metabs, bf_metabs)
+metabs <- unique(metabs)
+write.table(metabs, "007_metabolites_outcomes/analysis/003_metabolite_endometrial/total_associated_metabolites.txt", 
+            row.names = FALSE, col.names = TRUE, quote = FALSE, sep = "\t")
 data <- rbind(bmi,whr,bf)
 associated_metabolites <- unique(data$UKB_label)
 data <- read.table("007_metabolites_outcomes/analysis/003_metabolite_endometrial/mr_results_formatted.txt", header = T, sep = "\t")

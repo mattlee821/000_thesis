@@ -1,0 +1,22 @@
+Exposure	Outcome	Analysis	Adjusted	OR	Lower CI	Upper CI	p-value
+WHR	Endometrial cancer	Univariable MR	-	1.26	0.95	1.66	0.1
+SVLDLTG	Endometrial cancer	Univariable MR	-	1.11	0.98	1.25	0.1
+XSVLDLTG	Endometrial cancer	Univariable MR	-	1.11	0.98	1.24	0.09
+WHR	Endometrial cancer	Multivariable MR	SVLDLTG	1.17	0.7	1.96	0.55
+SVLDLTG	Endometrial cancer	Multivariable MR	WHR	1.37	0.98	1.91	0.08
+WHR	Endometrial cancer	Multivariable MR	XSVLDLTG	1.17	0.71	1.93	0.55
+XSVLDLTG	Endometrial cancer	Multivariable MR	WHR	1.29	0.86	1.93	0.24
+WHR	Endometroid	Univariable MR	-	1.25	0.91	1.74	0.17
+SVLDLTG	Endometroid	Univariable MR	-	1.11	0.96	1.28	0.16
+XSVLDLTG	Endometroid	Univariable MR	-	1.11	0.96	1.27	0.15
+WHR	Endometroid	Multivariable MR	SVLDLTG	1.24	0.65	2.38	0.52
+SVLDLTG	Endometroid	Multivariable MR	WHR	1.36	0.89	2.07	0.17
+WHR	Endometroid	Multivariable MR	XSVLDLTG	1.16	0.62	2.18	0.65
+XSVLDLTG	Endometroid	Multivariable MR	WHR	1.27	0.76	2.12	0.38
+WHR	Non-endometroid	Univariable MR	-	2.31	1.23	4.35	0.01
+SVLDLTG	Non-endometroid	Univariable MR	-	1.79	1.25	2.56	0.001
+SVLDLTG	Non-endometroid	Univariable MR	-	1.79	1.12	2.17	0.001
+WHR	Non-endometroid	Multivariable MR	SVLDLTG	0.77	0.3	1.97	0.58
+SVLDLTG	Non-endometroid	Multivariable MR	WHR	3.14	1.7	5.81	0.001
+WHR	Non-endometroid	Multivariable MR	XSVLDLTG	1.32	0.51	3.41	0.57
+XSVLDLTG	Non-endometroid	Multivariable MR	WHR	1.99	0.92	4.3	0.09

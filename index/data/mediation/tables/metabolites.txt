@@ -1,54 +1,54 @@
-Metabolite	Label	Class	Subclass
-idltg	Triglycerides in IDL (mmol/l)	Lipoprotein subclasses	IDL
-ile	Isoleucine (mmol/l)	Amino acids	Branched-chain amino acids
-leu	Leucine (mmol/l)	Amino acids	Branched-chain amino acids
-lvldlfc	Free cholesterol in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL
-lvldll	Total lipids in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL
-lvldlp	Concentration of large VLDL particles (mol/l)	Lipoprotein subclasses	Large VLDL
-lvldlpl	Phospholipids in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL
-lvldltg	Triglycerides in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL
-mufa	Monounsaturated fatty acids; 16:1, 18:1 (mmol/l)	Fatty acids	Fatty acids
-mvldltg	Triglycerides in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL
-phe	Phenylalanine (mmol/l)	Amino acids	Aromatic amino acids
-shdltg	Triglycerides in small HDL (mmol/l)	Lipoprotein subclasses	Small HDL
-svldll	Total lipids in small VLDL (mmol/l)	Lipoprotein subclasses	Small VLDL
-svldltg	Triglycerides in small VLDL (mmol/l)	Lipoprotein subclasses	Small VLDL
-tyr	Tyrosine (mmol/l)	Amino acids	Aromatic amino acids
-val	Valine (mmol/l)	Amino acids	Branched-chain amino acids
-vldlsize	Mean diameter for VLDL particles (nm)	Lipoprotein particle size	Lipoprotein particle size
-xlvldll	Total lipids in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL
-xlvldlp	Concentration of very large VLDL particles (mol/l)	Lipoprotein subclasses	Very large VLDL
-xlvldlpl	Phospholipids in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL
-xlvldltg	Triglycerides in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL
-xsvldltg	Triglycerides in very small VLDL (mmol/l)	Lipoprotein subclasses	Very Small VLDL
-xxlvldll	Total lipids in chylomicrons and extremely large VLDL (mmol/l)	Lipoprotein subclasses	Extremely large VLDL
-xxlvldlp	Concentration of chylomicrons and extremely large VLDL particles (mol/l)	Lipoprotein subclasses	Extremely large VLDL
-xxlvldlpl	Phospholipids in chylomicrons and extremely large VLDL (mmol/l)	Lipoprotein subclasses	Extremely large VLDL
-apoa1	Apolipoprotein A-I (g/l)	Apolipoproteins	Apolipoproteins
-gln	Glutamine (mmol/l)	Amino acids	Amino acids
-hdlc	Total cholesterol in HDL (mmol/l)	Cholesterol	Cholesterol
-hdlsize	Mean diameter for HDL particles (nm)	Lipoprotein particle size	Lipoprotein particle size
-lhdlc	Total cholesterol in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL
-lhdlce	Cholesterol esters in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL
-lhdlfc	Free cholesterol in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL
-lhdll	Total lipids in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL
-mhdlc	Total cholesterol in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL
-mhdlce	Cholesterol esters in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL
-mhdlfc	Free cholesterol in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL
-mhdll	Total lipids in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL
-xlhdlfc	Free cholesterol in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL
-xlhdll	Total lipids in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL
-xlhdlp	Concentration of very large HDL particles (mol/l)	Lipoprotein subclasses	Very large HDL
-xlhdlpl	Phospholipids in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL
-apob	Apolipoprotein B (g/l)	Apolipoproteins	Apolipoproteins
-lactate	Lactate (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites
-mvldlfc	Free cholesterol in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL
-mvldll	Total lipids in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL
-shdll	Total lipids in small HDL (mmol/l)	Lipoprotein subclasses	Small HDL
-totalfa	Total fatty acids (mmol/l)	Fatty acids	Fatty acids
-xsvldll	Total lipids in very small VLDL (mmol/l)	Lipoprotein subclasses	Very Small VLDL
-pyruvate	Pyruvate (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites
-albumin	Albumin  (signal area)	Fluid balance	Fluid balance
-his	Histidine (mmol/l)	Amino acids	Amino acids
-xlhdlce	Cholesterol esters in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL
-xlhdltg	Triglycerides in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL
+Metabolite	Label	Class	Subclass	derived_features
+idltg	Triglycerides in IDL (mmol/l)	Lipoprotein subclasses	IDL	no
+ile	Isoleucine (mmol/l)	Amino acids	Branched-chain amino acids	no
+leu	Leucine (mmol/l)	Amino acids	Branched-chain amino acids	no
+lvldlfc	Free cholesterol in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL	no
+lvldll	Total lipids in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL	no
+lvldlp	Concentration of large VLDL particles (mol/l)	Lipoprotein subclasses	Large VLDL	no
+lvldlpl	Phospholipids in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL	no
+lvldltg	Triglycerides in large VLDL (mmol/l)	Lipoprotein subclasses	Large VLDL	no
+mufa	"Monounsaturated fatty acids; 16:1, 18:1 (mmol/l)"	Fatty acids	Fatty acids	no
+mvldltg	Triglycerides in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	no
+phe	Phenylalanine (mmol/l)	Amino acids	Aromatic amino acids	no
+shdltg	Triglycerides in small HDL (mmol/l)	Lipoprotein subclasses	Small HDL	no
+svldll	Total lipids in small VLDL (mmol/l)	Lipoprotein subclasses	Small VLDL	no
+svldltg	Triglycerides in small VLDL (mmol/l)	Lipoprotein subclasses	Small VLDL	no
+tyr	Tyrosine (mmol/l)	Amino acids	Aromatic amino acids	no
+val	Valine (mmol/l)	Amino acids	Branched-chain amino acids	no
+vldlsize	Mean diameter for VLDL particles (nm)	Lipoprotein particle size	Lipoprotein particle size	no
+xlvldll	Total lipids in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL	no
+xlvldlp	Concentration of very large VLDL particles (mol/l)	Lipoprotein subclasses	Very large VLDL	no
+xlvldlpl	Phospholipids in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL	no
+xlvldltg	Triglycerides in very large VLDL (mmol/l)	Lipoprotein subclasses	Very large VLDL	no
+xsvldltg	Triglycerides in very small VLDL (mmol/l)	Lipoprotein subclasses	Very Small VLDL	no
+xxlvldll	Total lipids in chylomicrons and extremely large VLDL (mmol/l)	Lipoprotein subclasses	Extremely large VLDL	no
+xxlvldlp	Concentration of chylomicrons and extremely large VLDL particles (mol/l)	Lipoprotein subclasses	Extremely large VLDL	no
+xxlvldlpl	Phospholipids in chylomicrons and extremely large VLDL (mmol/l)	Lipoprotein subclasses	Extremely large VLDL	no
+apoa1	Apolipoprotein A-I (g/l)	Apolipoproteins	Apolipoproteins	no
+gln	Glutamine (mmol/l)	Amino acids	Amino acids	no
+hdlc	Total cholesterol in HDL (mmol/l)	Cholesterol	Cholesterol	no
+hdlsize	Mean diameter for HDL particles (nm)	Lipoprotein particle size	Lipoprotein particle size	no
+lhdlc	Total cholesterol in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL	no
+lhdlce	Cholesterol esters in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL	no
+lhdlfc	Free cholesterol in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL	no
+lhdll	Total lipids in large HDL (mmol/l)	Lipoprotein subclasses	Large HDL	no
+mhdlc	Total cholesterol in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL	no
+mhdlce	Cholesterol esters in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL	no
+mhdlfc	Free cholesterol in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL	no
+mhdll	Total lipids in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL	no
+xlhdlfc	Free cholesterol in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL	no
+xlhdll	Total lipids in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL	no
+xlhdlp	Concentration of very large HDL particles (mol/l)	Lipoprotein subclasses	Very large HDL	no
+xlhdlpl	Phospholipids in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL	no
+apob	Apolipoprotein B (g/l)	Apolipoproteins	Apolipoproteins	no
+lactate	Lactate (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites	no
+mvldlfc	Free cholesterol in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	no
+mvldll	Total lipids in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	no
+shdll	Total lipids in small HDL (mmol/l)	Lipoprotein subclasses	Small HDL	no
+totalfa	Total fatty acids (mmol/l)	Fatty acids	Fatty acids	no
+xsvldll	Total lipids in very small VLDL (mmol/l)	Lipoprotein subclasses	Very Small VLDL	no
+pyruvate	Pyruvate (mmol/l)	Glycolysis related metabolites	Glycolysis related metabolites	no
+albumin	Albumin  (signal area)	Fluid balance	Fluid balance	no
+his	Histidine (mmol/l)	Amino acids	Amino acids	no
+xlhdlce	Cholesterol esters in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL	no
+xlhdltg	Triglycerides in very large HDL (mmol/l)	Lipoprotein subclasses	Very large HDL	no

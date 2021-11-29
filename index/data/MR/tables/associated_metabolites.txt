@@ -21,7 +21,6 @@ bmi	Apolipoprotein B (g/l)	Apolipoproteins	Apolipoproteins	+	<	<	<	<
 whr	Apolipoprotein B (g/l)	Apolipoproteins	Apolipoproteins	+	<	<	<	<
 bmi	Total cholesterol in HDL (mmol/l)	Cholesterol	Cholesterol	-	<	<	<	<
 whr	Total cholesterol in HDL (mmol/l)	Cholesterol	Cholesterol	-	<	<	<	<
-bf	22:6, docosahexaenoic acid (mmol/l)	Fatty acids	Fatty acids	+	>	>	>	>
 bf	Estimated description of fatty acid chain length, not actual carbon number	Fatty acids	Fatty acids	+	<	>	>	>
 bmi	Monounsaturated fatty acids; 16:1, 18:1 (mmol/l)	Fatty acids	Fatty acids	+	<	<	<	<
 whr	Monounsaturated fatty acids; 16:1, 18:1 (mmol/l)	Fatty acids	Fatty acids	+	<	>	<	<
@@ -67,7 +66,6 @@ bmi	Free cholesterol in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL	-	
 whr	Free cholesterol in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL	-	<	<	<	<
 bmi	Total cholesterol in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL	-	<	<	<	<
 whr	Total cholesterol in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL	-	<	<	<	<
-bf	Total lipids in medium HDL (mmol/l)	Lipoprotein subclasses	Medium HDL	+	>	>	>	>
 bmi	Free cholesterol in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	+	<	<	>	<
 whr	Free cholesterol in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	+	<	<	<	<
 bmi	Total lipids in medium VLDL (mmol/l)	Lipoprotein subclasses	Medium VLDL	+	<	<	<	<

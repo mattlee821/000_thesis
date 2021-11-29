@@ -7,6 +7,7 @@ library(dplyr)
 library(tibble)
 library(forcats)
 source("index/data/index/colour_palette.R")
+source("index/data/observational/scripts/my_forestplot.R")
 
 # kettunen ====
 # data ====
@@ -241,6 +242,7 @@ plot_data1$subclass <- droplevels(as.factor(plot_data1$subclass))
 plot_data2$subclass <- droplevels(as.factor(plot_data2$subclass))
 plot_data3$subclass <- droplevels(as.factor(plot_data3$subclass))
 plot_data4$subclass <- droplevels(as.factor(plot_data4$subclass))
+levels(plot_data1$method)[levels(plot_data1$method)=="Inverse variance weighted (multiplicative random effects)"] <- "IVW-MRE"
 
 ## plot ====
 psignif <- 0.05/22
@@ -348,6 +350,32 @@ legend <- get_legend(legend)
 pdf("index/data/MR/figures/forestplot_kettunen_sensitivity_directional_consistency.pdf",
     width = 14, height = 14)
 plot_grid(p1,p2,p3,p4,legend, nrow = 1, rel_widths = c(1,1,1,1,0.6))
+dev.off()
+
+
+plot_data$method <- as.factor(plot_data$method)
+levels(plot_data$method)[levels(plot_data$method)=="Inverse variance weighted (multiplicative random effects)"] <- "IVW-MRE"
+p1 <- my_forestplot(
+  df = plot_data,
+  name = raw.label,
+  estimate = b,
+  pvalue = pval,
+  psignif = psignif,
+  ci = ci,
+  colour = exposure, shape = method) +
+  scale_color_manual(values = c(discrete_wes_pal[[16]],discrete_wes_pal[[14]],discrete_wes_pal[[18]])) +
+  ggforce::facet_col(
+    facets = ~subclass,
+    scales = "free",
+    space = "free"
+  ) +
+  coord_cartesian(xlim = c(-4.5, 2.5)) +
+  theme(legend.position = "bottom") +
+  theme(legend.title = element_blank()) +
+  theme(axis.title.x = element_blank()) 
+pdf("index/data/MR/figures/forestplot_kettunen_sensitivity_directional_consistency_combined.pdf",
+    width = 14, height = 22)
+p1
 dev.off()
 
 # INTERVAL ====
@@ -674,4 +702,30 @@ legend <- get_legend(legend)
 pdf("index/data/MR/figures/forestplot_interval_sensitivity_directional_consistency.pdf",
     width = 14, height = 10)
 plot_grid(p1,p2,p3,legend, nrow = 1, rel_widths = c(1,1,1,0.6))
+dev.off()
+
+
+plot_data$method <- as.factor(plot_data$method)
+levels(plot_data$method)[levels(plot_data$method)=="Inverse variance weighted (multiplicative random effects)"] <- "IVW-MRE"
+p1 <- my_forestplot(
+  df = plot_data,
+  name = raw.label,
+  estimate = b,
+  pvalue = pval,
+  psignif = psignif,
+  ci = ci,
+  colour = exposure, shape = method) +
+  scale_color_manual(values = c(discrete_wes_pal[[16]],discrete_wes_pal[[14]],discrete_wes_pal[[18]])) +
+  ggforce::facet_col(
+    facets = ~subclass,
+    scales = "free",
+    space = "free"
+  ) +
+  coord_cartesian(xlim = c(-1, 1.5)) +
+  theme(legend.position = "bottom") +
+  theme(legend.title = element_blank()) +
+  theme(axis.title.x = element_blank()) 
+pdf("index/data/MR/figures/forestplot_interval_sensitivity_directional_consistency_combined.pdf",
+    width = 14, height = 12)
+p1
 dev.off()

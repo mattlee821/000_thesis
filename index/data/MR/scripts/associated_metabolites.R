@@ -33,7 +33,7 @@ mr_bf_metabolites <- pos_bf$outcome
 mr_bf_metabolites <- c(mr_bf_metabolites, neg_bf$outcome)
 
 # get metabolites from observational data ====
-obs <- read.table("index/data/chapter4/data/analysis/results/combined/combined.txt", header = T, sep = "\t")
+obs <- read.table("index/data/observational/data/analysis/results/combined/combined.txt", header = T, sep = "\t")
 obs <- subset(obs, model == "model2" & group == "adults")
 obs <- obs[,c("exposure", "metabolite", "raw.label", "b","se","p")]
 colnames(obs) <- c("exposure", "outcome", "raw.label", "observational_b","observational_se","observational_p")
@@ -73,8 +73,8 @@ bf$meta_direction = paste(bf$meta_direction, bf$direction)
 bmi_obs_sig <- subset(bmi, observational_p < 0.05/53)
 whr_obs_sig <- subset(whr, observational_p < 0.05/53)
 bf_obs_sig <- subset(bf, observational_p < 0.05/53)
-bf_obs_sig_pos <- subset(bf, meta_direction ==  "+ + +")
-bf_obs_sig_neg <- subset(bf, meta_direction ==  "- - -")
+bf_obs_sig_pos <- subset(bf_obs_sig, meta_direction ==  "+ + +")
+bf_obs_sig_neg <- subset(bf_obs_sig, meta_direction ==  "- - -")
 bf_obs_sig <- rbind(bf_obs_sig_pos, bf_obs_sig_neg)
 
 

@@ -8,7 +8,7 @@ school: 'Bristol Medical School'
 group: 'Population Health Sciences'
 degree: 'PhD Population Health Sciences'
 logo: data/index/figures/UoBcrest.pdf
-wordcount: '9999999'
+wordcount: '~70,500'
 bibliography: bib/thesis.bib
 csl: csl/nature.csl
 knit: "bookdown::render_book"
@@ -25,7 +25,6 @@ header-includes: # include other LaTeX packages here
     \usepackage[left]{lineno}
     \usepackage{float}
     \floatplacement{figure}{H}
-    \linenumbers
     \raggedbottom 
 output: 
     thesisdown::thesis_pdf: 
@@ -34,6 +33,8 @@ output:
       latex_enging: pdflatex
 abstract: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-abstract.Rmd"), collapse = '\n  ')`
+covid: |
+  `r if(knitr:::is_latex_output()) paste(readLines("00-covid.Rmd"), collapse = '\n  ')`
 acknowledgements: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-acknowledgements.Rmd"), collapse = '\n  ')`
 publications: |

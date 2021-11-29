@@ -70,7 +70,7 @@ All data manipulation and analyses were performed using `R`[@r2019] (version 3.5
 (ref:MR-figure-overview-scap) Analysis overview
 
 ```{r MR-figure-analysis-flow, echo=FALSE, warning=FALSE, error=FALSE, out.width='100%',fig.cap='(ref:MR-figure-overview-cap)', fig.scap='(ref:MR-figure-overview-scap)'}
-knitr::include_graphics("../index/data/MR/figures/analysis_flow.pdf")
+knitr::include_graphics("../index/data/MR/figures/analysis_overview.pdf")
 ```
 
 ### Instrumentation {#MR-methods-instrumentation}
@@ -228,14 +228,14 @@ data <- data[data$exposure %in% main_exposures, ]
 data <- data[,c("exposure","b","se","pval","raw.label","subclass")]
 interval <- data[order(data$b),]
 ```
-Effect estimates from the IVW-MRE model showed evidence for a broad effect of adiposity on the metabolic profile (Figure \@ref(fig:MR-figure-circosplot-kettunen-main-analysis) and \@ref(fig:MR-figure-circosplot-interval-main-analysis)). The pattern of association was visually similar when using the Kettunen data for BMI and WHR, and when using the INTERVAL data for BMI and WHR. When using the Kettunen data, the effect of BF on metabolites was visually distinct to the effect of BMI and WHR, with many effect estimates appearing to be inverse to those for BMI and WHR. However, when using the INTERVAL data, the effect of BF looked more similar in regards to the direction of effect to that of BMI and WHR. However, these effects appeared to cross the null much more often. Effects for WHR were generally larger with wider CIs, whereas those for BMI were smaller with tighter CIs. Effects for BF were much larger across both metabolite datasets, with wide CIs which spanned the null.  \par
+Effect estimates from the IVW-MRE model showed evidence for a broad effect of adiposity on the metabolic profile (Figure \@ref(fig:MR-figure-circosplot-kettunen-main-analysis) and \@ref(fig:MR-figure-circosplot-interval-main-analysis)). The pattern of association was visually similar when using the Kettunen data for BMI and WHR, and when using the INTERVAL data for BMI and WHR. When using the Kettunen data, the effect of BF on metabolites was visually distinct to the effect of BMI and WHR, with many effect estimates appearing to be inverse to those for BMI and WHR. However, when using the INTERVAL data, the effect of BF looked more similar in regards to the direction of effect to that of BMI and WHR. However, these effects appeared to cross the null much more often. Effects for WHR were generally larger with wider CIs, whereas those for BMI were smaller with tighter CIs. Effects for BF were much larger across both metabolite datasets, with wide CIs which spanned the null. A table of results for analyses using [Kettunen](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/results/mr_results_kettunen.txt) and [INTERVAL](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/results/mr_results_interval.txt) data are available on GitHub. \par
 
 \newpage
 \thispagestyle{empty}
 
-(ref:MR-figure-circosplot-kettunen-main-analysis-cap) **Mendelian randomization analysis: Estimation of the causal association between adiposity measures and 123 NMR derived metabolites using data from Kettunen et al ., (2016)**. Circos plot shows each track as one measures of adiposity; the outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. Effect estimates are given in SD units per SD higher BMI, WHR, or BF. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+(ref:MR-figure-circosplot-kettunen-main-analysis-cap) **Mendelian randomization analysis: association between adiposity measures and metabolites using Kettunen data**. Circos plot shows each track as one measures of adiposity; the outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. Effect estimates are given in SD units per SD higher BMI, WHR, or BF. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_kettunen_main_analysis.pdf).
 
-(ref:MR-figure-circosplot-kettunen-main-analysis-scap) Mendelian randomization analysis: Estimation of the causal association between adiposity measures and 123 NMR derived metabolites using data from Kettunen et al ., (2016)
+(ref:MR-figure-circosplot-kettunen-main-analysis-scap) Mendelian randomization analysis: association between adiposity measures and metabolites using Kettunen data
 
 ```{r MR-figure-circosplot-kettunen-main-analysis, echo=FALSE, out.width='100%', fig.align='center', fig.cap='(ref:MR-figure-circosplot-kettunen-main-analysis-cap)', fig.scap='(ref:MR-figure-circosplot-kettunen-main-analysis-scap)'}
 knitr::include_graphics("data/MR/figures/circosplot_kettunen_main_analysis.pdf")
@@ -244,7 +244,7 @@ knitr::include_graphics("data/MR/figures/circosplot_kettunen_main_analysis.pdf")
 \newpage
 \thispagestyle{empty}
 
-(ref:MR-figure-circosplot-interval-main-analysis-cap) **Mendelian randomization analysis: Estimation of the causal association between adiposity measures and 230 NMR derived metabolites using data from INTERVAL**. Circos plot shows each track as one measures of adiposity; the outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold (`r round(0.05/28,4)`) has been reached. Effect estimates are given in log SD units per SD higher BMI, WHR, or BF. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
+(ref:MR-figure-circosplot-interval-main-analysis-cap) **Mendelian randomization analysis: association between adiposity measures and metabolites using INTERVAL data**. Circos plot shows each track as one measures of adiposity; the outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold (`r round(0.05/28,4)`) has been reached. Effect estimates are given in log SD units per SD higher BMI, WHR, or BF. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_interval_main_analysis.pdf).
 
 (ref:MR-figure-circosplot-interval-main-analysis-scap) Mendelian randomization analysis: Estimation of the causal association between adiposity measures and 230 NMR derived metabolites using data from INTERVAL
 
@@ -936,7 +936,7 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = F,
 
 Assumptions of no pleiotropy were explored using MR-Egger[@Bowden2015], weighted median[@Burgess2017a] and weighted mode[@Hartwig2017] based estimators. Globally, results from sensitivity analyses were similar to that of the main analysis for each exposure, though with wider CIs (Appendix \@ref(appendix-MR-sensitivity-analysis)). CIs for sensitivity analyses tended to cross the null and were widest for MR-Egger, which is in keeping with the lower power afforded with this model. Results from sensitivity analyses for WHR appeared to show most consistency with the main analysis using both Kettunen and INTERVAL data and CIs for weighted median and mode models did not cross the null in a majority of results for subclasses. When looking at concordance in effect direction across all models (sensitivity and main analysis), consistency in the direction of effect was highest for WHR across both datasets (Figure \@ref(fig:MR-figure-kettunen-sensitivity-directional-consistency)). For both datasets, effects for BF were the least consistent. \par
 
-(ref:MR-figure-kettunen-sensitivity-directional-consistency-cap) **Directional consistency of main and sensitivity analyses from two-sample Mendelian randomization results using Kettunen and INTERVAL data**. Plot shows the directional consistency across all 4 models (IVW-MRE, MR-Egger, weighted Mode, and weighted median) within each exposure. A positive effect reflects the effect estimate from all four models being in the positive direction; a negative effect reflects the effect estimate from all four models being in a negative direction; an opposite effect reflects different directions for the effect estimates. **A:** Two-sample MR IVW-MRE for 123 metabolites using data from Kettunen et al., (2016)[@Kettunen2016]; **B:** Two-sample MR IVW-MRE for 230 metabolites using data from INTERVAL. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage.
+(ref:MR-figure-kettunen-sensitivity-directional-consistency-cap) **Directional consistency of two-sample Mendelian randomization effect estimates from different models**. Plot shows the directional consistency across all 4 models (IVW-MRE, MR-Egger, weighted Mode, and weighted median) within each exposure. A positive effect reflects the effect estimate from all four models being in the positive direction; a negative effect reflects the effect estimate from all four models being in a negative direction; an opposite effect reflects different directions for the effect estimates. **A:** two-sample MR IVW-MRE for 123 metabolites using data from Kettunen et al., (2016)[@Kettunen2016]; **B:** two-sample MR IVW-MRE for 230 metabolites using data from INTERVAL. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage.
 
 (ref:MR-figure-kettunen-sensitivity-directional-consistency-scap) Directional consistency of main and sensitivity analyses from two-sample Mendelian randomization results using Kettunen and INTERVAL data
 
@@ -994,7 +994,7 @@ A total of `r length(kettunen_shared_list)` tests were directionally consistent 
 \newpage
 \thispagestyle{empty}
 \vspace*{-3cm}
-(ref:MR-figure-forestplot-kettunen-sensitivity-directional-consistency-cap) **Directionally consistent effects across all two-sample Mendelian randomization models using the Kettunen data**. Effect estimates and 95% confidence intervals for metabolites which showed directionally consistent results across the main (IVW-MRE = inverse variance weighted multiplicative random effects) and sensitivity analyses (MR-Egger, weighted median, and weighted mode) within each exposure. Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage. To aid interpretation, the $X$ axis has been curtailed; confidence intervals for a number of BF estimates exceed the upper and lower $X$ axis limits. 
+(ref:MR-figure-forestplot-kettunen-sensitivity-directional-consistency-cap) **Directionally consistent effects across all two-sample Mendelian randomization models using the Kettunen data**. Effect estimates and 95% confidence intervals for metabolites which showed directionally consistent results across the main (IVW-MRE = inverse variance weighted multiplicative random effects) and sensitivity analyses (MR-Egger, weighted median, and weighted mode) within each exposure. Solid points indicate a multiple testing threshold (p-value < `r round(0.05/22,4)`) has been reached. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage. To aid interpretation, the $X$ axis has been curtailed; confidence intervals for a number of BF estimates exceed the upper and lower $X$ axis limits. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/forestplot_kettunen_sensitivity_directional_consistency_combined.pdf).
 
 (ref:MR-figure-forestplot-kettunen-sensitivity-directional-consistency-scap) Directionally consistent effects across all two-sample Mendelian randomization models using the Kettunen data
 
@@ -1002,7 +1002,7 @@ A total of `r length(kettunen_shared_list)` tests were directionally consistent 
 knitr::include_graphics("data/MR/figures/forestplot_kettunen_sensitivity_directional_consistency_combined.pdf")
 ```
 
-(ref:MR-figure-forestplot-interval-sensitivity-directional-consistency-cap) **Directionally consistent effects across all two-sample Mendelian randomization models using the INTERVAL data**. Effect estimates and 95% confidence intervals for metabolites which showed directionally consistent results across the main (IVW-MRE = inverse variance weighted multiplicative random effects) and sensitivity analysis (MR-Egger, weighted median, and weighted mode) within each exposure. Solid points indicate a multiple testing threshold (`r round(0.05/28,4)`) has been reached. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage. To aid interpretation, the $X$ axis has been curtailed; confidence intervals for a number of BF estimates exceed the upper and lower $X$ axis limits. 
+(ref:MR-figure-forestplot-interval-sensitivity-directional-consistency-cap) **Directionally consistent effects across all two-sample Mendelian randomization models using the INTERVAL data**. Effect estimates and 95% confidence intervals for metabolites which showed directionally consistent results across the main (IVW-MRE = inverse variance weighted multiplicative random effects) and sensitivity analysis (MR-Egger, weighted median, and weighted mode) within each exposure. Solid points indicate a multiple testing threshold (p-value < `r round(0.05/28,4)`) has been reached. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage. To aid interpretation, the $X$ axis has been curtailed; confidence intervals for a number of BF estimates exceed the upper and lower $X$ axis limits. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/forestplot_interval_sensitivity_directional_consistency_combined.pdf).
 
 (ref:MR-figure-forestplot-interval-sensitivity-directional-consistency-scap) Directionally consistent effects across all two-sample Mendelian randomization models in the INTERVAL analysis
 
@@ -1038,27 +1038,17 @@ bf_low_kettunen <- subset(data, median_b <= quantile(abs(data$median_b), probs =
 ```
 In single-SNP MR using Kettunen data, visual inspection of forest plots showed $S$ shaped distributions of effect estimates for all tests (Schematic illustration \@ref(fig:MR-figure-kettunen-singlesnp-representative-figure)). Effect estimates for some SNPs in the single-SNP MR analysis appeared to be outliers. For example, for the analysis of the association between BMI and glycoproteins, rs4673553 showed a disproportionately larger effect estimate of 22 SD units increase per SD higher BMI (standard error = 0.85; p-value = 5.66 x 10^-148^) when compared to other SNPs. \par
 
-(ref:MR-figure-kettunen-singlesnp-representative-figure-cap) **Schematic illustration: Single-SNP MR analysis of the effect of adiposity on a metabolite**. In single-SNP MR analysis, the effect of each SNP on the outcome is investigated. In these analyses, SNP effects are organised from largest to smallest. Here, the figure shows an $S$ shaped distribution of effects which is representative of the single-SNP MR analyses performed using Kettunen and INTERVAL data.
+(ref:MR-figure-kettunen-singlesnp-representative-figure-cap) **Schematic illustration: Single-SNP Mendelian randomization analysis of the association between adiposity and a metabolite**. In single-SNP Mendelian randomization (MR) analysis, the effect of each SNP on the outcome is investigated. In these analyses, SNP effects are organised from largest to smallest. Here, the figure shows an $S$ shaped distribution of effects which is representative of the single-SNP MR analyses performed using Kettunen and INTERVAL data.
 
-(ref:MR-figure-kettunen-singlesnp-representative-figure-scap) Schematic illustration: Single-SNP MR analysis of the effect of adiposity on a metabolite
+(ref:MR-figure-kettunen-singlesnp-representative-figure-scap) Schematic illustration: Single-SNP Mendelian randomization analysis of the association between adiposity and a metabolite
 
 ```{r MR-figure-kettunen-singlesnp-representative-figure, echo=FALSE, out.width='50%', fig.align='center',  fig.cap='(ref:MR-figure-kettunen-singlesnp-representative-figure-cap)', fig.scap='(ref:MR-figure-kettunen-singlesnp-representative-figure-scap)'}
 knitr::include_graphics("data/MR/figures/schemeatic_single_snp.pdf")
 ```
 
-<!-- 
-(ref:MR-figure-kettunen-singlesnp-outlier-cap) **Schematic illustration: Single-SNP MR analysis of the effect of adiposity on a metabolite**. In single-SNP MR analysis, the effect of each SNP on the outcome is investigated. In these analyses, SNP effects are organised from largest to smallest. Here, the figure shows an $S$ shaped distribution of effects which is representative of the single-SNP MR analyses performed for Kettunen and INTERVAL data. In addition, a single-SNP is shown to have a much larger effect than the others.
-
-(ref:MR-figure-kettunen-singlesnp-outlier-scap) Schematic illustration: Leave-one-out MR analysis of the effect of adiposity on a metabolite
-
-```{r MR-figure-kettunen-singlesnp-outlier, echo=FALSE, out.width='50%', fig.align='center', fig.cap='(ref:MR-figure-kettunen-singlesnp-outlier-cap)', fig.scap='(ref:MR-figure-kettunen-singlesnp-outlier-scap)'}
-knitr::include_graphics("data/MR/figures/schemeatic_loo.pdf")
-```
--->
-
 To further investigate SNPs with potentially outlying effect estimates, the median effect size across all metabolites for each SNP was investigated. A number of SNPs showed larger median effect sizes across a majority of metabolites. Funnel plots did not however highlight outlying SNPs across all metabolites. Instead, funnel plots were reflective of some SNPs having larger effect estimates more broadly (Representative Figure \@ref(fig:MR-figure-kettunen-funnelplot-BMI-representative-figure)). The low number of SNPs used for BF did not result in meaningfully interpretable funnel plots (Representative Figure \@ref(fig:MR-figure-kettunen-funnelplot-BF-representative-figure)). \par
 
-(ref:MR-figure-kettunen-funnelplot-BMI-representative-figure-cap) **Representative figure: Funnel plot of effect estimates of the association between body mass index and glycoproteins using Kettunen data**. Funnel plot shows the results of a single-SNP MR with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy. The representative figure illustrates a SNP (bottom right) with a larger effect estimate.
+(ref:MR-figure-kettunen-funnelplot-BMI-representative-figure-cap) **Representative figure: funnel plot of effect estimates of the association between body mass index and glycoproteins using Kettunen data**. Funnel plot shows the effect estimate and standard error from for individual single nucleotide polymorphisms (SNPs). Asymmetry in the funnel may indicate the presence of pleiotropy. The representative figure illustrates a SNP (bottom right) with a larger effect estimate. Effect estimates represent SD unit change in the metabolite per SD unit increase in the exposure.
 
 (ref:MR-figure-kettunen-funnelplot-BMI-representative-figure-scap) Representative figure: Funnel plot of effect estimates of the association between body mass index and glycoproteins using Kettunen data
 
@@ -1066,7 +1056,7 @@ To further investigate SNPs with potentially outlying effect estimates, the medi
 knitr::include_graphics("data/MR/figures/funnelplot_BMI_representative_figure_kettunen.pdf")
 ```
 
-(ref:MR-figure-kettunen-funnelplot-BF-representative-figure-cap) **Representative figure: Funnel plot of effect estimates of the association between body fat percentage and histidine using Kettunen data**. Funnel plot shows the results of a single-SNP MR with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy.
+(ref:MR-figure-kettunen-funnelplot-BF-representative-figure-cap) **Representative figure: funnel plot of effect estimates of the association between body fat percentage and histidine using Kettunen data**. Funnel plot shows the effect estimate and standard error from for individual single nucleotide polymorphisms (SNPs). Asymmetry in the funnel may indicate the presence of pleiotropy. The representative figure illustrates a SNP (bottom right) with a larger effect estimate. Effect estimates represent SD unit change in the metabolite per SD unit increase in the exposure.
 
 (ref:MR-figure-kettunen-funnelplot-BF-representative-figure-scap) Representative figure: Funnel plot of effect estimates of the association between body fat percentage and histidine using Kettunen data
 
@@ -1076,7 +1066,7 @@ knitr::include_graphics("data/MR/figures/funnelplot_BF_representative_figure_ket
 
 Although a number of SNPs showed disproportionately larger effect sizes, in leave-one-out analysis, visual inspection of forest plots showed that no single-SNP altered the direction of effect for any metabolite across exposures. For BF, CIs for one or more SNPs crossed the null for every metabolite tested (Representative Figure \@ref(fig:MR-figure-kettunen-leaveoneout-BF-representative-figure)). This was not the case for BMI and WHR, where for many metabolites CIs did not cross the null for any SNPs (Representative Figure \@ref(fig:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure)). \par
 
-(ref:MR-figure-kettunen-leaveoneout-BF-representative-figure-cap) **Representative figure: Leave-one-out MR analysis of the association between body fat percentage and acetoacetate using Kettunen data**. A leave-one-out analysis performs an MR of exposure on outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion on acetoacetate. Effect estimates represent SD unit change in the metabolite per SD unit increase in the exposure.
+(ref:MR-figure-kettunen-leaveoneout-BF-representative-figure-cap) **Representative figure: leave-one-out MR analysis of the association between body fat percentage and acetoacetate using Kettunen data**. A leave-one-out analysis performs a Mendelian randomization analysis of the exposure and outcome for all single nucleotide polymorphisms (SNPs) excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion with acetoacetate. Effect estimates represent SD unit change in the metabolite per SD unit increase in the exposure.
 
 (ref:MR-figure-kettunen-leaveoneout-BF-representative-figure-scap) Representative figure: Leave-one-out MR analysis of the association between body fat percentage and acetoacetate using Kettunen data
 
@@ -1297,51 +1287,19 @@ table <- table[,c("raw.label", "class", "subclass", "direction")]
 table <- table[order(table$class, table$subclass, table$raw.label),]
 ```
 
-In total, 110 metabolites were shared across the Kettunen and INTERVAL metabolite data. Meta-analysis of p-value was performed using Fisher's method (Equation \@ref(eq:fishers-method)). Across all 3 exposures (330 tests), a total of `r nrow(pos)` tests had a positive direction of effect when meta-analysing the Kettunen and INTERVAL data, `r nrow(neg)` tests had a negative direction of effect. For BMI a total of 68 tests had a consistent direction of effect across both Kettunen and INTERVAL datatsets, `r nrow(pos_bmi)` tests had positive directions of effect and `r nrow(neg_bmi)` tests had negative directions of effect. Similar results were found for WHR (positive = `r nrow(pos_whr)`; negative = `r nrow(neg_whr)`). For BF, a larger number of tests had consistent negative directions of effect (N = `r nrow(neg_bf)`) than positive (N = `r nrow(pos_bf)`). \par
+In total, 110 metabolites were shared across the Kettunen and INTERVAL metabolite data; a table of results is available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/results/meta_analysis_p_results.txt).. Meta-analysis of p-value was performed using Fisher's method (Equation \@ref(eq:fishers-method)). Across all 3 exposures (330 tests), a total of `r nrow(pos)` tests had a positive direction of effect when meta-analysing the Kettunen and INTERVAL data, `r nrow(neg)` tests had a negative direction of effect. For BMI a total of 68 tests had a consistent direction of effect across both Kettunen and INTERVAL datatsets, `r nrow(pos_bmi)` tests had positive directions of effect and `r nrow(neg_bmi)` tests had negative directions of effect. Similar results were found for WHR (positive = `r nrow(pos_whr)`; negative = `r nrow(neg_whr)`). For BF, a larger number of tests had consistent negative directions of effect (N = `r nrow(neg_bf)`) than positive (N = `r nrow(pos_bf)`). \par
 
 Across the 330 tests, a total of `r nrow(data_sig)` tests reached a Bonferroni (0.05/110) multiple testing threshold. Of these, `r nrow(sig_pos)` tests had positive directions of effect and `r nrow(sig_neg)` tests had negative directions of effect when meta-analysing the Kettunen and INTERVAL data. The remaining 47 tests did not have consistent directions of effect across the Kettunen and INTERVAL MR analyses, e.g., the direction of effect when using the Kettunen data was positive but was negative when using the INTERVAL data. For BMI, 46 tests reached the multiple testing threshold, of which, `r nrow(sig_pos_bmi)` tests had consistent positive directions of effect and, `r nrow(sig_neg_bmi)` tests had consistent negative directions of effect. Similar results were found for WHR, where a total of 48 tests reached the multiple testing threshold, with `r nrow(sig_pos_whr)` of these having a positive direction of effect across the Kettunen and INTERVAL datasets, and `r nrow(sig_neg_whr)` a negative direction of effect. For BF, no metabolites reached the multiple testing threshold. \par
 
-<!--
-\newpage
-\thispagestyle{empty}
-
-(ref:MR-figure-circosplot-meta-analysis-pval-cap) **Meta-analysis -log10 p-value results for 110 NMR derived metabolites shared between Kettunen and INTERVAL datasets.**. Circos plot shows each track as one measures of adiposity; the outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). The lines give the -log10 p-value for the meta-analysis results for each adiposity measure on each metabolite. Metabolites are grouped by subclass and arranged alphabetically within each subclass.
-
-(ref:MR-figure-circosplot-meta-analysis-pval-scap) Meta-analysis -log10 p-value results for 110 NMR derived metabolites shared between Kettunen and INTERVAL datasets
-
-```{r MR-figure-circosplot-meta-analysis-pval, echo=FALSE, out.width='120%', fig.align='center', fig.cap='(ref:MR-figure-circosplot-meta-analysis-pval-cap)', fig.scap='(ref:MR-figure-circosplot-meta-analysis-pval-scap)'}
-knitr::include_graphics("data/MR/figures/circosplot_metaanalysis_pval.pdf")
-```
--->
-
 Across both BMI and WHR, a total of 49 tests reached the multiple testing threshold; `r length(sig_pos_bmi_whr)` tests had a consistent positive direction of effect and `r length(sig_neg_bmi_whr)` tests had a consistent negative direction of effect. As such, a total of `r nrow(table)` metabolites were associated with BMI or WHR in the meta-analysis. Table \@ref(tab:MR-table-meta-analysis-sig-direction) gives a list of all `r nrow(table)` metabolites associated with BMI and WHR along with their directions of effect, metabolites are given with their subclass and originally measured units. \par
-
-<!--
-```{r MR-table-meta-analysis-associations-N, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
-table1 <- data.frame(group = c("Consistent total", "Consistent +", " Consistent -", "Associated total", "Associated +", "Associated -"),
-                     Total = c(nrow(pos) + nrow(neg), nrow(pos), nrow(neg), 
-                     nrow(data_sig), nrow(sig_pos), nrow(sig_neg)),
-                     BMI = c(nrow(pos_bmi) + nrow(neg_bmi), nrow(pos_bmi), nrow(neg_bmi),
-                     nrow(sig_bmi), nrow(sig_pos_bmi), nrow(sig_neg_bmi)),
-                     WHR = c(nrow(pos_whr) + nrow(neg_whr), nrow(pos_whr), nrow(neg_whr),
-                     nrow(sig_whr), nrow(sig_pos_whr), nrow(sig_neg_whr)),
-                     BF = c(nrow(pos_bf) + nrow(neg_bf), nrow(pos_bf), nrow(neg_bf),
-                     nrow(sig_bf), nrow(sig_pos_bf), nrow(sig_neg_bf)))
-knitr::kable(table1, longtable = T, booktabs = T, format = "latex", escape = F,
-    caption = 'Meta analysis: Tests with consistent directions of effect and reaching a multiple testing threshold', row.names = F,
-    col.names = c("", "Total", "BMI", "WHR", "BF")) %>%
-  kable_styling(latex_options = c("striped", "HOLD_position", "repeat_header"), position = "center", font_size = 8) %>%
-  kableExtra::footnote(general = "+ = positive direction of effect; - = negative direction of effect; Associated = consistent direction of effect in the meta-analysis and meet the multiple testing threshold for each exposure = 0.05/110", threeparttable = T, general_title = "", footnote_as_chunk = T)
-```
--->
 
 ```{r MR-table-meta-analysis-sig-direction, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 table <- table[,c(1,3,4)]
 knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F,
-    caption = 'Metabolites with a consistent direction of effect between BMI and WHR which reached a multiple testing threshold (p-value < 0.00045) in Mendelian rnadomization meta-analysis', row.names = F,
+    caption = 'Metabolites with a consistent direction of effect between body mass index and waist hip ratio which reached a multiple testing threshold (p-value < 0.00045) in Mendelian randomization meta-analysis', row.names = F,
     col.names = c("Metabolite (units)", "Subclass", "Direction")) %>%
   kable_styling(latex_options = c("striped", "HOLD_position", "repeat_header"), position = "center", font_size = 8) %>%
-  kableExtra::footnote(general = "", threeparttable = T, general_title = "", footnote_as_chunk = T)
+  kableExtra::footnote(general = "Metabolite label and units are given alongside the subclass the metabolites was grouped into and the consistent direction of effect across analyses using Kettunen and INTERVAL data.", threeparttable = T, general_title = "", footnote_as_chunk = T)
 ```
 
 ### Comparison of two-sample Mendelian randomization and observational results from Chapter \@ref(observational)
@@ -1484,7 +1442,7 @@ Across the 45, 48 and 9 metabolites associated with BMI, WHR and BF, respectivel
 knitr::include_graphics("data/MR/figures/associated_metabolites_comparison.pdf")
 ```
 
-\noindent Tile plot shows all metabolites with consistent directions of effect within exposures across observational and Mendelian randomization (MR) meta-analysis and which reached a multiple testing threshold (body mass index (BMI) and waist hip ratio (WHR)) in either the MR meta-analysis and observational analysis (BMI and WHR) or just in the observational analysis (body fat percentage (BF)). Orange tiles indicate a negative direction of effect; blue tiles indicate a positive direction of effect. Multiple testing thresholds: observational = `r round(0.05/53,4)`; MR meta-analysis = `r round(0.05/110,4)`. \par
+\noindent Tile plot shows all metabolites with consistent directions of effect within exposures across observational and Mendelian randomization (MR) meta-analysis and which reached a multiple testing threshold (body mass index (BMI) and waist hip ratio (WHR)) in either the MR meta-analysis and observational analysis (BMI and WHR) or just in the observational analysis (body fat percentage (BF)). Orange tiles indicate a negative direction of effect; blue tiles indicate a positive direction of effect. Multiple testing thresholds: observational = `r round(0.05/53,4)`; MR meta-analysis = `r round(0.05/110,4)`. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/associated_metabolites_comparison.pdf). \par
 
 ## Discussion {#MR-discussion}
 In this chapter, the influence of adiposity on the metabolic profile is demonstrated in an MR framework. The use of MR allowed the interrogation of causality of various measures of adiposity on the metabolic profile, while accounting for limitations in observational analyses (discussed in Chapter \@ref(introduction) and \@ref(observational)). Data on adiposity measures were available for: BMI from up to 795,624 individuals of European ancestries from GIANT[@Yengo2018], WHR from up to 697,702 individuals of European ancestries from GIANT[@Pulit2019], BF from up to 89,297 individuals European ancestries from Lu et al., (2016)[@Lu2016]. Two parallel MR analyses of 123 NMR derived metabolites measured in up-to 24,925 individuals of European ancestries from Kettunen et al., (2016)[@Kettunen2016] and 230 NMR derived metabolites measured in up-to 40,905 individuals of European ancestries from INTERVAL (unpublished) were conducted. Meta-analysis of 110 metabolites measured in both the Kettunen and INTERVAL datasets and comparison with observational analyses from Chapter \@ref(observational) identified `r length(associated_metabolites)` associations between adiposity and metabolite measures that were consistent in direction of effect across MR and observational analyses and passed multiple testing thresholds for one (BF) or both (BMI and WHR) analyses. Positive associations were found for metabolites in VLDL (small, very small, medium, large, and very large), as well as aromatic and branched chain amino acid subclasses. While negative associations were found for HDL (medium, large and very large) subclasses. \par

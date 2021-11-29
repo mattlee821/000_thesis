@@ -97,7 +97,7 @@ All data manipulation and analyses were performed using `R`[@r2019] (version 3.5
 \thispagestyle{empty}
 \vspace*{-3cm}
 
-(ref:mediation-figure-overview-cap) **Analysis overview**. In Chapter \@ref(MR), `r length(associated_metabolites)` metabolites were identified as being associated with adiposity in a meta-analysis of data from Kettunen et a., (2016)[@Kettunen2016] and INTERVAL (unpublished and provided by Adam Butterworth, University of Cambridge). For body mass index (BMI) and waist hip ratio (WHR) these metabolites were identified through directional consistency and multiple testing thresholds across Mendelian randomization and observational analyses. For body fat percentage (BF) metabolites were identified through directional consistency and a multiple testing threshold in the observational analysis only. These `r length(associated_metabolites)` metabolites were taken forward and used in two-sample univariable MR and multivariable MR analyses to investigate intermediate effects on endometrial cancer. NMR = nuclear magnetic resonance.
+(ref:mediation-figure-overview-cap) **Analysis overview**. In Chapter \@ref(MR), `r length(associated_metabolites)` metabolites were identified as being associated with adiposity in a meta-analysis using data from Kettunen et a., (2016)[@Kettunen2016] and INTERVAL (unpublished and provided by Adam Butterworth, University of Cambridge). For body mass index (BMI) and waist hip ratio (WHR) these metabolites were identified through directional consistency and multiple testing thresholds across Mendelian randomization (MR) and observational analyses. For body fat percentage (BF) metabolites were identified through directional consistency and a multiple testing threshold in the observational analysis only. These `r length(associated_metabolites)` metabolites were taken forward and used in two-sample univariable MR and multivariable MR analyses to investigate intermediate effects on endometrial cancer. NMR = nuclear magnetic resonance.
 
 (ref:mediation-figure-overview-scap) Analysis overview
 
@@ -168,7 +168,7 @@ The resulting instrument contains SNPs associated with both the exposure and int
 6. Instruments for each adiposity and metabolite pair were extracted from the endometrial cancer GWAS using MR-Base. Where SNPs were not present in the outcome GWAS, proxy SNPs were included if LD was $\geq$ 0.8. For proxy SNPs, the inclusion of SNPs where the reference strand was ambiguous (strand flips) was allowed and the reference strand was inferred using a MAF threshold of 0.3.
 7. Exposure-related SNPs from summary level data of the outcome were harmonised in reference to the adiposity-increasing effect allele in the adiposity instrument instrument.
 
-(ref:mediation-figure-mvmr-dag-cap) **Directed acyclic graph of multivariable MR principle**. The directed acyclic graph illustrates the principle of multivariable MR using an exposure (X1) and a mediator (X2) on a single outcome. Genetic instruments (G) associated with X1 and X2 are combined into an instrument. In this example, the instrument includes G1, G2, and any number of other SNPs (Gn). The instrument is extracted from summary statistics for each of X1 and X2. G = single nucleotide polymorphism; X1 = exposure, X2 = mediator; Y = outcome; U = unmeasured confounding
+(ref:mediation-figure-mvmr-dag-cap) **Directed acyclic graph of the multivariable Mendelian randomization principle using two exposures**. The directed acyclic graph illustrates the principle of multivariable Mendelian randomization (MR) using an exposure (X1) and a mediator (X2) on a single outcome. Genetic instruments (G) associated with X1 and X2 are combined into an instrument. In this example, the instrument includes G1, G2, and any number of other SNPs (Gn). The instrument is extracted from summary statistics for each of X1 and X2. G = single nucleotide polymorphism; X1 = exposure, X2 = mediator; Y = outcome; U = unmeasured confounding
 
 (ref:mediation-figure-mvmr-dag-scap) Directed acyclic graph of multivariable MR principle
 
@@ -241,7 +241,7 @@ table <- data[,c("group", "outcome_label", "OR", "lower_ci", "upper_ci", "pval")
 table$pval <- signif(table$pval,3)
 table$pval <- as.character(table$pval)
 knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F,
-    caption = 'Two-sample Mendelian randomization results: the association between adiposity measures and endometrial cancer', row.names = F, digits = 2,
+    caption = 'Two-sample univariable Mendelian randomization results of the association between adiposity measures and endometrial cancer', row.names = F, digits = 2,
     col.names = c("","", "OR", "Lower CI", "Upper CI", "p-value")) %>%
   kable_styling(latex_options = c("striped", "HOLD_position", "repeat_header"), position = "center") %>%
   kableExtra::footnote(general = "Results for inverse variance weighted multiplicative random effects model are presented. Odds ratios (OR) and associated 95% confidence intervals (CI) per standard deviation unit increase in body mass index (BMI), waist hip ratio (WHR), or body fat percentage (BF)", threeparttable = T, general_title = "", footnote_as_chunk = T)
@@ -253,7 +253,19 @@ A total of 54 metabolites were identified as being associated with BMI (N = 45),
 
 For BMI, of the 44 metabolites, four had directions of effect that were not consistent with the previous MR analysis (Chapter \@ref(MR)), meta-analysis (Chapter \@ref(MR)), and observational (Chapter \@ref(observational)) analyses: apolipoprotein B, free cholesterol in medium very large low density lipoprotein (VLDL), total lipids in medium VLDL, total lipids in very small VLDL. For WHR, of the 47 metabolites, two had directions of effect that were not consistent with the previous MR analysis (Chapter \@ref(MR)), meta-analysis (Chapter \@ref(MR)), and observational (Chapter \@ref(observational)) analyses: phenylalanine and tyrosine. For BF, all 8 of the analysed metabolites had consistent directions of effect with the previous MR analysis (Chapter \@ref(MR)), meta-analysis (Chapter \@ref(MR)), and observational (Chapter \@ref(observational)) analyses. Sensitivity analyses did not highlight metabolite analyses which violated the MR assumptions. As such, a total of 40, 45, and 8 metabolites (53 unique metabolites) were taken forward for MR analysis to estimate the effect of these metabolites on endometrial cancer outcomes. Seven of these metabolites were only found to be associated with WHR and 5 of these metabolites were uniquely associated with BF. Two metabolites were associated with both BMI and BF and 38 metabolites were associated with both BMI and WHR. Only 1 metabolite, valine, was associated with all three measures. \par
 
-All results for the investigation of the effect of adiposity measures on metabolites measured in UK Biobank are presented in Appendix Figure \@ref(fig:appendix-mediation-figure-forestplot-adiposity-metabolites) and are available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/mediation/results/002_adiposity_metabolite). All sensitivity plots are available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/mediation/figures/002_adiposity_metabolite) and representative figures are presented in the appendix (Appendix \@ref(appendix-mediation)). \par
+All results for the investigation of the effect of adiposity measures on metabolites measured in UK Biobank are presented in Figure \@ref(fig:mediation-figure-forestplot-adiposity-metabolites) and are available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/mediation/results/002_adiposity_metabolite). All sensitivity plots are available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/mediation/figures/002_adiposity_metabolite) and representative figures are presented in the appendix (Appendix \@ref(appendix-mediation)). \par
+
+\newpage
+\thispagestyle{empty}
+\vspace*{-3cm}
+
+(ref:mediation-figure-forestplot-adiposity-metabolites-cap) **Two-sample univariable Mendelian randomization analysis: association between adiposity measures and metabolites using UK Biobank data**. Effect estimates and associated 95% confidence intervals shown for an standard deviation (SD) change in metabolite per SD unit higher body mass index (BMI), waist hip ratio (WHR), or body fat percentage (BF). Solid points indicate a nominal p-value threshold of 0.05 has been reached. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/mediation/figures/002_adiposity_metabolite/forestplot.pdf).
+
+(ref:mediation-figure-forestplot-adiposity-metabolites-scap) Two-sample univariable Mendelian randomization analysis: association between adiposity measures and metabolites using UK Biobank data
+
+```{r mediation-figure-forestplot-adiposity-metabolites, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:mediation-figure-forestplot-adiposity-metabolites-cap)', fig.scap='(ref:mediation-figure-forestplot-adiposity-metabolites-scap)'}
+knitr::include_graphics("data/mediation/figures/002_adiposity_metabolite/forestplot.pdf")
+```
 
 ### Two-sample univariable Mendelian randomization: association between adiposity-associated metabolites and endometrial cancer {#mediation-results-metabolites-cancer}
 ```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
@@ -298,7 +310,7 @@ freq_one_SNP <- subset(freq_SNP, count == 1)
 
 Two-sample univariable MR analysis was used to investigate the causal effect of `r nrow(n_metabolites)` metabolites (i.e., 40, 45, and 8 metabolites driven by BMI, WHR, and BF, respectively) on endometrial cancer.  Instruments for metabolites were obtained from an unpublished GWAS of 249 circulating metabolites performed in UK Biobank (Borges 2021, unpublished). Using a genome-wide p-value threshold of 5x10^-8^ and an LD r^2^ clumping threshold (0.001) for SNPs within a 10,000 base window, to ensure independance of SNPs, `r nrow(SNPS)` total associations with 53 metabolites were identified (unique number of SNPs = `r nrow(n_SNPS)`; minimum number of SNPs associated with a metabolite = `r min(table(SNPS$exposure))`, maximum number of SNPs associated with a metabolite = `r max(table(SNPS$exposure))`; Figure \@ref(fig:mediation-figure-metabolites-snp-distribution)). The greater the number of SNPs associated with a trait, the larger the variance explained by those SNPs and thus the power afforded by that instrument in an MR analysis. Of the `r nrow(n_SNPS)` unique SNPs identified, `r round(nrow(freq_one_SNP)/nrow(freq_SNP)*100,0)`% of SNPs were associated with just 1 metabolite (Figure \@ref(fig:mediation-figure-metabolites-snp-numbers)). The remaining `r 100-round(nrow(freq_one_SNP)/nrow(freq_SNP)*100,0)`% of SNPs were associated with two or more metabolites, with 1 SNP (rs12154627) associated with `r max(freq_SNP$count)` metabolites. Metabolites were inverse rank normally transformed prior to genome-wide analysis and represent SD units. \par
 
-(ref:mediation-figure-metabolites-snp-distribution-cap) **Distribution of the number of SNPs with which metabolites were associated**. A total of `r nrow(n_SNPS)` unique SNPs were identified across 53 metabolites. The number of SNPs associated with each metabolite varied between `r min(table(SNPS$exposure))` and `r max(table(SNPS$exposure))` with a mean of `r round(mean(table(SNPS$exposure)))`. Bin size = 10.
+(ref:mediation-figure-metabolites-snp-distribution-cap) **Distribution of the number of SNPs with which metabolites were associated**. A total of `r nrow(n_SNPS)` unique single nucleotide polymorphisms (SNPs) were identified across 53 metabolites. The number of SNPs associated with each metabolite varied between `r min(table(SNPS$exposure))` and `r max(table(SNPS$exposure))` with a mean of `r round(mean(table(SNPS$exposure)))`. Bin size = 10.
 
 (ref:mediation-figure-metabolites-snp-distribution-scap) Distribution of the number of SNPs with which metabolites were associated.
 
@@ -317,7 +329,7 @@ ggplot(data,
   theme_cowplot()
 ```
 
-(ref:mediation-figure-metabolites-snp-numbers-cap) **Distribution of the number of metabolites with which individual SNPs were associated**. The majority of the `r nrow(n_SNPS)` identified SNPs were associated with one metabolite. One SNP was associated with 33 out of a total 53 metabolites. Bin size = 1.
+(ref:mediation-figure-metabolites-snp-numbers-cap) **Distribution of the number of metabolites with which individual SNPs were associated**. The majority of the `r nrow(n_SNPS)` identified single nucleotide polymorphisms (SNPs) were associated with one metabolite. One SNP was associated with 33 out of a total 53 metabolites. Bin size = 1.
 
 (ref:mediation-figure-metabolites-snp-numbers-scap) Distribution of the number of metabolites with which individual SNPs were associated
 
@@ -343,27 +355,11 @@ valine <- subset(data, metabolite == "val")
 
 A total of `r length(unique_metabolites)` metabolites showed evidence of association for at least one outcome (Figure \@ref(fig:mediation-figure-forestplot-metabolites-cancer)). Valine was the only metabolite found to be negatively associated with the risk of endometrial cancer (OR of endometrial cancer per SD unit increase in valine = `r round(valine$OR[1],2)`; 95% CI = `r round(valine$lower_ci[1],2)`--`r round(valine$upper_ci[1],2)`; p-value = `r round(valine$pval[1],2)`), which was directionally consistent with both endometrioid and non-endometrioid cancers. The largest effect was found for triglycerides in small VLDL, which increased the odds of non-endometrioid cancer by `r round(data$OR[3],2)` (95% CI = `r round(data$lower_ci[3],2)`--`r round(data$upper_ci[3],2)`; p-value = 0.001), which was directionally consistent with results for overall endometrial cancer and endometrioid cancer. The largest effect on endometrioid cancer was for phospholipids in very large high density lipoprotein (HDL; OR = `r round(data$OR[11],2)`; 95% CI = `r round(data$lower_ci[11],2)`--`r round(data$upper_ci[11],2)`; p-value = 0.04), results of which were consistent for overall endometrial cancer but opposite to those found in non-endometrioid cancer (though, CIs overlapped all analysis results and the null). The largest effect on overall endometrial cancer was for triglycerides in very large HDL (OR = `r round(data$OR[7],2)`; 95% CI = `r round(data$lower_ci[7],2)`--`r round(data$upper_ci[7],2)`;2; p-value = 0.06), which was directionally consistent with both endometrioid and non-endometrioid cancers. For triglycerides in very small VLDL, effects were largest for non-endometrioid cancer (OR = `r round(data$OR[6],2)`; 95% CI = `r round(data$lower_ci[6],2)`--`r round(data$upper_ci[6],2)`;; p-value = 0.008), which was directionally consistent with results for overall endometrial cancer and endometrioid cancer. \par
 
-Of the 5 metabolites with evidence of an association with endometrial cancer, endometrioid cancer, and/or non-endometrioid cancer, only triglycerides in very large HDL was associated with BF in the previous analysis conducted in this chapter and in observational (Chapter \@ref(observational)) and MR (Chapter \@ref(MR)) analyses. The remaining four metabolites were not associated with BF in any analysis, but were all associated with BMI and WHR in the previous analysis here and in observational (Chapter \@ref(observational)) and MR (Chapter \@ref(MR)) analyses. As all 5 metabolites showed evidence of association with a measure of adiposity and endometrial cancer, all were considered for MVMR analysis. \par
+Of the 5 metabolites with evidence of an association with endometrial cancer, endometrioid cancer, and/or non-endometrioid cancer, only triglycerides in very large HDL was associated with BF in the previous analysis conducted in this chapter and in observational (Chapter \@ref(observational)) and MR (Chapter \@ref(MR)) analyses. The remaining four metabolites were not associated with BF in any analysis, but were all associated with BMI and WHR in the previous analysis here and in observational (Chapter \@ref(observational)) and MR (Chapter \@ref(MR)) analyses. As all 5 metabolites showed evidence of association with a measure of adiposity and endometrial cancer, all were considered for MVMR analysis. All results are available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/mediation/figures/003_metabolite_endometrial) and presented in Appendix Figure \@ref(fig:appendix-mediation-figure-forestplot-metabolites-cancer) available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/mediation/figures/003_metabolite_endometrial/forestplot_all.pdf). \par
 
+(ref:mediation-figure-forestplot-metabolites-cancer-cap) **Two-sample univariable Mendelian randomization analysis: association between metabolites and endometrial cancer using UK Biobank data**. Forest plot shows odds ratio (OR) and 95% confidence interval for metabolites associated with body mass index, waist hip ratio, and/or body fat percentage with endometrial cancer, endometrioid cancer, and non-endometrioid cancer. Data are presented for endometrial-associated metabolites. The main analysis (inverse variance weighted multiplicative random effects (IVW-MRE)) is presented alongside sensitivity analyses (weighted median, weighted mode, MR-Egger). Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/mediation/figures/003_metabolite_endometrial/forestplot.pdf).
 
-<!--
-```{r mediation-table-adiposity-metabolites-cancer, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
-table <- data.frame(Metabolite = c("Phospholipids in very large HDL", "Triglycerides in small VLDL", "Triglycerides in very large HDL", "Triglycerides in very small VLDL", "Valine"),
-                    BMI = c("Yes", "Yes", "No", "Yes", "Yes"),
-                    WHR = c("Yes", "Yes", "No", "Yes", "Yes"),
-                    BF = c("No", "No", "Yes", "No", "No"))
-
-knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F,
-    caption = 'Metabolites associated with endometrial cancer and whether they were associated with an adiposity measure', row.names = F,
-    col.names = c("", "BMI", "WHR", "BF")) %>%
-  kable_styling(latex_options = c("striped", "HOLD_position", "repeat_header"), position = "center")
-```
--->
-
-
-(ref:mediation-figure-forestplot-metabolites-cancer-cap) **Two-sample univariable Mendelian randomization: Effect of metabolites on endometrial cancer**. Forest plot shows odds ratio (OR) and 95% confidence interval for metabolites associated with BMI, WHR, and/or BF on endometrial cancer, endometrioid cancer, and non-endometrioid cancer. The main analysis (inverse variance weighted multiplicative random effects (IVW-MRE)) is presented alongside sensitivity analyses (weighted median, weighted mode, MR-Egger). 
-
-(ref:mediation-figure-forestplot-metabolites-cancer-scap) Two-sample univariable Mendelian randomization: Effect of metabolites on endometrial cancer
+(ref:mediation-figure-forestplot-metabolites-cancer-scap) Two-sample univariable Mendelian randomization analysis: association between metabolites and endometrial cancer using UK Biobank data
 
 ```{r mediation-figure-forestplot-metabolites-cancer, echo=FALSE, out.width='100%', fig.cap='(ref:mediation-figure-forestplot-metabolites-cancer-cap)', fig.scap='(ref:mediation-figure-forestplot-metabolites-cancer-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/figures/forestplot.pdf")
@@ -400,13 +396,13 @@ Of the 5 metabolites for which there was causal evidence of an effect of at leas
 Results from the two-sample univariable MR analysis of the association between adiposity measures and triglycerides in small and very small VLDL (Section \@ref(mediation-results-adiposity-metabolites)) are presented in Table \@ref(tab:mediation-table-mvmr-adiposity-metabolites). In these analyses, the strongest effect between adiposity measures and triglycerides in small VLDL was found for WHR (SD unit increase in metabolite per SD increase in adiposity measure = `r round(max(adiposity_metab_svldltg$b),2)`; 95% CI = `r round(adiposity_metab_svldltg$lower_ci[2],2)`--`r round(adiposity_metab_svldltg$upper_ci[2],2)`; p-value = `r signif(adiposity_metab_svldltg$pval[2],2)`). The strongest effect between adiposity measures and triglycerides in very small VLDL was also found for WHR (beta = `r round(max(adiposity_metab_xsvldltg$b),2)`; 95% CI = `r round(adiposity_metab_xsvldltg$lower_ci[2],2)`--`r round(adiposity_metab_xsvldltg$upper_ci[2],2)`; p-value = `r signif(adiposity_metab_xsvldltg$pval[2],2)`). The effects of BMI (effect on small VLDL = `r round(adiposity_metab_svldltg$b[1],2)`; effect on very small VLDL = `r round(adiposity_metab_xsvldltg$b[1],2)`) and BF (effect on small VLDL = `r round(adiposity_metab_svldltg$b[3],2)`; effect on very small VLDL = `r round(adiposity_metab_xsvldltg$b[3],2)`) on both metabolites were smaller with CIs that overlapped the null. \par
 
 ```{r mediation-table-mvmr-adiposity-metabolites, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
-table <- read.table("data/mediation/tables/mvmr_adiposity_metabolites.txt", header = T, sep = "\t")
+table <- read.table("data/mediation/tables/mvmr_adiposity_metabolites.txt", header = T, sep = "\t", colClasses = "character")
 table <- table[,c(1,2,4,7,8,6)]
 knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F,
-    caption = 'Two-sample Mendelian randomization: Effect of adiposity measures on triglycerides in small and very small VLDL', row.names = F,
+    caption = 'Two-sample univariable Mendelian randomization: association between adiposity measures and triglycerides in small and very small VLDL', row.names = F,
     col.names = c("Exposure", "Metabolite (units)", "Effect", "Lower CI", "Upper CI", "p-value")) %>%
   kable_styling(latex_options = c("striped", "HOLD_position"), position = "center") %>%
-  kableExtra::footnote(general = "Results are given for the inverse variance weighted multiplicative random effects model. Effect estimates are given as SD unit increase in metabolite per SD unit increase in adiposity measure. Metabolite labels are presented with their originally measured units", threeparttable = T, general_title = "", footnote_as_chunk = T)
+  kableExtra::footnote(general = "Results are given for the inverse variance weighted multiplicative random effects model. Effect estimates are given as SD unit increase in metabolite per SD unit increase in adiposity measure. Metabolite labels are presented with their originally measured units. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage; VLDL = very large low density lipoprotein.", threeparttable = T, general_title = "", footnote_as_chunk = T)
 ```
 
 ```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
@@ -423,12 +419,14 @@ table$upper_ci <- signif(table$upper_ci,2)
 table$pval <- signif(table$pval,3)
 ```
 
-Results from the two-sample univariable MR analysis of the association between triglycerides in small and very small VLDL on endometrial cancer (Section \@ref(mediation-results-metabolites-cancer)) are presented in Table \@ref(tab:mediation-table-mvmr-metabolites-endometrial). In these analyses, the strongest effect for both triglycerides in small (OR per SD unit increase in metabolite = `r table$OR[3]`; 95% CI = `r table$lower_ci[3]`--`r table$upper_ci[3]`; p-value = `r table$pval[3]`) and very small VLDL (OR = `r table$OR[6]`; 95% CI = `r table$lower_ci[6]`--`r table$upper_ci[6]`; p-value = `r table$pval[6]`) was for non-endometrioid cancer. Both metabolites had positive effects on endometrioid and overall endometrial cancer with highly similar effect sizes. However, effects were smaller than for non-endometrioid cancer and CIs overlapped the null. These results are presented alongside the MVMR results in Figure \@ref(fig:mediation-figure-forestplot-adiposity-metabolites-cancer). \par
+Results from the two-sample univariable MR analysis of the association between triglycerides in small and very small VLDL with endometrial cancer (Section \@ref(mediation-results-metabolites-cancer)) are presented in Table \@ref(tab:mediation-table-mvmr-metabolites-endometrial). In these analyses, the strongest effect for both triglycerides in small (OR per SD unit increase in metabolite = `r table$OR[3]`; 95% CI = `r table$lower_ci[3]`--`r table$upper_ci[3]`; p-value = `r table$pval[3]`) and very small VLDL (OR = `r table$OR[6]`; 95% CI = `r table$lower_ci[6]`--`r table$upper_ci[6]`; p-value = `r table$pval[6]`) was for non-endometrioid cancer. Both metabolites had positive effects on endometrioid and overall endometrial cancer with highly similar effect sizes. However, effects were smaller than for non-endometrioid cancer and CIs overlapped the null. These results are presented alongside the MVMR results in Figure \@ref(fig:mediation-figure-forestplot-adiposity-metabolites-cancer). \par
+
+\newpage
 
 ```{r mediation-table-mvmr-metabolites-endometrial, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
-table <- read.table("data/mediation/tables/mvmr_metabolites_cancer.txt", header = T, sep = "\t")
+table <- read.table("data/mediation/tables/mvmr_metabolites_cancer.txt", header = T, sep = "\t", colClasses = "character")
 knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F,
-    caption = 'Two-sample Mendelian randomization: Effect of triglycerides in small and very small VLDL on endometrial cancer', row.names = F, 
+    caption = 'Two-sample univariable Mendelian randomization: association between triglycerides in small and very small VLDL and endometrial cancer', row.names = F, 
     col.names = c("Exposure", "Outcome", "OR", "Lower CI", "Upper CI", "p-value")) %>%
   kable_styling(latex_options = c("striped", "HOLD_position"), position = "center", font_size = 10) %>%
   kableExtra::footnote(general = "Results are given for the inverse variance weighted multiplicative random effects model. Effect estimates are given as the odds (OR) of endometrial cancer per SD unit increase in metabolite. Metabolite labels are presented with their originally measured units", threeparttable = T, general_title = "", footnote_as_chunk = T)
@@ -461,20 +459,17 @@ endometrioid <- subset(data, outcome == "Endometroid")
 non_endometrioid <- subset(data, outcome == "Non-endometroid")
 ```
 
-Results for MVMR analyses are presented in the Appendix Tables \@ref(appendix-mediation-table-mvmr-bmi), \@ref(appendix-mediation-table-mvmr-whr), and \@ref(appendix-mediation-table-mvmr-bf) for BMI, WHR, and BF, respectively. All results relevant to the MVMR analysis are presented in Figure \@ref(fig:mediation-figure-forestplot-adiposity-metabolites-cancer) and a summary of the MVMR results is given herein. \par
+All results relevant to the MVMR analysis (this includes univariable two-sample MR results) are presented in Figure \@ref(fig:mediation-figure-forestplot-adiposity-metabolites-cancer) and Appendix Tables \@ref(tab:appendix-mediation-table-mvmr-bmi), \@ref(tab:appendix-mediation-table-mvmr-whr), and \@ref(tab:appendix-mediation-table-mvmr-bf) for BMI, WHR, and BF, respectively. A summary of the MVMR analysis is given herein. \par
 
 In MVMR analysis, the effect of BMI on overall endometrial cancer was similar after adjustment for either metabolite: OR per SD unit increase in BMI adjusted for triglycerides in small VLDL = `r mvmr_bmi$OR[1]`; 95% CI = `r mvmr_bmi$lower_ci[1]`--`r mvmr_bmi$upper_ci[1]`; p-value = 5.18 x 10^-9^; OR per SD unit increase in BMI adjusted for triglycerides very small VLDL = `r mvmr_bmi$OR[4]`; 95% CI = `r mvmr_bmi$lower_ci[4]`--`r mvmr_bmi$upper_ci[4]`; p-value = 7.26 x 10^-8^. These results were similar to the unadjusted (i.e., two-sample univariable MR) effect of BMI on endometrial cancer (OR per SD unit increase in BMI = `r mr_bmi$OR[1]`; 95% CI = `r mr_bmi$lower_ci[1]`--`r mr_bmi$upper_ci[1]`; p-value = 7.47 x 10^-15^). A similar pattern of association was found across endometrioid and non-endometrioid cancer, with similar effect sizes and CIs after adjustment for each metabolite and when comparing effect size and CIs with the unadjusted effects. The effect for non-endometrioid cancer appeared to attenuate more, but CIs overlapped the two-sample univariable MR results. When looking at the effect of metabolites on all endometrial cancer outcomes after adjustment for BMI, there was little difference with effect size in comparison to the unadjusted effect, however CIs were generally wider in the adjusted estimates. For non-endometrioid cancer, the adjusted effect size was larger than the unadjusted effect size for both metabolites (though, CIs overlapped). Given the similarity between unadjusted and adjusted effects, there was little evidence for an intermediate role of either metabolite on the association between BMI and overall endometrial, endometrioid, and non-endometrioid cancer. \par
 
-\newpage
-\blandscape
-(ref:mediation-figure-forestplot-adiposity-metabolites-cancer-cap) **Multivariable MR: Effect of adiposity and metabolites on endometrial cancer**. Forest plot shows odds ratio and 95% confidence interval for: the two-sample univariable MR analyses presented in this chapter (Section \@ref(mediation-results-adiposity-cancer) and \@ref(mediation-results-metabolites-cancer)) and the two-sample multivariable MR results of the intermediary effect of adiposity-associated metabolites and endometrial endometrial (left), endometrioid (middle) and non-endometrioid cancer (right). Points and confidence intervals are coloured for the variable they represent in the two-sample univariable MR and for the adjusted variable in the two-sample multivariable MR, e.g. body mass index (BMI) is coloured orange and any metabolite effect adjusted for BMI is coloured orange also. An inverse variance weighted model was used. BF = body fat percentage; WHR = waist hip ratio; SVLDLTG = triglycerides in small VLDL; XSVLDLTG = triglycerides in very small VLDL.
+(ref:mediation-figure-forestplot-adiposity-metabolites-cancer-cap) **Multivariable MR: Effect of adiposity and metabolites on endometrial cancer**. Forest plot shows odds ratio and 95% confidence interval for: the two-sample univariable MR analyses presented in this chapter (Section \@ref(mediation-results-adiposity-cancer) and \@ref(mediation-results-metabolites-cancer)) and the two-sample multivariable MR results of the intermediary effect of adiposity-associated metabolites and endometrial endometrial (left), endometrioid (middle) and non-endometrioid cancer (right). Points and confidence intervals are coloured for the variable they represent in the two-sample univariable MR and for the adjusted variable in the two-sample multivariable MR, e.g. body mass index (BMI) is coloured orange and any metabolite effect adjusted for BMI is coloured orange also. An inverse variance weighted model was used. BF = body fat percentage; WHR = waist hip ratio; SVLDLTG = triglycerides in small VLDL; XSVLDLTG = triglycerides in very small VLDL. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/mediation/figures/004_mvmr/forestplot.pdf).
 
 (ref:mediation-figure-forestplot-adiposity-metabolites-cancer-scap) Multivariable MR: Effect of adiposity and metabolites on endometrial cancer
 
 ```{r mediation-figure-forestplot-adiposity-metabolites-cancer, echo=FALSE, out.width='100%', fig.cap='(ref:mediation-figure-forestplot-adiposity-metabolites-cancer-cap)', fig.scap='(ref:mediation-figure-forestplot-adiposity-metabolites-cancer-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/004_mvmr/figures/forestplot.pdf")
 ```
-\elandscape
 
 For the effect of BF and WHR on endometrial and endometrioid cancer, a similar pattern of association to that of BMI was seen, with effect sizes and CIs highly similar after adjustment with either metabolite. For example, the effect of WHR on endometrial cancer adjusted for triglycerides in small VLDL was `r mvmr_whr$OR[1]` (95% CI = `r mvmr_whr$lower_ci[1]`--`r mvmr_whr$upper_ci[1]`; p-value = `r round(mvmr_whr$pval[1],2)`) whereas after adjustment for triglycerides in very small VLDL the OR was `r mvmr_whr$OR[4]` (95% CI = `r mvmr_whr$lower_ci[4]`--`r mvmr_whr$upper_ci[4]`; p-value = `r round(mvmr_whr$pval[4],2)`). For both BF and WHR, the adjusted effects had much wider CIs than the unadjusted effects; for BF, adjustment for either metabolite resulted in CIs which crossed the null. For WHR, CIs crossed the null in unadjusted and adjusted analyses. When looking at the metabolites effects on endometrial and endometrioid cancer after adjustment for BF or WHR, there is a similar pattern of association to when adjusting for BMI, with similar sized effect sizes and CIs which overlapped the null. The exception was for the effect of triglycerides in small VLDL on overall endometrial cancer, where, when adjusted for BF (OR = `r mvmr_metab_bf$OR[1]`; 95% CI = `r mvmr_metab_bf$lower_ci[1]`--`r mvmr_metab_bf$upper_ci[1]`; p-value = `r round(mvmr_bf$pval[1],2)`) the CIs did not cross the null unlike in the unadjusted analysis (OR = `r mr_svldltg$OR[1]`; 95% CI = `r mr_svldltg$lower_ci[1]`--`r mr_svldltg$upper_ci[1]`; p-value = `r round(mr_svldltg$pval[1],2)`), but CIs overlapped between both analyses. \par
 
@@ -484,6 +479,8 @@ Overall, the estimates of the effect of BMI, WHR, and BF adjusted for either met
 
 #### Sensitivity analysis
 Instrument strength, estimated using the F-statistic, can give an estimate of weak instrument bias in MR analyses. In general, an F-statistic of $\geq$ 10 is considered sufficiently strong that there is not substantial weak instrument bias[@Burgess2011; @Burgess2015b]. In a single sample setting, the bias is towards the observational estimate, whereas in a two-sample setting, the bias is towards the null. Weak instrument bias was estimated using a generalized version of Cochran's Q[@Sanderson2019b]. F-statistics were $\geq$ 10 for all but triglycerides in small VLDL adjusted for BMI (F = 9) and WHR (F = 7) (Table \@ref(tab:mediation-table-fstatistics)). F-statistics in MVMR analysis were lower than those associated with the instruments used in the two-sample univariable MR analysis, for example BMI in two-sample univariable MR had an F-statistic of 66 while after adjustment for both metabolites this dropped to 54. \par
+
+\newpage
 
 ```{r mediation-table-fstatistics, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 data <- read.table("../../007_metabolites_outcomes/analysis/004_mvmr/mvmr_results.txt", header = T, sep = "\t")
@@ -514,7 +511,7 @@ table <- data.frame(exposure = c("SVLDLTG", "XSVLDLTG", "BMI", "WHR", "BF"),
                     XSVLDLTG = c("","",round(data$f_stat.exposure2[4],0),round(data$f_stat.exposure2[5],0),round(data$f_stat.exposure2[6],0)))
 
 knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F,
-    caption = 'F-statistics for adjusted exposures used in multivariable MR analyses', row.names = F,
+    caption = 'F-statistics for instruments used in univariable and multivariable Mendelian randomization analyses', row.names = F,
     col.names = c("Adjusted variable", "BMI (66)", "WHR (49)", "BF (47)", "SVLDLTG (43)", "XSVLDLTG (53)")) %>%
     add_header_above(c(" " = 1, "Exposures" = 5)) %>%
   kable_styling(latex_options = c("striped", "HOLD_position"), position = "center") %>%
@@ -545,10 +542,10 @@ data$group[data$group == "whr_xsvldltg"] <- "WHR & XSVLDLTG"
 data <- droplevels(data)
 data <- data[order(data$outcome, data$group),]
 knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
-             caption = 'Multivariable MR Q statistics', row.names = F,
+             caption = 'Multivariable Mendelian rnadomization Q statistics', row.names = F,
              col.names = c("Instrument", "Outcome", "Q", "P-value")) %>%
   kable_styling(latex_options = c("striped", "HOLD_position"), position = "center") %>%
-  kableExtra::footnote(general = "Table is ordered by smallest to largest p-value. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage; SVLDLTG = Triglycerides in small VLDL; XSVLDLTG = Triglycerides in very small VLDL; Q = Cochran's.", threeparttable = T, general_title = "", footnote_as_chunk = T)
+  kableExtra::footnote(general = "Table is ordered by outcome and then by instrument. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage; SVLDLTG = Triglycerides in small VLDL; XSVLDLTG = Triglycerides in very small VLDL; Q = Cochran's Q.", threeparttable = T, general_title = "", footnote_as_chunk = T)
 ```
 
 ## Discussion

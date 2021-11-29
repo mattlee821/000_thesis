@@ -12,52 +12,101 @@ Abbreviation & Term\\
 \endfoot
 \bottomrule
 \endlastfoot
-\cellcolor{gray!6}{Apo} & \cellcolor{gray!6}{Apolipoprotein}\\
-BF & Body fat percentage\\
-\cellcolor{gray!6}{BMI} & \cellcolor{gray!6}{Body mass index}\\
-CRP & C reactive protein\\
-\cellcolor{gray!6}{CVD} & \cellcolor{gray!6}{Cardiovascular disease}\\
+\cellcolor{gray!6}{ATGL} & \cellcolor{gray!6}{Adipocyte triglyceride lipase}\\
+ADIPOQ & Adiponectin\\
+\cellcolor{gray!6}{ALT} & \cellcolor{gray!6}{Alanine transaminase}\\
+Apo & Apolipoprotein\\
+\cellcolor{gray!6}{AST} & \cellcolor{gray!6}{Aspartate aminotransferase}\\
 \addlinespace
+ALSPAC & Avon longitudinal Study of Parents and Children\\
+\cellcolor{gray!6}{BF} & \cellcolor{gray!6}{Body fat percentage}\\
+BMI & Body mass index\\
+\cellcolor{gray!6}{CRP} & \cellcolor{gray!6}{C reactive protein}\\
+CVD & Cardiovascular disease\\
+\addlinespace
+\cellcolor{gray!6}{C/EBPs} & \cellcolor{gray!6}{CCAAT-enhancer-binding proteins}\\
 CKD & Chronic kidney disease\\
+\cellcolor{gray!6}{COPD} & \cellcolor{gray!6}{Chronic obstructive pulmonary disese}\\
+CT & Computed tomography\\
 \cellcolor{gray!6}{CI} & \cellcolor{gray!6}{Confidence interval}\\
-CHD & Coronary heart disease\\
-\cellcolor{gray!6}{DXA} & \cellcolor{gray!6}{Dual energy x-ray absorptiometry}\\
-FG & Fasting glucose\\
 \addlinespace
-\cellcolor{gray!6}{GWAS} & \cellcolor{gray!6}{Genome-wide association study}\\
+CHD & Coronary heart disease\\
+\cellcolor{gray!6}{cAMP} & \cellcolor{gray!6}{Cyclic adenosine monophosphate}\\
+DVT & Deep vein thrombosis\\
+\cellcolor{gray!6}{DOHaD} & \cellcolor{gray!6}{Developmental origins of health and disease}\\
+DBP & Diastolic blood pressure\\
+\addlinespace
+\cellcolor{gray!6}{DXA} & \cellcolor{gray!6}{Dual energy X-ray absorptiometry}\\
+EDTA & Ethylenediaminetetraacetic acid\\
+\cellcolor{gray!6}{FG} & \cellcolor{gray!6}{Fasting glucose}\\
+GGT & Gamma-glutamyl Transferase\\
+\cellcolor{gray!6}{GIANT} & \cellcolor{gray!6}{Genetic Investigation of Anthropometric Traits}\\
+\addlinespace
+GWAS & Genome-wide association study\\
+\cellcolor{gray!6}{HDL} & \cellcolor{gray!6}{High density lipoprotein}\\
 HDL & High-density lipoprotein\\
 \cellcolor{gray!6}{HC} & \cellcolor{gray!6}{Hip circumference}\\
 HCadjBMI & Hip circumference adjusted for body mass index\\
-\cellcolor{gray!6}{IV} & \cellcolor{gray!6}{Instrumental variable}\\
 \addlinespace
-IL & Interleukin\\
+\cellcolor{gray!6}{HOMA IR} & \cellcolor{gray!6}{Homeostatic model assessment for insulin resistance}\\
+HSL & Hormone sensitive lipase\\
+\cellcolor{gray!6}{HRC} & \cellcolor{gray!6}{Human reference consortium}\\
+IV & Instrumental variable\\
+\cellcolor{gray!6}{IL} & \cellcolor{gray!6}{Interleukin}\\
+\addlinespace
+IDL & Intermediate density lipoprotein\\
+\cellcolor{gray!6}{IMT} & \cellcolor{gray!6}{Intima-media thickness}\\
+LMM & Linear mixed model\\
 \cellcolor{gray!6}{LD} & \cellcolor{gray!6}{Linkage disequilibrium}\\
-MS & Mass spectrometry\\
-\cellcolor{gray!6}{MR} & \cellcolor{gray!6}{Mendelian randomization}\\
-MVMR & Multivariable Mendelian randomization\\
+LDL & Low density lipoprotein\\
 \addlinespace
-\cellcolor{gray!6}{NAFLD} & \cellcolor{gray!6}{Non-alcoholic fatty liver disease}\\
-NMR & Nuclear magnetic resonance\\
-\cellcolor{gray!6}{OR} & \cellcolor{gray!6}{Odds ratio}\\
+\cellcolor{gray!6}{MRI} & \cellcolor{gray!6}{Magnetic resonance imagining}\\
+MS & Mass spectrometry\\
+\cellcolor{gray!6}{MD} & \cellcolor{gray!6}{Mean difference}\\
+MR & Mendelian randomization\\
+\cellcolor{gray!6}{MAF} & \cellcolor{gray!6}{Minor allele frequency}\\
+\addlinespace
+G0 & Mothers and fathers in the Avon longitudinal Study of Parents and Children\\
+\cellcolor{gray!6}{MVMR} & \cellcolor{gray!6}{Multivariable Mendelian randomization}\\
+MI & Myocardial infarction\\
+\cellcolor{gray!6}{NHS} & \cellcolor{gray!6}{National Health Service}\\
+NAFLD & Non-alcoholic fatty liver disease\\
+\addlinespace
+\cellcolor{gray!6}{NMR} & \cellcolor{gray!6}{Nuclear magnetic resonance}\\
+OR & Odds ratio\\
+\cellcolor{gray!6}{ER} & \cellcolor{gray!6}{Oestrogen receptor}\\
+G1 & Offspring in the Avon longitudinal Study of Parents and Children\\
+\cellcolor{gray!6}{PPARy} & \cellcolor{gray!6}{peroxisome proliferator-activated receptor y}\\
+\addlinespace
 PPAR-y & Peroxisome proliferator-activated receptor-y\\
 \cellcolor{gray!6}{PCOS} & \cellcolor{gray!6}{Polycystic ovary syndrome}\\
+PRDM16 & PR/SET Domain 16\\
+\cellcolor{gray!6}{PC} & \cellcolor{gray!6}{Principal components}\\
+PR & Progesterone receptor\\
 \addlinespace
+\cellcolor{gray!6}{PKA} & \cellcolor{gray!6}{protein kinase A}\\
 RCT & Randomised controlled trial\\
 \cellcolor{gray!6}{SNP} & \cellcolor{gray!6}{Single nucleotide polymorphism}\\
 SD & Standard deviation\\
 \cellcolor{gray!6}{SE} & \cellcolor{gray!6}{Standard error}\\
-STROBE-MR & Strengthening the Reporting of Observational Studies in Epidemiology using Mendelian Randomization\\
 \addlinespace
+SREBP1 & Sterol regulatory element-binding protein 1\\
+\cellcolor{gray!6}{STROBE-MR} & \cellcolor{gray!6}{Strengthening the Reporting of Observational Studies in Epidemiology using Mendelian Randomization}\\
+SBP & Systolic blood pressure\\
 \cellcolor{gray!6}{TG} & \cellcolor{gray!6}{Triglycerides}\\
-TNF-alpha & Tumour necrosis factor-alpha\\
+TNFa & Tumor necrosis factor a\\
+\addlinespace
+\cellcolor{gray!6}{TNF-alpha} & \cellcolor{gray!6}{Tumour necrosis factor-alpha}\\
+UCP1 & Uncoupling protein 1\\
+\cellcolor{gray!6}{CEU} & \cellcolor{gray!6}{Utah residents of Northern and Western European ancestries}\\
+VLDL & Very low density lipoprotein\\
 \cellcolor{gray!6}{WC} & \cellcolor{gray!6}{Waist circumference}\\
+\addlinespace
 WCadjBMI & Waist circumference adjusted for body mass index\\
 \cellcolor{gray!6}{WHR} & \cellcolor{gray!6}{Waist hip ratio}\\
-\addlinespace
-WHRadjBMI & Waist hip ratio adjusted for body mass index\\*
+WHRadjBMI & Waist hip ratio adjusted for body mass index\\
+\cellcolor{gray!6}{WHO} & \cellcolor{gray!6}{World Health Organisation}\\*
 \end{longtable}
-
-
 
 <!--
 ```{r abbreviations, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
@@ -103,10 +152,79 @@ table <- tibble(
     "SD",
     "SE",
     "CI",
-    "Apo"
-    
-    
-    ),
+    "Apo",
+    'ADIPOQ',
+'ALSPAC',
+'ALT',
+'AST',
+'ATGL',
+'BF',
+'BMI',
+'cAMP',
+'C/EBPs',
+'CEU',
+'CHD',
+'CI',
+'CKD',
+'COPD',
+'CRP',
+'CT',
+'CVD',
+'DBP',
+'DOHaD',
+'DVT',
+'EDTA',
+'ER',
+'FG',
+'G0',
+'G1',
+'GGT',
+'GIANT',
+'GWAS',
+'HC',
+'HCadjBMI',
+'HDL',
+'HOMA IR',
+'HRC',
+'HSL',
+'IDL',
+'IL',
+'IMT',
+'IV',
+'LD',
+'LDL',
+'LMM',
+'MAF',
+'MD',
+'MI',
+'MR',
+'MRI',
+'MS',
+'MVMR',
+'NAFLD',
+'NHS',
+'NMR',
+'OR',
+'PC',
+'PCOS',
+'PKA',
+'PPARy',
+'PR',
+'PRDM16',
+'RCT',
+'SBP',
+'SD',
+'SNP',
+'SREBP1',
+'TG',
+'TNFa',
+'UCP1',
+'VLDL',
+'WC',
+'WCadjBMI',
+'WHO',
+'WHR',
+'WHRadjBMI'),
   
   Term = c(
     "Body mass index",
@@ -117,7 +235,7 @@ table <- tibble(
     "Waist hip ratio",
     "Body fat percentage",
     "Waist hip ratio adjusted for body mass index",
-    "Dual energy x-ray absorptiometry",
+    "Dual energy X-ray absorptiometry",
     "Waist circumference",
     "Waist circumference adjusted for body mass index",
     "Hip circumference",
@@ -144,12 +262,82 @@ table <- tibble(
     "Standard deviation",
     "Standard error",
     "Confidence interval",
-    "Apolipoprotein"
-    
-           )) %>%
+    "Apolipoprotein",
+    'Adiponectin',
+'Avon longitudinal Study of Parents and Children',
+'Alanine transaminase',
+'Aspartate aminotransferase',
+'Adipocyte triglyceride lipase',
+'Body fat percentage',
+'Body mass index',
+'Cyclic adenosine monophosphate',
+'CCAAT-enhancer-binding proteins',
+'Utah residents of Northern and Western European ancestries',
+'Coronary heart disease',
+'Confidence interval',
+'Chronic kidney disease',
+'Chronic obstructive pulmonary disese',
+'C reactive protein',
+'Computed tomography',
+'Cardiovascular disease',
+'Diastolic blood pressure',
+'Developmental origins of health and disease',
+'Deep vein thrombosis',
+'Ethylenediaminetetraacetic acid',
+'Oestrogen receptor',
+'Fasting glucose',
+'Mothers and fathers in the Avon longitudinal Study of Parents and Children',
+'Offspring in the Avon longitudinal Study of Parents and Children',
+'Gamma-glutamyl Transferase',
+'Genetic Investigation of Anthropometric Traits',
+'Genome-wide association study',
+'Hip circumference',
+'Hip circumference adjusted for body mass index',
+'High density lipoprotein',
+'Homeostatic model assessment for insulin resistance',
+'Human reference consortium',
+'Hormone sensitive lipase',
+'Intermediate density lipoprotein',
+'Interleukin',
+'Intima-media thickness',
+'Instrumental variable',
+'Linkage disequilibrium',
+'Low density lipoprotein',
+'Linear mixed model',
+'Minor allele frequency',
+'Mean difference',
+'Myocardial infarction',
+'Mendelian randomization',
+'Magnetic resonance imagining',
+'Mass spectrometry',
+'Multivariable Mendelian randomization',
+'Non-alcoholic fatty liver disease',
+'National Health Service',
+'Nuclear magnetic resonance',
+'Odds ratio',
+'Principal components',
+'Polycystic ovary syndrome',
+'protein kinase A',
+'peroxisome proliferator-activated receptor y',
+'Progesterone receptor',
+'PR/SET Domain 16 ',
+'Randomised controlled trial',
+'Systolic blood pressure',
+'Standard deviation',
+'Single nucleotide polymorphism',
+'Sterol regulatory element-binding protein 1',
+'Triglycerides',
+'Tumor necrosis factor a',
+'Uncoupling protein 1',
+'Very low density lipoprotein',
+'Waist circumference',
+'Waist circumference adjusted for body mass index',
+'World Health Organisation',
+'Waist hip ratio',
+'Waist hip ratio adjusted for body mass index')) %>%
   
   arrange(Term) # i.e. alphabetical order by Term
-
+table <- unique(table)
 knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = F, digits = 2,
     row.names = F,
     col.names = c("Abbreviation","Term")) %>%

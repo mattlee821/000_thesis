@@ -489,3 +489,37 @@ write.table(b, "index/data/observational/tables/effect_size_summary_adults.txt",
 
 
 
+
+
+# main and appendix plots in long form ====
+## main ====
+plot_data <- subset(data, model == "Model 2")
+psignif <- 1
+ci <- 0.95
+xmin <- min(plot_data$lower_ci)
+xmax <- max(plot_data$upper_ci)
+
+# forestplot
+p1 <- forestplot(
+  df = plot_data,
+  name = raw.label,
+  estimate = b,
+  pvalue = p,
+  psignif = psignif,
+  ci = ci,
+  xlab = "linear regression of z-score",
+  colour = exposure,
+  shape = group) +
+  scale_color_manual(values = c(discrete_wes_pal[[16]],discrete_wes_pal[[14]],discrete_wes_pal[[18]])) +
+  ggforce::facet_col(
+    facets = ~subclass,
+    scales = "free",
+    space = "free"
+  ) + 
+  theme(legend.position = "bottom") +
+  theme(axis.title.x = element_blank())
+pdf("index/data/observational/figures/forestplot_all_metabolites_long.pdf",
+    width = 20, height = 80)
+p1
+dev.off()
+

@@ -125,6 +125,10 @@ $endif$
 $acknowledgements$
 }
 
+\COVID{
+$covid$
+}
+
 \Declaration{
 $declaration$
 }
@@ -195,6 +199,13 @@ $if(abstract)$
     $abstract$
     \addcontentsline{toc}{chapter}{Abstract}
   \end{abstract}
+$endif$
+
+$if(covid)$
+  \begin{covid}
+    $covid$
+    \addcontentsline{toc}{chapter}{COVID-19 statement}
+  \end{covid}
 $endif$
 
 $if(acknowledgements)$

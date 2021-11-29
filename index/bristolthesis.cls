@@ -146,8 +146,8 @@
 \renewcommand{\cleardoublepage}{\RTcleardoublepage}
 
 %%% Margins
-\oddsidemargin 15truemm
-\evensidemargin 0truemm
+\oddsidemargin 0truemm
+\evensidemargin 15truemm
 \topmargin 0truemm
 \headsep 0truemm % changed this from 10truemm to make less white space at top of page
 \textwidth 420pt % added this to make right-hand-margin smaller
@@ -231,6 +231,17 @@
   \fontsize{12}{14}\selectfont
 }{\clearpage \if@restonecol\twocolumn\fi}%
 
+%% COVID
+\newenvironment{covid}{%
+  \if@twocolumn
+    \@restonecoltrue\onecolumn
+  \else
+    \@restonecolfalse
+  \fi
+  \chapter*{COVID-19 statement}
+  \fontsize{12}{14}\selectfont
+}{\clearpage \if@restonecol\twocolumn\fi}%
+
 %% Acknowledgments
 \newenvironment{acknowledgements}{%
   \if@twocolumn
@@ -301,6 +312,7 @@
 %%% Other things
 \renewcommand{\title}[1]{\def\@title{#1}}
 \newcommand{\Abstract}[1]{\def\@Abstract{#1}}
+\newcommand{\COVID}[1]{\def\@COVID{#1}}
 \newcommand{\Acknowledgements}[1]{\def\@Acknowledgements{#1}}
 \newcommand{\Publications}[1]{\def\@Publications{#1}}
 \newcommand{\Contributions}[1]{\def\@Contributions{#1}}

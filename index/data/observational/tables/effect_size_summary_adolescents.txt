@@ -1,0 +1,27 @@
+Subclass	Min	Max	Mean	Median
+Very Small VLDL	7.14e-10	0.0175	0.00585	0.00357
+Small VLDL	1.32e-09	0.0322	0.0105	0.009
+Medium VLDL	1.33e-09	0.0483	0.0154	0.00877
+Large VLDL	5.28e-10	0.0328	0.0104	0.00579
+Very large VLDL	1.11e-10	0.0111	0.00346	0.00179
+Extremely large VLDL	2.1e-11	0.00482	0.00146	0.000547
+IDL	-0.000354	0.0244	0.00824	0.0039
+Small LDL	2.01e-09	0.0124	0.0041	0.00237
+Medium LDL	-0.000659	0.0196	0.0065	0.0044
+Large LDL	-0.00107	0.0295	0.00972	0.006
+Small HDL	-0.00312	0.00211	-7.98e-05	1.87e-08
+Medium HDL	-0.0116	0.00177	-0.00405	-0.00559
+Large HDL	-0.0531	-6.43e-08	-0.0188	-0.021
+Very large HDL	-0.0339	-2.59e-08	-0.011	-0.00864
+Lipoprotein particle size	-0.0469	0.262	0.0688	-0.0109
+Ketone bodies	-0.00654	-0.000174	-0.00203	-0.00146
+Inflammation	0.0378	0.0506	0.0442	0.0442
+Glycolysis related metabolites	-0.00404	0.0654	0.0221	0.0191
+Glycerides and phospholipids	-0.022	0.0716	0.0115	0.000254
+Fluid balance	-0.00124	0.000472	-0.000367	-0.000348
+Fatty acids	-4.85e-05	0.191	0.0435	0.0275
+Cholesterol	-0.0517	0.0685	0.0168	0.0288
+Apolipoproteins	-0.0183	0.0327	0.0134	0.0271
+Branched-chain amino acids	0.000549	0.00569	0.0028	0.00187
+Aromatic amino acids	0.000567	0.00198	0.0013	0.00132
+Amino acids	-0.00856	0.00372	-0.00172	0.000104

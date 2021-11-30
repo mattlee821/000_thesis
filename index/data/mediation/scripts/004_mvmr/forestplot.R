@@ -81,7 +81,7 @@ colnames(data3)[8] <- "pval"
 
 # plot_data
 plot_data <- bind_rows(data1,data2,data3)
-plot_data$method <- factor(plot_data$method, levels = c("Two Sample MR", "Multivariable MR"))
+plot_data$method <- factor(plot_data$method, levels = c("Univariable MR", "Multivariable MR"))
 plot_data$adjusted <- factor(plot_data$adjusted, levels = c("BMI", "WHR", "BF", "SVLDLTG", "XSVLDLTG"))
 
 # plot ====

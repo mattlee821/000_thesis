@@ -8,7 +8,7 @@ school: 'Bristol Medical School'
 group: 'Population Health Sciences'
 degree: 'PhD Population Health Sciences'
 logo: data/index/figures/UoBcrest.pdf
-wordcount: '~70,500'
+wordcount: '70,455'
 bibliography: bib/thesis.bib
 csl: csl/nature.csl
 knit: "bookdown::render_book"

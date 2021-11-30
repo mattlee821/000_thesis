@@ -18,7 +18,7 @@ ADIPOQ & Adiponectin\\
 Apo & Apolipoprotein\\
 \cellcolor{gray!6}{AST} & \cellcolor{gray!6}{Aspartate aminotransferase}\\
 \addlinespace
-ALSPAC & Avon longitudinal Study of Parents and Children\\
+ALSPAC & Avon Longitudinal Study of Parents and Children\\
 \cellcolor{gray!6}{BF} & \cellcolor{gray!6}{Body fat percentage}\\
 BMI & Body mass index\\
 \cellcolor{gray!6}{CRP} & \cellcolor{gray!6}{C reactive protein}\\
@@ -66,7 +66,7 @@ MS & Mass spectrometry\\
 MR & Mendelian randomization\\
 \cellcolor{gray!6}{MAF} & \cellcolor{gray!6}{Minor allele frequency}\\
 \addlinespace
-G0 & Mothers and fathers in the Avon longitudinal Study of Parents and Children\\
+G0 & Mothers and fathers in the Avon Longitudinal Study of Parents and Children\\
 \cellcolor{gray!6}{MVMR} & \cellcolor{gray!6}{Multivariable Mendelian randomization}\\
 MI & Myocardial infarction\\
 \cellcolor{gray!6}{NHS} & \cellcolor{gray!6}{National Health Service}\\
@@ -75,7 +75,7 @@ NAFLD & Non-alcoholic fatty liver disease\\
 \cellcolor{gray!6}{NMR} & \cellcolor{gray!6}{Nuclear magnetic resonance}\\
 OR & Odds ratio\\
 \cellcolor{gray!6}{ER} & \cellcolor{gray!6}{Oestrogen receptor}\\
-G1 & Offspring in the Avon longitudinal Study of Parents and Children\\
+G1 & Offspring in the Avon Longitudinal Study of Parents and Children\\
 \cellcolor{gray!6}{PPARy} & \cellcolor{gray!6}{peroxisome proliferator-activated receptor y}\\
 \addlinespace
 PPAR-y & Peroxisome proliferator-activated receptor-y\\
@@ -264,7 +264,7 @@ table <- tibble(
     "Confidence interval",
     "Apolipoprotein",
     'Adiponectin',
-'Avon longitudinal Study of Parents and Children',
+'Avon Longitudinal Study of Parents and Children',
 'Alanine transaminase',
 'Aspartate aminotransferase',
 'Adipocyte triglyceride lipase',
@@ -286,8 +286,8 @@ table <- tibble(
 'Ethylenediaminetetraacetic acid',
 'Oestrogen receptor',
 'Fasting glucose',
-'Mothers and fathers in the Avon longitudinal Study of Parents and Children',
-'Offspring in the Avon longitudinal Study of Parents and Children',
+'Mothers and fathers in the Avon Longitudinal Study of Parents and Children',
+'Offspring in the Avon Longitudinal Study of Parents and Children',
 'Gamma-glutamyl Transferase',
 'Genetic Investigation of Anthropometric Traits',
 'Genome-wide association study',

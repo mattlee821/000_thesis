@@ -35,7 +35,7 @@ library(kableExtra)
 library(flextable)
 ```
 
-# EpiViz: a tool to visualise large association analyses {#visualisation}
+# `EpiViz`: a tool to visualise large association analyses {#visualisation}
 
 <style>
 body {

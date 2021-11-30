@@ -39,9 +39,7 @@ options(tinytex.verbose = TRUE)
 
 # 
 
-\par This appendix provides additional information relevant to the main text, including methods, data descriptions, and results, including tables and figures. All tables and figures presented here are also available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data) within each chapter's respective folder:
-
-[github.com/mattlee821/000_thesis/tree/master/index/data](https://github.com/mattlee821/000_thesis/tree/master/index/data). \par
+This appendix provides additional information relevant to the main text, including methods, data descriptions, and results, including tables and figures. All data are available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data) within each chapter's respective folder: [github.com/mattlee821/000_thesis/tree/master/index/data](https://github.com/mattlee821/000_thesis/tree/master/index/data) \par
 
 #### Acknowledgements {-}
 Work in this thesis would not have been possible without the contribution of all the families who took part in ALSPAC, the midwives for their help in recruiting them, and the whole ALSPAC team, which includes interviewers, computer and laboratory technicians, clerical workers, research scientists, volunteers, managers, receptionists and nurses. Thanks to: Adam Butterworth (University of Cambridge) for letting me use summary statistics from INTERVAL, Carolina Borges (University of Bristol) for UK Biobank nuclear magnetic resonance genome-wide association study summary statistics, and Emma Anderson (University of Bristol) for diet trajectory data in ALSPAC. \par
@@ -172,7 +170,7 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
                   "Descriptive data",
                   "Data availability",
                   "Statistical parameters")) %>%
-  kable_styling(full_width = F, latex_options = c("striped", "HOLD_poistion"), position = "center", font_size = 6) %>%
+  kable_styling(full_width = F, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center", font_size = 6) %>%
   column_spec(1, width = "3em") %>%
   column_spec(2, width = "7em") %>%
   column_spec(3, width = "7em") %>%
@@ -545,7 +543,7 @@ The following two forest plots show the results from linear regression analysis 
 
 (ref:appendix-observational-figure-forestplot-main-cap) **Linear regression analysis: association between adiposity measures and directly measured metabolites**. Forest plot shows effect estimates and 95% confidence intervals from model 2 (age, sex, maternal or own education, smoking status, alcohol consumption, diet (calories consumed per day)) for all exposures and age groups. Units represent the unit change in each metabolite per standard deviation change in the exposure. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/forestplot_main.pdf). An alternative forest plot in long form is also available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/forestplot_all_metabolites_long.pdf).
 
-(ref:appendix-observational-figure-forestplot-main-scap) Linear regression analysis: association between adiposity measures and metabolites
+(ref:appendix-observational-figure-forestplot-main-scap) Linear regression analysis: association between adiposity measures and directly measured metabolites
 
 \blandscape
 ```{r appendix-observational-figure-forestplot-main, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-observational-figure-forestplot-main-cap)', fig.scap='(ref:appendix-observational-figure-forestplot-main-scap)'}
@@ -555,7 +553,7 @@ knitr::include_graphics("data/observational/figures/forestplot_main.pdf")
 
 (ref:appendix-observational-figure-forestplot-derived-cap) **Linear regression analysis: association between adiposity measures and derived metabolites**. Forest plot shows effect estimates and 95% confidence intervals from model 2 (age, sex, maternal or own education, smoking status, alcohol consumption, diet (calories consumed per day)) for all exposures and age groups. Units represent the unit change in each metabolite per standard deviation change in the exposure. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/forestplot_supplement.pdf). An alternative forest plot in long form is also available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/forestplot_all_metabolites_long.pdf).
 
-(ref:appendix-observational-figure-forestplot-derived-scap) Linear regression analysis: association between adiposity measures and metabolites
+(ref:appendix-observational-figure-forestplot-derived-scap) Linear regression analysis: association between adiposity measures and derived metabolites
 
 \blandscape
 ```{r appendix-observational-figure-forestplot-derived, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-observational-figure-forestplot-derived-cap)', fig.scap='(ref:appendix-observational-figure-forestplot-derived-scap)'}
@@ -655,7 +653,7 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
 
 ### Results
 
-#### F-statistics
+#### F-statistics {#appendix-MR-fstatistics}
 
 (ref:appendix-MR-figure-fstatistics-bmi-cap) **F-statistics for individual genetic instrumental variables and mean F-statistic for each body mass index instrument used in Mendelian randomization analyses**. Mean F-statistic for each exposure indicated by the pink diamond. The blue line indicates a nominal threshold of 10. Exposures used in the main analysis are highlighted with coloured points. The name after each exposure trait represents the first authors last name from the original GWAS publication for which each exposure was obtained. The number following the first authors last name represents the number of SNPs obtained from the original GWAS; clumped refers to this original number of SNPs having been pruned based on an LD R^2^ of $0.001$. BMI = body mass index. Available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/MR/figures/f_statistics/bmi_f_statistics.pdf).
 
@@ -700,7 +698,7 @@ knitr::include_graphics("data/MR/figures/circosplot_kettunen_sensitivity_analysi
 
 \newpage
 
-(ref:appendix-MR-figure-interval-circosplot-bmi-sensitivity-cap) **Mendelian randomization sensitivity analysis: association between body mass index and metabolites using INTERVAL data**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is Weighted median, the inner track is Weighted mode. Solid points indicate a multiple testing threshold (p-value < `r round(0.05/28,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_interval_sensitivity_analysis_BMI.pdf).
+(ref:appendix-MR-figure-interval-circosplot-bmi-sensitivity-cap) **Mendelian randomization sensitivity analysis: association between body mass index and metabolites using INTERVAL data**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is weighted median, the inner track is weighted mode Solid points indicate a multiple testing threshold (p-value < `r round(0.05/28,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_interval_sensitivity_analysis_BMI.pdf).
 
 (ref:appendix-MR-figure-interval-circosplot-bmi-sensitivity-scap) Mendelian randomization sensitivity analysis: association between body mass index and metabolites using INTERVAL data
 
@@ -715,17 +713,17 @@ knitr::include_graphics("data/MR/figures/circosplot_interval_sensitivity_analysi
 (ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-scap) Mendelian randomization sensitivity analysis: association between waist hip ratio and metabolites using Kettunen data
 
 ```{r appendix-MR-figure-kettunen-circosplot-whr-sensitivity, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-scap)'}
-knitr::include_graphics("data/MR/figures/circosplot_kettunen_sensitivity_analysis_BMI.pdf")
+knitr::include_graphics("data/MR/figures/circosplot_kettunen_sensitivity_analysis_WHR.pdf")
 ```
 
 \newpage
 
-(ref:appendix-MR-figure-interval-circosplot-whr-sensitivity-cap) **Mendelian randomization sensitivity analysis: association between waist hip ratio and metabolites using INTERVAL data**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is Weighted median, the inner track is Weighted mode. Solid points indicate a multiple testing threshold (p-value < `r round(0.05/28,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_interval_sensitivity_analysis_whr.pdf).
+(ref:appendix-MR-figure-interval-circosplot-whr-sensitivity-cap) **Mendelian randomization sensitivity analysis: association between waist hip ratio and metabolites using INTERVAL data**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is weighted median, the inner track is weighted mode Solid points indicate a multiple testing threshold (p-value < `r round(0.05/28,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_interval_sensitivity_analysis_WHR.pdf).
 
 (ref:appendix-MR-figure-interval-circosplot-whr-sensitivity-scap) Mendelian randomization sensitivity analysis: association between waist hip ratio and metabolites using INTERVAL data
 
 ```{r appendix-MR-figure-interval-circosplot-whr-sensitivity, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-circosplot-whr-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-interval-circosplot-whr-sensitivity-scap)'}
-knitr::include_graphics("data/MR/figures/circosplot_interval_sensitivity_analysis_BMI.pdf")
+knitr::include_graphics("data/MR/figures/circosplot_interval_sensitivity_analysis_WHR.pdf")
 ```
 
 \newpage
@@ -735,17 +733,17 @@ knitr::include_graphics("data/MR/figures/circosplot_interval_sensitivity_analysi
 (ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-scap) Mendelian randomization sensitivity analysis: association between body fat percentage and metabolites using Kettunen data
 
 ```{r appendix-MR-figure-kettunen-circosplot-bf-sensitivity, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-scap)'}
-knitr::include_graphics("data/MR/figures/circosplot_kettunen_sensitivity_analysis_BMI.pdf")
+knitr::include_graphics("data/MR/figures/circosplot_kettunen_sensitivity_analysis_BF.pdf")
 ```
 
 \newpage
 
-(ref:appendix-MR-figure-interval-circosplot-bf-sensitivity-cap) **Mendelian randomization sensitivity analysis: association between body fat percentage and metabolites using INTERVAL data**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is Weighted median, the inner track is Weighted mode. Solid points indicate a multiple testing threshold (p-value < `r round(0.05/28,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_interval_sensitivity_analysis_BF.pdf).
+(ref:appendix-MR-figure-interval-circosplot-bf-sensitivity-cap) **Mendelian randomization sensitivity analysis: association between body fat percentage and metabolites using INTERVAL data**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is weighted median, the inner track is weighted mode Solid points indicate a multiple testing threshold (p-value < `r round(0.05/28,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_interval_sensitivity_analysis_BF.pdf).
 
 (ref:appendix-MR-figure-interval-circosplot-bf-sensitivity-scap) Mendelian randomization sensitivity analysis: association between body fat percentage and metabolites using INTERVAL data
 
 ```{r appendix-MR-figure-interval-circosplot-bf-sensitivity, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-circosplot-bf-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-interval-circosplot-bf-sensitivity-scap)'}
-knitr::include_graphics("data/MR/figures/circosplot_interval_sensitivity_analysis_BMI.pdf")
+knitr::include_graphics("data/MR/figures/circosplot_interval_sensitivity_analysis_BF.pdf")
 ```
 
 \newpage
@@ -781,7 +779,7 @@ knitr::include_graphics("data/MR/figures/funnelplot_BMI_representative_figure_ke
 
 (ref:appendix-MR-figure-kettunen-funnelplot-BF-representative-figure-cap) **Representative figure: funnel plot of effect estimates of the association between body mass index and histidine using Kettunen data**. Funnel plot shows the results of a single-SNP MR with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy.
 
-(ref:appendix-MR-figure-kettunen-funnelplot-BF-representative-figure-scap) Representative figure: Funnel plot of effect estimates of the association between body mass index and histidine using Kettunen data
+(ref:appendix-MR-figure-kettunen-funnelplot-BF-representative-figure-scap) Representative figure: funnel plot of effect estimates of the association between body mass index and histidine using Kettunen data
 
 ```{r appendix-MR-figure-kettunen-funnelplot-BF-representative-figure, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-funnelplot-BF-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-funnelplot-BF-representative-figure-scap)'}
 knitr::include_graphics("data/MR/figures/funnelplot_BF_representative_figure_kettunen.pdf")
@@ -840,7 +838,7 @@ knitr::include_graphics("data/MR/figures/funnelplot_BMI_representative_figure_in
 
 (ref:appendix-MR-figure-interval-funnelplot-BF-representative-figure-cap) **Representative figure: funnel plot of effect estimates of the association between body mass index and histidine using INTERVAL data**. Funnel plot shows the results of a single-SNP MR with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy.
 
-(ref:appendix-MR-figure-interval-funnelplot-BF-representative-figure-scap) Representative figure: Funnel plot of effect estimates of the association between body mass index and histidine using INTERVAL data
+(ref:appendix-MR-figure-interval-funnelplot-BF-representative-figure-scap) Representative figure: funnel plot of effect estimates of the association between body mass index and histidine using INTERVAL data
 
 ```{r appendix-MR-figure-interval-funnelplot-BF-representative-figure, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-funnelplot-BF-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-interval-funnelplot-BF-representative-figure-scap)'}
 knitr::include_graphics("data/MR/figures/funnelplot_BF_representative_figure_interval.pdf")
@@ -1070,9 +1068,9 @@ knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_
 ```
 
 
-(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-cap) **Representative figure: funnel plot of effect estimates of the association apolipoprotein B and endometrial cancer using UK Biobank data**. Funnel plot shows the results of a single-SNP Mendelian randomization with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy. Effect estimates (log odds; x-axis) and standard error (y-axis) per SD unit higher body mass index (BMI) are shown. 
+(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-cap) **Representative figure: funnel plot of effect estimates of the association between apolipoprotein B and endometrial cancer using UK Biobank data**. Funnel plot shows the results of a single-SNP Mendelian randomization with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy. Effect estimates (log odds; x-axis) and standard error (y-axis) per SD unit higher body mass index (BMI) are shown. 
 
-(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-scap) Representative figure: funnel plot of effect estimates of the association apolipoprotein B and endometrial cancer using UK Biobank data
+(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-scap) Representative figure: funnel plot of effect estimates of the association between apolipoprotein B and endometrial cancer using UK Biobank data
 
 ```{r appendix-mediation-figure-representative-funnel-metabolites-endometrial, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/figures/representative_plot_mr_funnel.pdf")
@@ -1080,7 +1078,7 @@ knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_
 
 (ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-cap) **Representative figure: leave-one-out Mendelian randomization analysis of the association between phenylalanine and endometrial cancer using UK Biobank data**. A leave-one-out analysis performs an Mendelian randomization analysis of an exposure and outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion with endometrial cancer. Effect estimates (log odds) and associated 95% confidence per SD unit phenylalanine are shown. 
 
-(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-scap) Representative figure: Leave-one-out plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
+(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-scap) Representative figure: leave-one-out plot of MR effect estimates from two-sample MR of metabolites on endometrial cancer
 
 ```{r appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-cap)', fig.scap='(ref:appendix-mediation-figure-representative-leaveoneout-metabolites-endometrial-scap)'}
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_endometrial/figures/representative_plot_leaveoneout_forest.pdf")

@@ -246,7 +246,7 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
 \elandscape
 
 ## Chapter 4: Associations between multiple measures of adiposity and metabolites: observational analysis {#appendix-observational}
-In Chapter \@ref(observational), data from the Avon Longitudinal Study of Parents and Children (ALSPAC) was used to investgate the association between adiposity measures and nuclear magnetic resonance (NMR) derived metabolites and ratios. The following sections provide detail on ALSPAC, validation of Equation \@ref(eq:BF) with raw bioeletrical impedance values, a list of metabolites available in ALSPAC, and correlation coefficients (Searmans Rho) of the comparison of effect estimates from different models. \par
+In Chapter \@ref(observational), data from the Avon Longitudinal Study of Parents and Children (ALSPAC) was used to investigate the association between adiposity measures and nuclear magnetic resonance (NMR) derived metabolites and ratios. The following sections provide detail on ALSPAC, validation of Equation \@ref(eq:BF) with raw bioeletrical impedance values, a list of metabolites available in ALSPAC, and correlation coefficients (Spearmans Rho) of the comparison of effect estimates from different models. \par
 
 ### Methods
 #### Data overview

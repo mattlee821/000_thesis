@@ -25,6 +25,8 @@ David A Hughes, Kurt Taylor, Nancy McBride, **Matthew A Lee**, Dan Mason, Debora
 \noindent 
 **Matthew A Lee** and Luke A McGuinness. A systematic review of Mendelian randomization studies using adiposity as an exposure. PROSPERO 2018 CRD42018096684 Available from: [PROSPERO](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42018096684). *This is the pre-registration protocol for the systematic review and meta-analyses presented in Chapter \@ref(systematic-review).*
 
+\newpage
+
 #### Additional peer-reviewed articles published during my PhD {-}
 
 \noindent 
@@ -36,7 +38,13 @@ Linda M. O’Keeffe, Joshua A. Bell, Kate N. O’Neill, **Matthew A Lee**, Mark 
 #### Resources produced during this thesis {-}
 
 \noindent 
-`metaboprep`:  an `R` package for pre-analysis data description and processing, 2020, [github.com/MRCIEU/metaboprep](https://github.com/MRCIEU/metaboprep).
+`metaboprep`:  an `R` package for pre-analysis data description and processing, 2020
+
+\vspace*{-1em}
+[github.com/MRCIEU/metaboprep](https://github.com/MRCIEU/metaboprep)
 
 \noindent 
-`EpiViz`: an implementation of Circos plots for epidemiologists, 2020, [github.com/mattlee821/EpiViz](https://github.com/mattlee821/EpiViz)
+`EpiViz`: an implementation of Circos plots for epidemiologists, 2020
+
+\vspace*{-1em}
+[github.com/mattlee821/EpiViz](https://github.com/mattlee821/EpiViz)

@@ -311,7 +311,6 @@ knitr::kable(adiposity_table, longtable = F, booktabs = T, format = "latex", esc
 
 \newpage
 \thispagestyle{empty}
-\vspace*{-3cm}
 
 ```{r observational-table-ALSPAC-covariates, echo=FALSE, warning=FALSE, error=FALSE}
 covariate_table <- read.table("data/observational/tables/covariate_table_manual.txt", header = T, sep = "\t", colClasses = "character")
@@ -615,6 +614,8 @@ knitr::kable(table, longtable = T, booktabs = T, format = "latex", escape = T,
 
 Across all models and exposures, between `r min_significant_percent`--`r max_significant_percent` % (median = `r round(median_significant_percent,1)` %) of metabolites reached a p-value multiple testing threshold (multiple testing threshold for children = `r round(0.05/children_independent,4)`, adolescents = `r round(0.05/adolescents_independent,4)`, young adults = `r round(0.05/young_adults_independent,4)`, adults = `r round(0.05/adults_independent,4)`). Multiple testing thresholds, calculated during pre-analysis processing using `metaboprep`, were calculated as the number of independent metabolites within the raw metabolomic data given a Spearman’s rho of approximately 0.75. In summary, between 83-193, 139-193, and 75-197 metabolites reached a multiple testing threshold across all age groups for BMI, WHR, and BF respectively (Table \@ref(tab:observational-table-significant-results)).  \par
 
+\newpage
+
 ```{r observational-table-significant-results, echo=FALSE, warning=FALSE, error=FALSE}
 data <- read.table("data/observational/tables/multiple_testing_table.txt", header = T, sep ="\t")
 
@@ -624,8 +625,11 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = F,
   collapse_rows(columns = 1) %>%
   kable_styling(latex_options = c("striped", "HOLD_position"), position = "center") %>%
   add_header_above(c(" " = 2, "BMI" = 3, "WHR" = 3, "BF" = 3)) %>%
-  kableExtra::footnote(general = "Number of metabolites (out of total N) reaching a multiple testing threshold for each model (1-3) within each age group for each exposure. Multiple testing thresholds: children = 0.0012, adolescents = 0.0012, young adults = 0.0013, adults = 0.0011. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage; 1 = model 1, adjustment for age and sex; 2 = model 2, adjustment for model 1 plus maternal/own education, smoking status, alcohol frequency, diet (where available); 3 = model 3, adjustment for model 2 plus physical activity (where available).", threeparttable = T, general_title = "", footnote_as_chunk = T)
+  kableExtra::footnote(general = "", threeparttable = T, general_title = "", footnote_as_chunk = T)
 ```
+
+\vspace*{-1em}
+\noindent Number of metabolites (out of total N) reaching a multiple testing threshold for each model (1-3) within each age group for each exposure. Multiple testing thresholds: children = 0.0012, adolescents = 0.0012, young adults = 0.0013, adults = 0.0011. BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage; 1 = model 1, adjustment for age and sex; 2 = model 2, adjustment for model 1 plus maternal/own education, smoking status, alcohol frequency, diet (where available); 3 = model 3, adjustment for model 2 plus physical activity (where available).
 
 #### Directional consistency between effect estimates across three linear models within exposures and age groups
 Across models, within each exposure and age group, the majority of tests resulted in directionally consistent effect estimates (Figure \@ref(fig:observational-figure-directional-consistency)). Of these directionally consistent effect estimates, the majority of effect estimates were positive. That is, adiposity was associated with an increase in a majority of metabolites. For children, effect sizes and CIs were broadly consistent across models 1 and 2. For adolescents, young adults, and adults, effect sizes and CIs were broadly consistent across across all three models, though there was some attenuation of effect size and wider CIs for model 3 (See forest plots on GitHub for [children](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/appendix/forestplot_main_children.pdf), [adolescents](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/appendix/forestplot_main_adolescents.pdf), [young adults](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/appendix/forestplot_main_young_adults.pdf), and [adults](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/appendix/forestplot_main_adults.pdf)). Across the majority of metabolites, CIs overlapped for all exposures within age groups (Appendix \@ref(appendix-observational-figures)). Of the `r nlevels(metabolites)` metabolites measured in all age groups, directional consistency was supported by strong evidence of correlation across models within exposures and age groups (Appendix \@ref(appendix-observational-correlations)). \par
@@ -828,8 +832,6 @@ The majority of effect estimates were in the positive direction, i.e. an increas
 
 \newpage
 \thispagestyle{empty}
-\vspace*{-3cm}
-
 (ref:observational-figure-wurtz-comparison-cap) **Comparison of the directions of effect estimates from linear regression of adiposity measures on metabolites across all age groups and analysis by Wurtz et al. (2014)[@Wurtz2014].** The tile plot shows the direction of effect estimate for 42 metabolites as positive (blue) or negative (orange). If all analyses show the same direction of effect, then that row will be the same colour, e.g., all analyses showing a negative association between adiposity measures and apolipoprotein A-1 and a positive association between adiposity and apolipoprotein B BMI = body mass index; WHR = waist hip ratio; BF = body fat percentage; IDL = intermediate density lipoproteins. White space indicates no analysis was undertaken due to missing data. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/wurtz_comparison.pdf).
 
 (ref:observational-figure-wurtz-comparison-scap) Comparison of the directions of effect estimates from linear regression of adiposity measures on metabolites across all age groups and analysis by Wurtz et al. (2014)[@Wurtz2014]

@@ -39,7 +39,9 @@ options(tinytex.verbose = TRUE)
 
 # 
 
-\par This appendix provides additional information relevant to the main text, including methods, data descriptions, and results, including tables and figures. All tables and figures presented here are also available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data) within each chapter's respective folder - [github.com/mattlee821/000_thesis/tree/master/index/data](https://github.com/mattlee821/000_thesis/tree/master/index/data). \par
+\par This appendix provides additional information relevant to the main text, including methods, data descriptions, and results, including tables and figures. All tables and figures presented here are also available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data) within each chapter's respective folder:
+
+[github.com/mattlee821/000_thesis/tree/master/index/data](https://github.com/mattlee821/000_thesis/tree/master/index/data). \par
 
 #### Acknowledgements {-}
 Work in this thesis would not have been possible without the contribution of all the families who took part in ALSPAC, the midwives for their help in recruiting them, and the whole ALSPAC team, which includes interviewers, computer and laboratory technicians, clerical workers, research scientists, volunteers, managers, receptionists and nurses. Thanks to: Adam Butterworth (University of Cambridge) for letting me use summary statistics from INTERVAL, Carolina Borges (University of Bristol) for UK Biobank nuclear magnetic resonance genome-wide association study summary statistics, and Emma Anderson (University of Bristol) for diet trajectory data in ALSPAC. \par
@@ -57,7 +59,7 @@ In Chapter 1, a literature search was conducted to provide a summary of the rela
 
 Briefly, MELODI creates individual article sets based on the search terms 'body mass index' and 'mortality', and looks for enriched overlapping terms (i.e., terms found in both article sets). MELODI uses PubMed and SemMedDB to identify enriched terms. PubMed is a database of health and biomedical research literature, and SemMedDB is a semantic predications repository built from PubMed citations. Identifying enriched overlapping terms is a two-step process. First, overlapping terms are identified. Second, the degree of overlap given the observed and expected frequency of terms across all articles (not just those included in the article sets) is quantified. These overlapping terms are considered potential intermediates and may highlight novel pathways for future experimentation. In this situation, MELODI was used to identify what intermediates may link body mass index (BMI) and mortality in an effort to summarise the literature. \par
 
-All articles published from 01/01/2000--09/12/2019 (maximum number of articles per article set is 1,000,000) using the terms 'body mass index' as the source and 'mortality' as the outcome were included. Raw results are available on [GitHub](https://github.com/mattlee821/000_thesis/index/data/chapter1). A total of 187,951 and 787,451 articles were retrieved and included in the source and outcome article sets, respectively. Using the SemMedDB results, a total of 10,828 enriched overlapping terms were identified. This included similar terms to 'body mass index' as the source, which were removed (n = `r nrow(MELODI_bmi_clna)`). A Bonferroni corrected p-value < `r signif(0.05/nrow(MELODI_bmi_clna), 2)` (i.e., 0.05/`r nrow(MELODI_bmi_clna)`) removed `r nrow(MELODI_bmi_clna) - nrow(MELODI_bmi_clna_p)` terms. Terms were filtered for uniqueness (n = `r nrow(MELODI_bmi_clna_p_unique)`) and presence in the following categories: "age group" (n = `r nrow(MELODI_intermediates_unique_aggp)`), "bacterium" (n = `r nrow(MELODI_intermediates_unique_bact)`), "finding" (not an official MELODI category; n = `r nrow(MELODI_intermediates_unique_finding)`), "general" (not an official MELODI category; n = `r nrow(MELODI_intermediates_unique_general)`), "fungus" (n = `r nrow(MELODI_intermediates_unique_fngs)`), "health care activity" (n = `r nrow(MELODI_intermediates_unique_hlca)`), "human" (n = `r nrow(MELODI_intermediates_unique_humn)`), "injury or poisoning" (n = `r nrow(MELODI_intermediates_unique_inpo)`), "mammal" (animal studies; n = `r nrow(MELODI_intermediates_unique_mamm)`), "patient or disabled group" (n = `r nrow(MELODI_intermediates_unique_podg)`), "population group" (n = `r nrow(MELODI_intermediates_unique_popg)`), "sign or symptom" (n = `r nrow(MELODI_intermediates_unique_sosy)`), "virus" (n = `r nrow(MELODI_intermediates_unique_virs)`). \par
+All articles published from 01/01/2000--09/12/2019 (maximum number of articles per article set is 1,000,000) using the terms 'body mass index' as the source and 'mortality' as the outcome were included. Raw results are available on [GitHub](https://github.com/mattlee821/000_thesis/tree/master/index/data/introduction). A total of 187,951 and 787,451 articles were retrieved and included in the source and outcome article sets, respectively. Using the SemMedDB results, a total of 10,828 enriched overlapping terms were identified. This included similar terms to 'body mass index' as the source, which were removed (n = `r nrow(MELODI_bmi_clna)`). A Bonferroni corrected p-value < `r signif(0.05/nrow(MELODI_bmi_clna), 2)` (i.e., 0.05/`r nrow(MELODI_bmi_clna)`) removed `r nrow(MELODI_bmi_clna) - nrow(MELODI_bmi_clna_p)` terms. Terms were filtered for uniqueness (n = `r nrow(MELODI_bmi_clna_p_unique)`) and presence in the following categories: "age group" (n = `r nrow(MELODI_intermediates_unique_aggp)`), "bacterium" (n = `r nrow(MELODI_intermediates_unique_bact)`), "finding" (not an official MELODI category; n = `r nrow(MELODI_intermediates_unique_finding)`), "general" (not an official MELODI category; n = `r nrow(MELODI_intermediates_unique_general)`), "fungus" (n = `r nrow(MELODI_intermediates_unique_fngs)`), "health care activity" (n = `r nrow(MELODI_intermediates_unique_hlca)`), "human" (n = `r nrow(MELODI_intermediates_unique_humn)`), "injury or poisoning" (n = `r nrow(MELODI_intermediates_unique_inpo)`), "mammal" (animal studies; n = `r nrow(MELODI_intermediates_unique_mamm)`), "patient or disabled group" (n = `r nrow(MELODI_intermediates_unique_podg)`), "population group" (n = `r nrow(MELODI_intermediates_unique_popg)`), "sign or symptom" (n = `r nrow(MELODI_intermediates_unique_sosy)`), "virus" (n = `r nrow(MELODI_intermediates_unique_virs)`). \par
 
 The following terms were removed and merged into "immunocompromised host" category: infections, hospital and opportunistic infections. The following terms were removed because of duplication under different names: cardiac death, sudden death, and sudden cardiac death (merged into "cessation of life"); coronary arteriosclerosis ("atherosclerosis");  cardiovascular morbidity, cardiac event, heart diseases, vascular diseases ("cardiovascular diseases"); depressed mood (depressive disorder); diabetes mellitus and insulin-dependent ("diabetic"); metabolic diseases ("metabolic syndrome"). The following terms were removed because they were top-level categories that could either include a wide variety of terms already included or were duplicated by other terms: "chronic disease", "critical illness", "disability", "pregnancy complications and perinatal morbidity" (included in "pregnancy" category), "pathogenesis." As a result of filtering, a total of `r nrow(MELODI_intermediates_unique_final)` terms remained. These terms were combined into 9 categories: cancer, cardiovascular, immune, kidney, liver, neurological/behavioural, pregnancy, respiratory, other. The 'other' category included traits that did not fit into one of any of the other categories and which did not have aligned traits to form a separate category. The majority of intermediates were cardiovascular related. Table \@ref(tab:appendix-observational-table-MELODI) gives the intermediates and categories they were grouped into. \par
 
@@ -82,10 +84,11 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
 ## Chapter 2: Systematic review: What has the application of Mendelian randomization told us about the causal relevance of adiposity and health outcomes? {#appendix-SR}
 In Chapter \@ref(systematic-review), quality assessment of individual studies was performed using a modified version of the quality assessment tool used by Mamluk et al., (2020)[@Mamluk2020]. This tool is presented in Table \@ref(tab:appendix-SR-table-rob) on the next page, and the results of this analysis are presented in Table \@ref(tab:appendix-SR-table-quality-assessment-results) on the following pages. Results form the meta-analyses are given in Table \@ref(tab:appendix-SR-table-meta-analyses-results). These tables are avaialble on GitHub: [quality assessment tool](https://github.com/mattlee821/000_thesis/blob/master/index/data/SR/data/QA_tool.csv), [quality assessment results](https://github.com/mattlee821/000_thesis/blob/master/index/data/SR/data/quality_assessment_results.csv), [meta-analysis results](https://github.com/mattlee821/000_thesis/blob/master/index/data/SR/analysis/meta_analysis/meta_analysis_results.csv). In addition, the [search strategy](https://github.com/mattlee821/000_thesis/blob/master/index/data/SR/data/search_strategy.pdf), [data extraction results](https://github.com/mattlee821/000_thesis/blob/master/index/data/SR/data/data_extraction.xlsx), and PDFs of all [included articles](https://github.com/mattlee821/000_thesis/tree/master/index/data/SR/search/003_included_articles) are also available on GitHub. \par
 
-\newpage
-\thispagestyle{empty}
-\vspace*{-3cm}
-
+\blankpage{%
+\vspace*{\fill}
+{\centering Intentionally blank.\par}
+\vspace{\fill}}
+\blandscape
 ```{r appendix-SR-table-rob, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 data <- data.frame(title = c("Weak instrument bias",
                              "Genetic confounding bias",
@@ -182,15 +185,12 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
   column_spec(10, width = "7em") %>%
   column_spec(11, width = "7em") %>%
   column_spec(12, width = "7em") %>%
-  column_spec(13, width = "7em") %>%
-  landscape()
+  column_spec(13, width = "7em") 
 ```
+\elandscape
 
 \newpage
 \blandscape
-\thispagestyle{empty}
-\vspace*{-3cm}
-
 ```{r appendix-SR-table-quality-assessment-results, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 data <- read.csv("../../005_systematic_review/analysis/quality_assessment/quality_assessment_results.csv", header = T)
 data <- data[,c(2:18)]
@@ -200,16 +200,16 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
     row.names = F,
     col.names = c("Meta-analysis", "Author", "Year", "doi", "1","2","3","4","5","6","7","8","9","10","11","12","Total")) %>%
     kable_styling(full_width = F, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center", font_size = 8) %>%
-    kableExtra::footnote(general = "Meta-analysis indicates the meta-analysis the study contributed to. Columns 2, 3, and 4 give the first authors last name, year of publication and doi of the article. The remaining columns give the quality assessment tool question number and the total score for that study. BMI = body mass index; WHR = waist hip ratio; WHRadjBMI = WHR adjusted for BMI; SD = standard deviation; HOMA IR = Homoeostatic Model Assessment for Insulin Resistance; HbA1c = Hemoglobin A1C; HDL = high density lipoprotein; LDL = low density liporpotein; SBP = systolic blood pressure; ER- = oestrogen reseptor negative; CAD = coronary artery disease; PCOS = polycystic ovary syndrome", threeparttable = T, general_title = "", footnote_as_chunk = T) 
+    kableExtra::footnote(general = "Meta-analysis indicates the meta-analysis the study contributed to. Columns 2, 3, and 4 give the first authors last name, year of publication and digital object identifier (DOI) of the article. The remaining columns give the quality assessment tool question number and the total score for that study. BMI = body mass index; WHR = waist hip ratio; WHRadjBMI = WHR adjusted for BMI; SD = standard deviation; HOMA IR = Homoeostatic Model Assessment for Insulin Resistance; HbA1c = Hemoglobin A1C; HDL = high density lipoprotein; LDL = low density liporpotein; SBP = systolic blood pressure; ER- = oestrogen receptor negative; CAD = coronary artery disease; PCOS = polycystic ovary syndrome", threeparttable = T, general_title = "", footnote_as_chunk = T) 
 
 ```
+\blankpage{%
+\vspace*{\fill}
+{\centering Intentionally blank.\par}
+\vspace{\fill}}
 \elandscape
 
-\newpage
 \blandscape
-\thispagestyle{empty}
-\vspace*{-3cm}
-
 ```{r appendix-SR-table-meta-analyses-results, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 data <- read.csv("../../005_systematic_review/analysis/meta_analysis/results/meta_analysis_results_formatted_manual_appendix_latex.csv")
 data$effect_estimate <- as.character(data$effect_estimate)
@@ -243,9 +243,8 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
   column_spec(12, width = "4em") %>%
   column_spec(13, width = "4em") %>%
   column_spec(14, width = "4em") %>%
-  kableExtra::footnote(general = "Column 1 gives the exposure and outcome with units. Column 2 gives the studies used in the meta-analysis. B/OR = beta is the change in outcome per unit increase in exposure, OR is the odds ratio of the outcome per unit change in the exposure; CI = 95% confidence interval; q = heterogeneity statistic; q_df = degrees of freedom of Q; tau_2 = between study variance; se = standard error of tau_2; h = heterogeneity statistic within subgroups; i1 = heterogeneity statistic within subgroups; BMI = body mass index; WHR = waist hip ratio; WHRadjBMI = WHR adjusted for BMI; SD = standard deviation; HOMA IR = Homoeostatic Model Assessment for Insulin Resistance; HbA1c = Hemoglobin A1C; HDL = high density lipoprotein; LDL = low density liporpotein; SBP = systolic blood pressure; ER- = oestrogen reseptor negative; CAD = coronary artery disease; PCOS = polycystic ovary syndrome", threeparttable = T, general_title = "", footnote_as_chunk = T)
+  kableExtra::footnote(general = "Column 1 gives the exposure and outcome with units. Column 2 gives the studies used in the meta-analysis. B/OR = beta is the change in outcome per unit increase in exposure, OR is the odds ratio of the outcome per unit change in the exposure; CI = 95% confidence interval; q = heterogeneity statistic; q_df = degrees of freedom of Q; tau_2 = between study variance; se = standard error of tau_2; h = heterogeneity statistic within subgroups; i1 = heterogeneity statistic within subgroups; BMI = body mass index; WHR = waist hip ratio; WHRadjBMI = WHR adjusted for BMI; SD = standard deviation; HOMA IR = Homoeostatic Model Assessment for Insulin Resistance; HbA1c = Hemoglobin A1C; HDL = high density lipoprotein; LDL = low density liporpotein; SBP = systolic blood pressure; ER- = oestrogen receptor negative; CAD = coronary artery disease; PCOS = polycystic ovary syndrome", threeparttable = T, general_title = "", footnote_as_chunk = T)
 ```
-
 \elandscape
 
 ## Chapter 4: Associations between multiple measures of adiposity and metabolites: observational analysis {#appendix-observational}
@@ -255,7 +254,7 @@ In Chapter \@ref(observational), data from the Avon Longitudinal Study of Parent
 #### Data overview
 ALSPAC[@Fraser2013; @Boyd2013; @Northstone2019] is a prospective cohort study that invited women resident in Avon, UK with expected dates of delivery between 1st April 1991 and 31st December 1992 to participate. The initial number of pregnancies enrolled was 14,541 (for these at least one questionnaire was returned or a “Children in Focus” clinic has been attended by 19/07/99). Of these initial pregnancies, a total of 14,676 foetuses, resulted in 14,062 live births and 13,988 children alive at one year of age. The mothers and fathers associated with each pregnancy are referred to as generation 0 (G0) while the children of each eligible pregnancy (including individuals from subsequent recruitment drives) are referred to as generation 1 (G1). \par
 
-Data in ALSPAC are split by clinic visits. For work in Chapter \@ref(obsevational), metabolomic data were available for G1 individuals from the following clinics: Focus at 7 (~8 years old), Focus at 8 (~9 years old), Before Breakfast Study (~8 years old), Teen Focus 3 (~18 years old), Teen Focus 4 (~17 years old), and Focus at 24 (~24 years old). Metabolomic data for G0 individuals were available from: Focus on Mothers 1 (~48 years old), Focus on Mothers 2 (~51 years old), and Focus on Fathers 1 (~53 years old). In order to maximize the sample size at each metabolomic clinic, data were combined where clinics were within a similar age range. Data were combined in the following groups for G1 individuals: Focus at 7 and Before Breakfast Study (children), and Teen Focus 3 and Teen Focus 4 (adolescents). The Focus at 24 clinic is referred to as young adults. For G0 individuals data from Focus on Mothers 1, Focus on Mothers 2, and Focus on Fathers 1 were combined into an adults group. For these combined data sets, duplicate individuals (i.e., those attending both clinics) were identified, and the measurement from the most recent clinic was dropped. \par
+Data in ALSPAC are split by clinic visits. For work in Chapter \@ref(observational), metabolomic data were available for G1 individuals from the following clinics: Focus at 7 (~8 years old), Focus at 8 (~9 years old), Before Breakfast Study (~8 years old), Teen Focus 3 (~18 years old), Teen Focus 4 (~17 years old), and Focus at 24 (~24 years old). Metabolomic data for G0 individuals were available from: Focus on Mothers 1 (~48 years old), Focus on Mothers 2 (~51 years old), and Focus on Fathers 1 (~53 years old). In order to maximize the sample size at each metabolomic clinic, data were combined where clinics were within a similar age range. Data were combined in the following groups for G1 individuals: Focus at 7 and Before Breakfast Study (children), and Teen Focus 3 and Teen Focus 4 (adolescents). The Focus at 24 clinic is referred to as young adults. For G0 individuals data from Focus on Mothers 1, Focus on Mothers 2, and Focus on Fathers 1 were combined into an adults group. For these combined data sets, duplicate individuals (i.e., those attending both clinics) were identified, and the measurement from the most recent clinic was dropped. \par
 
 #### Validation of raw impedance as a measure of body fat percentage 
 In children, a measure for BF was not available. Instead, impedance values were used to estimates BF using equation \@ref(eq:BF). The calculated BF resulted in negative BF values for some children (Figure \@ref(fig:appendix-observational-figure-BF-validation-distribution)). However, the calculated BF was positively correlated with weight, height and BMI in children. In adolescents, the calculated BF did not produce negative values and was positively correlated with impedance and dual energy X-ray absorptiometry (DXA) derived BF values (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2-adolescents)), as well as with weight, height, and BMI (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation)). Child calculated BF positively correlated with adolescent measures of BF (Figure \@ref(fig:appendix-observational-figure-BF-validation-correlation-2-children)). \par
@@ -270,7 +269,7 @@ In children, a measure for BF was not available. Instead, impedance values were 
 \end{split}
 \end{equation}
 
-Given that the equation was derived from adult (i.e., there is a volumetric difference adults and children[@Stergiakouli2014]), differences in the range of values is unsurprising. There is however strong correlation between calculated-BF and impedance-derived and DXA-derived values of BF in adolescents. As the estimates derived in linear models are in reference to the per unit increase in an exposure (rather than the range), the absolute value of the exposure does not need to positive. Thus, the negative values of BF will not impact the inference of a linear regression between BF and any metabolite. As such, BF calculated using equation \@ref(eq:BF) was used in subsequent analyses as a measure of BF in children. \par
+Given that the equation was derived from adult data (i.e., there is a volumetric difference adults and children[@Stergiakouli2014]), differences in the range of values is unsurprising. There is however strong correlation between calculated-BF and impedance-derived and DXA-derived values of BF in adolescents. As the estimates derived in linear models are in reference to the per unit increase in an exposure (rather than the range), the absolute value of the exposure does not need to positive. Thus, the negative values of BF will not impact the inference of a linear regression between BF and any metabolite. As such, BF calculated using equation \@ref(eq:BF) was used in subsequent analyses as a measure of BF in children. \par
 
 (ref:appendix-observational-figure-BF-validation-distribution-cap) **Distribution of raw impedance and calculated body fat percentage in children and adolescents**. Plots give the distribution of the raw impedance value measured in ohms and body fat percentage (BF) derived using equation \@ref(eq:BF) for children and adolescents. Data is presented for complete cases across: raw metabolomics, body mass index, waist hip ratio (children only), impedance, height, weight, age, sex, and BF derived by impedance and dual energy x-ray absorptiometry in adolescents. Red is female data, grey is male data.
 
@@ -303,6 +302,8 @@ knitr::include_graphics("data/observational/figures/bf_validation_correlation_ch
 ```{r appendix-observational-figure-BF-validation-correlation-2-adolescents, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-observational-figure-BF-validation-correlation-2-adolescents-cap)', fig.scap='(ref:appendix-observational-figure-BF-validation-correlation-2-adolescents-scap)'}
 knitr::include_graphics("data/observational/figures/bf_validation_correlation_adolescents.pdf")
 ```
+
+\newpage
 
 #### Metabolites {#appendix-observational-metabolites}
 
@@ -493,6 +494,8 @@ adults_bf_cor
 
 ```
 
+\newpage
+
 ##### Correlation results across exposures (BMI, WHR, and BF) within age groups (children, adolescents, young adults, and adults) for model 2:
 ```{r echo=FALSE, warning=FALSE, error=FALSE}
 # show correlations for model 1 across exposures ====
@@ -508,6 +511,8 @@ young_adults_m1_cor
 print("Adults")
 adults_m1_cor
 ```
+
+\newpage 
 
 ##### Correlation results within exposures (BMI, WHR, and BF) across age age groups (children, adolescents, young adults, and adults) for model 2:
 ```{r echo=FALSE, warning=FALSE, error=FALSE}
@@ -531,7 +536,7 @@ bf_m1_cor
 
 (ref:appendix-observational-figure-adiposity-distribution-scap) Distribution of adiposity measures across all age groups
 
-```{r appendix-observational-figure-adiposity-distribution, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:observational-figure-adiposity-distribution-cap)', fig.scap='(ref:observational-figure-adiposity-distribution-scap)'}
+```{r appendix-observational-figure-adiposity-distribution, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-observational-figure-adiposity-distribution-cap)', fig.scap='(ref:appendix-observational-figure-adiposity-distribution-scap)'}
 knitr::include_graphics("data/observational/figures/plot_histogram_adiposity_measures.pdf")
 ```
 
@@ -558,7 +563,7 @@ knitr::include_graphics("data/observational/figures/forestplot_supplement.pdf")
 ```
 \elandscape
 
-(ref:appendix-observational-figure-circos-children-cap) **Linear regression analysis: association between adiposity measures and derived metabolites in children**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in children. Effect estimates are absolute change in metabolite per-standard deviation increase in exposure. The outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/54) set as the number of independent metabolite features as calculated by `metaboprep`. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/circosplot_derived_metabolites_children.pdf).
+(ref:appendix-observational-figure-circos-children-cap) **Linear regression analysis: association between adiposity measures and derived metabolites in children**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in children. Effect estimates are absolute change in metabolite per standard deviation increase in exposure. The outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/54) set as the number of independent metabolite features as calculated by `metaboprep`. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/circosplot_derived_metabolites_children.pdf).
 
 (ref:appendix-observational-figure-circos-children-scap) Linear regression analysis: association between adiposity measures and derived metabolites in children
 
@@ -566,7 +571,7 @@ knitr::include_graphics("data/observational/figures/forestplot_supplement.pdf")
 knitr::include_graphics("data/observational/figures/circosplot_derived_metabolites_children.pdf")
 ```
 
-(ref:appendix-observational-figure-circos-adolescents-cap) **Linear regression analysis: association between adiposity measures and derived metabolites in adolescents**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in adolescents Effect estimates are absolute change in metabolite per-standard deviation increase in exposure. The outer track is body mass index (BMI), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/48) set as the number of independent metabolite features as calculated by `metaboprep`. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/circosplot_derived_metabolites_adolescents.pdf).
+(ref:appendix-observational-figure-circos-adolescents-cap) **Linear regression analysis: association between adiposity measures and derived metabolites in adolescents**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in adolescents. Effect estimates are absolute change in metabolite per standard deviation increase in exposure. The outer track is body mass index (BMI), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/48) set as the number of independent metabolite features as calculated by `metaboprep`. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/circosplot_derived_metabolites_adolescents.pdf).
 
 (ref:appendix-observational-figure-circos-adolescents-scap) Linear regression analysis: association between adiposity measures and derived metabolites in adolescents
 
@@ -574,7 +579,7 @@ knitr::include_graphics("data/observational/figures/circosplot_derived_metabolit
 knitr::include_graphics("data/observational/figures/circosplot_derived_metabolites_adolescents.pdf")
 ```
 
-(ref:appendix-observational-figure-circos-young-adults-cap) **Linear regression analysis: association between adiposity measures and derived metabolites in young adults**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in young adults Effect estimates are absolute change in metabolite per-standard deviation increase in exposure. The outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/46) set as the number of independent metabolite features as calculated by `metaboprep`. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/circosplot_derived_metabolites_young_adults.pdf).
+(ref:appendix-observational-figure-circos-young-adults-cap) **Linear regression analysis: association between adiposity measures and derived metabolites in young adults**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in young adults. Effect estimates are absolute change in metabolite per standard deviation increase in exposure. The outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/46) set as the number of independent metabolite features as calculated by `metaboprep`. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/circosplot_derived_metabolites_young_adults.pdf).
 
 (ref:appendix-observational-figure-circos-young-adults-scap) Linear regression analysis: association between adiposity measures and derived metabolites in young adults
 
@@ -583,7 +588,7 @@ knitr::include_graphics("data/observational/figures/circosplot_derived_metabolit
 ```
 
 
-(ref:appendix-observational-figure-circos-adults-cap) **Linear regression analysis: association between adiposity measures and derived metabolites in adults**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in adults Effect estimates are absolute change in metabolite per-standard deviation increase in exposure. The outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/53) set as the number of independent metabolite features as calculated by `metaboprep`. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/circosplot_derived_metabolites_adults.pdf).
+(ref:appendix-observational-figure-circos-adults-cap) **Linear regression analysis: association between adiposity measures and derived metabolites in adults**. Circos plot shows effect estimates and 95% confidence intervals from model 2 for all exposures in adults. Effect estimates are absolute change in metabolite per standard deviation increase in exposure. The outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold has been met; multiple testing threshold (0.05/53) set as the number of independent metabolite features as calculated by `metaboprep`. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/observational/figures/circosplot_derived_metabolites_adults.pdf).
 
 (ref:appendix-observational-figure-circos-adults-scap) Linear regression analysis: association between adiposity measures and derived metabolites in adults
 
@@ -610,25 +615,25 @@ data <- read.table("../../002_adiposity_metabolites/data/exposure_SNPs.txt", hea
 #     row.names = F,
 #     col.names = c("SNP", "Chr", "BP", "EA", "NEA", "EAF", "Beta", "SE", "P", "Exposure", "Ref", "Note", "Clumped")) %>%
 #   kable_styling(full_width = T, latex_options = c("striped", "HOLD_poistion", "repeat_header"), position = "center", font_size = 8) %>%
-#   kableExtra::footnote(general = "Single nucleotide polymorphisms (SNP) were used as genetic instrumental variables in Mendelian randomization analyses. Each SNP, and associated data, were extracted from published genome wide association studies (Ref). Data is ordered for Exposure, Ref, Chr, BP. Chr = chromosome; BP = bas position; EA = effect allele; NEA = non effect allele; EAF = effect allele frequency; Beta = effect of SNP on GWAS phenotype; SE = standard error of the Beta; P = p-value; Exposure = GWAS phenotype and the exposure used in the MR analysis for that SNP and correspondonding data; Ref = surname of first author of GWAS; Note = is applicable to the BMI Yengo SNPs and indicates whether the SNP was from the conditional joint (COJO) analysis or non-conditional joint (non-COJO) analysis; Clumped = whether that SNP was excluded after clumping.", threeparttable = T, general_title = "", footnote_as_chunk = T)
+#   kableExtra::footnote(general = "Single nucleotide polymorphisms (SNP) were used as genetic instrumental variables in Mendelian randomization analyses. Each SNP, and associated data, were extracted from published genome-wide association studies (Ref). Data is ordered for Exposure, Ref, Chr, BP. Chr = chromosome; BP = bas position; EA = effect allele; NEA = non effect allele; EAF = effect allele frequency; Beta = effect of SNP on GWAS phenotype; SE = standard error of the Beta; P = p-value; Exposure = GWAS phenotype and the exposure used in the MR analysis for that SNP and correspondonding data; Ref = surname of first author of GWAS; Note = is applicable to the BMI Yengo SNPs and indicates whether the SNP was from the conditional joint (COJO) analysis or non-conditional joint (non-COJO) analysis; Clumped = whether that SNP was excluded after clumping.", threeparttable = T, general_title = "", footnote_as_chunk = T)
 ```
 
 ##### Body mass index
-Two additional instrument lists were used for BMI. The first came from the same study as used in the main analysis (Yengo et al. (2019)) but did not use the conditional and joint analysis (COJO) GWAS summary statistics. COJO analyses attempt to identify secondary signals (SNPs) at each genome-wide association study (GWAS) identified loci after controlling for linkage disequilibrium (LD). That is, the presence of a secondary signal is conditional on the presence of the first[@Yang2012]. As such, COJO analyses may increase the number of available genetic instruments for MR analysis without introducing additional biases as a result of LD, such as falsely narrow confidence intervals (CIs). Few studies have investigated the use of COJO-GWAS summary statistics in MR analyses. The study by Yew et al., (2020)[@Yew2020], which used the Yengo et al. (2019) COJO-GWAS for BMI, found little evidence for a difference in resulting effect estimates of the association between BMI and atopic dermatitis when using the 941-SNP genetic instrument compared to instruments with different LD (thresholds included r^2^ 0.001, 0.001, 0.1, 0.2, and 0.5) pruning thresholds. They did not however compare results to the Yengo et al., (2019) non-COJO-GWAS for BMI. The GWAS for the non-COJO and COJO genetic instruments were the same, and are presented in the main text. Briefly, data were available from 515,509--795,624 individuals of European ancestries from two sources, the Genetic Investigation of Anthropometric Traits (GIANT) consortium[@Locke2015] and UK Biobank. In both sources, BMI was calculated as $\displaystyle \frac{weight\ (kg)}{height\ (m^2)}$. Yengo et al., (2018)[@Yengo2018] performed a fixed effects inverse variance weighted meta-analysis of BMI using GWAS results generated from UK Biobank (N = 456,426) and results from the GIANT consortium, Locke et al., (2015)[@Locke2015] (N = 322,154) using METAL[@Willer2010]. A total of 656 primary associations (i.e., non-COJO SNPs) reaching a genome wide significance threshold of p-value < 5 x 10^-8^ were identified and used for the additional analysis here. \par
+Two additional instrument lists were used for BMI. The first came from the same study as used in the main analysis (Yengo et al. (2019)) but did not use the conditional and joint analysis (COJO) GWAS summary statistics. COJO analyses attempt to identify secondary signals (SNPs) at each genome-wide association study (GWAS) identified loci after controlling for linkage disequilibrium (LD). That is, the presence of a secondary signal is conditional on the presence of the first[@Yang2012]. As such, COJO analyses may increase the number of available genetic instruments for MR analysis without introducing additional biases as a result of LD, such as falsely narrow confidence intervals (CIs). Few studies have investigated the use of COJO-GWAS summary statistics in MR analyses. The study by Yew et al., (2020)[@Yew2020], which used the Yengo et al. (2019) COJO-GWAS for BMI, found little evidence for a difference in resulting effect estimates of the association between BMI and atopic dermatitis when using the 941-SNP genetic instrument compared to instruments with different LD (thresholds included r^2^ 0.001, 0.001, 0.1, 0.2, and 0.5) pruning thresholds. They did not however compare results to the Yengo et al., (2019) non-COJO-GWAS for BMI. The GWAS for the non-COJO and COJO genetic instruments were the same, and are presented in the main text. Briefly, data were available from 515,509--795,624 individuals of European ancestries from two sources, the Genetic Investigation of Anthropometric Traits (GIANT) consortium[@Locke2015] and UK Biobank. In both sources, BMI was calculated as $\displaystyle \frac{weight\ (kg)}{height\ (m^2)}$. Yengo et al., (2018)[@Yengo2018] performed a fixed effects inverse variance weighted meta-analysis of BMI using GWAS results generated from UK Biobank (N = 456,426) and results from the GIANT consortium, Locke et al., (2015)[@Locke2015] (N = 322,154) using METAL[@Willer2010]. A total of 656 primary associations (i.e., non-COJO SNPs) reaching a genome-wide significance threshold of p-value < 5 x 10^-8^ were identified and used for the additional analysis here. \par
 
-The second instrument list came from Locke et al. (2015), in which 322,154 individuals of European ancestries were included in an inverse variance weighted fixed effects meta-analysis. This GWAS was the GIANT component of the Yengo et al., meta-analysis, and is described in detail in the main text of Chapter \@ref(MR). Briefly, a total of 82 GWAS and 43 studies using the Metabochip array were included in the meta-analysis by Locke et al. Individual GWAS were adjusted for age, age-squared, and study specific covariates with residuals inverse rank normally transformed. Imputation was performed using the HapMap phase II Utah residents of Northern and Western European ancestries (CEU) reference panel. Each study used a linear regression model assuming an additive genetic model with quality control following procedures outlined previously[@Winkler2014]. A fixed effect inverse variance weighted meta-analysis was performed using METAL for the 82 GWAS and 43 studies using the Metabochip array separately. The final meta-analysis combined the GWAS meta-analysis and Metabochip meta-analysis results using an inverse variance weighted fixed effects model. A total of 77 loci reaching genome-wide significance (p-value < 5 x 10^-8^) and separated by at least 500 kilobases were identified and used for the addional analysis here. \par
+The second instrument list came from Locke et al. (2015), in which 322,154 individuals of European ancestries were included in a fixed effects inverse variance weighted meta-analysis. This GWAS was the GIANT component of the Yengo et al., meta-analysis, and is described in detail in the main text of Chapter \@ref(MR). Briefly, a total of 82 GWAS and 43 studies using the Metabochip array were included in the meta-analysis by Locke et al. Individual GWAS were adjusted for age, age-squared, and study specific covariates with residuals inverse rank normally transformed. Imputation was performed using the HapMap phase II Utah residents of Northern and Western European ancestries (CEU) reference panel. Each study used a linear regression model assuming an additive genetic model with quality control following procedures outlined previously[@Winkler2014]. A fixed effect inverse variance weighted meta-analysis was performed using METAL for the 82 GWAS and 43 studies using the Metabochip array separately. The final meta-analysis combined the GWAS meta-analysis and Metabochip meta-analysis results using a fixed effects inverse variance weighted model. A total of 77 loci reaching genome-wide significance (p-value < 5 x 10^-8^) and separated by at least 500 kilobases were identified and used for the addional analysis here. \par
 
 ##### Waist hip ratio
-In the main MR analysis, summary statistics for waist hip ratio (WHR) from Pulit et al. (2019) were used. Pulit et al., performed a fixed effects inverse variance weighted meta analysis from two sources, UK Biobank and the GIANT consortium. For the UK Biobank GWAS, the second release (June 2017) of UK Biobank data, which did not have corrected imputation at non-human reference consortium (HRC) sites, was used. Briefly, data were available from 485,486–-697,702 individuals of European ancestries from two sources, UK Biobank and the GIANT consortium[@Shungin2015]. In both sources, WHR was calculated as $\displaystyle \frac{waist\ circumference\ (cm)} {hip\ circumference\ (cm)}$.  Pulit et al., (2019)[@Pulit2019] performed a fixed effects inverse variance weighted meta-analysis of WHR using GWAS results generated from UK Biobank (N up to 485,486 (men up to 263,148; women up to 222,338)) and results from the GIANT consortium (N up to 212,248 (men up to 94,434; women up to 118,004))[@Shungin2015] using METAL. The GIANT component of this meta-analysis was used in the additional analysis here. \par
+In the main MR analysis, summary statistics for waist hip ratio (WHR) from Pulit et al. (2019) were used. Pulit et al., performed a fixed effects inverse variance weighted meta-analysis from two sources, UK Biobank and the GIANT consortium. For the UK Biobank GWAS, the second release (June 2017) of UK Biobank data, which did not have corrected imputation at non-human reference consortium (HRC) sites, was used. Briefly, data were available from 485,486–-697,702 individuals of European ancestries from two sources, UK Biobank and the GIANT consortium[@Shungin2015]. In both sources, WHR was calculated as $\displaystyle \frac{waist\ circumference\ (cm)} {hip\ circumference\ (cm)}$.  Pulit et al., (2019)[@Pulit2019] performed a fixed effects inverse variance weighted meta-analysis of WHR using GWAS results generated from UK Biobank (N up to 485,486 (men up to 263,148; women up to 222,338)) and results from the GIANT consortium (N up to 212,248 (men up to 94,434; women up to 118,004))[@Shungin2015] using METAL. The GIANT component of this meta-analysis was used in the additional analysis here. \par
 
-In GIANT, Shungin et al., (2015)[@Shungin2015] performed an inverse variance weighted fixed effects meta-analysis of up to 212,248 individuals of European ancestries. Individual studies recruited participants and undertook sample and SNP quality control. These studies used genome-wide or Metabochip arrays for sequencing. In studies using genome-wide arrays, imputation was performed with CEU haplotypes from HapMap. Metabochip arrays target specific genetic variants and imputation was not performed. For both study types, an additive genetic model was assumed, with each study running a linear regression GWAS. Sex-specific summary statistics were corrected for population structure using the genomic control inflation factor. Prior to meta-analysis of the genome-wide array GWAS and Metabochip array GWAS, SNPs were removed if they had a minor allele count $\leq$ 3, were not in Hardy-Weinberg equilibrium (p-value < 10^-6^), had a call rate < 95% or an imputation quality score < 0.3 for MACH, < 0.4 for IMPUTE, and < 0.8 for PLINK. In step 1, a meta-analysis of each array was performed using a fixed effects inverse variance weighted model and corrected for genomic control to account for structure between cohorts. In step 2, summary statistics from the meta-analysis of genome-wide array and Metabochip array GWAS were meta-analysed using a fixed effects inverse variance weighted model using METAL. In this second step genomic correction was not performed. In total, 210,088 individuals of European ancestries were included. A total of 26 loci reaching genome-wide significance (p-value < 5 x 10^-8^) and separated by at least 500 kilobases were identified and used in additional analysis here. \par
+In GIANT, Shungin et al., (2015)[@Shungin2015] performed a fixed effects inverse variance weighted meta-analysis of up to 212,248 individuals of European ancestries. Individual studies recruited participants and undertook sample and SNP quality control. These studies used genome-wide or Metabochip arrays for sequencing. In studies using genome-wide arrays, imputation was performed with CEU haplotypes from HapMap. Metabochip arrays target specific genetic variants and imputation was not performed. For both study types, an additive genetic model was assumed, with each study running a linear regression GWAS. Sex-specific summary statistics were corrected for population structure using the genomic control inflation factor. Prior to meta-analysis of the genome-wide array GWAS and Metabochip array GWAS, SNPs were removed if they had a minor allele count $\leq$ 3, were not in Hardy-Weinberg equilibrium (p-value < 10^-6^), had a call rate < 95% or an imputation quality score < 0.3 for MACH, < 0.4 for IMPUTE, and < 0.8 for PLINK. In step 1, a meta-analysis of each array was performed using a fixed effects inverse variance weighted model and corrected for genomic control to account for structure between cohorts. In step 2, summary statistics from the meta-analysis of genome-wide array and Metabochip array GWAS were meta-analysed using a fixed effects inverse variance weighted model using METAL. In this second step genomic correction was not performed. In total, 210,088 individuals of European ancestries were included. A total of 26 loci reaching genome-wide significance (p-value < 5 x 10^-8^) and separated by at least 500 kilobases were identified and used in additional analysis here. \par
 
 ##### Body fat percentage
-For BF, two additional instruments were used. The first used summary statistics from the sudy by Lu et al. (2016)[@Lu2016], used in the main analysis, after removal of two SNPs which had been previously associated with 'favourable adiposity'[@Yaghootkar2014; @Yaghootkar2016]. The second came from summary statistics from Hubel et al. (2019)[@Hubel2019] who analysed data from up to 155,961 (female = 70,700; male = 85,261) individuals of European ancestries from UK Biobank. Body composition was assessed using bioelectrical impedance (Tanita BC-418 MA; Tanita Corporation, Arlington Heights, IL); fat mass and fat free mass was calculated from raw impedance data adjusting for age, sex, height and athleticism (variable not described). BF was calculated as $\displaystyle \frac{fat\ mass\ (kg)} {weight\ (kg)}\ *\ 100$. Hubel et al., performed an inverse variance weighted fixed effects meta-analysis of two sex-specific GWAS using METAL. The sex-specific GWAS were performed using a linear regression model assuming an additive genetic model using BGENIE (V1.2). BF residuals were adjusted for age, socioeconomic status (measured by Townsend deprivation index), assessment centre, genotyping batch, smoking status, alcohol consumption, menopause and the first 6 PCs. Genotypes were imputed to the Human Reference Consortium. A total of 76 loci reaching a genome wide significance threshold of p-value < 5 x 10^-8^ and separated by at least 3,000 kilobases were identified and used in additional analysis here. \par
+For BF, two additional instruments were used. The first used summary statistics from the study by Lu et al. (2016)[@Lu2016], used in the main analysis, after removal of two SNPs which had been previously associated with 'favourable adiposity'[@Yaghootkar2014; @Yaghootkar2016]. The second came from summary statistics from Hubel et al. (2019)[@Hubel2019] who analysed data from up to 155,961 (female = 70,700; male = 85,261) individuals of European ancestries from UK Biobank. Body composition was assessed using bioelectrical impedance (Tanita BC-418 MA; Tanita Corporation, Arlington Heights, IL); fat mass and fat free mass was calculated from raw impedance data adjusting for age, sex, height and athleticism (variable not described). BF was calculated as $\displaystyle \frac{fat\ mass\ (kg)} {weight\ (kg)}\ *\ 100$. Hubel et al., performed a fixed effects inverse variance weighted meta-analysis of two sex-specific GWAS using METAL. The sex-specific GWAS were performed using a linear regression model assuming an additive genetic model using BGENIE (V1.2). BF residuals were adjusted for age, socioeconomic status (measured by Townsend deprivation index), assessment centre, genotyping batch, smoking status, alcohol consumption, menopause and the first 6 PCs. Genotypes were imputed to the Human Reference Consortium. A total of 76 loci reaching a genome-wide significance threshold of p-value < 5 x 10^-8^ and separated by at least 3,000 kilobases were identified and used in additional analysis here. \par
 
 \newpage
 
-#### Outcomes
+#### Metabolites
 ```{r appendix-MR-table-metabolites, echo=FALSE}
 data <- read.table("data/MR/tables/metabolites.txt", header = T, sep = "\t")
 data <- data[order(data$class, data$subclass, data$raw.label),]
@@ -676,14 +681,18 @@ knitr::include_graphics("data/MR/figures/f_statistics/whr_f_statistics.pdf")
 knitr::include_graphics("data/MR/figures/f_statistics/bf_f_statistics.pdf")
 ```
 
+
+\newpage
+
 #### Sensitivity analyses {#appendix-MR-sensitivity-analysis}
 Assumptions of no pleiotropy were explored using MR-Egger[@Bowden2015], weighted median[@Burgess2017a] and weighted mode[@Hartwig2017] based estimators. Globally, sensitivity analysis was visually reflective of the main analysis for each exposure, though with wider CIs. CIs for sensitivity analyses tended to cross the null and were widest for MR Egger, which is in keeping with the lower power afforded with this model. Sensitivity results for WHR appeared to show most consistency with the main analysis for both the Kettunen and INTERVAL data; CIs for weighted median and mode models did not cross the null in a majority of results for subclasses. \par
 
 \newpage
+\newpage
 
-(ref:appendix-MR-figure-kettunen-circosplot-bmi-sensitivity-cap) **Mendelian randomization sensitivity analysis: association between body mass index and metabolites using Kettunen data et al. (2016)[@Kettunen2016]**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is weighted median, the inner track is weighted mode. Solid points indicate a multiple testing threshold (p-value < `r round(0.05/22,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_kettunen_sensitivity_analysis_BMI.pdf)
+(ref:appendix-MR-figure-kettunen-circosplot-bmi-sensitivity-cap) **Mendelian randomization sensitivity analysis: association between body mass index and metabolites using Kettunen data**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is weighted median, the inner track is weighted mode. Solid points indicate a multiple testing threshold (p-value < `r round(0.05/22,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_kettunen_sensitivity_analysis_BMI.pdf)
 
-(ref:appendix-MR-figure-kettunen-circosplot-bmi-sensitivity-scap) Mendelian randomization sensitivity analysis: association between body mass index and metabolites using Kettunen data et al. (2016)[@Kettunen2016]
+(ref:appendix-MR-figure-kettunen-circosplot-bmi-sensitivity-scap) Mendelian randomization sensitivity analysis: association between body mass index and metabolites using Kettunen data
 
 ```{r appendix-MR-figure-kettunen-circosplot-bmi-sensitivity, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-bmi-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-bmi-sensitivity-scap)'}
 knitr::include_graphics("data/MR/figures/circosplot_kettunen_sensitivity_analysis_BMI.pdf")
@@ -701,9 +710,9 @@ knitr::include_graphics("data/MR/figures/circosplot_interval_sensitivity_analysi
 
 \newpage
 
-(ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-cap) **Mendelian randomization sensitivity analysis: association between waist hip ratio and metabolites using Kettunen data et al. (2016)[@Kettunen2016]**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is weighted median, the inner track is weighted mode. Solid points indicate a multiple testing threshold (p-value < `r round(0.05/22,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_kettunen_sensitivity_analysis_WHR.pdf).
+(ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-cap) **Mendelian randomization sensitivity analysis: association between waist hip ratio and metabolites using Kettunen data**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is weighted median, the inner track is weighted mode. Solid points indicate a multiple testing threshold (p-value < `r round(0.05/22,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_kettunen_sensitivity_analysis_WHR.pdf).
 
-(ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-scap) Mendelian randomization sensitivity analysis: association between waist hip ratio and metabolites using Kettunen data et al. (2016)[@Kettunen2016]
+(ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-scap) Mendelian randomization sensitivity analysis: association between waist hip ratio and metabolites using Kettunen data
 
 ```{r appendix-MR-figure-kettunen-circosplot-whr-sensitivity, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-whr-sensitivity-scap)'}
 knitr::include_graphics("data/MR/figures/circosplot_kettunen_sensitivity_analysis_BMI.pdf")
@@ -721,9 +730,9 @@ knitr::include_graphics("data/MR/figures/circosplot_interval_sensitivity_analysi
 
 \newpage
 
-(ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-cap) **Mendelian randomization sensitivity analysis: association between body fat percentage and metabolites using Kettunen data et al. (2016)[@Kettunen2016]**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is weighted median, the inner track is weighted mode. Solid points indicate a multiple testing threshold (p-value < `r round(0.05/22,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_kettunen_sensitivity_analysis_BF.pdf).
+(ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-cap) **Mendelian randomization sensitivity analysis: association between body fat percentage and metabolites using Kettunen data**. Circos plot shows each track as one MR model; the outer track is inverse variance weighted multiplicative random effects (IVW-MRE), the second track is MR Egger, the third track is weighted median, the inner track is weighted mode. Solid points indicate a multiple testing threshold (p-value < `r round(0.05/22,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_kettunen_sensitivity_analysis_BF.pdf).
 
-(ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-scap) Mendelian randomization sensitivity analysis: association between body fat percentage and metabolites using Kettunen data et al. (2016)[@Kettunen2016]
+(ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-scap) Mendelian randomization sensitivity analysis: association between body fat percentage and metabolites using Kettunen data
 
 ```{r appendix-MR-figure-kettunen-circosplot-bf-sensitivity, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-bf-sensitivity-scap)'}
 knitr::include_graphics("data/MR/figures/circosplot_kettunen_sensitivity_analysis_BMI.pdf")
@@ -750,7 +759,7 @@ Although a number of SNPs showed disproportionately larger effect sizes, in leav
 
 \newpage
 
-(ref:appendix-MR-figure-kettunen-singlesnp-representative-figure-cap) **Representative figure: single-SNP Mendelian randomization analysis of the association between body mass index and glycerol using Kettunen data**. Forest plot shows the effect estimate and 95% confidence interval for each individual SNPs effect on glycerol. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure.
+(ref:appendix-MR-figure-kettunen-singlesnp-representative-figure-cap) **Representative figure: single-SNP Mendelian randomization analysis of the association between body mass index and glycerol using Kettunen data**. Forest plot shows the effect estimate and 95% confidence interval for each individual SNPs effect on glycerol. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure. On the X axis is each SNP used in the analysis; the X-axis labels are squashed in order to fit the plot on the page.
 
 (ref:appendix-MR-figure-kettunen-singlesnp-representative-figure-scap) Representative figure: single-SNP Mendelian randomization analysis of the association between body mass index and glycerol using Kettunen data
 
@@ -780,7 +789,7 @@ knitr::include_graphics("data/MR/figures/funnelplot_BF_representative_figure_ket
 
 \newpage
 
-(ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-cap) **Representative figure: leave-one-out Mendelian randomization analysis of the association between body fat percentage and acetoacetate using Kettunen data**. A leave-one-out analysis performs an Mendelian randomization analysis of an exposure and outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion with acetoacetate. Effect estimates represent an SD unit change in the metabolite per SD unit increase in the exposure.
+(ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-cap) **Representative figure: leave-one-out Mendelian randomization analysis of the association between body fat percentage and acetoacetate using Kettunen data**. A leave-one-out analysis performs an Mendelian randomization analysis of an exposure and outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion with acetoacetate. Effect estimates represent an SD unit change in the metabolite per SD unit increase in the exposure. 
 
 (ref:appendix-MR-figure-kettunen-leaveoneout-BF-representative-figure-scap) Representative figure: leave-one-out Mendelian randomization analysis of the association between body fat percentage and acetoacetate using Kettunen data
 
@@ -790,7 +799,7 @@ knitr::include_graphics("data/MR/figures/leaveoneout_BF_representative_figure_ke
 
 \newpage
 
-(ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-cap) **Representative figure: leave-one-out Mendelian randomization analysis of the association body mass index and acetate using Kettunen data**. A leave-one-out analysis performs an Mendelian randomization analysis of an exposure and outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion with acetoacetate. Effect estimates represent an SD unit change in the metabolite per SD unit increase in the exposure.
+(ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-cap) **Representative figure: leave-one-out Mendelian randomization analysis of the association body mass index and acetate using Kettunen data**. A leave-one-out analysis performs an Mendelian randomization analysis of an exposure and outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion with acetoacetate. Effect estimates represent an SD unit change in the metabolite per SD unit increase in the exposure. On the X axis is each SNP excluded from the analysis; the X-axis labels are squashed in order to fit the plot on the page.
 
 (ref:appendix-MR-figure-kettunen-leaveoneout-BMI-representative-figure-scap) Representative figure: leave-one-out Mendelian randomization analysis of the association body mass index and acetate using Kettunen data
 
@@ -809,9 +818,9 @@ Funnel plots did not highlight outlying SNPs, but did reflect some SNPs having l
 
 \newpage
 
-(ref:appendix-MR-figure-interval-singlesnp-representative-figure-cap) **Representative figure: single-SNP Mendelian rnadomisation analysis of the association between body mass index and glycine using INTERVAL data**. Forest plot shows the effect estimate and 95% confidence interval for each individual SNPs effect on glycerol. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure.
+(ref:appendix-MR-figure-interval-singlesnp-representative-figure-cap) **Representative figure: single-SNP Mendelian randomisation analysis of the association between body mass index and glycine using INTERVAL data**. Forest plot shows the effect estimate and 95% confidence interval for each individual SNPs effect on glycerol. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure. On the X axis is each SNP included in the analysis; the X-axis labels are squashed in order to fit the plot on the page.
 
-(ref:appendix-MR-figure-interval-singlesnp-representative-figure-scap) Representative figure: single-SNP Mendelian rnadomisation analysis of the association between body mass index and glycine using INTERVAL data
+(ref:appendix-MR-figure-interval-singlesnp-representative-figure-scap) Representative figure: single-SNP Mendelian randomisation analysis of the association between body mass index and glycine using INTERVAL data
 
 ```{r appendix-MR-figure-interval-singlesnp-representative-figure, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-singlesnp-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-interval-singlesnp-representative-figure-scap)'}
 knitr::include_graphics("data/MR/figures/singlesnp_representative_figure_interval.pdf")
@@ -829,6 +838,16 @@ knitr::include_graphics("data/MR/figures/funnelplot_BMI_representative_figure_in
 
 \newpage
 
+(ref:appendix-MR-figure-interval-funnelplot-BF-representative-figure-cap) **Representative figure: funnel plot of effect estimates of the association between body mass index and histidine using INTERVAL data**. Funnel plot shows the results of a single-SNP MR with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy.
+
+(ref:appendix-MR-figure-interval-funnelplot-BF-representative-figure-scap) Representative figure: Funnel plot of effect estimates of the association between body mass index and histidine using INTERVAL data
+
+```{r appendix-MR-figure-interval-funnelplot-BF-representative-figure, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-funnelplot-BF-representative-figure-cap)', fig.scap='(ref:appendix-MR-figure-interval-funnelplot-BF-representative-figure-scap)'}
+knitr::include_graphics("data/MR/figures/funnelplot_BF_representative_figure_interval.pdf")
+```
+
+\newpage
+
 (ref:appendix-MR-figure-interval-leaveoneout-BF-representative-figure-cap) **Representative figure: leave-one-out Mendelian randomization analysis of the association between body fat percentage and acetoacetate using INTERVAL data**. A leave-one-out analysis performs an Mendelian randomization analysis of an exposure and outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion with acetoacetate. Effect estimates represent an SD unit change in the metabolite per SD unit increase in the exposure.
 
 (ref:appendix-MR-figure-interval-leaveoneout-BF-representative-figure-scap) Representative figure: leave-one-out Mendelian randomization analysis of the association between body fat percentage and acetoacetate using INTERVAL data
@@ -839,7 +858,7 @@ knitr::include_graphics("data/MR/figures/leaveoneout_BF_representative_figure_in
 
 \newpage
 
-(ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-cap) **Representative figure: leave-one-out Mendelian randomization analysis of the association body mass index and acetate using INTERVAL data**. A leave-one-out analysis performs an Mendelian randomization analysis of an exposure and outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion with acetoacetate. Effect estimates represent an SD unit change in the metabolite per SD unit increase in the exposure.
+(ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-cap) **Representative figure: leave-one-out Mendelian randomization analysis of the association body mass index and acetate using INTERVAL data**. A leave-one-out analysis performs an Mendelian randomization analysis of an exposure and outcome for all SNPs excluding a different SNP each time. Forest plot shows the effect estimate and 95% confidence interval for each SNP exclusion with acetoacetate. Effect estimates represent an SD unit change in the metabolite per SD unit increase in the exposure. On the X axis is each SNP excluded from the analysis; the X-axis labels are squashed in order to fit the plot on the page.
 
 (ref:appendix-MR-figure-interval-leaveoneout-BMI-representative-figure-scap) Representative figure: leave-one-out Mendelian randomization analysis of the association body mass index and acetate using INTERVAL data
 
@@ -849,7 +868,7 @@ knitr::include_graphics("data/MR/figures/leaveoneout_BMI_representative_figure_i
 
 \newpage
 
-#### Post-hoc additional analyses
+#### Additional analyses
 ```{r eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 # packages ====
 library(tidyr)
@@ -883,13 +902,16 @@ data1 <- data1[,c(2:4)]
 bf_cor <- cor(data1, use = "complete.obs", method = "spearman")
 ```
 
-A number of additional SNP lists were used to instrument BMI, WHR, and BF due to potential limitations of instrument lists used in the main analysis. All analysis, including sensitivity and additional sensitvity analyses, were repeated for these additional SNP lists. 
+A number of additional SNP lists were used to instrument BMI, WHR, and BF due to potential limitations of instrument lists used in the main analysis. All analyses, including sensitivity analyses, were repeated for these additional SNP lists. \par
 
 Results from additional instruments for BMI showed broadly larger effect estimates but consistent directions of effect across metabolites. For the BMI SNPs obtained from a non-UK Biobank GWAS, effect estimates had much wider CIs (Figure \@ref(fig:appendix-MR-figure-kettunen-circosplot-bmi-additional) and \@ref(fig:appendix-MR-figure-interval-circosplot-bmi-additional)). Spearman's Rho correlataion of MR results was highest between the two SNP lists from Yengo et al. (2018) (`r round(bmi_cor[[2,3]],2)`) -- correlation between the Locke et al. (2015) SNP list and the COJO SNP list from Yengo et al (2018) (`r round(bmi_cor[[1,3]],2)`) and the non-COJO SNP list from Yengo et al. (2018) (`r round(bmi_cor[[1,2]],2)`) were also high. For WHR, the global pattern of association was similar between both the main and additional exposure (Figure \@ref(fig:appendix-MR-figure-kettunen-circosplot-whr-additional) and \@ref(fig:appendix-MR-figure-interval-circosplot-whr-additional)) with high correlation between MR results (`r round(whr_cor[[1,2]],2)`). Effect estimates were larger for the additional exposure from Shungin et al (2014), for which fewer results reached the multiple testing threshold with wider CIs which crossed the null more often than with the main analysis. \par
 
 For BF, there was considerable similarity between the main analysis and the additional analysis from Lu et al (2016) which did not include two SNPs previously identified as being associated with favourable adiposity (Figure \@ref(fig:appendix-MR-figure-kettunen-circosplot-bf-additional) and \@ref(fig:appendix-MR-figure-interval-circosplot-bmi-additional)). More metabolites reached the multiple testing threshold when using the 5 SNPs from Lu et al (2016) as opposed to the full 7 SNPs, this included associations with apolipoprotein A-1, phenylalanine, tyrosine, glucose, and cholesterol esters in very large HDL. For the additional analysis which used 76 SNPs from Hubel et al (2016), MR results were considerbaly smaller and appeared to show conflicting directions of effect with that of the Lu et al. (2016) SNPs (both using 7 and 5 SNPs). CIs were much tighter and two metabolites (phenylalanine and glycoprotein acetyls) reached the multiple testing threshold. Correlation coefficients between the two Lu et al (2016) SNP lists was high (`r round(bf_cor[[3,2]],2)`), however both the 5 (`r round(bf_cor[[1,3]],2)`) and 7 (`r round(bf_cor[[1,2]],2)`) SNP lists from Lu et al. (2016) showed weaker inverse correaltions with the SNP list from Hubel et al (2016). \par
 
-\newpage
+\blankpage{%
+\vspace*{\fill}
+{\centering Intentionally blank.\par}
+\vspace{\fill}}
 
 (ref:appendix-MR-figure-kettunen-circosplot-bmi-additional-cap) **Mendelian randomization additional analysis: association between body mass index and metabolites using Kettunen data**. Circos plot shows each track as different body mass index (BMI) instruments: the outer track is the main analysis using Yengo et al. (2018)[@Yengo2018] using 941 COJO SNPs; the middle track is Yengo et al. (2018)[@Yengo2018] using 656 non-COJO SNPs; the inner track is Locke et al. (2015)[@Locke2015] 77 SNPs. Solid points indicate a multiple testing threshold (p-value < `r round(0.05/22,4)`) has been reached. Effect estimates represent a standard deviation (SD) change in the outcome per SD unit increase in the exposure; 95% confidence intervals are shown and may be hidden by the point estimate if very tight. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_kettunen_additional_BMI.pdf).
 
@@ -916,7 +938,7 @@ knitr::include_graphics("data/MR/figures/circosplot_interval_additional_BMI.pdf"
 (ref:appendix-MR-figure-kettunen-circosplot-whr-additional-scap) Mendelian randomization additional analysis: association between body mass index and metabolites using Kettunen data
 
 ```{r appendix-MR-figure-kettunen-circosplot-whr-additional, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-whr-additional-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-whr-additional-scap)'}
-knitr::include_graphics("data/MR/figures/circosplot_kettunen_additional_BMI.pdf")
+knitr::include_graphics("data/MR/figures/circosplot_kettunen_additional_WHR.pdf")
 ```
 
 \newpage
@@ -926,7 +948,7 @@ knitr::include_graphics("data/MR/figures/circosplot_kettunen_additional_BMI.pdf"
 (ref:appendix-MR-figure-interval-circosplot-whr-additional-scap) Mendelian randomization additional analysis: association between waist hip ratio and metabolites using INTERVAL data
 
 ```{r appendix-MR-figure-interval-circosplot-whr-additional, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-circosplot-whr-additional-cap)', fig.scap='(ref:appendix-MR-figure-interval-circosplot-whr-additional-scap)'}
-knitr::include_graphics("data/MR/figures/circosplot_interval_additional_BMI.pdf")
+knitr::include_graphics("data/MR/figures/circosplot_interval_additional_WHR.pdf")
 ```
 
 \newpage
@@ -936,7 +958,7 @@ knitr::include_graphics("data/MR/figures/circosplot_interval_additional_BMI.pdf"
 (ref:appendix-MR-figure-kettunen-circosplot-bf-additional-scap) Mendelian randomization additional analysis: association between body fat percentage and metabolites using Kettunen data
 
 ```{r appendix-MR-figure-kettunen-circosplot-bf-additional, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-kettunen-circosplot-bf-additional-cap)', fig.scap='(ref:appendix-MR-figure-kettunen-circosplot-bf-additional-scap)'}
-knitr::include_graphics("data/MR/figures/circosplot_kettunen_additional_BMI.pdf")
+knitr::include_graphics("data/MR/figures/circosplot_kettunen_additional_BF.pdf")
 ```
 
 \newpage
@@ -946,7 +968,7 @@ knitr::include_graphics("data/MR/figures/circosplot_kettunen_additional_BMI.pdf"
 (ref:appendix-MR-figure-interval-circosplot-bf-additional-scap) Mendelian randomization additional analysis: association between body fat percentage and metabolites using INTERVAL data
 
 ```{r appendix-MR-figure-interval-circosplot-bf-additional, echo=FALSE, fig.align='center', out.width='100%', fig.cap='(ref:appendix-MR-figure-interval-circosplot-bf-additional-cap)', fig.scap='(ref:appendix-MR-figure-interval-circosplot-bf-additional-scap)'}
-knitr::include_graphics("data/MR/figures/circosplot_interval_additional_BMI.pdf")
+knitr::include_graphics("data/MR/figures/circosplot_interval_additional_BF.pdf")
 ```
 
 \newpage
@@ -983,7 +1005,7 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = T,
 knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_endometrial/figures/forestplot.pdf")
 ```
 
-(ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-cap) **Representative figure: funnel plot of effect estimates of the association between body mass index and endometrial cancer**. Funnel plot shows the results of a single-SNP Mendelian randomisation with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy. Effect estimates (log odds; x-axis) and standard error (y-axis) per SD unit higher body mass index (BMI) are shown. 
+(ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-cap) **Representative figure: funnel plot of effect estimates of the association between body mass index and endometrial cancer**. Funnel plot shows the results of a single-SNP Mendelian randomization with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy. Effect estimates (log odds; x-axis) and standard error (y-axis) per SD unit higher body mass index (BMI) are shown. 
 
 (ref:appendix-mediation-figure-representative-funnel-adiposity-endometrial-scap) Representative figure: funnel plot of effect estimates of the association between body mass index and endometrial cancer
 
@@ -1009,7 +1031,7 @@ knitr::include_graphics("../../007_metabolites_outcomes/analysis/001_adiposity_e
 
 #### Two-sample univariable Mendelian randomization: association between adiposity measures and metabolites
 
-(ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-cap) **Representative figure: funnel plot of effect estimates of the association between body mass index and acetate using UK Biobank data**. Funnel plot shows the results of a single-SNP Mendelian randomisation with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy. Effect estimates (log odds; x-axis) and standard error (y-axis) per SD unit higher body mass index (BMI) are shown. 
+(ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-cap) **Representative figure: funnel plot of effect estimates of the association between body mass index and acetate using UK Biobank data**. Funnel plot shows the results of a single-SNP Mendelian randomization with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy. Effect estimates (log odds; x-axis) and standard error (y-axis) per SD unit higher body mass index (BMI) are shown. 
 
 (ref:appendix-mediation-figure-representative-funnel-adiposity-metabolites-scap) Representative figure: Funnel plot of MR effect estimates from two-sample MR of adiposity on metabolites
 
@@ -1039,7 +1061,7 @@ knitr::include_graphics("../../007_metabolites_outcomes/analysis/002_adiposity_m
 \thispagestyle{empty}
 \vspace*{-3cm}
 
-(ref:appendix-mediation-figure-forestplot-metabolites-cancer-cap) **Two-sample univariable Mendelian randomization analysis: association between metabolites and endometrial cancer using UK Biobank data**. Forest plot shows odds ratio (OR) and 95% confidence interval for metabolites associated with body mass index, waist hip ratio, and/or body fat percentage with endometrial cancer, endometrioid cancer, and non-endometrioid cancer. Data are presented for all metabokites. The main analysis (inverse variance weighted multiplicative random effects (IVW-MRE)) is presented alongside sensitivity analyses (weighted median, weighted mode, MR-Egger). Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/mediation/figures/003_metabolite_endometrial/forestplot_all.pdf).
+(ref:appendix-mediation-figure-forestplot-metabolites-cancer-cap) **Two-sample univariable Mendelian randomization analysis: association between metabolites and endometrial cancer using UK Biobank data**. Forest plot shows odds ratio (OR) and 95% confidence interval for metabolites associated with body mass index, waist hip ratio, and/or body fat percentage with endometrial cancer, endometrioid cancer, and non-endometrioid cancer. Data are presented for all metabolites. The main analysis (inverse variance weighted multiplicative random effects (IVW-MRE)) is presented alongside sensitivity analyses (weighted median, weighted mode, MR-Egger). Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/mediation/figures/003_metabolite_endometrial/forestplot_all.pdf).
 
 (ref:appendix-mediation-figure-forestplot-metabolites-cancer-scap) Two-sample univariable Mendelian randomization analysis: association between metabolites and endometrial cancer using UK Biobank data
 
@@ -1048,7 +1070,7 @@ knitr::include_graphics("../../007_metabolites_outcomes/analysis/003_metabolite_
 ```
 
 
-(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-cap) **Representative figure: funnel plot of effect estimates of the association apolipoprotein B and endometrial cancer using UK Biobank data**. Funnel plot shows the results of a single-SNP Mendelian randomisation with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy. Effect estimates (log odds; x-axis) and standard error (y-axis) per SD unit higher body mass index (BMI) are shown. 
+(ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-cap) **Representative figure: funnel plot of effect estimates of the association apolipoprotein B and endometrial cancer using UK Biobank data**. Funnel plot shows the results of a single-SNP Mendelian randomization with effect estimate and standard error. Asymmetry in the funnel may indicate the presence of pleiotropy. Effect estimates (log odds; x-axis) and standard error (y-axis) per SD unit higher body mass index (BMI) are shown. 
 
 (ref:appendix-mediation-figure-representative-funnel-metabolites-endometrial-scap) Representative figure: funnel plot of effect estimates of the association apolipoprotein B and endometrial cancer using UK Biobank data
 
@@ -1084,6 +1106,8 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = F,
   kableExtra::footnote(general = "Results for univariable Mendelian randomization (MR) are using an inverse variance weighted multiplicative random effects (IVW-MRE) model; results for multivariable MR are using an IVW model. Effect estimates are given as the odds (OR) of endometrial cancer per SD unit increase in exposure. BMI = body mass index; SVLDLTG = triglycerides in small VLDL; XSVLDLTG = triglycerides in very small VLDL.", threeparttable = T, general_title = "", footnote_as_chunk = T)
 ```
 
+\newpage
+
 ```{r appendix-mediation-table-mvmr-whr, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 data <- read.table("../index/data/mediation/tables/mvmr_whr.txt", header = T, sep = "\t")
 data$p.value <- as.character(data$p.value)
@@ -1094,6 +1118,8 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = F,
   kable_styling(latex_options = c("striped", "HOLD_position"), position = "center", font_size = 10) %>%
   kableExtra::footnote(general = "Results for univariable Mendelian randomization (MR) are using an inverse variance weighted multiplicative random effects (IVW-MRE) model; results for multivariable MR are using an IVW model. Effect estimates are given as the odds (OR) of endometrial cancer per SD unit increase in exposure. WHR = waist hip ratio; SVLDLTG = triglycerides in small VLDL; XSVLDLTG = triglycerides in very small VLDL.", threeparttable = T, general_title = "", footnote_as_chunk = T)
 ```
+
+\newpage
 
 ```{r appendix-mediation-table-mvmr-bf, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
 data <- read.table("../index/data/mediation/tables/mvmr_bf.txt", header = T, sep = "\t")
@@ -1106,3 +1132,4 @@ knitr::kable(data, longtable = T, booktabs = T, format = "latex", escape = F,
   kableExtra::footnote(general = "Results for univariable Mendelian randomization (MR) are using an inverse variance weighted multiplicative random effects (IVW-MRE) model; results for multivariable MR are using an IVW model. Effect estimates are given as the odds (OR) of endometrial cancer per SD unit increase in exposure. BF = body fat percentage; SVLDLTG = triglycerides in small VLDL; XSVLDLTG = triglycerides in very small VLDL.", threeparttable = T, general_title = "", footnote_as_chunk = T)
 ```
 
+\newpage

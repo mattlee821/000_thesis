@@ -64,11 +64,11 @@ The plotting space is separated into tracks and sections. Tracks are laid down a
 
 Once the template, plotting space, tracks and sections are laid down, coordinates for each section and track location can be called to plot the data element. Each track and section coordinate, e.g., track 2 section 3, is treated as an individual plotting space. As such, data can be plotted based on the following coordinates: track, section, $X$, $Y$. The $X$ axis of each track is defined by the number of rows in the data frame, i.e., a data frame with 100 rows will have an $X$ axis of length 100, with each row given an $X$ axis coordinate from 1--100. The $Y$ axis is defined by the minimum and maximum of the data for that track, e.g., effect estimate or p-value. As such, each track and section coordinate, e.g., track 2 section 3, can be considered an individual plot with a $Y$ axis that is shared by all of the sections in that track. For each position on the $X$ axis, the label element of each row is plotted outside of the section header. \par
 
-(ref:epiviz-annotated-circos-plot-cap) **Circos plot highlighting the six elements used to plot data**. The Circos plot shows three tracks and 28 sections of data simulated to give an example of the effect of three exposures on over 100 outcomes. 
+(ref:epiviz-annotated-circos-plot-cap) **Circos plot highlighting the six elements used to plot data**. The Circos plot shows three tracks and 28 sections of data simulated to give an example of the effect of three exposures on over 100 outcomes. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/visualisation/figures/annotated_circos_plot.pdf).
 
 (ref:epiviz-annotated-circos-plot-scap) Circos plot highlighting the six elements used to plot data
 
-```{r epiviz-annotated-circos-plot, echo=FALSE, out.width='120%', fig.align='left', fig.cap='(ref:epiviz-annotated-circos-plot-cap)', fig.scap='(ref:epiviz-annotated-circos-plot-scap)'}
+```{r epiviz-annotated-circos-plot, echo=FALSE, out.width='100%', fig.align='center', fig.cap='(ref:epiviz-annotated-circos-plot-cap)', fig.scap='(ref:epiviz-annotated-circos-plot-scap)'}
 knitr::include_graphics("data/visualisation/figures/annotated_circos_plot.pdf")
 ```
 
@@ -131,11 +131,11 @@ circos_plot(track_number = 3,
             pvalue_label = "<= 0.05")
 ```
 
-(ref:epiviz-figure-example-circos1-cap) **Example Circos plot using `EpiViz` `R` package and example data**. Data presented are results from Mendelian randomization analyses of the association between body mass index and metabolites using data from Kettunen et al., (2016)[@Kettunen2016] using male (blue), female (yellow), and sex-combined (brown) instruments from Locke et al., (2015[@Locke2015].
+(ref:epiviz-figure-example-circos1-cap) **Example Circos plot using `EpiViz` `R` package and example data**. Data presented are results from Mendelian randomization analyses of the association between body mass index and metabolites using data from Kettunen et al., (2016)[@Kettunen2016] using male (blue), female (yellow), and sex-combined (brown) instruments from Locke et al., (2015[@Locke2015]. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/visualisation/figures/r_package_3_track_type_plot.pdf).
 
 (ref:epiviz-figure-example-circos1-scap) Example Circos plot using `EpiViz` `R` package and example data
 
-```{r epiviz-figure-example-circos1, echo=FALSE, out.width='120%', fig.align = 'center', fig.cap='(ref:epiviz-figure-example-circos1-cap)', fig.scap='(ref:epiviz-figure-example-circos1-scap)'}
+```{r epiviz-figure-example-circos1, echo=FALSE, out.width='100%', fig.align = 'center', fig.cap='(ref:epiviz-figure-example-circos1-cap)', fig.scap='(ref:epiviz-figure-example-circos1-scap)'}
 knitr::include_graphics("data/visualisation/figures/r_package_3_track_type_plot.pdf")
 ```
 

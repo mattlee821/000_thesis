@@ -83,13 +83,6 @@ The following section details a number of GWAS and meta-analyses of previously p
 
 <!--
 Ancestries (as opposed to ancestry) is used throughout as multiple ancestries are encompassed within the 'European ancestry' classification (see: [https://twitter.com/ewanbirney/status/1148574135284633600?s=20](https://twitter.com/ewanbirney/status/1148574135284633600?s=20)). 
-
-resource name
-sample size
-measurement of phenotype
-adjustment
-GWAS
-data used in this chapter
 -->
 
 #### Exposures: measures of adiposity {#MR-exposures-adiposity}
@@ -131,7 +124,7 @@ For each of the 14 cohorts contributing to the 14 GWAS, 123 shared metabolites w
 For the meta-analysis, SNPs with accurate imputation (info > 0.4) and minor allele count > 0.3 were combined using double genomic control correction, that is, both individual cohort results and meta-analysis results were corrected for the genomic inflation factor as implemented in `GWAMA`. Up to 12,133,295 SNPs were included in the meta-analysis. Variants present in more than seven studies after filtering and meta-analysis were considered for the final results. All traits gave genomic inflation factors in the meta-analysis < 1.034 showing little evidence of systematic bias in the test statistic. A genome-wide significance threshold (p-value < 2.27 x 10^-9^) after correcting for 22 independent tests (22 being the number of principal components explaining over 95% of variation in the metabolite data) was used. These filtered summary statistics were used in MR analyses in this Chapter to extract adiposity-related genetic variants. \par
 
 <!--
-A total of 62 SNPs reached a genome wide significance threshold (p-value < 2.27 x 10^-9^) after correcting for 22 independent tests (22 being the number of principal components explaining over 95% of variation in the metabolite data). After performing conditional analysis, a further 12 SNPs were identified as independent after reaching the genome-wide significance threshold. The 12 additional SNPs were identified in 9 of the 62 main loci (*PCSK9*, *LPL*, *PPM1K*, *HAL*, *CETP*, *CILP*, *PLTP*, *APOB* and *LIPC*), with a third independent SNP identified in two of these loci (*APOB* and *LIPC*) and a fourth independent SNP identified in one of these (*LIPC*). Overall, 74 independent SNPs were associated with one or more of the 123 metabolites, with the variance explained ranging from 0.2% for acetoacetate to 12.5% for glycine, with a median of 5%. \par
+A total of 62 SNPs reached a genome-wide significance threshold (p-value < 2.27 x 10^-9^) after correcting for 22 independent tests (22 being the number of principal components explaining over 95% of variation in the metabolite data). After performing conditional analysis, a further 12 SNPs were identified as independent after reaching the genome-wide significance threshold. The 12 additional SNPs were identified in 9 of the 62 main loci (*PCSK9*, *LPL*, *PPM1K*, *HAL*, *CETP*, *CILP*, *PLTP*, *APOB* and *LIPC*), with a third independent SNP identified in two of these loci (*APOB* and *LIPC*) and a fourth independent SNP identified in one of these (*LIPC*). Overall, 74 independent SNPs were associated with one or more of the 123 metabolites, with the variance explained ranging from 0.2% for acetoacetate to 12.5% for glycine, with a median of 5%. \par
 -->
 
 ##### INTERVAL
@@ -178,7 +171,7 @@ Fisher's method \@ref(eq:fishers-method) combines p-values from each test into o
   (\#eq:fishers-method)
 \end{equation}
 
-A large chi-squared statistic compared to the degrees of freedom (with a corresponding low p-value) provides evidence of an effect in at least one study. The null hypothesis for each MR analysis is that there is no effect of adiposity on metabolites. The meta-analysis null hypothesis is that each tests null hypothesis is true. That is, the null hypothesis when using the Kettunen dataset (one test) and the null hypothesis when using the INTERVAL dataset (one test) are both true. The alternative hypothesis is that at least one of these tests null hypotheses is true. As such, acceptance of the null hypothesis (that there is weak evidence for an association between adiposity and metabolites in the meta-analysis) should not be interpreted as evidence of no effect in all studies. Given only two studies are included in any one exposure-outcome pair in the current work, the potential effects of heterogeneity are difficult to interpret and are therefore not focused on here. Meta-analysis results are presented as directions of effect and p-values. A Bonferroni corrected p-value threshold accounting for the total number of independent metabolites able to be meta-analysed (p < 0.00045; 0.05/110) was used to identify evidence of an association. \par
+A large chi-squared statistic compared to the degrees of freedom (with a corresponding low p-value) provides evidence of an effect in at least one study. The null hypothesis for each MR analysis is that there is no effect of adiposity on metabolites. The meta-analysis null hypothesis is that each tests null hypothesis is true. That is, the null hypothesis when using the Kettunen dataset (one test) and the null hypothesis when using the INTERVAL dataset (one test) are both true. The alternative hypothesis is that at least one of these tests null hypotheses is true. As such, acceptance of the null hypothesis (that there is weak evidence for an association between adiposity and metabolites in the meta-analysis) should not be interpreted as evidence of no effect in all studies. Given only two studies are included in any one exposure-outcome pair in the current work, the potential effects of heterogeneity are difficult to interpret and are therefore not focussed on here. Meta-analysis results are presented as directions of effect and p-values. A Bonferroni corrected p-value threshold accounting for the total number of independent metabolites able to be meta-analysed (p < 0.00045; 0.05/110) was used to identify evidence of an association. \par
 
 
 <!--
@@ -231,7 +224,6 @@ interval <- data[order(data$b),]
 Effect estimates from the IVW-MRE model showed evidence for a broad effect of adiposity on the metabolic profile (Figure \@ref(fig:MR-figure-circosplot-kettunen-main-analysis) and \@ref(fig:MR-figure-circosplot-interval-main-analysis)). The pattern of association was visually similar when using the Kettunen data for BMI and WHR, and when using the INTERVAL data for BMI and WHR. When using the Kettunen data, the effect of BF on metabolites was visually distinct to the effect of BMI and WHR, with many effect estimates appearing to be inverse to those for BMI and WHR. However, when using the INTERVAL data, the effect of BF looked more similar in regards to the direction of effect to that of BMI and WHR. However, these effects appeared to cross the null much more often. Effects for WHR were generally larger with wider CIs, whereas those for BMI were smaller with tighter CIs. Effects for BF were much larger across both metabolite datasets, with wide CIs which spanned the null. A table of results for analyses using [Kettunen](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/results/mr_results_kettunen.txt) and [INTERVAL](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/results/mr_results_interval.txt) data are available on GitHub. \par
 
 \newpage
-\thispagestyle{empty}
 
 (ref:MR-figure-circosplot-kettunen-main-analysis-cap) **Mendelian randomization analysis: association between adiposity measures and metabolites using Kettunen data**. Circos plot shows each track as one measures of adiposity; the outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold (`r round(0.05/22,4)`) has been reached. Effect estimates are given in SD units per SD higher BMI, WHR, or BF. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_kettunen_main_analysis.pdf).
 
@@ -242,7 +234,6 @@ knitr::include_graphics("data/MR/figures/circosplot_kettunen_main_analysis.pdf")
 ```
 
 \newpage
-\thispagestyle{empty}
 
 (ref:MR-figure-circosplot-interval-main-analysis-cap) **Mendelian randomization analysis: association between adiposity measures and metabolites using INTERVAL data**. Circos plot shows each track as one measures of adiposity; the outer track is body mass index (BMI), the middle track is waist hip ratio (WHR), the inner track is body fat percentage (BF). Solid points indicate a multiple testing threshold (`r round(0.05/28,4)`) has been reached. Effect estimates are given in log SD units per SD higher BMI, WHR, or BF. 95% confidence intervals shown. Metabolites are grouped by subclass and arranged alphabetically within each subclass. Available on [GitHub](https://github.com/mattlee821/000_thesis/blob/master/index/data/MR/figures/circosplot_interval_main_analysis.pdf).
 
@@ -832,6 +823,8 @@ interval_shared_list <- as.character(data5$name)
 The effects of heterogeneity in each exposures instruments were investigated using Cochran's Q statistic for IVW-MRE and MR-Egger models. Heterogeneity between the genetic instruments for each exposure was greater than the degrees of freedom for a majority of metabolites for all three exposures across both the Kettunen and INTERVAL datasets (Table \@ref(tab:MR-table-heterogeneity-N)). That is, if BMI has 941 SNPs, then the degrees
 of freedom is 940, and if Cochrans Q for the effect of BMI on metabolite 1 is 1000, then there is evidence of heterogeneity in the genetic instruments in relation to that test. When using the Kettunen data, for BMI and WHR, all IVW and MR-Egger tests with Q greater than the degrees of freedom overlapped. That is, for each exposure-metabolite pair, Q was greater than the degrees of freedom for the same exposure-metabolite pair in the IVW and MR-Egger tests. For BF, all but 5 exposure-outcome pairs across the IVW and MR-Egger tests exhibited Q greater than the degrees of freedom. When using the INTERVAL data, all IVW and MR-Egger tests with Q greater than the degrees of freedom overlapped for the effect of WHR on metabolites, while 1 and 7 tests did not overlap for BMI and BF respectively. \par 
 
+\newpage
+
 ```{r MR-table-heterogeneity-N, echo=FALSE}
 # kettunen ====
 ## heterogenity ====
@@ -998,7 +991,7 @@ A total of `r length(kettunen_shared_list)` tests were directionally consistent 
 
 (ref:MR-figure-forestplot-kettunen-sensitivity-directional-consistency-scap) Directionally consistent effects across all two-sample Mendelian randomization models using the Kettunen data
 
-```{r MR-figure-forestplot-kettunen-sensitivity-directional-consistency, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='98%', fig.cap='(ref:MR-figure-forestplot-kettunen-sensitivity-directional-consistency-cap)', fig.scap='(ref:MR-figure-forestplot-kettunen-sensitivity-directional-consistency-scap)'}
+```{r MR-figure-forestplot-kettunen-sensitivity-directional-consistency, eval=TRUE, include=TRUE, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, out.width='90%', fig.cap='(ref:MR-figure-forestplot-kettunen-sensitivity-directional-consistency-cap)', fig.scap='(ref:MR-figure-forestplot-kettunen-sensitivity-directional-consistency-scap)'}
 knitr::include_graphics("data/MR/figures/forestplot_kettunen_sensitivity_directional_consistency_combined.pdf")
 ```
 
@@ -1438,7 +1431,7 @@ Across the 45, 48 and 9 metabolites associated with BMI, WHR and BF, respectivel
 
 (ref:MR-figure-associated-metabolites-comparison-scap) Metabolites associated with measures of adiposity in observational and Mendelian randomization meta-analysis
 
-```{r MR-figure-associated-metabolites-comparison, echo=FALSE, out.width='100%', fig.align='center', fig.cap='(ref:MR-figure-associated-metabolites-comparison-cap)', fig.scap='(ref:MR-figure-associated-metabolites-comparison-scap)'}
+```{r MR-figure-associated-metabolites-comparison, echo=FALSE, out.width='95%', fig.align='center', fig.cap='(ref:MR-figure-associated-metabolites-comparison-cap)', fig.scap='(ref:MR-figure-associated-metabolites-comparison-scap)'}
 knitr::include_graphics("data/MR/figures/associated_metabolites_comparison.pdf")
 ```
 

@@ -146,13 +146,9 @@
 \renewcommand{\cleardoublepage}{\RTcleardoublepage}
 
 %%% Margins
-\oddsidemargin 0truemm
-\evensidemargin 15truemm
-\topmargin 0truemm
-\headsep 0truemm % changed this from 10truemm to make less white space at top of page
-\textwidth 420pt % added this to make right-hand-margin smaller
-\textheight 600pt % added this to make less white space at bottom of page
-\footskip 30pt % change to alter distance between main text and page number
+\usepackage[margin=1in]{geometry} % 1 inch margin across all sides
+% \oddsidemargin 0truemm % add for printing 
+% \evensidemargin 15truemm % add for printing 
 %%
 
 %% Defined terms

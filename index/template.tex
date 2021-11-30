@@ -57,8 +57,8 @@
 \newcommand{\elandscape}{\end{landscape}}
 
 % toc spacing
-\setlength\cftparskip{0pt} % increase or decrease this number to change spacing in toc
-%\setlength\cftbeforechapskip{0pt} - im not sure what this does
+\setlength\cftparskip{1pt} % increase or decrease this number to change spacing between section levels in ToC
+\setlength\cftbeforechapskip{3pt} % increase or decrease this number to change spacing between chapter levels in ToC
 
 % Font
 \renewcommand*\familydefault{\sfdefault} 
@@ -182,7 +182,7 @@ $if(csl-refs)$
 $endif$
 
 %%% Main document
-\spacing{1}
+\spacing{1.5}
 \begin{document}
 $if(title)$
   \maketitle

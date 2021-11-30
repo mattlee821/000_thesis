@@ -13,7 +13,6 @@ bibliography: bib/thesis.bib
 csl: csl/nature.csl
 knit: "bookdown::render_book"
 site: "bookdown::bookdown_site"
-toc-depth: 1
 lot: true
 lof: true
 space_betwee_paragraphs: true
@@ -29,8 +28,8 @@ header-includes: # include other LaTeX packages here
 output: 
     thesisdown::thesis_pdf: 
       toc: true
-      toc-depth: 1
-      latex_enging: pdflatex
+      toc-depth: 2
+      latex_engine: pdflatex
 abstract: |
   `r if(knitr:::is_latex_output()) paste(readLines("00-abstract.Rmd"), collapse = '\n  ')`
 covid: |

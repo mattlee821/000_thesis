@@ -246,7 +246,7 @@ colnames(b) <- c("Subclass", "Min", "Max", "Mean", "Median")
 write.table(b, "index/data/observational/tables/effect_size_summary_children.txt", 
             row.names = FALSE, col.names = TRUE, quote = FALSE, sep = "\t")
 
-b <- subset(a, group == "b")
+b <- subset(a, group == "adolescents")
 b <- b %>%
   group_by(subclass) %>%
   summarise(min = signif(min(b),3),

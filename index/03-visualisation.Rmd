@@ -45,6 +45,8 @@ text-align: justify}
 ## Chapter summary {-}
 The exploration, interpretation, display, and communication of analyses which use a large number of traits is challenging. Previous studies have used Circos plots, whereby data are presented in a circular layout, to visualise and provide overview of large association analyses. However, the process of producing Circos plots is cumbersome and, through personal experience[@Taylor2019], has been time consuming and inefficient. This Chapter details `EpiViz`, a web application and `R` package that efficiently produces Circos plots to summarise and aid interpretation of association analyses. `EpiViz` is used in following chapters to gain a global overview and identify patterns of association in observational and Mendelian randomization (MR) analyses. `EpiViz` considerably improves the speed and efficiency of producing Circos plots and has been used in multiple studies[@Bos2021; @Bell2020; @Taylor2019] since its development. `EpiViz` is available on [GitHub](https://github.com/mattlee821/EpiViz/).\par
 
+Work in this chapter was performed in collaboration with Osama Mahmoud who helped with initial code development and Luke McGuinness who helped with aspects of the `Shiny` application. I performed all other work. \par
+
 \newpage
 
 ## Introduction

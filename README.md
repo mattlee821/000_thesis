@@ -6,7 +6,7 @@
 **[What lies behind the causal impact of body mass index level and
 change on human health? Added value from complementary study design and
 deep metabolomic
-phenotyping](https://github.com/mattlee821/000_thesis/blob/master/index/_book/thesis.pdf)**
+phenotyping](https://github.com/mattlee821/000_thesis/blob/master/index/_book/PGR_submission_LEE_MATTHEW_1745911.pdf)**
 
 Supervisors: [Nicholas
 Timpson](https://www.bristol.ac.uk/people/person/Nicholas-Timpson-cb33193a-0edb-46a8-a06f-7532cf9ee874/),
@@ -47,9 +47,10 @@ follows:
     -   `figures/` - all figures used in chapter
     -   `tables/` - tables presented in or referenced in the thesis
 
-The most up to date version of the thesis can be found in
-[`index/_book`](https://github.com/mattlee821/000_thesis/blob/master/index/_book/thesis.pdf).
-The thesis is split into the following chapters:
+The final version of the thesis can be found in
+[`index/_book`](https://github.com/mattlee821/000_thesis/blob/master/index/_book/).
+GitHub does not always render large PDFs so you will probably need to
+download to read. The thesis is split into the following chapters:
 
 -   [Chapter
     1](https://github.com/mattlee821/000_thesis/blob/master/index/01-introduction.Rmd) -
@@ -109,44 +110,47 @@ The thesis is split into the following chapters:
 
 ### Abstract
 
-Increased adipose tissue, adiposity, is associated with many diseases
-and overall mortality. This thesis aimed to identify whether metabolites
-are intermediates in these associations using a variety of resources and
-methods to strengthen causal inference. <br>
+Excess adipose tissue, adiposity, is associated with many diseases and
+overall mortality. This thesis aimed to investigate whether metabolites
+play an intermediary role in these associations using a variety of
+resources and methods to strengthen causal inference. <br>
 
-In a comprehensive systematic review and meta-analysis (Chapter
-@ref(systematic-review)), the causal effects of adiposity were observed
-across a broad spectrum of diseases, including endometrial cancer which
-was selected for subsequent analysis. These results were supported by a
-narrative synthesis of over 2,000 MR analyses, which also highlighted
-evidence of an association between adiposity and many, predominantly
-lipid, metabolites. <br>
+In a comprehensive systematic review and meta-analysis (Chapter 2), the
+causal effects of adiposity were observed across a broad spectrum of
+diseases, including endometrial cancer, which was selected for
+subsequent analysis. These results were supported by a narrative
+synthesis of over 2,000 Mendelian randomization (MR) analyses, which
+also highlighted evidence of an association between adiposity and many,
+predominantly lipid-based, metabolites. <br>
 
 Within the Avon Longitudinal Study of Parents and Children (ALSPAC),
-evidence for a consistent effect of body mass index (BMI), waist hip
-ratio (WHR), and body fat percentage (BF) on up-to 230, predominantly
-lipid, metabolites was found (Chapter @ref(observational)). In these
-linear models, the effect of adiposity persisted after adjustment for
-covariates and across multiple time points (\~9, \~18, \~24, \~50 years
-old). <br>
+evidence for a consistent association between body mass index (BMI),
+waist hip ratio (WHR), and body fat percentage (BF) with up-to 230,
+predominantly lipid-based, metabolites and ratios was found (Chapter 4).
+In these linear models, the effect of adiposity persisted after
+adjustment for covariables and across the lifecourse. <br>
 
-In two independent datasets, Mendelian randomization (MR), which can
-overcome limitations in observational analyses, provided further
-evidence for an effect of BMI and WHR on up-to 230, predominantly lipid,
-metabolites (Chapter @ref(MR)). These effects were consistent in
-sensitivity analyses. The effect of BF on metabolites was, unlike in
-observational analyses, broadly opposite to the effects of BMI and WHR.
-<br>
+In two independent datasets, MR, a method that mitigates limitations in
+observational analyses, provided further evidence for an association
+between BMI and WHR with up-to 230, predominantly lipid-based,
+metabolites and ratios (Chapter 5). These effects were consistent in
+sensitivity analyses. The effect of BF on metabolites was frequently
+opposite to the effects observed for BMI and WHR, and BF in
+observational analyses. <br>
 
-Evidence from observational and MR analyses identified 56
-adiposity-associated metabolites. Two of these (triglycerides in small
-and very small VLDL) were associated with endometrial cancer in MR
-analysis and selected for intermediate analysis (Chapter
-@ref(mediation)). When comparing multivariable and univariable MR
-estimates, there was evidence for a potential intermediary role of both
-metabolites on the effect of WHR and BF, but not BMI, on
-non-endometrioid cancer. Weak instruments may have biased these results
-however. <br>
+Evidence from observational and MR analyses identified 54 metabolites
+that were consistently associated with adiposity. Two of these
+(triglycerides in small and very small very large low density
+lipoprotein) were associated with endometrial cancer in MR analysis and,
+using multivariable MR, there was evidence for a potential intermediary
+role of both metabolites on the effect of WHR and BF, but not BMI, on
+non-endometrioid cancer, but not endometrioid cancer (Chapter 6). Weak
+instruments may have biased these results however. <br>
+
+This work highlights the broad effect of adiposity on the metabolome,
+identifies two metabolites that may be involved in the association
+between adiposity and endometrial cancer, and provides a basis for
+future investigations of the intermediary role of metabolites. <br>
 
 ### How
 
@@ -164,5 +168,13 @@ file is used to compile the individual `.Rmd` files alongside
 [`index.Rmd`](https://github.com/mattlee821/000_thesis/blob/master/index/index.Rmd).
 
 ### Change log
+
+I made corrections after my Viva in Januray 2022. All corrections are
+logged in the commit
+[3f89f4d82f3f47663d1fe4d93cd2f658db866a34](https://github.com/mattlee821/000_thesis/commit/3f89f4d82f3f47663d1fe4d93cd2f658db866a34)
+and as a response in
+[examiner_corrections.docx](https://github.com/mattlee821/000_thesis/blob/master/examiner_corrections.docx).
+A final release was created after approval of these corrections (3 days
+after the commit).
 
 </div>
